@@ -1,0 +1,198 @@
+{
+  "volume": 1,
+  "number": 1,
+  "city": "New York",
+  "date": "Thursday, August 20, 2026",
+  "editionLabel": "Late Edition",
+  "tape": {
+    "source": "Gate",
+    "updated": "Aug 19",
+    "line": "S&P 7,691.76 (from 7,798.99 Aug 13 record) · 10-year 4.748% · 30-year 5.33% (highest since 2007) · SOX −5% · SanDisk −9% · Micron −7% · NVDA −2.3%"
+  },
+  "deskNote": {
+    "kicker": "Markets",
+    "hed": "The rate reset, and the other trade",
+    "signed": "The Markets desk",
+    "body": "Public AI is getting a rate reset. After the S&P's Aug 13 record at 7,798.99, it was 7,691.76 by Aug 18 as the 10-year hit 4.748% and the 30-year cleared 5.33% (highest since 2007). Private markets are doing the opposite trade: $500B of GPU-as-infra capacity, plus a recap of the CFO stack."
+  },
+  "comingUp": {
+    "label": "Coming up",
+    "line": "GPCA / AVCA / LAVCA virtual — Thursday, August 27, 9:00 a.m. ET. Artificial Intelligence in Practice: lessons for private capital from the front line.",
+    "href": "https://www.globalprivatecapital.org/events/artificial-intelligence-in-practice-lessons-for-private-capital-firms-from-the-frontline/"
+  },
+  "sections": ["All", "AI", "Markets", "PE", "Finance", "CFO"],
+  "stories": [
+    {
+      "id": "rillet",
+      "lead": true,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Rillet Raises $100M Series C at $1B to Build Accounting Superintelligence",
+      "dek": "ICONIQ leads the third raise in about a year as the AI-native ERP pitches a replacement for Oracle, SAP, Workday and NetSuite.",
+      "date": "Aug. 19, 2026",
+      "source": "VentureBeat / Business Wire",
+      "url": "https://venturebeat.com/business/rillet-raises-100m-series-c-at-1b-valuation-to-build-accounting-superintelligence",
+      "also": [
+        {
+          "label": "Fortune exclusive (paywalled)",
+          "url": "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Map which PE portcos / growth-stage CFOs are in an ERP bake-off (NetSuite/Workday vs AI-native) and treat Rillet + EY as an active displacement motion, not a feature story.",
+      "grafs": [
+        "Rillet, the AI-native enterprise resource planning company, has raised $100 million in a Series C led by ICONIQ at a $1 billion valuation, with Sequoia and Andreessen Horowitz participating. The round is the firm’s third in about 12 months.",
+        "The company now lists more than 600 customers and says it doubled new annual recurring revenue in the last three months. It is pitching a replacement of Oracle Fusion, SAP, Workday, Microsoft Dynamics GP and NetSuite. Named customers include Mercor — said to run past $2 billion in ARR with a three-person finance team — Function Health and Temporal.",
+        "An alliance with EY is live in 2026. Fortune published an exclusive, now paywalled, on the unicorn round and chief executive Nicolas Kopp."
+      ]
+    },
+    {
+      "id": "stripe",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Stripe agrees to acquire OpenRouter",
+      "dek": "Tokens as the central currency: the payments firm wants both sides of the ledger — revenue and token cost.",
+      "date": "Aug. 19, 2026",
+      "source": "Stripe Newsroom",
+      "url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter",
+      "also": [
+        {
+          "label": "Payments Dive",
+          "url": "https://www.paymentsdive.com/news/stripe-openrouter-finally-strike-a-deal/828326/"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Treat as a CFO / FinOps buying signal: who owns AI inference spend, who is on OpenRouter vs building a router.",
+      "grafs": [
+        "Stripe has agreed to acquire OpenRouter, a gateway that routes inference across more than 400 models from more than 80 providers. The payments company said tokens are the central currency for firms building with AI, and that it wants both sides of the ledger: revenue and token cost.",
+        "OpenRouter is already used by NVIDIA, Zoom and Lovable. Together, Stripe said, the two would help businesses maximize revenue while routing requests to the right model at the right price.",
+        "The New York Times, via Payments Dive, put the price at $7.5 billion, including $1.5 billion to the founders. Stripe declined to confirm. The figure remains unconfirmed and is behind a paywall."
+      ]
+    },
+    {
+      "id": "snowflake",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Snowflake Cortex adds dynamic model routing",
+      "dek": "The gateway auto-picks the cheapest approved model, inside audit and residency controls already on the warehouse.",
+      "date": "Aug. 18, 2026",
+      "source": "Snowflake",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/dynamic-model-routing-open-models-cortex-ai",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Compare routing + audit / residency vs OpenRouter / Stripe.",
+      "grafs": [
+        "Snowflake is adding dynamic model routing to Cortex AI Gateway, a capability the company said will enter private preview soon. The gateway auto-picks the cheapest approved model for a given task, and only from the set an administrator has already allowed.",
+        "In internal tests, routing delivered up to three times the token efficiency on a dbt pipeline versus a frontier-model-only approach, and about 25 percent fewer tokens on pull-request work, Snowflake said.",
+        "Each routing decision is logged and stays inside existing data-residency settings. The comparison for finance desks is routing plus audit and residency versus a public gateway such as OpenRouter, now heading into Stripe."
+      ]
+    },
+    {
+      "id": "workday",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Workday stands up an AI Research team",
+      "dek": "Same day as the Rillet raise. The brief is audit trail and forgetting, not chat UX.",
+      "date": "Aug. 19, 2026",
+      "source": "Workday Newsroom",
+      "url": "https://newsroom.workday.com/2026-08-19-Workday-Introduces-AI-Research-Team-Dedicated-to-Advancing-Reliable,-Trustworthy,-and-Efficient-Enterprise-AI",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Pair with Rillet: audit trail and forgetting, not chat UX.",
+      "grafs": [
+        "Workday introduced an AI Research team on the same day as the Rillet raise, dedicated to reliable, trustworthy and efficient enterprise AI. The work is aimed at what an agent keeps, what it can explain, and whether a delete is in fact a delete.",
+        "A selective agent-memory method delivered 12 percent higher precision and about 8 percent better memory quality, while retaining 97 percent of useful memories and running about 31 percent faster, the company said. Splitting work across specialized agents improved accuracy by 5.8 percent.",
+        "When researchers asked an agent to forget, a recoverable copy remained about one in five times. Fully erasing required deleting every summary that mentioned the item. Workday is also funding a $50,000-a-year PhD fellowship."
+      ]
+    },
+    {
+      "id": "peers",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity",
+      "hed": "What Makes a Peer? Valuation-Anchored Similarity in Private Markets",
+      "dek": "BlackRock trains CatBoost on ~53,000 post-money valuations. Similarity is leaf co-occurrence, not SIC or embeddings.",
+      "date": "Aug. 12, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.12594v1",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Read method and k-NN tables; implementable comps infra.",
+      "grafs": [
+        "BlackRock researchers have posted a method for finding private-market peers that starts from valuation, not industry codes. The paper, dated Aug. 12, trains CatBoost on about 53,000 post-money valuations in a universe of about 270,000 private companies.",
+        "Similarity is defined as importance-weighted leaf co-occurrence across the ensemble — firms that land in the same trees, weighted by how much those trees matter — rather than SIC or NAICS codes or text embeddings. The metric beat Euclidean, Gower and embedding distances on k-nearest-neighbor valuation tasks in the groups tested.",
+        "SHAP attributions show deal type and country dominate the valuation drivers, and therefore the peer map. The k-NN tables are the implementable comps infrastructure."
+      ]
+    },
+    {
+      "id": "vibe",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Vibe-Trading v0.1.14",
+      "dek": "272 commits since 0.1.13. The valuation engine now refuses missing DCF inputs; the test suite had been writing into the live audit ledger.",
+      "date": "Aug. 19, 2026, 8:02 p.m. ET",
+      "source": "GitHub",
+      "url": "https://github.com/HKUDS/Vibe-Trading/releases/tag/v0.1.14",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Inspect quantlib PE metrics and the audit-ledger leak fix.",
+      "grafs": [
+        "Vibe-Trading v0.1.14 landed at 8:02 p.m. Eastern on Aug. 19, rolling up 272 commits and 74 pull requests since 0.1.13. The open-source research stack now ships Run Detail tabs and an Options Lab.",
+        "The valuation engine refuses missing DCF inputs rather than emitting a silent number. A private-equity cash-flow spine adds XIRR, MOIC, DPI and TVPI. The MCP surface has grown to 74 tools.",
+        "A test-suite leak had been writing synthetic records into the live, hash-chained audit ledger at ~/.vibe-trading/live/audit.jsonl. The release sandboxes the config root before collection."
+      ]
+    },
+    {
+      "id": "nvidia",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity",
+      "hed": "Nvidia and the $500B compute capital",
+      "dek": "Apollo, BlackRock, Blackstone, Brookfield, Goldman and KKR. Capacity, not cash in the door. Still live this week.",
+      "date": "Aug. 10, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/",
+      "also": [
+        {
+          "label": "The National",
+          "url": "https://www.thenationalnews.com/business/banking/2026/08/14/ai-infrastructure-rises-from-niche-to-global-asset-class-with-500bn-nvidia-deal/"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Track which platform is first to a real customer facility (term sheet, not MOU).",
+      "grafs": [
+        "Nvidia has lined up more than $500 billion of compute capital with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR, in a structure announced Aug. 10 and still live this week. The figure is capacity, not cash in the door.",
+        "The memorandums of understanding treat Nvidia compute as an investable asset class — infrastructure that can be underwritten, not a vendor-financing footnote.",
+        "Chief executive Jensen Huang said Nvidia may backstop up to 25 percent of an opportunity, or about $125 billion. The live question is which platform is first to a real customer facility — a term sheet, not an MOU."
+      ]
+    },
+    {
+      "id": "premium",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "AI Premium",
+      "dek": "380 trillion tokens, 400+ models. High-AI-beta stocks outperformed low by 64.1 bp a week. The meter is OpenRouter.",
+      "date": "July 2026 / Aug. 11, 2026",
+      "source": "arXiv / NBER",
+      "url": "https://arxiv.org/html/2606.30583v1",
+      "also": [
+        {
+          "label": "NBER w35451",
+          "url": "https://www.nber.org/papers/w35451"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Frame Stripe–OpenRouter as buying the meter the academy used to price AI risk.",
+      "grafs": [
+        "A National Bureau of Economic Research paper, posted in HTML on arXiv on Aug. 11, prices AI the way a desk prices any other factor. Using 380 trillion tokens across more than 400 models from January 2024 through April 2026, the authors construct an AI factor from growth in tokens, dollars and users.",
+        "Stocks with high AI betas outperformed low-beta names by 64.1 basis points a week on a value-weighted basis (t = 2.84). The premium loads on intensive, frontier use, not casual traffic.",
+        "The agentic share of tokens rose from about zero in 2024 to 52.2 percent. The data come from OpenRouter. Stripe’s bid for that gateway is a bid for the meter the academy used to price the risk. The NBER PDF may be gated; the arXiv HTML is not."
+      ]
+    }
+  ]
+}
