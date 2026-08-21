@@ -1,4 +1,4 @@
-const CACHE = "mpv-vol1-no1-20260820";
+const CACHE = "mpv-hourly-20260821";
 const ASSETS = [
   "./",
   "./index.html",
@@ -29,6 +29,23 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const req = event.request;
   if (req.method !== "GET") return;
+
+  const url = new URL(req.url);
+  if (url.pathname.endsWith("edition.json")) {
+    event.respondWith(
+      fetch(req, { cache: "no-store" })
+        .then((res) => {
+          if (res && res.status === 200) {
+            const copy = res.clone();
+            caches.open(CACHE).then((cache) => cache.put(req, copy));
+          }
+          return res;
+        })
+        .catch(() => caches.match(req))
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(req).then((cached) => {
       const fetched = fetch(req)

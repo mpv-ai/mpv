@@ -15,7 +15,7 @@ A cream-paper iPhone edition. Static HTML. No backend.
 
 Chrome on iPhone cannot add a Home Screen web app the same way. Use Safari.
 
-After the first load, the edition is available offline via a service worker.
+After the first load, the edition is available offline via a service worker. The installed app refetches `edition.json` every hour and when it is reopened (visibility / pageshow). The service worker treats `edition.json` as network-first so a new issue is not stuck behind the cache.
 
 ## Files
 

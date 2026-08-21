@@ -1,9 +1,11 @@
 (function () {
   "use strict";
 
+  const REFRESH_MS = 60 * 60 * 1000;
   const app = document.getElementById("app");
   let edition = null;
   let section = "All";
+  let booted = false;
 
   const esc = (s) =>
     String(s)
@@ -11,6 +13,10 @@
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;");
+
+  function sameEdition(a, b) {
+    return JSON.stringify(a) === JSON.stringify(b);
+  }
 
   function storyById(id) {
     return edition.stories.find((s) => s.id === id);
@@ -234,21 +240,46 @@
     navigator.serviceWorker.register("./sw.js").catch(() => {});
   }
 
+  function applyEdition(data) {
+    if (edition && sameEdition(edition, data)) return false;
+    edition = data;
+    if (section !== "All" && (!edition.sections || !edition.sections.includes(section))) {
+      section = "All";
+    }
+    route();
+    return true;
+  }
+
+  function loadEdition() {
+    return fetch("./edition.json", { cache: "no-store" })
+      .then((r) => {
+        if (!r.ok) throw new Error("edition");
+        return r.json();
+      })
+      .then((data) => {
+        const first = !booted;
+        applyEdition(data);
+        if (first) {
+          booted = true;
+          registerSw();
+        }
+      })
+      .catch(() => {
+        if (!booted) {
+          app.innerHTML = `<div class="sheet"><p class="error">The edition could not be set.</p></div>`;
+        }
+      });
+  }
+
   app.innerHTML = `<div class="sheet"><p class="loading">Setting type…</p></div>`;
 
-  fetch("./edition.json")
-    .then((r) => {
-      if (!r.ok) throw new Error("edition");
-      return r.json();
-    })
-    .then((data) => {
-      edition = data;
-      route();
-      registerSw();
-    })
-    .catch(() => {
-      app.innerHTML = `<div class="sheet"><p class="error">The edition could not be set.</p></div>`;
-    });
+  loadEdition();
+  setInterval(loadEdition, REFRESH_MS);
 
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") loadEdition();
+  });
+
+  window.addEventListener("pageshow", loadEdition);
   window.addEventListener("hashchange", route);
 })();
