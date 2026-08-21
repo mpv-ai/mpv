@@ -1,30 +1,145 @@
 {
   "volume": 1,
-  "number": 1,
+  "number": 2,
   "city": "New York",
-  "date": "Thursday, August 20, 2026",
+  "date": "Friday, August 21, 2026",
   "editionLabel": "Late Edition",
   "tape": {
     "source": "Gate",
-    "updated": "Aug 19",
-    "line": "S&P 7,691.76 (from 7,798.99 Aug 13 record) · 10-year 4.748% · 30-year 5.33% (highest since 2007) · SOX −5% · SanDisk −9% · Micron −7% · NVDA −2.3%"
+    "updated": "Aug 21",
+    "line": "S&P 7,674.37 (+0.43% Fri; −1.4% week, off 7,798.99 Aug 13 record) · 10-year 4.738% · 30-year 5.276% · SOX 11,740 (−0.5%) · NVDA $214.72 (−0.98%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "The rate reset, and the other trade",
+    "hed": "A Friday bounce, a down week, and a split P&L",
     "signed": "The Markets desk",
-    "body": "Public AI is getting a rate reset. After the S&P's Aug 13 record at 7,798.99, it was 7,691.76 by Aug 18 as the 10-year hit 4.748% and the 30-year cleared 5.33% (highest since 2007). Private markets are doing the opposite trade: $500B of GPU-as-infra capacity, plus a recap of the CFO stack."
+    "body": "The tape bounced. The week did not. Friday’s S&P 7,674.37 was +0.43% and still −1.4% on the week, off the Aug. 13 record at 7,798.99. The 10-year closed 4.738% and the 30-year 5.276% (Yahoo Finance). NVDA finished $214.72 (−0.98%) into the Aug. 26 print. Overnight Alibaba split the cloud P&L from the group P&L: AI Cloud +45% and 12% EBITA; group GAAP net income −75% and group capex +75%."
   },
   "comingUp": {
     "label": "Coming up",
     "line": "GPCA / AVCA / LAVCA virtual — Thursday, August 27, 9:00 a.m. ET. Artificial Intelligence in Practice: lessons for private capital from the front line.",
     "href": "https://www.globalprivatecapital.org/events/artificial-intelligence-in-practice-lessons-for-private-capital-firms-from-the-frontline/"
   },
-  "sections": ["All", "AI", "Markets", "PE", "Finance", "CFO"],
+  "sections": [
+    "All",
+    "AI",
+    "Markets",
+    "PE",
+    "Finance",
+    "CFO"
+  ],
   "stories": [
     {
-      "id": "rillet",
+      "id": "alibaba",
       "lead": true,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Alibaba’s June quarter: cloud +45%, group capex +75%, group profit −75%",
+      "dek": "Do not mash the three prints. AI Cloud is a 12% EBITA business. The 75s sit on the group P&L.",
+      "date": "Aug. 20, 2026",
+      "source": "Alibaba Group",
+      "url": "https://www.alibabagroup.com/en-US/document-2026456290057781248",
+      "also": [
+        {
+          "label": "SEC Exhibit 99.1 (6-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Keep three ledgers: cloud operating, group income, group capex. Do not write a 45/75/75 cloud P&L.",
+      "grafs": [
+        "Alibaba reported the June quarter on Thursday. Group revenue was RMB268.95 billion (US$39.64 billion), up 9 percent. The new AI Cloud and Compute Services segment — Cloud Intelligence plus T-Head — printed RMB48.44 billion (US$7.14 billion), up 45 percent, with external cloud also +45 percent. AI-related product revenue was RMB12.38 billion (US$1.82 billion), the twelfth straight quarter of triple-digit growth.",
+        "That cloud line is making money. Segment adjusted EBITA rose 133 percent to RMB5.63 billion (US$830 million). Chief financial officer Toby Xu said operating leverage took the cloud EBITA margin to 12 percent. Chief executive Eddie Wu put QwenWork and a stack of new Qwen models on the same call.",
+        "The 75s are group numbers, not cloud. Group GAAP net income fell 75 percent to RMB10.44 billion (US$1.54 billion); non-GAAP net income fell 38 percent to RMB20.72 billion. Group capital expenditure rose 75 percent to RMB67.68 billion (US$9.98 billion) on AI infrastructure, procurement timing, CPU-compute and chip prices. Free cash flow was an outflow of RMB44.67 billion. BABA closed Friday at $119.34, down 8.6 percent from Thursday’s $130.53."
+      ]
+    },
+    {
+      "id": "falcon",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Ant FalconTST 2.0 is in G-SIB FX books",
+      "dek": "Barclays, Citi, Deutsche Bank and Standard Chartered. MASE 0.666. The company says >93 percent forecast accuracy.",
+      "date": "Aug. 20, 2026",
+      "source": "Business Wire / Ant International",
+      "url": "https://www.businesswire.com/news/home/20260819055561/en/",
+      "also": [
+        {
+          "label": "TechNode Global",
+          "url": "https://technode.global/2026/08/20/barclays-citi-deutsche-bank-standard-chartered-adopt-ant-internationals-falcontst-ai-model-2-0/"
+        },
+        {
+          "label": "FalconTST site",
+          "url": "https://falcon-tst.ant-intl.com/"
+        },
+        {
+          "label": "arXiv 2608.13262",
+          "url": "https://arxiv.org/abs/2608.13262"
+        }
+      ],
+      "owner": "FORGE",
+      "action": "Name the four G-SIB hooks — BARX NetFX, Citi Fixed FX, Deutsche, StanChart SCALE FX / MAS PathFin.ai — and treat FalconTST as treasury infrastructure, not a model card.",
+      "grafs": [
+        "Ant International released Falcon Time-Series Transformer 2.0 for cash-flow and FX exposure on cross-border payments. The company said the model scored 0.666 MASE on a public time-series foundation-model benchmark, at the top of that leaderboard, and has held forecast accuracy above 93 percent.",
+        "Four G-SIBs are named on the 2.0 deployment: Barclays inside BARX NetFX, Citi beside Fixed FX Rates, Deutsche Bank in FX operations, and Standard Chartered beside SCALE FX under the Monetary Authority of Singapore’s PathFin.ai programme. Ant first ran the stack on its own hourly, daily and weekly books.",
+        "Kelvin Li, general manager of platform tech, said 2.0 is how the firm extends the 1.0 cost save to bank partners and to e-commerce, travel and fintech. An API trial is on GitHub; the technical report is arXiv 2608.13262."
+      ]
+    },
+    {
+      "id": "bochk",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "BOCHK and Ant put AI on the treasury wire",
+      "dek": "Alipay+ settlement in Southeast Asia, Bettr on-chain cash, WorldFirst for SMEs. FX pricing plus Ant models.",
+      "date": "Aug. 20, 2026",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260819555366/en/",
+      "also": [
+        {
+          "label": "Fintech Global",
+          "url": "https://fintech.global/2026/08/20/bochk-and-ant-international-expand-cross-border-payments-partnership/"
+        },
+        {
+          "label": "TechNode Global",
+          "url": "https://technode.global/2026/08/20/hong-kongs-bochk-singapores-ant-international-partner-on-cross-border-payments-treasury-sme-services/"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Map Alipay+ / Bettr / WorldFirst against a PE portco treasury stack: settlement bank, FX, SME cash.",
+      "grafs": [
+        "Bank of China (Hong Kong) and Ant International, partners since 2013, announced a strategic tie-up for cross-border payments, real-time treasury and SME cash. The bank’s FX book is meant to sit next to Ant’s models.",
+        "Three Ant rails are named. BOCHK will supply accounts and settlement banking so Alipay+ can clear across Southeast Asia. Bettr will work with the bank on distributed-ledger and tokenised cash and investment tools. WorldFirst will package cross-border fund management for SMEs, including Chinese firms going out.",
+        "BOCHK customers can already link accounts and cards to AlipayHK for transfers, payments and top-ups. Sun Yu, vice-chairman and chief executive of BOCHK, and Eric Jing, Ant International chairman, signed the release."
+      ]
+    },
+    {
+      "id": "broadcom",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity",
+      "hed": "Broadcom shops a $60B-plus AI chip financing",
+      "dek": "Talks, not a close. Blackstone and Apollo. A $35B Anthropic package is already on the page.",
+      "date": "Aug. 20, 2026",
+      "source": "Reuters / Bloomberg",
+      "url": "https://www.reuters.com/technology/broadcom-seeks-more-than-60-billion-latest-ai-debt-deal-bloomberg-news-reports-2026-08-20/",
+      "also": [
+        {
+          "label": "CNA (Reuters rewrite)",
+          "url": "https://www.channelnewsasia.com/business/broadcom-seeks-more-60-billion-in-latest-ai-debt-deal-bloomberg-news-reports-6332071"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Pair with the Nvidia $500B platforms: who actually funds custom silicon vs GPU-as-infra, and which is a term sheet.",
+      "grafs": [
+        "Broadcom is in talks to raise more than $60 billion of debt for an AI-chip financing that would serve Anthropic and other customers, Bloomberg reported Thursday, as relayed by Reuters. A junior piece of about $30 billion and a senior-secured tranche of about $60 billion to $70 billion, with Broadcom guaranteeing part of the senior, could take the package toward $100 billion. The debt would sit in a special-purpose vehicle.",
+        "Blackstone and Apollo are in the conversation. That follows a June package from Broadcom, Apollo and Blackstone to finance $35 billion of Anthropic compute on Broadcom custom chips — about one gigawatt in the first slice, with a stated aim of more than 20 gigawatts for leading labs by 2028.",
+        "Blackstone declined to comment. Broadcom and Apollo did not immediately respond, Reuters said. It remains a talk, not a close — the same test as the Nvidia $500 billion capacity platforms."
+      ]
+    },
+    {
+      "id": "rillet",
+      "lead": false,
       "section": "Finance",
       "kicker": "Finance",
       "hed": "Rillet Raises $100M Series C at $1B to Build Accounting Superintelligence",
