@@ -6,14 +6,14 @@
   "editionLabel": "Late Edition",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Aug 24, 12:53 p.m.",
-    "line": "S&P 7,660.67 (−0.18% 12:53 p.m.) · Fri cash 7,674.37 (+0.43%; −1.4% week, off 7,816.70 Aug 13) · 10-year 4.690% · 30-year 5.215% · SOX 11,421 (−2.72%) · NVDA $209.90 (−2.24% 12:53 p.m.)"
+    "updated": "Aug 24, 4:00 p.m.",
+    "line": "S&P 7,652.86 (−0.28% close) · Fri cash 7,674.37 (+0.43%; −1.4% week, off 7,816.70 Aug 13) · 10-year 4.704% · 30-year 5.231% · SOX 11,423 (−2.70%) · NVDA $208.48 (−2.91% close)"
   },
   "deskNote": {
     "kicker": "Markets",
     "hed": "A chip in production, a placing in Hong Kong, and a Wednesday call",
     "signed": "The Markets desk",
-    "body": "Nvidia said this morning at Hot Chips that Groq 3 LPX, the inference accelerator on Vera Rubin, is in full production. Nebius is the first named cloud; the rollout is planned. S&P cash was 7,660.67 at 12:53 p.m. Eastern, −0.18 percent (Yahoo Finance). Friday’s close was 7,674.37, +0.43 percent and still −1.4 percent on the week, off the Aug. 13 high at 7,816.70. The 10-year was 4.690 percent and the 30-year 5.215 percent just after 12:30 p.m., off Friday’s 4.738 and 5.276. SOX 11,421 (−2.72 percent). NVDA $209.90 (−2.24 percent) into the Aug. 26 print. Sunday’s Alibaba placing remains capital structure, not last week’s cloud P&L."
+    "body": "Nvidia said this morning at Hot Chips that Groq 3 LPX, the inference accelerator on Vera Rubin, is in full production. Nebius is the first named cloud; the rollout is planned. S&P cash closed 7,652.86, −0.28 percent (Yahoo Finance). Friday’s close was 7,674.37, +0.43 percent and still −1.4 percent on the week, off the Aug. 13 high at 7,816.70. The 10-year was 4.704 percent and the 30-year 5.231 percent at the cash close, off Friday’s 4.738 and 5.276. SOX 11,423 (−2.70 percent). NVDA $208.48 (−2.91 percent) into the Aug. 26 print. Sunday’s Alibaba placing remains capital structure, not last week’s cloud P&L."
   },
   "comingUp": {
     "label": "Coming up",
