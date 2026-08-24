@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 2,
+  "number": 3,
   "city": "New York",
-  "date": "Friday, August 21, 2026",
+  "date": "Monday, August 24, 2026",
   "editionLabel": "Late Edition",
   "tape": {
     "source": "Gate",
-    "updated": "Aug 21",
-    "line": "S&P 7,674.37 (+0.43% Fri; −1.4% week, off 7,798.99 Aug 13 record) · 10-year 4.738% · 30-year 5.276% · SOX 11,740 (−0.5%) · NVDA $214.72 (−0.98%)"
+    "updated": "Aug 24",
+    "line": "S&P fut. 7,678.75 (−0.16% 8:50 a.m.) · Fri cash 7,674.37 (+0.43%; −1.4% week, off 7,816.70 Aug 13) · 10-year 4.712% · 30-year 5.239% · SOX 11,740 (−0.51% Fri) · NVDA $214.72 (−0.98% Fri)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "A Friday bounce, a down week, and a split P&L",
+    "hed": "A placing in Hong Kong, a pitch in New York, and a Wednesday call",
     "signed": "The Markets desk",
-    "body": "The tape bounced. The week did not. Friday’s S&P 7,674.37 was +0.43% and still −1.4% on the week, off the Aug. 13 record at 7,798.99. The 10-year closed 4.738% and the 30-year 5.276% (Yahoo Finance). NVDA finished $214.72 (−0.98%) into the Aug. 26 print. Overnight Alibaba split the cloud P&L from the group P&L: AI Cloud +45% and 12% EBITA; group GAAP net income −75% and group capex +75%."
+    "body": "S&P September futures were 7,678.75 at 8:50 a.m. Eastern, −0.16 percent (CNBC). Friday’s cash close was 7,674.37, +0.43 percent and still −1.4 percent on the week, off the Aug. 13 high at 7,816.70. The 10-year was 4.712 percent and the 30-year 5.239 percent this morning, off Friday’s 4.738 and 5.276. SOX 11,740 (−0.51 percent Friday). NVDA $214.72 (−0.98 percent Friday) into the Aug. 26 print. Overnight Alibaba priced an HK$80 billion AI placing; 9988 closed HK$111, −9.76 percent. That is capital structure, not last week’s cloud P&L."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,122 @@
   ],
   "stories": [
     {
-      "id": "alibaba",
+      "id": "placement",
       "lead": true,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Alibaba prices an HK$80 billion AI placing",
+      "dek": "710 million new ordinary shares at HK$112.70. 100 percent of net proceeds to full-stack AI. Close expected Aug. 26. Not a redo of last week’s P&L.",
+      "date": "Aug. 23, 2026",
+      "source": "Alibaba Group",
+      "url": "https://www.alibabagroup.com/en-US/document-2028384807859257344",
+      "also": [],
+      "owner": "GUIDE",
+      "action": "Treat as a capital-structure follow-on to last week’s print. Do not mash it with the June-quarter 45 / 75 / −75 split.",
+      "grafs": [
+        "Alibaba Group announced the pricing of an HK$80 billion placing of 710,000,000 newly issued ordinary shares at HK$112.70 a share, sold to non-U.S. persons outside the United States. The company said the placing is expected to close on Aug. 26, subject to customary conditions.",
+        "It intends to use 100 percent of the net proceeds to invest in full-stack AI capabilities, including to expand and enhance AI infrastructure. The shares have not been registered under the U.S. Securities Act and are being offered under Regulation S. The company said there can be no assurance the placing will complete.",
+        "Hong Kong-listed 9988 closed Monday at HK$111, down 9.76 percent. Last week’s June-quarter print — AI Cloud +45 percent at a 12 percent adjusted EBITA margin; group GAAP net income −75 percent; group capex +75 percent — is the operating backdrop, not this story. This is a capital-structure follow-on."
+      ]
+    },
+    {
+      "id": "nvidia-hike",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Nvidia customers told AI-server prices are rising more than 15%",
+      "dek": "Bloomberg, Saturday. Memory-driven, early-2027 Rubin and Blackwell systems. Nvidia did not comment. Not a company number.",
+      "date": "Aug. 22, 2026",
+      "source": "Bloomberg / The Straits Times",
+      "url": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg",
+      "also": [],
+      "owner": "QUILL",
+      "action": "One question for the Wednesday, Aug. 26 NVDA call: how much of the 2027 stack is a memory pass-through, and what is the company number?",
+      "grafs": [
+        "Some of Nvidia’s biggest customers have been told that prices of servers containing its AI chips are, in many cases, going up by more than 15 percent, Bloomberg reported Saturday, as recapped by The Straits Times. The increases would take effect on systems shipped in early 2027, including those with Vera Rubin and Grace Blackwell chips, people familiar with the process said.",
+        "Contract manufacturers that build the servers for large data-centre operators, including Microsoft, Google and Oracle, have recently notified customers, the sources said. The increases will depend on the generation of Nvidia chips and the memory configuration. Memory costs — Samsung, SK Hynix and Micron — are the driver. Nvidia representatives did not respond to requests for comment.",
+        "The more-than-15-percent figure is a report from people familiar with private communications, not a number Nvidia has published. Do not treat it as a company print. The company reports Wednesday, Aug. 26."
+      ]
+    },
+    {
+      "id": "anthropic",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity",
+      "hed": "Anthropic bankers pitch a $100 billion-plus IPO",
+      "dek": "NYT sources, Aug. 22. No S-1. A $2 trillion valuation is a pitch, not a mark. Last private marks disagree.",
+      "date": "Aug. 22, 2026",
+      "source": "NYT / RFI (AFP)",
+      "url": "https://www.rfi.fr/en/international-news/20260822-anthropic-market-debut-could-break-spacex-ipo-record-media",
+      "also": [],
+      "owner": "GUIDE",
+      "action": "Do not underwrite a $2T / $100B print. Wait for an S-1. Last private marks disagree.",
+      "grafs": [
+        "Anthropic’s bankers have told potential investors the company could seek to raise more than $100 billion in an initial public offering that could put its value at $2 trillion, The New York Times reported Friday, citing two unnamed sources, as recapped by RFI/AFP. There is no S-1.",
+        "That pitch would more than double the five-year-old company’s previous valuation of $965 billion, reached in its last funding round in June, the same recap said. Anthropic declined to comment. Treat the $100 billion and $2 trillion figures as a bankers’ pitch, not a fact. Last private marks disagree.",
+        "After a June confidential filing, the Times said a prospectus could come in the coming weeks, with shares possibly listed in the autumn. Do not write the Anthropic numbers as a close."
+      ]
+    },
+    {
+      "id": "softbank",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "SoftBank plans a record ¥1 trillion Japan retail bond",
+      "dek": "7-year. For OpenAI commitments. Indicative coupon 4.3–4.9 percent. Price Sept. 4. Japan Times cites a company filing.",
+      "date": "Aug. 24, 2026",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/08/24/companies/softbank-plan-bond-sale/",
+      "also": [],
+      "owner": "GUIDE",
+      "action": "Map the coupon against the OpenAI commitment: Japan retail cash funding a U.S. lab offtake.",
+      "grafs": [
+        "SoftBank Group is planning a record ¥1 trillion retail bond sale — about $6.3 billion in The Japan Times conversion — the biggest by any issuer in Japan, to fund investment commitments to OpenAI, the paper reported Monday, citing a company filing.",
+        "The 7-year bonds are expected to be priced on Sept. 4, with an indicative coupon range of 4.3 percent to 4.9 percent, according to the filing.",
+        "The paper put the sale in a week of AI fundraising. The OpenAI commitment is the stated use of proceeds, not a close on the American lab."
+      ]
+    },
+    {
+      "id": "marketron",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Lean Marketron: 18 parameters down to 9",
+      "dek": "Itkin, NYU Tandon. arXiv 2608.20589. Monday q-fin. Gauge-fix the inelastic marketron so flow risk is identifiable.",
+      "date": "Aug. 24, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20589",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Read the 9-parameter core and the market-price-of-flow-risk wedge. Do not recalibrate the 18.",
+      "grafs": [
+        "Andrey Itkin of NYU Tandon posted “Calibrating Inelastic Markets to Options: The Lean Marketron and the Generalized Langevin Equation” to arXiv (2608.20589) on the q-fin list. The Marketron model and its option-pricing extension suffered from structural non-identifiability: an 18-parameter space trapped solvers in local minima.",
+        "By removing exact scaling gauges and sign symmetries, freezing non-financial parameters, and adiabatically eliminating the fast hidden signal, he derives a nine-parameter reduced model. A Gauss-Newton Hessian with empty null space and a manifold-boundary analysis confirm that the reduced core carries no exact symmetry and admits no further reduction.",
+        "A staged calibration from the physical measure to the risk-neutral measure, illustrated on SPX options, fits the whole surface with a single parameter set. The wedge between physical and pricing values of the flow block becomes a well-defined market price of flow risk rather than a ridge artifact."
+      ]
+    },
+    {
+      "id": "hedging",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Deep hedging: compatibility, not fidelity",
+      "dek": "Hashimoto, Hirano, Ozaki, Imajo. arXiv 2608.20842. The gap that matters is whether the strategy still works in the true market.",
+      "date": "Aug. 24, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20842",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Score generators on the compatibility gap, not stylized-fact RMSE.",
+      "grafs": [
+        "Ryuji Hashimoto, Masanori Hirano, Ryota Ozaki and Kentaro Imajo (University of Tokyo and Preferred Networks) posted “Rethinking Synthetic Scenario Realism: Compatibility, Not Fidelity, Drives Hedging Performance” to arXiv (2608.20842).",
+        "Deep hedging trains on synthetic paths because real market data is scarce. The literature scores generators on realism — how well they match stylized facts. The authors define compatibility as whether a strategy trained on the synthetic measure still works in the true market. Hedging performance decomposes into learning error and a compatibility gap; realism and compatibility can diverge.",
+        "Empirically, performance is governed by alignment between generator and hedger, plus task structure — path dependence, transaction costs — not by realism alone. Rankings of generators reorder when the hedger class or the option changes."
+      ]
+    },
+    {
+      "id": "alibaba",
+      "lead": false,
       "section": "Finance",
       "kicker": "Finance",
       "hed": "Alibaba’s June quarter: cloud +45%, group capex +75%, group profit −75%",
