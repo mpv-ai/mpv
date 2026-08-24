@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 3,
+  "number": 4,
   "city": "New York",
   "date": "Monday, August 24, 2026",
   "editionLabel": "Late Edition",
   "tape": {
-    "source": "Gate",
-    "updated": "Aug 24",
-    "line": "S&P fut. 7,678.75 (−0.16% 8:50 a.m.) · Fri cash 7,674.37 (+0.43%; −1.4% week, off 7,816.70 Aug 13) · 10-year 4.712% · 30-year 5.239% · SOX 11,740 (−0.51% Fri) · NVDA $214.72 (−0.98% Fri)"
+    "source": "Yahoo Finance",
+    "updated": "Aug 24, 12:53 p.m.",
+    "line": "S&P 7,660.67 (−0.18% 12:53 p.m.) · Fri cash 7,674.37 (+0.43%; −1.4% week, off 7,816.70 Aug 13) · 10-year 4.690% · 30-year 5.215% · SOX 11,421 (−2.72%) · NVDA $209.90 (−2.24% 12:53 p.m.)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "A placing in Hong Kong, a pitch in New York, and a Wednesday call",
+    "hed": "A chip in production, a placing in Hong Kong, and a Wednesday call",
     "signed": "The Markets desk",
-    "body": "S&P September futures were 7,678.75 at 8:50 a.m. Eastern, −0.16 percent (CNBC). Friday’s cash close was 7,674.37, +0.43 percent and still −1.4 percent on the week, off the Aug. 13 high at 7,816.70. The 10-year was 4.712 percent and the 30-year 5.239 percent this morning, off Friday’s 4.738 and 5.276. SOX 11,740 (−0.51 percent Friday). NVDA $214.72 (−0.98 percent Friday) into the Aug. 26 print. Overnight Alibaba priced an HK$80 billion AI placing; 9988 closed HK$111, −9.76 percent. That is capital structure, not last week’s cloud P&L."
+    "body": "Nvidia said this morning at Hot Chips that Groq 3 LPX, the inference accelerator on Vera Rubin, is in full production. Nebius is the first named cloud; the rollout is planned. S&P cash was 7,660.67 at 12:53 p.m. Eastern, −0.18 percent (Yahoo Finance). Friday’s close was 7,674.37, +0.43 percent and still −1.4 percent on the week, off the Aug. 13 high at 7,816.70. The 10-year was 4.690 percent and the 30-year 5.215 percent just after 12:30 p.m., off Friday’s 4.738 and 5.276. SOX 11,421 (−2.72 percent). NVDA $209.90 (−2.24 percent) into the Aug. 26 print. Sunday’s Alibaba placing remains capital structure, not last week’s cloud P&L."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,32 @@
   ],
   "stories": [
     {
-      "id": "placement",
+      "id": "groq-lpx",
       "lead": true,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Nvidia puts Groq 3 LPX into full production",
+      "dek": "Hot Chips. 3,400 tok/s on Gemma 4 31B, 100k context. Nebius first cloud — planned, not live. Into Wednesday’s call.",
+      "date": "Aug. 24, 2026",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "also": [
+        {
+          "label": "SpaceXAI / Vera CPU (same hour)",
+          "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "One question for the Wednesday, Aug. 26 NVDA call: is Groq 3 LPX in the near-term mix, or a 2027 Rubin attach?",
+      "grafs": [
+        "Nvidia announced at Hot Chips that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. It is an extension of the Vera Rubin platform, built to raise token-generation rates on Vera Rubin NVL72 systems for agentic, context-heavy workloads.",
+        "The company said Groq 3 LPX delivered a record 3,400 output tokens per second in Artificial Analysis benchmarking on Gemma 4 31B, an open-source agentic model, with a 100,000-token context — the fastest result recorded for that model. It also claimed 4x faster responsiveness than the nearest alternative platform. Those are Nvidia numbers, not a third-party recap.",
+        "Nebius is the first AI cloud named: it plans to bring Groq 3 LPX to Nebius Token Factory. That is a plan, not a completed deployment. Groq, the inference cloud, plans to be among the earliest adopters. The chip is in production; Wednesday’s print is still the company number."
+      ]
+    },
+    {
+      "id": "placement",
+      "lead": false,
       "section": "Finance",
       "kicker": "Finance",
       "hed": "Alibaba prices an HK$80 billion AI placing",
