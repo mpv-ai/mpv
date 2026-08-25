@@ -1,6 +1,6 @@
 {
   "volume": 1,
-  "number": 5,
+  "number": 6,
   "city": "New York",
   "date": "Tuesday, August 25, 2026",
   "editionLabel": "Morning Edition",
@@ -46,6 +46,30 @@
         "Sahong Park and co-authors posted “Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron” to the Tuesday arXiv mailing (2608.22852; cs.AI, cross-list q-fin). The intervention is one MLP neuron at inference time. It shifts a model-level buy/sell prior without changing the prompt or the weights, and without targeting particular firms. The tests are five open-weight models: Qwen3-8B, Llama-4-Scout, DeepSeek-R1-Distill-Qwen-14B, Gemma-4-12B-it and Mistral-Small-24B.",
         "Across those five, the dial produces monotonic changes in investment stance. Under identical inputs it also shifts the evidential emphasis of the generated rationales, and in an agentic retrieval setting it changes what the model searches for, which evidence it opens, and what lands in the memo. In long context the dial holds while a matched system-prompt instruction attenuates. An exploratory weekly-news backtest moves rankings and portfolio composition; the authors flag it as not investment alpha.",
         "Closed models are out of scope. The method needs access to internal activations, which we do not have. Forge confirmed there is no activation access here. Treat the paper as a research note, not a product lever."
+      ]
+    },
+    {
+      "id": "gemini-fs",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Google Cloud launches Gemini Enterprise for Financial Services",
+      "dek": "Preview for capital markets and corporate banking. Managed Financial Research agent, 50+ skills. Deutsche Bank is a design partner.",
+      "date": "Aug. 25, 2026",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
+      "also": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/google-cloud-launches-gemini-enterprise-for-financial-services-302859186.html"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Map whether any overlapping bank/treasury buyers are already in Gemini Enterprise vs Ant FalconTST / Snowflake Cortex / OpenRouter stacks.",
+      "grafs": [
+        "Google Cloud launched Gemini Enterprise for Financial Services, in preview for capital markets and corporate banking. The package includes a Google-managed Financial Research agent, more than 50 skills, enterprise data connectors and MCP connectors.",
+        "CME Group and Deutsche Bank are named on the launch. Deutsche Bank is a design partner for the Financial Research agent.",
+        "The launch builds on Gemini Enterprise. Named users of that broader platform — not this preview — are BNY, Citi Wealth, Lloyds Banking Group, Macquarie Bank and Signal Iduna."
       ]
     },
     {
