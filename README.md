@@ -1,6 +1,6 @@
 # MPV
 
-Vol. 1, No. 4 — Monday, August 24, 2026. Late Edition. New York.
+Vol. 1, No. 5 — Tuesday, August 25, 2026. Morning Edition. New York.
 
 **Live:** [https://mpv-ai.github.io/mpv/](https://mpv-ai.github.io/mpv/)
 

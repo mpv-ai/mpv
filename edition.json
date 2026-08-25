@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 4,
+  "number": 5,
   "city": "New York",
-  "date": "Monday, August 24, 2026",
-  "editionLabel": "Late Edition",
+  "date": "Tuesday, August 25, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Aug 24, 4:00 p.m.",
-    "line": "S&P 7,652.86 (−0.28% close) · Fri cash 7,674.37 (+0.43%; −1.4% week, off 7,816.70 Aug 13) · 10-year 4.704% · 30-year 5.231% · SOX 11,423 (−2.70%) · NVDA $208.48 (−2.91% close)"
+    "updated": "Aug 25, 8:53 a.m.",
+    "line": "ES 7,697.50 (+0.36%) · NQ 29,333 (+0.78%) · Mon cash S&P 7,652.86 (−0.28%) · 10-year 4.668% · 30-year 5.197% · NVDA $211.15 (+1.28% premarket; Mon close $208.48, −2.91%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "A chip in production, a placing in Hong Kong, and a Wednesday call",
+    "hed": "Four papers overnight, a chip still in production, and a Wednesday call",
     "signed": "The Markets desk",
-    "body": "Nvidia said this morning at Hot Chips that Groq 3 LPX, the inference accelerator on Vera Rubin, is in full production. Nebius is the first named cloud; the rollout is planned. S&P cash closed 7,652.86, −0.28 percent (Yahoo Finance). Friday’s close was 7,674.37, +0.43 percent and still −1.4 percent on the week, off the Aug. 13 high at 7,816.70. The 10-year was 4.704 percent and the 30-year 5.231 percent at the cash close, off Friday’s 4.738 and 5.276. SOX 11,423 (−2.70 percent). NVDA $208.48 (−2.91 percent) into the Aug. 26 print. Sunday’s Alibaba placing remains capital structure, not last week’s cloud P&L."
+    "body": "The Tuesday mailing put a single-neuron buy/sell dial, a measurement paper, an exact Kelly booster, and an arbitrage-aware IV-surface diffusion on the same page. Futures are bid after Monday’s chip tape: ES 7,697.50, +0.36 percent; NQ 29,333, +0.78 percent (Yahoo Finance, 8:43 a.m.). Cash closed 7,652.86, −0.28 percent. The 10-year is 4.668 percent and the 30-year 5.197 percent, off Monday’s 4.704 and 5.231. NVDA $211.15 in the premarket, +1.28 percent from Monday’s $208.48 close (−2.91 percent), into Wednesday’s print. Sunday’s Alibaba placing remains capital structure — HK$80 billion, 710 million shares at HK$112.70 — not last week’s cloud P&L."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,27 @@
   ],
   "stories": [
     {
-      "id": "groq-lpx",
+      "id": "dial",
       "lead": true,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Your AI, On a Dial",
+      "dek": "Park et al. arXiv 2608.22852. Tuesday mailing. One MLP neuron steers buy/sell on five open-weight models. Closed models out of scope. Not a product lever.",
+      "date": "Aug. 25, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.22852",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Read as a research note. Forge has no activation access. Do not treat the dial as a product lever.",
+      "grafs": [
+        "Sahong Park and co-authors posted “Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron” to the Tuesday arXiv mailing (2608.22852; cs.AI, cross-list q-fin). The intervention is one MLP neuron at inference time. It shifts a model-level buy/sell prior without changing the prompt or the weights, and without targeting particular firms. The tests are five open-weight models: Qwen3-8B, Llama-4-Scout, DeepSeek-R1-Distill-Qwen-14B, Gemma-4-12B-it and Mistral-Small-24B.",
+        "Across those five, the dial produces monotonic changes in investment stance. Under identical inputs it also shifts the evidential emphasis of the generated rationales, and in an agentic retrieval setting it changes what the model searches for, which evidence it opens, and what lands in the memo. In long context the dial holds while a matched system-prompt instruction attenuates. An exploratory weekly-news backtest moves rankings and portfolio composition; the authors flag it as not investment alpha.",
+        "Closed models are out of scope. The method needs access to internal activations, which we do not have. Forge confirmed there is no activation access here. Treat the paper as a research note, not a product lever."
+      ]
+    },
+    {
+      "id": "groq-lpx",
+      "lead": false,
       "section": "AI",
       "kicker": "AI",
       "hed": "Nvidia puts Groq 3 LPX into full production",
@@ -51,6 +70,68 @@
         "Nvidia announced at Hot Chips that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. It is an extension of the Vera Rubin platform, built to raise token-generation rates on Vera Rubin NVL72 systems for agentic, context-heavy workloads.",
         "The company said Groq 3 LPX delivered a record 3,400 output tokens per second in Artificial Analysis benchmarking on Gemma 4 31B, an open-source agentic model, with a 100,000-token context — the fastest result recorded for that model. It also claimed 4x faster responsiveness than the nearest alternative platform. Those are Nvidia numbers, not a third-party recap.",
         "Nebius is the first AI cloud named: it plans to bring Groq 3 LPX to Nebius Token Factory. That is a plan, not a completed deployment. Groq, the inference cloud, plans to be among the earliest adopters. The chip is in production; Wednesday’s print is still the company number."
+      ]
+    },
+    {
+      "id": "measurement",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Do not treat the LLM label as the construct",
+      "dek": "Dell and Rambachan. arXiv 2608.23524. NBER methods lecture. Rubric, random validation sample, de-bias. Prompt and model search can flip the sign.",
+      "date": "Aug. 25, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.23524",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Do not ship an LLM-labeled series as the construct. Rubric, random validation sample, de-bias. Prompt/model search can flip the sign.",
+      "grafs": [
+        "Melissa Dell and Ashesh Rambachan posted “The Measurement Revolution? Credible Measurement and Inference in the Age of AI” to arXiv (2608.23524), accompanying the NBER 2026 Methods Lecture on estimation and inference with AI-generated data. AI makes it cheap to turn text and images into structured variables. The bottleneck, they argue, is no longer finding any scalable measure of a phenomenon; it is choosing among many that can support different conclusions.",
+        "Do not treat LLM labels as the construct. A rubric does not pin down the model, the prompt, or the settings. Ludwig, Mullainathan and Rambachan (2026) document that varying the language model and the prompt can move estimates in magnitude, in statistical significance, and in sign. Baumann and co-authors (2025), replicating 21 published annotation tasks, show that a handful of prompt paraphrases can make virtually any hypothesis appear statistically significant.",
+        "The route they defend is validation, not proxy talk: write an explicit rubric, label a random validation sample, and de-bias the downstream estimate. Prediction errors are learned from that design even if the model is arbitrarily biased. Agreement across models is weaker evidence than it looks — frontier systems share architectures and training data. When a random validation sample is unavailable, identification rests on assumptions about how the models err, which have to be stated."
+      ]
+    },
+    {
+      "id": "kellyboost",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "KellyBoost: growth wins the loss, not the book",
+      "dek": "Li. arXiv 2608.23393. Exact Kelly loss on multi-output XGBoost. Growth beats the classification surrogate. Full-Kelly concentrates and loses to predict-then-optimize.",
+      "date": "Aug. 25, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.23393",
+      "also": [],
+      "owner": "FORGE",
+      "action": "Keep the 2×2: growth beats the surrogate. Do not write full-Kelly as a win over predict-then-optimize. No public GitHub.",
+      "grafs": [
+        "Jiayu Li posted “KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees” to arXiv (2608.23393). End-to-end portfolio learning — map features straight to weights under a financial objective, with no intermediate return forecast — had required backpropagation, which shut out gradient-boosted trees. KellyBoost is a single multi-output XGBoost whose softmax is the portfolio and whose training loss is −log(1 + w⊤y), the exact Kelly growth objective, not a surrogate.",
+        "On a 23-year, eight-asset public-data testbed under a separated selection/estimation protocol, a 2×2 of {boosted tree, MLP} × {growth objective, classification surrogate} finds the growth objective improves deployed log growth over the surrogate within both learner classes, in both of two independently built feature pipelines: four of four cells. Because the growth objective also trades less in every cell, transaction costs widen the gap rather than eroding it.",
+        "The same testbed prices the boundary. Faithfully optimizing an estimated conditional full-Kelly allocation concentrates aggressively, and in this regime the end-to-end learners trail the classic two-stage predict-then-optimize pipeline, whose squared-error forecasts shrink toward zero and whose optimizer therefore holds milder books. The paper does not list a public GitHub; do not invent one."
+      ]
+    },
+    {
+      "id": "iv-diffusion",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Arbitrage-aware latent diffusion for IV surface paths",
+      "dek": "Buchegger and Gonon, St. Gallen. arXiv 2608.22478. Joint 30-step IVS–return trajectories. Pair with Hashimoto et al. 2608.20842, already on this paper.",
+      "date": "Aug. 25, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.22478",
+      "also": [
+        {
+          "label": "Hashimoto et al. 2608.20842 (on this paper)",
+          "url": "https://arxiv.org/abs/2608.20842"
+        }
+      ],
+      "owner": "FORGE",
+      "action": "Pair with 2608.20842: score generators on the compatibility gap, not smile RMSE. Persistence still wins the one-day point forecast.",
+      "grafs": [
+        "Dominik Manuel Buchegger and Lukas Gonon of the University of St. Gallen posted “Arbitrage-Aware Multi-Step Forecasting of Implied Volatility Surfaces” to arXiv (2608.22478). A conditional latent diffusion framework generates joint 30-step trajectories of implied volatility surfaces and underlying returns. An arbitrage-aware autoencoder learns a low-dimensional surface representation; the diffusion model then captures the conditional joint evolution. Admissibility is regularised into the reconstruction map rather than patched on afterwards.",
+        "Evaluated on SPX surfaces, the model generates realistic probabilistic multi-step scenarios and also outperforms the persistence benchmark in point forecasting from about weekly horizons onward. Persistence remains superior at one day. The principal limitation is underdispersion: predictive intervals widen with the horizon but stay too narrow. Generated surfaces remain essentially free of static arbitrage.",
+        "Read it next to Hashimoto, Hirano, Ozaki and Imajo (2608.20842), already on this paper: the hedging test is whether a strategy trained on synthetic paths still works in the true market, not how well the generator matches stylized facts. A listed GitHub path in the paper did not fetch this morning; the arXiv abstract did."
       ]
     },
     {

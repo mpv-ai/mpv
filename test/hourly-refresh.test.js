@@ -48,7 +48,7 @@ test("CACHE name was bumped off mpv-vol1-no1-20260820", () => {
   assert.ok(m, "CACHE must be declared");
   assert.notEqual(m[1], "mpv-vol1-no1-20260820");
   assert.match(m[1], /hourly/);
-  assert.match(m[1], /20260824/);
+  assert.match(m[1], /20260825/);
 });
 
 test("unchanged JSON does not apply", () => {
