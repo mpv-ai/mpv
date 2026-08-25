@@ -3,17 +3,17 @@
   "number": 6,
   "city": "New York",
   "date": "Tuesday, August 25, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Late Edition",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Aug 25, 8:53 a.m.",
-    "line": "ES 7,697.50 (+0.36%) · NQ 29,333 (+0.78%) · Mon cash S&P 7,652.86 (−0.28%) · 10-year 4.668% · 30-year 5.197% · NVDA $211.15 (+1.28% premarket; Mon close $208.48, −2.91%)"
+    "updated": "Aug 25, 4:00 p.m.",
+    "line": "S&P 7,677.28 (+0.32% close) · Mon cash 7,652.86 (−0.28%) · 10-year 4.639% · 30-year 5.174% · SOX 11,588 (+1.44%) · NVDA $213.05 (+2.19% close)"
   },
   "deskNote": {
     "kicker": "Markets",
     "hed": "Four papers overnight, a chip still in production, and a Wednesday call",
     "signed": "The Markets desk",
-    "body": "The Tuesday mailing put a single-neuron buy/sell dial, a measurement paper, an exact Kelly booster, and an arbitrage-aware IV-surface diffusion on the same page. Futures are bid after Monday’s chip tape: ES 7,697.50, +0.36 percent; NQ 29,333, +0.78 percent (Yahoo Finance, 8:43 a.m.). Cash closed 7,652.86, −0.28 percent. The 10-year is 4.668 percent and the 30-year 5.197 percent, off Monday’s 4.704 and 5.231. NVDA $211.15 in the premarket, +1.28 percent from Monday’s $208.48 close (−2.91 percent), into Wednesday’s print. Sunday’s Alibaba placing remains capital structure — HK$80 billion, 710 million shares at HK$112.70 — not last week’s cloud P&L."
+    "body": "The Tuesday mailing put a single-neuron buy/sell dial, a measurement paper, an exact Kelly booster, and an arbitrage-aware IV-surface diffusion on the same page. S&P cash closed 7,677.28, +0.32 percent (Yahoo Finance). Monday’s close was 7,652.86, −0.28 percent. The 10-year was 4.639 percent and the 30-year 5.174 percent at the cash close, off Monday’s 4.704 and 5.231. SOX 11,588 (+1.44 percent). NVDA $213.05 (+2.19 percent) into Wednesday’s print. Sunday’s Alibaba placing remains capital structure — HK$80 billion, 710 million shares at HK$112.70 — not last week’s cloud P&L."
   },
   "comingUp": {
     "label": "Coming up",
