@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 7,
+  "number": 8,
   "city": "New York",
   "date": "Wednesday, August 26, 2026",
-  "editionLabel": "Midday Edition",
+  "editionLabel": "Late Edition",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Aug 26, 1:54 p.m.",
-    "line": "S&P 7,675.50 (−0.02% live) · Tue cash 7,677.28 (+0.32%) · 10-year 4.664% · 30-year 5.186% · SOX 11,594 (+0.05%) · NVDA $210.51 (−1.19% live)"
+    "updated": "Aug 26, cash close / AH",
+    "line": "S&P 7,675.70 (−0.02% cash) · 10-year 4.664% · 30-year 5.186% · SOX 11,611 (+0.20%) · NVDA $209.66 (−1.59% cash) · AH ~$208.81 (−0.4% from cash)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "The placing closed. The chip has not printed.",
+    "hed": "The chip printed. Three call questions remain.",
     "signed": "The Markets desk",
-    "body": "Morning and noon hourly runs missed. This midday catch-up takes the overnight through 1:52 p.m. ET window. Alibaba’s HK$80 billion placing — 710 million shares at HK$112.70 — closed today on the official PR, HKEX notice, and 6-K. S&P was 7,675.50, essentially flat on Tuesday’s 7,677.28 cash close (Yahoo Finance). The 10-year was 4.664 percent and the 30-year 5.186. SOX 11,594. NVDA $210.51 (−1.19 percent) into a ~4:20 p.m. ET FQ2 FY27 print and 5:00 p.m. call — no results yet, and ordinary preview recaps are not new copy."
+    "body": "Official FQ2 FY27 is out: revenue $96.2 billion, Data Center $89.0 billion, GAAP EPS $2.46 / non-GAAP $2.22, GAAP and non-GAAP gross margin both 75.0%. Q3 guide $108.0 billion ±2%, gross margin 74.0% ±50 bps, no China Data Center compute in the outlook. Cash close: S&P 7,675.70 (−0.02%), 10-year 4.664%, 30-year 5.186%, SOX 11,611 (+0.20%), NVDA $209.66 (−1.59%); after-hours about $208.81 (−0.4% from cash) on Yahoo Finance minute prints. Call at 5:00 p.m. ET. Keep Alibaba’s June-quarter three ledgers; do not write Reuters’ $10.2 billion conversion as the PR figure."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,40 @@
   ],
   "stories": [
     {
-      "id": "placement-close",
+      "id": "nvda-fq2",
       "lead": true,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Nvidia FQ2 FY27: $96.2B revenue, $108B Q3 guide",
+      "dek": "Data Center $89.0B. GAAP EPS $2.46 / non-GAAP $2.22. GM 75.0%. Vera Rubin and Groq 3 LPX in full production. Call 5:00 p.m. ET.",
+      "date": "Aug. 26, 2026",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "also": [
+        {
+          "label": "CFO Commentary (PDF)",
+          "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf"
+        },
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/nvda-20260826.htm"
+        },
+        {
+          "label": "Investor IR",
+          "url": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — STILL OPEN (PR: both in full production; no mix). (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN (no company comment on the Bloomberg figure). (3) memory inflation / 2027 ASP — PARTIAL in written (supply commitments $279B primarily memory; Edge tempered by elevated memory/systems prices); no explicit 2027 GPU ASP. Listen for call color.",
+      "grafs": [
+        "NVIDIA reported fiscal second-quarter 2027 results for the quarter ended July 26, 2026: revenue $96.2 billion ($96,221 million), up 18% sequentially and 106% year over year. Data Center revenue was $89.0 billion ($89,023 million), up 18% sequentially and 117% year over year. GAAP and non-GAAP gross margins were both 75.0%. GAAP diluted EPS was $2.46; non-GAAP diluted EPS was $2.22. Edge Computing was $7.2 billion, up 13% sequentially and 27% year over year. Official release: NVIDIA Newsroom; Colette Kress CFO commentary PDF on investor.nvidia.com; Form 8-K filed Aug. 26.",
+        "Outlook for Q3 FY27: revenue $108.0 billion, plus or minus 2%, with no Data Center compute revenue from China assumed; GAAP and non-GAAP gross margins 74.0%, plus or minus 50 basis points; GAAP and non-GAAP operating expenses about $9.2 billion and $9.0 billion. Jensen Huang: “AI has reached its inflection point… Now, compute is revenue.” Vera Rubin is in full production with racks at CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. NVIDIA Groq 3 LPX is in full production. CFO commentary: Data Center driven by Blackwell Ultra; Hyperscale more than doubled year over year; ACIE +138% Y/Y; Hopper to China under 1% of Data Center; supply and capacity commitments rose from $119 billion to $279 billion, primarily memory procurement; inventory $31.6 billion ahead of Vera Rubin’s third-quarter introduction; Edge Computing tempered by elevated memory and systems prices.",
+        "Cash close (Yahoo Finance): S&P 7,675.70 (−0.02%), 10-year 4.664%, 30-year 5.186%, SOX 11,611 (+0.20%), NVDA $209.66 (−1.59%). After-hours minute prints near $208.81 (−0.4% from cash). Conference call 5:00 p.m. ET. Three desk questions for the call remain: Groq 3 LPX near-term mix versus 2027 Rubin attach; whether early-2027 AI-server price hikes above 15% are memory/BOM versus GPU ASP (Nvidia has not commented on that report); and fuller memory-inflation / 2027 ASP color beyond the $279 billion memory-weighted commitments."
+      ]
+    },
+    {
+      "id": "placement-close",
+      "lead": false,
       "section": "Finance",
       "kicker": "Finance",
       "hed": "Alibaba closes the HK$80 billion AI placing",
