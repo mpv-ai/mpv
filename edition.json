@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 6,
+  "number": 7,
   "city": "New York",
-  "date": "Tuesday, August 25, 2026",
-  "editionLabel": "Late Edition",
+  "date": "Wednesday, August 26, 2026",
+  "editionLabel": "Midday Edition",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Aug 25, 4:00 p.m.",
-    "line": "S&P 7,677.28 (+0.32% close) · Mon cash 7,652.86 (−0.28%) · 10-year 4.639% · 30-year 5.174% · SOX 11,588 (+1.44%) · NVDA $213.05 (+2.19% close)"
+    "updated": "Aug 26, 1:54 p.m.",
+    "line": "S&P 7,675.50 (−0.02% live) · Tue cash 7,677.28 (+0.32%) · 10-year 4.664% · 30-year 5.186% · SOX 11,594 (+0.05%) · NVDA $210.51 (−1.19% live)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Four papers overnight, a chip still in production, and a Wednesday call",
+    "hed": "The placing closed. The chip has not printed.",
     "signed": "The Markets desk",
-    "body": "The Tuesday mailing put a single-neuron buy/sell dial, a measurement paper, an exact Kelly booster, and an arbitrage-aware IV-surface diffusion on the same page. S&P cash closed 7,677.28, +0.32 percent (Yahoo Finance). Monday’s close was 7,652.86, −0.28 percent. The 10-year was 4.639 percent and the 30-year 5.174 percent at the cash close, off Monday’s 4.704 and 5.231. SOX 11,588 (+1.44 percent). NVDA $213.05 (+2.19 percent) into Wednesday’s print. Sunday’s Alibaba placing remains capital structure — HK$80 billion, 710 million shares at HK$112.70 — not last week’s cloud P&L."
+    "body": "Morning and noon hourly runs missed. This midday catch-up takes the overnight through 1:52 p.m. ET window. Alibaba’s HK$80 billion placing — 710 million shares at HK$112.70 — closed today on the official PR, HKEX notice, and 6-K. S&P was 7,675.50, essentially flat on Tuesday’s 7,677.28 cash close (Yahoo Finance). The 10-year was 4.664 percent and the 30-year 5.186. SOX 11,594. NVDA $210.51 (−1.19 percent) into a ~4:20 p.m. ET FQ2 FY27 print and 5:00 p.m. call — no results yet, and ordinary preview recaps are not new copy."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,36 @@
   ],
   "stories": [
     {
-      "id": "dial",
+      "id": "placement-close",
       "lead": true,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Alibaba closes the HK$80 billion AI placing",
+      "dek": "710 million new ordinary shares at HK$112.70. Net ~HK$79.7 billion. 60/40 to compute and hyperscale AI cloud. Official Aug. 26 close.",
+      "date": "Aug. 26, 2026",
+      "source": "Alibaba Group",
+      "url": "https://www.alibabagroup.com/en-US/document-2029365886510432256",
+      "also": [
+        {
+          "label": "HKEX completion",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082601205.pdf"
+        },
+        {
+          "label": "SEC 6-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526365894/project_turing_closing.htm"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Capital structure is closed. Keep the June-quarter 45 / 75 / −75 on three ledgers. Do not write Reuters’ $10.2 billion conversion as the PR figure.",
+      "grafs": [
+        "Alibaba Group announced today that its HK$80 billion placing of 710,000,000 newly issued ordinary shares at HK$112.70 a share has closed. The Hong Kong Stock Exchange completion notice and a Form 6-K both date the close Aug. 26. All conditions in the Aug. 23 placing agreement were fulfilled. The shares went to non-U.S. persons outside the United States under Regulation S.",
+        "Gross proceeds were HK$80.0 billion; net proceeds after commission and expenses are about HK$79.7 billion. Intended use is 100 percent full-stack AI: about 60 percent, or HK$47,871 million, to expand global computing infrastructure; about 40 percent, or HK$31,914 million, to accelerate hyperscale AI data centers and upgrade storage, databases, and high-performance networking for an Agentic Cloud architecture. Issued shares rise from 19,174,988,918 to 19,884,988,918 — about 3.57 percent of the enlarged capital. The company said no placee becomes a substantial shareholder.",
+        "This closes Sunday’s priced deal. It is not a redo of last week’s June-quarter print — AI Cloud +45 percent demand with cloud adjusted EBITA +133 percent to a 12 percent margin; group GAAP net income −75 percent; group capex +75 percent. Keep those three ledgers. The PR figure is HK$80 billion, not a dollar conversion."
+      ]
+    },
+    {
+      "id": "dial",
+      "lead": false,
       "section": "AI",
       "kicker": "AI",
       "hed": "Your AI, On a Dial",

@@ -1,4 +1,4 @@
-const CACHE = "mpv-hourly-20260825-no6";
+const CACHE = "mpv-hourly-20260826-no7";
 const ASSETS = [
   "./",
   "./index.html",

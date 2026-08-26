@@ -1,6 +1,6 @@
 # MPV
 
-Vol. 1, No. 6 — Tuesday, August 25, 2026. Morning Edition. New York.
+Vol. 1, No. 7 — Wednesday, August 26, 2026. Midday Edition. New York.
 
 **Live:** [https://mpv-ai.github.io/mpv/](https://mpv-ai.github.io/mpv/)
 
