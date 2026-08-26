@@ -1,6 +1,6 @@
 # MPV
 
-Vol. 1, No. 9 — Wednesday, August 26, 2026. Evening Edition. New York.
+Vol. 1, No. 10 — Wednesday, August 26, 2026. Night Edition. New York.
 
 **Live:** [https://mpv-ai.github.io/mpv/](https://mpv-ai.github.io/mpv/)
 

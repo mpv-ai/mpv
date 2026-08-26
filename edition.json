@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 9,
+  "number": 10,
   "city": "New York",
   "date": "Wednesday, August 26, 2026",
-  "editionLabel": "Evening Edition",
+  "editionLabel": "Night Edition",
   "tape": {
-    "source": "Yahoo Finance",
-    "updated": "Aug 26, ~5:50 p.m. ET AH",
-    "line": "S&P 7,675.70 (−0.02% cash) · 10-year 4.664% · 30-year 5.186% · SOX 11,611 (+0.20%) · NVDA $209.66 (−1.59% cash) · AH ~$219.15 (+4.5% from cash)"
+    "source": "CNBC Quote",
+    "updated": "Aug 26, ~6:50 p.m. ET AH",
+    "line": "S&P 7,675.70 (−0.02% cash) · 10-year 4.664% · 30-year 5.186% · SOX 11,611 (+0.20%) · NVDA $209.66 (−1.59% cash) · AH ~$218.80 (+4.4% from cash)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Call color on memory margins. Two questions still open.",
+    "hed": "Call transcript closes Groq mix. Bloomberg 15% figure still open.",
     "signed": "The Markets desk",
-    "body": "FQ2 FY27 print stands: revenue $96.2 billion, Data Center $89.0 billion, GAAP EPS $2.46 / non-GAAP $2.22, GM 75.0%; Q3 $108.0 billion ±2%, GM 74.0% ±50 bps, no China DC compute. On the 5:00 p.m. ET call, CNBC (Kif Leswing) reports CFO Colette Kress saying gross margin bottoms in FQ4 FY27 at 71%–72%, partially on memory prices, and fiscal 2028 revenue growth of about 70%. Official NVIDIA/AWS release: 2 million additional GPUs in 2027–2028. Yahoo Finance after-hours ~$219.15 (+4.5% from cash close $209.66) near 5:50 p.m. ET. Groq 3 LPX mix vs Rubin attach and the Bloomberg >15% early-2027 server-hike split (memory/BOM vs GPU ASP) still lack attributable company answers in free wire transcripts. Keep Alibaba’s June-quarter three ledgers; do not write Reuters’ $10.2 billion conversion as the PR figure."
+    "body": "FQ2 FY27 print unchanged: $96.2B / DC $89.0B / EPS $2.46/$2.22 / GM 75.0%; Q3 $108.0B ±2%, GM 74.0% ±50 bps. Free full call transcript (earningscall.ai; IR PDF not yet posted): Huang — Groq 3 LPX is a bolt-on for high-ASP/interactivity services; vast majority of data centers remain Vera Rubin NVL72; Kress — LPX volume later this quarter, Nebius first. Kress also: executed price increases take effect in Q1 FY28 as GM settles 72–73% after FQ4 trough 71–72% on memory — still no company confirm of Bloomberg’s >15% server-hike figure or a clean memory/BOM vs GPU ASP split. AH ~$218.80 (+4.4%) on CNBC quote ~6:50 p.m. ET. Alibaba rules unchanged."
   },
   "comingUp": {
     "label": "Coming up",
@@ -34,10 +34,10 @@
       "lead": true,
       "section": "Markets",
       "kicker": "Markets",
-      "hed": "Nvidia FQ2 FY27: $96.2B print; call flags FY28 ~70% and GM trough",
-      "dek": "DC $89.0B. EPS $2.46 / $2.22. GM 75.0%. Call: FQ4 GM 71–72% on memory; FY28 growth ~70%. AWS +2M GPUs. AH ~+4.5%.",
+      "hed": "Nvidia call: Groq LPX bolt-on; Rubin majority; Q1 price hikes",
+      "dek": "Transcript: vast majority Vera Rubin NVL72; LPX high-ASP bolt-on, volume this quarter (Nebius). GM trough then Q1 hikes. AH ~+4.4%.",
       "date": "Aug. 26, 2026",
-      "source": "NVIDIA; CNBC",
+      "source": "NVIDIA; earnings call transcript; CNBC",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
       "also": [
         {
@@ -49,7 +49,11 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/nvda-20260826.htm"
         },
         {
-          "label": "CNBC live updates (call)",
+          "label": "Full call transcript (earningscall.ai)",
+          "url": "https://www.earningscall.ai/stock/transcript/NVDA-2027-Q2"
+        },
+        {
+          "label": "CNBC live updates",
           "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html"
         },
         {
@@ -58,12 +62,13 @@
         }
       ],
       "owner": "QUILL",
-      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — STILL OPEN (no attributable mix/attach color in free wire call recaps yet; full transcript not free). (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN (no company comment on the Bloomberg figure in CNBC call updates scanned). (3) memory inflation / 2027 ASP — ADVANCED on call via CNBC: Kress says GM bottoms FQ4 FY27 at 71%–72% partially due to memory; quote “Memory scarcity today is being driven in large part by the AI buildout itself.” Still no explicit 2027 GPU ASP. Written $279B memory-weighted commitments unchanged.",
+      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — CLOSED on free full transcript (earningscall.ai; IR official transcript not yet posted): Kress — ship Groq 3 LPX in volume later this quarter to early adopters, Nebius first; Huang — associate LPX with high-ASP services / bolt-on accelerators; vast majority of world data centers will be Vera Rubin NVL72. (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN on the Bloomberg figure and the BOM-vs-GPU-ASP split; ADVANCED only: Kress says executed price increases take effect in Q1 FY28 as GM settles at 72–73% after FQ4 trough 71–72% on memory. (3) memory inflation / 2027 ASP — ADVANCED (CNBC + transcript): memory scarcity quote; GM path; no explicit 2027 GPU ASP. Do not invent a 15% company confirm. Written $279B memory-weighted commitments unchanged.",
       "grafs": [
         "NVIDIA reported fiscal second-quarter 2027 results for the quarter ended July 26, 2026: revenue $96.2 billion ($96,221 million), up 18% sequentially and 106% year over year. Data Center revenue was $89.0 billion ($89,023 million), up 18% sequentially and 117% year over year. GAAP and non-GAAP gross margins were both 75.0%. GAAP diluted EPS was $2.46; non-GAAP diluted EPS was $2.22. Edge Computing was $7.2 billion, up 13% sequentially and 27% year over year. Official release: NVIDIA Newsroom; Colette Kress CFO commentary PDF on investor.nvidia.com; Form 8-K filed Aug. 26.",
-        "Outlook for Q3 FY27 (written): revenue $108.0 billion, plus or minus 2%, with no Data Center compute revenue from China assumed; GAAP and non-GAAP gross margins 74.0%, plus or minus 50 basis points; GAAP and non-GAAP operating expenses about $9.2 billion and $9.0 billion. Jensen Huang (release): “AI has reached its inflection point… Now, compute is revenue.” Vera Rubin and NVIDIA Groq 3 LPX are in full production. CFO commentary: supply and capacity commitments rose from $119 billion to $279 billion, primarily memory procurement; Edge Computing tempered by elevated memory and systems prices.",
-        "Call color (CNBC live updates, Kif Leswing, during/after the 5:00 p.m. ET conference call — not a full Seeking Alpha-style transcript): Kress said gross margin is expected to decline and bottom in the fourth quarter of fiscal 2027 in the 71% to 72% range, partially due to memory prices. “We want to be direct about this, rather than let it linger as an open question,” Kress said, per CNBC. “Memory scarcity today is being driven in large part by the AI buildout itself.” CNBC also reports Kress saying Nvidia expects fiscal 2028 revenue growth of 70%, with customer forecasts that “point to our growth doubling next year,” while guidance reflects supply constraints; and that capex among the “top five hyperscalers” is expected to rise to $1.3 trillion next year from $800 billion in 2026. Free full call transcript not yet confirmed in open Seeking Alpha/wire copies at press time.",
-        "Same-day beat: AWS and NVIDIA announced plans to deploy 2 million additional NVIDIA GPUs across AWS global infrastructure in 2027–2028, plus Vera CPU-based infrastructure on AWS (NVIDIA Newsroom / AWS joint release). Cash close (Yahoo Finance): S&P 7,675.70 (−0.02%), 10-year 4.664%, 30-year 5.186%, SOX 11,611 (+0.20%), NVDA $209.66 (−1.59%). After-hours near 5:50 p.m. ET: NVDA about $219.15 (+4.5% from cash) on Yahoo Finance. Desk open items after call scan: Groq 3 LPX near-term mix versus 2027 Rubin attach; whether early-2027 AI-server price hikes above 15% are memory/BOM versus GPU ASP (still no attributable company answer to the Bloomberg report in free CNBC call updates)."
+        "Outlook for Q3 FY27 (written + call): revenue $108.0 billion, plus or minus 2%, with no Data Center compute revenue from China assumed; GAAP and non-GAAP gross margins 74.0%, plus or minus 50 basis points. On the call, Kress said sequential growth is driven primarily by ACIE, with hyperscaler growth expected to reaccelerate in Q4 and into FY28 as Vera Rubin supply grows; she expects Vera Rubin to account for about 20% of Data Center revenue in Q3. Supply commitments rose from $119 billion to $279 billion, primarily memory. Jensen Huang (release): “AI has reached its inflection point… Now, compute is revenue.” Vera Rubin and NVIDIA Groq 3 LPX are in full production.",
+        "Call color — open question (1) closed (free full transcript via earningscall.ai; company IR transcript PDF not yet posted; Seeking Alpha/Motley Fool copies not free at press time). Kress (prepared): NVIDIA expects to ship Groq 3 LPX in volume later this quarter to early adopters, with Nebius first. Answering C.J. Muse on inference share and Groq 3 LPX, Huang said LPX can be associated with high-ASP services and bolted on as an accelerator, but “the vast majority of the world’s data centers will just be Vera Rubin” NVL72. Desk read: near-term mix is Rubin-majority attach, with LPX a selective high-interactivity bolt-on — not a peer volume share of the 2027 rack base.",
+        "Call color — open question (2) still open on Bloomberg’s >15% figure and memory/BOM vs GPU ASP. Kress: extreme memory pricing exceeded prior expectations and is headed higher into next year; GM bottoms in FQ4 FY27 at 71–72%, then settles at 72–73% in FY28 “as executed price increases take effect in Q1.” “Memory scarcity today is being driven in large part by the AI buildout itself” (also on CNBC). Stacey Rasgon referenced the Q1 price increase on the call; management did not quote “15%” or split server BOM pass-through from GPU ASP. FY28 revenue growth ~70% remains a supply-constrained outlook (customer forecasts “point to our growth doubling”); unconstrained would be “a lot higher,” per Huang. Also on call (CNBC): Huang on frontier-lab stakes — “The only regret that I have is that I didn’t invest more and sooner,” suggesting OpenAI and Anthropic “will likely go public soon.”",
+        "Same-day beat unchanged: AWS and NVIDIA plan 2 million additional NVIDIA GPUs across AWS in 2027–2028, plus Vera CPUs on AWS (some integrated with Rubin). Cash close: S&P 7,675.70 (−0.02%), NVDA $209.66 (−1.59%). After-hours ~6:50 p.m. ET (CNBC quote): NVDA about $218.80 (+4.4% from cash)."
       ]
     },
     {
