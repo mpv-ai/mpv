@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 14,
+  "number": 15,
   "city": "New York",
   "date": "Thursday, August 27, 2026",
-  "editionLabel": "After the Close",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance",
     "updated": "Aug 27, close ~4:00 p.m. ET",
@@ -11,14 +11,14 @@
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "WDAY and MRVL print after the close. SK Horizon KRW 3.08T joins the plate.",
+    "hed": "Rubrik prints after the close. NVIDIA posts the official Q2 transcript PDF.",
     "signed": "The Markets desk",
-    "body": "After-the-close adds wday-fq2, mrvl-fq2, and sk-horizon. Workday FQ2 FY27 (ended July 31): total revenue $2.649B (+12.8%), subscription $2.471B (+13.9%); GAAP operating income $313M (11.8%); non-GAAP operating income $824M (31.1%); GAAP diluted EPS $2.57 including a $1.52/share tax benefit from an intra-entity IP transfer; non-GAAP diluted EPS $2.75. 12-month subscription backlog $9.034B (+14.2%); total subscription backlog $27.403B (+8.0%). Bought back ~9.8M shares for $1.3B; board authorized additional open-ended $4.0B Class A repurchase. FY27 sub revenue guide $9.940–$9.950B (13%); non-GAAP op. margin 31.0%. Q3 sub $2.515B (12%), non-GAAP op. margin 30.0%. Bhusri: AI >25% of new ACV; >5,500 customers on organic agents. Marvell FQ2 FY27 (ended Aug. 1): record net revenue $2.739B (+37% YoY), $39M above May 27 guidance midpoint; data center $2.1715B (+46% YoY). GAAP diluted EPS $0.33; non-GAAP $0.94. Q3 net revenue outlook $3.150B ±5%. Company says it is raising FY27 and FY28 revenue outlook vs last quarter — do not invent dollar FY figures absent the deck. SK Telecom: SK Horizon spin from SK Broadband data-center + submarine cable; KKR 29% and IMM–Stonebridge 20% for combined KRW 3.08T; SKT keeps 51%. Target capacity 318 MW; close targeted 1Q next year. Lead remains nvda-10q. IR official Q2 transcript PDF still 404. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Atlantic already on plate. Alibaba rules unchanged. Close tape: S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%)."
+    "body": "Evening add rbrk-fq2. Rubrik FQ2 FY27 (ended July 31), from the Aug. 27 8-K Exhibit 99.1: subscription ARR $1.66B (+33% YoY); Cloud ARR $1.48B (+39%); subscription revenue $407.2M (+37%); total revenue $427.3M (+38%). GAAP gross margin 78.4%; non-GAAP 81.0%. Subscription ARR contribution margin 14.0% vs 9.4% a year earlier. GAAP net loss per share $(0.30); non-GAAP diluted net income per share $0.20. Operating cash flow $76.8M (18% margin); free cash flow $65.7M (15%). Cash, cash equivalents, and short-term investments $1.75B. Raising FY27 on all guided metrics: subscription ARR $1,880–$1,885M; revenue $1,685–$1,693 million; contribution margin ~15.5%; non-GAAP EPS $0.47–$0.53; FCF $323–$333M. Q3 revenue $429–$431M. Official NVIDIA IR Q2 FY27 transcript PDF is now posted (FactSet CallStreet, 16 pp). Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Close tape unchanged: S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "NVIDIA IR Q2 FY27 transcript PDF still unposted. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed.",
-    "href": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx"
+    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed.",
+    "href": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg"
   },
   "sections": [
     "All",
@@ -73,6 +73,10 @@
       "source": "NVIDIA; earnings call transcript; CNBC",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
       "also": [
+        {
+          "label": "Official IR call transcript (PDF)",
+          "url": "https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+        },
         {
           "label": "CFO Commentary (PDF)",
           "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf"
@@ -205,6 +209,34 @@
         "Workday (NASDAQ: WDAY) reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the close on Aug. 27. Total revenues were $2.649 billion, up 12.8% from the year-ago quarter. Subscription revenues were $2.471 billion, up 13.9%. GAAP operating income was $313 million, or 11.8% of revenues, versus $248 million, or 10.6%, a year earlier. Non-GAAP operating income was $824 million, or 31.1% of revenues, versus $680 million, or 29.0%.",
         "GAAP diluted net income per share was $2.57, versus $0.84 a year earlier. Included in that figure is a tax benefit of $1.52 per share tied to an intra-entity transfer of certain intellectual property rights as part of an internal legal entity restructuring. Non-GAAP diluted net income per share was $2.75, versus $2.21. Twelve-month subscription revenue backlog was $9.034 billion, up 14.2%. Total subscription revenue backlog was $27.403 billion, up 8.0%. Operating cash flow was $520 million and free cash flow $460 million, both below the year-ago quarter ($616 million and $588 million).",
         "Workday repurchased about 9.8 million Class A shares for $1.3 billion in the quarter. The board authorized an additional open-ended repurchase of up to $4.0 billion of Class A stock. More than 5,500 customers now use one or more organic agents, up more than 35% from last quarter. Co-founder, CEO and chair Aneel Bhusri said AI drove more than 25% of new ACV. CFO Zane Rowe guided fiscal 2027 subscription revenue to $9.940–$9.950 billion (13% growth) and lifted fiscal 2027 non-GAAP operating margin guidance to 31.0%. For the third quarter ending Oct. 31, 2026: subscription revenues $2.515 billion (12% growth) and non-GAAP operating margin 30.0%."
+      ]
+    },
+    {
+      "id": "rbrk-fq2",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Rubrik Q2: sub ARR $1.66B (+33%); raises FY27",
+      "dek": "Revenue $427.3M (+38%). Non-GAAP EPS $0.20. Claude Code Agent Cloud. FY sub ARR $1.880–$1.885B.",
+      "date": "Aug. 27, 2026",
+      "source": "Rubrik; SEC Exhibit 99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1943896/000194389626000055/rubrikinc-991pressrelease7.htm",
+      "also": [
+        {
+          "label": "SEC 8-K (items 2.02, 5.02, 9.01)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1943896/000194389626000055/rbrk-20260826.htm"
+        },
+        {
+          "label": "SEC 8-K index",
+          "url": "https://www.sec.gov/Archives/edgar/data/1943896/000194389626000055/0001943896-26-000055-index.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as the cyber/AI-ops AMC print next to wday-fq2. Lead with subscription ARR $1.66B (+33%) and the FY27 raise. Agent Cloud for Anthropic Claude Code and the £375M UK / London EMEA HQ are the AI and geo grafs — do not invent consensus beats; the company says it exceeded all guided metrics. Item 5.02 is a board add (Rakefet Russak-Aminoach), not an officer exit.",
+      "grafs": [
+        "Rubrik (NYSE: RBRK) reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the close on Aug. 27. Subscription ARR grew 33% year over year to $1.66 billion, with net new subscription ARR up 35%. Cloud ARR grew 39% to $1.48 billion. Subscription revenue was $407.2 million, up 37% from $297.0 million a year earlier. Total revenue was $427.3 million, up 38% from $309.9 million; that includes $4.7 million of material-rights revenue this quarter versus $14.2 million a year ago. Revenue normalized for material rights increased 43%. The company said results exceeded all guided metrics.",
+        "GAAP gross margin was 78.4%, versus 79.5% a year earlier; non-GAAP gross margin was 81.0%, versus 81.6%. Subscription ARR contribution margin was 14.0%, versus 9.4%. GAAP net loss per share was $(0.30), versus $(0.49). Non-GAAP diluted net income per share was $0.20, versus a non-GAAP diluted net loss of $(0.03). Operating cash flow was $76.8 million (18% margin) and free cash flow $65.7 million (15%). Cash, cash equivalents, and short-term investments were $1.75 billion. Customers with $100,000 or more in subscription ARR numbered 3,084, up 23%.",
+        "CEO Bipul Sinha said frontier AI models have changed the cybersecurity landscape and that Rubrik’s Agentic Cyber Resilience is meant to deliver machine-speed recovery and autonomous runtime AI-agent security. The company launched Rubrik AI across Security Cloud and Agent Cloud; launched Rubrik Agent Cloud for Anthropic’s Claude Code and Project Hourglass, a GSI alliance with Cognizant, Deloitte, HCLTech, NTT DATA, and Wipro; and announced a £375 million ($500 million) UK investment, naming London its EMEA headquarters. The board added Rakefet Russak-Aminoach as a Class I director. Fiscal 2027 guidance was raised on all guided metrics: subscription ARR $1,880–$1,885 million; revenue $1,685–$1,693 million; non-GAAP subscription ARR contribution margin about 15.5%; non-GAAP EPS $0.47–$0.53; free cash flow $323–$333 million. Third-quarter outlook: revenue $429–$431 million; contribution margin about 14%; non-GAAP EPS $0.07–$0.09."
       ]
     },
     {
