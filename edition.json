@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 12,
+  "number": 13,
   "city": "New York",
   "date": "Thursday, August 27, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "CNBC Quote",
-    "updated": "Aug 27, ~11:52 a.m. ET",
-    "line": "S&P 7,720.98 (+0.59%) · 10-year 4.66% · 30-year 5.18% · SOX 11,795 (+1.58%) · NVDA $225.88 (+7.74%)"
+    "updated": "Aug 27, ~12:50 p.m. ET",
+    "line": "S&P 7,735.74 (+0.78%) · 10-year 4.67% · 30-year 5.19% · SOX 11,838 (+1.95%) · NVDA $228.92 (+9.19%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Socure $5.2B on the plate. Bloomberg 15% still open.",
+    "hed": "Apollo–KKR Atlantic ~$10B on the plate. Bloomberg 15% still open.",
     "signed": "The Markets desk",
-    "body": "Midday adds socure: official Aug. 27 Socure / Summit Partners release. Strategic growth investment values Socure at $5.2B; Summit led, with Goldman Sachs Alternatives, Wells Fargo, Docusign and others; primary capital plus an employee secondary tender. Fravity acquired (price not disclosed) and folded into RiskOS as RiskOS_Agents. Summit states Q2 2026 $364M total ARR, 63% year-over-year ARR growth, 133% net dollar retention, 0.01% logo churn, more than 3,000 customers. Official PRs do not state a dollar amount for the raise; do not write $156M. Lead remains nvda-10q. Form 10-Q (period ended July 26, 2026; accepted Aug. 26, 4:36 p.m. ET): signed SB Energy LPS guarantees capped at $105B for ~4.25 GW at PORTS, Pike County, Ohio. Do not collapse the signed $105B cap with the preliminary >$500B MOUs. IR official Q2 transcript PDF still not posted (quarterly-results list: PR, webcast, CFO commentary, revenue trend, 10-Q, presentation). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement). CNBC ~11:52 a.m. ET: S&P 7,720.98 (+0.59%), NVDA $225.88 (+7.74%). WDAY/MRVL AMC later — no numbers invented. Alibaba rules unchanged."
+    "body": "Afternoon adds atlantic-aviation: official Aug. 27 Apollo / KKR releases. Apollo Funds acquire a significant interest in Atlantic Aviation; KKR Funds remain a substantial shareholder. Transaction values Atlantic at nearly $10B. FBO / private-aviation infrastructure; KKR owned since 2021. Lead remains nvda-10q. Form 10-Q (period ended July 26, 2026; accepted Aug. 26, 4:36 p.m. ET): signed SB Energy LPS guarantees capped at $105B for ~4.25 GW at PORTS, Pike County, Ohio. Do not collapse the signed $105B cap with the preliminary >$500B MOUs. IR official Q2 transcript PDF still not posted (common Q2FY27-Transcript.pdf URLs 404; quarterly-results list still: PR, webcast, CFO commentary, revenue trend, 10-Q, presentation — no Q2 FY27 Transcript link). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement; Reuters/CNBC same-day say agreed/talks, no company confirm). Socure $5.2B already on plate — do not write $156M. CNBC ~12:50 p.m. ET: S&P 7,735.74 (+0.78%), NVDA $228.92 (+9.19%). WDAY/MRVL AMC later — no numbers invented. Alibaba rules unchanged."
   },
   "comingUp": {
     "label": "Coming up",
@@ -153,6 +153,30 @@
         "Socure today announced a strategic growth investment that values the company at $5.2 billion, and said it is acquiring Fravity, an agentic platform for fraud, risk, and compliance operations. Summit Partners led; Goldman Sachs Alternatives, Wells Fargo, Docusign, and others participated. The investment includes primary capital and an existing employee secondary tender. Fravity’s price was not disclosed.",
         "The Summit release, matching Socure’s own notice, says Socure closed the 2026 second quarter with $364 million in total ARR, 63 percent year-over-year ARR growth, 133 percent net dollar retention, and 0.01 percent logo churn across more than 3,000 customers. Fravity will be delivered through RiskOS as RiskOS_Agents. Across existing deployments, the release says Fravity cut cost per case by 80 percent, sped case resolution by up to 5x, and cut false positives by as much as 70 percent.",
         "Press recaps have put the new check at $156 million. That figure is not in the Socure or Summit releases. Do not write it as a company number. Last disclosed private mark was the November 2021 Accel / T. Rowe Price Series E at $4.5 billion."
+      ]
+    },
+    {
+      "id": "atlantic-aviation",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Apollo joins KKR on Atlantic Aviation at nearly $10B",
+      "dek": "Official Aug. 27 releases: Apollo Funds take a significant stake; KKR stays in. FBO infrastructure platform.",
+      "date": "Aug. 27, 2026",
+      "source": "Apollo / KKR",
+      "url": "https://www.apollo.com/insights-news/pressreleases/2026/08/apollo-funds-and-kkr-announce-strategic-partnership-to-support-atlantic-aviation-s-continued-growth-3351962",
+      "also": [
+        {
+          "label": "KKR release",
+          "url": "https://media.kkr.com/news-details?news_id=a40dbd14-ea07-4235-bd99-7b72dc949672"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as PE/infrastructure co-invest, not a take-private. Keep the nearly $10B enterprise mark as the official figure; do not invent check size or % ownership. Pair with nvda-10q capital-platform color only as adjacent infrastructure financing context — Atlantic is aviation FBO, not AI data center.",
+      "grafs": [
+        "Apollo (NYSE: APO) and KKR (NYSE: KKR) announced Aug. 27 a strategic partnership around Atlantic Aviation, one of the largest private aviation infrastructure platforms in the United States. Under the transaction, Apollo-managed funds have acquired a significant interest in the company, while KKR-managed funds remain a substantial shareholder. The transaction values Atlantic Aviation at nearly $10 billion. Matching releases went out on Apollo’s press page and KKR Media.",
+        "Atlantic provides fixed-base operator services across the U.S., including aircraft fueling, hangar leasing, and other aviation services backed by long-term airport concession agreements. KKR acquired Atlantic in 2021 and says the platform has expanded locations through acquisitions and organic growth in the U.S. and certain international markets. KKR is funding its continued investment primarily through its infrastructure vehicles; KKR’s infrastructure business manages more than $120 billion in infrastructure assets, and since 2015 KKR has invested more than $12 billion across aviation.",
+        "Apollo Partner David Cohen and KKR Partner Dash Lane are quoted on the structural case for private aviation and on welcoming Apollo as a new investor. Atlantic CEO Jeff Foland called the dual-sponsor backing validation of the platform. Advisors named in the release: Paul, Weiss for the Apollo Funds; Evercore and Morgan Stanley as financial advisors and Kirkland & Ellis as legal advisor to KKR. Apollo cites more than $155 billion of infrastructure transactions and financings originated over the past five years under its Infrastructure Investment Classification Framework (methodology footnote on the Apollo release)."
       ]
     },
     {
