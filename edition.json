@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 13,
+  "number": 14,
   "city": "New York",
   "date": "Thursday, August 27, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "After the Close",
   "tape": {
-    "source": "CNBC Quote",
-    "updated": "Aug 27, ~3:48 p.m. ET",
-    "line": "S&P 7,726.18 (+0.66%) · 10-year 4.67% · 30-year 5.19% · SOX 11,810 (+1.71%) · NVDA $228.32 (+8.90%)"
+    "source": "Yahoo Finance",
+    "updated": "Aug 27, close ~4:00 p.m. ET",
+    "line": "S&P 7,730.99 (+0.72%) · 10-year 4.67% · 30-year 5.19% · SOX 11,882 (+2.33%) · NVDA $227.98 (+8.74%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Apollo–KKR Atlantic ~$10B on the plate. Bloomberg 15% still open.",
+    "hed": "WDAY and MRVL print after the close. SK Horizon KRW 3.08T joins the plate.",
     "signed": "The Markets desk",
-    "body": "Afternoon adds atlantic-aviation: official Aug. 27 Apollo / KKR releases. Apollo Funds acquire a significant interest in Atlantic Aviation; KKR Funds remain a substantial shareholder. Transaction values Atlantic at nearly $10B. FBO / private-aviation infrastructure; KKR owned since 2021. Lead remains nvda-10q. Form 10-Q (period ended July 26, 2026; accepted Aug. 26, 4:36 p.m. ET): signed SB Energy LPS guarantees capped at $105B for ~4.25 GW at PORTS, Pike County, Ohio. Do not collapse the signed $105B cap with the preliminary >$500B MOUs. IR official Q2 transcript PDF still not posted (common Q2FY27-Transcript.pdf URLs 404; quarterly-results list still: PR, webcast, CFO commentary, revenue trend, 10-Q, presentation — no Q2 FY27 Transcript link). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement; Reuters/CNBC same-day say agreed/talks, no company confirm). Socure $5.2B already on plate — do not write $156M. CNBC ~3:48 p.m. ET: S&P 7,726.18 (+0.66%), NVDA $228.32 (+8.90%). WDAY/MRVL AMC later — no numbers invented. Alibaba rules unchanged."
+    "body": "After-the-close adds wday-fq2, mrvl-fq2, and sk-horizon. Workday FQ2 FY27 (ended July 31): total revenue $2.649B (+12.8%), subscription $2.471B (+13.9%); GAAP operating income $313M (11.8%); non-GAAP operating income $824M (31.1%); GAAP diluted EPS $2.57 including a $1.52/share tax benefit from an intra-entity IP transfer; non-GAAP diluted EPS $2.75. 12-month subscription backlog $9.034B (+14.2%); total subscription backlog $27.403B (+8.0%). Bought back ~9.8M shares for $1.3B; board authorized additional open-ended $4.0B Class A repurchase. FY27 sub revenue guide $9.940–$9.950B (13%); non-GAAP op. margin 31.0%. Q3 sub $2.515B (12%), non-GAAP op. margin 30.0%. Bhusri: AI >25% of new ACV; >5,500 customers on organic agents. Marvell FQ2 FY27 (ended Aug. 1): record net revenue $2.739B (+37% YoY), $39M above May 27 guidance midpoint; data center $2.1715B (+46% YoY). GAAP diluted EPS $0.33; non-GAAP $0.94. Q3 net revenue outlook $3.150B ±5%. Company says it is raising FY27 and FY28 revenue outlook vs last quarter — do not invent dollar FY figures absent the deck. SK Telecom: SK Horizon spin from SK Broadband data-center + submarine cable; KKR 29% and IMM–Stonebridge 20% for combined KRW 3.08T; SKT keeps 51%. Target capacity 318 MW; close targeted 1Q next year. Lead remains nvda-10q. IR official Q2 transcript PDF still 404. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Atlantic already on plate. Alibaba rules unchanged. Close tape: S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "WDAY / MRVL after the close — Thursday, August 27. Workday results AMC, call 4:30 p.m. ET. Marvell call 4:45 p.m. ET. No numbers until they print.",
-    "href": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Announce-Fiscal-2027-Second-Quarter-Financial-Results-on-August-27-2026/default.aspx"
+    "line": "NVIDIA IR Q2 FY27 transcript PDF still unposted. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed.",
+    "href": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx"
   },
   "sections": [
     "All",
@@ -177,6 +177,86 @@
         "Apollo (NYSE: APO) and KKR (NYSE: KKR) announced Aug. 27 a strategic partnership around Atlantic Aviation, one of the largest private aviation infrastructure platforms in the United States. Under the transaction, Apollo-managed funds have acquired a significant interest in the company, while KKR-managed funds remain a substantial shareholder. The transaction values Atlantic Aviation at nearly $10 billion. Matching releases went out on Apollo’s press page and KKR Media.",
         "Atlantic provides fixed-base operator services across the U.S., including aircraft fueling, hangar leasing, and other aviation services backed by long-term airport concession agreements. KKR acquired Atlantic in 2021 and says the platform has expanded locations through acquisitions and organic growth in the U.S. and certain international markets. KKR is funding its continued investment primarily through its infrastructure vehicles; KKR’s infrastructure business manages more than $120 billion in infrastructure assets, and since 2015 KKR has invested more than $12 billion across aviation.",
         "Apollo Partner David Cohen and KKR Partner Dash Lane are quoted on the structural case for private aviation and on welcoming Apollo as a new investor. Atlantic CEO Jeff Foland called the dual-sponsor backing validation of the platform. Advisors named in the release: Paul, Weiss for the Apollo Funds; Evercore and Morgan Stanley as financial advisors and Kirkland & Ellis as legal advisor to KKR. Apollo cites more than $155 billion of infrastructure transactions and financings originated over the past five years under its Infrastructure Investment Classification Framework (methodology footnote on the Apollo release)."
+      ]
+    },
+    {
+      "id": "wday-fq2",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Workday Q2: AI >25% of new ACV; $4B buyback add",
+      "dek": "Sub $2.471B (+13.9%). Non-GAAP op. income $824M. FY27 sub $9.94–$9.95B; margin 31%. GAAP EPS $2.57 includes $1.52 tax benefit.",
+      "date": "Aug. 27, 2026",
+      "source": "Workday; SEC Exhibit 99.1",
+      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2027-Second-Quarter-Financial-Results/default.aspx",
+      "also": [
+        {
+          "label": "SEC Exhibit 99.1 (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000042/wday-07312026x991.htm"
+        },
+        {
+          "label": "SEC 8-K index",
+          "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000042/0001327811-26-000042-index.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as CFO/enterprise-AI print. Lead with subscription growth, AI ACV share, and the FY27 raise — flag that GAAP diluted EPS $2.57 includes a $1.52/share tax benefit from an intra-entity IP transfer, so do not treat $2.57 as run-rate earnings power. Pair with existing workday AI Research story; do not conflate.",
+      "grafs": [
+        "Workday (NASDAQ: WDAY) reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the close on Aug. 27. Total revenues were $2.649 billion, up 12.8% from the year-ago quarter. Subscription revenues were $2.471 billion, up 13.9%. GAAP operating income was $313 million, or 11.8% of revenues, versus $248 million, or 10.6%, a year earlier. Non-GAAP operating income was $824 million, or 31.1% of revenues, versus $680 million, or 29.0%.",
+        "GAAP diluted net income per share was $2.57, versus $0.84 a year earlier. Included in that figure is a tax benefit of $1.52 per share tied to an intra-entity transfer of certain intellectual property rights as part of an internal legal entity restructuring. Non-GAAP diluted net income per share was $2.75, versus $2.21. Twelve-month subscription revenue backlog was $9.034 billion, up 14.2%. Total subscription revenue backlog was $27.403 billion, up 8.0%. Operating cash flow was $520 million and free cash flow $460 million, both below the year-ago quarter ($616 million and $588 million).",
+        "Workday repurchased about 9.8 million Class A shares for $1.3 billion in the quarter. The board authorized an additional open-ended repurchase of up to $4.0 billion of Class A stock. More than 5,500 customers now use one or more organic agents, up more than 35% from last quarter. Co-founder, CEO and chair Aneel Bhusri said AI drove more than 25% of new ACV. CFO Zane Rowe guided fiscal 2027 subscription revenue to $9.940–$9.950 billion (13% growth) and lifted fiscal 2027 non-GAAP operating margin guidance to 31.0%. For the third quarter ending Oct. 31, 2026: subscription revenues $2.515 billion (12% growth) and non-GAAP operating margin 30.0%."
+      ]
+    },
+    {
+      "id": "mrvl-fq2",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets",
+      "hed": "Marvell Q2 record $2.739B; data center +46%; Q3 $3.15B",
+      "dek": "Revenue +37% YoY, $39M above May midpoint. Non-GAAP EPS $0.94. Raising FY27/FY28 revenue outlook — no invented FY dollars.",
+      "date": "Aug. 27, 2026",
+      "source": "Marvell Technology",
+      "url": "https://investor.marvell.com/news-events/press-releases/detail/1031/marvell-technology-inc-reports-second-quarter-of-fiscal-year-2027-financial-results",
+      "also": [
+        {
+          "label": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20260827816134/en/"
+        },
+        {
+          "label": "Additional earnings information (PDF)",
+          "url": "https://d1io3yog0oux5.cloudfront.net/_48fe0e23e75680b71aaaf28412b6be9e/marvell/db/3734/35391/additional_earnings_information/MRVL+Q2%2727+Additional+Information_FINAL+v2.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package next to nvda-fq2 as the custom-silicon/connectivity read-through. Use official $2.739B / data-center +46% / Q3 $3.150B ±5%. Murphy says FY27 and FY28 revenue outlooks are raised vs last quarter — do not print $11.5B/$16.5B or optical >70% unless sourced from the official PR or additional deck; those figures were secondary-only at publish.",
+      "grafs": [
+        "Marvell Technology (NASDAQ: MRVL) reported fiscal second-quarter 2027 results for the quarter ended Aug. 1, 2026 after the close on Aug. 27. Net revenue was a record $2.739 billion, up 37% year over year and $39.0 million above the midpoint of guidance issued May 27, 2026. GAAP net income was $308.0 million, or $0.33 per diluted share. Non-GAAP net income was $865.9 million, or $0.94 per diluted share. Cash from operations was $605.5 million.",
+        "Data center revenue was $2,171.5 million, up 46% year over year and 18% quarter over quarter, and was 79% of total net revenue. Communications and other was $567.8 million. Chairman and CEO Matt Murphy said AI-related bookings remain exceptionally robust and that the company expects revenue growth to accelerate further through the remainder of fiscal 2027. He said Marvell is again raising its revenue outlook for both fiscal 2027 and fiscal 2028 versus last quarter’s guidance, citing broad-based data-center strength including connectivity and a significant acceleration in the custom business beginning in the second half of fiscal 2027. Investor Day is Oct. 6, 2026 in New York.",
+        "Third-quarter fiscal 2027 outlook: net revenue $3.150 billion ±5%; GAAP gross margin 52.9%–53.9%; non-GAAP gross margin 57.5%–58.5%; GAAP diluted EPS $0.53 ±$0.05; non-GAAP diluted EPS $1.10 ±$0.05. Q2 GAAP gross margin was 53.1% and non-GAAP gross margin 58.9%."
+      ]
+    },
+    {
+      "id": "sk-horizon",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "KKR and IMM put KRW 3.08T into SK Horizon AIDC",
+      "dek": "SK Broadband spin: data centers + cables. KKR 29%, IMM–Stonebridge 20%, SKT keeps 51%. 318 MW target; close 1Q next year.",
+      "date": "Aug. 27, 2026",
+      "source": "SK Telecom newsroom",
+      "url": "https://news.sktelecom.com/en/3290",
+      "also": [
+        {
+          "label": "SKM Form 6-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1015650/000119312526369455/d121930d6k.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as Asia digital-infra PE alongside atlantic-aviation. Primary figure is KRW 3.08 trillion combined equity — do not lead with a USD conversion. End-state ownership: SKT 51% / KKR 29% / IMM consortium 20%. 318 MW is the stated Horizon capacity target (eight operating sites plus Ulsan/Guro). SK Hyper’s 5 GW / 15 GW roadmap is separate — keep it labeled as Hyper, not Horizon.",
+      "grafs": [
+        "SK Telecom (NYSE: SKM) said Aug. 27 it will split wholly owned SK Broadband into a surviving SK Broadband and a new company, SK Horizon, and that it has signed a definitive agreement with funds managed by KKR and the IMM Investment–Stonebridge consortium for a combined KRW 3.08 trillion equity investment in SK Horizon. Upon completion of all investment phases, KKR will hold 29%, the IMM consortium 20%, and SKT will retain management control as largest shareholder with 51%.",
+        "SK Horizon will take SK Broadband’s data-center and submarine-cable businesses. The book-value spin-off ratio is about 0.84 surviving / 0.16 newco. Horizon’s stated remit is expanding infrastructure to a total capacity of 318 MW across eight operating sites (Seocho, Ilsan ×2, Bundang, Gasan, Centum, Yangju, Pangyo) plus AIDCs under construction including Ulsan and Guro, and phased submarine-cable expansion. KKR is investing primarily from its Asia Pacific infrastructure strategy.",
+        "SKT will oversee group AIDC strategy; Horizon runs and expands operating infrastructure; SK Hyper (set up last July) develops new GW-scale projects, with 5 GW targeted for phased opening in 2029 and expansion toward 15 GW in 2035. Spin-off and newco establishment are aimed for the first quarter of next year, subject to an extraordinary shareholders’ meeting and government approvals. Kim Seong-soo is expected to serve as CEO of both surviving Broadband and Horizon."
       ]
     },
     {
