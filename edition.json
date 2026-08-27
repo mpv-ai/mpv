@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 15,
+  "number": 16,
   "city": "New York",
   "date": "Thursday, August 27, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance",
     "updated": "Aug 27, close ~4:00 p.m. ET",
@@ -11,9 +11,9 @@
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Rubrik prints after the close. NVIDIA posts the official Q2 transcript PDF.",
+    "hed": "Catch-up: Salesforce and CrowdStrike after the software melt-up.",
     "signed": "The Markets desk",
-    "body": "Evening add rbrk-fq2. Rubrik FQ2 FY27 (ended July 31), from the Aug. 27 8-K Exhibit 99.1: subscription ARR $1.66B (+33% YoY); Cloud ARR $1.48B (+39%); subscription revenue $407.2M (+37%); total revenue $427.3M (+38%). GAAP gross margin 78.4%; non-GAAP 81.0%. Subscription ARR contribution margin 14.0% vs 9.4% a year earlier. GAAP net loss per share $(0.30); non-GAAP diluted net income per share $0.20. Operating cash flow $76.8M (18% margin); free cash flow $65.7M (15%). Cash, cash equivalents, and short-term investments $1.75B. Raising FY27 on all guided metrics: subscription ARR $1,880–$1,885M; revenue $1,685–$1,693 million; contribution margin ~15.5%; non-GAAP EPS $0.47–$0.53; FCF $323–$333M. Q3 revenue $429–$431M. Official NVIDIA IR Q2 FY27 transcript PDF is now posted (FactSet CallStreet, 16 pp). Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Close tape unchanged: S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%)."
+    "body": "Night add crm-fq2 and crwd-fq2 — Aug. 26 AMC prints the desk missed while NVIDIA dominated the plate. Salesforce FQ2 FY27 (ended July 31): revenue $11.345B (+11% YoY/CC); subscription and support $10.820B (+12% YoY, +11% CC); cRPO $33.5B (+14% YoY/CC). Agentforce ARR exceeded $1.5B (+over 240% YoY); Agentforce and Data 360 ARR nearly $3.9B (+over 210%). GAAP diluted EPS $4.29 includes $2.613B strategic-investment gains — do not treat as run-rate. Raises FY27 revenue to $46.1–$46.4B. Cash close (Yahoo Finance): CRM $252.05 (+22.6% vs prior close). CrowdStrike FQ2 FY27: revenue $1.471B (+26%); ARR $5.84B (+25%) with record net new ARR $332.8M (+51% YoY); Falcon Flex ending ARR >$2.29B (+101%); non-GAAP diluted EPS $0.31; raises FY27 net new ARR growth outlook +630 bps to 34% midpoint. Cash close: CRWD $227.96 (+20.5%). Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement). Close tape unchanged: S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%)."
   },
   "comingUp": {
     "label": "Coming up",
@@ -54,7 +54,7 @@
         }
       ],
       "owner": "QUILL",
-      "action": "Morning package: keep the signed $105B SB Energy cap and the preliminary >$500B MOUs on two ledgers. Do not name Apollo/BlackRock/Blackstone/Brookfield/Goldman/KKR from the 10-Q. Option is ~3.8 GW, not 3.75. IR official Q2 transcript PDF still unposted.",
+      "action": "Morning package: keep the signed $105B SB Energy cap and the preliminary >$500B MOUs on two ledgers. Do not name Apollo/BlackRock/Blackstone/Brookfield/Goldman/KKR from the 10-Q. Option is ~3.8 GW, not 3.75. Official IR Q2 transcript PDF is now posted (FactSet CallStreet); keep 10-Q Ohio/MOU framing.",
       "grafs": [
         "NVIDIA’s Form 10-Q for the quarter ended July 26, 2026 — accepted by the SEC on Aug. 26 at 4:36 p.m. ET — puts a number on the Ohio land, power and shell backstop. Note 10: the company entered into guarantees, capped at a total of $105 billion, with affiliates of SB Energy Corp. on behalf of a customer, an affiliate of OpenAI Group PBC, related to leases for approximately 4.25 gigawatts of IT load at SB Energy’s PORTS Technology Campus in Pike County, Ohio. Each guarantee generally becomes effective on commencement of the applicable lease, with amounts increasing as each of the nine phases of data center construction is completed, the first of which is expected in fiscal 2029. MD&A uses “nine data centers.” The leases run 20 years. In exchange, the site will exclusively host NVIDIA AI infrastructure, subject to limited exceptions. NVIDIA also holds an option, exercisable in its sole discretion, to provide additional credit support in phases for approximately 3.8 additional gigawatts as the site scales. Write 3.8, not 3.75.",
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
@@ -103,11 +103,11 @@
         }
       ],
       "owner": "QUILL",
-      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — CLOSED on free full transcript (earningscall.ai; IR official transcript not yet posted): Kress — ship Groq 3 LPX in volume later this quarter to early adopters, Nebius first; Huang — associate LPX with high-ASP services / bolt-on accelerators; vast majority of world data centers will be Vera Rubin NVL72. (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN on the Bloomberg figure and the BOM-vs-GPU-ASP split; ADVANCED only: Kress says executed price increases take effect in Q1 FY28 as GM settles at 72–73% after FQ4 trough 71–72% on memory. (3) memory inflation / 2027 ASP — ADVANCED (CNBC + transcript): memory scarcity quote; GM path; no explicit 2027 GPU ASP. Do not invent a 15% company confirm. Written $279B memory-weighted commitments unchanged. 10-Q accepted Aug. 26, 4:36 p.m. ET now on the plate as nvda-10q (do not re-cut FQ2 as new). IR official Q2 transcript PDF still not posted as of Thursday morning.",
+      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — CLOSED on free full transcript (earningscall.ai; IR official transcript not yet posted): Kress — ship Groq 3 LPX in volume later this quarter to early adopters, Nebius first; Huang — associate LPX with high-ASP services / bolt-on accelerators; vast majority of world data centers will be Vera Rubin NVL72. (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN on the Bloomberg figure and the BOM-vs-GPU-ASP split; ADVANCED only: Kress says executed price increases take effect in Q1 FY28 as GM settles at 72–73% after FQ4 trough 71–72% on memory. (3) memory inflation / 2027 ASP — ADVANCED (CNBC + transcript): memory scarcity quote; GM path; no explicit 2027 GPU ASP. Do not invent a 15% company confirm. Written $279B memory-weighted commitments unchanged. 10-Q accepted Aug. 26, 4:36 p.m. ET now on the plate as nvda-10q (do not re-cut FQ2 as new). Official IR Q2 transcript PDF now posted (FactSet CallStreet, linked in also[]). Bloomberg >15% figure still open.",
       "grafs": [
         "NVIDIA reported fiscal second-quarter 2027 results for the quarter ended July 26, 2026: revenue $96.2 billion ($96,221 million), up 18% sequentially and 106% year over year. Data Center revenue was $89.0 billion ($89,023 million), up 18% sequentially and 117% year over year. GAAP and non-GAAP gross margins were both 75.0%. GAAP diluted EPS was $2.46; non-GAAP diluted EPS was $2.22. Edge Computing was $7.2 billion, up 13% sequentially and 27% year over year. Official release: NVIDIA Newsroom; Colette Kress CFO commentary PDF on investor.nvidia.com; Form 8-K filed Aug. 26.",
         "Outlook for Q3 FY27 (written + call): revenue $108.0 billion, plus or minus 2%, with no Data Center compute revenue from China assumed; GAAP and non-GAAP gross margins 74.0%, plus or minus 50 basis points. On the call, Kress said sequential growth is driven primarily by ACIE, with hyperscaler growth expected to reaccelerate in Q4 and into FY28 as Vera Rubin supply grows; she expects Vera Rubin to account for about 20% of Data Center revenue in Q3. Supply commitments rose from $119 billion to $279 billion, primarily memory. Jensen Huang (release): “AI has reached its inflection point… Now, compute is revenue.” Vera Rubin and NVIDIA Groq 3 LPX are in full production.",
-        "Call color — open question (1) closed (free full transcript via earningscall.ai; company IR transcript PDF not yet posted; Seeking Alpha/Motley Fool copies not free at press time). Kress (prepared): NVIDIA expects to ship Groq 3 LPX in volume later this quarter to early adopters, with Nebius first. Answering C.J. Muse on inference share and Groq 3 LPX, Huang said LPX can be associated with high-ASP services and bolted on as an accelerator, but “the vast majority of the world’s data centers will just be Vera Rubin” NVL72. Desk read: near-term mix is Rubin-majority attach, with LPX a selective high-interactivity bolt-on — not a peer volume share of the 2027 rack base.",
+        "Call color — open question (1) closed (free full transcript via earningscall.ai; company IR transcript PDF now posted; Seeking Alpha/Motley Fool copies not free at press time). Kress (prepared): NVIDIA expects to ship Groq 3 LPX in volume later this quarter to early adopters, with Nebius first. Answering C.J. Muse on inference share and Groq 3 LPX, Huang said LPX can be associated with high-ASP services and bolted on as an accelerator, but “the vast majority of the world’s data centers will just be Vera Rubin” NVL72. Desk read: near-term mix is Rubin-majority attach, with LPX a selective high-interactivity bolt-on — not a peer volume share of the 2027 rack base.",
         "Call color — open question (2) still open on Bloomberg’s >15% figure and memory/BOM vs GPU ASP. Kress: extreme memory pricing exceeded prior expectations and is headed higher into next year; GM bottoms in FQ4 FY27 at 71–72%, then settles at 72–73% in FY28 “as executed price increases take effect in Q1.” “Memory scarcity today is being driven in large part by the AI buildout itself” (also on CNBC). Stacey Rasgon referenced the Q1 price increase on the call; management did not quote “15%” or split server BOM pass-through from GPU ASP. FY28 revenue growth ~70% remains a supply-constrained outlook (customer forecasts “point to our growth doubling”); unconstrained would be “a lot higher,” per Huang. Also on call (CNBC): Huang on frontier-lab stakes — “The only regret that I have is that I didn’t invest more and sooner,” suggesting OpenAI and Anthropic “will likely go public soon.”",
         "Same-day beat unchanged: AWS and NVIDIA plan 2 million additional NVIDIA GPUs across AWS in 2027–2028, plus Vera CPUs on AWS (some integrated with Rubin). Cash close: S&P 7,675.70 (−0.02%), NVDA $209.66 (−1.59%). After-hours ~6:50 p.m. ET (CNBC quote): NVDA about $218.80 (+4.4% from cash)."
       ]
@@ -237,6 +237,58 @@
         "Rubrik (NYSE: RBRK) reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the close on Aug. 27. Subscription ARR grew 33% year over year to $1.66 billion, with net new subscription ARR up 35%. Cloud ARR grew 39% to $1.48 billion. Subscription revenue was $407.2 million, up 37% from $297.0 million a year earlier. Total revenue was $427.3 million, up 38% from $309.9 million; that includes $4.7 million of material-rights revenue this quarter versus $14.2 million a year ago. Revenue normalized for material rights increased 43%. The company said results exceeded all guided metrics.",
         "GAAP gross margin was 78.4%, versus 79.5% a year earlier; non-GAAP gross margin was 81.0%, versus 81.6%. Subscription ARR contribution margin was 14.0%, versus 9.4%. GAAP net loss per share was $(0.30), versus $(0.49). Non-GAAP diluted net income per share was $0.20, versus a non-GAAP diluted net loss of $(0.03). Operating cash flow was $76.8 million (18% margin) and free cash flow $65.7 million (15%). Cash, cash equivalents, and short-term investments were $1.75 billion. Customers with $100,000 or more in subscription ARR numbered 3,084, up 23%.",
         "CEO Bipul Sinha said frontier AI models have changed the cybersecurity landscape and that Rubrik’s Agentic Cyber Resilience is meant to deliver machine-speed recovery and autonomous runtime AI-agent security. The company launched Rubrik AI across Security Cloud and Agent Cloud; launched Rubrik Agent Cloud for Anthropic’s Claude Code and Project Hourglass, a GSI alliance with Cognizant, Deloitte, HCLTech, NTT DATA, and Wipro; and announced a £375 million ($500 million) UK investment, naming London its EMEA headquarters. The board added Rakefet Russak-Aminoach as a Class I director. Fiscal 2027 guidance was raised on all guided metrics: subscription ARR $1,880–$1,885 million; revenue $1,685–$1,693 million; non-GAAP subscription ARR contribution margin about 15.5%; non-GAAP EPS $0.47–$0.53; free cash flow $323–$333 million. Third-quarter outlook: revenue $429–$431 million; contribution margin about 14%; non-GAAP EPS $0.07–$0.09."
+      ]
+    },
+    {
+      "id": "crm-fq2",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Salesforce Q2: Agentforce ARR >$1.5B; stock +23%",
+      "dek": "Rev $11.3B (+11%). cRPO +14%. FY27 raise to $46.1–$46.4B. GAAP EPS $4.29 includes $2.6B investment gains.",
+      "date": "Aug. 26, 2026",
+      "source": "Salesforce",
+      "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-Second-Quarter-Fiscal-2027-Results/default.aspx",
+      "also": [
+        {
+          "label": "CNBC markets (Aug. 27)",
+          "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as the enterprise-AI/software rebuttal next to wday-fq2. Lead with Agentforce ARR >$1.5B (+over 240%) and Agentforce+Data 360 nearly $3.9B (+over 210%). Flag that GAAP diluted EPS $4.29 is inflated by $2.613B strategic-investment gains (PR footnote: ~$2.43/share GAAP impact) — do not treat as operating run-rate. FY27 raise splits $100M organic / $200M Contentful+Fin / -$100M FX. Do not invent Claudeforce/Anthropic partnership language unless sourced from Salesforce. Cash close CRM $252.05 (+22.6%, Yahoo Finance).",
+      "grafs": [
+        "Salesforce (NYSE: CRM) reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the close on Aug. 26. Total revenue was $11.345 billion, up 11% year over year and in constant currency, including $456 million of Informatica contribution. Subscription and support revenue was $10.820 billion, up 12% year over year and 11% in constant currency, including $440 million Informatica. Current remaining performance obligation was $33.5 billion, up 14% year over year and in constant currency; total RPO was $66.3 billion, up 11%. GAAP operating margin was 20.5%; non-GAAP operating margin was 34.1%. Operating cash flow was $1.3 billion (+71% YoY); free cash flow was $1.1 billion (+81%). Official release: Salesforce Investor Relations.",
+        "AI metrics from the company: Agentforce ARR exceeded $1.5 billion, up over 240% year over year (effective Q2 FY27, Agentforce ARR includes Slackbot and Headless 360). Combined Agentforce and Data 360 ARR reached nearly $3.9 billion, up over 210% year over year. Salesforce said it delivered 3.2 billion Agentic Work Units in Q2 (7.0 billion to date across Agentforce and Slack), growing 97% quarter over quarter. Data 360 ingested 104 trillion records in the quarter, up 355% year over year. Chair and CEO Marc Benioff: \"AI is delivering value across every layer of our platform… ARR about to cross $4 billion.\" President and CFOO Robin Washington: NNAOV growth \"is the strongest it's been in four years,\" keeping the company \"on track for second-half organic revenue reacceleration.\"",
+        "GAAP diluted net income per share was $4.29, up 119% year over year; non-GAAP diluted EPS was $5.90, up 103%. The GAAP figure includes $2.613 billion of gains on strategic investments, net, in the quarter — the PR footnotes that strategic-investment gains impacted GAAP diluted EPS by $2.43 (and non-GAAP by $2.53). Do not treat $4.29 as run-rate earnings power. Salesforce raised full-year FY27 revenue guidance to $46.1–$46.4 billion (11%–12% YoY; ~11% CC), a $200 million raise / $300 million CC that reflects $100 million organic growth, $200 million from pending Contentful and Fin acquisitions, and a $100 million FX headwind. Q3 revenue guide: $11.42–$11.5 billion. Cash close Aug. 27 (Yahoo Finance): CRM $252.05, up 22.6% from the prior close, after the report and the broader software rebound."
+      ]
+    },
+    {
+      "id": "crwd-fq2",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "CrowdStrike Q2: record $333M net new ARR; AI agent identity",
+      "dek": "Rev $1.47B (+26%). ARR $5.84B. Falcon Flex >$2.29B (+101%). Raises FY27 net-new ARR growth +630 bps to 34%.",
+      "date": "Aug. 26, 2026",
+      "source": "CrowdStrike",
+      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+      "also": [
+        {
+          "label": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20260826812507/en/"
+        },
+        {
+          "label": "SEC Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000029/crwd-20260826xex991.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as the agentic-security print beside crm-fq2. Lead with record net new ARR $332.8M (+51% YoY) and the +630 bps FY27 net-new ARR growth raise to 34% midpoint. AI product graf: Continuous Identity for AI Agents and Falcon AIDR gateway extensions — do not invent a separate agentic ARR breakout; company did not disclose one. Note four-for-one stock split after July 1, 2026 close when comparing share counts. Cash close CRWD $227.96 (+20.5%, Yahoo Finance).",
+      "grafs": [
+        "CrowdStrike Holdings (Nasdaq: CRWD) reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the close on Aug. 26. Total revenue was $1.471 billion, up 26% from $1.169 billion a year earlier. Subscription revenue was $1.400 billion, up 27%. Annual recurring revenue grew 25% year over year to $5.84 billion, of which $332.8 million was net new ARR in the quarter — a company record and up 51% year over year. Ending ARR from accounts that have adopted Falcon Flex exceeded $2.29 billion, up 101% year over year. Official release: CrowdStrike Investor Relations / Business Wire.",
+        "Profitability and cash: GAAP loss from operations was $33.2 million; non-GAAP income from operations was $371.6 million. GAAP diluted net income per share attributable to CrowdStrike was $0.01; non-GAAP diluted EPS was $0.31. Cash from operations was a Q2 record $530.3 million; free cash flow was a Q2 record $377.4 million. Cash and cash equivalents were $5.01 billion as of July 31, 2026. CFO Burt Podbere: record net new ARR, record new-logo net new ARR, higher dollar-based gross and net retention, and a raised full-year net new ARR growth outlook to 34% at the midpoint (+630 basis points). FY27 revenue guide: $5.991–$6.011 billion; ending ARR $6.603–$6.612 billion. Q3 revenue $1.523–$1.529 billion.",
+        "AI product color from the release: CrowdStrike unveiled Continuous Identity for AI Agents (risk-aware authorization across human, non-human, and AI agent identities) and extended Falcon AI Detection and Response across AI gateway partners including AWS, Microsoft Azure, Google Cloud, Databricks, Kong, LiteLLM, and others. CEO George Kurtz framed the quarter as translating a \"Mythos moment\" into \"mass-market acceptance that AI adoption needs security.\" The company did not break out a separate agentic ARR figure. Cash close Aug. 27 (Yahoo Finance): CRWD $227.96, up 20.5% from the prior close. Share and per-share figures reflect the four-for-one stock split effected after the close on July 1, 2026."
       ]
     },
     {
