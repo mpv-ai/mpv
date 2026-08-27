@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 10,
+  "number": 11,
   "city": "New York",
-  "date": "Wednesday, August 26, 2026",
-  "editionLabel": "Night Edition",
+  "date": "Thursday, August 27, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
     "source": "CNBC Quote",
-    "updated": "Aug 26, ~6:50 p.m. ET AH",
-    "line": "S&P 7,675.70 (−0.02% cash) · 10-year 4.664% · 30-year 5.186% · SOX 11,611 (+0.20%) · NVDA $209.66 (−1.59% cash) · AH ~$218.80 (+4.4% from cash)"
+    "updated": "Aug 27, ~8:51 a.m. ET pre",
+    "line": "S&P 7,675.70 (−0.02% cash) · 10-year 4.67% · 30-year 5.19% · SOX 11,611 (+0.20% cash) · NVDA $209.66 (−1.59% cash) · pre ~$222.65 (+6.20%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Call transcript closes Groq mix. Bloomberg 15% figure still open.",
+    "hed": "10-Q on the plate. Bloomberg 15% still open.",
     "signed": "The Markets desk",
-    "body": "FQ2 FY27 print unchanged: $96.2B / DC $89.0B / EPS $2.46/$2.22 / GM 75.0%; Q3 $108.0B ±2%, GM 74.0% ±50 bps. Free full call transcript (earningscall.ai; IR PDF not yet posted): Huang — Groq 3 LPX is a bolt-on for high-ASP/interactivity services; vast majority of data centers remain Vera Rubin NVL72; Kress — LPX volume later this quarter, Nebius first. Kress also: executed price increases take effect in Q1 FY28 as GM settles 72–73% after FQ4 trough 71–72% on memory — still no company confirm of Bloomberg’s >15% server-hike figure or a clean memory/BOM vs GPU ASP split. AH ~$218.80 (+4.4%) on CNBC quote ~6:50 p.m. ET. Alibaba rules unchanged."
+    "body": "Form 10-Q (period ended July 26, 2026; accepted Aug. 26, 4:36 p.m. ET) is the morning lead as nvda-10q. Signed SB Energy LPS guarantees capped at $105B for ~4.25 GW at PORTS, Pike County, Ohio; nine phases (Note 10) / nine data centers (MD&A); first expected FY2029; 20-year leases; exclusive NVIDIA AI infra, limited exceptions; sole-discretion option ~3.8 additional GW (not 3.75). Other LPS AI-cloud guarantees $3.5B; guarantee table $108.5B. AI-cloud CSA commitments $36B. Commitments table $366B: supply $279B, CSAs $29B, DC leases not commenced $25B, equity $25B, capex $8B. MD&A: MOUs with several large capital providers to mobilize more than $500B of third-party capital; may not lead to definitive agreements; optional limited residual-value support, project-by-project. 10-Q does not name Apollo/BlackRock/Blackstone/Brookfield/GS/KKR — those stay on Aug. 10 IR. Do not collapse the signed $105B cap with the preliminary >$500B MOUs. IR official Q2 transcript PDF still not posted (quarterly-results: PR, webcast, CFO commentary, revenue trend, presentation). Bloomberg >15% early-2027 server hikes still open. CNBC pre ~8:51 a.m. ET: NVDA ~$222.65 (+6.20%) vs cash $209.66. Alibaba rules unchanged."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,41 @@
   ],
   "stories": [
     {
-      "id": "nvda-fq2",
+      "id": "nvda-10q",
       "lead": true,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Nvidia 10-Q: $105B Ohio cap; $500B still an MOU",
+      "dek": "Signed LPS guarantees for 4.25 GW at PORTS, Pike County. Option 3.8 GW. Commitments $366B. Names stay on the Aug. 10 IR.",
+      "date": "Aug. 26, 2026",
+      "source": "NVIDIA Form 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "also": [
+        {
+          "label": "CFO Commentary (PDF)",
+          "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf"
+        },
+        {
+          "label": "NVIDIA FQ2 release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+        },
+        {
+          "label": "Aug. 10 IR / Reuters ($500B names)",
+          "url": "https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Morning package: keep the signed $105B SB Energy cap and the preliminary >$500B MOUs on two ledgers. Do not name Apollo/BlackRock/Blackstone/Brookfield/Goldman/KKR from the 10-Q. Option is ~3.8 GW, not 3.75. IR official Q2 transcript PDF still unposted.",
+      "grafs": [
+        "NVIDIA’s Form 10-Q for the quarter ended July 26, 2026 — accepted by the SEC on Aug. 26 at 4:36 p.m. ET — puts a number on the Ohio land, power and shell backstop. Note 10: the company entered into guarantees, capped at a total of $105 billion, with affiliates of SB Energy Corp. on behalf of a customer, an affiliate of OpenAI Group PBC, related to leases for approximately 4.25 gigawatts of IT load at SB Energy’s PORTS Technology Campus in Pike County, Ohio. Each guarantee generally becomes effective on commencement of the applicable lease, with amounts increasing as each of the nine phases of data center construction is completed, the first of which is expected in fiscal 2029. MD&A uses “nine data centers.” The leases run 20 years. In exchange, the site will exclusively host NVIDIA AI infrastructure, subject to limited exceptions. NVIDIA also holds an option, exercisable in its sole discretion, to provide additional credit support in phases for approximately 3.8 additional gigawatts as the site scales. Write 3.8, not 3.75.",
+        "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
+        "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
+        "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "nvda-fq2",
+      "lead": false,
       "section": "Markets",
       "kicker": "Markets",
       "hed": "Nvidia call: Groq LPX bolt-on; Rubin majority; Q1 price hikes",
@@ -59,10 +92,14 @@
         {
           "label": "AWS + NVIDIA (2M GPUs)",
           "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai"
+        },
+        {
+          "label": "Form 10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm"
         }
       ],
       "owner": "QUILL",
-      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — CLOSED on free full transcript (earningscall.ai; IR official transcript not yet posted): Kress — ship Groq 3 LPX in volume later this quarter to early adopters, Nebius first; Huang — associate LPX with high-ASP services / bolt-on accelerators; vast majority of world data centers will be Vera Rubin NVL72. (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN on the Bloomberg figure and the BOM-vs-GPU-ASP split; ADVANCED only: Kress says executed price increases take effect in Q1 FY28 as GM settles at 72–73% after FQ4 trough 71–72% on memory. (3) memory inflation / 2027 ASP — ADVANCED (CNBC + transcript): memory scarcity quote; GM path; no explicit 2027 GPU ASP. Do not invent a 15% company confirm. Written $279B memory-weighted commitments unchanged.",
+      "action": "Call questions: (1) Groq 3 LPX near-term mix vs 2027 Rubin attach — CLOSED on free full transcript (earningscall.ai; IR official transcript not yet posted): Kress — ship Groq 3 LPX in volume later this quarter to early adopters, Nebius first; Huang — associate LPX with high-ASP services / bolt-on accelerators; vast majority of world data centers will be Vera Rubin NVL72. (2) >15% early-2027 AI-server hikes memory/BOM vs GPU ASP — STILL OPEN on the Bloomberg figure and the BOM-vs-GPU-ASP split; ADVANCED only: Kress says executed price increases take effect in Q1 FY28 as GM settles at 72–73% after FQ4 trough 71–72% on memory. (3) memory inflation / 2027 ASP — ADVANCED (CNBC + transcript): memory scarcity quote; GM path; no explicit 2027 GPU ASP. Do not invent a 15% company confirm. Written $279B memory-weighted commitments unchanged. 10-Q accepted Aug. 26, 4:36 p.m. ET now on the plate as nvda-10q (do not re-cut FQ2 as new). IR official Q2 transcript PDF still not posted as of Thursday morning.",
       "grafs": [
         "NVIDIA reported fiscal second-quarter 2027 results for the quarter ended July 26, 2026: revenue $96.2 billion ($96,221 million), up 18% sequentially and 106% year over year. Data Center revenue was $89.0 billion ($89,023 million), up 18% sequentially and 117% year over year. GAAP and non-GAAP gross margins were both 75.0%. GAAP diluted EPS was $2.46; non-GAAP diluted EPS was $2.22. Edge Computing was $7.2 billion, up 13% sequentially and 27% year over year. Official release: NVIDIA Newsroom; Colette Kress CFO commentary PDF on investor.nvidia.com; Form 8-K filed Aug. 26.",
         "Outlook for Q3 FY27 (written + call): revenue $108.0 billion, plus or minus 2%, with no Data Center compute revenue from China assumed; GAAP and non-GAAP gross margins 74.0%, plus or minus 50 basis points. On the call, Kress said sequential growth is driven primarily by ACIE, with hyperscaler growth expected to reaccelerate in Q4 and into FY28 as Vera Rubin supply grows; she expects Vera Rubin to account for about 20% of Data Center revenue in Q3. Supply commitments rose from $119 billion to $279 billion, primarily memory. Jensen Huang (release): “AI has reached its inflection point… Now, compute is revenue.” Vera Rubin and NVIDIA Groq 3 LPX are in full production.",
@@ -282,7 +319,7 @@
       "url": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg",
       "also": [],
       "owner": "QUILL",
-      "action": "One question for the Wednesday, Aug. 26 NVDA call: how much of the 2027 stack is a memory pass-through, and what is the company number?",
+      "action": "Wednesday call did not confirm Bloomberg’s >15%. Still open on the figure and the memory/BOM vs GPU ASP split. Kress advanced only: executed price increases take effect in Q1 FY28 as GM settles 72–73% after FQ4 trough 71–72% on memory.",
       "grafs": [
         "Some of Nvidia’s biggest customers have been told that prices of servers containing its AI chips are, in many cases, going up by more than 15 percent, Bloomberg reported Saturday, as recapped by The Straits Times. The increases would take effect on systems shipped in early 2027, including those with Vera Rubin and Grace Blackwell chips, people familiar with the process said.",
         "Contract manufacturers that build the servers for large data-centre operators, including Microsoft, Google and Oracle, have recently notified customers, the sources said. The increases will depend on the generation of Nvidia chips and the memory configuration. Memory costs — Samsung, SK Hynix and Micron — are the driver. Nvidia representatives did not respond to requests for comment.",
@@ -614,7 +651,7 @@
         }
       ],
       "owner": "GUIDE",
-      "action": "Track which platform is first to a real customer facility (term sheet, not MOU).",
+      "action": "10-Q MD&A confirms MOUs to mobilize more than $500 billion and optional limited residual-value support, without naming the six. Names remain Aug. 10 IR only. Do not collapse with the signed $105B SB Energy cap (nvda-10q). Still: first real facility — term sheet, not MOU.",
       "grafs": [
         "Nvidia has lined up more than $500 billion of compute capital with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR, in a structure announced Aug. 10 and still live this week. The figure is capacity, not cash in the door.",
         "The memorandums of understanding treat Nvidia compute as an investable asset class — infrastructure that can be underwritten, not a vendor-financing footnote.",
