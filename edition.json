@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 11,
+  "number": 12,
   "city": "New York",
   "date": "Thursday, August 27, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Midday",
   "tape": {
     "source": "CNBC Quote",
-    "updated": "Aug 27, ~8:51 a.m. ET pre",
-    "line": "S&P 7,675.70 (−0.02% cash) · 10-year 4.67% · 30-year 5.19% · SOX 11,611 (+0.20% cash) · NVDA $209.66 (−1.59% cash) · pre ~$222.65 (+6.20%)"
+    "updated": "Aug 27, ~11:52 a.m. ET",
+    "line": "S&P 7,720.98 (+0.59%) · 10-year 4.66% · 30-year 5.18% · SOX 11,795 (+1.58%) · NVDA $225.88 (+7.74%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "10-Q on the plate. Bloomberg 15% still open.",
+    "hed": "Socure $5.2B on the plate. Bloomberg 15% still open.",
     "signed": "The Markets desk",
-    "body": "Form 10-Q (period ended July 26, 2026; accepted Aug. 26, 4:36 p.m. ET) is the morning lead as nvda-10q. Signed SB Energy LPS guarantees capped at $105B for ~4.25 GW at PORTS, Pike County, Ohio; nine phases (Note 10) / nine data centers (MD&A); first expected FY2029; 20-year leases; exclusive NVIDIA AI infra, limited exceptions; sole-discretion option ~3.8 additional GW (not 3.75). Other LPS AI-cloud guarantees $3.5B; guarantee table $108.5B. AI-cloud CSA commitments $36B. Commitments table $366B: supply $279B, CSAs $29B, DC leases not commenced $25B, equity $25B, capex $8B. MD&A: MOUs with several large capital providers to mobilize more than $500B of third-party capital; may not lead to definitive agreements; optional limited residual-value support, project-by-project. 10-Q does not name Apollo/BlackRock/Blackstone/Brookfield/GS/KKR — those stay on Aug. 10 IR. Do not collapse the signed $105B cap with the preliminary >$500B MOUs. IR official Q2 transcript PDF still not posted (quarterly-results: PR, webcast, CFO commentary, revenue trend, presentation). Bloomberg >15% early-2027 server hikes still open. CNBC pre ~8:51 a.m. ET: NVDA ~$222.65 (+6.20%) vs cash $209.66. Alibaba rules unchanged."
+    "body": "Midday adds socure: official Aug. 27 Socure / Summit Partners release. Strategic growth investment values Socure at $5.2B; Summit led, with Goldman Sachs Alternatives, Wells Fargo, Docusign and others; primary capital plus an employee secondary tender. Fravity acquired (price not disclosed) and folded into RiskOS as RiskOS_Agents. Summit states Q2 2026 $364M total ARR, 63% year-over-year ARR growth, 133% net dollar retention, 0.01% logo churn, more than 3,000 customers. Official PRs do not state a dollar amount for the raise; do not write $156M. Lead remains nvda-10q. Form 10-Q (period ended July 26, 2026; accepted Aug. 26, 4:36 p.m. ET): signed SB Energy LPS guarantees capped at $105B for ~4.25 GW at PORTS, Pike County, Ohio. Do not collapse the signed $105B cap with the preliminary >$500B MOUs. IR official Q2 transcript PDF still not posted (quarterly-results list: PR, webcast, CFO commentary, revenue trend, 10-Q, presentation). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement). CNBC ~11:52 a.m. ET: S&P 7,720.98 (+0.59%), NVDA $225.88 (+7.74%). WDAY/MRVL AMC later — no numbers invented. Alibaba rules unchanged."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "GPCA / AVCA / LAVCA virtual — Thursday, August 27, 9:00 a.m. ET. Artificial Intelligence in Practice: lessons for private capital from the front line.",
-    "href": "https://www.globalprivatecapital.org/events/artificial-intelligence-in-practice-lessons-for-private-capital-firms-from-the-frontline/"
+    "line": "WDAY / MRVL after the close — Thursday, August 27. Workday results AMC, call 4:30 p.m. ET. Marvell call 4:45 p.m. ET. No numbers until they print.",
+    "href": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Announce-Fiscal-2027-Second-Quarter-Financial-Results-on-August-27-2026/default.aspx"
   },
   "sections": [
     "All",
@@ -129,6 +129,30 @@
       "grafs": [
         "Amazon Web Services and NVIDIA announced Aug. 26 a major expansion of their collaboration: plans to deploy 2 million additional NVIDIA GPUs across AWS’s global infrastructure in 2027–2028, including Blackwell Ultra, Rubin, and Rubin Ultra, and to bring NVIDIA Vera CPU-based infrastructure to AWS. The companies also cited AI factories for U.S. government workloads (plans for 100,000 GPUs on secure AWS infrastructure), NVLink Fusion work with custom NVIDIA high-bandwidth memory (NVHBM), and continued Nemotron support on Bedrock and SageMaker. Official joint release on NVIDIA Newsroom.",
         "Jensen Huang, in the release: “NVIDIA and AWS have built one of the great growth engines of the AI era, and demand is running ahead of every forecast.” Matt Garman, AWS CEO, said the expansion gives frontier labs, enterprises, and governments more ways to build and deploy AI on AWS. CNBC’s earnings live blog noted the order in the call window and tied it to hyperscaler spend commentary. This is incremental to the GTC 2026 plan AWS announced to add more than 1 million NVIDIA GPUs starting in 2026."
+      ]
+    },
+    {
+      "id": "socure",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Socure marks $5.2B and buys Fravity",
+      "dek": "Summit-led growth round, primary plus employee tender. Fravity price undisclosed. Official PRs do not state the check size.",
+      "date": "Aug. 27, 2026",
+      "source": "Socure / Summit Partners",
+      "url": "https://www.socure.com/news-and-press/strategic-growth-investment-fravity-acquisition",
+      "also": [
+        {
+          "label": "Summit Partners release",
+          "url": "https://www.summitpartners.com/news/socure-announces-strategic-growth-investment-from-summit-partners"
+        }
+      ],
+      "owner": "GUIDE",
+      "action": "Map which bank, fintech, and public-sector identity stacks already run Socure RiskOS, and treat Fravity / RiskOS_Agents as an ops-automation motion (alert review, KYB, watchlist) not a feature story. Do not underwrite a $156M check — official PRs state the $5.2B mark, not the raise size.",
+      "grafs": [
+        "Socure today announced a strategic growth investment that values the company at $5.2 billion, and said it is acquiring Fravity, an agentic platform for fraud, risk, and compliance operations. Summit Partners led; Goldman Sachs Alternatives, Wells Fargo, Docusign, and others participated. The investment includes primary capital and an existing employee secondary tender. Fravity’s price was not disclosed.",
+        "The Summit release, matching Socure’s own notice, says Socure closed the 2026 second quarter with $364 million in total ARR, 63 percent year-over-year ARR growth, 133 percent net dollar retention, and 0.01 percent logo churn across more than 3,000 customers. Fravity will be delivered through RiskOS as RiskOS_Agents. Across existing deployments, the release says Fravity cut cost per case by 80 percent, sped case resolution by up to 5x, and cut false positives by as much as 70 percent.",
+        "Press recaps have put the new check at $156 million. That figure is not in the Socure or Summit releases. Do not write it as a company number. Last disclosed private mark was the November 2021 Accel / T. Rowe Price Series E at $4.5 billion."
       ]
     },
     {
