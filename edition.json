@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 17,
+  "number": 18,
   "city": "New York",
   "date": "Friday, August 28, 2026",
   "editionLabel": "Afternoon",
   "tape": {
     "source": "CNBC",
-    "updated": "Aug 28, ~1:00 p.m. ET",
-    "line": "S&P 7,717.28 (−0.18%) · 10-year 4.73% · 30-year 5.21% · SOX 11,478 (−3.40%) · NVDA $219.87 (−3.56%)"
+    "updated": "Aug 28, ~2:05 p.m. ET",
+    "line": "S&P 7,714.93 (−0.21%) · 10-year 4.72% · 30-year 5.21% · SOX 11,501 (−3.21%) · NVDA $219.00 (−3.94%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Warsh fade deepens: NVDA and SOX still giving back.",
+    "hed": "Warsh fade: NVDA still giving back; Owner $240M hits the plate.",
     "signed": "The Markets desk",
-    "body": "Tape-only Afternoon refresh. CNBC ~1:00 p.m. ET: S&P 7,717.28 (−0.18%), SOX 11,478.398 (−3.40%; tape rounds 11,478), NVDA $219.87 (−3.56%). CNBC Treasuries: 10-year 4.728%, 30-year 5.21% (tape rounds 4.73% / 5.21%). Prior ~11:59 print was S&P −0.02% / NVDA −2.85% / SOX −3.11%. Official Fed text still on desk: Chair Warsh, “In Our Time,” Jackson Hole — PCE 3.7% / six-month 4.1%; “we have work to do” if not confident underlying inflation is moving to 2%. No new stories. Lead remains nvda-10q. Anthropic–MatX (Reuters/ST: planned ~$7B buy abandoned, talks now partnership; MatX seeking ~$4B raise) still held — no deal, both declined comment. Anthropic IPO prospectus timing (The Information via Reuters, Aug. 27: after Labor Day; late Sept/early Oct window) still held — no public S-1. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
+    "body": "Afternoon refresh with one new story. CNBC ~2:05 p.m. ET: S&P 7,714.93 (−0.21%), SOX 11,501.384 (−3.21%; tape rounds 11,501), NVDA $219.00 (−3.94%). CNBC Treasuries: 10-year 4.724%, 30-year 5.206% (tape rounds 4.72% / 5.21%). Prior ~1:00 print was S&P −0.18% / NVDA −3.56% / SOX −3.40%. New: owner-series-d — Owner.com Series D $240M at $2.3B, Growth Equity at Goldman Sachs Alternatives led; Meritech, Redpoint, Headline, Jack Altman; official PR. Lead remains nvda-10q. Anthropic–MatX still held (no deal). Anthropic IPO prospectus timing still held — no public S-1. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
   },
   "comingUp": {
     "label": "Coming up",
@@ -218,6 +218,30 @@
         "Apollo (NYSE: APO) and KKR (NYSE: KKR) announced Aug. 27 a strategic partnership around Atlantic Aviation, one of the largest private aviation infrastructure platforms in the United States. Under the transaction, Apollo-managed funds have acquired a significant interest in the company, while KKR-managed funds remain a substantial shareholder. The transaction values Atlantic Aviation at nearly $10 billion. Matching releases went out on Apollo’s press page and KKR Media.",
         "Atlantic provides fixed-base operator services across the U.S., including aircraft fueling, hangar leasing, and other aviation services backed by long-term airport concession agreements. KKR acquired Atlantic in 2021 and says the platform has expanded locations through acquisitions and organic growth in the U.S. and certain international markets. KKR is funding its continued investment primarily through its infrastructure vehicles; KKR’s infrastructure business manages more than $120 billion in infrastructure assets, and since 2015 KKR has invested more than $12 billion across aviation.",
         "Apollo Partner David Cohen and KKR Partner Dash Lane are quoted on the structural case for private aviation and on welcoming Apollo as a new investor. Atlantic CEO Jeff Foland called the dual-sponsor backing validation of the platform. Advisors named in the release: Paul, Weiss for the Apollo Funds; Evercore and Morgan Stanley as financial advisors and Kirkland & Ellis as legal advisor to KKR. Apollo cites more than $155 billion of infrastructure transactions and financings originated over the past five years under its Infrastructure Investment Classification Framework (methodology footnote on the Apollo release)."
+      ]
+    },
+    {
+      "id": "owner-series-d",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Owner raises $240M at $2.3B; Goldman leads",
+      "dek": "Growth Equity at Goldman Sachs Alternatives. Meritech, Redpoint, Headline, Jack Altman. AI for independent restaurants first.",
+      "date": "Aug. 28, 2026",
+      "source": "Owner.com / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html",
+      "also": [
+        {
+          "label": "Owner Series D memo",
+          "url": "https://www.owner.com/D"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package the GS Alternatives Series D as growth-equity AI infra for SMB/restaurants. Stick to official prints: $240M raise, $2.3B valuation, >$100M ARR, >$1B restaurant sales through Owner this year. Do not invent check size split or prior round terms. Not a customer lead — Quill content only.",
+      "grafs": [
+        "Owner.com, the AI platform for local businesses that starts with independent restaurants, announced Aug. 28 that it has raised $240 million and reached a $2.3 billion valuation. Growth Equity at Goldman Sachs Alternatives led the financing. Existing investors Meritech, Redpoint, Headline, and Jack Altman also participated. Official release: Owner.com via PR Newswire.",
+        "Owner calls itself the AI CMO and CTO for local businesses — websites, online ordering, mobile apps, CRM, customer support, POS, and AI phone ordering — with agents that manage and improve each part. The company said it launched in 2020 and has surpassed $100 million in ARR; this year alone independent restaurant owners will drive more than $1 billion in sales through Owner. It also said more than 100 million American consumers have used the platform and that it now powers more U.S. locations than Domino’s or Taco Bell. Those are company figures from the release.",
+        "CEO Adam Guild, in the release: “The world is racing to build AI to replace people’s jobs. Owner is building AI to do the opposite: to do the jobs many small business owners have never been able to afford.” Next steps named in the PR: every U.S. independent restaurant, international expansion, then salons, spas, and independent grocers. Series D memo linked at owner.com/D."
       ]
     },
     {
