@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 19,
+  "number": 20,
   "city": "New York",
   "date": "Friday, August 28, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "After the Close",
   "tape": {
-    "source": "CNBC",
-    "updated": "Aug 28, ~2:59 p.m. ET",
-    "line": "S&P 7,704.32 (−0.34%) · 10-year 4.72% · 30-year 5.21% · SOX 11,461 (−3.54%) · NVDA $217.27 (−4.70%)"
+    "source": "Yahoo Finance",
+    "updated": "Aug 28, close",
+    "line": "S&P 7,711.76 (−0.25%) · 10-year 4.72% · 30-year 5.21% · SOX 11,470 (−3.47%) · NVDA $217.55 (−4.57%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "NVDA −4.7%; a16z Machine Age and IREN Blue Owl hit the plate.",
+    "hed": "Lambda GPU debt hits the plate; semis finish soft.",
     "signed": "The Markets desk",
-    "body": "Afternoon bump to No. 19 with two new stories and a tape refresh. CNBC ~2:59 p.m. ET: S&P 7,704.32 (−0.34%), SOX 11,461.403 (−3.54%; tape rounds 11,461), NVDA $217.27 (−4.70%). CNBC Treasuries: 10-year 4.72%, 30-year 5.206% (tape rounds 4.72% / 5.21%). Prior ~2:05 print was S&P −0.21% / NVDA −3.94% / SOX −3.21%. New: a16z-machine-age — Andreessen Horowitz Machine Age Fund $1.1B for AI physical buildout (chips, memory, networking, storage, data centers, robotics); official a16z.news post Aug. 28. New: iren-blue-owl — IREN $2.4B GPU financing led by Blue Owl and PIMCO at 9.0% fixed for Mackenzie air-cooled expansion (funds 90% of associated GPU capex); inside Aug. 27 FY26 release; Bloomberg Aug. 28 adds Blackwell Ultra purchase color. Lead remains nvda-10q. Anthropic–MatX still held (no deal). Anthropic IPO prospectus timing still held — no public S-1. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
+    "body": "After-the-close bump to No. 20 with one new story and a Yahoo close tape. Yahoo close: S&P 7,711.76 (−0.25%), SOX 11,469.66 (−3.47%; tape rounds 11,470), NVDA $217.55 (−4.57%). Yahoo Treasuries (^TNX/^TYX): 10-year 4.72%, 30-year 5.21%. Prior Afternoon print (~2:59 p.m. ET, CNBC) was S&P 7,704.32 (−0.34%) / SOX 11,461 (−3.54%) / NVDA $217.27 (−4.70%). New: lambda-debt — official Aug. 27 $926M IG-rated TLB (Moody’s Baa2, SOFR+3.00%, Morgan Stanley) for committed GPU offtake; Bloomberg Aug. 28 adds ~$1B short-dated private debt arranged by JPMorgan for chips tied to a Microsoft collaboration — keep the two ledgers separate. Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held."
   },
   "comingUp": {
     "label": "Coming up",
@@ -290,6 +290,38 @@
         "IREN Limited (NASDAQ: IREN) reported fiscal-year 2026 results on Aug. 27 and highlighted a $2.4 billion GPU financing led by Blue Owl and Pacific Investment Management Company LLC, as adviser to certain investors, at a 9.0% fixed rate for the Mackenzie air-cooled expansion. The company said that facility funds approximately 90% of associated GPU capex. It sits inside a broader $2.8 billion of new GPU financings supporting non-investment-grade customer deployments.",
         "Separately in the same release, IREN cited $3.6 billion of investment-grade GPU financing for its Microsoft contract at 6.0%, which together with prepayments funds 96% of associated GPU capex. Headline FY26 figures on the release: total revenue $707.0 million (vs $501.0 million FY25); AI Cloud Services revenue $128.8 million (vs $16.4 million); Bitcoin mining revenue $578.2 million; net loss $(702.6) million including $(638.8) million of impairments primarily tied to decommissioning Bitcoin mining hardware; Adjusted EBITDA $245.7 million. Operating AI ARR was stated at $1 billion “today,” with $4 billion contracted ARR for 2026 capacity.",
         "Bloomberg on Aug. 28 (about 1:10 p.m. EDT) wrote that Blue Owl funds led the $2.4 billion debt package for Iren to buy Nvidia Blackwell Ultra GPUs for a Canadian data-center campus, describing a $1.2 billion senior-secured term loan and $1.2 billion of senior secured notes, both at 9%, maturing two and a half years after funding, with PIMCO also backing. Use Bloomberg for that structure and Blackwell Ultra color; keep Mackenzie / 90% / 9.0% as the official IREN prints."
+      ]
+    },
+    {
+      "id": "lambda-debt",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Lambda: $926M IG TLB; Bloomberg adds ~$1B Microsoft chip debt",
+      "dek": "Official Aug. 27: Moody’s Baa2, SOFR+3%, Morgan Stanley. Separate Bloomberg Aug. 28 short-dated JPMorgan private placement for Microsoft lease.",
+      "date": "Aug. 27–28, 2026",
+      "source": "Lambda; Bloomberg via TechCrunch",
+      "url": "https://lambda.ai/blog/lambda-closes-926-million-senior-secured-term-loan-b-facility",
+      "also": [
+        {
+          "label": "Bloomberg (Aug. 28)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal"
+        },
+        {
+          "label": "TechCrunch recap",
+          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+        },
+        {
+          "label": "May $1B credit facility (Lambda)",
+          "url": "https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-credit-facility"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as neocloud GPU financing next to iren-blue-owl. Two ledgers: (1) official $926M senior secured TLB Aug. 27 — Moody’s Baa2, SOFR + 3.00%, issued at 99.5%, matures Dec. 31, 2030, Morgan Stanley lead left; investment-grade offtaker not named in the PR — TechCrunch says GB300 for a deployment under contract to Nvidia, so attribute that color to TechCrunch. (2) Bloomberg Aug. 28 ~12:37 p.m. EDT: about $1B private short-dated debt arranged by JPMorgan for chips tied to Microsoft collaboration — people familiar, not a Lambda PR. Do not collapse the $926M TLB with the Bloomberg $1B or with the May $1B senior secured credit facility. Do not invent coupon on the Bloomberg deal.",
+      "grafs": [
+        "Lambda, Inc., the Superintelligence Cloud, announced Aug. 27 the closing of a $926 million senior secured term loan B facility, first priced Aug. 12, 2026, to fund the purchase and deployment of GPU infrastructure supporting a committed customer deployment with an investment-grade offtaker. Official release: Lambda blog. Moody’s assigned the facility a Baa2 rating. It was priced at SOFR + 3.00% and issued at 99.5% of principal. Maturity is Dec. 31, 2030 on a fully amortizing schedule aligned with contracted cash flows and useful life of the underlying GPU infrastructure, secured by the funded GPU servers and related cash flows. Morgan Stanley acted as lead left arranger, bookrunner, and administrative agent; MUFG as joint bookrunner; Citizens Bank, Crédit Agricole, and Wells Fargo as documentation agents.",
+        "Lambda called the facility its first large-scale private-cloud GPU asset-backed SPV financing and the first broadly syndicated, investment-grade-rated term loan B completed by a private neocloud. CEO Michel Combes: “An investment-grade rating on a term loan B signals that AI infrastructure has arrived as an investable asset class.” The closing follows Lambda’s $1 billion senior secured credit facility announced in May 2026 — keep that May facility on a separate ledger. TechCrunch (1:24 p.m. PDT Aug. 28), summarizing the week’s loan stack, said the $926 million funds Nvidia GB300 GPUs for a deployment Lambda is under contract to provide Nvidia; the official PR does not name Nvidia or GB300, so attribute that color to TechCrunch.",
+        "Separately, Bloomberg reported Aug. 28 at about 12:37 p.m. EDT that Nvidia-backed Lambda raised about $1 billion of private short-dated debt for computing chips tied to its collaboration with Microsoft, arranged by JPMorgan Chase and marketed to private-placement investors, according to people familiar with the matter. TechCrunch’s In Brief matched that Bloomberg account. Do not write the Bloomberg $1 billion as the same facility as the $926 million TLB. PitchBook color on a reported ~$3 billion pre-IPO talk and the November $1.5 billion round at a $5.43 billion post-money valuation stay secondary context only."
       ]
     },
     {
