@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 18,
+  "number": 19,
   "city": "New York",
   "date": "Friday, August 28, 2026",
   "editionLabel": "Afternoon",
   "tape": {
     "source": "CNBC",
-    "updated": "Aug 28, ~2:05 p.m. ET",
-    "line": "S&P 7,714.93 (−0.21%) · 10-year 4.72% · 30-year 5.21% · SOX 11,501 (−3.21%) · NVDA $219.00 (−3.94%)"
+    "updated": "Aug 28, ~2:59 p.m. ET",
+    "line": "S&P 7,704.32 (−0.34%) · 10-year 4.72% · 30-year 5.21% · SOX 11,461 (−3.54%) · NVDA $217.27 (−4.70%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Warsh fade: NVDA still giving back; Owner $240M hits the plate.",
+    "hed": "NVDA −4.7%; a16z Machine Age and IREN Blue Owl hit the plate.",
     "signed": "The Markets desk",
-    "body": "Afternoon refresh with one new story. CNBC ~2:05 p.m. ET: S&P 7,714.93 (−0.21%), SOX 11,501.384 (−3.21%; tape rounds 11,501), NVDA $219.00 (−3.94%). CNBC Treasuries: 10-year 4.724%, 30-year 5.206% (tape rounds 4.72% / 5.21%). Prior ~1:00 print was S&P −0.18% / NVDA −3.56% / SOX −3.40%. New: owner-series-d — Owner.com Series D $240M at $2.3B, Growth Equity at Goldman Sachs Alternatives led; Meritech, Redpoint, Headline, Jack Altman; official PR. Lead remains nvda-10q. Anthropic–MatX still held (no deal). Anthropic IPO prospectus timing still held — no public S-1. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
+    "body": "Afternoon bump to No. 19 with two new stories and a tape refresh. CNBC ~2:59 p.m. ET: S&P 7,704.32 (−0.34%), SOX 11,461.403 (−3.54%; tape rounds 11,461), NVDA $217.27 (−4.70%). CNBC Treasuries: 10-year 4.72%, 30-year 5.206% (tape rounds 4.72% / 5.21%). Prior ~2:05 print was S&P −0.21% / NVDA −3.94% / SOX −3.21%. New: a16z-machine-age — Andreessen Horowitz Machine Age Fund $1.1B for AI physical buildout (chips, memory, networking, storage, data centers, robotics); official a16z.news post Aug. 28. New: iren-blue-owl — IREN $2.4B GPU financing led by Blue Owl and PIMCO at 9.0% fixed for Mackenzie air-cooled expansion (funds 90% of associated GPU capex); inside Aug. 27 FY26 release; Bloomberg Aug. 28 adds Blackwell Ultra purchase color. Lead remains nvda-10q. Anthropic–MatX still held (no deal). Anthropic IPO prospectus timing still held — no public S-1. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
   },
   "comingUp": {
     "label": "Coming up",
@@ -242,6 +242,54 @@
         "Owner.com, the AI platform for local businesses that starts with independent restaurants, announced Aug. 28 that it has raised $240 million and reached a $2.3 billion valuation. Growth Equity at Goldman Sachs Alternatives led the financing. Existing investors Meritech, Redpoint, Headline, and Jack Altman also participated. Official release: Owner.com via PR Newswire.",
         "Owner calls itself the AI CMO and CTO for local businesses — websites, online ordering, mobile apps, CRM, customer support, POS, and AI phone ordering — with agents that manage and improve each part. The company said it launched in 2020 and has surpassed $100 million in ARR; this year alone independent restaurant owners will drive more than $1 billion in sales through Owner. It also said more than 100 million American consumers have used the platform and that it now powers more U.S. locations than Domino’s or Taco Bell. Those are company figures from the release.",
         "CEO Adam Guild, in the release: “The world is racing to build AI to replace people’s jobs. Owner is building AI to do the opposite: to do the jobs many small business owners have never been able to afford.” Next steps named in the PR: every U.S. independent restaurant, international expansion, then salons, spas, and independent grocers. Series D memo linked at owner.com/D."
+      ]
+    },
+    {
+      "id": "a16z-machine-age",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "a16z raises $1.1B Machine Age Fund for AI hardware",
+      "dek": "Official Aug. 28 post: chips, memory, networking, storage, data centers, robotics. Hardware as a formal motion.",
+      "date": "Aug. 28, 2026",
+      "source": "Andreessen Horowitz",
+      "url": "https://www.a16z.news/p/the-machine-age-fund",
+      "also": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as PE/VC capital into the physical AI stack, not a single portfolio deal. Stick to official prints: $1.1B Machine Age Fund; invests across chips, memory, networking, storage, data centers, robotics, home AI appliances. Do not invent LP names, cheque sizes, or stage focus — a16z did not disclose them. Named recent hardware backs in the post (Unconventional AI, Nexthop, Volta, Atoms, Heron Power, Mind Robotics) are examples, not this fund’s closed deals. Jan $15B+ fund complex is separate context only.",
+      "grafs": [
+        "Andreessen Horowitz announced Aug. 28 that it has raised $1.1 billion for a new Machine Age Fund aimed at “the physical buildout of AI.” The official post on a16z.news says the vehicle will invest across computer infrastructure on which AI runs — chips, memory, networking, and storage — plus full systems from data centers to robotics and home AI appliances. The firm frames hardware as an official motion, not a side bet beside its software franchise.",
+        "The post argues supply chains are hitting physics and capacity walls as demand jumps: compute density per rack up 28× from an H100 rack to a Rubin rack; rack power from roughly 5–10 kW toward 100–250 kW today and 1 MW over the next three years; data-center scale moving toward hundreds of MW and, in some cases, GW campuses. It says the hardware supply side is used to 20–30% annual growth, “not the triple-digit growth that’s needed.” Signatories named on the post include Ben Horowitz, Martin Casado, Raghu Raghuram, David Ulevitch, and David George. Limited partners, cheque sizes, and stage focus were not disclosed.",
+        "TechCrunch (6:24 a.m. PDT Aug. 28) confirmed the $1.1 billion raise from the same post. Recent hardware names cited as prior a16z backs — Unconventional AI, Nexthop, Volta, Atoms, Heron Power, Mind Robotics — are examples in the announcement, not reported first closes of Machine Age. Keep this separate from a16z’s January multi-fund raise package."
+      ]
+    },
+    {
+      "id": "iren-blue-owl",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Blue Owl and PIMCO lead $2.4B IREN GPU financing",
+      "dek": "Official FY26 release: 9.0% fixed for Mackenzie air-cooled expansion; funds 90% of associated GPU capex. Part of $2.8B non-IG GPU financings.",
+      "date": "Aug. 27, 2026",
+      "source": "IREN (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/08/27/3352401/0/en/iren-reports-fy26-results.html",
+      "also": [
+        {
+          "label": "Bloomberg (Aug. 28)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-28/blue-owl-leads-2-4-billion-iren-debt-deal-to-buy-nvidia-s-chips"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as AI-cloud GPU financing / private credit, not a PE buyout of IREN. Stick to official IREN prints: $2.4B led by Blue Owl and PIMCO (as adviser to certain investors) at 9.0% fixed for Mackenzie air-cooled expansion, funding 90% of associated GPU capex; sits inside $2.8B non-investment-grade GPU financings. Separate $3.6B investment-grade GPU financing for the Microsoft contract at 6.0%. Bloomberg Aug. 28 says proceeds buy Nvidia Blackwell Ultra for a Canada campus — attribute Blackwell Ultra to Bloomberg, not the GlobeNewswire bullet. Do not invent term-loan vs notes split unless citing Bloomberg ($1.2B TL / $1.2B notes).",
+      "grafs": [
+        "IREN Limited (NASDAQ: IREN) reported fiscal-year 2026 results on Aug. 27 and highlighted a $2.4 billion GPU financing led by Blue Owl and Pacific Investment Management Company LLC, as adviser to certain investors, at a 9.0% fixed rate for the Mackenzie air-cooled expansion. The company said that facility funds approximately 90% of associated GPU capex. It sits inside a broader $2.8 billion of new GPU financings supporting non-investment-grade customer deployments.",
+        "Separately in the same release, IREN cited $3.6 billion of investment-grade GPU financing for its Microsoft contract at 6.0%, which together with prepayments funds 96% of associated GPU capex. Headline FY26 figures on the release: total revenue $707.0 million (vs $501.0 million FY25); AI Cloud Services revenue $128.8 million (vs $16.4 million); Bitcoin mining revenue $578.2 million; net loss $(702.6) million including $(638.8) million of impairments primarily tied to decommissioning Bitcoin mining hardware; Adjusted EBITDA $245.7 million. Operating AI ARR was stated at $1 billion “today,” with $4 billion contracted ARR for 2026 capacity.",
+        "Bloomberg on Aug. 28 (about 1:10 p.m. EDT) wrote that Blue Owl funds led the $2.4 billion debt package for Iren to buy Nvidia Blackwell Ultra GPUs for a Canadian data-center campus, describing a $1.2 billion senior-secured term loan and $1.2 billion of senior secured notes, both at 9%, maturing two and a half years after funding, with PIMCO also backing. Use Bloomberg for that structure and Blackwell Ultra color; keep Mackenzie / 90% / 9.0% as the official IREN prints."
       ]
     },
     {
