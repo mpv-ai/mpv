@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 16,
+  "number": 17,
   "city": "New York",
-  "date": "Thursday, August 27, 2026",
-  "editionLabel": "Night",
+  "date": "Friday, August 28, 2026",
+  "editionLabel": "Morning",
   "tape": {
     "source": "Yahoo Finance",
     "updated": "Aug 27, close ~4:00 p.m. ET",
     "line": "S&P 7,730.99 (+0.72%) · 10-year 4.67% · 30-year 5.19% · SOX 11,882 (+2.33%) · NVDA $227.98 (+8.74%)"
   },
   "deskNote": {
-    "kicker": "Markets",
-    "hed": "Catch-up: Salesforce and CrowdStrike after the software melt-up.",
+    "kicker": "Finance",
+    "hed": "WSJ: Nvidia pauses some AI-cloud revenue-share deals.",
     "signed": "The Markets desk",
-    "body": "Night add crm-fq2 and crwd-fq2 — Aug. 26 AMC prints the desk missed while NVIDIA dominated the plate. Salesforce FQ2 FY27 (ended July 31): revenue $11.345B (+11% YoY/CC); subscription and support $10.820B (+12% YoY, +11% CC); cRPO $33.5B (+14% YoY/CC). Agentforce ARR exceeded $1.5B (+over 240% YoY); Agentforce and Data 360 ARR nearly $3.9B (+over 210%). GAAP diluted EPS $4.29 includes $2.613B strategic-investment gains — do not treat as run-rate. Raises FY27 revenue to $46.1–$46.4B. Cash close (Yahoo Finance): CRM $252.05 (+22.6% vs prior close). CrowdStrike FQ2 FY27: revenue $1.471B (+26%); ARR $5.84B (+25%) with record net new ARR $332.8M (+51% YoY); Falcon Flex ending ARR >$2.29B (+101%); non-GAAP diluted EPS $0.31; raises FY27 net new ARR growth outlook +630 bps to 34% midpoint. Cash close: CRWD $227.96 (+20.5%). Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement). Close tape unchanged: S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%)."
+    "body": "Morning add nvda-csa-pause. WSJ exclusive Thursday 5:46 p.m. ET: Nvidia paused some deals in a financing initiative that offered credit support to AI cloud companies in exchange for a share of revenue; stepped back last week; may revamp or fold into another program. Spokesperson to Reuters: the compute-access model is still in place and continues to evolve due to high demand — do not write “killed.” 50% take above a threshold is WSJ sourcing, not a company print. Wednesday call (IR transcript) already described take-or-pay plus a share above the floor and “not making loans.” Lead remains nvda-10q. Close tape unchanged (Yahoo): S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%). Cash session not open. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
   },
   "comingUp": {
     "label": "Coming up",
@@ -133,6 +133,43 @@
       "grafs": [
         "Amazon Web Services and NVIDIA announced Aug. 26 a major expansion of their collaboration: plans to deploy 2 million additional NVIDIA GPUs across AWS’s global infrastructure in 2027–2028, including Blackwell Ultra, Rubin, and Rubin Ultra, and to bring NVIDIA Vera CPU-based infrastructure to AWS. The companies also cited AI factories for U.S. government workloads (plans for 100,000 GPUs on secure AWS infrastructure), NVLink Fusion work with custom NVIDIA high-bandwidth memory (NVHBM), and continued Nemotron support on Bedrock and SageMaker. Official joint release on NVIDIA Newsroom.",
         "Jensen Huang, in the release: “NVIDIA and AWS have built one of the great growth engines of the AI era, and demand is running ahead of every forecast.” Matt Garman, AWS CEO, said the expansion gives frontier labs, enterprises, and governments more ways to build and deploy AI on AWS. CNBC’s earnings live blog noted the order in the call window and tied it to hyperscaler spend commentary. This is incremental to the GTC 2026 plan AWS announced to add more than 1 million NVIDIA GPUs starting in 2026."
+      ]
+    },
+    {
+      "id": "nvda-csa-pause",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "Nvidia pauses some AI-cloud revenue-share deals, WSJ says",
+      "dek": "Spokesperson: the compute-access model is still in place. Antitrust flags. 50% take above a threshold is WSJ sourcing, not a company print.",
+      "date": "Aug. 27, 2026",
+      "source": "The Wall Street Journal / Reuters",
+      "url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
+      "also": [
+        {
+          "label": "Reuters recap (CNA)",
+          "url": "https://www.channelnewsasia.com/business/nvidia-pauses-revenue-sharing-deals-ai-cloud-companies-wsj-reports-6346451"
+        },
+        {
+          "label": "The Straits Times recap",
+          "url": "https://www.straitstimes.com/business/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-report"
+        },
+        {
+          "label": "NVIDIA July compute-access model",
+          "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/"
+        },
+        {
+          "label": "Official IR call transcript (PDF)",
+          "url": "https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package the WSJ pause against the July revenue-share/credit-support model and Wednesday’s call (take-or-pay floor; share of neocloud revenue above it; “not making loans”). Do not write that Nvidia killed the program — spokesperson said it is still in place and continues to evolve. Do not treat the 50% threshold as a company print. Do not collapse with the $105B Ohio LPS or the >$500B MOUs. Do not say the pause is the 10-Q’s $36B CSA book. Do not name Sharon AI or Firmus as paused.",
+      "grafs": [
+        "The Wall Street Journal reported Thursday, citing people familiar with the matter, that Nvidia has paused some deals in a financing initiative that offered credit support to AI cloud companies in exchange for a share of revenue. The company stepped back from the program last week, the Journal said, and could still revamp the initiative or fold it into another program. WSJ exclusive timestamp: Aug. 27, 5:46 p.m. ET. Reuters recaps: CNA and The Straits Times.",
+        "An Nvidia spokesperson told Reuters: “The new business model … that opens up compute access to the fast-growing AI ecosystem is still in place and continues to evolve due to high demand.” Do not write that Nvidia killed the program. The 50 percent take above a threshold is the Journal’s account of proposed deals, from people familiar — not a number Nvidia has published.",
+        "On Wednesday’s FQ2 call (official IR transcript, FactSet CallStreet), Nvidia described the structure in its own words: a take-or-pay commitment on a portion of a facility’s capacity — “a minimum revenue guarantee that gives lenders the confidence to underwrite the project” — and, in exchange, a share of the neocloud’s revenue earned above that floor. “We’re not making loans.” “In this model, we get paid twice, once on the hardware sale and again through the share of rental revenue,” with “the potential to drive billions in revenue over the medium to long term.” Independent capital still underwrites every deal on its own merits, the company said.",
+        "The Journal reported that some Nvidia employees expressed concerns to current and potential customers that the initiative could draw antitrust scrutiny, and that there are sensitivities around how far Nvidia can dictate how customers do business. Nvidia told some cloud providers they could rent its chips out only to approved customers and signaled it preferred capacity be distributed among multiple smaller firms rather than one large customer, the report said. Investor circular-deal scrutiny is the backdrop; do not collapse this pause with the signed $105 billion Ohio LPS cap or the preliminary >$500 billion financing MOUs already on this plate. The July blog named Sharon AI and Firmus as among the first companies on the model — the WSJ recap does not say those specific deals were paused, so do not write that."
       ]
     },
     {
