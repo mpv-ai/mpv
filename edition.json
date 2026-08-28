@@ -3,21 +3,21 @@
   "number": 17,
   "city": "New York",
   "date": "Friday, August 28, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance",
-    "updated": "Aug 27, close ~4:00 p.m. ET",
-    "line": "S&P 7,730.99 (+0.72%) · 10-year 4.67% · 30-year 5.19% · SOX 11,882 (+2.33%) · NVDA $227.98 (+8.74%)"
+    "source": "CNBC",
+    "updated": "Aug 28, ~10:13 a.m. ET",
+    "line": "S&P 7,723.35 (−0.10%) · 10-year 4.69% · 30-year 5.19% · SOX 11,655 (−1.91%) · NVDA $223.54 (−1.95%)"
   },
   "deskNote": {
-    "kicker": "Finance",
-    "hed": "WSJ: Nvidia pauses some AI-cloud revenue-share deals.",
+    "kicker": "Markets",
+    "hed": "Cash session: NVDA and SOX slip; Warsh at Jackson Hole.",
     "signed": "The Markets desk",
-    "body": "Morning add nvda-csa-pause. WSJ exclusive Thursday 5:46 p.m. ET: Nvidia paused some deals in a financing initiative that offered credit support to AI cloud companies in exchange for a share of revenue; stepped back last week; may revamp or fold into another program. Spokesperson to Reuters: the compute-access model is still in place and continues to evolve due to high demand — do not write “killed.” 50% take above a threshold is WSJ sourcing, not a company print. Wednesday call (IR transcript) already described take-or-pay plus a share above the floor and “not making loans.” Lead remains nvda-10q. Close tape unchanged (Yahoo): S&P 7,730.99 (+0.72%), NVDA $227.98 (+8.74%). Cash session not open. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
+    "body": "Tape-only Midday refresh. CNBC ~10:13 a.m. ET: S&P 7,723.35 (−0.10%), SOX 11,655 (−1.91%), NVDA $223.54 (−1.95%). CNBC Treasuries: 10-year 4.692%, 30-year 5.187% (tape rounds 4.69% / 5.19%) ahead of / with Fed Chair Warsh at Jackson Hole. No new stories. Lead remains nvda-10q. Anthropic–MatX (Reuters/ST: planned ~$7B buy abandoned, talks now partnership; MatX seeking ~$4B raise) still held — no deal, both declined comment. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed.",
+    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX still held.",
     "href": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg"
   },
   "sections": [
