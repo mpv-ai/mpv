@@ -6,14 +6,14 @@
   "editionLabel": "Midday",
   "tape": {
     "source": "CNBC",
-    "updated": "Aug 28, ~10:13 a.m. ET",
-    "line": "S&P 7,723.35 (−0.10%) · 10-year 4.69% · 30-year 5.19% · SOX 11,655 (−1.91%) · NVDA $223.54 (−1.95%)"
+    "updated": "Aug 28, ~11:02 a.m. ET",
+    "line": "S&P 7,768.99 (+0.49%) · 10-year 4.68% · 30-year 5.17% · SOX 11,725 (−1.32%) · NVDA $226.54 (−0.63%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Cash session: NVDA and SOX slip; Warsh at Jackson Hole.",
+    "hed": "S&P turns green after Warsh; NVDA still red.",
     "signed": "The Markets desk",
-    "body": "Tape-only Midday refresh. CNBC ~10:13 a.m. ET: S&P 7,723.35 (−0.10%), SOX 11,655 (−1.91%), NVDA $223.54 (−1.95%). CNBC Treasuries: 10-year 4.692%, 30-year 5.187% (tape rounds 4.69% / 5.19%) ahead of / with Fed Chair Warsh at Jackson Hole. No new stories. Lead remains nvda-10q. Anthropic–MatX (Reuters/ST: planned ~$7B buy abandoned, talks now partnership; MatX seeking ~$4B raise) still held — no deal, both declined comment. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
+    "body": "Tape-only Midday refresh. CNBC ~11:02 a.m. ET: S&P 7,768.99 (+0.49%), SOX 11,725 (−1.32%), NVDA $226.54 (−0.63%). CNBC Treasuries: 10-year 4.676%, 30-year 5.168% (tape rounds 4.68% / 5.17%). Official Fed text: Chair Warsh, “In Our Time,” Jackson Hole — PCE 3.7% / six-month 4.1%; “we have work to do” if not confident underlying inflation is moving to 2%; more than half of this year’s cap-ex growth “can likely be ascribed” to the AI buildout. No new stories. Lead remains nvda-10q. Anthropic–MatX (Reuters/ST: planned ~$7B buy abandoned, talks now partnership; MatX seeking ~$4B raise) still held — no deal, both declined comment. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed (no NVIDIA/HF statement)."
   },
   "comingUp": {
     "label": "Coming up",
