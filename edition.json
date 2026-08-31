@@ -3,17 +3,17 @@
   "number": 23,
   "city": "New York",
   "date": "Monday, August 31, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, ~12:02 PM ET",
-    "line": "S&P 7,670.77 (−0.53%) · 10-year 4.76% · 30-year 5.26% · SOX 11,454 (−0.14%) · NVDA $219.31 (+0.81%)"
+    "updated": "Aug 31, ~1:01 PM ET",
+    "line": "S&P 7,675.15 (−0.47%) · 10-year 4.76% · 30-year 5.26% · SOX 11,502 (+0.28%) · NVDA $220.12 (+1.18%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Kelvion call prints 1.8x book-to-bill; SOX still red.",
+    "hed": "SOX flips green; NVDA +1.2%; plate unchanged.",
     "signed": "The Markets desk",
-    "body": "No. 23 Midday updates slb-kelvion from official IR prepared remarks and slides posted after the 10:00 a.m. ET call (Q&A transcript still unposted): combined H1 2026 data-center book-to-bill 1.8×; Kelvion H1 bookings $1.5B (+43%); ~$70M of the $120M synergy stack is cost; cash-and-debt financed inside the 1.5× net-debt/EBITDA through-cycle target; >$4B shareholder returns in 2026 reaffirmed and a $4B floor set for 2027. NVIDIA DSX “modular design partner” is Olivier on the SLB remarks, not a NVIDIA Newsroom confirmation. Lead remains nvda-10q. openai-ads, nvda-mediatek, aon-usi stay. Tape vs 11:19: Yahoo ~12:02 PM ET — S&P 7,670.77 (−0.53%), SOX 11,454 (−0.14%), NVDA $219.31 (+0.81%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb ~12:01). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Afternoon tape-only refresh of No. 23. No new stories since Midday. Yahoo ~1:01 PM ET — S&P 7,675.15 (−0.47%), SOX 11,502 (+0.28%), NVDA $220.12 (+1.18%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb ~1:01). Lead remains nvda-10q. Midday plate stays: openai-ads, slb-kelvion (call remarks), nvda-mediatek, aon-usi. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
