@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 20,
+  "number": 21,
   "city": "New York",
-  "date": "Friday, August 28, 2026",
-  "editionLabel": "After the Close",
+  "date": "Monday, August 31, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
-    "source": "Yahoo Finance",
-    "updated": "Aug 28, close",
-    "line": "S&P 7,711.76 (−0.25%) · 10-year 4.72% · 30-year 5.21% · SOX 11,470 (−3.47%) · NVDA $217.55 (−4.57%)"
+    "source": "Yahoo Finance; CNBC (Treasuries)",
+    "updated": "Aug 31, pre-open (stocks Aug 28 close)",
+    "line": "S&P 7,711.76 (−0.25%) · 10-year 4.75% · 30-year 5.26% · SOX 11,470 (−3.47%) · NVDA $217.55 (−4.57%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Lambda GPU debt hits the plate; semis finish soft.",
+    "hed": "SLB–Kelvion, Nvidia–MediaTek, Aon–USI; cash still Friday.",
     "signed": "The Markets desk",
-    "body": "After-the-close bump to No. 20 with one new story and a Yahoo close tape. Yahoo close: S&P 7,711.76 (−0.25%), SOX 11,469.66 (−3.47%; tape rounds 11,470), NVDA $217.55 (−4.57%). Yahoo Treasuries (^TNX/^TYX): 10-year 4.72%, 30-year 5.21%. Prior Afternoon print (~2:59 p.m. ET, CNBC) was S&P 7,704.32 (−0.34%) / SOX 11,461 (−3.54%) / NVDA $217.27 (−4.70%). New: lambda-debt — official Aug. 27 $926M IG-rated TLB (Moody’s Baa2, SOFR+3.00%, Morgan Stanley) for committed GPU offtake; Bloomberg Aug. 28 adds ~$1B short-dated private debt arranged by JPMorgan for chips tied to a Microsoft collaboration — keep the two ledgers separate. Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held."
+    "body": "Monday Morning bump to No. 21 with three new stories. Cash equities not open at press (~9:00 a.m. ET); Yahoo still showing Friday close: S&P 7,711.76 (−0.25%), SOX 11,469.66 (−3.47%; tape rounds 11,470), NVDA $217.55 (−4.57%). CNBC after-hours NVDA $218.30 (+0.34%) at 9:02 a.m. ET — not a cash print. Treasuries marked higher vs Friday: Yahoo ^TNX 4.754 (tape 4.75%) vs Friday 4.72%; ^TYX 5.256 (tape 5.26%) vs Friday 5.21%. CNBC Tradeweb ~9:00–9:02 a.m.: 10-year 4.756%, 30-year 5.251%. New: slb-kelvion — official SLB and Apollo Aug. 31 PRs (~$3.4B cash plus ~$0.7B debt assumed). nvda-mediatek — official NVIDIA Newsroom; $3.5B convertible bonds into MediaTek. aon-usi — official Aon mediaroom + 8-K; $17.0B cash from KKR and other shareholders. Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX still held.",
+    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
     "href": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg"
   },
   "sections": [
@@ -60,6 +60,77 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "slb-kelvion",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "SLB to buy Kelvion from Apollo, Triton for ~$4.1B",
+      "dek": "Official PRs: ~$3.4B cash plus ~$0.7B debt assumed. ~11x 2026 EBITDA; close 1H 2027.",
+      "date": "Aug. 31, 2026",
+      "source": "SLB / Apollo",
+      "url": "https://www.slb.com/newsroom/press-release/2026/pr-2026-0831",
+      "also": [
+        {
+          "label": "Apollo Funds release",
+          "url": "https://www.apollo.com/insights-news/pressreleases/2026/08/apollo-funds-agree-to-sell-kelvion-a-global-leader-in-cooling-solutions-for-data-centers-and-diversified-industrials-to-slb-for-4-1-billion-3353148"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/slb-acquire-kelvion-34-billion-2026-08-31/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as PE exit plus data-center cooling bolt-on. Use only official SLB/Apollo prints: ~$3.4B cash, ~$0.7B debt assumed, ~11x estimated 2026 EBITDA before synergies / ~8.5x including expected annual run-rate synergies, close 1H 2027. Kelvion 2026 expected revenue ~$2.3–2.4B and adj. EBITDA ~$350–400M; data-center ~$1.2–1.3B. Do not invent EV beyond Apollo’s $4.1B headline (= cash + debt assumed). Do not treat the 10:00 a.m. ET call as already transcribed.",
+      "grafs": [
+        "SLB (NYSE: SLB) announced Aug. 31 it has signed an agreement to acquire Kelvion, a global provider of thermal management and heat exchange technologies, from Apollo-managed funds — the majority owner — and funds advised by Triton, which holds a minority interest. Under the terms, SLB will pay approximately $3.4 billion in cash and assume approximately $0.7 billion of debt. Apollo’s matching release headlines the sale at $4.1 billion. SLB says that consideration represents a total transaction value of approximately 11 times estimated 2026 EBITDA before synergies, or approximately 8.5 times EBITDA including expected annual run-rate synergies. Official: SLB newsroom PR-2026-0831; Apollo press page, Aug. 31.",
+        "Kelvion, founded more than 100 years ago, is expected in 2026 to generate revenue of approximately $2.3 billion to $2.4 billion and adjusted EBITDA of approximately $350 million to $400 million, SLB said. Data centers are its largest and fastest-growing end market, with revenue expected to reach between $1.2 billion and $1.3 billion in 2026. SLB’s Data Center Solutions revenue is expected to increase at a CAGR exceeding 90 percent between 2024 and 2026, with delivered capacity expected to surpass 2 gigawatts cumulatively by year-end. Together, SLB and Kelvion are expected to generate more than $2 billion in data center revenue and approximately $300 million in adjusted EBITDA on a pro-forma basis in 2026; SLB is targeting $4.5 billion to $5 billion of revenue and $700 million to $800 million of adjusted EBITDA for the combined data center solutions business in 2028.",
+        "SLB expects the deal to be accretive to both earnings per share and free cash flow per share in the first 12 months following closing, and to generate approximately $120 million in annual EBITDA synergies within three years. The transaction is subject to customary closing conditions and regulatory approvals and is expected to close in the first half of 2027. Apollo Funds completed their investment in Kelvion in January 2026 after agreeing in August 2025 to buy a majority stake from Triton, which retained a minority. SLB will hold a public call at 10:00 a.m. ET Aug. 31. CEO Olivier Le Peuch, in both releases: “AI is driving the most significant infrastructure investment cycle in our lifetime.” Do not write a $4.1 billion enterprise-value gloss that is not in the SLB release; pair Apollo’s $4.1 billion headline with the $3.4 billion cash / $0.7 billion debt split both companies print."
+      ]
+    },
+    {
+      "id": "nvda-mediatek",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Nvidia puts $3.5B converts into MediaTek",
+      "dek": "Official Newsroom: NVLink Fusion custom XPUs, RTX/DGX Spark, Dimensity Auto. Convertible bonds only.",
+      "date": "Aug. 31, 2026",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Package as an official NVIDIA–MediaTek platform deepening plus a $3.5B convertible-bond investment. Do not invent conversion price, coupon, tenor, ownership %, or dilution. Do not treat this as a MediaTek acquisition. Keep NVLink Fusion / Spark / Dimensity Auto as the three collaboration buckets in the release.",
+      "grafs": [
+        "NVIDIA and MediaTek announced Aug. 31 a deepening of their longstanding collaboration to build the next generations of AI computing platforms spanning AI infrastructure, local AI computing, and automotive. As part of the expanded collaboration, MediaTek will adopt the NVIDIA NVLink Fusion platform so hyperscalers, cloud service providers, and frontier model developers have a prevalidated path to develop custom XPUs and bring them into NVIDIA NVLink-connected, rack-scale AI factories. Official NVIDIA Newsroom release, dated August 31, 2026.",
+        "NVIDIA has also invested $3.5 billion in convertible bonds issued by MediaTek, the release states. That is the only financing figure in the announcement. Do not write a conversion price, coupon, maturity, or implied stake — none are disclosed. Jensen Huang, in the release: “AI is transforming every computing platform — from the world’s largest AI factories to the PC and the car.” MediaTek vice chairman and CEO Rick Tsai said NVIDIA’s investment strengthens a collaboration that spans cloud AI infrastructure, local AI computing, and automotive.",
+        "The companies name three workstreams. AI infrastructure: MediaTek will work with NVIDIA’s NVLink Fusion ecosystem (NVLink Fusion chiplet, NVLink-C2C, NVHBM) so customers can develop custom accelerators designed to integrate with NVIDIA rack-scale systems and AI factories. Local AI computing: continued collaboration on multiple generations of NVIDIA RTX Spark and DGX Spark PC chips that integrate NVIDIA GPUs with MediaTek SoCs. Automotive: MediaTek Dimensity Auto platforms integrate NVIDIA technologies and can work alongside NVIDIA DRIVE AGX. Do not invent unit volumes, ASPs, or a close date — this is a collaboration plus converts, not an M&A close."
+      ]
+    },
+    {
+      "id": "aon-usi",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Aon to buy USI from KKR for $17B",
+      "dek": "Official: $16.7B net; ~14.5x synergized TTM adj. EBITDA. Debt-funded. Close expected Q4 2026.",
+      "date": "Aug. 31, 2026",
+      "source": "Aon / SEC 8-K",
+      "url": "https://aon.mediaroom.com/2026-08-31-Aon-to-acquire-USI-to-establish-the-premier-U-S-middle-market-platform",
+      "also": [
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526375328/d108801d8k.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as a KKR PE exit into a strategic buyer, not an insurance-feature story. Use only Aon PR / 8-K prints: $17.0B purchase price, $16.7B net after ~$278M tax attributes, ~14.5x synergized TTM adj. EBITDA, ~$395M run-rate net adj. EBITDA synergies, accretive to adjusted EPS in 2028, close expected Q4 2026. Do not invent KKR proceeds, ownership %, or USI EBITDA. 8-K: merger agreement dated Aug. 30; PR Aug. 31.",
+      "grafs": [
+        "Aon plc (NYSE: AON) announced Aug. 31 it has signed a definitive agreement to acquire USI from KKR and other shareholders for a total purchase price of $17.0 billion. The purchase price is $16.7 billion on a net basis, reflecting approximately $278 million of certain tax attributes, and represents approximately 14.5 times on a synergized trailing twelve-month adjusted EBITDA basis, the company said. Official: Aon mediaroom, Aug. 31; Form 8-K (accession 0001193125-26-375328) furnishing the release. The 8-K states the Agreement and Plan of Merger was entered Aug. 30, 2026, for a purchase price of $17 billion in cash, subject to downward adjustments for leakage since June 30, 2026.",
+        "USI is described as the tenth-largest U.S. insurance broker, with approximately $3 billion in annual revenue and more than 10,500 team members across nearly 200 U.S. offices. Aon expects approximately $395 million in annual run-rate net adjusted EBITDA impact from identified revenue and cost synergies across the combined middle-market platform, and expects the acquisition to be accretive to adjusted EPS in 2028 and thereafter. Funding is expected from new debt across a range of maturities; Aon says it expects to maintain Baa2 (Moody’s) and A- (S&P) and does not expect to repurchase shares in the near term as it prioritizes debt repayment.",
+        "Closing is subject to customary conditions, including regulatory approvals, and is expected in the fourth quarter of 2026. Following close, USI Chairman and CEO Mike Sicard will serve as President of Aon plc and global CEO of Middle Market. Do not invent KKR’s remaining stake, check size, or a USI standalone EBITDA print — the 14.5x multiple is on synergized TTM adjusted EBITDA as stated. Personnel color on Aon’s prior CFO transition is not this story."
       ]
     },
     {
