@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 23,
+  "number": 24,
   "city": "New York",
   "date": "Monday, August 31, 2026",
   "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, ~1:01 PM ET",
-    "line": "S&P 7,675.15 (−0.47%) · 10-year 4.76% · 30-year 5.26% · SOX 11,502 (+0.28%) · NVDA $220.12 (+1.18%)"
+    "updated": "Aug 31, ~1:57 PM ET",
+    "line": "S&P 7,684.38 (−0.36%) · 10-year 4.76% · 30-year 5.25% · SOX 11,502 (+0.28%) · NVDA $219.75 (+1.01%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "SOX flips green; NVDA +1.2%; plate unchanged.",
+    "hed": "FSB Bailey letter on plate; SOX still green.",
     "signed": "The Markets desk",
-    "body": "Afternoon tape-only refresh of No. 23. No new stories since Midday. Yahoo ~1:01 PM ET — S&P 7,675.15 (−0.47%), SOX 11,502 (+0.28%), NVDA $220.12 (+1.18%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb ~1:01). Lead remains nvda-10q. Midday plate stays: openai-ads, slb-kelvion (call remarks), nvda-mediatek, aon-usi. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 24 Afternoon adds fsb-bailey (official FSB Chair letter to G20 FMCBG on frontier AI cyber risk, AI valuations, private credit). Lead remains nvda-10q. Yahoo ~1:57 PM ET — S&P 7,684.38 (−0.36%), SOX 11,502 (+0.28%), NVDA $219.75 (+1.01%). Treasuries: 10-year 4.76%, 30-year 5.25% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -60,6 +60,38 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "fsb-bailey",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "FSB Chair Bailey: frontier AI may rewrite cyber-risk economics",
+      "dek": "Official G20 letter. Flags AI valuations, private credit, and third-party concentration. Not a rulemaking.",
+      "date": "Aug. 31, 2026",
+      "source": "Financial Stability Board",
+      "url": "https://www.fsb.org/uploads/P310826.pdf",
+      "also": [
+        {
+          "label": "FSB page",
+          "url": "https://www.fsb.org/2026/08/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-august-2026/"
+        },
+        {
+          "label": "FSB press note",
+          "url": "https://www.fsb.org/2026/08/fsb-chair-warns-of-risks-arising-from-frontier-artificial-intelligence-ai-models/"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package from the official PDF (dated 28 Aug 2026; published for 31 Aug–1 Sep G20 FMCBG). Quote Bailey on frontier AI altering the speed, scale and economics of cyber risk; bare-metal recovery; concentrated third-party providers; stretched AI-related valuations; private-credit vulnerabilities; leverage interacting with AI–hyperscaler cross-investment. Do not invent a stress scenario or loss estimate — the letter has none. Do not treat CNBC’s ‘disorderly correction’ framing as a Bailey quote of that phrase unless matched to the PDF (‘markets remain vulnerable to a potentially disorderly correction’). Letter is policy warning, not a new FSB standard.",
+      "grafs": [
+        "Financial Stability Board Chair Andrew Bailey, in a letter dated 28 August 2026 and published for the G20 Finance Ministers and Central Bank Governors meetings on 31 August and 1 September, warned that frontier AI models are “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities.” For the financial system, he wrote, “the most immediate concern is the potential impact of frontier AI on cyber risk.”",
+        "“Frontier AI may have the ability materially to alter the speed, scale and economics of cyber risk, which could undermine market confidence system-wide, especially due to highly concentrated third-party service providers,” Bailey wrote. He urged firms to prepare for simultaneous disruption across multiple firms or shared technology dependencies, including the ability to restore critical systems and data from “bare metal,” and said many jurisdictions still lack protocols for safe frontier-model release and deployment.",
+        "Outside the AI section, Bailey said markets remain vulnerable to a potentially disorderly correction given fragilities in sovereign debt, vulnerabilities in private credit, and stretched asset valuations — “particularly artificial intelligence-related investments.” He also flagged leverage in equity markets interacting with high valuations and market concentration, “in particular the increasing cross-investment between artificial intelligence (AI) companies and hyper scalers.” The letter is a chair warning, not a new FSB rule or quantified loss scenario."
       ]
     },
     {
