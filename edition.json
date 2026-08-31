@@ -3,17 +3,17 @@
   "number": 21,
   "city": "New York",
   "date": "Monday, August 31, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, pre-open (stocks Aug 28 close)",
-    "line": "S&P 7,711.76 (−0.25%) · 10-year 4.75% · 30-year 5.26% · SOX 11,470 (−3.47%) · NVDA $217.55 (−4.57%)"
+    "updated": "Aug 31, ~10:03 AM ET (cash open)",
+    "line": "S&P 7,677.15 (−0.45%) · 10-year 4.76% · 30-year 5.26% · SOX 11,522 (+0.46%) · NVDA $219.00 (+0.67%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "SLB–Kelvion, Nvidia–MediaTek, Aon–USI; cash still Friday.",
+    "hed": "Cash open: S&P soft, SOX and NVDA green; plate unchanged.",
     "signed": "The Markets desk",
-    "body": "Monday Morning bump to No. 21 with three new stories. Cash equities not open at press (~9:00 a.m. ET); Yahoo still showing Friday close: S&P 7,711.76 (−0.25%), SOX 11,469.66 (−3.47%; tape rounds 11,470), NVDA $217.55 (−4.57%). CNBC after-hours NVDA $218.30 (+0.34%) at 9:02 a.m. ET — not a cash print. Treasuries marked higher vs Friday: Yahoo ^TNX 4.754 (tape 4.75%) vs Friday 4.72%; ^TYX 5.256 (tape 5.26%) vs Friday 5.21%. CNBC Tradeweb ~9:00–9:02 a.m.: 10-year 4.756%, 30-year 5.251%. New: slb-kelvion — official SLB and Apollo Aug. 31 PRs (~$3.4B cash plus ~$0.7B debt assumed). nvda-mediatek — official NVIDIA Newsroom; $3.5B convertible bonds into MediaTek. aon-usi — official Aon mediaroom + 8-K; $17.0B cash from KKR and other shareholders. Lead remains nvda-10q. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Midday tape-only refresh of No. 21. No new stories since Morning. Cash equities open: Yahoo ~10:03 AM ET — S&P 7,677.15 (−0.45% vs Friday close 7,711.76), SOX 11,522 (+0.46%), NVDA $219.00 (+0.67%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb). Lead remains nvda-10q. Morning adds stay: slb-kelvion, nvda-mediatek, aon-usi. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
