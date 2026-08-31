@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 21,
+  "number": 22,
   "city": "New York",
   "date": "Monday, August 31, 2026",
   "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, ~10:03 AM ET (cash open)",
-    "line": "S&P 7,677.15 (−0.45%) · 10-year 4.76% · 30-year 5.26% · SOX 11,522 (+0.46%) · NVDA $219.00 (+0.67%)"
+    "updated": "Aug 31, ~11:19 AM ET",
+    "line": "S&P 7,674.22 (−0.49%) · 10-year 4.76% · 30-year 5.26% · SOX 11,466 (−0.03%) · NVDA $219.52 (+0.91%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Cash open: S&P soft, SOX and NVDA green; plate unchanged.",
+    "hed": "OpenAI ads at $1B run-rate; SOX fades the open green.",
     "signed": "The Markets desk",
-    "body": "Midday tape-only refresh of No. 21. No new stories since Morning. Cash equities open: Yahoo ~10:03 AM ET — S&P 7,677.15 (−0.45% vs Friday close 7,711.76), SOX 11,522 (+0.46%), NVDA $219.00 (+0.67%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb). Lead remains nvda-10q. Morning adds stay: slb-kelvion, nvda-mediatek, aon-usi. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "No. 22 Midday adds openai-ads from the official Aug. 31 product post: ChatGPT Ads $1 billion annualized revenue run rate in less than 200 days; tens of thousands of advertisers; self-serve Ads Manager expanding later today to India, Europe, MENA. Lead remains nvda-10q. Morning adds stay: slb-kelvion, nvda-mediatek, aon-usi. SLB Kelvion call still has no posted transcript. Tape vs 10:03 cash open: Yahoo ~11:19 AM ET — S&P 7,674.22 (−0.49%), SOX 11,466 (−0.03%, off the open green), NVDA $219.52 (+0.91%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -60,6 +60,30 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "openai-ads",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "OpenAI: ChatGPT Ads hit $1B run-rate in under 200 days",
+      "dek": "Official: tens of thousands of advertisers; 40+ countries. Self-serve Ads Manager expands to India, Europe, MENA.",
+      "date": "Aug. 31, 2026",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+      "also": [
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as an official OpenAI monetization print, not an IPO filing. Use only the Aug. 31 product post: $1 billion annualized revenue run rate in less than 200 days; tens of thousands of advertisers; ads in over 40 countries; Ads Manager self-serve expanding later today to India, Europe, the Middle East, and North Africa. Free-tier ads help keep ChatGPT available to more than 1 billion weekly active users. Do not write a company valuation, IPO size, or CPC/ROAS as a platform KPI — the 3x ROAS line is one ecommerce advertiser over 28 days. Ads are labeled, do not influence answers, and advertisers do not get private conversations.",
+      "grafs": [
+        "OpenAI said Aug. 31 that ChatGPT Ads has reached $1 billion in annualized revenue run rate in less than 200 days after launch. The platform is now used by tens of thousands of advertisers. Official product post: “A milestone in expanding access to AI,” dated August 31, 2026. Advertising is described as one pillar of a diversified model alongside consumer subscriptions, enterprise offerings, and usage-based APIs. An advertising-supported free tier, the company said, helps keep ChatGPT available to more than 1 billion weekly active users.",
+        "Starting later today, advertisers can buy ChatGPT ads directly via Ads Manager across India, Europe, the Middle East, and North Africa. ChatGPT Ads are now available in over 40 countries through the OpenAI Ads Solutions team and agency and technology partners. Ads Manager launched in May for small and medium-sized businesses. The company says ads are always clearly labeled and separate from ChatGPT’s answers, advertising does not influence those answers, and advertisers do not receive access to people’s private conversations.",
+        "Do not treat this as an S-1 or a priced IPO. The post does not give a conversion of the $1 billion run-rate into trailing revenue, a take-rate, or an advertiser ARPU. CPC and outcome-optimized bidding “now account for the majority of campaigns,” it says; Pixel and Conversions API are measurement foundations. A cited 3x return on ad spend is one ecommerce advertiser over 28 days, not a platform average. Sign-up is ads.openai.com."
       ]
     },
     {
