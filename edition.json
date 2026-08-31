@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 22,
+  "number": 23,
   "city": "New York",
   "date": "Monday, August 31, 2026",
   "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, ~11:19 AM ET",
-    "line": "S&P 7,674.22 (−0.49%) · 10-year 4.76% · 30-year 5.26% · SOX 11,466 (−0.03%) · NVDA $219.52 (+0.91%)"
+    "updated": "Aug 31, ~12:02 PM ET",
+    "line": "S&P 7,670.77 (−0.53%) · 10-year 4.76% · 30-year 5.26% · SOX 11,454 (−0.14%) · NVDA $219.31 (+0.81%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "OpenAI ads at $1B run-rate; SOX fades the open green.",
+    "hed": "Kelvion call prints 1.8x book-to-bill; SOX still red.",
     "signed": "The Markets desk",
-    "body": "No. 22 Midday adds openai-ads from the official Aug. 31 product post: ChatGPT Ads $1 billion annualized revenue run rate in less than 200 days; tens of thousands of advertisers; self-serve Ads Manager expanding later today to India, Europe, MENA. Lead remains nvda-10q. Morning adds stay: slb-kelvion, nvda-mediatek, aon-usi. SLB Kelvion call still has no posted transcript. Tape vs 10:03 cash open: Yahoo ~11:19 AM ET — S&P 7,674.22 (−0.49%), SOX 11,466 (−0.03%, off the open green), NVDA $219.52 (+0.91%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "No. 23 Midday updates slb-kelvion from official IR prepared remarks and slides posted after the 10:00 a.m. ET call (Q&A transcript still unposted): combined H1 2026 data-center book-to-bill 1.8×; Kelvion H1 bookings $1.5B (+43%); ~$70M of the $120M synergy stack is cost; cash-and-debt financed inside the 1.5× net-debt/EBITDA through-cycle target; >$4B shareholder returns in 2026 reaffirmed and a $4B floor set for 2027. NVIDIA DSX “modular design partner” is Olivier on the SLB remarks, not a NVIDIA Newsroom confirmation. Lead remains nvda-10q. openai-ads, nvda-mediatek, aon-usi stay. Tape vs 11:19: Yahoo ~12:02 PM ET — S&P 7,670.77 (−0.53%), SOX 11,454 (−0.14%), NVDA $219.31 (+0.81%). Treasuries: 10-year 4.76%, 30-year 5.26% (CNBC Tradeweb ~12:01). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -92,7 +92,7 @@
       "section": "PE",
       "kicker": "PE",
       "hed": "SLB to buy Kelvion from Apollo, Triton for ~$4.1B",
-      "dek": "Official PRs: ~$3.4B cash plus ~$0.7B debt assumed. ~11x 2026 EBITDA; close 1H 2027.",
+      "dek": "Call remarks: 1.8× H1 DC book-to-bill; $4B 2027 returns floor. Still ~$3.4B cash / 1H 2027 close.",
       "date": "Aug. 31, 2026",
       "source": "SLB / Apollo",
       "url": "https://www.slb.com/newsroom/press-release/2026/pr-2026-0831",
@@ -104,14 +104,26 @@
         {
           "label": "Reuters",
           "url": "https://www.reuters.com/business/energy/slb-acquire-kelvion-34-billion-2026-08-31/"
+        },
+        {
+          "label": "Prepared remarks (PDF)",
+          "url": "https://investorcenter.slb.com/static-files/c64d0db5-7a71-473d-9222-6951f7042c85"
+        },
+        {
+          "label": "Webcast presentation (PDF)",
+          "url": "https://investorcenter.slb.com/static-files/625c3924-d6ef-4c7a-a0bb-bae9ff81462b"
+        },
+        {
+          "label": "Kelvion Transaction FAQ",
+          "url": "https://investorcenter.slb.com/investor-resources/investor-faqs"
         }
       ],
       "owner": "QUILL",
-      "action": "Package as PE exit plus data-center cooling bolt-on. Use only official SLB/Apollo prints: ~$3.4B cash, ~$0.7B debt assumed, ~11x estimated 2026 EBITDA before synergies / ~8.5x including expected annual run-rate synergies, close 1H 2027. Kelvion 2026 expected revenue ~$2.3–2.4B and adj. EBITDA ~$350–400M; data-center ~$1.2–1.3B. Do not invent EV beyond Apollo’s $4.1B headline (= cash + debt assumed). Do not treat the 10:00 a.m. ET call as already transcribed.",
+      "action": "Package as PE exit plus data-center cooling bolt-on. Official SLB/Apollo PRs still govern deal terms: ~$3.4B cash, ~$0.7B debt assumed, ~11x estimated 2026 EBITDA before synergies / ~8.5x including expected annual run-rate synergies, close 1H 2027. Kelvion 2026 expected revenue ~$2.3–2.4B and adj. EBITDA ~$350–400M; data-center ~$1.2–1.3B. Add only what is in the Aug. 31 IR prepared remarks and slides (not a Q&A transcript): combined H1 2026 data-center book-to-bill 1.8 times; combined H1 data-center bookings +>130% vs H1 2025; Kelvion H1 2026 bookings $1.5B (+43% Y/Y); data-center ~55% of 2026 revenue and >50% Y/Y; ~$70M of $120M year-three EBITDA synergies from cost (~60% of the stack in year two); financed with cash and debt inside the through-cycle 1.5x net debt-to-EBITDA target; >$4B total shareholder returns in 2026 reaffirmed and a $4B floor for 2027. SLB DCS standalone is on track to exit 2027 at an annualized revenue run-rate exceeding $2B. “Modular design partner for NVIDIA DSX AI factories” is Olivier Le Peuch in the SLB remarks — do not treat as a NVIDIA Newsroom confirmation. Do not invent EV beyond Apollo’s $4.1B headline (= cash + debt assumed). Q&A transcript still unposted.",
       "grafs": [
         "SLB (NYSE: SLB) announced Aug. 31 it has signed an agreement to acquire Kelvion, a global provider of thermal management and heat exchange technologies, from Apollo-managed funds — the majority owner — and funds advised by Triton, which holds a minority interest. Under the terms, SLB will pay approximately $3.4 billion in cash and assume approximately $0.7 billion of debt. Apollo’s matching release headlines the sale at $4.1 billion. SLB says that consideration represents a total transaction value of approximately 11 times estimated 2026 EBITDA before synergies, or approximately 8.5 times EBITDA including expected annual run-rate synergies. Official: SLB newsroom PR-2026-0831; Apollo press page, Aug. 31.",
-        "Kelvion, founded more than 100 years ago, is expected in 2026 to generate revenue of approximately $2.3 billion to $2.4 billion and adjusted EBITDA of approximately $350 million to $400 million, SLB said. Data centers are its largest and fastest-growing end market, with revenue expected to reach between $1.2 billion and $1.3 billion in 2026. SLB’s Data Center Solutions revenue is expected to increase at a CAGR exceeding 90 percent between 2024 and 2026, with delivered capacity expected to surpass 2 gigawatts cumulatively by year-end. Together, SLB and Kelvion are expected to generate more than $2 billion in data center revenue and approximately $300 million in adjusted EBITDA on a pro-forma basis in 2026; SLB is targeting $4.5 billion to $5 billion of revenue and $700 million to $800 million of adjusted EBITDA for the combined data center solutions business in 2028.",
-        "SLB expects the deal to be accretive to both earnings per share and free cash flow per share in the first 12 months following closing, and to generate approximately $120 million in annual EBITDA synergies within three years. The transaction is subject to customary closing conditions and regulatory approvals and is expected to close in the first half of 2027. Apollo Funds completed their investment in Kelvion in January 2026 after agreeing in August 2025 to buy a majority stake from Triton, which retained a minority. SLB will hold a public call at 10:00 a.m. ET Aug. 31. CEO Olivier Le Peuch, in both releases: “AI is driving the most significant infrastructure investment cycle in our lifetime.” Do not write a $4.1 billion enterprise-value gloss that is not in the SLB release; pair Apollo’s $4.1 billion headline with the $3.4 billion cash / $0.7 billion debt split both companies print."
+        "Kelvion is expected in 2026 to generate revenue of approximately $2.3 billion to $2.4 billion and adjusted EBITDA of approximately $350 million to $400 million, SLB said. Data centers are its largest and fastest-growing end market: about 55 percent of 2026 revenue, or $1.2 billion to $1.3 billion, and more than 50 percent growth from 2025. Official prepared remarks: Kelvion first-half 2026 bookings were $1.5 billion, up 43 percent year over year. Combined SLB and Kelvion data-center bookings in the first half of 2026 rose more than 130 percent versus the first half of 2025, for a combined book-to-bill of 1.8 times. On a 2026 pro-forma basis the two data-center businesses are expected to generate more than $2 billion in revenue and approximately $300 million in adjusted EBITDA; SLB is targeting $4.5 billion to $5 billion of revenue and $700 million to $800 million of adjusted EBITDA for the combined data-center solutions business in 2028. SLB’s existing Data Center Solutions business is on track to exit 2027 at an annualized revenue run-rate exceeding $2 billion, with delivered capacity expected to surpass 2 gigawatts cumulatively by year-end 2026.",
+        "CFO Stephane Biguet, in the prepared remarks: the deal will be financed with existing cash and debt; leverage stays inside the previously stated through-cycle target of up to 1.5 times net debt-to-EBITDA. Annual EBITDA synergies of approximately $120 million within three years, with about 60 percent in the second year; approximately $70 million of that stack is cost. Accretive to EPS and free cash flow per share in the first 12 months after close. Shareholder returns: more than $4 billion in 2026 between dividends and buybacks is reaffirmed, and $4 billion is now a floor for 2027. Close remains the first half of 2027. Olivier Le Peuch said SLB will serve as the modular design partner for NVIDIA DSX AI factories — that is an SLB remarks line, not a NVIDIA Newsroom post. A Q&A transcript is still not posted; use the IR prepared-remarks and presentation PDFs. Do not write a $4.1 billion enterprise-value gloss that is not in the SLB release; pair Apollo’s $4.1 billion headline with the $3.4 billion cash / $0.7 billion debt split both companies print."
       ]
     },
     {
