@@ -6,14 +6,14 @@
   "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, ~1:57 PM ET",
-    "line": "S&P 7,684.38 (−0.36%) · 10-year 4.76% · 30-year 5.25% · SOX 11,502 (+0.28%) · NVDA $219.75 (+1.01%)"
+    "updated": "Aug 31, ~2:53 PM ET",
+    "line": "S&P 7,673.80 (−0.49%) · 10-year 4.76% · 30-year 5.25% · SOX 11,483 (+0.12%) · NVDA $218.12 (+0.26%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "FSB Bailey letter on plate; SOX still green.",
+    "hed": "FSB Bailey on plate; NVDA fades, SOX still green.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 24 Afternoon adds fsb-bailey (official FSB Chair letter to G20 FMCBG on frontier AI cyber risk, AI valuations, private credit). Lead remains nvda-10q. Yahoo ~1:57 PM ET — S&P 7,684.38 (−0.36%), SOX 11,502 (+0.28%), NVDA $219.75 (+1.01%). Treasuries: 10-year 4.76%, 30-year 5.25% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 24 Afternoon tape refresh. Lead remains nvda-10q; fsb-bailey stays the add. Yahoo ~2:53 PM ET — S&P 7,673.80 (−0.49%), SOX 11,483 (+0.12%), NVDA $218.12 (+0.26%). Treasuries: 10-year 4.76%, 30-year 5.25% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
