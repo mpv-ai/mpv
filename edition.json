@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 26,
+  "number": 27,
   "city": "New York",
   "date": "Tuesday, September 1, 2026",
   "editionLabel": "Afternoon",
   "tape": {
     "source": "CNBC (Treasuries: Tradeweb)",
-    "updated": "Sep 1, 12:56 p.m. ET",
-    "line": "S&P 7,635.52 (−0.66%) · 10-year 4.79% · 30-year 5.26% · SOX 11,320 (−1.86%) · NVDA $219.57 (−0.55%)"
+    "updated": "Sep 1, 1:49 p.m. ET",
+    "line": "S&P 7,633.21 (−0.69%) · 10-year 4.79% · 30-year 5.26% · SOX 11,260 (−2.39%) · NVDA $218.08 (−1.22%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Google takes 396 MW Fervo Utah PPA.",
+    "hed": "Keppel DC REIT takes Tokyo hyperscale pair.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 26 Afternoon. Added fervo-google (official Fervo PR + 8-K). Lead remains nvda-10q. CNBC ~12:56 p.m. ET — S&P 7,635.52 (−0.66%), SOX 11,320 (−1.86%), NVDA $219.57 (−0.55%). Treasuries: 10-year 4.79%, 30-year 5.26% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 27 Afternoon. Added keppel-tokyo-dc (official Keppel media + SGXNET PDFs), chatgpt-vlose (Commission IP/26/1772, updated Sept. 1), and price-of-intelligence (arXiv 2608.29843). Lead remains nvda-10q. CNBC ~1:49 p.m. ET — S&P 7,633.21 (−0.69%), SOX 11,260 (−2.39%), NVDA $218.08 (−1.22%). Treasuries: 10-year 4.79%, 30-year 5.26% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -60,6 +60,85 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "keppel-tokyo-dc",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Keppel DC REIT to take 90% of two Tokyo hyperscale colos",
+      "dek": "Official IR closes the morning split: JPY 190.0bn on a 100% basis; KDCR pays JPY 168.4bn for 88.62%. Close targeted 4Q 2026.",
+      "date": "Sept. 1, 2026",
+      "source": "Keppel Ltd / Keppel DC REIT",
+      "url": "https://www.keppel.com/media/keppel-dc-reit-acquires-two-freehold-hyperscale-colocation-data-centres-in-inzai-city-greater-tokyo/",
+      "also": [
+        {
+          "label": "SGXNET announcement (PDF)",
+          "url": "https://www.keppel.com/file/media/2026/sep/01-sep-kdcreit/keppel-dc-reit-acquisition-announcement.pdf"
+        },
+        {
+          "label": "Equity fund raising (PDF)",
+          "url": "https://www.keppel.com/file/media/2026/sep/01-sep-kdcreit/keppel-dc-reit-launch-of-pp-announcement.pdf"
+        },
+        {
+          "label": "Presentation (PDF)",
+          "url": "https://www.keppel.com/file/media/2026/sep/01-sep-kdcreit/kdcr-proposed-acquisition-of-tokyo-data-centre-4-and-5.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as a hyperscale colo / data-center REIT deal, not a PE buyout of Keppel. Stick to the Sept. 1 Keppel media release and SGXNET PDF. Collective 90% effective interests in Tokyo Data Centre 4 and 5 (Inzai City, Greater Tokyo); on completion KDCR 88.62% and Keppel via Keppel Japan KK 1.38%; existing operator keeps 10% and is unnamed. Aggregate consideration on a 100% basis is JPY 190.0 billion (about S$1,548.5 million at JPY 100:S$0.8150 as of Aug. 31, 2026), a 2.1% discount to JPY 194.0 billion valuation. KDCR pays about JPY 168.4 billion (about S$1,372.3 million) for 88.62%. Do not write ¥171bn as KDCR’s check — that is 90% of 190.0bn, not the 88.62% outlay. Do not name the sellers (unrelated third parties). Do not invent placement size from the EFR PDF unless quoting it. Funding is equity plus JPY-denominated debt; close targeted 4Q 2026. Pro forma FY2025 DPU 10.381 cents to 10.649 cents (+2.6%) if completed Jan. 1, 2025. AUM S$6.3bn to about S$7.6bn across 27 centres. Japan rental-income share ~9% at June 30, 2026 to ~23%.",
+      "grafs": [
+        "Keppel DC REIT and Keppel Ltd. said Sept. 1 they have indirectly entered into agreements with unrelated third-party sellers to collectively acquire 90% effective interests in Tokyo Data Centre 4 and Tokyo Data Centre 5, two freehold, hyperscale, fully fitted colocation data centres in Inzai City, Greater Tokyo. Upon completion, Keppel DC REIT will hold an 88.62% effective interest in each data centre, and Keppel, through Keppel Japan KK, will hold 1.38%. The existing operator, described only as an established global data-centre owner and operator, retains 10%.",
+        "The aggregate purchase consideration on a 100% basis is JPY 190.0 billion (approximately S$1,548.5 million at JPY 100:S$0.8150 as of Aug. 31, 2026), an approximate 2.1% discount to the assets’ valuation of JPY 194.0 billion (approximately S$1,581.1 million). Keppel DC REIT will pay approximately JPY 168.4 billion (approximately S$1,372.3 million) for its 88.62% effective interest. That is the split this morning’s wires mixed: 90% of JPY 190.0 billion is JPY 171 billion; the REIT’s own outlay is the lower 88.62% figure. Completion is targeted for the fourth quarter of 2026, funded with a mix of equity and JPY-denominated debt.",
+        "The manager said the acquisition is expected to be immediately DPU accretive: on a pro forma basis, if it had completed on Jan. 1, 2025, FY2025 DPU would rise 2.6%, from 10.381 cents to 10.649 cents. The assets are 100% occupied by four investment-grade internet-enterprise and IT-services clients, with contracted average annual rent escalation of approximately 2.8% and in-place rents estimated at least 30% below prevailing market rents. Japan’s contribution to portfolio rental income would rise from approximately 9% as at June 30, 2026 to approximately 23% post-acquisition, and AUM from S$6.3 billion to approximately S$7.6 billion across 27 data centres in 10 countries. Singapore would still account for approximately 60% of portfolio rental income."
+      ]
+    },
+    {
+      "id": "chatgpt-vlose",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "EU designates ChatGPT a Very Large Online Search Engine",
+      "dek": "Commission IP/26/1772. OpenAI Ireland reports 159.1 million average monthly EU users. Extra DSA duties by January 2027.",
+      "date": "Aug. 31, 2026",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1772/IP_26_1772_EN.pdf",
+      "also": [
+        {
+          "label": "Commission news note",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act"
+        },
+        {
+          "label": "VLOP/VLOSE register",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/list-designated-vlops-and-vloses"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as an official DSA designation, not an OpenAI product launch and not a fine. Primary is IP/26/1772 (Brussels, 31 August 2026; footnote: updated on 01/09/2026). ChatGPT is designated a Very Large Online Search Engine because it is a hybrid AI system that can search the web. Reddit and Roblox are designated VLOPs the same day. User counts come from the Commission register (updated 31 August 2026), as reported by the provider: ChatGPT 159.1 million average monthly active users, Reddit 57.2 million, Roblox 46.6 million. Do not write “first AI system ever designated” — the Commission does not say that. Do not invent a fine, a user-count methodology fight, or a compliance cost. Four-month clock to extra VLOP/VLOSE duties, i.e. by January 2027. Commission supervises with Coimisiún na Meán for ChatGPT. PR: Commission has now designated 28 VLOPs and VLOSEs.",
+      "grafs": [
+        "The European Commission designated ChatGPT a Very Large Online Search Engine under the Digital Services Act on Aug. 31, and designated Reddit and Roblox Very Large Online Platforms the same day (IP/26/1772; the release was updated Sept. 1). The services declared that they reach at least 45 million average monthly users in the EU, the designation threshold. ChatGPT, the Commission said, is an AI system that can engage with users’ prompts “including by searching the web,” and is therefore a hybrid service that qualifies as an online search engine under the DSA.",
+        "The Commission’s VLOP/VLOSE register, information updated on Aug. 31, 2026, lists OpenAI Ireland Limited / ChatGPT as a VLOSE with 159.1 million average monthly active users, Digital Services Coordinator Ireland, designation 31.08.2026. Reddit Netherlands B.V. is listed at 57.2 million; Roblox at 46.6 million. The Commission said it has now designated 28 very large online platforms and search engines under the DSA. User counts are as reported by the provider, without prejudice to the Commission’s assessment of the methodology.",
+        "After notification, the services have four months — i.e. by January 2027 — to comply with the additional DSA obligations for VLOPs and VLOSEs, including assessing and mitigating systemic risks related to illegal content, minors, users’ physical and mental well-being, fundamental rights, electoral processes and public security. The Commission will supervise in cooperation with Coimisiún na Meán for ChatGPT, and the Dutch Authority for Consumers and Markets for Reddit and Roblox. Executive Vice-President Henna Virkkunen: the designations mean ChatGPT, Reddit and Roblox “will now be held to a higher standard of scrutiny and accountability in the European Union.”"
+      ]
+    },
+    {
+      "id": "price-of-intelligence",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "The Price of Intelligence: quality-adjusted AI inference prices",
+      "dek": "Zhu, Oxford, arXiv 2608.29843. Matched-model −0.10 log pts/yr; quality-adjusted −0.73. 87% of the drop is invisible to agency methods.",
+      "date": "Sept. 1, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.29843",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Package as a measurement/CFO research note, not a vendor price cut. Stick to the paper’s own abstract and results: public panel of 21,024 posted-price observations across 3,208 models and 86 providers (Feb. 2024–Aug. 2026). Matched-model (agency) methods: inference prices fell at 0.10 log points a year; quality-adjusted index fell at 0.73, so 87% of the decline is invisible. Per completed task, the buyer’s price stopped falling (reasoning models raised token consumption faster than token prices fell). Excluding contamination-flagged benchmarks leaves rankings intact at 0.998 yet moves the index by 0.49 log points a year. Do not treat the Menlo Ventures $8.4bn enterprise API spend as an official statistical series — the paper flags it as an illustrative private estimate. List prices, not transaction prices.",
+      "grafs": [
+        "Louis Yiven Zhu (University of Oxford) posted “The Price of Intelligence: A Quality-Adjusted Price Index for AI Services” to the Tuesday arXiv mailing (2608.29843; dated August 30, 2026). The panel assembles 21,024 posted-price observations across 3,208 models and 86 providers and joins them to 4,605 benchmark scores. Measured by the matched-model methods statistical agencies apply to software, inference prices fell at 0.10 log points a year. The quality-adjusted index fell at 0.73, so 87% of the decline is invisible to current methods.",
+        "Counted per completed task, the paper says the buyer’s price stopped falling. Reasoning models raised token consumption faster than token prices fell, and the seller’s and buyer’s prices diverged. A pre-registered validity audit is the sharpest result: excluding contamination-flagged benchmarks leaves model rankings intact at 0.998 yet moves the index by 0.49 log points a year. Leaderboard-stability arguments, the author writes, are no defence of economic statistics built on benchmarks.",
+        "The indices measure posted list prices on one named channel per provider, not transaction prices, so true declines are faster than measured. Dataset and code are released (DOI 10.5281/zenodo.22177190). Treat it as a deflator research note for AI-spend and productivity, not a print on any one lab’s API price."
       ]
     },
     {
