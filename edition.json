@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 30,
+  "number": 31,
   "city": "New York",
   "date": "Tuesday, September 1, 2026",
-  "editionLabel": "After the Close",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo; CNBC (Treasuries: Tradeweb)",
     "updated": "Sep 1, 4:00 p.m. ET close",
@@ -11,13 +11,13 @@
   },
   "deskNote": {
     "kicker": "CFO",
-    "hed": "Dell posts record $47B Q2; lifts FY to $192B.",
+    "hed": "PANW Q4 $3.41B; NGS ARR $9.10B (+63%).",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 30 After the Close. Added dell-fq2 from Dell IR / SEC Exhibit 99.1 (accession 0001571996-26-000039): record revenue $47.0B (+58%), GAAP diluted EPS $6.34 (+273%) / non-GAAP $7.04 (+203%); AI-Optimized Servers $16.4B; AI server orders $60.9B; backlog $95B; FY27 revenue guide raised $25B to $192.0B and AI-server revenue guide to $74.0B. Lead remains nvda-10q. Official close tape — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed. PANW AMC watch only — no official PR numbers yet."
+    "body": "Vol. 1 No. 31 Evening. Added panw-fq4 from Palo Alto Networks IR / SEC Exhibit 99.1 (accession 0001327567-26-000019): Q4 revenue $3.41B (+34%); NGS ARR $9.10B (+63%); RPO $21.2B (+34%); non-GAAP EPS $1.02; GAAP diluted loss ($0.35); FY26 adj. FCF margin 38.4%; FY27 revenue guide $14.10–$14.20B. Same-day Console acquisition disclosed with no price. Lead remains nvda-10q. Tape unchanged from official close — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed (WSJ/Bloomberg sourcing only). Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. PANW FY26 Q4 watch until official PR.",
+    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
     "href": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg"
   },
   "sections": [
@@ -60,6 +60,38 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "panw-fq4",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "PANW Q4 revenue $3.41B; NGS ARR $9.10B, +63%",
+      "dek": "Non-GAAP EPS $1.02. GAAP loss ($0.35). FY27 guide $14.10–$14.20B. Console acquired, no price.",
+      "date": "Sept. 1, 2026",
+      "source": "Palo Alto Networks; SEC Exhibit 99.1",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-10",
+      "also": [
+        {
+          "label": "Company press / PRNewswire",
+          "url": "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results"
+        },
+        {
+          "label": "SEC Exhibit 99.1 (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000019/ex991q426earningsrelease.htm"
+        },
+        {
+          "label": "Console acquisition (no price)",
+          "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquires-console-agentify-security"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as the AMC cybersecurity CFO print that closes the PANW watch. Stick to official IR / Exhibit 99.1: Q4 revenue $3.41B (+34%); NGS ARR $9.10B (+63%) with nearly $1B net-new NGS ARR in the quarter; RPO $21.2B (+34%); GAAP operating income $172M vs $497M prior-year; non-GAAP operating income $1.0B / $1,011M; GAAP net loss $282M or ($0.35) diluted; non-GAAP net income $853M or $1.02 diluted; Q4 adj. FCF $1.3B / $1,289M; FY26 adj. FCF margin 38.4%. FY26 year: revenue $11.48B; GAAP NI $307M / $0.40 diluted; non-GAAP NI $2.931B / $3.84. Q1 FY27 guide: NGS ARR $9.54–$9.56B (+63%); RPO $20.8–$20.9B; revenue $3.300–$3.310B; diluted non-GAAP EPS $0.96–$0.98. FY27 guide: NGS ARR $11.075–$11.175B (+22–23%); RPO $25.2–$25.4B; revenue $14.10–$14.20B (+23–24%); non-GAAP op margin 29.5%; diluted non-GAAP EPS $4.16–$4.19; adj. FCF margin 38.0%. Same-day Console acquisition expands Cortex agentic workflows — no purchase price, EV, or earnout disclosed; do not invent one. Do not invent call Q&A until official transcript. Keep CyberArk integration costs as color only where the PR names them.",
+      "grafs": [
+        "Palo Alto Networks (NASDAQ: PANW) reported fiscal fourth-quarter and fiscal-year 2026 results for the period ended July 31, 2026 after the U.S. close on Sept. 1. Official investor-relations release and Exhibit 99.1 to the Form 8-K (accession 0001327567-26-000019): total revenue $3.41 billion, up 34% year over year. Next-Generation Security ARR was $9.10 billion, up 63%. Remaining performance obligations were $21.2 billion, up 34%. CEO Nikesh Arora said the company added nearly $1 billion of net-new NGS ARR in the quarter and reiterated a $20 billion FY30 NGS ARR target.",
+        "GAAP operating income was $172 million, versus $497 million a year earlier. Non-GAAP operating income was $1.0 billion ($1,011 million), versus $768 million. GAAP net loss was $282 million, or ($0.35) per diluted share, versus GAAP net income of $254 million, or $0.36, a year earlier. Non-GAAP net income was $853 million, or $1.02 per diluted share, versus $673 million, or $0.95. Net cash from operating activities was $1.4 billion ($1,357 million); adjusted free cash flow was $1.3 billion ($1,289 million). Fiscal-year 2026 adjusted free cash flow margin was 38.4%. Full-year FY26 revenue was $11.48 billion; GAAP net income $307 million, or $0.40 diluted; non-GAAP net income $2.931 billion, or $3.84 diluted.",
+        "Guidance: fiscal first-quarter 2027 NGS ARR $9.54–$9.56 billion (+63% YoY); RPO $20.8–$20.9 billion; total revenue $3.300–$3.310 billion; diluted non-GAAP EPS $0.96–$0.98. Full-year FY27: NGS ARR $11.075–$11.175 billion (+22–23%); RPO $25.2–$25.4 billion; revenue $14.10–$14.20 billion (+23–24%); non-GAAP operating margin 29.5%; diluted non-GAAP EPS $4.16–$4.19; adjusted free cash flow margin 38.0%. CFO Dipak Golechha cited strength across Network & AI Security, Cortex, and Idira and confidence in a 40% adjusted free cash flow margin in FY28. Separately the same day, Palo Alto Networks said it has acquired Console, an AI-native agentic-workflows platform, to deepen Cortex; the acquisition release discloses no purchase price. Primary URLs: IR fiscal-10 results release, company press, SEC Exhibit 99.1, and the Console IR release."
       ]
     },
     {
