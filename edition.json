@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 28,
+  "number": 29,
   "city": "New York",
   "date": "Tuesday, September 1, 2026",
   "editionLabel": "Afternoon",
   "tape": {
     "source": "CNBC (Treasuries: Tradeweb)",
-    "updated": "Sep 1, 2:49 p.m. ET",
-    "line": "S&P 7,616.53 (−0.91%) · 10-year 4.80% · 30-year 5.27% · SOX 11,216 (−2.77%) · NVDA $216.71 (−1.84%)"
+    "updated": "Sep 1, 3:54 p.m. ET",
+    "line": "S&P 7,625.70 (−0.79%) · 10-year 4.80% · 30-year 5.27% · SOX 11,293 (−2.10%) · NVDA $216.79 (−1.81%)"
   },
   "deskNote": {
-    "kicker": "Markets",
-    "hed": "SB Energy files; NVIDIA in at the IPO.",
+    "kicker": "PE",
+    "hed": "Veritas recommended cash for Bodycote.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 28 Afternoon. Added sb-energy-s1 (public S-1, Nasdaq SBE; NVIDIA $1.5B Class N concurrent private placement plus a separate $1.5B Energy Global prepaid forward), mech-mind-ipo (HKEX 09615 listing day, HK$101.7 / HK$12.71B), and tripo-b (about RMB 3B Series B and B+). Lead remains nvda-10q. CNBC ~2:49 p.m. ET − S&P 7,616.53 (−0.91%), SOX 11,216 (−2.77%), NVDA $216.71 (−1.84%). Treasuries: 10-year 4.80%, 30-year 5.27% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 29 Afternoon. Added bodycote-veritas (Rule 2.7 recommended cash: 940p Offer Value = 932.8p cash + 7.2p FY26 interim; equity ~£1.64B; EV ~£1.84B; scheme targeted Q1 2027). Lead remains nvda-10q. CNBC ~3:54 p.m. ET − S&P 7,625.70 (−0.79%), SOX 11,293 (−2.10%), NVDA $216.79 (−1.81%). Treasuries: 10-year 4.80%, 30-year 5.27% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed (source-says; Anthropic declined). Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed. Gamma/Epiris Rule 2.7 left off the plate (UK comms; optional, below this hour’s bar)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
+    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
     "href": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg"
   },
   "sections": [
@@ -60,6 +60,30 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "bodycote-veritas",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Veritas recommended cash bid for Bodycote at 940p",
+      "dek": "932.8p cash plus 7.2p FY26 interim. Equity ~£1.64B; EV ~£1.84B. Scheme; Q1 2027.",
+      "date": "Sept. 1, 2026",
+      "source": "Bodycote / Veritas RNS",
+      "url": "https://www.investegate.co.uk/announcement/rns/bodycote--boy/recommended-cash-acquisition-of-bodycote-plc/9747189",
+      "also": [
+        {
+          "label": "Bodycote investors",
+          "url": "https://www.bodycote.com/investors"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as a recommended UK Takeover Code Rule 2.7 take-private, not a heat-treatment feature. Stick to the Sept. 1 RNS: Offer Value 940 pence per share = 932.8p cash + FY26 interim dividend of 7.2p that shareholders keep without reducing cash. Cash Consideration implies ~£1,640 million equity value and ~£1,840 million enterprise value on a fully diluted basis; Offer Value (including the permitted dividend) ~£1,652 million equity / ~£1,852 million EV. Do not write £1.65B as the cash check. Premium on Offer Value: 37.5% to the 3-month VWAP of 683.4p to May 21, 2026 (undisturbed before the May 22 possible-offer announcement); 25.3% to the Aug. 4 close of 750.2p (last business day before the offer period). BidCo is Vulcan Alpha Bidco Limited, indirectly wholly owned by funds managed or controlled by Veritas Capital Fund Management. Veritas AUM ~$54 billion as at June 30, 2026. Scheme of arrangement; expected Effective Q1 2027. Unanimous Bodycote board recommendation (Barclays, Goldman Sachs, Gleacher Shacklock; Gleacher is Rule 3). RNS background only: CVC independently submitted 915p including the permitted dividend; do not write that CVC has walked or lost — the RNS does not say that. Do not invent a USD conversion, leverage, or close date beyond Q1 2027. Not a customer lead.",
+      "grafs": [
+        "Bodycote plc and Vulcan Alpha Bidco Limited, a newly formed company indirectly wholly owned by funds and investment vehicles managed or controlled by Veritas Capital Fund Management, said Sept. 1 they have agreed a recommended cash acquisition of the entire issued and to be issued ordinary share capital of Bodycote. The Offer Value is 940 pence per Bodycote share: 932.8 pence in cash plus the FY26 interim dividend of 7.2 pence, which shareholders are entitled to receive and retain without any reduction to the cash. The cash consideration implies a valuation of approximately £1,640 million on a fully diluted basis and an enterprise value of approximately £1,840 million. Including the permitted dividend, the Offer Value implies approximately £1,652 million of equity value and an enterprise value of approximately £1,852 million.",
+        "The Offer Value is a 37.5 percent premium to the three-month volume-weighted average price of 683.4 pence to May 21, 2026 — the undisturbed period before Bodycote’s May 22 announcement of a possible offer after press speculation — and a 25.3 percent premium to the 750.2 pence close on Aug. 4, the last business day before the offer period. Veritas, a New York private investment firm founded in 1992, had approximately $54 billion of assets under management as at June 30, 2026. Bodycote is described in the RNS as the world’s largest provider of heat treatment and specialist thermal processing, with about 130 facilities in 22 countries and about 4,000 employees; for the year ended Dec. 31, 2025 it reported total revenue of £727.1 million and adjusted EBITDA of £184.7 million.",
+        "The acquisition is intended to be implemented by a court-sanctioned scheme of arrangement under Part 26 of the Companies Act 2006 and is currently expected to become effective in the first quarter of 2027, subject to shareholder approvals, Court sanction, and competition and regulatory conditions. The Bodycote directors, advised by Barclays, Goldman Sachs, and Gleacher Shacklock (Rule 3), intend unanimously to recommend the scheme. The RNS records that CVC independently submitted an improved proposal of 915 pence including the permitted dividend; Veritas’s 940 pence Offer Value is the firm recommended Rule 2.7. Do not write that CVC has withdrawn. Chair Daniel Dayan: the offer “delivers shareholders excellent value in cash.” James Dimitri, Partner & Co-Head of Flagship Private Equity at Veritas, said Veritas looks forward to supporting Bodycote’s “continued development.” Cash is to be financed by a combination of equity from Veritas-managed funds and committed debt under an Interim Facilities Agreement; Lazard, as BidCo’s financial adviser, is satisfied that sufficient resources are available. Do not invent leverage or a USD price."
       ]
     },
     {
