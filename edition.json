@@ -1,6 +1,6 @@
 {
   "volume": 1,
-  "number": 32,
+  "number": 33,
   "city": "New York",
   "date": "Tuesday, September 1, 2026",
   "editionLabel": "Night",
@@ -11,9 +11,9 @@
   },
   "deskNote": {
     "kicker": "AI",
-    "hed": "Anthropic Fable 5.1: cache reads −75%; Mythos partner-only.",
+    "hed": "OpenAI Astra hits Critical cyber; Daybreak-limited.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 32 Night. Added anthropic-fable from Anthropic’s Sept. 1 post: Claude Fable 5.1 GA; Mythos 5.1 trusted-access twin; cache reads $0.25/MTok (−75%); list in/out still $10/$50; typical workloads ~25% cheaper, agentic up to ~45%; EFS customer-held monitoring from this fall. Lead remains nvda-10q. Tape unchanged — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. DELL after-hours recovered from the close on already-plated dell-fq2 (color only). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 33 Night. Catch-up add openai-astra from OpenAI’s Sept. 1 Path to Astra post: first model designated at Critical cybersecurity under the Preparedness Framework; advanced cyber initially to testers then Daybreak Blue for defensive use; public availability “soon.” Lead remains nvda-10q. Tape unchanged — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. Credo Q1 FY27 left off as secondary behind DELL/PANW. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -92,6 +92,38 @@
         "Anthropic on Sept. 1 introduced Claude Fable 5.1 and Claude Mythos 5.1 as the same underlying model with different safeguard levels. Fable 5.1 is generally available today on the Claude API and through Amazon Web Services, Google Cloud, and Microsoft Azure under model id claude-fable-5-1. Mythos 5.1 is invitation-only through trusted access programs for vetted cybersecurity and life-sciences work; Anthropic says Mythos is currently limited to a set of U.S. organizations, with expansion coordinated with the U.S. government.",
         "The enterprise print is the cache-read cut. Anthropic says Fable 5.1 list prices otherwise match Fable 5 — $10 per million input tokens and $50 per million output — while cache reads now cost 75% less, or $0.25 per million tokens. The company estimates that change lowers cost by around 25% for typical workloads and by up to around 45% for highly agentic, context-heavy work. Pair that with Enterprise Frontier Safeguards: monitoring data stored in customer-controlled cloud infrastructure rather than on Anthropic’s systems, rolling out in phases beginning later this fall, with eligible customers able to use Fable 5.1 under zero data retention until EFS is available.",
         "Anthropic’s own benchmarks (vendor-reported) put Fable 5.1 at 55.8% on Terminal-Bench 4.0 versus 42.0% for Fable 5 and 52.3% for Opus 5, with Mythos 5.1 at 60.9% under more permissive cyber safeguards; Terminal-Bench-Science 0.1 at 52.6% versus 24.7% for Fable 5; CursorBench 3.2.0 at 73.4%. Separately, Anthropic says cyber safeguards for Fable now produce about 60% fewer interventions per Claude Code session than the prior Fable 5 setup, while still redirecting exploit generation and related dual-use cyber tasks. Keep this on the AI plate next to the existing Anthropic IPO banker story; do not treat Fable as confirmation of Lambda, MatX, or an S-1."
+      ]
+    },
+    {
+      "id": "openai-astra",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "OpenAI: Astra is first model at Critical cyber threshold",
+      "dek": "Zero-day exploit capability without step-by-step human guide. Broad release “soon”; advanced cyber via Daybreak Blue testers first.",
+      "date": "Sept. 1, 2026",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/path-to-astra/",
+      "also": [
+        {
+          "label": "CNBC (4:10 p.m. ET)",
+          "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/openai-says-upcoming-model-is-so-capable-it-requires-stronger-guardrails-2026-09-01/"
+        },
+        {
+          "label": "Putting frontier cyber models in trusted hands (Daybreak)",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as OpenAI’s first Critical cybersecurity designation under the Preparedness Framework — pair with plated anthropic-fable / Mythos trusted-access framing. Primary is the Sept. 1 Path to Astra post (not the Aug. 18 pacing note). Keep vendor-reported evals clearly labeled. Do not invent ARR, pricing, or launch date beyond “soon.” Daybreak Blue expands defensive advanced-cyber access after a small alpha-tester group. Astra was not involved in the Hugging Face incident; Aug. 28 restarted the large frontier RL run previously paused. System card at launch. Keep HF $12.9B and other open watches unchanged.",
+      "grafs": [
+        "OpenAI on Sept. 1 said it now believes Astra meets the Critical cybersecurity capability threshold under its Preparedness Framework — the first model the company is designating at that level. In OpenAI’s words, with the right tools and access Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step. The company says stronger safeguards were required during development and before release, and that after delaying parts of Astra’s development and release it believes those safeguards sufficiently minimize the risk of severe harm for release under the Framework.",
+        "Access is gated. OpenAI plans to make Astra available “soon,” but advanced cybersecurity capabilities will be more limited at first: advanced cybersecurity work initially to a group of testers, with access through Daybreak Blue following to expand defensive use. OpenAI will put more detail in the model’s system card at launch. Separately, Reuters quoted OpenAI VP Amelia Glaese on the same conference call: with the right tools and access, Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step.",
+        "Vendor-reported eval color (label as such): Astra scored 100% on ExploitBench for developing exploits from known vulnerabilities; on an internal ExploitBench port of 20 recent high-severity V8 bugs it was more token-efficient and more capable than GPT-5.6 Sol, and during that eval discovered and used two zero-day vulnerabilities in an exploit chain (OpenAI says it is disclosing those to maintainers). Expert-led assessments include a browser sandbox-escape chain and a local privilege-escalation to root. OpenAI says Astra was not involved in the Hugging Face incident; it restarted the large frontier RL run on Aug. 28 after the post-incident pause and is still holding back some smaller experimental runs. Pair on the AI plate with Anthropic’s Fable 5.1 / Mythos 5.1 trusted-access framing already printed tonight — do not treat Astra as confirmation of any open Anthropic valuation watch."
       ]
     },
     {
