@@ -2,18 +2,18 @@
   "volume": 1,
   "number": 25,
   "city": "New York",
-  "date": "Monday, August 31, 2026",
-  "editionLabel": "After the Close",
+  "date": "Tuesday, September 1, 2026",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance; CNBC (Treasuries)",
-    "updated": "Aug 31, close",
-    "line": "S&P 7,686.14 (−0.33%) · 10-year 4.75% · 30-year 5.24% · SOX 11,535 (+0.57%) · NVDA $220.78 (+1.48%)"
+    "source": "CNBC (Treasuries: Tradeweb)",
+    "updated": "Sep 1, 12:56 p.m. ET",
+    "line": "S&P 7,635.52 (−0.66%) · 10-year 4.79% · 30-year 5.26% · SOX 11,320 (−1.86%) · NVDA $219.57 (−0.55%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "SLB posts Kelvion Q&A; NVDA closes green.",
+    "hed": "SOX off 1.9%; September opens red.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 25 After the Close. Lead remains nvda-10q; slb-kelvion now carries the official IR Q&A transcript. Yahoo close — S&P 7,686.14 (−0.33%), SOX 11,535 (+0.57%), NVDA $220.78 (+1.48%). Treasuries: 10-year 4.75%, 30-year 5.24% (CNBC Tradeweb). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 25 Afternoon. Lead remains nvda-10q. CNBC ~12:56 p.m. ET — S&P 7,635.52 (−0.66%), SOX 11,320 (−1.86%), NVDA $219.57 (−0.55%). Treasuries: 10-year 4.79%, 30-year 5.26% (CNBC Tradeweb). No new stories. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
