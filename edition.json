@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 31,
+  "number": 32,
   "city": "New York",
   "date": "Tuesday, September 1, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo; CNBC (Treasuries: Tradeweb)",
     "updated": "Sep 1, 4:00 p.m. ET close",
     "line": "S&P 7,631.47 (−0.71%) · 10-year 4.80% · 30-year 5.27% · SOX 11,289 (−2.14%) · NVDA $217.44 (−1.39%)"
   },
   "deskNote": {
-    "kicker": "CFO",
-    "hed": "PANW Q4 $3.41B; NGS ARR $9.10B (+63%).",
+    "kicker": "AI",
+    "hed": "Anthropic Fable 5.1: cache reads −75%; Mythos partner-only.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 31 Evening. Added panw-fq4 from Palo Alto Networks IR / SEC Exhibit 99.1 (accession 0001327567-26-000019): Q4 revenue $3.41B (+34%); NGS ARR $9.10B (+63%); RPO $21.2B (+34%); non-GAAP EPS $1.02; GAAP diluted loss ($0.35); FY26 adj. FCF margin 38.4%; FY27 revenue guide $14.10–$14.20B. Same-day Console acquisition disclosed with no price. Lead remains nvda-10q. Tape unchanged from official close — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed (WSJ/Bloomberg sourcing only). Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 32 Night. Added anthropic-fable from Anthropic’s Sept. 1 post: Claude Fable 5.1 GA; Mythos 5.1 trusted-access twin; cache reads $0.25/MTok (−75%); list in/out still $10/$50; typical workloads ~25% cheaper, agentic up to ~45%; EFS customer-held monitoring from this fall. Lead remains nvda-10q. Tape unchanged — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. DELL after-hours recovered from the close on already-plated dell-fq2 (color only). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -60,6 +60,38 @@
         "The payment obligation is triggered on certain tenant defaults and is expected to decrease over each phase’s 20-year lease term. The guarantees are limited to defined portions of lease and power payments — not the full cost of the site or all of the tenant’s obligations — and terminate upon certain events, including OpenAI achieving a satisfactory credit rating or after each respective lease term. Other land, power and shell guarantees for AI clouds remain $3.5 billion. The guarantee table totals $108.5 billion.",
         "The commitments table in Note 10 totals $366 billion: supply and capacity $279 billion (already on this plate), cloud service agreements $29 billion, data-center leases not commenced $25 billion, equity investments $25 billion, and capital expenditures $8 billion. Separately, AI-cloud CSA commitments are $36 billion.",
         "Do not collapse that signed cap with the capital-platform language. MD&A, exact: “In August 2026, we entered into memorandums of understanding with several large capital providers to establish independent financing platforms designed to mobilize more than $500 billion of third-party capital over time to support the deployment of AI infrastructure. These and other preliminary arrangements may not lead to definitive agreements. … At our option, we may provide limited residual-value support for a portion of specific projects, subject to disciplined risk management and project-by-project evaluation.” The 10-Q does not name Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs or KKR. Those names stay on the Aug. 10 investor-relations announcement. Pair the two: a signed, capped $105 billion guarantee and preliminary >$500 billion MOUs."
+      ]
+    },
+    {
+      "id": "anthropic-fable",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Anthropic ships Fable 5.1; cache reads −75%",
+      "dek": "Same model as Mythos 5.1. Typical workloads ~25% cheaper; agentic up to ~45%. EFS privacy for enterprises this fall.",
+      "date": "Sept. 1, 2026",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "also": [
+        {
+          "label": "Claude Fable 5.1 docs",
+          "url": "https://platform.claude.com/docs/en/models/fable-5-1/overview"
+        },
+        {
+          "label": "VentureBeat (cache economics)",
+          "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as Anthropic’s frontier refresh with the CFO/enterprise read: list prices unchanged ($10/$50 per MTok in/out) but cache reads cut 75% to $0.25/MTok — Anthropic estimates ~25% lower cost for typical workloads and up to ~45% for highly agentic work. Same underlying model as Mythos 5.1; Fable is GA on API/AWS/GCP/Azure as claude-fable-5-1; Mythos is trusted-access only (Cyber Verification Program + Life Sciences Verification Program with US government). Enterprise Frontier Safeguards (EFS) puts monitoring data in customer-controlled cloud; phased from this fall, with zero data retention for eligible customers until then. Do not invent IPO/valuation numbers. Keep Anthropic–Lambda $35B, Anthropic–MatX, and Anthropic S-1 on the open-watch ledger.",
+      "grafs": [
+        "Anthropic on Sept. 1 introduced Claude Fable 5.1 and Claude Mythos 5.1 as the same underlying model with different safeguard levels. Fable 5.1 is generally available today on the Claude API and through Amazon Web Services, Google Cloud, and Microsoft Azure under model id claude-fable-5-1. Mythos 5.1 is invitation-only through trusted access programs for vetted cybersecurity and life-sciences work; Anthropic says Mythos is currently limited to a set of U.S. organizations, with expansion coordinated with the U.S. government.",
+        "The enterprise print is the cache-read cut. Anthropic says Fable 5.1 list prices otherwise match Fable 5 — $10 per million input tokens and $50 per million output — while cache reads now cost 75% less, or $0.25 per million tokens. The company estimates that change lowers cost by around 25% for typical workloads and by up to around 45% for highly agentic, context-heavy work. Pair that with Enterprise Frontier Safeguards: monitoring data stored in customer-controlled cloud infrastructure rather than on Anthropic’s systems, rolling out in phases beginning later this fall, with eligible customers able to use Fable 5.1 under zero data retention until EFS is available.",
+        "Anthropic’s own benchmarks (vendor-reported) put Fable 5.1 at 55.8% on Terminal-Bench 4.0 versus 42.0% for Fable 5 and 52.3% for Opus 5, with Mythos 5.1 at 60.9% under more permissive cyber safeguards; Terminal-Bench-Science 0.1 at 52.6% versus 24.7% for Fable 5; CursorBench 3.2.0 at 73.4%. Separately, Anthropic says cyber safeguards for Fable now produce about 60% fewer interventions per Claude Code session than the prior Fable 5 setup, while still redirecting exploit generation and related dual-use cyber tasks. Keep this on the AI plate next to the existing Anthropic IPO banker story; do not treat Fable as confirmation of Lambda, MatX, or an S-1."
       ]
     },
     {
