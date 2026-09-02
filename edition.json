@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 33,
+  "number": 34,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo; CNBC (Treasuries: Tradeweb)",
-    "updated": "Sep 2, ~9:31 a.m. ET (markets open)",
-    "line": "S&P 7,638.61 (+0.09%) · 10-year 4.79% · 30-year 5.26% · SOX 11,265 (−0.21%) · NVDA $219.45 (+0.92%)"
+    "source": "Yahoo Finance",
+    "updated": "Sep 2, ~12:50 p.m. ET (markets open)",
+    "line": "S&P 7,664.65 (+0.43%) · 10-year 4.80% · 30-year 5.27% · SOX 11,320 (+0.28%) · NVDA $225.83 (+3.86%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Wednesday open: tape refresh, plate unchanged.",
+    "hed": "Wonderful $550M Series C hits the plate; midday tape refresh.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 33 Morning. No new beat stories since Night. Lead remains nvda-10q; openai-astra stays on plate. Tape refreshed to Wed open — Yahoo S&P 7,638.61 (+0.09%), SOX 11,265 (−0.21%), NVDA $219.45 (+0.92%); CNBC Tradeweb 10-year 4.79%, 30-year 5.26%. HPE Q3 still AMC (call 4:30 p.m. ET). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 34 Afternoon. New: wonderful-c (Insight-led $550M at $5B; Salesforce joins). Lead remains nvda-10q. Tape refreshed midday — Yahoo S&P 7,664.65 (+0.43%), SOX 11,320 (+0.28%), NVDA $225.83 (+3.86%); 10-year 4.80%, 30-year 5.27%. HPE Q3 and Broadcom Q3 still AMC — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "HPE Q3 AMC today. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
+    "line": "HPE Q3 AMC today (call 4:30 p.m. ET). Broadcom Q3 AMC (call 5:00 p.m. ET). Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
     "href": "https://investors.hpe.com/"
   },
   "sections": [
@@ -124,6 +124,34 @@
         "OpenAI on Sept. 1 said it now believes Astra meets the Critical cybersecurity capability threshold under its Preparedness Framework — the first model the company is designating at that level. In OpenAI’s words, with the right tools and access Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step. The company says stronger safeguards were required during development and before release, and that after delaying parts of Astra’s development and release it believes those safeguards sufficiently minimize the risk of severe harm for release under the Framework.",
         "Access is gated. OpenAI plans to make Astra available “soon,” but advanced cybersecurity capabilities will be more limited at first: advanced cybersecurity work initially to a group of testers, with access through Daybreak Blue following to expand defensive use. OpenAI will put more detail in the model’s system card at launch. Separately, Reuters quoted OpenAI VP Amelia Glaese on the same conference call: with the right tools and access, Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step.",
         "Vendor-reported eval color (label as such): Astra scored 100% on ExploitBench for developing exploits from known vulnerabilities; on an internal ExploitBench port of 20 recent high-severity V8 bugs it was more token-efficient and more capable than GPT-5.6 Sol, and during that eval discovered and used two zero-day vulnerabilities in an exploit chain (OpenAI says it is disclosing those to maintainers). Expert-led assessments include a browser sandbox-escape chain and a local privilege-escalation to root. OpenAI says Astra was not involved in the Hugging Face incident; it restarted the large frontier RL run on Aug. 28 after the post-incident pause and is still holding back some smaller experimental runs. Pair on the AI plate with Anthropic’s Fable 5.1 / Mythos 5.1 trusted-access framing already printed tonight — do not treat Astra as confirmation of any open Anthropic valuation watch."
+      ]
+    },
+    {
+      "id": "wonderful-c",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Wonderful closes $550M Series C at $5B for enterprise AI OS",
+      "dek": "Insight-led round; Salesforce joins. Scales AI OS across 35+ markets; 650 employees.",
+      "date": "Sept. 2, 2026",
+      "source": "Wonderful",
+      "url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c",
+      "also": [
+        {
+          "label": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20260901326498/en/"
+        },
+        {
+          "label": "CNA (valuation double)",
+          "url": "https://www.channelnewsasia.com/business/ai-startup-wonderfuls-valuation-more-doubles-5-billion-in-latest-funding-round-6357901"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as enterprise AI OS growth-equity next to owner-series-d / rillet. Stick to company prints: $550M Series C at $5B, Insight-led, Salesforce + Index/IVP/Vine/9Yards/Bessemer; post–March 2026 Series B ($150M at $2B per CNA) → 35+ markets, 650 employees; proceeds = product + global deployment. Do not write Ctech’s ~$170M secondary or Globes’s $5.5B headline — not in company PR (company says $5B).",
+      "grafs": [
+        "Wonderful, the AI operating system for the enterprise, announced Sept. 2 the closing of a $550 million Series C at a $5 billion valuation. Insight Partners led; Salesforce participated alongside existing investors Index Ventures, IVP, Vine Ventures, 9Yards, and Bessemer Venture Partners. Official: Wonderful blog (Amsterdam dateline) and Business Wire.",
+        "Since its Series B in March 2026, the company says it has expanded to more than 35 markets, grown to 650 employees worldwide, and evolved the platform into a full AI OS that coordinates agents, workflows, AI-native applications, enterprise context, integrations, and governed execution. The company describes the stack as open and model-agnostic and compatible with existing technology stacks. Use of proceeds: accelerate product development, expand global deployment teams, and support enterprise demand.",
+        "CEO and co-founder Bar Winkler, in the release: enterprises need a shared AI foundation so production AI does not recreate SaaS sprawl. CNA notes the prior March round was $150 million at a $2 billion valuation and that the new mark more than doubles that in under six months. Do not underwrite a secondary size — that figure is not in the company release."
       ]
     },
     {
