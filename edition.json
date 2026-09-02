@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 36,
+  "number": 37,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Sep 2, ~2:50 p.m. ET (markets open)",
-    "line": "S&P 7,664.94 (+0.44%) · 10-year 4.79% · 30-year 5.26% · SOX 11,332 (+0.38%) · NVDA $224.66 (+3.32%)"
+    "updated": "Sep 2, ~3:55 p.m. ET (markets open)",
+    "line": "S&P 7,665.18 (+0.44%) · 10-year 4.80% · 30-year 5.27% · SOX 11,331 (+0.37%) · NVDA $224.31 (+3.16%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "iPronics $125M B (Nvidia) and Blackstone–Huskeys $27M A hit the plate; tape refresh.",
+    "hed": "Lyte $165M C at $1.6B and TabaPay $155M/FTV + bank plan hit the plate.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 36 Afternoon. New: ipronics-b ($125M Series B, Maverick/Light Street co-lead, Nvidia participates; total $177M) and huskeys-a ($27M Series A led by Blackstone Innovations; WSJ valuation $100M+). Lead remains nvda-10q. Tape refreshed — Yahoo S&P 7,664.94 (+0.44%), SOX 11,332 (+0.38%), NVDA $224.66 (+3.32%); 10-year 4.79%, 30-year 5.26%. HPE Q3 AMC (call 4:30 p.m. ET) and Broadcom Q3 AMC (call 5:00 p.m. ET) still ahead — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 37 Late Afternoon. New: lyte-c ($165M Series C at $1.6B, Maverick Silicon–led; total $272M) and tabapay-ftv ($155M FTV growth round with planned Transact Bank → TabaBank acquisition, Q4 close subject to approvals). Lead remains nvda-10q. Tape refreshed — Yahoo S&P 7,665.18 (+0.44%) · 10-year 4.80% · 30-year 5.27% · SOX 11,331 (+0.37%) · NVDA $224.31 (+3.16%). HPE Q3 AMC (call 4:30 p.m. ET) and Broadcom Q3 AMC (call 5:00 p.m. ET) still ahead — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -124,6 +124,68 @@
         "OpenAI on Sept. 1 said it now believes Astra meets the Critical cybersecurity capability threshold under its Preparedness Framework — the first model the company is designating at that level. In OpenAI’s words, with the right tools and access Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step. The company says stronger safeguards were required during development and before release, and that after delaying parts of Astra’s development and release it believes those safeguards sufficiently minimize the risk of severe harm for release under the Framework.",
         "Access is gated. OpenAI plans to make Astra available “soon,” but advanced cybersecurity capabilities will be more limited at first: advanced cybersecurity work initially to a group of testers, with access through Daybreak Blue following to expand defensive use. OpenAI will put more detail in the model’s system card at launch. Separately, Reuters quoted OpenAI VP Amelia Glaese on the same conference call: with the right tools and access, Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step.",
         "Vendor-reported eval color (label as such): Astra scored 100% on ExploitBench for developing exploits from known vulnerabilities; on an internal ExploitBench port of 20 recent high-severity V8 bugs it was more token-efficient and more capable than GPT-5.6 Sol, and during that eval discovered and used two zero-day vulnerabilities in an exploit chain (OpenAI says it is disclosing those to maintainers). Expert-led assessments include a browser sandbox-escape chain and a local privilege-escalation to root. OpenAI says Astra was not involved in the Hugging Face incident; it restarted the large frontier RL run on Aug. 28 after the post-incident pause and is still holding back some smaller experimental runs. Pair on the AI plate with Anthropic’s Fable 5.1 / Mythos 5.1 trusted-access framing already printed tonight — do not treat Astra as confirmation of any open Anthropic valuation watch."
+      ]
+    },
+    {
+      "id": "lyte-c",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "Lyte raises $165M Series C at $1.6B for robot perception",
+      "dek": "Maverick Silicon leads; Fidelity, Atreides, Key1, Ora Global join. Total raised $272M.",
+      "date": "Sept. 2, 2026",
+      "source": "BusinessWire / Lyte",
+      "url": "https://www.businesswire.com/news/home/20260902093122/en/",
+      "also": [
+        {
+          "label": "Yahoo (BW reprint)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/lyte-raises-165-million-series-130000629.html"
+        },
+        {
+          "label": "Crunchbase News",
+          "url": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/"
+        },
+        {
+          "label": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/09/02/lyte-raises-165m-at-1-6b-valuation-to-bring-accurate-perception-to-robots/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as physical-AI perception catch-up next to ipronics-b (same Maverick Silicon lead). Stick to Sept. 2 BusinessWire: $165M Series C at $1.6B post-money led by Maverick Silicon; Fidelity Management & Research (Series B lead), Atreides, Key1, Ora Global participate; total capital since 2021 = $272M. Sunnyvale; LyteVision multimodal perception (custom silicon + sensors + spatial software). Andrew Homan (Maverick) joins board. Do not invent revenue, customers, or ARR. Not a Guide lead.",
+      "grafs": [
+        "Lyte said Sept. 2 it closed a $165 million Series C led by Maverick Silicon at a $1.6 billion post-money valuation, bringing total capital raised since 2021 to $272 million. Fidelity Management & Research Company, which led Lyte’s Series B, participated again alongside Atreides Management, Key1 Capital, Ora Global, and additional existing and new investors. Andrew Homan, managing partner at Maverick Silicon, joined the board.",
+        "The Sunnyvale company builds custom silicon, multimodal sensors, and spatial software for robot perception. Since emerging from stealth in January 2026 it says it has entered production and is shipping LyteVision to robotics customers in inspection, logistics, and manufacturing. Proceeds go to scale sensing-silicon and LyteVision production, advance AI/perception, and expand customer deployments. Pair on the AI plate with today’s Maverick-led iPronics optical-networking B; do not invent named logos or revenue."
+      ]
+    },
+    {
+      "id": "tabapay-ftv",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance",
+      "hed": "TabaPay raises $155M (FTV); plans Transact Bank buy",
+      "dek": "Primary + secondary growth equity. OCC/FDIC Denver bank → TabaBank; close targeted Q4 2026.",
+      "date": "Sept. 2, 2026",
+      "source": "BusinessWire / TabaPay",
+      "url": "https://www.businesswire.com/news/home/20260902796374/en/",
+      "also": [
+        {
+          "label": "Yahoo (BW reprint)",
+          "url": "https://finance.yahoo.com/news/tabapay-closes-155-million-strategic-133000565.html"
+        },
+        {
+          "label": "Banking Dive",
+          "url": "https://www.bankingdive.com/news/tabapay-to-buy-transact-bank-ftv-capital-155-million-investment-occ-charter/829459/"
+        },
+        {
+          "label": "PYMNTS",
+          "url": "https://www.pymnts.com/news/acquiring/2026/tabapay-aims-to-become-tababank-after-raising-155-million/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as payments/fintech verticalization on the Finance plate. Stick to Sept. 2 BusinessWire: $155M strategic growth financing led by FTV Capital (primary + secondary); intent to acquire Transact Bank, N.A. (OCC-chartered, FDIC-insured, Denver); rename to TabaBank under TabaHoldings; expected close fourth quarter 2026 subject to customary regulatory approval. Robert Anderson (FTV) joins board. FT Partners advised. Do not invent valuation, deposit size, or purchase price for the bank. Not a Guide lead.",
+      "grafs": [
+        "Palo Alto–based TabaPay said Sept. 2 it closed a $155 million strategic growth financing led by FTV Capital that includes both primary capital and a secondary transaction. Concurrently it announced intent to acquire Transact Bank, N.A., an OCC-chartered and FDIC-insured bank in Denver, and to operate the bank as TabaBank, N.A. under newly registered holding company TabaHoldings, Inc.",
+        "The company says the acquisition is expected to close in the fourth quarter of 2026, subject to customary regulatory approval. FTV partner Robert Anderson joined TabaPay’s board. FT Partners was exclusive strategic and financial advisor. Treat as a signed financing plus a planned bank acquisition — not a closed bank deal — and do not invent a bank purchase price or TabaPay valuation."
       ]
     },
     {
