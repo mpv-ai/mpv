@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 38,
+  "number": 39,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance",
     "updated": "Sep 2, close (~4:00 p.m. ET)",
@@ -11,14 +11,14 @@
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Broadcom and HPE AMC prints land; AVGO leads on AI semis.",
+    "hed": "Snowflake AMC raises FY27 product guide; AVGO/HPE stay on plate.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 38 Evening. New: avgo-fq3 (lead — $29.6B rev +86%, AI semis $16.7B / Q4 AI $21.7B) and hpe-fq3 ($12.2B +34%, non-GAAP EPS $1.11, outlook raised). Prior lead nvda-10q stays on plate. Tape refreshed to Yahoo close — S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 39 Night. New: snow-fq2 (lead — product $1.49B +37%, FY27 product guide $6.07B / 36%), jtc-close (Permira–CPP £2.7B JTC take-private complete), wafer-a ($40M Series A). Prior avgo-fq3 / hpe-fq3 / nvda-10q stay on plate. Tape unchanged at Yahoo close — S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "HPE and Broadcom Q3 AMC printed — on plate as hpe-fq3 / avgo-fq3. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
-    "href": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial"
+    "line": "Snowflake Q2 AMC printed — on plate as snow-fq2. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
+    "href": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx"
   },
   "sections": [
     "All",
@@ -30,8 +30,67 @@
   ],
   "stories": [
     {
-      "id": "avgo-fq3",
+      "id": "snow-fq2",
       "lead": true,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Snowflake Q2 product $1.49B (+37%); FY27 guide to $6.07B",
+      "dek": "Rev $1.55B (+35%). Non-GAAP op. margin 15.3%. Q3 product $1.588–$1.593B; FY op. margin 14.5%.",
+      "date": "Sept. 2, 2026",
+      "source": "Snowflake IR",
+      "url": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Lead the Night package off Snowflake's AMC Q2 FY27 print. Stick to official IR: product revenue $1.4919B (+37% YoY), total revenue $1.5468B (+35%), NRR 126%, RPO $9.00B (+30%), 828 customers >$1M TTM product (+27%). Non-GAAP operating income $237.0M / 15.3% margin; non-GAAP diluted EPS $0.62. Raise: FY27 product revenue guide to $6,070M (36% YoY) from prior $5,840M (31%); FY non-GAAP op. margin to 14.5% from 13.5%. Q3 product $1,588–$1,593M (37–38% YoY), Q3 non-GAAP op. margin 15.5%. Call was 2 p.m. PT Sept. 2 — do not invent post-call color until a transcript lands. Do not confuse with older plate item snowflake (Cortex routing).",
+      "grafs": [
+        "Snowflake Inc. reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the U.S. close on Sept. 2. Official investor-relations release: product revenue $1.4919 billion, up 37% year over year; total revenue $1.5468 billion, up 35%. Non-GAAP operating income was $237.0 million, or 15.3% of revenue; non-GAAP diluted EPS was $0.62. GAAP operating loss was $263.0 million. Net revenue retention was 126%. Remaining performance obligations were $9.00 billion, up 30% year over year. Customers with trailing-twelve-month product revenue over $1 million totaled 828, up 27%.",
+        "Guidance raised on the same release: full-year fiscal 2027 product revenue to $6,070 million (36% year over year), up from the prior $5,840 million (31%) outlook; full-year non-GAAP operating margin to 14.5% from 13.5%. Third-quarter product revenue is guided to $1,588 million to $1,593 million (37% to 38% year over year) with non-GAAP operating margin of 15.5%. Management also cited CoCo above 9,100 accounts and CoWork at 5,800 accounts (average of the last four weeks of the quarter). Conference call was set for 2 p.m. Pacific Time on Sept. 2."
+      ]
+    },
+    {
+      "id": "jtc-close",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Close",
+      "hed": "Permira and CPP complete £2.7B JTC take-private",
+      "dek": "De-lists from LSE. CPP ~£350M / ~20%; Permira majority.",
+      "date": "Sept. 1, 2026",
+      "source": "JTC; CPP Investments",
+      "url": "https://www.jtcgroup.com/news/jtc-acquisition-completes/",
+      "also": [
+        {
+          "label": "CPP Investments confirmation",
+          "url": "https://www.newswire.ca/news-releases/cpp-investments-confirms-investment-in-jtc-plc-following-successful-shareholder-and-regulatory-approvals-859738718.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package the JTC close as a PE completion with disclosed terms. Stick to JTC and CPP primaries: Permira-advised funds' £2.7B acquisition completed Sept. 1, 2026; company de-listed from the LSE and is private. CPP invested approximately GBP350 million / C$660 million for ~20%; Permira assumes majority control. Do not invent EV bridge beyond the £2.7B figure on the company release.",
+      "grafs": [
+        "Funds advised by Permira, alongside Canada Pension Plan Investment Board (CPP Investments), completed the £2.7 billion acquisition of JTC plc on Sept. 1, 2026, according to JTC's company news post. The deal took the Jersey-based fund and corporate services group private and de-listed it from the London Stock Exchange after shareholder and regulatory approvals.",
+        "CPP Investments said it invested approximately GBP350 million (C$660 million) for an ownership stake of about 20%, partnering alongside Permira, which assumes majority control. JTC said management remains in place under CEO Nigel Le Quesne as the group pursues its Genesis growth plan."
+      ]
+    },
+    {
+      "id": "wafer-a",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Wafer raises $40M Series A; Marathon and Chemistry co-lead",
+      "dek": "AMD Ventures joins. Inference-optimization agents; company does not print valuation.",
+      "date": "Sept. 1, 2026",
+      "source": "Wafer",
+      "url": "https://www.wafer.ai/blog/series-a",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short AI funding note off the company post only. Print $40M Series A co-led by Marathon and Chemistry, with Wing, AMD Ventures, Outset Capital, and re-ups from Fifty Years and Y Combinator. Do NOT print any $200M+ valuation — The Information mark is not on the company page.",
+      "grafs": [
+        "Wafer said on Sept. 1, 2026 that it raised a $40 million Series A co-led by Marathon and Chemistry, with participation from Wing, AMD Ventures, and Outset Capital. Existing investors Fifty Years and Y Combinator also re-upped, per the company's blog post.",
+        "The company builds agents that optimize models, engines, kernels, and hardware for inference performance per dollar. The official post does not state a post-money valuation; leave secondary marks off the plate."
+      ]
+    },
+    {
+      "id": "avgo-fq3",
+      "lead": false,
       "section": "CFO",
       "kicker": "CFO",
       "hed": "Broadcom Q3 $29.6B (+86%); AI semis $16.7B, Q4 AI $21.7B",
