@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 34,
+  "number": 35,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid-Afternoon",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Sep 2, ~12:50 p.m. ET (markets open)",
-    "line": "S&P 7,664.65 (+0.43%) · 10-year 4.80% · 30-year 5.27% · SOX 11,320 (+0.28%) · NVDA $225.83 (+3.86%)"
+    "updated": "Sep 2, ~1:48 p.m. ET (markets open)",
+    "line": "S&P 7,667.47 (+0.47%) · 10-year 4.79% · 30-year 5.27% · SOX 11,335 (+0.41%) · NVDA $225.36 (+3.64%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Wonderful $550M Series C hits the plate; midday tape refresh.",
+    "hed": "atNorth $4B close, HiddenLayer $100M B, Saviynt CV hit the plate; tape refresh.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 34 Afternoon. New: wonderful-c (Insight-led $550M at $5B; Salesforce joins). Lead remains nvda-10q. Tape refreshed midday — Yahoo S&P 7,664.65 (+0.43%), SOX 11,320 (+0.28%), NVDA $225.83 (+3.86%); 10-year 4.80%, 30-year 5.27%. HPE Q3 and Broadcom Q3 still AMC — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 35 Mid-Afternoon. New: atnorth-close (CPP/Equinix complete US$4B Nordic DC deal), hiddenlayer-b ($100M Series B), saviynt-cv (Carrick $600M CV + $255M into Saviynt Series B). Lead remains nvda-10q. Tape refreshed — Yahoo S&P 7,667.47 (+0.47%), SOX 11,335 (+0.41%), NVDA $225.36 (+3.64%); 10-year 4.79%, 30-year 5.27%. HPE Q3 and Broadcom Q3 still AMC — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -152,6 +152,77 @@
         "Wonderful, the AI operating system for the enterprise, announced Sept. 2 the closing of a $550 million Series C at a $5 billion valuation. Insight Partners led; Salesforce participated alongside existing investors Index Ventures, IVP, Vine Ventures, 9Yards, and Bessemer Venture Partners. Official: Wonderful blog (Amsterdam dateline) and Business Wire.",
         "Since its Series B in March 2026, the company says it has expanded to more than 35 markets, grown to 650 employees worldwide, and evolved the platform into a full AI OS that coordinates agents, workflows, AI-native applications, enterprise context, integrations, and governed execution. The company describes the stack as open and model-agnostic and compatible with existing technology stacks. Use of proceeds: accelerate product development, expand global deployment teams, and support enterprise demand.",
         "CEO and co-founder Bar Winkler, in the release: enterprises need a shared AI foundation so production AI does not recreate SaaS sprawl. CNA notes the prior March round was $150 million at a $2 billion valuation and that the new mark more than doubles that in under six months. Do not underwrite a secondary size — that figure is not in the company release."
+      ]
+    },
+    {
+      "id": "atnorth-close",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "CPP and Equinix close $4B atNorth Nordic data-center deal",
+      "dek": "CPP ~51% / $1.3B; Equinix ~34% / $895M; Partners Group 10% reinvest. AFFO-accretive.",
+      "date": "Sept. 2, 2026",
+      "source": "Equinix / CPP Investments",
+      "url": "https://www.prnewswire.com/news-releases/cpp-investments-and-equinix-complete-atnorth-acquisition-to-support-growth-of-leading-nordic-data-center-platform-302867672.html",
+      "also": [
+        {
+          "label": "Equinix IR",
+          "url": "https://www.equinix.com/newsroom"
+        },
+        {
+          "label": "CPP Investments",
+          "url": "https://www.cppinvestments.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as PE/infra close on AI-ready Nordic DC capacity, not a preview. Stick to corrected Sept. 2 PR Newswire: US$4B acquisition completed; CPP Investments c. 51% committing US$1.3B; Equinix (EQIX) c. 34% committing US$895M; Partners Group reinvests for c. 10% / US$260M; remainder rolled by atNorth internals. Financing package US$4.1B (€3.6B). Immediately accretive to Equinix AFFO/share. Eight operational DCs across five Nordics + pipeline (Sweden, Finland, Norway, Denmark). Do not invent MW capacity, purchase multiple, or close EBITDA. Not a customer lead.",
+      "grafs": [
+        "Canada Pension Plan Investment Board (CPP Investments) and Equinix, Inc. (Nasdaq: EQIX) said Sept. 2 they have completed the acquisition of atNorth, a Nordic data-center developer and operator focused on high-density colocation and built-to-suit facilities. Official: corrected Equinix / CPP PR Newswire release dated Sept. 2, 2026.",
+        "The release puts the acquisition at US$4 billion. Partners Group, on behalf of its clients, reinvested for a c. 10% stake (US$260 million). CPP Investments holds a c. 51% controlling stake committing US$1.3 billion; Equinix holds c. 34% committing US$895 million; atNorth internal stakeholders rolled a substantial portion of equity. A US$4.1 billion (€3.6 billion) financing package, underwritten by European and Canadian lenders, supports growth, the transaction, and expansion capex. Equinix says the deal is immediately accretive to adjusted funds from operations (AFFO) per share.",
+        "atNorth operates eight data centers across all five Nordic countries, with projects underway in Sweden, Finland, Norway, and Denmark plus expansions and further development sites. The companies frame the platform for AI, cloud, and HPC demand with advanced cooling, renewable power, and heat reuse. atNorth keeps operating independently under its brand. Quotes in the release from CPP’s Maximilian Biagosch, Equinix Nordics’ Regina Dahlström, and atNorth CEO Eyjólfur Magnús Kristinsson. Do not invent pipeline MW or customer names beyond the PR."
+      ]
+    },
+    {
+      "id": "hiddenlayer-b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "HiddenLayer raises $100M Series B for AI / agentic security",
+      "dek": "Delta-v leads; Ten Eleven, Morgan Stanley, M12, Booz Allen Ventures. ARR >10x.",
+      "date": "Sept. 2, 2026",
+      "source": "HiddenLayer / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai-302867783.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Package as AI-security growth equity. Stick to Sept. 2 PR: $100M Series B led by Delta-v Capital; Ten Eleven Ventures, Morgan Stanley, M12 (Microsoft’s venture fund), Booz Allen Ventures participate. Use-of-proceeds = deepen Agentic Runtime Security and Agent Harness Security. Company claims ARR grew >10x and >50 new platform customers; 39 granted / 65 pending patents — company figures only. Do not invent valuation, prior round size, or revenue dollars. Not a customer lead.",
+      "grafs": [
+        "HiddenLayer, an AI security company that secures agentic, generative, and predictive AI applications, announced Sept. 2 a $100 million Series B led by Delta-v Capital, with participation from Ten Eleven Ventures, Morgan Stanley, M12 (Microsoft’s venture fund), and Booz Allen Ventures. Official: HiddenLayer via PR Newswire (Austin dateline).",
+        "Proceeds fund deepening the enterprise platform, including Agentic Runtime Security and Agent Harness Security for AI coding agents at runtime. The company said ARR grew more than 10x over the past year and that it signed more than 50 new platform customers across brokerage, banking, insurance, government, tech, pharma, airlines, and U.S. defense/intelligence, plus international pharma, automotive, and food-and-beverage logos. It also said it supports a frontier model provider securing more than 700 million weekly users — company claim, not independently verified here.",
+        "Research color from the release: 39 granted and 65 pending patents; work with CISA/JCDC, MITRE, NIST, OWASP, and OpenSSF. CEO/co-founder Chris Sestito and investors Delta-v, Ten Eleven, and Morgan Stanley are quoted. Mike Gesnaldo named CRO. Do not write a post-money valuation — none is in the PR."
+      ]
+    },
+    {
+      "id": "saviynt-cv",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Carrick closes $600M Saviynt CV; $255M new capital into Series B",
+      "dek": "Coller leads CV; HSBC AM co-lead. Series B ~$700M at ~$3B; ARR >$300M.",
+      "date": "Aug. 31, 2026",
+      "source": "Carrick Capital Partners",
+      "url": "https://www.prnewswire.com/news-releases/carrick-capital-partners-closes-oversubscribed-continuation-vehicle-with-600-million-and-commits-255-million-of-new-capital-to-saviynt-302864442.html",
+      "also": [
+        {
+          "label": "PE Professional",
+          "url": "https://peprofessional.com/2026/09/carrick-closes-600-million-continuation-vehicle-for-saviynt/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as PE secondaries + growth into AI identity security. Stick to Aug. 31 Carrick PR: ~$600M single-asset CV; Coller Capital lead, HSBC Asset Management co-lead; LPs offered roll or 11x gross / 10x net on Carrick’s initial investment. Carrick commits $255M new capital (largest in firm history) as part of Saviynt Series B final close and employee tender. Company: Series B $700M at ~$3B valuation; ARR >$300M (from ~$10M at Carrick entry); bookings +80% YTD; 96% retention; Zuma AI identity platform. Do not invent ownership %, EBITDA, or CV LP roster beyond Coller/HSBC. Not a customer lead.",
+      "grafs": [
+        "Carrick Capital Partners announced Aug. 31 the close of a single-asset continuation vehicle for Saviynt with approximately $600 million in capital commitments, plus a new $255 million investment into the company — Carrick’s largest investment to date. Coller Capital led the CV; HSBC Asset Management co-led. Existing Carrick LPs could roll into the CV or realize an 11x gross (10x net) multiple on Carrick’s initial investment. Official: Carrick via PR Newswire.",
+        "Carrick’s new check closed as part of Saviynt’s Series B final close and helped fund an employee tender. The release says Saviynt’s Series B was $700 million at a valuation of approximately $3 billion. Operating prints in the PR: ARR above $300 million (from roughly $10 million at Carrick’s first investment); bookings growth more than 80% this year; 96% customer retention. Saviynt launched Zuma, an enterprise AI identity security platform for AI agents, LLMs, and non-human identities alongside human workforce controls.",
+        "Carrick was Saviynt’s only institutional investor until Series B, having led a $35 million Series A. Advisors named: Robert W. Baird (financial advisor to Carrick); Proskauer Rose (CV counsel); Latham & Watkins (new investment counsel). Quotes from Carrick co-CEOs Marc McMorris and Jim Madden, MD Chris Wenner, and Saviynt founder/CEO Sachin Nayyar. Use PE Professional only as secondary color — primary figures stay with the Carrick PR."
       ]
     },
     {
