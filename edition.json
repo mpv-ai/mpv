@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 35,
+  "number": 36,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Mid-Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Sep 2, ~1:48 p.m. ET (markets open)",
-    "line": "S&P 7,667.47 (+0.47%) · 10-year 4.79% · 30-year 5.27% · SOX 11,335 (+0.41%) · NVDA $225.36 (+3.64%)"
+    "updated": "Sep 2, ~2:50 p.m. ET (markets open)",
+    "line": "S&P 7,664.94 (+0.44%) · 10-year 4.79% · 30-year 5.26% · SOX 11,332 (+0.38%) · NVDA $224.66 (+3.32%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "atNorth $4B close, HiddenLayer $100M B, Saviynt CV hit the plate; tape refresh.",
+    "hed": "iPronics $125M B (Nvidia) and Blackstone–Huskeys $27M A hit the plate; tape refresh.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 35 Mid-Afternoon. New: atnorth-close (CPP/Equinix complete US$4B Nordic DC deal), hiddenlayer-b ($100M Series B), saviynt-cv (Carrick $600M CV + $255M into Saviynt Series B). Lead remains nvda-10q. Tape refreshed — Yahoo S&P 7,667.47 (+0.47%), SOX 11,335 (+0.41%), NVDA $225.36 (+3.64%); 10-year 4.79%, 30-year 5.27%. HPE Q3 and Broadcom Q3 still AMC — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 36 Afternoon. New: ipronics-b ($125M Series B, Maverick/Light Street co-lead, Nvidia participates; total $177M) and huskeys-a ($27M Series A led by Blackstone Innovations; WSJ valuation $100M+). Lead remains nvda-10q. Tape refreshed — Yahoo S&P 7,664.94 (+0.44%), SOX 11,332 (+0.38%), NVDA $224.66 (+3.32%); 10-year 4.79%, 30-year 5.26%. HPE Q3 AMC (call 4:30 p.m. ET) and Broadcom Q3 AMC (call 5:00 p.m. ET) still ahead — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
@@ -124,6 +124,66 @@
         "OpenAI on Sept. 1 said it now believes Astra meets the Critical cybersecurity capability threshold under its Preparedness Framework — the first model the company is designating at that level. In OpenAI’s words, with the right tools and access Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step. The company says stronger safeguards were required during development and before release, and that after delaying parts of Astra’s development and release it believes those safeguards sufficiently minimize the risk of severe harm for release under the Framework.",
         "Access is gated. OpenAI plans to make Astra available “soon,” but advanced cybersecurity capabilities will be more limited at first: advanced cybersecurity work initially to a group of testers, with access through Daybreak Blue following to expand defensive use. OpenAI will put more detail in the model’s system card at launch. Separately, Reuters quoted OpenAI VP Amelia Glaese on the same conference call: with the right tools and access, Astra can find previously unknown security flaws and develop ways to exploit them across many well-protected systems without a person guiding each step.",
         "Vendor-reported eval color (label as such): Astra scored 100% on ExploitBench for developing exploits from known vulnerabilities; on an internal ExploitBench port of 20 recent high-severity V8 bugs it was more token-efficient and more capable than GPT-5.6 Sol, and during that eval discovered and used two zero-day vulnerabilities in an exploit chain (OpenAI says it is disclosing those to maintainers). Expert-led assessments include a browser sandbox-escape chain and a local privilege-escalation to root. OpenAI says Astra was not involved in the Hugging Face incident; it restarted the large frontier RL run on Aug. 28 after the post-incident pause and is still holding back some smaller experimental runs. Pair on the AI plate with Anthropic’s Fable 5.1 / Mythos 5.1 trusted-access framing already printed tonight — do not treat Astra as confirmation of any open Anthropic valuation watch."
+      ]
+    },
+    {
+      "id": "ipronics-b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI",
+      "hed": "iPronics raises $125M Series B; Nvidia joins optical OCS round",
+      "dek": "Maverick Silicon and Light Street co-lead. Total funding $177M for silicon-photonics AI interconnect.",
+      "date": "Sept. 2, 2026",
+      "source": "iPronics",
+      "url": "https://ipronics.com/ipronics-raises-125-million-to-scale-programmable-optical-networking-for-ai-data-centers/",
+      "also": [
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/09/02/3355203/0/en/ipronics-raises-125-million-to-scale-programmable-optical-networking-for-ai-data-centers.html"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/spains-ipronics-raises-125-million-nvidia-others-data-center-networking-chips-2026-09-02/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as AI-infra interconnect growth equity next to nvda-mediatek / aws-nvda-gpus color. Stick to Sept. 2 company/GlobeNewswire: $125M Series B co-led by Maverick Silicon and Light Street Capital; NVIDIA joined; also Triatomic, Bosch Ventures, Catalight, EIC Fund, Tate Family Trust, Fine Structure, Amadeus, Build Collective, Criteria Venture Tech. Total funding $177M. Proceeds = scale ops + commercial deployment of iPronics ONE (rack-mounted silicon-photonics OCS). Valencia spin-out (UPV, 2019). Manish Muthal (Maverick) and Geoffrey Tate (Light Street advisor) join board. Do not invent valuation, revenue, or customer logos. Not a customer lead.",
+      "grafs": [
+        "Valencia- and Santa Clara–based iPronics said Sept. 2 it closed a $125 million Series B co-led by Maverick Silicon and Light Street Capital, with participation from NVIDIA and new and existing investors including Triatomic Capital, Bosch Ventures, Catalight Capital, the European Innovation Council Fund, The Tate Family Trust, Fine Structure Ventures, Amadeus Capital Partners, Build Collective, and Criteria Venture Tech. The company says the round brings total funding to $177 million.",
+        "iPronics builds silicon-photonics optical circuit switching for AI data-center interconnect. Its Optical Networking Engine (ONE) is a rack-mounted OCS with integrated control, telemetry, and APIs meant to reconfigure optical connectivity for training and inference as clusters shift from copper to optics. CEO Christian Dupont said the capital accelerates commercialization so customers can scale GPU utilization without compromising performance. Maverick’s Manish Muthal and Light Street advisor Geoffrey Tate join the board.",
+        "Reuters separately reported the raise as venture capital to shrink a data-center networking chip that could connect large GPU fabrics. Keep on the AI/infra plate beside plated Nvidia supply and DC financing stories. Do not invent a post-money valuation or named hyperscale design wins — the company PR does not print them."
+      ]
+    },
+    {
+      "id": "huskeys-a",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE",
+      "hed": "Blackstone leads Huskeys $27M Series A for agentic edge security",
+      "dek": "First Blackstone-led early-stage cyber bet per company. Total $35M; WSJ: valuation $100M+.",
+      "date": "Sept. 2, 2026",
+      "source": "Wall Street Journal / Huskeys",
+      "url": "https://www.wsj.com/pro/private-equity/blackstone-backs-cybersecurity-startup-huskeys-to-fight-unwanted-ai-traffic-410c5c6a",
+      "also": [
+        {
+          "label": "Ynetnews (company detail)",
+          "url": "https://www.ynetnews.com/business/article/sjd8aobdgl"
+        },
+        {
+          "label": "FinanceWire / company PR",
+          "url": "https://lesechos-comfi.lesechos.fr/press-release/huskeys-closes-27m-series-a-with-blackstone-innovations-investments-to-build-a-control-plane-for-the-network-edge-BfSmtKeJVGh"
+        },
+        {
+          "label": "CTech",
+          "url": "https://www.calcalistech.com/ctechnews/article/z6p9lwa7b"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as PE/AI-security growth equity next to hiddenlayer-b / saviynt-cv. Stick to WSJ Pro + company: $27M Series A led by Blackstone Innovations Investments; total funding $35M after $8M seed; WSJ prints valuation more than $100M. Participants per company/Ynet: Merlin Ventures, Skinos Ventures (Shlomo Kramer / Yishay Yovel), Zscaler Ventures, Okta Ventures, Bright Pixel, SV Angel; company says first time Blackstone has led an early-stage cybersecurity investment. Product = Network Edge Security Management / agentic traffic control plane over existing WAFs/CDNs — not rip-and-replace. Named customers in company materials include TikTok, LEGOLAND, Ro, Blackstone, Hugging Face — treat as company claims. Do not invent ARR or revenue. Not a customer lead for Guide.",
+      "grafs": [
+        "The Wall Street Journal reported Sept. 2 that Tel Aviv–based Huskeys raised a $27 million Series A led by Blackstone Innovations Investments at a valuation of more than $100 million. Company materials say the round brings total funding to $35 million after an $8 million seed and that it is the first time Blackstone has led an early-stage cybersecurity investment.",
+        "Participants listed by the company and Ynetnews include Merlin Ventures, Skinos Ventures, Zscaler Ventures, Okta Ventures, Bright Pixel Capital, and SV Angel, plus individual backers from the WAF/SASE world. Huskeys positions a Network Edge Security Management layer — a Unified Data Model and control plane — on top of existing CDNs, WAFs, load balancers, and cloud-native edge controls to assess posture, generate policy, orchestrate, and virtual-patch while classifying agentic (non-human) traffic.",
+        "Blackstone CISO Adam Fletcher is quoted on AI-driven traffic and fragmented edge environments needing a new management approach. Founders Itai Gafni and Roy Weisfeld (Unit 8200 alumni per Ynet) say customers already include TikTok, LEGOLAND, Ro, Blackstone, and Hugging Face — company-stated logos only. Pair on the PE/AI-security plate with today’s HiddenLayer $100M B; do not treat the Hugging Face customer mention as confirmation of the open Nvidia–HF $12.9B watch."
       ]
     },
     {
