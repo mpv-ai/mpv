@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 39,
+  "number": 40,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Night",
+  "editionLabel": "Late",
   "tape": {
     "source": "Yahoo Finance",
     "updated": "Sep 2, close (~4:00 p.m. ET)",
@@ -11,13 +11,13 @@
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Snowflake AMC raises FY27 product guide; AVGO/HPE stay on plate.",
+    "hed": "Vertiv–UIG ~$1.45B AI-power deal joins plate; Snowflake still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 39 Night. New: snow-fq2 (lead — product $1.49B +37%, FY27 product guide $6.07B / 36%), jtc-close (Permira–CPP £2.7B JTC take-private complete), wafer-a ($40M Series A). Prior avgo-fq3 / hpe-fq3 / nvda-10q stay on plate. Tape unchanged at Yahoo close — S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 40 Late. New: vertiv-uig (Vertiv to buy UtilityInnovation Group for ~$1.45B cash + up to $1.15B EBITDA earnout; AI DC microgrids / behind-the-meter; close targeted Q4 2026). Prior snow-fq2 remains lead; jtc-close / wafer-a / avgo-fq3 / hpe-fq3 stay on plate. Tape unchanged at Yahoo close — S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed. Snowflake post-call transcript still not posted."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Snowflake Q2 AMC printed — on plate as snow-fq2. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
+    "line": "Snowflake Q2 call transcript still unposted. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
     "href": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx"
   },
   "sections": [
@@ -45,6 +45,34 @@
       "grafs": [
         "Snowflake Inc. reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the U.S. close on Sept. 2. Official investor-relations release: product revenue $1.4919 billion, up 37% year over year; total revenue $1.5468 billion, up 35%. Non-GAAP operating income was $237.0 million, or 15.3% of revenue; non-GAAP diluted EPS was $0.62. GAAP operating loss was $263.0 million. Net revenue retention was 126%. Remaining performance obligations were $9.00 billion, up 30% year over year. Customers with trailing-twelve-month product revenue over $1 million totaled 828, up 27%.",
         "Guidance raised on the same release: full-year fiscal 2027 product revenue to $6,070 million (36% year over year), up from the prior $5,840 million (31%) outlook; full-year non-GAAP operating margin to 14.5% from 13.5%. Third-quarter product revenue is guided to $1,588 million to $1,593 million (37% to 38% year over year) with non-GAAP operating margin of 15.5%. Management also cited CoCo above 9,100 accounts and CoWork at 5,800 accounts (average of the last four weeks of the quarter). Conference call was set for 2 p.m. Pacific Time on Sept. 2."
+      ]
+    },
+    {
+      "id": "vertiv-uig",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Deal",
+      "hed": "Vertiv to buy UtilityInnovation Group for ~$1.45B cash",
+      "dek": "Up to $1.15B EBITDA earnout. Microgrids / behind-the-meter power for AI DCs; ~13x 2027 EBITDA; close targeted Q4 2026.",
+      "date": "Sept. 2, 2026",
+      "source": "Vertiv; SEC 8-K",
+      "url": "https://www.prnewswire.com/news-releases/vertiv-announces-agreement-to-acquire-utilityinnovation-group-to-accelerate-time-to-power-for-ai-data-centers-302867612.html",
+      "also": [
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312526379306/d472406d8k.htm"
+        },
+        {
+          "label": "Vertiv IR / news",
+          "url": "https://investors.vertiv.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as AI-data-center power M&A catch-up off the Vertiv PR (6:30 a.m. ET Sept. 2 — missed earlier slots). Stick to company figures only: ~$1.45B cash at close for Utility Innovation Holdings / UtilityInnovation Group (UIG), plus up to $1.15B cash earnouts on EBITDA targets over 12- and 24-month periods (~13x expected UIG 2027 EBITDA at base price). Adds microgrid controls, onsite generation/storage orchestration, microgrid switchgear, and behind-the-meter power architecture; extends Vertiv upstream to grid interconnect. Expected accretive to adjusted EPS in year one (company). Close targeted Q4 2026 subject to HSR/regulatory approvals. Advisors: J.P. Morgan (Vertiv), Morgan Stanley (UIG). Do not invent backlog, customer names, or synergy dollars beyond the release.",
+      "grafs": [
+        "Vertiv Holdings Co. said on Sept. 2, 2026 that its wholly owned subsidiary Vertiv Corporation agreed to acquire Utility Innovation Holdings, Inc., which operates as UtilityInnovation Group (UIG), for approximately $1.45 billion in cash at closing, with additional consideration of up to $1.15 billion in cash tied to EBITDA targets over 12- and 24-month periods, per the company’s PR Newswire release.",
+        "At the ~$1.45 billion base price, Vertiv said the deal represents about 13x expected UIG 2027 EBITDA, with the multiple expected to fall if the full earnout is paid. The company expects the acquisition to be accretive to adjusted EPS in the first year after close.",
+        "UIG, founded in 2020 and based in Raleigh, N.C. (European HQ Dublin), brings microgrid controls, onsite generation and energy-storage orchestration, microgrid-specific switchgear, and behind-the-meter power architecture for AI data centers. Vertiv framed the deal as extending its power and cooling portfolio upstream to the grid interconnect, generation-agnostic. Closing is expected in the fourth quarter of 2026, subject to regulatory approvals and customary conditions."
       ]
     },
     {
