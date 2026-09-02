@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 37,
+  "number": 38,
   "city": "New York",
   "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance",
-    "updated": "Sep 2, ~3:55 p.m. ET (markets open)",
-    "line": "S&P 7,665.18 (+0.44%) · 10-year 4.80% · 30-year 5.27% · SOX 11,331 (+0.37%) · NVDA $224.31 (+3.16%)"
+    "updated": "Sep 2, close (~4:00 p.m. ET)",
+    "line": "S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Lyte $165M C at $1.6B and TabaPay $155M/FTV + bank plan hit the plate.",
+    "hed": "Broadcom and HPE AMC prints land; AVGO leads on AI semis.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 37 Late Afternoon. New: lyte-c ($165M Series C at $1.6B, Maverick Silicon–led; total $272M) and tabapay-ftv ($155M FTV growth round with planned Transact Bank → TabaBank acquisition, Q4 close subject to approvals). Lead remains nvda-10q. Tape refreshed — Yahoo S&P 7,665.18 (+0.44%) · 10-year 4.80% · 30-year 5.27% · SOX 11,331 (+0.37%) · NVDA $224.31 (+3.16%). HPE Q3 AMC (call 4:30 p.m. ET) and Broadcom Q3 AMC (call 5:00 p.m. ET) still ahead — do not invent. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 38 Evening. New: avgo-fq3 (lead — $29.6B rev +86%, AI semis $16.7B / Q4 AI $21.7B) and hpe-fq3 ($12.2B +34%, non-GAAP EPS $1.11, outlook raised). Prior lead nvda-10q stays on plate. Tape refreshed to Yahoo close — S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "HPE Q3 AMC today (call 4:30 p.m. ET). Broadcom Q3 AMC (call 5:00 p.m. ET). Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
-    "href": "https://investors.hpe.com/"
+    "line": "HPE and Broadcom Q3 AMC printed — on plate as hpe-fq3 / avgo-fq3. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
+    "href": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial"
   },
   "sections": [
     "All",
@@ -30,8 +30,72 @@
   ],
   "stories": [
     {
-      "id": "nvda-10q",
+      "id": "avgo-fq3",
       "lead": true,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Broadcom Q3 $29.6B (+86%); AI semis $16.7B, Q4 AI $21.7B",
+      "dek": "Non-GAAP EPS $3.32. Semi $20.8B (+127%). Q4 rev ~$34.8B (+93%). FCF $13.7B.",
+      "date": "Sept. 2, 2026",
+      "source": "Broadcom; SEC Exhibit 99.1",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+      "also": [
+        {
+          "label": "SEC Exhibit 99.1 (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-08022026x8kxex99.htm"
+        },
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm"
+        },
+        {
+          "label": "Broadcom IR home / event",
+          "url": "https://investors.broadcom.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Lead the Evening package off the Broadcom AMC print. Stick to official IR / Ex. 99.1: revenue $29.591B (+86% YoY), GAAP diluted EPS $2.68 / non-GAAP $3.32, Semiconductor solutions $20.839B (+127%), Infrastructure software $8.752B (+29%), AI semiconductor revenue $16.7B (+221% YoY / +54% QoQ per CEO quote), FCF $13.7B. Q4 guide: consolidated revenue ~$34.8B (+93% YoY), AI semiconductor revenue expected $21.7B (+236% YoY), non-GAAP operating income ~66% of revenue. Dividend $0.65 payable Sept. 30. Do not invent post-call color until a full transcript lands.",
+      "grafs": [
+        "Broadcom Inc. (Nasdaq: AVGO) reported fiscal third-quarter 2026 results for the quarter ended August 2, 2026 after the U.S. close on Sept. 2. Official investor-relations release and Exhibit 99.1 to the Form 8-K (accession 0001730168-26-000076): net revenue $29.591 billion, up 86% from the prior-year period. GAAP diluted EPS was $2.68; non-GAAP diluted EPS was $3.32. GAAP operating income $15.955 billion; non-GAAP operating income $20.095 billion. Cash from operations $14.2 billion less capex $0.5 billion left free cash flow of $13.7 billion, or 46% of revenue.",
+        "Segment mix: Semiconductor solutions revenue $20.839 billion (+127% YoY), 70% of total; Infrastructure software $8.752 billion (+29%), 30% of total. CEO Hock Tan: Q3 AI semiconductor revenue of $16.7 billion grew 221% year over year and 54% quarter over quarter, and for Q4 “we expect AI semiconductor revenue to accelerate to $21.7 billion, up 236% year-over-year.” CFO Amie Thuener: non-GAAP operating income grew 92% year over year as consolidated revenue grew 86% to $29.6 billion.",
+        "Fourth-quarter fiscal 2026 outlook (ending Nov. 1, 2026): revenue of approximately $34.8 billion (about +93% YoY) and non-GAAP operating income of approximately 66% of projected revenue. The board approved a quarterly cash dividend of $0.65 per share, payable Sept. 30, 2026 to holders of record Sept. 21, 2026. Cash and cash equivalents ended the quarter at $24.0 billion."
+      ]
+    },
+    {
+      "id": "hpe-fq3",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "HPE Q3 $12.2B (+34%); non-GAAP EPS $1.11, outlook raised",
+      "dek": "Networking $2.9B (+75%). Server $6.8B (+35%). Q4 rev $13.9–$14.8B; FY26 non-GAAP EPS $3.75–$3.85.",
+      "date": "Sept. 2, 2026",
+      "source": "HPE; SEC Exhibit 99.1",
+      "url": "https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2026/q3-2026-earnings-press-release.pdf",
+      "also": [
+        {
+          "label": "SEC Exhibit 99.1 (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000078/ex-991x922026x8k.htm"
+        },
+        {
+          "label": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000078/hpe-20260902.htm"
+        },
+        {
+          "label": "HPE IR / quarterly results",
+          "url": "https://investors.hpe.com/financial/quarterly-results"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as the HPE AMC AI-infrastructure / networking CFO print. Stick to official PR / Ex. 99.1: revenue $12.2B (+34% YoY), GAAP diluted EPS $1.06 / non-GAAP $1.11 (above $0.88–$0.93 outlook), Networking $2.9B (+74.9%), Cloud & AI $9.0B (+25.4%) with Server $6.8B (+35.3%), FCF ~$1.0B. Outlook: Q4 rev $13.9–$14.8B and non-GAAP EPS $1.20–$1.30; FY26 rev growth raised to 34–37%, non-GAAP EPS $3.75–$3.85, FCF at least $3.75B; FY27 framework raised (rev +13–17%, non-GAAP EPS growth 16–20%, FCF ≥$5.0B). Note record order backlog and plan to return ≥75% of Q4 FCF to shareholders. Do not invent AI-backlog $ figures not in the Q3 PR.",
+      "grafs": [
+        "Hewlett Packard Enterprise (NYSE: HPE) reported fiscal third-quarter 2026 results for the quarter ended July 31, 2026 after the U.S. close on Sept. 2. Official earnings press release and Exhibit 99.1 to the Form 8-K (accession 0001645590-26-000078): net revenue $12.2 billion ($12,213 million), up 34% from the prior-year period. GAAP diluted net EPS was $1.06; non-GAAP diluted net EPS was $1.11 — both above the company’s prior outlook ranges ($0.84–$0.89 GAAP; $0.88–$0.93 non-GAAP).",
+        "Segment print: Networking revenue $2.9 billion, up 74.9% year over year, with 22.0% operating profit margin. Cloud & AI revenue $9.0 billion, up 25.4%, with 17.0% operating profit margin; within that, Server revenue was $6.8 billion (+35.3%) and Storage $1.3 billion (+10.2%). Cash flow from operations $1.6 billion; free cash flow about $1.0 billion. CEO Antonio Neri and CFO Marie Myers cited record revenue, orders, and profitability and a record order backlog.",
+        "Outlook: Q4 fiscal 2026 revenue $13.9–$14.8 billion; GAAP diluted EPS $1.12–$1.22; non-GAAP diluted EPS $1.20–$1.30. Full-year FY26: revenue growth outlook raised to 34–37%; non-GAAP diluted EPS raised to $3.75–$3.85; free cash flow guidance raised to at least $3.75 billion. FY27 framework raised to revenue growth 13–17%, non-GAAP diluted EPS growth 16–20%, and free cash flow of at least $5.0 billion. Management also said it plans to return at least 75% of free cash flow to shareholders in Q4."
+      ]
+    },
+    {
+      "id": "nvda-10q",
+      "lead": false,
       "section": "Finance",
       "kicker": "Finance",
       "hed": "Nvidia 10-Q: $105B Ohio cap; $500B still an MOU",
