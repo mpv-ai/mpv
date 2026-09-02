@@ -2,23 +2,23 @@
   "volume": 1,
   "number": 33,
   "city": "New York",
-  "date": "Tuesday, September 1, 2026",
-  "editionLabel": "Night",
+  "date": "Wednesday, September 2, 2026",
+  "editionLabel": "Morning",
   "tape": {
     "source": "Yahoo; CNBC (Treasuries: Tradeweb)",
-    "updated": "Sep 1, 4:00 p.m. ET close",
-    "line": "S&P 7,631.47 (−0.71%) · 10-year 4.80% · 30-year 5.27% · SOX 11,289 (−2.14%) · NVDA $217.44 (−1.39%)"
+    "updated": "Sep 2, ~9:31 a.m. ET (markets open)",
+    "line": "S&P 7,638.61 (+0.09%) · 10-year 4.79% · 30-year 5.26% · SOX 11,265 (−0.21%) · NVDA $219.45 (+0.92%)"
   },
   "deskNote": {
-    "kicker": "AI",
-    "hed": "OpenAI Astra hits Critical cyber; Daybreak-limited.",
+    "kicker": "Markets",
+    "hed": "Wednesday open: tape refresh, plate unchanged.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 33 Night. Catch-up add openai-astra from OpenAI’s Sept. 1 Path to Astra post: first model designated at Critical cybersecurity under the Preparedness Framework; advanced cyber initially to testers then Daybreak Blue for defensive use; public availability “soon.” Lead remains nvda-10q. Tape unchanged — Yahoo S&P 7,631.47 (−0.71%), SOX 11,289 (−2.14%), NVDA $217.44 (−1.39%); CNBC Tradeweb 10-year 4.80%, 30-year 5.27%. Credo Q1 FY27 left off as secondary behind DELL/PANW. Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 33 Morning. No new beat stories since Night. Lead remains nvda-10q; openai-astra stays on plate. Tape refreshed to Wed open — Yahoo S&P 7,638.61 (+0.09%), SOX 11,265 (−0.21%), NVDA $219.45 (+0.92%); CNBC Tradeweb 10-year 4.79%, 30-year 5.26%. HPE Q3 still AMC (call 4:30 p.m. ET). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
-    "href": "https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg"
+    "line": "HPE Q3 AMC today. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
+    "href": "https://investors.hpe.com/"
   },
   "sections": [
     "All",
