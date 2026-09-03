@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 40,
+  "number": 41,
   "city": "New York",
-  "date": "Wednesday, September 2, 2026",
-  "editionLabel": "Late",
+  "date": "Thursday, September 3, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance",
-    "updated": "Sep 2, close (~4:00 p.m. ET)",
-    "line": "S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%)"
+    "source": "Yahoo Finance; CNBC Tradeweb",
+    "updated": "Sep 3, 9:05 a.m. ET (pre-open; equities Wed close)",
+    "line": "S&P 7,666.60 (+0.46%) · 10-year 4.74% · 30-year 5.23% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Vertiv–UIG ~$1.45B AI-power deal joins plate; Snowflake still leads.",
+    "hed": "Nvidia agrees to buy Hugging Face for $12.93B; open-model hub closed.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 40 Late. New: vertiv-uig (Vertiv to buy UtilityInnovation Group for ~$1.45B cash + up to $1.15B EBITDA earnout; AI DC microgrids / behind-the-meter; close targeted Q4 2026). Prior snow-fq2 remains lead; jtc-close / wafer-a / avgo-fq3 / hpe-fq3 stay on plate. Tape unchanged at Yahoo close — S&P 7,666.60 (+0.46%) · 10-year 4.80% · 30-year 5.27% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%). Bloomberg >15% early-2027 server hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX and Anthropic S-1 still held. DeepSeek $74B still unconfirmed. Snowflake post-call transcript still not posted."
+    "body": "Vol. 1 No. 41 Morning. New lead: nvidia-hf — Jensen Huang on the NVIDIA Blog (Sept. 3): NVIDIA has agreed to acquire Hugging Face for $12,930,300,000; platform stays open / multi-cloud / multi-accelerator; NVIDIA compute not required. Reuters same-day: ~$11.9B to HF investors + up to $1B equity retention for employees joining NVIDIA. Hugging Face $12.9B watch CLOSED. Prior snow-fq2 demoted from lead (free third-party Q2 call transcript now on Stock Analysis / Quartr; official IR Earnings Transcript link still empty). Tape: yields lower pre-open (10y 4.74%, 30y 5.23%); S&P / SOX / NVDA still Wed close — do not invent RTH opens. Bloomberg >15% early-2027 server hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Snowflake Q2 call transcript still unposted. Bloomberg >15% early-2027 server-price hikes still open. Hugging Face $12.9B still unconfirmed. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed.",
-    "href": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx"
+    "line": "Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Snowflake official IR Q2 FY27 transcript PDF still unposted (free third-party text on Stock Analysis / Quartr).",
+    "href": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
   },
   "sections": [
     "All",
@@ -30,8 +30,32 @@
   ],
   "stories": [
     {
-      "id": "snow-fq2",
+      "id": "nvidia-hf",
       "lead": true,
+      "section": "AI",
+      "kicker": "Deal",
+      "hed": "Nvidia to buy Hugging Face for $12.93B",
+      "dek": "Huang: agreed at $12,930,300,000; HF stays open / multi-cloud. Reuters: ~$11.9B to investors + up to $1B equity retention.",
+      "date": "Sept. 3, 2026",
+      "source": "NVIDIA Blog; Reuters",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/nvidia-buy-hugging-face-nearly-13-billion-big-bet-open-ai-models-2026-09-03/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Lead the Morning package off Jensen Huang’s NVIDIA Blog post (Sept. 3, 2026). Stick to company primary: NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Huang: HF remains an open platform for the entire AI ecosystem; developers choose models, frameworks, clouds, inference providers, and compute platforms; NVIDIA compute will not be required to build on or deploy through Hugging Face; continues supporting open-source/open-weight models from every builder and multi-cloud / multi-accelerator development. Cite community scale only as printed on the blog: >18M developers/researchers/creators; >3M models; 500,000 datasets; 1M applications; >200,000 companies. NVIDIA as largest contributor of open models/data to HF: >500 models and >250 open datasets on the hub (blog). Also-file Reuters (Sept. 3) for the consideration split Reuters attributes to the deal — about $11.9B to Hugging Face investors plus an equity-based retention program of up to $1B for employees who join NVIDIA — and do not invent close timing, regulatory path, or EV bridges beyond those sources. Do not print the earlier Bloomberg “nears / ~$14B including retention” rumor frame as if unsigned; this slot closes the watch on Huang’s agreed figure. Do not invent SEC 8-K terms until one posts.",
+      "grafs": [
+        "NVIDIA CEO Jensen Huang wrote on the company blog on Sept. 3, 2026 that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Huang said Hugging Face will remain an open platform for the entire AI ecosystem, with developers free to choose models, frameworks, clouds, inference providers, and computing platforms, and that NVIDIA compute will not be required to build on or deploy through Hugging Face.",
+        "Per the same post, Hugging Face will continue to support open-source and open-weight models from across the ecosystem and multi-cloud, multi-accelerator development and deployment. Huang cited more than 18 million developers, researchers, and creators on the platform, more than 3 million models, 500,000 datasets, and 1 million applications, and more than 200,000 companies using the hub. NVIDIA said it is the largest contributor of open models and data to Hugging Face, with more than 500 models and more than 250 open datasets released there.",
+        "Reuters, reporting the same day, said Nvidia will buy Hugging Face for $12.93 billion and described the consideration as about $11.9 billion to Hugging Face investors plus an equity-based retention program of up to $1 billion for employees who join Nvidia. Stick to the blog’s agreed dollar figure as the company primary; use Reuters only for that split attribution until an SEC filing or joint release prints more."
+      ]
+    },
+    {
+      "id": "snow-fq2",
+      "lead": false,
       "section": "CFO",
       "kicker": "CFO",
       "hed": "Snowflake Q2 product $1.49B (+37%); FY27 guide to $6.07B",
@@ -41,7 +65,7 @@
       "url": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx",
       "also": [],
       "owner": "QUILL",
-      "action": "Lead the Night package off Snowflake's AMC Q2 FY27 print. Stick to official IR: product revenue $1.4919B (+37% YoY), total revenue $1.5468B (+35%), NRR 126%, RPO $9.00B (+30%), 828 customers >$1M TTM product (+27%). Non-GAAP operating income $237.0M / 15.3% margin; non-GAAP diluted EPS $0.62. Raise: FY27 product revenue guide to $6,070M (36% YoY) from prior $5,840M (31%); FY non-GAAP op. margin to 14.5% from 13.5%. Q3 product $1,588–$1,593M (37–38% YoY), Q3 non-GAAP op. margin 15.5%. Call was 2 p.m. PT Sept. 2 — do not invent post-call color until a transcript lands. Do not confuse with older plate item snowflake (Cortex routing).",
+      "action": "Lead the Night package off Snowflake's AMC Q2 FY27 print. Stick to official IR: product revenue $1.4919B (+37% YoY), total revenue $1.5468B (+35%), NRR 126%, RPO $9.00B (+30%), 828 customers >$1M TTM product (+27%). Non-GAAP operating income $237.0M / 15.3% margin; non-GAAP diluted EPS $0.62. Raise: FY27 product revenue guide to $6,070M (36% YoY) from prior $5,840M (31%); FY non-GAAP op. margin to 14.5% from 13.5%. Q3 product $1,588–$1,593M (37–38% YoY), Q3 non-GAAP op. margin 15.5%. Call was 2 p.m. PT Sept. 2. Free third-party full transcript now on Stock Analysis (Quartr feed): https://stockanalysis.com/stocks/snow/transcripts/681381-q2-2027/ — Quill may use verified call color from that text. Official IR “Earnings Transcript” Q2 FY2027 link on investors.snowflake.com quarterly-results still empty / common IR CDN transcript PDFs still 404 as of Morning Sep 3. Do not confuse with older plate item snowflake (Cortex routing).",
       "grafs": [
         "Snowflake Inc. reported fiscal second-quarter 2027 results for the quarter ended July 31, 2026 after the U.S. close on Sept. 2. Official investor-relations release: product revenue $1.4919 billion, up 37% year over year; total revenue $1.5468 billion, up 35%. Non-GAAP operating income was $237.0 million, or 15.3% of revenue; non-GAAP diluted EPS was $0.62. GAAP operating loss was $263.0 million. Net revenue retention was 126%. Remaining performance obligations were $9.00 billion, up 30% year over year. Customers with trailing-twelve-month product revenue over $1 million totaled 828, up 27%.",
         "Guidance raised on the same release: full-year fiscal 2027 product revenue to $6,070 million (36% year over year), up from the prior $5,840 million (31%) outlook; full-year non-GAAP operating margin to 14.5% from 13.5%. Third-quarter product revenue is guided to $1,588 million to $1,593 million (37% to 38% year over year) with non-GAAP operating margin of 15.5%. Management also cited CoCo above 9,100 accounts and CoWork at 5,800 accounts (average of the last four weeks of the quarter). Conference call was set for 2 p.m. Pacific Time on Sept. 2."
