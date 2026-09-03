@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 45,
+  "number": 46,
   "city": "New York",
   "date": "Thursday, September 3, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 3, 2:01 p.m. ET (regular hours)",
-    "line": "S&P 7,755.42 (+1.16%) · 10-year 4.75% · 30-year 5.24% · SOX 11,344.39 (+0.05%) · NVDA $230.38 (+2.66%)"
+    "updated": "Sep 3, 3:46 p.m. ET (regular hours)",
+    "line": "S&P 7,750.21 (+1.09%) · 10-year 4.76% · 30-year 5.24% · SOX 11,343.35 (+0.04%) · NVDA $229.12 (+2.10%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Snowflake posts the official Q2 transcript; ChatGPT, Claude and Grok are operational again.",
+    "hed": "Diversified–Birch is the afternoon add; lead stays Nvidia–Hugging Face.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 45 Afternoon (updated 2:01 p.m. ET). No new story IDs. snow-fq2: Snowflake’s official IR corrected transcript PDF is now on the quarterly-results page (FactSet CallStreet, Q2 FY27 call Sept. 2, 5:00 p.m. ET) — watch CLOSED. CFO Brian Robins on that transcript: FY27 non-GAAP product gross margin guided to 74% on a higher mix of AI workloads with lower contribution margin today; 14 net new Global 2000 customers (829 total, AI Data Cloud on over 41% of the G2000); 48 net new $1M TTM customers in Q2; ~54% of the $9B RPO expected as revenue in the next 12 months; YTD headcount +334 including 173 from Observe vs 935 a year ago; cash $4.3B. ai-outage-trio: as of ~2:00 p.m. ET OpenAI status reads fully operational; Anthropic status is All Systems Operational, with the multi-model incident resolved and impact ended 9:16 a.m. PT / 12:16 p.m. ET (status note 12:23 p.m. ET); xAI status shows no incidents declared. Still no public root-cause linking the three. Lead remains nvidia-hf. Tape Yahoo 2:01 p.m. ET: S&P 7,755.42 (+1.16%), 10-year 4.75%, 30-year 5.24%, SOX 11,344.39 (+0.05%), NVDA $230.38 (+2.66%). Open watches still OPEN: Bloomberg >15% early-2027 server-price hikes; Anthropic–Lambda $35B (still single-sourced); Anthropic–MatX/S-1; DeepSeek $74B. Declined this hour: Broadcom FY27 ~$115B / FY28 ~$230B AI-chip call color held for an official IR transcript (webcast only; Reuters/CNA already on the wire since Wednesday night); Advent–Definitive still non-binding; Nasdaq–Dasseti undisclosed; Atira $17.5M seed; BlackSun sports fund (off beat); Thursday q-fin overlap with plate papers. X MCP still client-not-enrolled — web/gh scan only."
+    "body": "Vol. 1 No. 46 Late Afternoon. ADD diversified-birch: Diversified Energy definitive agreements to acquire Birch Permian Holdings and affiliates from Elliott affiliates for ~$1.8B; funded primarily by a ~$1.5B Carlyle ABS plus RCF; partnership expanded from a $2B framework to up to $10B of PDP deals, subject to mutual agreement; Q4 2026 close target; $50M break fee. Company IR (Sept. 2, 7:26 p.m. ET) plus Form 8-K dated Sept. 3 (Item 7.01 furnished). Lead remains nvidia-hf. Tape Yahoo 3:46 p.m. ET: S&P 7,750.21 (+1.09%), 10-year 4.76%, 30-year 5.24%, SOX 11,343.35 (+0.04%), NVDA $229.12 (+2.10%). Open watches still OPEN: Bloomberg >15% early-2027 server-price hikes; Anthropic–Lambda $35B (still single-sourced); Anthropic–MatX/S-1; DeepSeek $74B. Broadcom FY27 ~$115B / FY28 ~$230B AI-chip call color still held for an official IR transcript (Q3 2026 packet not yet on the quarterly-results page; third-party transcripts exist). Moonshot HK IPO and ByteDance Ulanqab remain UNCONFIRMED on the plate. Declined this hour: Vista–Allvue sale talks (Aug. 21, still sources); Thursday q-fin overlap (AQuA, AutoScientist-Quant) below the plate bar. X MCP still client-not-enrolled — web/gh scan only."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "August nonfarm payrolls Friday, Sept. 4 (8:30 a.m. ET), then CPI and PPI next week — the only major inflation prints before the Sept. 15–16 FOMC. ChatGPT, Claude and Grok status pages are operational again; none of the three has published a root-cause that links them. Nvidia–Hugging Face now has an H1 2027 close guide in the 8-K; regulatory path still the live risk. Moonshot’s Hong Kong filing remains confidential and unconfirmed. ByteDance’s 5–6 GW Ulanqab plan is single-sourced. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Broadcom’s FY27/FY28 AI-revenue call color still waits on an official IR transcript.",
+    "line": "August nonfarm payrolls Friday, Sept. 4 (8:30 a.m. ET), then CPI and PPI next week — the only major inflation prints before the Sept. 15–16 FOMC. Diversified–Birch (~$1.8B) is signed, not closed; Q4 2026 target. Nvidia–Hugging Face now has an H1 2027 close guide in the 8-K; regulatory path still the live risk. Moonshot’s Hong Kong filing remains confidential and unconfirmed. ByteDance’s 5–6 GW Ulanqab plan is single-sourced. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Broadcom’s FY27/FY28 AI-revenue call color still waits on an official IR transcript.",
     "href": "https://www.bls.gov/news.release/empsit.nr0.htm"
   },
   "sections": [
@@ -139,6 +139,34 @@
         "CVC Secondary Partners said on Sept. 3 that it has held the final close of Secondary Opportunities Fund VI with $10 billion of aggregate capital commitments, up from $5.8 billion for the 2023 vintage and $2.7 billion in 2019. More than 200 returning and new limited partners took part, with approximately half the capital coming from investors new to the SOF series. CVC's footnote is worth carrying: the dollar figures are stated together with parallel investment funds and accounts and include CVC house and employee commitments.",
         "The strategy is the private equity secondaries mid-market, buying into buyout funds run by what CVC calls high-quality GPs, split between LP portfolio purchases and GP-led transactions. Chief executive Rob Lucas said secondaries now represents €20 billion of assets under management inside CVC's private markets platform, against €212 billion group-wide across seven strategies, and pointed at “newer attractive adjacencies such as Credit and Infrastructure Secondaries.” Carlo Pirzio-Biroli, who heads the unit, said the remaining capital would be deployed “with discipline.”",
         "Read it next to EQT's $3.2 billion Coller Capital combination, which closed this week, and Netley's smaller tertiaries close. The secondaries and continuation-vehicle layer is no longer a workaround for a slow exit market; it is being built out as permanent infrastructure, with dedicated teams — 60 investment professionals in CVC's case — and fund sizes that step up 1.7x a vintage. That is an LP demand signal about liquidity, not about returns."
+      ]
+    },
+    {
+      "id": "diversified-birch",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Permian",
+      "hed": "Diversified to buy Elliott’s Birch Permian for ~$1.8B",
+      "dek": "Carlyle ABS ~$1.5B; PDP partnership scaled from $2B to up to $10B. Close targeted Q4 2026; $50M break fee.",
+      "date": "Sept. 3, 2026",
+      "source": "Diversified Energy IR; SEC Form 8-K",
+      "url": "https://ir.div.energy/news-events/us-press-releases/detail/230/diversified-announces-accretive-acquisition-of-birch",
+      "also": [
+        {
+          "label": "SEC Form 8-K (Sept. 3; event Sept. 2)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1922446/000192244626000083/dec-20260902.htm"
+        },
+        {
+          "label": "Rigzone",
+          "url": "https://www.rigzone.com/news/diversified_to_acquire_elliott_assets_in_permian_for_18b-03-sep-2026-184528-article/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD. Company primary is Diversified’s Sept. 2 IR release (GlobeNewswire, 7:26 p.m. ET) plus the Form 8-K dated Sept. 3 (earliest event Sept. 2), signed by Benjamin M. Sullivan. 8-K is Item 7.01 Regulation FD — furnished, not filed; Exhibit 99.1 is the press release. Hard figures from the IR only: definitive agreements to acquire Birch Permian Holdings, Inc. and certain affiliates from affiliates of Elliott Investment Management L.P.; gross purchase price ~$1.8 billion (net to reflect customary adjustments and effective-date cash flows); primarily funded by a privately rated ABS of ~$1.5 billion originated/structured by Carlyle’s Asset-Backed Finance and Capital Markets teams, plus RCF liquidity; TCG Capital Markets as sole structuring and placement agent on the ABS. Carlyle–Diversified partnership expanded from the original $2 billion framework (announced in the release as such) to a collaboration through which the parties may pursue up to $10 billion of potential PDP acquisitions over time, subject to mutual agreement and transaction-specific approvals. Close expected Q4 2026, customary conditions including regulatory approvals; $50 million break fee. Operating color, all IR: estimated +~35% production and +~55% Adjusted EBITDA; pro forma operated gross ~2.5 Bcfepd (~1.6 Bcfepd net); Birch current net production ~68 Mboepd / ~409 MMcfepd, mix ~38% oil / ~32% NGLs / ~30% gas, ~96% operated; proved reserves ~1,168 Bcfe and PV-10 ~$2.0 billion; ~PV-14 of PDP and ~3.3x Adjusted EBITDA multiple; estimated annualized Adjusted EBITDA ~$548 million (NTM, inclusive of G&A and hedges, NYMEX strip as of Aug. 17, 2026). CEO Rusty Hutson Jr. calls it the largest acquisition in the company’s 25-year history. Do not treat the 8-K as a filed purchase agreement (no Item 1.01/2.01). Do not invent hedge book, leverage, or accretion per share beyond “expected to be immediately accretive on key per-share financial metrics.” Signed, not closed.",
+      "grafs": [
+        "Diversified Energy said it has signed definitive agreements to buy Birch Permian Holdings and certain affiliates from Elliott Investment Management affiliates for a gross purchase price of about $1.8 billion. The company’s Form 8-K, dated Sept. 3 and reporting an earliest event of Sept. 2, furnishes the press release under Item 7.01; it is not a filed purchase-agreement exhibit. Close is targeted for the fourth quarter of 2026, subject to customary conditions including regulatory approvals, with a $50 million break fee.",
+        "Funding is the CFO line. Diversified says the deal will be paid for primarily with a privately rated asset-backed securitization of about $1.5 billion originated and structured by Carlyle’s asset-backed finance team, supported by the acquired PDP assets, plus liquidity on the revolving credit facility. In the same announcement Carlyle and Diversified expanded their partnership from a $2 billion framework to one under which they may pursue up to $10 billion of proved-developed-producing acquisitions over time, subject to mutual agreement and deal-by-deal approvals. TCG Capital Markets is sole structuring and placement agent on the ABS.",
+        "On Diversified’s own math, Birch adds about 68,000 barrels of oil equivalent a day net (~38% oil, ~32% NGLs, ~30% gas), lifts company production by about 35% and Adjusted EBITDA by about 55%, and takes pro forma operated gross volumes to about 2.5 billion cubic feet equivalent a day. The release puts Birch’s estimated annualized Adjusted EBITDA at about $548 million on the Aug. 17 strip, PDP PV-10 at about $2.0 billion, and the multiple at about 3.3 times. Chairman and CEO Rusty Hutson Jr. called it the largest deal in the company’s 25-year history. Signed, not closed."
       ]
     },
     {
