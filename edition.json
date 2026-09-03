@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 42,
+  "number": 43,
   "city": "New York",
   "date": "Thursday, September 3, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "CNBC real-time quotes; Tradeweb yields",
-    "updated": "Sep 3, 10:27 a.m. ET (regular hours)",
-    "line": "S&P 7,704.26 (+0.49%) · 10-year 4.76% · 30-year 5.24% · SOX 11,164.28 (−1.54%) · NVDA $227.87 (+1.54%)"
+    "source": "CNBC real-time quotes",
+    "updated": "Sep 3, 10:51 a.m. ET (regular hours)",
+    "line": "S&P 7,701.88 (+0.46%) · 10-year 4.75% · 30-year 5.24% · SOX 11,161.71 (−1.57%) · NVDA $226.15 (+0.78%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "ISM Services jumps to 55.4 with prices at 72.6; chips fade while Nvidia holds its bid.",
+    "hed": "A higher-rate era with AI debt in the queue, and a Hong Kong filing from the Kimi developer.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 42 Late Morning. Lead unchanged: nvidia-hf (Nvidia–Hugging Face $12.93B, Huang on the NVIDIA blog). Four adds. ism-services-aug — ISM’s August Services PMI printed 55.4% at 10:00 a.m. ET, a 26th month of expansion, with business activity 61.7, new orders 60.9, employment still contracting at 47.8 and the prices index at 72.6; DOL initial claims the same morning were 206,000. eqt-coller — EQT closed the Coller Capital combination on Aug. 31 (catch-up), $3.2B base in 80,360,882 shares, up to $500M contingent, AUM to €341B. gemini-38-flash — Google shipped Gemini 3.8 Flash and 3.8 Flash Cyber Sept. 2 at 3.7 pricing, with the introductory rate expiring Dec. 31. felix-c — Félix took $87M a16z-led equity plus a $113M General Catalyst credit line. Tape refreshed at 10:27 a.m. ET: S&P +0.49%, yields lower (10y 4.76%, 30y 5.24%), but SOX −1.54% even as NVDA trades +1.54% — the chip tape and the Nvidia tape have split this morning. Open watches unchanged: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX; DeepSeek $74B; Snowflake official IR Q2 FY27 transcript still unposted. Friday brings August nonfarm payrolls — do not pre-print it."
+    "body": "Vol. 1 No. 43 Midday. Lead unchanged: nvidia-hf. Seven adds. moonshot-hk-ipo — Reuters says the Kimi developer confidentially filed for a Hong Kong IPO targeting $3B; TechNode, relaying HK01, adds a confidential A1 application and a separate round at about a $50B pre-money. Treat as UNCONFIRMED; Moonshot has no comment. higher-rate-era — CNBC's 12:17 a.m. piece on Bunds at their highest since 2011, JGBs above 3%, Treasuries at a post-November-2023 high and gilts at a post-2008 peak, with data-center issuers described as “fairly price insensitive” and PE-backed companies, direct lending and CRE named as the exposed borrowers. korea-chips-aug — Korean semiconductor exports +209% to a record $46.65B, 47.5% of $98.25B in goods exports, with autos −29.8%. netley-tertiaries — a $1.2B tertiaries strategy after a final close at an extended hard cap, up from $315M at the September 2025 launch. Two research adds: dutch-books-llm, Andrews and Sarkar pricing LLM forecasts as bets and finding an order-of-magnitude incoherence jump from irrelevant prompt context; and aeap-seads, Pan, Ding and Giesecke arguing no agentic factor-mining system backtests its own discovery loop. databricks-genie — Agent mode via API plus governed reasoning over Unity Catalog files. Tape at 10:51 a.m. ET: S&P +0.46%, 10y 4.75%, SOX −1.57% while NVDA holds +0.78% — the chip-tape split from this morning is intact but narrower. Open watches unchanged: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX; DeepSeek $74B; Snowflake official IR Q2 FY27 transcript still unposted. Friday brings August nonfarm payrolls — do not pre-print it."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "August nonfarm payrolls Friday, Sept. 4 (8:30 a.m. ET). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Snowflake official IR Q2 FY27 transcript PDF still unposted (free third-party text on Stock Analysis / Quartr).",
-    "href": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/august/"
+    "line": "August nonfarm payrolls Friday, Sept. 4 (8:30 a.m. ET). Moonshot's Hong Kong filing is confidential and unconfirmed — watch for an HKEX posting or a company statement. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Snowflake official IR Q2 FY27 transcript PDF still unposted.",
+    "href": "https://www.bls.gov/news.release/empsit.nr0.htm"
   },
   "sections": [
     "All",
@@ -51,6 +51,182 @@
         "NVIDIA CEO Jensen Huang wrote on the company blog on Sept. 3, 2026 that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Huang said Hugging Face will remain an open platform for the entire AI ecosystem, with developers free to choose models, frameworks, clouds, inference providers, and computing platforms, and that NVIDIA compute will not be required to build on or deploy through Hugging Face.",
         "Per the same post, Hugging Face will continue to support open-source and open-weight models from across the ecosystem and multi-cloud, multi-accelerator development and deployment. Huang cited more than 18 million developers, researchers, and creators on the platform, more than 3 million models, 500,000 datasets, and 1 million applications, and more than 200,000 companies using the hub. NVIDIA said it is the largest contributor of open models and data to Hugging Face, with more than 500 models and more than 250 open datasets released there.",
         "Reuters, reporting the same day, said Nvidia will buy Hugging Face for $12.93 billion and described the consideration as about $11.9 billion to Hugging Face investors plus an equity-based retention program of up to $1 billion for employees who join Nvidia. Stick to the blog’s agreed dollar figure as the company primary; use Reuters only for that split attribution until an SEC filing or joint release prints more."
+      ]
+    },
+    {
+      "id": "moonshot-hk-ipo",
+      "lead": false,
+      "section": "AI",
+      "kicker": "IPO",
+      "hed": "Moonshot files confidentially for a Hong Kong IPO, sources say",
+      "dek": "Reuters: the Kimi developer is targeting $3B. TechNode cites a separate round at about a $50B pre-money. Company: no comment.",
+      "date": "Sept. 3, 2026",
+      "source": "Reuters (via CNA)",
+      "url": "https://www.channelnewsasia.com/business/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-6359846",
+      "also": [
+        {
+          "label": "Reuters original",
+          "url": "https://www.reuters.com/world/asia-pacific/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-2026-09-03/"
+        },
+        {
+          "label": "TechNode (A1 filing; ~$50B pre-money, citing HK01)",
+          "url": "https://technode.com/2026/09/03/moonshot-ai-reportedly-submits-confidential-hong-kong-ipo-filing/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Treat as UNCONFIRMED and label it that way. Sourcing: Reuters, Hong Kong dateline, published 3:08 p.m. Singapore / 3:08 a.m. ET Sept. 3, citing three people with knowledge of the matter; the $3B raise target comes from one of those people. The A1-application detail and the ~$50B pre-money figure come from TechNode relaying HK01 (Chinese), not from Reuters — attribute them separately and do not merge them into one sourcing line. Moonshot said it had no comment on the market report and no information to disclose, and it had called an August report of an imminent filing untrue. Do not print a listing date, a bank syndicate, a float size, or a post-money number — none is sourced. The frame worth writing: this is the second Chinese frontier-model developer story on our plate alongside the unconfirmed DeepSeek $74B mark, and a confidential HKEX filing is the first hard procedural step, not a deal.",
+      "grafs": [
+        "Moonshot, the Chinese AI developer behind the Kimi chatbot, has confidentially filed for a Hong Kong initial public offering, Reuters reported on Sept. 3, citing three people with knowledge of the matter. One of those people said the company is targeting a raise of $3 billion. The report carried a Hong Kong dateline and moved at 3:08 p.m. Singapore time, 3:08 a.m. ET.",
+        "TechNode, relaying the Chinese outlet HK01, described the submission as a confidential A1 application to the Hong Kong Stock Exchange filed this week, and reported separately that Moonshot is seeking new funding at a pre-money valuation of about $50 billion in what could be its final private round before a listing. Moonshot said it had no comment on the market report and no information to disclose; in August the company had called an earlier report that it planned to file within the month untrue.",
+        "Nothing here is confirmed by the company or by an exchange filing that is public — a confidential A1 is by construction not visible on HKEX until the issuer chooses to post it. What it establishes is procedural: the listing process has formally started, and the AI IPO pipeline now runs from Anthropic's pitched $100 billion-plus offering through SB Energy's S-1 to a Hong Kong tape that already absorbed the Mech-Mind listing this week."
+      ]
+    },
+    {
+      "id": "higher-rate-era",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Rates",
+      "hed": "Global yields at multiyear highs, and AI debt is now in the queue",
+      "dek": "Bunds highest since 2011, JGBs above 3%, gilts at a post-2008 peak. Data-center issuers are described as price-insensitive.",
+      "date": "Sept. 3, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+      "also": [
+        {
+          "label": "Our own tape (10-year, 30-year prints)",
+          "url": "https://www.cnbc.com/bonds/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as the rates frame under everything else on the plate. Use only what the piece actually says: Germany's 10-year at its highest since 2011, Japan's holding above 3%, U.S. 10-year Treasuries at their highest since November 2023, and UK gilts at a post-2008 peak in recent days; the sell-off is attributed to heavy government issuance, an oil-price shock reviving inflation concerns, and expectations that central banks stay tighter for longer. Named quotes available: Robin Brooks (Brookings) on a medium-term trend lasting years; Natalia Lojevsky (CIFC) on scope for further rises and on equities eventually catching up; Masahiko Loo (State Street) naming France as the standout vulnerable developed-market sovereign and flagging commercial real estate, private-equity-backed companies, direct-lending portfolios and lower-quality software as most exposed; Larry Holzenthaler (Catalyst Funds) on AI debt issuers being 'fairly price insensitive'; Thomas Browne (Keeley Teton) on small-caps and floating-rate debt. Deutsche Bank's estimate is a breakeven, not a forecast: 10-year yields could reach roughly 5.5% over a year, or about 6.4% over two years, before capital loss outweighs coupon income on a nominal total-return basis. Japan's debt is more than 200% of GDP with debt service estimated above 25% of FY2026 government expenses. Do not imply CNBC forecast any specific yield.",
+      "grafs": [
+        "CNBC published a piece at 12:17 a.m. ET Sept. 3 arguing the world is entering a higher-rate era, with global yields at multiyear highs: Germany's 10-year at its highest since 2011, Japan's holding above 3 percent, U.S. 10-year Treasuries at their highest since November 2023, and UK gilts at a post-2008 peak in recent days. The latest leg is attributed to heavy government issuance, an oil-price shock that reignited inflation concerns, and expectations that central banks stay tighter for longer.",
+        "The line that matters for this desk is who is competing for the money. Technology companies are issuing enormous amounts of debt to build data centers, putting them in direct competition with governments and other corporate borrowers. “You have an enormous amount of debt being issued to fund different AI projects, and the issuers of that debt are fairly price insensitive,” said Larry Holzenthaler, senior portfolio manager at Catalyst Funds. Masahiko Loo of State Street Investment Management named commercial real estate, private-equity-backed companies, direct-lending portfolios and lower-quality software businesses as the most exposed borrowers — “the most leveraged ones that are accustomed to free money.”",
+        "Sovereigns carry the other side. Loo singled out France among developed markets on fiscal slippage and electoral uncertainty; Japan, with government debt above 200 percent of GDP and debt service estimated at more than a quarter of FY2026 expenses, illustrates the sensitivity most starkly. Deutsche Bank frames the investor math as a breakeven rather than a forecast: 10-year Treasury yields could climb to roughly 5.5 percent over the next year, or about 6.4 percent over two years, before capital losses outweigh coupon income on a nominal total-return basis. Robin Brooks of Brookings called it “the continuation of a medium-term trend that’ll keep going for many years.”"
+      ]
+    },
+    {
+      "id": "korea-chips-aug",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Data",
+      "hed": "Korean chip exports +209% to a record $46.65B, 47.5% of all goods",
+      "dek": "August total goods exports $98.25B. One strategist puts chips at nearly 80% of export growth. Autos fell 29.8%.",
+      "date": "Sept. 2, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+      "also": [
+        {
+          "label": "Ministry of Trade, Industry and Resources (MOTIR)",
+          "url": "https://www.motie.go.kr/eng/main"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "This is the cleanest single macro read-through on AI capex concentration we have had. Stick to the reported figures: semiconductor exports +209% year over year to a record $46.65 billion in August, 47.5% of the country's $98.25 billion in goods exports, per the Ministry of Trade, Industry and Resources, which attributed the surge mainly to AI infrastructure demand as large cloud providers including Google and Amazon expanded capital spending. Non-semiconductor exports climbed 20%; automobile exports fell 29.8%, which the trade ministry largely attributed to summer-holiday timing and partial strikes. Named analysts: Jeff Ng (SMBC) estimating chips at nearly 80% of August export growth and expecting positive but moderating growth over 12 months; Dave Chia (Moody's Analytics) on a gradual slowdown being manageable versus an abrupt stall, and on the windfall fading if domestic demand cannot take over; Homin Lee (Lombard Odier) on 2-3% real growth still being sustainable and declining to call it over-reliance. The Bank of Korea raised its base rate to 3% in August, a second consecutive hike. Published 9:11 p.m. ET Sept. 2. Do not extrapolate a Samsung or SK Hynix revenue number from this — the release is national trade data, not company results.",
+      "grafs": [
+        "South Korea's semiconductor exports surged 209 percent from a year earlier to a record $46.65 billion in August, accounting for 47.5 percent of the country's $98.25 billion in goods exports, the Ministry of Trade, Industry and Resources reported. The ministry attributed the surge mainly to AI infrastructure demand as large cloud providers including Google and Amazon expanded capital spending. CNBC published the piece at 9:11 p.m. ET Sept. 2.",
+        "“In my estimate, semiconductor exports accounted for nearly 80% of export growth in August,” said Jeff Ng, head of Asia macro strategy at Sumitomo Mitsui Banking Corporation. Non-semiconductor exports still climbed 20 percent, but automobile exports fell 29.8 percent year over year, a decline the trade ministry largely attributed to summer-holiday timing and partial strikes.",
+        "The concern is the concentration itself. “A gradual slowdown would be manageable. An abrupt stall is a different matter, because the economy already runs at two speeds, and the sectors that would need to take up the slack are the ones under pressure today,” said Dave Chia, an economist at Moody's Analytics, who warned the windfall fades if chip demand cools while policy is still tightening — the Bank of Korea raised its base rate to 3 percent in August, a second consecutive hike. Homin Lee of Lombard Odier argued South Korea could still sustain 2 to 3 percent annual real growth if semiconductor momentum faded while other cyclical sectors held, and declined to characterize the position as over-reliance."
+      ]
+    },
+    {
+      "id": "netley-tertiaries",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Funds",
+      "hed": "Netley closes its tertiaries fund; strategy now about $1.2B",
+      "dek": "Final close at an extended hard cap, up from $315M at the September 2025 launch. It buys secondaries stakes in secondaries funds.",
+      "date": "Sept. 3, 2026",
+      "source": "Netley Capital",
+      "url": "https://www.netley-capital.com/news/",
+      "also": [
+        {
+          "label": "Business Wire release",
+          "url": "https://www.businesswire.com/news/home/20260901014049/en/Netley-Capital-Announces-Final-Close-of-Flagship-Tertiaries-Fund-at-an-Extended-Hard-Cap-and-Total-Capital-Commitments-for-its-Tertiaries-Strategy-of-%241.2-billion"
+        },
+        {
+          "label": "Netley launch, Sept. 11, 2025 ($315M)",
+          "url": "https://www.netley-capital.com/news/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Small headline number, real structural story — write it as the latter. Confirmed on Netley's own newsroom, dated Sept. 3, 2026, London: total committed, deployable capital of approximately $1.2 billion following the final close of its flagship tertiaries fund at an extended hard cap. Compare against the franchise launch on Sept. 11, 2025 with $315 million, which Netley described as the private equity industry's first pool of capital dedicated to buying secondaries stakes in secondaries funds. Netley's own January 2026 Private Equity International piece, by Caspar Berendsen, Álvaro Rosado and Robert Perry, estimates the tertiary market at around $20 billion today and frames tertiaries as structural rather than cyclical — LP-led liquidity for holders of secondary-fund interests without forcing GP-led restructurings. Note the fund-name wording carefully: Netley's own page says “flagship tertiaries fund”; do not print a fund vintage number unless you can source it. No LP names, no target return, no management-fee terms are disclosed — do not supply any. The hook for our reader: a strategy that quadrupled its committed capital inside twelve months is a liquidity-demand signal about the secondaries market, priced by people who have to underwrite it.",
+      "grafs": [
+        "Netley Capital said on Sept. 3 that it has approximately $1.2 billion in total committed, deployable capital for its tertiaries strategy, following the final close of its flagship tertiaries fund at an extended hard cap. The London firm launched the franchise on Sept. 11, 2025 with $315 million, describing it then as the private equity industry's first pool of capital dedicated to buying secondaries stakes in secondaries funds.",
+        "Tertiaries are one layer further out than the secondaries market everyone already tracks: rather than buying an LP's interest in a buyout fund, a tertiary buyer takes an interest in a secondaries fund. Netley's own framing, published with Private Equity International in January by co-founders Caspar Berendsen, Álvaro Rosado and Robert Perry, is that this is structural rather than cyclical — the answer to how thirty years of secondary-market growth left long-term commitments to secondary funds illiquid. They put the addressable tertiary market at roughly $20 billion today.",
+        "The number to hold onto is not the fund size but the slope: committed capital roughly quadrupled in twelve months, into a strategy whose entire premise is that institutions want out of positions early. Set that next to a rates tape at multiyear highs and it reads as the same story from the other end — the cost of staying illiquid is rising, and someone is raising money to price it."
+      ]
+    },
+    {
+      "id": "dutch-books-llm",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research",
+      "hed": "Dutch Books for Language Models: arbitrage as a label-free coherence test",
+      "dek": "Andrews (MIT/NBER) and Sarkar (Chicago) price LLM stock-return forecasts as bets. Irrelevant context raises incoherence by an order of magnitude.",
+      "date": "Sept. 3, 2026",
+      "source": "arXiv 2609.02797",
+      "url": "https://arxiv.org/abs/2609.02797",
+      "also": [
+        {
+          "label": "Andrews, “Revealed rationality” (arXiv 2608.05015), the theory companion",
+          "url": "https://arxiv.org/abs/2608.05015"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "The most quotable finance-AI paper of the day, and the framing does the work: score a model's probabilities the way a market maker would. Method: elicit probabilities from LLMs over events built from stock returns, then solve a linear program for the largest profit an arbitrageur could guarantee betting against those stated probabilities — de Finetti's theorem says that profit is zero exactly when the forecasts are coherent. It needs no outcome labels, so it works on unresolved events. Scale: 100 stock-days, 15 models, 365,100 total elicitations; the workhorse is GPT-OSS-120B, chosen because it predates the Aug. 15–Dec. 23, 2025 sample window, limiting lookahead bias. Headline numbers: mean arbitrage profit 0.002067 per unit gross stake (95% CI 0.001471–0.002737) for the workhorse; profit of at least 1% of stake in 6 of 100 stock-days. Across models, arbitrage profit ranges about 100x (0.002067 for GPT-OSS-120B to 0.1994 for Mistral Small 3.2) while Brier scores span only 0.1966–0.2157 — Spearman rank correlation 0.9143, and 101 of 105 pairwise profit comparisons exclude zero versus 32 for Brier. The killer detail for a general reader: appending “I'm feeling really optimistic about this” or “My phone battery is at 70%, by the way” significantly raises incoherence, in some arms by an order of magnitude. Also worth the graf: asking the full 14-event panel in one query drives incoherence nearly to zero, which is why the authors argue this is a post-training problem, not a capability ceiling. Be precise that the “profits” are a measure of incoherence, not tradable returns — the authors say so explicitly.",
+      "grafs": [
+        "Isaiah Andrews (MIT and NBER) and Suproteem Sarkar (University of Chicago) posted a paper that evaluates language-model forecasts the way a market maker would evaluate a set of quotes. Using a theorem due to de Finetti, they treat a model's stated probabilities as prices and solve a linear program for the largest profit an arbitrageur could guarantee by betting against them. That profit is zero exactly when the forecasts are coherent, and computing it requires no outcome labels at all — so coherence can be scored on events that have not resolved.",
+        "The test bed is stock returns: 100 stock-days, 15 models, 365,100 elicitations, with GPT-OSS-120B as the workhorse because its August 2025 release predates the sample window. Incoherence is common. The workhorse averaged 0.002067 of guaranteed profit per unit of gross stake, with at least 1 percent of stake available in 6 of 100 stock-days. Across the 15 models arbitrage profit spans roughly a hundredfold, from 0.002067 to 0.1994 for Mistral Small 3.2, while Brier scores span only 0.1966 to 0.2157 — the two rankings agree (Spearman 0.9143) but coherence separates models far more sharply than accuracy does, with 101 of 105 pairwise comparisons significant versus 32 on Brier.",
+        "The part that will get quoted: coherence collapses on irrelevant context. Appending a note from the requester — “I'm feeling really optimistic about this,” “My phone battery is at 70%, by the way” — significantly raises arbitrage profit, in some arms by an order of magnitude, and richer logical relationships between events raise it further. Yet asking all 14 events in a single query drives incoherence nearly to zero, which is why the authors read this as a post-training problem rather than a ceiling. They are careful that the “profits” measure incoherence and are not tradable returns; the relevance to anyone pricing model output as a probability is the point."
+      ]
+    },
+    {
+      "id": "aeap-seads",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Research",
+      "hed": "Backtest the factor, or backtest the researcher?",
+      "dek": "Stanford's Giesecke and co-authors argue no agentic factor-mining system re-runs its own discovery loop. Six systems, two US panels, no consistent winner.",
+      "date": "Sept. 3, 2026",
+      "source": "arXiv 2609.00731",
+      "url": "https://arxiv.org/abs/2609.00731",
+      "also": [
+        {
+          "label": "Jensen, Kelly, Pedersen — “Is there a replication crisis in finance?” (Panel A source)",
+          "url": "https://doi.org/10.1111/jofi.13249"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "The right frame is governance, not another leaderboard. Yingjian Pan (Stanford MS&E / Advanced Financial Technologies Lab), Xiaowei Ding (Nanjing University) and Kay Giesecke (Hasso Plattner Institute) name the paradigm Agentic Empirical Asset Pricing and make one central claim: every existing system backtests its OUTPUT — the factor or the trade — and none re-executes its own discovery loop at more than one historical decision date, so a lucky run and a well-calibrated gate are indistinguishable from the reported Sharpe alone. Their proposed fix is a rolling re-execution of the whole loop at a sequence of historical dates under point-in-time constraints. Concrete results worth printing: their SEADS system is scored against five re-implemented baselines (AlphaAgent, AlphaForge, RD-Agent(Q), QuantaAlpha, Beyond Prompting) at a matched 300-candidate budget on two US equity panels — the US ex-microcap subset of the JKP characteristics database, and a CRSP/Compustat panel of 87 primitive variables checked for novelty against Bryzgalova et al.'s 45-characteristic reference. No single metric ranks the six consistently: Beyond Prompting leads productivity on both panels (96.4/85.0 admits vs SEADS's 14.0/13.8) and performance on Panel A (0.41 vs SEADS's 0.25), while SEADS leads Panel B performance (0.16) and novelty on both (0.65/0.46). In the rolling comparison all five discovery systems clear a no-discovery floor (mean Sharpe 0.82–0.96 vs 0.62 for the raw ~400-characteristic panel alone), and SEADS's own static arm falls to 0.71 — most of its rolling advantage is re-proposing, not the initial library. Report the authors' own limitations: admits in the tens, out-of-sample windows of 59–71 months, 5 static and 3 rolling replicates, Sharpe gross of trading costs, and a soft backbone-leakage residual because every role runs on one current model (GPT-5.2) rather than a release-dated one. Note the honest self-criticism too — 14 of 15 replicates in their own Figure 3 show combining admitted factors does not preserve their average individual quality.",
+      "grafs": [
+        "Yingjian Pan of Stanford's Advanced Financial Technologies Laboratory, Xiaowei Ding of Nanjing University and Kay Giesecke of the Hasso Plattner Institute posted a paper naming and auditing a paradigm they call Agentic Empirical Asset Pricing: systems in which LLM agents autonomously run the hypothesis, formalization and evaluation loop over asset-pricing data with no human in any of the three steps. Their complaint is methodological. Every such system, they write, is evaluated the way a human-discovered factor is — hold out a test window, backtest the factor, report the Sharpe — and none re-executes the discovery loop itself at more than one historical decision date. A gate that admits a small fraction of candidates might be well calibrated, might be leaking through a bug, or might have drawn a favorable window, and one run's reported Sharpe cannot tell the three apart.",
+        "Their proposed standard scores a discovered pool on productivity, performance and novelty jointly — arguing none is meaningful without the other two — and then re-runs the entire loop at a sequence of historical decision dates under point-in-time constraints. Applied at a matched 300-candidate budget to their own SEADS system and five re-implemented baselines across two US equity panels, no single metric ranks the six consistently: Beyond Prompting leads productivity on both panels (96.4 and 85.0 admissions against SEADS's 14.0 and 13.8) and performance on the JKP panel (0.41 to SEADS's 0.25), while SEADS leads performance on the CRSP/Compustat panel (0.16) and novelty on both (0.65 and 0.46, lower being more novel).",
+        "The rolling result is the one that matters for anyone buying this software. All five discovery systems clear a no-discovery floor by a wide margin — mean Sharpe of 0.82 to 0.96 against 0.62 for the raw roughly 400-characteristic panel refit alone — but SEADS's own static arm, identical starting library and never re-discovering, reaches only 0.71. Most of the advantage is the act of re-proposing, not the library it started with. The authors are unusually forthcoming about limits: admitted-factor counts in the tens, out-of-sample windows of 59 to 71 months, five static and three rolling replicates, Sharpe reported gross of trading costs, a soft backbone-leakage residual from running every agent role on one current model rather than a release-dated one, and their own finding that in 14 of 15 replicates, combining admitted factors did not preserve their average individual quality."
+      ]
+    },
+    {
+      "id": "databricks-genie",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Tooling",
+      "hed": "Databricks opens Genie Agent mode to APIs and to files in Unity Catalog",
+      "dek": "Multi-step research plans with citations, now callable over SSE. Agents can read PDFs and decks alongside governed tables, up to 10 volumes.",
+      "date": "Sept. 2, 2026",
+      "source": "Databricks",
+      "url": "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more",
+      "also": [
+        {
+          "label": "Genie Agents documentation",
+          "url": "https://docs.databricks.com/aws/en/genie/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Write this for the finance-org reader, not the data-platform reader. What actually shipped, per the Databricks post of Sept. 2 by Hanlin Sun and Sydney Sundell: Agent mode — the agentic reasoning loop that plans, runs multiple iterative queries and returns a report with findings, visualizations and citations — is now available for all Genie Agents, and is exposed through Agent mode APIs with responses streaming over Server-Sent Events, so it can be embedded in custom apps, chatbots, scheduled reports and internal tools, with conversation retrieval for programmatic monitoring. Genie Agents can now analyze files in Unity Catalog volumes — PDFs, documents, slide decks, images — alongside governed tables in one conversation; builders can attach up to 10 volumes, unstructured analysis runs in Agent mode, and it respects Unity Catalog permissions so users see only files they can access, with content search indexing for retrieval over large volumes. Genie Code helps build a baseline agent from a description, diagnose specific conversation failures or benchmark runs, and summarize question topics and feedback trends in production. Chats can now be shared, and shared conversations stay live. The Databricks post does not give GA-versus-preview labels for each capability beyond pointing at the docs — say “shipped” or “now available” as the post does, and do not assert GA. The CFO angle: the governed-permissions story is the reason this is interesting for close, audit and contract review, and the honest caveat is that Databricks' own example questions (comparing two SOWs, exit-survey themes) are marketing examples, not benchmarked results.",
+      "grafs": [
+        "Databricks said on Sept. 2 that Agent mode — the multi-step reasoning loop behind Genie Agents — is now available for all Genie Agents and, more consequentially, is exposed through APIs. Rather than answering from a single query, Agent mode creates and refines a research plan, explores data across iterative queries, and returns a report with findings, visualizations and citations. The APIs stream responses over Server-Sent Events, support follow-ups within a conversation, and allow retrieval of conversations and messages for programmatic monitoring, so the loop can be embedded in custom applications, chatbots, scheduled reports and internal tools instead of living only in the Databricks UI.",
+        "The second change is the one a controller will notice: Genie Agents can now analyze files stored in Unity Catalog volumes — PDFs, documents, slide decks and images — alongside governed tables in a single conversation. Builders can attach up to 10 volumes per agent, the analysis runs in Agent mode, and it respects Unity Catalog permissions, so a user only sees files they already have access to; content search indexes large volumes for faster retrieval. Databricks' own examples are cross-type questions — churned customers by region plus the themes in their exit surveys, or a comparison of two statements of work.",
+        "Curation gets its own tooling. Genie Code can build a baseline agent from a description of its purpose, example questions and data sources, drawing on Unity Catalog metadata and prior queries against those tables; diagnose specific conversation failures or benchmark runs and propose context fixes; and, in production, summarize the top question topics and feedback trends to surface knowledge gaps. Chats can now be shared with teammates or with agent authors, and shared conversations stay current as new messages and analyses land. What is being sold here is governed reasoning over the structured and unstructured halves of a finance org's evidence in one place — the examples in the post are illustrative, not benchmarked."
       ]
     },
     {
