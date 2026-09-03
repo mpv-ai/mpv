@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 41,
+  "number": 42,
   "city": "New York",
   "date": "Thursday, September 3, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Yahoo Finance; CNBC Tradeweb",
-    "updated": "Sep 3, 9:05 a.m. ET (pre-open; equities Wed close)",
-    "line": "S&P 7,666.60 (+0.46%) · 10-year 4.74% · 30-year 5.23% · SOX 11,339 (+0.45%) · NVDA $224.41 (+3.21%)"
+    "source": "CNBC real-time quotes; Tradeweb yields",
+    "updated": "Sep 3, 10:27 a.m. ET (regular hours)",
+    "line": "S&P 7,704.26 (+0.49%) · 10-year 4.76% · 30-year 5.24% · SOX 11,164.28 (−1.54%) · NVDA $227.87 (+1.54%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Nvidia agrees to buy Hugging Face for $12.93B; open-model hub closed.",
+    "hed": "ISM Services jumps to 55.4 with prices at 72.6; chips fade while Nvidia holds its bid.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 41 Morning. New lead: nvidia-hf — Jensen Huang on the NVIDIA Blog (Sept. 3): NVIDIA has agreed to acquire Hugging Face for $12,930,300,000; platform stays open / multi-cloud / multi-accelerator; NVIDIA compute not required. Reuters same-day: ~$11.9B to HF investors + up to $1B equity retention for employees joining NVIDIA. Hugging Face $12.9B watch CLOSED. Prior snow-fq2 demoted from lead (free third-party Q2 call transcript now on Stock Analysis / Quartr; official IR Earnings Transcript link still empty). Tape: yields lower pre-open (10y 4.74%, 30y 5.23%); S&P / SOX / NVDA still Wed close — do not invent RTH opens. Bloomberg >15% early-2027 server hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed."
+    "body": "Vol. 1 No. 42 Late Morning. Lead unchanged: nvidia-hf (Nvidia–Hugging Face $12.93B, Huang on the NVIDIA blog). Four adds. ism-services-aug — ISM’s August Services PMI printed 55.4% at 10:00 a.m. ET, a 26th month of expansion, with business activity 61.7, new orders 60.9, employment still contracting at 47.8 and the prices index at 72.6; DOL initial claims the same morning were 206,000. eqt-coller — EQT closed the Coller Capital combination on Aug. 31 (catch-up), $3.2B base in 80,360,882 shares, up to $500M contingent, AUM to €341B. gemini-38-flash — Google shipped Gemini 3.8 Flash and 3.8 Flash Cyber Sept. 2 at 3.7 pricing, with the introductory rate expiring Dec. 31. felix-c — Félix took $87M a16z-led equity plus a $113M General Catalyst credit line. Tape refreshed at 10:27 a.m. ET: S&P +0.49%, yields lower (10y 4.76%, 30y 5.24%), but SOX −1.54% even as NVDA trades +1.54% — the chip tape and the Nvidia tape have split this morning. Open watches unchanged: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX; DeepSeek $74B; Snowflake official IR Q2 FY27 transcript still unposted. Friday brings August nonfarm payrolls — do not pre-print it."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Snowflake official IR Q2 FY27 transcript PDF still unposted (free third-party text on Stock Analysis / Quartr).",
-    "href": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+    "line": "August nonfarm payrolls Friday, Sept. 4 (8:30 a.m. ET). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Snowflake official IR Q2 FY27 transcript PDF still unposted (free third-party text on Stock Analysis / Quartr).",
+    "href": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/august/"
   },
   "sections": [
     "All",
@@ -51,6 +51,114 @@
         "NVIDIA CEO Jensen Huang wrote on the company blog on Sept. 3, 2026 that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Huang said Hugging Face will remain an open platform for the entire AI ecosystem, with developers free to choose models, frameworks, clouds, inference providers, and computing platforms, and that NVIDIA compute will not be required to build on or deploy through Hugging Face.",
         "Per the same post, Hugging Face will continue to support open-source and open-weight models from across the ecosystem and multi-cloud, multi-accelerator development and deployment. Huang cited more than 18 million developers, researchers, and creators on the platform, more than 3 million models, 500,000 datasets, and 1 million applications, and more than 200,000 companies using the hub. NVIDIA said it is the largest contributor of open models and data to Hugging Face, with more than 500 models and more than 250 open datasets released there.",
         "Reuters, reporting the same day, said Nvidia will buy Hugging Face for $12.93 billion and described the consideration as about $11.9 billion to Hugging Face investors plus an equity-based retention program of up to $1 billion for employees who join Nvidia. Stick to the blog’s agreed dollar figure as the company primary; use Reuters only for that split attribution until an SEC filing or joint release prints more."
+      ]
+    },
+    {
+      "id": "ism-services-aug",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Data",
+      "hed": "ISM Services 55.4 in August; prices 72.6, employment 47.8",
+      "dek": "26th straight month of expansion. Business activity 61.7, new orders 60.9. Initial claims 206,000 the same morning.",
+      "date": "Sept. 3, 2026",
+      "source": "Institute for Supply Management",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/august/",
+      "also": [
+        {
+          "label": "DOL weekly claims (Sept. 3 release)",
+          "url": "https://www.dol.gov/ui/data.pdf"
+        },
+        {
+          "label": "ISM July 2026 report (comparison)",
+          "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-1-july-2026-ism-services-pmi-report-302843134.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as this morning’s macro print, off the ISM report itself (10:00 a.m. ET, Sept. 3) and the DOL claims release (8:30 a.m. ET). Stick to ISM’s own numbers: Services PMI 55.4% (+1.3 pts from July’s 54.1%), 26th consecutive month in expansion; Business Activity 61.7% (+2.6); New Orders 60.9% (+3.7); Employment 47.8% (+0.4, second straight month contracting); Supplier Deliveries 51.3% (−1.5, slower deliveries); Prices 72.6% (+2.3), above 70% for the fifth time in six months, 12-month average 68.5%, highest since April 2023; Inventories 56.7%; Backlog 55.6%; New Export Orders 56.3%; Imports 56.3%; twelve industries growing, five contracting. From DOL: initial claims 206,000 for the week ended Aug. 29 (+2,000; prior week revised to 204,000), 4-week average 207,250, continuing claims 1,779,000 for the week ended Aug. 22, insured unemployment rate 1.2%. Do not print a Fed-odds number unless you can source the futures print, and do not pre-write Friday’s payrolls.",
+      "grafs": [
+        "The Institute for Supply Management said on Sept. 3 that its August Services PMI registered 55.4 percent, up 1.3 percentage points from July’s 54.1 percent and the 26th consecutive month of expansion in the services sector. Business Activity rose 2.6 points to 61.7 percent and New Orders rose 3.7 points to 60.9 percent, while the Employment Index contracted for a second straight month at 47.8 percent, a 0.4-point improvement from July’s 47.4 percent.",
+        "Price pressure is the part that matters for the rates desk. The Prices Index registered 72.6 percent, 2.3 points above July, above 70 percent for the fifth time in six months, with the 12-month average up to 68.5 percent — the highest since April 2023. Supplier Deliveries at 51.3 percent marked a 21st straight month of slower deliveries. Inventories jumped to 56.7 percent, Backlog of Orders to 55.6 percent, and both New Export Orders and Imports printed 56.3 percent. Twelve industries reported growth, five contraction.",
+        "Earlier the same morning the Labor Department reported 206,000 initial claims for the week ended Aug. 29, up 2,000 from a revised 204,000, with the four-week average at 207,250. Continuing claims were 1,779,000 for the week ended Aug. 22 and the insured unemployment rate held at 1.2 percent. Firm services activity with a hot prices index and a soft employment index is the awkward combination heading into Friday’s August payrolls report."
+      ]
+    },
+    {
+      "id": "eqt-coller",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Deal",
+      "hed": "EQT closes $3.2B Coller Capital combination; Coller EQT launches",
+      "dek": "Base consideration paid in 80,360,882 shares (~7%); up to $500M contingent to March 2029. AUM €341B; secondaries becomes a fourth segment.",
+      "date": "Aug. 31, 2026",
+      "source": "EQT AB",
+      "url": "https://eqtgroup.com/news/eqt-closes-combination-with-coller-capital-2026-08-31",
+      "also": [
+        {
+          "label": "DealStreetAsia",
+          "url": "https://www.dealstreetasia.com/stories/eqt-coller-capital-493788"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Catch-up file for the PE plate next to jtc-close and atnorth-close: the largest dedicated secondaries platform just moved inside a listed manager. Stick to the EQT release: signed Jan. 22, 2026, completed Aug. 31, 2026; EQT acquires 100% of the Coller management company and the GP entities controlling the funds, plus 10% of carried interest in Coller International Partners IX; base consideration USD 3.2 billion cash- and debt-free, consisting of 80,360,882 EQT ordinary shares (~7% of shares outstanding), with approximately $65 million of the base payable in cash at completion subject to completion-accounts adjustments; contingent consideration of up to USD 500 million on performance in the 12 months to March 2029, with key Coller management (about 64% of the contingent) committed to reinvest net proceeds in EQT shares; EQT entitled to 35% of carried interest in all future Coller closed-ended funds. Coller EQT is reported as a new Secondaries segment alongside Private Capital, Infrastructure and Real Estate. AUM €341 billion (€186 billion fee-generating) as of June 30, 2026, evergreen platform above €10 billion NAV, nine new strategies added. Market context is EQT citing Evercore’s H1 2026 review: secondaries volume above $120 billion in the first half, up nearly 20% year on year. Do not invent fee rates, fund sizes, or a Coller EQT fundraising target beyond the “double FAUM within four years” commitment.",
+      "grafs": [
+        "EQT AB said on Aug. 31 that it completed its combination with Coller Capital, which now operates as Coller EQT and is reported as a new Secondaries business segment alongside Private Capital, Infrastructure and Real Estate. The definitive agreement was announced on Jan. 22, 2026. EQT acquired 100 percent of the Coller Capital management company and the general partner entities controlling its funds, along with 10 percent of the carried interest in the most recent flagship, Coller International Partners IX.",
+        "Terms, per the release: base consideration of $3.2 billion on a cash- and debt-free basis, consisting of 80,360,882 newly issued EQT ordinary shares, about 7 percent of shares outstanding, with roughly $65 million of the base payable in cash at completion subject to customary purchase-price adjustments. Contingent consideration runs to $500 million based on Coller’s performance in the 12 months through March 2029; key Coller management receiving about 64 percent of that contingent amount have committed to reinvest net proceeds in EQT shares. EQT is entitled to invest in 35 percent of the carried interest in all future Coller closed-ended funds.",
+        "The combination lifts EQT’s total assets under management to €341 billion (€186 billion fee-generating) as of June 30, 2026, adds nine strategies across private equity and credit secondaries, and brings a combined evergreen platform above €10 billion in net asset value. Jeremy Coller was appointed Head and CIO of Coller EQT and joins EQT’s Executive Committee; CEO Per Franzén repeated the commitment to double Coller’s fee-generating AUM within four years. EQT cites Evercore’s H1 2026 secondary market review for first-half transaction volume above $120 billion, the strongest first half on record and up nearly 20 percent year on year."
+      ]
+    },
+    {
+      "id": "gemini-38-flash",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Models",
+      "hed": "Google ships Gemini 3.8 Flash and a gated 3.8 Flash Cyber",
+      "dek": "Same intro price as 3.7 — $0.75 / $3.75 per million tokens — but it expires Dec. 31; Jan. 1 list doubles to $1.50 / $7.50. Cyber variant limited to the new Fairwind Program.",
+      "date": "Sept. 2, 2026",
+      "source": "Google (blog.google)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "also": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
+        },
+        {
+          "label": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/09/02/google-launches-two-gemini-3-8-models-with-cutting-edge-reasoning-capabilities/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Third leg of the frontier-model week next to anthropic-fable and openai-astra, and the one with the clearest CFO angle. Stick to Google’s post: Gemini 3.8 Flash and 3.8 Flash Cyber, third Flash release in six weeks; 3.8 Flash at the same introductory price as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, with the footnote that the introductory price expires Dec. 31, 2026 and list moves to $1.50 / $7.50 on Jan. 1, 2027 — that footnote is the story for anyone budgeting 2027 inference. Google says 3.8 Flash “works harder,” taking extra reasoning steps and calling tools iteratively, and may use more tokens at higher effort levels; 3.7 Flash stays supported for efficiency-first workloads. Benchmarks as printed: 54.9% on HLE-Verified, plus claimed leads on DeepSWE v1.1, Vals Finance Agent V2 and Harvey’s Legal Agent Benchmark. For Cyber: frontier-level CyberGym performance, above 70% success on an internal 20-language vulnerability benchmark, CWE-Bench pass@1 of 47.2% versus 47.8% for a leading frontier model at lower cost, Chrome Security reporting 2.6x more correct patches than larger commercial models, Wiz reporting +7.5–9.7% recall at 2.3–5.2x lower cost. Access: consumers via AI Pro/Ultra, enterprises via Gemini Enterprise, developers via AI Studio / Antigravity; Cyber only through the Fairwind Program for governments, critical-infrastructure operators and software maintainers. The 86.2% CyberGym figure and the 650-member Fairwind count come from SiliconANGLE and The Verge, not the Google post — attribute them if used. Pair with fsb-bailey and hiddenlayer-b on the cyber-economics thread.",
+      "grafs": [
+        "Google published Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on Sept. 2, its third Flash release in six weeks and three weeks after 3.7 Flash. Both variants share the same foundational model; Google says the coding and reasoning gains came partly from training in cybersecurity, and that 3.8 Flash “works harder” on complex tasks, executing extra reasoning steps and calling tools iteratively, which can mean more tokens at higher effort levels. Developers who care more about token cost are told to use lower effort levels or stay on 3.7 Flash.",
+        "The pricing line is the one to file. Gemini 3.8 Flash launches at the same introductory price as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens — but the post’s footnote says the introductory price expires Dec. 31, 2026, and that from Jan. 1, 2027 the rate is $1.50 per million input and $7.50 per million output. That is a scheduled doubling of list price on a model whose own design choice is to spend more tokens. Google claims 54.9% on HLE-Verified and leads over 3.7 Flash and other frontier models on DeepSWE v1.1, Vals Finance Agent V2, and Harvey’s Legal Agent Benchmark.",
+        "Gemini 3.8 Flash Cyber is not generally available: it reaches trusted defenders through the new Fairwind Program for government authorities, critical-infrastructure operators and software maintainers. Google reports frontier-level CyberGym performance, a success rate above 70% on an internal benchmark spanning 20 programming languages, and CWE-Bench pass@1 of 47.2% against 47.8% for a leading frontier model at significantly lower cost. Internally, the Chrome Security team is quoted producing 2.6 times more correct patches than much larger commercial models, Wiz reports 7.5–9.7% higher recall on its penetration-testing benchmark at 2.3–5.2 times lower cost, and Google’s Cloud Vulnerability Research team says it found a critical foundational vulnerability in under two hours. SiliconANGLE puts the CyberGym score at 86.2%; The Verge puts Fairwind membership at 650, including CrowdStrike and the Center for Internet Security."
+      ]
+    },
+    {
+      "id": "felix-c",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Fintech",
+      "hed": "Félix raises $200M: $87M a16z-led equity plus a $113M credit line",
+      "dek": "General Catalyst’s Customer Value Fund provides the debt. More than $8B processed, revenue up 2.5x, 11 Latin American corridors. Valuation undisclosed.",
+      "date": "Sept. 1, 2026",
+      "source": "Crunchbase News; FinSMEs",
+      "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
+      "also": [
+        {
+          "label": "FinSMEs",
+          "url": "https://www.finsmes.com/2026/09/felix-pago-receives-200m-in-equity-and-debt-financing.html"
+        },
+        {
+          "label": "FF News",
+          "url": "https://ffnews.com/news/felix-raises-200-million-series-c-to-expand-beyond-remittances-into-ai-powered-f-0d90e987"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "File on the finance plate next to tabapay-ftv as another equity-plus-warehouse structure rather than a straight venture round. Stick to what the reporting supports: $200 million total, split into an $87 million Series C equity round led by Andreessen Horowitz with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners and Endeavor Catalyst, plus a $113 million warehouse credit facility from General Catalyst’s Customer Value Fund. Total raised approaches $300 million since 2020. Company metrics as reported: more than $8 billion in transactions processed, revenue up more than 2.5x in the past year, service from the U.S. into 11 Latin American markets. On valuation, Crunchbase says the company declined to give one and said only that it had “increased threefold” from the 2025 Series B, a $75 million round led by QED — do not print the $1.4B figure circulating on aggregator sites as if the company confirmed it. Product framing is a WhatsApp-native conversational remittance flow moving into lending and savings through third parties, with USDC settlement rails. Not a Guide lead.",
+      "grafs": [
+        "Félix, the Miami-based remittance company that runs inside WhatsApp, announced $200 million in new financing this week. Crunchbase News reports the structure as an $87 million Series C equity round led by Andreessen Horowitz, with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners and Endeavor Catalyst participating, alongside a $113 million debt commitment from General Catalyst’s Customer Value Fund. FinSMEs describes the debt piece as a warehouse credit line. Total capital raised since the 2020 founding is close to $300 million.",
+        "Reported operating metrics: more than $8 billion in transactions processed to date, revenue up more than 2.5 times over the past year, and coverage from the United States into 11 Latin American markets including Mexico, Brazil, Costa Rica, Honduras and Peru. The company did not disclose a post-money valuation, saying only that it had increased threefold since the 2025 Series B, a $75 million round led by QED. Figures of roughly $1.4 billion appearing on aggregator sites are not company-confirmed.",
+        "The use of proceeds is the interesting part for anyone watching consumer fintech balance sheets: the equity funds engineering, AI and compliance, while the credit facility funds a lending book as Félix moves from pure remittances into savings, loans and top-ups delivered through third parties. Settlement runs on USDC and blockchain rails behind the WhatsApp conversation. It is the second equity-plus-facility raise on our finance plate in two days after TabaPay’s $155 million."
       ]
     },
     {
