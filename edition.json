@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 48,
+  "number": 49,
   "city": "New York",
   "date": "Friday, September 4, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~10:05 a.m. ET",
-    "line": "S&P 7,736.09 (−0.15%) · 10-year 4.77% · 30-year 5.23% · SOX 11,729.47 (+3.32%) · NVDA $233.86 (+2.37%)"
+    "updated": "Sep 4, ~12:40 p.m. ET",
+    "line": "S&P 7,723.62 (−0.31%) · 10-year 4.76% · 30-year 5.23% · SOX 11,712.84 (+3.18%) · NVDA $231.49 (+1.33%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "EQT pays $2.0B for McGill; semis tape lifts on the open.",
+    "hed": "Flex $4.4B EPC power deal; SoftBank HAWKS at 4.75%.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 48 Mid-Morning. ADD eqt-mcgill: EQT X definitive agreement to acquire majority stake in McGill and Partners from Warburg Pincus for USD 2.0bn (McGill press release, London, 4 Sept 2026). Warburg exits in full; Steve McGill stays CEO / John Lloyd stays chair with meaningful reinvestment; revenues >$250mn, >600 colleagues, seven countries. Lead remains nvidia-hf. Tape refreshed ~10:05 a.m. ET: SOX +3.32%, NVDA +2.37% vs Thu close; S&P soft. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. Declined AIR Security $50M seed (Sept 1; below plate vs HiddenLayer), Barilla–Goodles (consumer), KKR–Avisena minority (terms undisclosed). X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 49 Midday. ADD flex-epc (Flex IR Sept. 3: definitive $4.4B for EPC Power; CPI; spin still Q1’27; ~$800M 2026 rev). ADD nscale-figure (Nscale PR Sept. 3: $3.5B+ compute to Figure, up to 100k Vera Rubin GPUs, Barstow H2’27). ADD softbank-hawks-terms (SBG Sept. 4: ¥1T at 4.75%; proceeds = domestic redemption + ABB robotics — corrects plate softbank OpenAI dek). Lead remains nvidia-hf. Tape ~12:40 p.m. ET: S&P 7,723.62 (−0.31%) · 10-year 4.76% · 30-year 5.23% · SOX 11,712.84 (+3.18%) · NVDA $231.49 (+1.33%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. Declined ByteDance ~$29.6B loan (people-familiar), Resect AI $25M, Plan A undisclosed tuck-in, sub-$50M seeds. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. August payrolls (+162k, jobless 4.1%) keep labor in the “stable” camp. Nvidia–Hugging Face still guided H1 2027 close. Diversified–Birch (~$1.8B) still Q4 2026. EQT–McGill signed, not closed (no close window in the company release). Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
-    "href": "https://mcgillpartners.com/insights/eqt-to-acquire-mcgill-and-partners-a-leading-specialty-reinsurance-broker-for-usd-2-0-billion-from-warburg-pincus-2"
+    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted. Snowflake 10-Q still unfiled.",
+    "href": "https://investors.flex.com/news/news-details/2026/Flex-to-Acquire-EPC-Power-Adding-Leading-Power-Conversion-Capabilities-for-AI-Data-Centers-and-Grid-Applications/default.aspx"
   },
   "sections": [
     "All",
@@ -59,6 +59,74 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "flex-epc",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Deal",
+      "hed": "Flex to buy EPC Power for $4.4B; 800V AI data-center power",
+      "dek": "Definitive agreement. Into CPI segment; CPI spin still planned Q1’27. EPC ~$800M 2026 rev; close guided Q4’26. Debt+equity funding.",
+      "date": "Sept. 3, 2026",
+      "source": "Flex IR",
+      "url": "https://investors.flex.com/news/news-details/2026/Flex-to-Acquire-EPC-Power-Adding-Leading-Power-Conversion-Capabilities-for-AI-Data-Centers-and-Grid-Applications/default.aspx",
+      "also": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/flex-to-acquire-epc-power-adding-leading-power-conversion-capabilities-for-ai-data-centers-and-grid-applications-302869402.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI infra / power next to vertiv-uig / iren-blue-owl. PRIMARY is Flex IR Sept. 3, 2026: definitive agreement to acquire EPC Power at $4.4B (customary adjustments); close expected Q4 calendar 2026 into Cloud and Power Infrastructure (CPI); CPI spin to independent public company still planned for Q1 calendar 2027. EPC founded 2010, California HQ; 800V data-center architectures; >15 GW deployed / 62 countries; U.S. manufacturing capacity to surpass 30 GW in 2027. Company expects ~$800M revenue calendar 2026, ~40% organic growth 2027, EBITDA margin ~30% in 2027. Financing: combination of debt and equity; committed financing from Citi and Bank of America. Advisors: Evercore (lead) / BofA / Citi / PJT for Flex; Goldman / JPM for EPC; controlling shareholders Goldman Sachs Alternatives and Cleanhill Partners. Do not invent purchase-price splits or close odds.",
+      "grafs": [
+        "Flex (NASDAQ: FLEX) on Sept. 3 said it entered a definitive agreement to acquire EPC Power at a value of $4.4 billion, subject to customary adjustments, with close expected in the fourth quarter of calendar 2026.",
+        "EPC Power will join Flex’s Cloud and Power Infrastructure segment; Flex still plans to separate CPI into an independent publicly traded company in the first calendar quarter of 2027.",
+        "EPC, founded in 2010 and based in California, builds power conversion for data centers and the grid — including next-generation 800V architectures — and is expected to generate about $800 million of revenue in calendar 2026, with roughly 40% organic growth expected in 2027 and EBITDA margin near 30% that year, Flex said.",
+        "Flex said it expects to fund the deal with a combination of debt and equity; Citi and Bank of America are providing committed financing."
+      ]
+    },
+    {
+      "id": "nscale-figure",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Compute",
+      "hed": "Nscale commits $3.5B+ compute to Figure; up to 100k Vera Rubin GPUs",
+      "dek": "Multi-year preferred-compute + equity. Initial GPUs H2’27 Barstow, Texas. Intent to scale past $6B. Company PR Sept. 3.",
+      "date": "Sept. 3, 2026",
+      "source": "Nscale",
+      "url": "https://www.nscale.com/press-releases/nscale-and-figure",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI infra / robotics compute. PRIMARY is Nscale press release London, 3 September 2026: multi-year strategic partnership with Figure; potential to deploy NVIDIA Vera Rubin with up to 100,000 NVIDIA GPUs; initial GPUs targeted H2 2027 in Barstow, Texas; initial commitment of $3.5 billion of compute with intent to scale to over $6 billion; Nscale becomes Figure shareholder and preferred compute provider for Helix models / humanoids. Quotes on PR from Josh Payne (Nscale), Jensen Huang (NVIDIA), Brett Adcock (Figure). Do not invent GPU list prices, equity stake size, or firm orders beyond the PR.",
+      "grafs": [
+        "Nscale on Sept. 3 announced a multi-year strategic partnership with humanoid robotics company Figure that represents the potential to deploy the NVIDIA Vera Rubin platform with up to 100,000 NVIDIA GPUs.",
+        "Initial GPUs are targeted for deployment starting the second half of 2027 in Barstow, Texas, with an initial commitment of $3.5 billion of compute and the intent to scale to over $6 billion, the company said.",
+        "Nscale will become a Figure shareholder and Figure’s preferred compute provider for Helix models and humanoid robots; the parties will also explore scaling Nscale’s supply chain with humanoids."
+      ]
+    },
+    {
+      "id": "softbank-hawks-terms",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Bond",
+      "hed": "SoftBank prices ¥1T HAWKS bond at 4.75%; ABB robotics, not OpenAI",
+      "dek": "70th unsecured straight bond. 7-year to Sept. 16, 2033. Proceeds: redeem domestic bonds + partially fund ABB robotics buy. A JCR.",
+      "date": "Sept. 4, 2026",
+      "source": "SoftBank Group",
+      "url": "https://group.softbank/en/news/press/20260904",
+      "also": [
+        {
+          "label": "Aug. 24 issuance announcement",
+          "url": "https://group.softbank/en/news/press/20260824"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD / CORRECT plate softbank. PRIMARY is SBG “Determination of Terms” Sept. 4, 2026: ¥1 trillion 70th unsecured straight corporate bond (Fukuoka SoftBank HAWKS Bond); coupon 4.75% p.a.; 7-year; maturity Sept. 16, 2033; issue date Sept. 17, 2026; offering Sept. 7–16 mainly to individual investors in Japan; JCR A; use of proceeds = redemption of domestic bonds and partial funding of the acquisition of ABB Ltd’s robotics business — NOT OpenAI. Fixes Mid-Morning softbank dek that still said OpenAI. Owner Quill for the correction package.",
+      "grafs": [
+        "SoftBank Group on Sept. 4 set terms for its ¥1 trillion 70th unsecured straight corporate bond — the Fukuoka SoftBank HAWKS Bond — with a 4.75% annual coupon, seven-year term, and maturity on Sept. 16, 2033.",
+        "Use of proceeds: redemption of domestic bonds and partial funding of the acquisition of ABB Ltd’s robotics business, the company said — not OpenAI commitments.",
+        "Japan public offering mainly to individual investors runs Sept. 7–16, 2026, with issue date Sept. 17; Japan Credit Rating Agency assigned an A rating."
       ]
     },
     {
@@ -2382,17 +2450,17 @@
       "section": "Finance",
       "kicker": "Finance",
       "hed": "SoftBank plans a record ¥1 trillion Japan retail bond",
-      "dek": "7-year. For OpenAI commitments. Indicative coupon 4.3–4.9 percent. Price Sept. 4. Japan Times cites a company filing.",
+      "dek": "7-year Japan retail. Aug 24 plan; indicative 4.3–4.9%. Terms set Sept. 4 at 4.75% — proceeds = domestic redemption + ABB robotics (not OpenAI). See softbank-hawks-terms.",
       "date": "Aug. 24, 2026",
       "source": "The Japan Times",
       "url": "https://www.japantimes.co.jp/business/2026/08/24/companies/softbank-plan-bond-sale/",
       "also": [],
       "owner": "GUIDE",
-      "action": "Map the coupon against the OpenAI commitment: Japan retail cash funding a U.S. lab offtake.",
+      "action": "SUPERSEDED on use of proceeds by softbank-hawks-terms (SBG determination Sept. 4). Keep as plan context only; do not repeat OpenAI as use of proceeds.",
       "grafs": [
-        "SoftBank Group is planning a record ¥1 trillion retail bond sale — about $6.3 billion in The Japan Times conversion — the biggest by any issuer in Japan, to fund investment commitments to OpenAI, the paper reported Monday, citing a company filing.",
-        "The 7-year bonds are expected to be priced on Sept. 4, with an indicative coupon range of 4.3 percent to 4.9 percent, according to the filing.",
-        "The paper put the sale in a week of AI fundraising. The OpenAI commitment is the stated use of proceeds, not a close on the American lab."
+        "SoftBank Group on Aug. 24 announced plans for a record ¥1 trillion retail bond sale — about $6.3 billion in The Japan Times conversion — the biggest by any issuer in Japan, the paper reported, citing a company filing.",
+        "The 7-year bonds were expected to be priced on Sept. 4, with an indicative coupon range of 4.3 percent to 4.9 percent, according to the filing.",
+        "Sept. 4 determination (softbank-hawks-terms): coupon 4.75%; use of proceeds is redemption of domestic bonds and partial funding of the ABB Ltd robotics acquisition — not OpenAI."
       ]
     },
     {
