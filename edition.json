@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 50,
+  "number": 51,
   "city": "New York",
   "date": "Friday, September 4, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~1:56 p.m. ET",
-    "line": "S&P 7,708.97 (−0.50%) · 10-year 4.77% · 30-year 5.24% · SOX 11,665.31 (+2.76%) · NVDA $230.21 (+0.77%)"
+    "updated": "Sep 4, ~4:55 p.m. ET",
+    "line": "S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "KKR–Singtel close STTGDC; EV S$13.8B.",
+    "hed": "Snowflake 10-Q files; closes open watch.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 50 Afternoon. ADD sttgdc-close (catch-up): STTGDC/Singtel Sept. 2 completion — KKR–Singtel close; Built Ready rebrand; ops capacity 780MW (+25% since end-2025); economics from Feb. 4 primary S$6.6B cash / implied EV S$13.8B; KKR ~75% / Singtel ~25%. Lead remains nvidia-hf. Tape Yahoo ~1:56 p.m. ET: S&P 7,708.97 (−0.50%) · 10-year 4.77% · 30-year 5.24% · SOX 11,665.31 (+2.76%) · NVDA $230.21 (+0.77%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. Declined ByteDance ~$29.6B loan (people-familiar), Hivebotics $6M Series A (below bar), NetSPI–Synack merge (terms undisclosed), KKR–Avisena minority (undisclosed), G42 majority talks. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 51 Evening. ADD snow-10q: Snowflake Form 10-Q for quarter ended July 31, 2026 — SEC accepted Sept. 4 at 4:06 p.m. ET (Acc. 0001640147-26-000037). Closes Snowflake 10-Q watch. Lead remains nvidia-hf. Tape Yahoo ~4:55 p.m. ET (after cash close): S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript still unposted. Snowflake 10-Q CLOSED. Declined LB Pharma CFO (below bar), Plan A AI tool buy (undisclosed), Equinix–CPP atNorth close already on plate (atnorth-close). X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). STTGDC closed Sept. 2 under Feb. terms. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted. Snowflake 10-Q still unfiled.",
-    "href": "https://www.media-outreach.com/news/singapore/2026/09/02/484094/kkr-singtel-consortium-completes-acquisition-of-sttgdc-company-launches-refreshed-global-brand-for-next-phase-of-growth/"
+    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). STTGDC closed Sept. 2 under Feb. terms. Snowflake 10-Q now filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
+    "href": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm"
   },
   "sections": [
     "All",
@@ -59,6 +59,39 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "snow-10q",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Filing",
+      "hed": "Snowflake 10-Q: RPO $9.0B; Natoma $128M; Observe $596M",
+      "dek": "Filed Sept. 4 (accepted 4:06 p.m. ET). Product $1.49B matches IR. Cloud AI spend +$190M; $6.0B infra commit. Closes 10-Q watch.",
+      "date": "Sept. 4, 2026",
+      "source": "SEC Form 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm",
+      "also": [
+        {
+          "label": "EDGAR index (Acc. 0001640147-26-000037)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/0001640147-26-000037-index.htm"
+        },
+        {
+          "label": "Q2 FY27 IR release",
+          "url": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx"
+        },
+        {
+          "label": "Plate snow-fq2",
+          "url": "https://investors.snowflake.com/news/news-details/2026/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027/default.aspx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / filings next to snow-fq2 and nvda-10q. PRIMARY is Snowflake Form 10-Q for the quarterly period ended July 31, 2026 — SEC Acc. 0001640147-26-000037, Filing Date 2026-09-04, Accepted 2026-09-04 16:06:23 ET. This CLOSES the Snowflake 10-Q open watch. Keep snow-fq2 IR print for headline numbers; the 10-Q is the audited-interim ledger. Key CFO-readable adds from the filing (do not invent): Product revenue three months ended July 31, 2026 $1,491.9M (matches IR); total revenue $1,546.8M; GAAP net loss attributable to Snowflake $(191.7)M / $(0.55). RPO approximately $9.0B as of July 31, 2026, of which ~54% expected as revenue in the 12 months ending July 31, 2027; weighted-average remaining life of capacity contracts 2.4 years. Cash and cash equivalents $1.707B; convertible senior notes net $2.284B. Business combinations: Observe, Inc. (Feb. 2, 2026) preliminary purchase consideration $595.8M (AI-powered observability); Natoma Labs, Inc. (June 3, 2026) $128.3M (enterprise Model Context Protocol platform for AI agents). Cost of product: third-party cloud infrastructure (incl. AI inference/GPUs) ~75% of cost of product revenue in Q2. Commitments (MDA/notes): amended third-party AI service agreement — additional $190M first contract year, total minimum $390M over three years ending Nov. 2028, remaining minimum $270M as of July 31; April 2026 Amendment to a third-party cloud infrastructure agreement — cumulative minimum spend $6.0B over five years ending March 31, 2031 ($900M–$1.25B per contract year). Shares outstanding 352.8M as of Aug. 21, 2026. Pair with snow-fq2; do not restate FY guide from IR as if newly filed in the 10-Q body.",
+      "grafs": [
+        "Snowflake Inc. filed its Form 10-Q for the quarter ended July 31, 2026 on Sept. 4 — SEC accession 0001640147-26-000037, accepted at 4:06 p.m. ET — closing the open watch for the official quarterly report after the Sept. 2 earnings release.",
+        "The statements match the IR print on the top line: product revenue $1.492 billion and total revenue $1.547 billion for the three months ended July 31, 2026. GAAP net loss attributable to Snowflake was $191.7 million, or $0.55 a share. Remaining performance obligations were approximately $9.0 billion as of July 31, of which the company expects about 54% to be recognized as revenue in the twelve months ending July 31, 2027, with a 2.4-year weighted-average remaining life on capacity contracts.",
+        "The filing puts numbers on two AI-adjacent deals already inside the period: Observe, Inc., acquired Feb. 2 for a preliminary $595.8 million purchase consideration (AI-powered observability), and Natoma Labs, Inc., acquired June 3 for $128.3 million (an enterprise Model Context Protocol platform for AI agents). Cash and cash equivalents were $1.71 billion; convertible senior notes carried at $2.28 billion net.",
+        "On the cost and commitment ledger, third-party cloud infrastructure expenses — including AI inference and GPUs — were about 75% of cost of product revenue in the quarter. Management discloses an amended third-party AI service agreement adding $190 million of minimum spend in the first contract year (total minimum $390 million through November 2028; $270 million remaining at July 31) and an April 2026 cloud-infrastructure amendment with a $6.0 billion cumulative minimum through March 31, 2031."
       ]
     },
     {
