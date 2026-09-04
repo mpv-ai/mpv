@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 52,
+  "number": 53,
   "city": "New York",
   "date": "Friday, September 4, 2026",
-  "editionLabel": "Late",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~5:55 p.m. ET",
+    "updated": "Sep 4, ~6:50 p.m. ET",
     "line": "S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "SoundHound closes LivePerson; Collins in as CFO.",
+    "hed": "Bending Spoons closes Airtable; first post-IPO deal.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 52 Late. ADD soun-lpsn-close: SoundHound Form 8-K Acc. 0001213900-26-097712 — LivePerson merger closed Sept. 4; John Collins named CFO; LivePerson secured notes restructured into SOUN stock + cash; LPSN leaves Nasdaq. Catch-up from earlier evening scan (missed on No. 51). Lead remains nvidia-hf. Tape Yahoo ~5:55 p.m. ET UNCHANGED vs Evening close prints: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B (still people-familiar / no company confirmation); Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript still unposted (event page has webcast only). Snowflake 10-Q CLOSED (No. 51). Declined re-add of anthropic-15b-revolver follow (already on plate); Wonderful/Lyte/EQT-McGill already on plate. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 53 Night. ADD bsp-airtable-close: Bending Spoons Form 6-K Acc. 0002004711-26-000013 (accepted 8:36 a.m. ET) — Airtable (Formagrid) acquisition closed Sept. 4; all-cash 100%; first buy since Nasdaq listing July 1; Aug. 13 outlook still excludes Airtable until next results. Catch-up missed on Nos. 48–52. Signed EV $1.285B / ~$2.25B equity from prior EX-99.1 only — close PR does not restate dollars. Lead remains nvidia-hf. Tape Yahoo ~6:50 p.m. ET UNCHANGED vs Late close prints: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B (people-familiar / no company confirmation); Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript still unposted (event page has webcast only). Snowflake 10-Q CLOSED (No. 51). SoundHound–LivePerson CLOSED (No. 52). Declined Nasdaq–Dasseti close (terms undisclosed), Monaco–Overlayy (undisclosed), iSpecimen–Foldlab ($4.5M below bar), Anthropic public S-1 timing (The Information/Motley Fool — company unconfirmed). X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). SoundHound–LivePerson CLOSED Sept. 4. Snowflake 10-Q filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
-    "href": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026097712/ea0304691-8k_sound.htm"
+    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). SoundHound–LivePerson CLOSED Sept. 4. Bending Spoons–Airtable CLOSED Sept. 4 (6-K). Snowflake 10-Q filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
+    "href": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp-20260904x6k.htm"
   },
   "sections": [
     "All",
@@ -125,6 +125,42 @@
         "Stockholders (other than Tel Aviv Stock Exchange Clearing House shares) receive 0.4673 shares of SoundHound Class A common per LivePerson share; TASE shares convert into $3.31 cash. LivePerson options and warrants were cancelled for no consideration; vested director/other RSUs settled in merger consideration, with remaining RSUs assumed and converted into SoundHound awards.",
         "The board appointed John D. Collins as CFO on close. Collins, 43, was LivePerson’s CFO since February 2020, COO since January 2024, and interim CEO from August 2023 to January 2024. His employment agreement sets a $465,000 base, a 65% target bonus, a $150,000 signing bonus, and sign-on equity roughly 63% time-based RSUs over four years and 37% performance stock units.",
         "Alongside the merger, SoundHound and LivePerson completed the April 21 notes restructuring: First Lien holders took 25.14 million SoundHound shares and about $2.5 million cash, and Second Lien holders 11.75 million shares and about $3.35 million cash, in full satisfaction of LivePerson’s secured notes. The company press release says the combined balance sheet is debt-free after retiring LivePerson’s outstanding debt, and LivePerson common stock will cease trading on Nasdaq."
+      ]
+    },
+    {
+      "id": "bsp-airtable-close",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Close",
+      "hed": "Bending Spoons closes Airtable buy; first post-IPO deal",
+      "dek": "6-K Acc. 0002004711-26-000013. All-cash 100% of Formagrid/Airtable. Signed EV was $1.285B.",
+      "date": "Sept. 4, 2026",
+      "source": "SEC Form 6-K; company IR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp-20260904x6k.htm",
+      "also": [
+        {
+          "label": "EX-99.1 closing press release",
+          "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp_ex99-1.htm"
+        },
+        {
+          "label": "IR newsroom (Sept. 4)",
+          "url": "https://investors.bendingspoons.com/newsroom/bending-spoons-completes-acquisition-of-airtable"
+        },
+        {
+          "label": "Signing EX-99.1 (EV $1.285B / ~$2.25B equity)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000009/bsp_ex99-1.htm"
+        },
+        {
+          "label": "EDGAR index (Acc. 0002004711-26-000013)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/0002004711-26-000013-index.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / closes. PRIMARY is Bending Spoons Form 6-K Acc. 0002004711-26-000013, Filing Date 2026-09-04, Accepted 2026-09-04 08:36:51 ET (bsp-20260904x6k.htm + EX-99.1). Catch-up: filed this morning, missed on Nos. 48–52. Close facts from the 6-K/EX-99.1 only: on Sept. 4, 2026 Bending Spoons completed its previously announced acquisition of all issued and outstanding shares of Formagrid Inc. (d/b/a Airtable); all-cash; first acquisition since Nasdaq listing July 1, 2026; Aug. 13 outlook excluded Airtable and will be updated on next results. Do NOT invent a close-day purchase price — closing EX-99.1 does not restate dollars. Carry signed terms ONLY from the earlier definitive-agreement EX-99.1 (Acc. 0002004711-26-000009): enterprise value $1.285 billion; implied equity value approximately $2.25 billion with Airtable net cash; signing also printed ARR growing over 20% YoY to approximately $480 million as of June 2026 and >500,000 organizations / 80% of Fortune 100. Pair signing terms as also-file color under closed status. Lead remains nvidia-hf.",
+      "grafs": [
+        "Bending Spoons S.p.A. furnished a Form 6-K on Sept. 4 — SEC accession 0002004711-26-000013, accepted at 8:36 a.m. ET — saying it completed its previously announced acquisition of all issued and outstanding shares of Formagrid Inc., which does business as Airtable.",
+        "The attached press release says the deal is all-cash and is Bending Spoons’ first acquisition since its Nasdaq listing on July 1, 2026. Luca Ferrari, chair, co-founder, and CEO, signed the 6-K. The company notes that its Aug. 13, 2026 financial outlook covered only businesses owned as of Aug. 12 and excluded Airtable, which it expects to fold into the next results print.",
+        "Closing materials do not restate a purchase price. The definitive-agreement exhibit from the earlier filing (accession 0002004711-26-000009) valued Airtable at an enterprise value of $1.285 billion, implying equity value of about $2.25 billion once Airtable’s net cash was included, and cited annual recurring revenue growing over 20% year over year to approximately $480 million as of June 2026."
       ]
     },
     {
