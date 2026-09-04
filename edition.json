@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 49,
+  "number": 50,
   "city": "New York",
   "date": "Friday, September 4, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~12:40 p.m. ET",
-    "line": "S&P 7,723.62 (−0.31%) · 10-year 4.76% · 30-year 5.23% · SOX 11,712.84 (+3.18%) · NVDA $231.49 (+1.33%)"
+    "updated": "Sep 4, ~1:56 p.m. ET",
+    "line": "S&P 7,708.97 (−0.50%) · 10-year 4.77% · 30-year 5.24% · SOX 11,665.31 (+2.76%) · NVDA $230.21 (+0.77%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Flex $4.4B EPC power deal; SoftBank HAWKS at 4.75%.",
+    "hed": "KKR–Singtel close STTGDC; EV S$13.8B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 49 Midday. ADD flex-epc (Flex IR Sept. 3: definitive $4.4B for EPC Power; CPI; spin still Q1’27; ~$800M 2026 rev). ADD nscale-figure (Nscale PR Sept. 3: $3.5B+ compute to Figure, up to 100k Vera Rubin GPUs, Barstow H2’27). ADD softbank-hawks-terms (SBG Sept. 4: ¥1T at 4.75%; proceeds = domestic redemption + ABB robotics — corrects plate softbank OpenAI dek). Lead remains nvidia-hf. Tape ~12:40 p.m. ET: S&P 7,723.62 (−0.31%) · 10-year 4.76% · 30-year 5.23% · SOX 11,712.84 (+3.18%) · NVDA $231.49 (+1.33%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. Declined ByteDance ~$29.6B loan (people-familiar), Resect AI $25M, Plan A undisclosed tuck-in, sub-$50M seeds. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 50 Afternoon. ADD sttgdc-close (catch-up): STTGDC/Singtel Sept. 2 completion — KKR–Singtel close; Built Ready rebrand; ops capacity 780MW (+25% since end-2025); economics from Feb. 4 primary S$6.6B cash / implied EV S$13.8B; KKR ~75% / Singtel ~25%. Lead remains nvidia-hf. Tape Yahoo ~1:56 p.m. ET: S&P 7,708.97 (−0.50%) · 10-year 4.77% · 30-year 5.24% · SOX 11,665.31 (+2.76%) · NVDA $230.21 (+0.77%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. Declined ByteDance ~$29.6B loan (people-familiar), Hivebotics $6M Series A (below bar), NetSPI–Synack merge (terms undisclosed), KKR–Avisena minority (undisclosed), G42 majority talks. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted. Snowflake 10-Q still unfiled.",
-    "href": "https://investors.flex.com/news/news-details/2026/Flex-to-Acquire-EPC-Power-Adding-Leading-Power-Conversion-Capabilities-for-AI-Data-Centers-and-Grid-Applications/default.aspx"
+    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). STTGDC closed Sept. 2 under Feb. terms. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted. Snowflake 10-Q still unfiled.",
+    "href": "https://www.media-outreach.com/news/singapore/2026/09/02/484094/kkr-singtel-consortium-completes-acquisition-of-sttgdc-company-launches-refreshed-global-brand-for-next-phase-of-growth/"
   },
   "sections": [
     "All",
@@ -127,6 +127,38 @@
         "SoftBank Group on Sept. 4 set terms for its ¥1 trillion 70th unsecured straight corporate bond — the Fukuoka SoftBank HAWKS Bond — with a 4.75% annual coupon, seven-year term, and maturity on Sept. 16, 2033.",
         "Use of proceeds: redemption of domestic bonds and partial funding of the acquisition of ABB Ltd’s robotics business, the company said — not OpenAI commitments.",
         "Japan public offering mainly to individual investors runs Sept. 7–16, 2026, with issue date Sept. 17; Japan Credit Rating Agency assigned an A rating."
+      ]
+    },
+    {
+      "id": "sttgdc-close",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Close",
+      "hed": "KKR–Singtel close STTGDC buy; EV S$13.8B, ops capacity 780MW",
+      "dek": "S$6.6B cash for remaining ~82%. KKR 75% / Singtel 25%. Built Ready rebrand. Ops +25% to 780MW since end-2025.",
+      "date": "Sept. 2, 2026",
+      "source": "STTGDC; Singtel SGX",
+      "url": "https://www.media-outreach.com/news/singapore/2026/09/02/484094/kkr-singtel-consortium-completes-acquisition-of-sttgdc-company-launches-refreshed-global-brand-for-next-phase-of-growth/",
+      "also": [
+        {
+          "label": "Singtel SGX completion PDF (Sept. 2)",
+          "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/stockExchange/2026/20260902_Ann_STTGDC.pdf"
+        },
+        {
+          "label": "Feb. 4 signing (STTGDC newsroom; S$6.6B / EV S$13.8B)",
+          "url": "https://www.sttelemediagdc.com/newsroom/kkr-led-consortium-to-fully-acquire-stt-gdc-13.8-billion-enterprise-value"
+        },
+        {
+          "label": "Singtel SGX Feb. 4 SPA terms",
+          "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/stockExchange/2026/sgx-20260204.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "CATCH-UP PE/infra close missed while Nvidia–HF dominated the plate. PRIMARY for close is STTGDC/Singtel Sept. 2 completion (Media Outreach + SGX PDF): KKR-led consortium with Singtel completed the acquisition; company keeps STTGDC name; refreshed brand Built Ready; Bruno Lopez remains President/Group CEO; customers/leadership continuity. Operating prints on completion PR (Dec 2025–June 2026 footnote): operational capacity +25% to 780MW; contracted capacity +50%; annualised EBITDA +30%; close to 2GW powered land for under-construction/pipeline. Deal economics from Feb. 4 company/Singtel primaries (not reinvented at close): S$6.6B cash for remaining ~82% from ST Telemedia; implied EV ~S$13.8B (~US$10.9B) including leverage and committed-project capex; on completion KKR ~75% / Singtel ~25% after RPS conversion; Singtel committed S$740M equity into Opal Bidco; Tranche 2 half of consideration by first anniversary or change-of-control. Do not invent MW pipeline beyond the completion PR’s “close to 2GW powered land,” purchase multiple, or AI offtake names. Route Quill; not Guide.",
+      "grafs": [
+        "STTGDC said Sept. 2 that a KKR-led consortium including Singtel completed its acquisition of the company and unveiled a refreshed global brand anchored on “Built Ready,” while retaining the STTGDC name and existing leadership under President and Group CEO Bruno Lopez.",
+        "Operating momentum printed on the completion release: since the end of 2025, operational capacity is up 25% to 780MW, contracted capacity is up 50%, and annualised EBITDA is up 30% for the December 2025–June 2026 period cited in the footnote, with close to 2GW of powered land secured for assets under construction and pipeline development.",
+        "Economics remain those set at signing on Feb. 4: Singtel’s SGX announcement and the STTGDC newsroom release put cash consideration at S$6.6 billion (about US$5.1 billion) for the remaining stake (about 82%), implying an enterprise value of about S$13.8 billion (about US$10.9 billion) including leverage and capex for committed projects. On completion, KKR and Singtel own about 75% and 25% respectively after conversion of existing redeemable preference shares; Singtel committed S$740 million of equity into the Opal Bidco acquisition vehicle."
       ]
     },
     {
