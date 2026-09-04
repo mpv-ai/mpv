@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 47,
+  "number": 48,
   "city": "New York",
   "date": "Friday, September 4, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~8:41 a.m. ET (yields live; equities Thu Sep 3 close)",
-    "line": "S&P 7,747.71 (Thu close, +1.06%) · 10-year 4.79% · 30-year 5.25% · SOX 11,352.13 (Thu close, +0.11%) · NVDA $228.45 (Thu close, +1.80%)"
+    "updated": "Sep 4, ~10:05 a.m. ET",
+    "line": "S&P 7,736.09 (−0.15%) · 10-year 4.77% · 30-year 5.23% · SOX 11,729.47 (+3.32%) · NVDA $233.86 (+2.37%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "August payrolls +162k is the morning print; lead stays Nvidia–Hugging Face.",
+    "hed": "EQT pays $2.0B for McGill; semis tape lifts on the open.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 47 Morning. ADD payrolls-aug: BLS August nonfarm +162,000; unemployment unchanged at 4.1%; AHE +0.3% m/m / +3.1% y/y; June/July revised up a combined +55,000 (CNBC + BLS). ADD gimlet-300 ($300M at $3B, a16z-led, Arm + M12; Bloomberg CEO interview). ADD crusoe-30b (>$3B at ~$30B post; Atreides/Valor + Mubadala; people-familiar, company declined comment). ADD oura-s1 (Form S-1 Sep 3; Nasdaq OURA; nine months to Jun 30: $1,214.5M revenue / $60.8M NI / 5.0M Paid Members). ADD anthropic-15b-revolver (people-familiar $15B RCF ahead of public S-1; MS leads; company declined comment) — does not close MatX/S-1 watch. ADD disclosure-beta (2609.02900), agent-reputation (2609.02992), analyst-prompt (2609.03218). Lead remains nvidia-hf. Tape: equities Thu Sep 3 close; 10y/30y live Fri ~8:41 a.m. ET. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. X MCP still client-not-enrolled — web/gh/BLS browser scan only."
+    "body": "Vol. 1 No. 48 Mid-Morning. ADD eqt-mcgill: EQT X definitive agreement to acquire majority stake in McGill and Partners from Warburg Pincus for USD 2.0bn (McGill press release, London, 4 Sept 2026). Warburg exits in full; Steve McGill stays CEO / John Lloyd stays chair with meaningful reinvestment; revenues >$250mn, >600 colleagues, seven countries. Lead remains nvidia-hf. Tape refreshed ~10:05 a.m. ET: SOX +3.32%, NVDA +2.37% vs Thu close; S&P soft. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. Declined AIR Security $50M seed (Sept 1; below plate vs HiddenLayer), Barilla–Goodles (consumer), KKR–Avisena minority (terms undisclosed). X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — the last major inflation prints before the Sept. 15–16 FOMC. August payrolls (+162k, jobless 4.1%) keep the labor side in the “stable” camp Fed speakers have been describing; focus shifts to prices. Nvidia–Hugging Face still guided H1 2027 close. Diversified–Birch (~$1.8B) still Q4 2026. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom FY27/FY28 AI-revenue call color still waits on an official IR transcript.",
-    "href": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. August payrolls (+162k, jobless 4.1%) keep labor in the “stable” camp. Nvidia–Hugging Face still guided H1 2027 close. Diversified–Birch (~$1.8B) still Q4 2026. EQT–McGill signed, not closed (no close window in the company release). Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
+    "href": "https://mcgillpartners.com/insights/eqt-to-acquire-mcgill-and-partners-a-leading-specialty-reinsurance-broker-for-usd-2-0-billion-from-warburg-pincus-2"
   },
   "sections": [
     "All",
@@ -83,6 +83,34 @@
         "Total nonfarm payroll employment increased by 162,000 in August, and the unemployment rate was unchanged at 4.1 percent, the U.S. Bureau of Labor Statistics reported today. Employment increased in food services and drinking places and in local government education. The information industry lost jobs. Average hourly earnings rose 0.3 percent on the month and 3.1 percent over the year.",
         "The print blew through the Dow Jones consensus of about 53,000 that CNBC’s Jeff Cox cited at 8:31 a.m. ET, and it was the strongest monthly gain since March. Prior months were revised higher: July swung to a gain of 21,000 from a previously reported loss of 23,000, and June was revised up to +31,000 from +20,000 — a combined +55,000. CNBC’s industry detail had restaurants and bars at +59,000, government education at +42,000, manufacturing at +16,000, and health care at only +13,000 against a 12-month average of 32,000, with information down 23,000.",
         "The household survey that feeds the jobless rate showed employment up 569,000 and the labor force up 683,000, with participation rising 0.2 percentage point even as the unemployment rate held. An alternate underutilization measure that includes discouraged and involuntary part-time workers fell 0.2 point to 7.7 percent, its lowest since June 2025, per CNBC. Into a week that still has CPI and PPI before the Sept. 15–16 FOMC, the labor side of the debate looks closer to the “stable” frame Fed speakers have been using than to a soft-landing scare."
+      ]
+    },
+    {
+      "id": "eqt-mcgill",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Insurance",
+      "hed": "EQT X buys majority of McGill and Partners for $2.0B",
+      "dek": "Warburg Pincus full exit. McGill stays CEO; Lloyd stays chair. Revenues >$250M; 600+ colleagues; seven countries. Signed, not closed.",
+      "date": "Sept. 4, 2026",
+      "source": "McGill and Partners",
+      "url": "https://mcgillpartners.com/insights/eqt-to-acquire-mcgill-and-partners-a-leading-specialty-reinsurance-broker-for-usd-2-0-billion-from-warburg-pincus-2",
+      "also": [
+        {
+          "label": "Reinsurance News",
+          "url": "https://www.reinsurancene.ws/eqt-agrees-to-acquire-majority-stake-in-mcgill-and-partners-for-2bn-from-warburg-pincus/"
+        },
+        {
+          "label": "Insurance Business",
+          "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/eqt-lands-2-billion-swoop-for-mcgill-and-partners-as-private-equitys-insurance-spree-rolls-on-588728.aspx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE next to aon-usi / eqt-coller. PRIMARY is McGill and Partners press release dated London, 4 September 2026 (https://mcgillpartners.com/insights/eqt-to-acquire-mcgill-and-partners-a-leading-specialty-reinsurance-broker-for-usd-2-0-billion-from-warburg-pincus-2). Hard terms from that release only: EQT X entered a definitive agreement to acquire a majority stake in McGill and Partners from Warburg Pincus for USD 2.0bn; Warburg Pincus will sell its equity stake in full; Founder/CEO Steve McGill continues to lead; Chairman John Lloyd remains actively involved; both remain significant shareholders alongside the wider colleague base; management/colleagues re-invest and retain a meaningful ownership stake; EQT commits to a new Equity Participation Plan; all colleagues financially benefit via the firm’s all-employee ownership structure. Scale color (PR): founded May 2019 with Warburg cornerstone; revenues in excess of $250mn; more than 600 colleagues across seven countries; over 1,000 insurance and reinsurance clients. Advisors (PR): McGill advised by Evercore, Perella Weinberg, Freshfields and Unity Advisory; management by Mayer Brown and Liberty Corporate Finance; EQT advised by Ardea Partners (exclusive financial) and Clifford Chance (legal). Do NOT invent a close window, EBITDA multiple, or EV/EBITDA — the company release does not print one. Insurance Business color on H1 2025 organic growth / adj. EBITDA is secondary and optional; do not promote it above the PR. Frame beside aon-usi (KKR→Aon USI) as another PE insurance-distribution mark. Signed, not closed.",
+      "grafs": [
+        "EQT X has entered a definitive agreement to acquire a majority stake in McGill and Partners from Warburg Pincus for USD 2.0 billion, McGill and Partners said in a London press release dated Sept. 4, 2026. Warburg Pincus will sell its equity stake in full. Founder and chief executive Steve McGill will continue to lead the firm, and chairman John Lloyd will remain actively involved; both stay as significant shareholders alongside the wider colleague base, with management and colleagues reinvesting for a meaningful ownership stake under EQT.",
+        "The firm was founded in May 2019 with Warburg as cornerstone backer. On McGill’s own print, seven years of organic growth have produced revenues in excess of $250 million, more than 600 colleagues across seven countries, and more than 1,000 insurance and reinsurance clients. EQT says it will back accelerated organic growth — talent, technology and data, and digital solutions — while keeping the independent model. The Swedish firm is also committing to a new Equity Participation Plan so every colleague can share in further upside.",
+        "Read it next to Aon’s agreed purchase of USI from KKR already on the plate: another PE exit from insurance distribution at a full-cycle mark. Advisers on the McGill side were Evercore, Perella Weinberg, Freshfields and Unity Advisory; EQT used Ardea Partners and Clifford Chance. The company release does not name a close date — signed, not closed."
       ]
     },
     {
