@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 46,
+  "number": 47,
   "city": "New York",
-  "date": "Thursday, September 3, 2026",
-  "editionLabel": "Late Afternoon",
+  "date": "Friday, September 4, 2026",
+  "editionLabel": "Morning",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 3, 3:46 p.m. ET (regular hours)",
-    "line": "S&P 7,750.21 (+1.09%) · 10-year 4.76% · 30-year 5.24% · SOX 11,343.35 (+0.04%) · NVDA $229.12 (+2.10%)"
+    "updated": "Sep 4, ~8:41 a.m. ET (yields live; equities Thu Sep 3 close)",
+    "line": "S&P 7,747.71 (Thu close, +1.06%) · 10-year 4.79% · 30-year 5.25% · SOX 11,352.13 (Thu close, +0.11%) · NVDA $228.45 (Thu close, +1.80%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Diversified–Birch is the afternoon add; lead stays Nvidia–Hugging Face.",
+    "hed": "August payrolls +162k is the morning print; lead stays Nvidia–Hugging Face.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 46 Late Afternoon. ADD diversified-birch: Diversified Energy definitive agreements to acquire Birch Permian Holdings and affiliates from Elliott affiliates for ~$1.8B; funded primarily by a ~$1.5B Carlyle ABS plus RCF; partnership expanded from a $2B framework to up to $10B of PDP deals, subject to mutual agreement; Q4 2026 close target; $50M break fee. Company IR (Sept. 2, 7:26 p.m. ET) plus Form 8-K dated Sept. 3 (Item 7.01 furnished). Lead remains nvidia-hf. Tape Yahoo 3:46 p.m. ET: S&P 7,750.21 (+1.09%), 10-year 4.76%, 30-year 5.24%, SOX 11,343.35 (+0.04%), NVDA $229.12 (+2.10%). Open watches still OPEN: Bloomberg >15% early-2027 server-price hikes; Anthropic–Lambda $35B (still single-sourced); Anthropic–MatX/S-1; DeepSeek $74B. Broadcom FY27 ~$115B / FY28 ~$230B AI-chip call color still held for an official IR transcript (Q3 2026 packet not yet on the quarterly-results page; third-party transcripts exist). Moonshot HK IPO and ByteDance Ulanqab remain UNCONFIRMED on the plate. Declined this hour: Vista–Allvue sale talks (Aug. 21, still sources); Thursday q-fin overlap (AQuA, AutoScientist-Quant) below the plate bar. X MCP still client-not-enrolled — web/gh scan only."
+    "body": "Vol. 1 No. 47 Morning. ADD payrolls-aug: BLS August nonfarm +162,000; unemployment unchanged at 4.1%; AHE +0.3% m/m / +3.1% y/y; June/July revised up a combined +55,000 (CNBC + BLS). ADD gimlet-300 ($300M at $3B, a16z-led, Arm + M12; Bloomberg CEO interview). ADD crusoe-30b (>$3B at ~$30B post; Atreides/Valor + Mubadala; people-familiar, company declined comment). ADD oura-s1 (Form S-1 Sep 3; Nasdaq OURA; nine months to Jun 30: $1,214.5M revenue / $60.8M NI / 5.0M Paid Members). ADD anthropic-15b-revolver (people-familiar $15B RCF ahead of public S-1; MS leads; company declined comment) — does not close MatX/S-1 watch. ADD disclosure-beta (2609.02900), agent-reputation (2609.02992), analyst-prompt (2609.03218). Lead remains nvidia-hf. Tape: equities Thu Sep 3 close; 10y/30y live Fri ~8:41 a.m. ET. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript; Snowflake 10-Q. X MCP still client-not-enrolled — web/gh/BLS browser scan only."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "August nonfarm payrolls Friday, Sept. 4 (8:30 a.m. ET), then CPI and PPI next week — the only major inflation prints before the Sept. 15–16 FOMC. Diversified–Birch (~$1.8B) is signed, not closed; Q4 2026 target. Nvidia–Hugging Face now has an H1 2027 close guide in the 8-K; regulatory path still the live risk. Moonshot’s Hong Kong filing remains confidential and unconfirmed. ByteDance’s 5–6 GW Ulanqab plan is single-sourced. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. Anthropic–MatX still held. DeepSeek $74B still unconfirmed. Broadcom’s FY27/FY28 AI-revenue call color still waits on an official IR transcript.",
+    "line": "CPI and PPI next week — the last major inflation prints before the Sept. 15–16 FOMC. August payrolls (+162k, jobless 4.1%) keep the labor side in the “stable” camp Fed speakers have been describing; focus shifts to prices. Nvidia–Hugging Face still guided H1 2027 close. Diversified–Birch (~$1.8B) still Q4 2026. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom FY27/FY28 AI-revenue call color still waits on an official IR transcript.",
     "href": "https://www.bls.gov/news.release/empsit.nr0.htm"
   },
   "sections": [
@@ -59,6 +59,191 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "payrolls-aug",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Employment",
+      "hed": "August payrolls jump 162,000; jobless rate holds 4.1%",
+      "dek": "Blowout vs ~53k Dow Jones consensus. June/July revised up a combined 55,000. AHE +0.3% m/m, +3.1% y/y.",
+      "date": "Sept. 4, 2026",
+      "source": "U.S. Bureau of Labor Statistics; CNBC",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "also": [
+        {
+          "label": "CNBC (Jeff Cox, 8:31 a.m. ET)",
+          "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Morning Markets companion under the nvidia-hf lead. Primary is BLS Employment Situation for August 2026 (https://www.bls.gov/news.release/empsit.nr0.htm). Hard prints: total nonfarm +162,000 SA; unemployment unchanged at 4.1%; average hourly earnings +0.3% month-over-month and +3.1% year-over-year. Revisions: June from +20,000 to +31,000; July from −23,000 to +21,000 (combined +55,000). BLS lede industries: food services and drinking places and local government education up; information lost jobs. CNBC (Jeff Cox, 8:31 a.m. ET) adds color: Dow Jones consensus was ~53,000; strongest monthly gain since March; restaurants/bars +59,000, government education +42,000, manufacturing +16,000, health care only +13,000 vs 12-month average 32,000; information −23,000. Household survey: employment +569,000; labor force +683,000; participation +0.2 ppt; U-6 7.7% (−0.2 ppt). Frame vs Waller “hold” / Warsh hawk split already on the plate — this print supports the “stable labor, watch inflation” path into next week’s CPI/PPI and Sept. 15–16 FOMC. Do not invent Fed reaction beyond what CNBC printed (futures mostly lower; short-end yields up).",
+      "grafs": [
+        "Total nonfarm payroll employment increased by 162,000 in August, and the unemployment rate was unchanged at 4.1 percent, the U.S. Bureau of Labor Statistics reported today. Employment increased in food services and drinking places and in local government education. The information industry lost jobs. Average hourly earnings rose 0.3 percent on the month and 3.1 percent over the year.",
+        "The print blew through the Dow Jones consensus of about 53,000 that CNBC’s Jeff Cox cited at 8:31 a.m. ET, and it was the strongest monthly gain since March. Prior months were revised higher: July swung to a gain of 21,000 from a previously reported loss of 23,000, and June was revised up to +31,000 from +20,000 — a combined +55,000. CNBC’s industry detail had restaurants and bars at +59,000, government education at +42,000, manufacturing at +16,000, and health care at only +13,000 against a 12-month average of 32,000, with information down 23,000.",
+        "The household survey that feeds the jobless rate showed employment up 569,000 and the labor force up 683,000, with participation rising 0.2 percentage point even as the unemployment rate held. An alternate underutilization measure that includes discouraged and involuntary part-time workers fell 0.2 point to 7.7 percent, its lowest since June 2025, per CNBC. Into a week that still has CPI and PPI before the Sept. 15–16 FOMC, the labor side of the debate looks closer to the “stable” frame Fed speakers have been using than to a soft-landing scare."
+      ]
+    },
+    {
+      "id": "gimlet-300",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Gimlet Labs raises $300M at $3B; a16z leads, Arm and M12 join",
+      "dek": "CEO Zain Asgar interview with Bloomberg. Multi-silicon inference orchestration; Arm collaboration on chip compatibility.",
+      "date": "Sept. 3, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
+      "also": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/andreessen-backed-gimlet-labs-hits-3b-valuation-with-300m-round-as-ai-goes-multi-chip/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as AI-infra multi-silicon funding next to plate neocloud/infra names. Stick to Bloomberg-visible facts from Dina Bass (Sept. 3, 11:08 p.m. EDT): $300 million round; $3 billion valuation; led by Andreessen Horowitz; new backers Arm Holdings and M12 (Microsoft’s venture fund); CEO Zain Asgar said in an interview; company helps divide AI tasks among different chip types; collaborating with Arm on software compatibility with Arm chip technology. TFN is corroboration only (prior $12M seed / $80M Menlo Series A) — do not invent revenue or customer counts. No company PR located for this round; Bloomberg/CEO interview is the primary.",
+      "grafs": [
+        "Gimlet Labs, a startup that helps customers divide artificial intelligence tasks between multiple types of chips, raised $300 million in a new round that brought the company’s valuation to $3 billion, Bloomberg’s Dina Bass reported late Sept. 3. The fundraising was led by Andreessen Horowitz and includes investment from new backers Arm Holdings and M12, Microsoft’s venture fund, Gimlet chief executive Zain Asgar said in an interview.",
+        "Asgar also told Bloomberg the startup is collaborating with Arm to make its software compatible with various forms of that company’s chip technology. The product thesis is multi-silicon orchestration — routing different stages of an AI workload onto GPUs, CPUs, or specialized accelerators rather than locking a stack to one vendor’s silicon.",
+        "Read it next to the a16z Machine Age / infrastructure push already on the plate and against neocloud fundraising marks like Crusoe. This is a software-layer bet on heterogeneous inference, not a new chip design house, and the Arm and M12 participation is the strategic tell in the syndicate."
+      ]
+    },
+    {
+      "id": "crusoe-30b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Crusoe said to raise over $3B at ~$30B; Atreides, Valor, Mubadala",
+      "dek": "Bloomberg people-familiar; Crusoe declined comment. Post-money ~$30B / pre ~$27B. Same thread: ~$13B Jane Street cloud.",
+      "date": "Sept. 3, 2026",
+      "source": "Bloomberg via The Edge; Bloomberg Law; TechCrunch",
+      "url": "https://theedgemalaysia.com/node/816837",
+      "also": [
+        {
+          "label": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/private-equity/crusoe-raises-over-3-billion-in-round-at-30-billion-valuation"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "UNCONFIRMED BY COMPANY — label every graf. People familiar told Bloomberg Crusoe raised over $3 billion at roughly $30 billion post-money (~$27 billion pre); Atreides Management and Valor Equity Partners co-led; Mubadala Capital participating; round finalized. Crusoe and Mubadala Capital declined to comment; Atreides and Valor did not respond (Edge Malaysia relay of Bloomberg). Same Bloomberg thread: ~$13 billion five-year Jane Street GPU/cloud contract as fundraising catalyst — also people-familiar, not a company PR. No Crusoe newsroom release for this equity round found. Do not treat as signed S-1 or close any open Anthropic/DeepSeek watch. Customers named in the Bloomberg frame: OpenAI, Microsoft, Meta. Keep next to lambda-debt / iren-blue-owl as neocloud capital marks.",
+      "grafs": [
+        "Crusoe, the cloud-computing provider and data-center developer that works with OpenAI, Microsoft and Meta, has raised over $3 billion in a funding round that values the startup at roughly $30 billion, according to people familiar with the situation, Bloomberg reported. Atreides Management and Valor Equity Partners co-led the round, which has been finalized, the people said; Mubadala Capital is also participating.",
+        "The $30 billion figure is post-money; pre-money was roughly $27 billion, the same people said. Crusoe and Mubadala Capital declined to comment, and Atreides and Valor did not respond to requests for comment, per The Edge’s Bloomberg relay. There is no company press release for this round — treat it as single-channel people-familiar sourcing until Crusoe prints it.",
+        "Bloomberg also reported that Crusoe recently secured a roughly $13 billion, five-year deal to supply AI cloud capacity to Jane Street, which people familiar said helped attract interest in the raise. That contract, like the equity round, is still in the people-familiar column. The mark is a 3× step-up from the October 2025 Series E frame at more than $10 billion that still sits on Crusoe’s public equity history."
+      ]
+    },
+    {
+      "id": "oura-s1",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "IPO",
+      "hed": "Oura files S-1 for Nasdaq ‘OURA’; $1.21B revenue in nine months",
+      "dek": "Nine months ended June 30, 2026: $1,214.5M revenue, $60.8M NI, 5.0M Paid Members. Fiscal year ends Sept. 30. Share count/price blank.",
+      "date": "Sept. 3, 2026",
+      "source": "SEC Form S-1; BusinessWire",
+      "url": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526381855/d119865ds1.htm",
+      "also": [
+        {
+          "label": "BusinessWire company PR",
+          "url": "https://www.businesswire.com/news/home/20260903685494/en/"
+        },
+        {
+          "label": "EDGAR index 0001193125-26-381855",
+          "url": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526381855/0001193125-26-381855-index.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "Package as consumer-health S-1 / proposed IPO, not a priced deal. Primary: Form S-1 filed Sept. 3, 2026 (accession 0001193125-26-381855, CIK 0002133022). Cover: applied to list Nasdaq under ‘OURA’; fiscal year ends September 30. Nine months ended June 30, 2026: revenue $1,214.5 million; net income $60.8 million; 5.0 million Paid Members as of June 30, 2026. Fiscal comparison on filing: revenue $406.8M (FY2024) to $907.9M (FY2025); NI $3.6M and $0.01M in FY2024 and FY2025. DO NOT print Business Insider’s “$1.4B rev / $59M NI year ended June” mash as the S-1 table — that is secondary framing, not the summary period. Underwriters from company PR / cover: GS, MS, JPM, Allen, Jefferies as joint lead bookrunners; BofA, Barclays, Wells as joint bookrunners; others listed. Share count and price range not yet determined. Pair lightly with disclosure-beta (thin-history beta theory) as a desk aside, not a forced package.",
+      "grafs": [
+        "Oura Inc. filed a Form S-1 with the SEC on Sept. 3, 2026 for a proposed initial public offering of common stock and has applied to list on the Nasdaq Global Select Market under the symbol “OURA.” The number of shares and the price range have not yet been determined. The company’s fiscal year ends on September 30.",
+        "For the nine months ended June 30, 2026, the S-1 prints revenue of $1,214.5 million and net income of $60.8 million, with 5.0 million Paid Members as of that date. Fiscal-year revenue rose from $406.8 million in fiscal 2024 to $907.9 million in fiscal 2025; net income was $3.6 million and $0.01 million in those two years, respectively.",
+        "Goldman Sachs, Morgan Stanley, J.P. Morgan, Allen & Company and Jefferies are listed among the joint lead book-running managers on the company announcement, with a long additional bookrunner slate. This is a registration, not a priced IPO — carry it as an S-1 open, and keep secondary “year ended June” revenue mashups out of the hed."
+      ]
+    },
+    {
+      "id": "anthropic-15b-revolver",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Pre-IPO",
+      "hed": "Anthropic near $15B revolver ahead of public S-1",
+      "dek": "Bloomberg people-familiar; Morgan Stanley leads. GS, JPM, Citi prominent. Company declined comment. Not a prospectus.",
+      "date": "Sept. 3, 2026",
+      "source": "Bloomberg via The Edge",
+      "url": "https://theedgemalaysia.com/node/816841",
+      "also": [
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/anthropic-nears-finalizing-15-billion-pre-ipo-credit-facility"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "People-familiar capital-structure item — label clearly; does NOT close the Anthropic–MatX / public S-1 watch. Bloomberg via Edge: Anthropic set to finalize expansion of revolving credit facility to $15 billion; Morgan Stanley leading; Goldman Sachs, JPMorgan, Citigroup also prominent (same four reported as IPO leads). Exceeds ~$10 billion August target; substantially larger than prior ~$2.5 billion five-year facility. Details can still change. Anthropic and named banks declined comment. Do not invent S-1 timing beyond “ahead of public filing” / post–Labor Day color already on the watch list. Revenue run-rate “>$65B annualized” in the Edge relay is Bloomberg people-familiar — attribute carefully or omit if you cannot re-verify.",
+      "grafs": [
+        "Anthropic is set to finalize an expansion of its revolving credit facility to $15 billion, according to people familiar with the matter, clearing a hurdle before a public IPO filing, Bloomberg reported. Morgan Stanley is leading the process; Goldman Sachs, JPMorgan and Citigroup also have prominent roles on the facility, the people said — the same four banks Bloomberg has reported as leading the IPO.",
+        "The facility would exceed the company’s roughly $10 billion target Bloomberg reported in August, and it is substantially larger than the $2.5 billion five-year revolver Anthropic secured last year. Details of the loan could still change; representatives for Anthropic and several named banks declined to comment, per The Edge’s Bloomberg relay.",
+        "Treat this as pre-IPO balance-sheet plumbing, not as the public S-1. The Anthropic–MatX / public prospectus watch stays OPEN until a registration statement is on EDGAR. The useful CFO frame is the revolver-as-IPO-bank-alignment pattern Bloomberg sketches against SpaceX’s pre-deal facility expansion."
+      ]
+    },
+    {
+      "id": "disclosure-beta",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Research",
+      "hed": "DisclosureBeta: LLM noise in the IPO / thin-history beta",
+      "dek": "Wong (arXiv 2609.02900): measurement-channel theory for regime-conditioned FF5 betas from risk disclosures. Empirical companion forthcoming.",
+      "date": "Sept. 4, 2026",
+      "source": "arXiv 2609.02900",
+      "url": "https://arxiv.org/abs/2609.02900",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Research note. Theory preprint only — author states empirical evaluation on a pre-registered panel is forthcoming. Frame: when price history is too short (S-1 filer, recent listing, post-regime-break), peer betas have no error budget; this paper models the LLM as a noisy measurement channel on latent risk characteristics and puts disclosure noise into the asset-pricing error budget. Piecewise-stationary FF5; proves identification/consistency; matching lower bound; adaptive convex combination of text beta and rolling window. Natural desk aside next to oura-s1. Do not claim out-of-sample performance numbers — none are in this preprint.",
+      "grafs": [
+        "Ping Kuen Wong’s arXiv preprint DisclosureBeta (2609.02900) attacks the beta a desk needs when a firm’s price history is too short to trust — an S-1 filer, a recent listing, or a name just past a regime break. The usual fallback is a comparable-firm peer beta with no error budget; Wong models a large language model as a noisy measurement channel on latent risk characteristics and writes that channel noise into the asset-pricing error budget.",
+        "In a piecewise-stationary Fama-French five-factor setup, loadings are a function of those latent characteristics and an inferred regime. The paper proves identification and consistency under explicit assumptions on the channel, the detector, and within-regime sampling, and gives a matching lower bound showing disclosure-noise and detector-misclassification terms are unavoidable for any estimator that only sees returns, factors, LLM features, and a regime estimate.",
+        "An adaptive blend of the text-based estimator and a rolling-window estimator is never worse than either component and shifts weight toward text when history is short, stale, or straddles a detected regime break. The empirical evaluation is explicitly forthcoming — this drop is theory and a pre-registered design, which is why it belongs on the plate next to a live S-1 like Oura rather than as a backtest brag."
+      ]
+    },
+    {
+      "id": "agent-reputation",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research",
+      "hed": "Tempting the Agent: reputation without persistent identity",
+      "dek": "Gatta, Naviglio, Tarantelli (arXiv 2609.02992). When identity resets are cheap, reputational capital becomes a one-shot extraction target.",
+      "date": "Sept. 4, 2026",
+      "source": "arXiv 2609.02992",
+      "url": "https://arxiv.org/abs/2609.02992",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Research note for the AI-agent markets beat. Dynamic model: reputation as capital that attracts future demand; agent chooses honest quality vs one-shot deviation that extracts reputation value and restarts from a penalized identity. Comparative statics on identity-reset costs, reputation persistence, demand sensitivity, enforcement. Blockchain AI-agent markets are the motivating application in the abstract. Keep it tight — theory frame for why KYC/reputation copy-paste fails for agents; do not invent empirical magnitudes beyond the paper.",
+      "grafs": [
+        "Federico Gatta, Manuel Naviglio and Francesco Tarantelli’s arXiv preprint Tempting the Agent (2609.02992) asks when reputation is enough to discipline autonomous agents. Reputation is modeled as intertemporal economic capital that attracts future demand — but only if the identity it attaches to cannot be abandoned and recreated on the cheap.",
+        "In the dynamic framework, an agent at each point chooses between operating honestly, investing in quality to preserve future gains, or executing a one-shot deviation that extracts the value of its reputation and restarts from a penalized identity. Comparative statics tie the temptation to identity-reset costs, reputation persistence, demand sensitivity, and enforcement design.",
+        "The motivating application is autonomous AI agents operating on-chain, where cheap new identities make reputational capital itself an object of opportunistic exploitation. For a desk watching agent marketplaces and “Know Your Agent” regimes, the paper is the economic reason ex-post reputation scores can fail even when the score formula looks fine."
+      ]
+    },
+    {
+      "id": "analyst-prompt",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research",
+      "hed": "The Analyst in the Prompt: role bias beats retrieval bias",
+      "dek": "Asaad et al. (arXiv 2609.03218). 3,575 SEC filings, 12 LLMs. Most spillover is interpretation under roles, not different evidence.",
+      "date": "Sept. 4, 2026",
+      "source": "arXiv 2609.03218",
+      "url": "https://arxiv.org/abs/2609.03218",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Research note on LLM financial-analysis governance. Hard design: 3,575 SEC filings across twelve LLMs; compare persona-conditioned retrieval, neutral retrieval, and memory-framed context to separate evidence selection from interpretation. Finding: most user-context spillover comes from how models interpret the same evidence under different roles, not from retrieving different evidence. Mitigations tested: express investor mindset as user profile instead of assistant role; separate evidence-based and personalized outputs — both reduce spillover, neither eliminates it, effectiveness varies across models. Package as a compliance/research-ops item for any desk using LLM “analyst” prompts on filings.",
+      "grafs": [
+        "Ahmed Asaad, Amr Mohamed, Yang Zhang and Omneya Abdelsalam test how user context — memory, profiles, role prompts — changes evidence-based judgment in LLM financial analysis (arXiv 2609.03218). The experiment runs across 3,575 SEC filings and twelve models, comparing persona-conditioned retrieval, neutral retrieval, and memory-framed context so evidence selection can be separated from interpretation.",
+        "The main result is uncomfortable for “act as a buy-side analyst” prompts: most user-context spillover comes from how models interpret the same evidence under different roles, rather than from retrieving different evidence. Same filing, different persona, different conclusion.",
+        "Two simple mitigations helped but did not finish the job — expressing the same investor mindset as a user profile instead of an assistant role, and separating evidence-based outputs from personalized ones. Both reduced spillover; neither removed it completely; effectiveness varied substantially across models. That is the usable compliance takeaway for anyone routing filings through an LLM analyst stack."
       ]
     },
     {
