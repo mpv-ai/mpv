@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 51,
+  "number": 52,
   "city": "New York",
   "date": "Friday, September 4, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late",
   "tape": {
     "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~4:55 p.m. ET",
+    "updated": "Sep 4, ~5:55 p.m. ET",
     "line": "S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Snowflake 10-Q files; closes open watch.",
+    "hed": "SoundHound closes LivePerson; Collins in as CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 51 Evening. ADD snow-10q: Snowflake Form 10-Q for quarter ended July 31, 2026 — SEC accepted Sept. 4 at 4:06 p.m. ET (Acc. 0001640147-26-000037). Closes Snowflake 10-Q watch. Lead remains nvidia-hf. Tape Yahoo ~4:55 p.m. ET (after cash close): S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript still unposted. Snowflake 10-Q CLOSED. Declined LB Pharma CFO (below bar), Plan A AI tool buy (undisclosed), Equinix–CPP atNorth close already on plate (atnorth-close). X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 52 Late. ADD soun-lpsn-close: SoundHound Form 8-K Acc. 0001213900-26-097712 — LivePerson merger closed Sept. 4; John Collins named CFO; LivePerson secured notes restructured into SOUN stock + cash; LPSN leaves Nasdaq. Catch-up from earlier evening scan (missed on No. 51). Lead remains nvidia-hf. Tape Yahoo ~5:55 p.m. ET UNCHANGED vs Evening close prints: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B (still people-familiar / no company confirmation); Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript still unposted (event page has webcast only). Snowflake 10-Q CLOSED (No. 51). Declined re-add of anthropic-15b-revolver follow (already on plate); Wonderful/Lyte/EQT-McGill already on plate. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). STTGDC closed Sept. 2 under Feb. terms. Snowflake 10-Q now filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
-    "href": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm"
+    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). SoundHound–LivePerson CLOSED Sept. 4. Snowflake 10-Q filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
+    "href": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026097712/ea0304691-8k_sound.htm"
   },
   "sections": [
     "All",
@@ -92,6 +92,39 @@
         "The statements match the IR print on the top line: product revenue $1.492 billion and total revenue $1.547 billion for the three months ended July 31, 2026. GAAP net loss attributable to Snowflake was $191.7 million, or $0.55 a share. Remaining performance obligations were approximately $9.0 billion as of July 31, of which the company expects about 54% to be recognized as revenue in the twelve months ending July 31, 2027, with a 2.4-year weighted-average remaining life on capacity contracts.",
         "The filing puts numbers on two AI-adjacent deals already inside the period: Observe, Inc., acquired Feb. 2 for a preliminary $595.8 million purchase consideration (AI-powered observability), and Natoma Labs, Inc., acquired June 3 for $128.3 million (an enterprise Model Context Protocol platform for AI agents). Cash and cash equivalents were $1.71 billion; convertible senior notes carried at $2.28 billion net.",
         "On the cost and commitment ledger, third-party cloud infrastructure expenses — including AI inference and GPUs — were about 75% of cost of product revenue in the quarter. Management discloses an amended third-party AI service agreement adding $190 million of minimum spend in the first contract year (total minimum $390 million through November 2028; $270 million remaining at July 31) and an April 2026 cloud-infrastructure amendment with a $6.0 billion cumulative minimum through March 31, 2031."
+      ]
+    },
+    {
+      "id": "soun-lpsn-close",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Close",
+      "hed": "SoundHound closes LivePerson buy; John Collins named CFO",
+      "dek": "0.4673 SOUN/share (TASE $3.31 cash). LivePerson notes restructured into SOUN stock + cash. LPSN leaves Nasdaq.",
+      "date": "Sept. 4, 2026",
+      "source": "SoundHound 8-K; company PR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026097712/ea0304691-8k_sound.htm",
+      "also": [
+        {
+          "label": "EX-99.1 press release (Acc. 0001213900-26-097712)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026097712/ea030469101ex99-1.htm"
+        },
+        {
+          "label": "Company newsroom PR",
+          "url": "https://www.soundhound.com/newsroom/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse"
+        },
+        {
+          "label": "EDGAR index",
+          "url": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026097712/0001213900-26-097712-index.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / M&A close. PRIMARY is SoundHound Form 8-K filed Sept. 4, 2026 (Acc. 0001213900-26-097712): Closing Date Sept. 4 under Amended and Restated Merger Agreement dated July 2, 2026 — LivePerson becomes indirect wholly owned subsidiary via double-merger. Consideration: 0.4673 shares of SOUN Class A per LivePerson share (non-TASE); TASE Shares receive $3.31 cash. Item 5.02: Board appoints John D. Collins (43) as CFO effective on consummation — former LivePerson CFO (since Feb 2020), COO (since Jan 2024), interim CEO Aug 2023–Jan 2024; base $465,000; target bonus 65% of base; $150,000 signing bonus; sign-on equity ~63% time-based RSUs (4-year vest) / ~37% PSUs. Item 8.01 Notes Restructuring: First Lien holders took 25,142,335 SOUN shares + $2,499,450 cash; Second Lien holders 11,752,504 shares + $3,348,550 cash in full satisfaction of LivePerson secured notes — company PR frames combined balance sheet as debt-free after retiring LivePerson outstanding debt. LPSN common to cease Nasdaq trading. Do not invent purchase EV, revenue multiple, or synergy dollars beyond company forward language (> $500M future revenue from existing base is PR aspiration, not a closed print). Pair with AI platform/OASYS framing only as PR color. Route Quill; not Guide/Forge.",
+      "grafs": [
+        "SoundHound AI closed its acquisition of LivePerson on Sept. 4 under the July 2 amended merger agreement, filing an 8-K the same day (accession 0001213900-26-097712). LivePerson survives as an indirect wholly owned subsidiary after a two-step Delaware merger.",
+        "Stockholders (other than Tel Aviv Stock Exchange Clearing House shares) receive 0.4673 shares of SoundHound Class A common per LivePerson share; TASE shares convert into $3.31 cash. LivePerson options and warrants were cancelled for no consideration; vested director/other RSUs settled in merger consideration, with remaining RSUs assumed and converted into SoundHound awards.",
+        "The board appointed John D. Collins as CFO on close. Collins, 43, was LivePerson’s CFO since February 2020, COO since January 2024, and interim CEO from August 2023 to January 2024. His employment agreement sets a $465,000 base, a 65% target bonus, a $150,000 signing bonus, and sign-on equity roughly 63% time-based RSUs over four years and 37% performance stock units.",
+        "Alongside the merger, SoundHound and LivePerson completed the April 21 notes restructuring: First Lien holders took 25.14 million SoundHound shares and about $2.5 million cash, and Second Lien holders 11.75 million shares and about $3.35 million cash, in full satisfaction of LivePerson’s secured notes. The company press release says the combined balance sheet is debt-free after retiring LivePerson’s outstanding debt, and LivePerson common stock will cease trading on Nasdaq."
       ]
     },
     {
