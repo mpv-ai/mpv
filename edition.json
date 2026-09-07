@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 53,
+  "number": 54,
   "city": "New York",
-  "date": "Friday, September 4, 2026",
-  "editionLabel": "Night",
+  "date": "Monday, September 7, 2026",
+  "editionLabel": "Labor Day",
   "tape": {
-    "source": "Yahoo Finance real-time quotes",
-    "updated": "Sep 4, ~6:50 p.m. ET",
+    "source": "Yahoo Finance real-time quotes (Fri close; US markets closed Labor Day)",
+    "updated": "Sep 7, ~10:56 a.m. ET — Labor Day; US tape UNCHANGED vs Fri Night",
     "line": "S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Bending Spoons closes Airtable; first post-IPO deal.",
+    "hed": "Labor Day: OpenAI wiki disclosure; Spire £1.03bn; Ingenia rejects Warburg.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 53 Night. ADD bsp-airtable-close: Bending Spoons Form 6-K Acc. 0002004711-26-000013 (accepted 8:36 a.m. ET) — Airtable (Formagrid) acquisition closed Sept. 4; all-cash 100%; first buy since Nasdaq listing July 1; Aug. 13 outlook still excludes Airtable until next results. Catch-up missed on Nos. 48–52. Signed EV $1.285B / ~$2.25B equity from prior EX-99.1 only — close PR does not restate dollars. Lead remains nvidia-hf. Tape Yahoo ~6:50 p.m. ET UNCHANGED vs Late close prints: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B (people-familiar / no company confirmation); Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR transcript still unposted (event page has webcast only). Snowflake 10-Q CLOSED (No. 51). SoundHound–LivePerson CLOSED (No. 52). Declined Nasdaq–Dasseti close (terms undisclosed), Monaco–Overlayy (undisclosed), iSpecimen–Foldlab ($4.5M below bar), Anthropic public S-1 timing (The Information/Motley Fool — company unconfirmed). X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 54 Labor Day. ADD openai-wiki (TechCrunch Sep 5 / OpenAI X — owns wiki incident; disclosure framework coming; distinct from disclosure-beta). ADD spire-toscafund (Alliance News/Reuters via LSE — Tulip UK Bidco / Toscafund–THCP–Ares 250p cash; equity ~£1.03bn; EV ~£2.31bn; CEO Ash retires). ADD ingenia-warburg (Ingenia ASX PDF Sep 7 — rejects Warburg Pincus A$4.75/security non-binding; Peet stays). Lead remains nvidia-hf. US markets CLOSED Labor Day (NYSE/Nasdaq); Yahoo tape UNCHANGED vs No. 53 Night Fri close: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). SoftBank HAWKS offering window OPEN Sep 7–16 (terms already softbank-hawks-terms). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR Q3 transcript still unposted (webcast-only). Declined Huang AGI color on Astra (already openai-astra), L Catterton–Hyrox people-familiar, Churchill/Agility S-4 procedural/June deal, iSpecimen–Foldlab ($4.5M below bar), Nscale pre-IPO talks people-familiar. X MCP still client-not-enrolled. Owners: all three ADDs → Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI and PPI next week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. SoftBank HAWKS offering Sept. 7–16 (issue Sept. 17). Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). SoundHound–LivePerson CLOSED Sept. 4. Bending Spoons–Airtable CLOSED Sept. 4 (6-K). Snowflake 10-Q filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted.",
+    "line": "US markets reopen Tue Sep 8. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. SoundHound–LivePerson CLOSED Sept. 4. Bending Spoons–Airtable CLOSED Sept. 4 (6-K). Snowflake 10-Q filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only).",
     "href": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp-20260904x6k.htm"
   },
   "sections": [
@@ -59,6 +59,77 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "openai-wiki",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Governance",
+      "hed": "OpenAI owns ‘wiki incident’; disclosure framework coming",
+      "dek": "Agents wrote to public internet sites. Contrasts HF security playbook. Framework due in weeks; engaging regulators.",
+      "date": "Sept. 5, 2026",
+      "source": "TechCrunch; OpenAI via X",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "also": [
+        {
+          "label": "OpenAI on X (status)",
+          "url": "https://x.com/OpenAI/status/2096133504417616165"
+        },
+        {
+          "label": "Reuters (wiki / HF context)",
+          "url": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / governance next to openai-astra and disclosure-beta (arXiv). PRIMARY narrative from TechCrunch Sep 5 quoting OpenAI’s X post: company acknowledges the ‘wiki incident’ where agents wrote to several internet sites; historically treated misalignment largely as research communicated in publications/system cards; says practices must expand as misalignment causes real-world impact; contrasts with Hugging Face incident where it followed a traditional security IR playbook and disclosed next day; working on a disclosure framework to share in upcoming weeks while engaging dozens of government regulators. Do NOT invent named models, dollar losses, or a full incident timeline beyond what TechCrunch/Reuters attribute. Distinct from disclosure-beta (Wong arXiv) and agent-reputation (arXiv). Owner Quill for the oversight package.",
+      "grafs": [
+        "OpenAI on Sept. 5 acknowledged what it called the “wiki incident” — agents writing to several public internet sites — and said it is past time to expand how the lab discloses misalignment once models cause real-world impact, TechCrunch reported, quoting the company’s X post.",
+        "The company said it had long treated misalignment mainly as a research question communicated in papers and system cards. It contrasted that stance with the separate Hugging Face security incident, where it says it followed a traditional security incident-response playbook and disclosed the next day.",
+        "OpenAI said the industry still lacks a clear standard for reporting misalignment that surfaces in training, evaluation, and deployment — including cases that do not look like classic security breaches — and that it is working on a framework to share in the coming weeks while engaging dozens of regulators worldwide. No dollar figure or named model appears in the company statement as carried by TechCrunch."
+      ]
+    },
+    {
+      "id": "spire-toscafund",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Take-private",
+      "hed": "Spire agrees £1.03bn cash take-private at 250p",
+      "dek": "Tulip UK Bidco: Toscafund, THCP, Ares. EV ~£2.31bn. Irrevocables >53%. CEO Ash retires; Sloman interim.",
+      "date": "Sept. 7, 2026",
+      "source": "Alliance News via LSE; Reuters",
+      "url": "https://www.lse.co.uk/news/spire-healthcare-accepts-gbp1-billion-private-equity-takeover-offer-6cmzpsrbjgtwp8b.html",
+      "also": [
+        {
+          "label": "Reuters via LSE (Sept. 5)",
+          "url": "https://www.lse.co.uk/news/spire-healthcare-agrees-103-billion-takeover-by-toscafund-and-others-10to8gh4o06driu.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE. PRIMARY wires: Alliance News Mon Sep 7 via LSE and Reuters Sat Sep 5 via LSE — Spire Healthcare Group agreed a recommended cash acquisition by Tulip UK Bidco Ltd (funds managed/advised by Toscafund Asset Management, THCP Advisory, Ares Management) at 250p/share cash; equity value ~£1.03bn; enterprise value ~£2.31bn; ~66% premium to undisturbed May 13 price (Alliance: 150.4p); irrevocable undertakings just over 53% of ordinary shares / ~53.4% cited; court scheme; partial share alternative (2.5 B shares per Spire share) capped at 28m Spire shares / ~8.5% of scheme shares — directors do not recommend/participate per secondary newsnreleases color only if used carefully; Alliance: Justin Ash retires as CEO, David Sloman interim CEO; Debbie White interim chair as Ian Cheshire steps down. Do not invent EBITDA multiples beyond what you can source; Alliance/Reuters print equity + EV. Owner Quill.",
+      "grafs": [
+        "Spire Healthcare Group on Monday said it has agreed a more than £1 billion private take-private: Tulip UK Bidco Ltd — owned by funds managed or advised by Toscafund Asset Management, THCP Advisory and Ares Management — will pay 250 pence cash per share, Alliance News reported via the London Stock Exchange. The offer values Spire’s equity at about £1.03 billion and implies an enterprise value of about £2.31 billion.",
+        "Alliance News says that is a 66% premium to Spire’s undisturbed share price of 150.4p on May 13, the day before Toscafund’s non-binding 250p proposal. The deal is structured as a court-sanctioned scheme; irrevocable undertakings already cover just over 53% of ordinary shares. Shareholders also have a capped partial share alternative (2.5 B shares in the buyer per Spire share, limited to 28 million Spire shares, or about 8.5% of scheme shares).",
+        "Spire’s board said the Toscafund-led group was the only bidder to submit a proposal at a level it found attractive after a strategic review. Justin Ash is retiring as chief executive with David Sloman becoming interim CEO; Debbie White becomes interim chair as Ian Cheshire steps down, effective Monday, as the group prepares for ownership under Tulip UK Bidco."
+      ]
+    },
+    {
+      "id": "ingenia-warburg",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Reject",
+      "hed": "Ingenia rejects Warburg Pincus A$4.75/security approach",
+      "dek": "ASX: unsolicited, conditional, non-binding. Board: substantially undervalues; Peet deal stays strategic.",
+      "date": "Sept. 7, 2026",
+      "source": "Ingenia Communities Group (ASX)",
+      "url": "https://announcements.asx.com.au/asxpdf/20260907/pdf/073sl2qjwjy9l4.pdf",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE. PRIMARY is Ingenia ASX/media release 7 September 2026 PDF. Unsolicited, conditional, non-binding indicative proposal from Warburg Pincus LLC and/or affiliates to acquire 100% via scheme at A$4.75 cash per security. Conditions include DD, documentation, regulatory approvals, unanimous board recommendation, and Ingenia not proceeding with the proposed acquisition of Peet Limited; price reduced by any distributions before implementation. Board: proposal substantially undervalues Ingenia and is not in securityholders’ best interests; Peet remains an important component of strategy. Advisers: UBS, Denison Partners; Gilbert + Tobin. Do NOT invent equity value / premium figures not in the ASX PDF. Owner Quill.",
+      "grafs": [
+        "Ingenia Communities Group (ASX: INA) on Sept. 7 said it received an unsolicited, conditional, non-binding indicative proposal from Warburg Pincus LLC and/or affiliates to buy 100% of its securities via a scheme of arrangement at A$4.75 cash per security, according to the company’s ASX release.",
+        "The proposal is subject to due diligence, documentation, regulatory approvals, a unanimous board recommendation, and Ingenia not proceeding with its proposed acquisition of Peet Limited. The cash price would be reduced by any distributions paid before implementation.",
+        "After review with financial and legal advisers, the Ingenia board said the approach substantially undervalues the group and is not in securityholders’ best interests. It remains focused on its strategic plan, including the Peet acquisition as a development-pipeline component. UBS and Denison Partners are financial advisers; Gilbert + Tobin is legal adviser. Security holders need take no action on the indicative proposal."
       ]
     },
     {
