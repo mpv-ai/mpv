@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 56,
+  "number": 57,
   "city": "New York",
   "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid Afternoon",
   "tape": {
     "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~12:56 p.m. ET — cash session",
-    "line": "S&P 7,687.82 (−0.40%) · 10-year 4.79% · 30-year 5.25% · SOX 11,931.78 (+1.67%) · NVDA $226.00 (−1.89%)"
+    "updated": "Sep 8, ~1:54 p.m. ET — cash session",
+    "line": "S&P 7,693.49 (−0.33%) · 10-year 4.79% · 30-year 5.25% · SOX 11,937.87 (+1.73%) · NVDA $226.11 (−1.85%)"
   },
   "deskNote": {
-    "kicker": "Markets",
-    "hed": "Afternoon: Longsys HK debut; SOX cools to +1.7%.",
+    "kicker": "AI",
+    "hed": "Mid Afternoon: Firmus–OpenAI Malaysia; tape steady.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 56 Afternoon. ADD longsys-hk (Reuters: HK$7.08B / $903M H-share debut, −1% vs offer; memory/AI storage). Yahoo live ~12:56 p.m. ET: S&P 7,687.82 (−0.40%) · 10-year 4.79% · 30-year 5.25% · SOX 11,931.78 (+1.67%) · NVDA $226.00 (−1.89%). Lead still nvidia-hf. SoftBank HAWKS offering still OPEN through Sep 16. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1 / MatX abandoned; DeepSeek $74B; Broadcom official IR Q3 transcript still unposted (webcast/replay + third-party only; IR quarterly-results page still not showing a Q3 FY26 transcript asset). Declined: L Catterton–Hyrox controlling stake talks (~€600m, Bloomberg unnamed — not closed); Nscale up to $3.5B pre-IPO talks (Bloomberg unnamed); Outline $3M CFO-agent seed and Samsung SDS/KKR AX-RX “reviewing” (no new closed terms); Accordion PE-AI survey; Anthropic/OpenAI credit-ratings rehash of revolver + Lambda debt already on plate. arXiv export API unavailable this pass (HTTP 301/empty). X API unavailable (client-not-enrolled). Route longsys-hk → Quill. No Forge/Guide routing."
+    "body": "Vol. 1 No. 57 Mid Afternoon. ADD firmus-openai (Firmus PR + Reuters/Nikkei: OpenAI anchors two Malaysia AI factories; >900 MW contracted; Vera Rubin NVL72/DSX; no $ disclosed). Yahoo live ~1:54 p.m. ET: S&P 7,693.49 (−0.33%) · 10-year 4.79% · 30-year 5.25% · SOX 11,937.87 (+1.73%) · NVDA $226.11 (−1.85%). Lead still nvidia-hf. SoftBank HAWKS offering still OPEN through Sep 16. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B (people-familiar only); Anthropic public S-1 / MatX abandoned (no EDGAR S-1); DeepSeek $74B (no company confirmation); Broadcom official IR Q3 transcript still unposted (webcast/replay + third-party only). Declined: Mistral D / Anthropic–Decart / Longsys already plated; Sun Communities / Kura Oncology / United Community Banks CFO start-dates (below beat); SoftBank HAWKS coupon already softbank-hawks-terms; SB Energy S-1 already sb-energy-s1; arXiv catch-ups already on plate. X API unavailable (client-not-enrolled). Route firmus-openai → Quill. No Forge/Guide routing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 Afternoon. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only).",
-    "href": "https://www.reuters.com/world/asia-pacific/china-data-storage-firm-longsys-slips-hong-kong-debut-2026-09-08/"
+    "line": "US cash session Tue Sep 8 Mid Afternoon. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://firmus.co/newsroom/firmus-surpasses-900-mw-contracted-capacity-adds-openai-as-anchor-customer-and-expands-into-malaysia"
   },
   "sections": [
     "All",
@@ -59,6 +59,34 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "firmus-openai",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Compute",
+      "hed": "Firmus: OpenAI anchors two Malaysia AI factories; >900 MW booked",
+      "dek": "Company PR Sept. 8. Multi-year dedicated compute. Vera Rubin NVL72 + DSX. No contract $ disclosed. Nvidia-backed.",
+      "date": "Sept. 8, 2026",
+      "source": "Firmus",
+      "url": "https://firmus.co/newsroom/firmus-surpasses-900-mw-contracted-capacity-adds-openai-as-anchor-customer-and-expands-into-malaysia",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/nvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08/"
+        },
+        {
+          "label": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/australia-s-firmus-inks-compute-deal-with-openai-for-malaysian-data-centers"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI infra / APAC compute. PRIMARY: Firmus newsroom Sydney, 8 September 2026 — multi-year strategic partnership; OpenAI contracts dedicated AI compute from two Firmus AI Factory sites in Malaysia and becomes an anchor customer; total contracted capacity across all customers now >900 MW; portfolio seven AI factories in Australia, Singapore, Indonesia, Malaysia (two operational AU/SG; five under development, ready-for-service targeted over next 24 months); NVIDIA Vera Rubin at scale via NVIDIA DSX AI Factory Platform integrating Vera Rubin NVL72 with Firmus HyperCube (prefab NSW). Quotes: Tim Rosenfield (Firmus), Sachin Katti (OpenAI VP Compute Strategy), Nico Caprez (NVIDIA). ALSO: Reuters notes last fundraising valued Firmus above $10.5B (Nvidia, Jane Street, Blackstone funds, Coatue) and rumoured IPO this year; Firmus declined contract value; OpenAI no immediate Reuters comment. Do not invent MW per Malaysia site, contract dollars, or IPO terms. Catch-up vs No. 56 Afternoon (story out ~1:40 a.m. UTC / overnight ET).",
+      "grafs": [
+        "Firmus and OpenAI on Sept. 8 announced a multi-year strategic partnership under which OpenAI will contract dedicated AI compute capacity from two Firmus AI Factory sites in Malaysia and become an anchor customer, the Sydney-based company said in a newsroom release.",
+        "With the partnership, Firmus said total contracted capacity across all customers now stands at more than 900 MW. Its portfolio spans seven AI factories across Australia, Singapore, Indonesia and Malaysia — two operational today (Australia and Singapore) and five under development targeting ready-for-service over the next 24 months.",
+        "Firmus said it will deploy NVIDIA Vera Rubin at scale across Asia-Pacific; factories under the partnership will use the NVIDIA DSX AI Factory Platform to integrate Vera Rubin NVL72 rack-scale systems with Firmus’ HyperCube platform. OpenAI’s Sachin Katti (VP of Compute Strategy) and NVIDIA’s Nico Caprez are quoted on the PR. Reuters separately noted Firmus declined to disclose contract value and that the company was valued above $10.5 billion in its last fundraising (backers including Nvidia, Jane Street, Blackstone funds and Coatue), with a rumoured IPO later this year."
       ]
     },
     {
