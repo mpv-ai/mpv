@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 58,
+  "number": 59,
   "city": "New York",
   "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~4:11 p.m. ET — cash close",
+    "updated": "Sep 8, ~4:11 p.m. ET — cash close (unchanged into evening)",
     "line": "S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%)"
   },
   "deskNote": {
-    "kicker": "CFO",
-    "hed": "Late Afternoon: ElevenLabs CFO; cash tape softer.",
+    "kicker": "PE / AI",
+    "hed": "Evening: GE–CPP $11.75B; Forus $3B Series C.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 58 Late Afternoon. ADD elevenlabs-cfo (ElevenLabs blog Sept. 8: Ethan Tandowsky, ex-Adyen CFO, joins as CFO; 800 staff; 10M conversational agents; enterprise 55% of revenue). Yahoo cash-close tape: S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only)."
+    "body": "Vol. 1 No. 59 Evening. ADD ge-cpp (GE Aerospace PR: $11.75B for CPP from Warburg Pincus and Berkshire Partners; ~18x 2027 EBITDA incl. synergies; close guided H2 2027) and forus-c (Forus blog: $150M Series C at $3B, Bain-led; total funding >$300M; AI med-access). Yahoo cash-close tape unchanged: S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only). Declined Cognition (still talks / not closed)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://elevenlabs.io/blog/cfo"
+    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed. Cognition ~$47–48B round still talks-only.",
+    "href": "https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical"
   },
   "sections": [
     "All",
@@ -59,6 +59,63 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "forus-c",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Forus raises $150M Series C at $3B; Bain leads",
+      "dek": "Company blog Sept. 8. Triples May valuation (was $160M / ~$1B as Tandem). Total funding >$300M. AI med-access network.",
+      "date": "Sept. 8, 2026",
+      "source": "Forus",
+      "url": "https://forus.com/stories/forus-series-c",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/ai-healthcare-platform-forus-valued-3-billion-latest-funding-round-2026-09-08/"
+        },
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-health-company-forus-raises-150-million-at-a-3-billion-value"
+        },
+        {
+          "label": "FinSMEs",
+          "url": "https://www.finsmes.com/2026/09/forus-raises-150m-in-series-c-at-a-3b-valuation.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / health-tech funding. PRIMARY: Forus company post Sept. 8 — $150M Series C at $3B valuation; led by Bain Capital Ventures; every existing institutional investor reinvesting, including Thrive Capital, General Catalyst, Accel, Redpoint, BoxGroup, Pear VC, Avra, Human Capital, Neo, Vast Ventures, and SV Angel; total funding raised >$300M. Product: AI network for medicine — agents between clinical decision and patient starting treatment (insurance, financial assistance, fulfillment), free for doctors/patients; company says supports patients in 85% of U.S. residential ZIP codes across all 50 states; 9 of top 15 global biopharma. ALSO: Reuters — triples valuation in ~four months; formerly Tandem; May raise was $160M. Do not invent ARR, burn, or IPO timing. Distinct from prior May rebrand/$160M story (not previously on plate). Owner Quill.",
+      "grafs": [
+        "Forus on Sept. 8 said it raised $150 million in Series C financing at a $3 billion valuation, led by Bain Capital Ventures, with every existing institutional investor reinvesting, the New York AI medication-access company wrote in a company blog post.",
+        "Named reinvestors include Thrive Capital, General Catalyst, Accel, Redpoint, BoxGroup, Pear VC, Avra, Human Capital, Neo, Vast Ventures and SV Angel. Forus said the round brings total funding raised to more than $300 million.",
+        "The company, formerly Tandem, builds an AI network that connects doctors, pharmacies, payers and biopharma and assigns agents to navigate insurance, financial assistance and fulfillment after a prescription — free for providers and patients. It said the platform is used by providers across all 50 states, reaches patients in 85% of U.S. residential ZIP codes, and works with nine of the top 15 global biopharma companies.",
+        "Reuters separately noted the raise triples Forus’s valuation in about four months after a May $160 million financing. Proceeds, per the company and Reuters, go to expand across more specialties and care settings, broaden agent capabilities, and invest in the workforce."
+      ]
+    },
+    {
+      "id": "ge-cpp",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Exit",
+      "hed": "GE Aerospace to buy CPP from Warburg/Berkshire for $11.75B",
+      "dek": "Company PR Sept. 8. ~18x 2027 EBITDA incl. synergies. $7B cash + new debt. Close guided H2 2027.",
+      "date": "Sept. 8, 2026",
+      "source": "GE Aerospace",
+      "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical",
+      "also": [
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/09/08/3357518/0/en/ge-aerospace-to-acquire-consolidated-precision-products-cpp-expanding-mission-critical-castings-capacity.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / aerospace exit. PRIMARY: GE Aerospace PR Sept. 8, 2026 — agreement to acquire Consolidated Precision Products (CPP) from Warburg Pincus and Berkshire Partners; purchase price $11.75B financed with $7B cash and remainder in new debt; values CPP at ~18x 2027 EBITDA including expected net synergies (~26x without); expected accretive to adjusted EPS and FCF in first year (ex one-time costs and deal amortization); close guided H2 2027 subject to regulatory/customary conditions; no change to GE Aerospace capital allocation plans. CPP: Cleveland HQ; ~6,600 employees; >20 facilities; investment/precision sand castings for commercial aerospace and defense; GE customer >15 years. Quotes: Larry Culp; CPP CEO James Stewart; Warburg MD Dan Zamlong; Berkshire MD Blake Gottesman. Advisors named in PR. Do not invent CPP revenue or seller returns. Catch-up vs No. 58 (announced morning ET). Owner Quill.",
+      "grafs": [
+        "GE Aerospace on Sept. 8 said it signed an agreement to acquire Consolidated Precision Products (CPP), a Cleveland-based maker of highly engineered castings, from Warburg Pincus and Berkshire Partners for $11.75 billion.",
+        "GE said the purchase will be financed with $7 billion in cash and the remainder in new debt, values CPP at about 18x 2027 EBITDA including expected net synergies (about 26x without), and is expected to be accretive to adjusted EPS and free cash flow in the first year, excluding one-time costs and deal-related amortization. Close is guided to the second half of 2027, subject to regulatory approvals and customary conditions; capital-allocation plans are unchanged, the company said.",
+        "CPP, founded in 1991, employs about 6,600 people across more than 20 facilities and produces investment and precision sand castings for commercial aerospace and defense; GE Aerospace has been a CPP customer for more than fifteen years, per the release. Warburg’s Dan Zamlong and Berkshire’s Blake Gottesman are quoted on the PE-to-strategic exit."
       ]
     },
     {
