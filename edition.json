@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 57,
+  "number": 58,
   "city": "New York",
   "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Mid Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~1:54 p.m. ET — cash session",
-    "line": "S&P 7,693.49 (−0.33%) · 10-year 4.79% · 30-year 5.25% · SOX 11,937.87 (+1.73%) · NVDA $226.11 (−1.85%)"
+    "updated": "Sep 8, ~4:11 p.m. ET — cash close",
+    "line": "S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%)"
   },
   "deskNote": {
-    "kicker": "AI",
-    "hed": "Mid Afternoon: Firmus–OpenAI Malaysia; tape steady.",
+    "kicker": "CFO",
+    "hed": "Late Afternoon: ElevenLabs CFO; cash tape softer.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 57 Mid Afternoon. ADD firmus-openai (Firmus PR + Reuters/Nikkei: OpenAI anchors two Malaysia AI factories; >900 MW contracted; Vera Rubin NVL72/DSX; no $ disclosed). Yahoo live ~1:54 p.m. ET: S&P 7,693.49 (−0.33%) · 10-year 4.79% · 30-year 5.25% · SOX 11,937.87 (+1.73%) · NVDA $226.11 (−1.85%). Lead still nvidia-hf. SoftBank HAWKS offering still OPEN through Sep 16. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B (people-familiar only); Anthropic public S-1 / MatX abandoned (no EDGAR S-1); DeepSeek $74B (no company confirmation); Broadcom official IR Q3 transcript still unposted (webcast/replay + third-party only). Declined: Mistral D / Anthropic–Decart / Longsys already plated; Sun Communities / Kura Oncology / United Community Banks CFO start-dates (below beat); SoftBank HAWKS coupon already softbank-hawks-terms; SB Energy S-1 already sb-energy-s1; arXiv catch-ups already on plate. X API unavailable (client-not-enrolled). Route firmus-openai → Quill. No Forge/Guide routing."
+    "body": "Vol. 1 No. 58 Late Afternoon. ADD elevenlabs-cfo (ElevenLabs blog Sept. 8: Ethan Tandowsky, ex-Adyen CFO, joins as CFO; 800 staff; 10M conversational agents; enterprise 55% of revenue). Yahoo cash-close tape: S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 Mid Afternoon. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://firmus.co/newsroom/firmus-surpasses-900-mw-contracted-capacity-adds-openai-as-anchor-customer-and-expands-into-malaysia"
+    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://elevenlabs.io/blog/cfo"
   },
   "sections": [
     "All",
@@ -59,6 +59,31 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "elevenlabs-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Audio AI",
+      "hed": "ElevenLabs names Adyen alum Ethan Tandowsky CFO",
+      "dek": "Company blog Sept. 8. Ex-Adyen CFO (public 2018; CFO from 2023). Scale push: 800 staff; 10M conversational agents; enterprise 55% of revenue.",
+      "date": "Sept. 8, 2026",
+      "source": "ElevenLabs",
+      "url": "https://elevenlabs.io/blog/cfo",
+      "also": [
+        {
+          "label": "Adyen (May departure)",
+          "url": "https://www.adyen.com/press-and-media/adyen-cfo-ethan-tandowsky-to-step-down-to-pursue-opportunity-outside-fintech"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / AI platform ops. PRIMARY: ElevenLabs blog Sept. 8, 2026 — Ethan Tandowsky joins as CFO. Bio: most recently CFO of Adyen; joined Adyen finance 2016, helped IPO 2018, CFO from 2023; Adyen grew 400→5,000 people and revenue ~20x on his watch (company figures). ElevenLabs self-describes: global team of 800; voice/audio AI in 90+ languages; 10 million conversational agents launched; large organizations 55% of revenue (up from 40% a year earlier); enterprise customers named include Nvidia, Stripe, Klarna, Deutsche Telekom; governments Brazil to Ukraine; voice-IP creator marketplace. Quotes: Tandowsky on investment/financial foundation; CEO Mati Staniszewski on scaling human-AI interaction. ALSO: Adyen May 27, 2026 PR — Tandowsky to step down effective Aug. 31, 2026 to pursue opportunity outside fintech. Do not invent valuation, raise size, IPO timing, or compensation. Catch-up vs No. 57 Mid Afternoon.",
+      "grafs": [
+        "ElevenLabs on Sept. 8 said Ethan Tandowsky has joined as chief financial officer, the audio AI company wrote in a company blog post.",
+        "Tandowsky was most recently CFO of payments firm Adyen. He joined Adyen’s finance team in 2016, helped take the company public in 2018, and became CFO in 2023; during his tenure Adyen grew from 400 to 5,000 people, expanded internationally, and increased revenue 20x, ElevenLabs said.",
+        "ElevenLabs said it now has a global team of 800 people, supports voice and audio AI models in more than 90 languages, and has launched 10 million conversational agents. Large organizations account for 55% of revenue, up from 40% a year earlier, with named enterprise customers including Nvidia, Stripe, Klarna and Deutsche Telekom.",
+        "CEO Mati Staniszewski said Tandowsky brings public-company CFO experience to scale financial operations as ElevenLabs builds a broader platform for businesses deploying conversational AI. Adyen separately announced in May that Tandowsky would step down effective Aug. 31, 2026 to pursue an opportunity outside fintech."
       ]
     },
     {
