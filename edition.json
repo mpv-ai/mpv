@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 59,
+  "number": 60,
   "city": "New York",
   "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~4:11 p.m. ET — cash close (unchanged into evening)",
+    "updated": "Sep 8, ~4:11 p.m. ET — cash close (unchanged into night)",
     "line": "S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%)"
   },
   "deskNote": {
-    "kicker": "PE / AI",
-    "hed": "Evening: GE–CPP $11.75B; Forus $3B Series C.",
+    "kicker": "AI / Funding",
+    "hed": "Night: Cognition Series E >$2B at $48B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 59 Evening. ADD ge-cpp (GE Aerospace PR: $11.75B for CPP from Warburg Pincus and Berkshire Partners; ~18x 2027 EBITDA incl. synergies; close guided H2 2027) and forus-c (Forus blog: $150M Series C at $3B, Bain-led; total funding >$300M; AI med-access). Yahoo cash-close tape unchanged: S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only). Declined Cognition (still talks / not closed)."
+    "body": "Vol. 1 No. 60 Night. ADD cognition-e (Cognition company blog Sept. 8: >$2B Series E at $48B; a16z + Accel lead; run-rate ~$492M→almost $900M since May). Supersedes prior talks-only decline. Yahoo cash-close tape unchanged: S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only). Declined Sapien (Fortune: $180M valuation, raise size undisclosed — below plate bar) and Renaissance–De Wave (~€400M yacht interiors; terms soft)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed. Cognition ~$47–48B round still talks-only.",
-    "href": "https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical"
+    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus; Reuters mid-October roadshow / late-Sept prospectus still people-familiar). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed. Cognition Series E now company-confirmed (see cognition-e).",
+    "href": "https://cognition.ai/blog/series-e"
   },
   "sections": [
     "All",
@@ -59,6 +59,30 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "cognition-e",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Cognition raises >$2B Series E at $48B; a16z + Accel lead",
+      "dek": "Company blog Sept. 8. Run-rate revenue ~$492M→almost $900M since May. Independent agent lab.",
+      "date": "Sept. 8, 2026",
+      "source": "Cognition",
+      "url": "https://cognition.ai/blog/series-e",
+      "also": [
+        {
+          "label": "Cognition.com mirror",
+          "url": "https://cognition.com/blog/series-e"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / coding-agents funding. PRIMARY: Cognition company post Sept. 8 (“Do it all with Devin: Announcing our Series E”) — raised over $2B at a $48B valuation; led by new investors Andreessen Horowitz and Accel, alongside existing Founders Fund, General Catalyst, and Avenir; long also-investor list in company post (Benchmark, Bessemer, KP, Greylock, Lightspeed, Altimeter, Bond, Meritech, Atreides, Valor, T. Rowe Price, Lux, 8VC, D1, 137 Ventures, DST, Positive Sum, HOF, Soma, BoxGroup, Battery, Ribbit, Swish, Stripes, Definition, Hanabi, Journey, Bain Capital Ventures, Layer Global, A* Capital, Alpha Wave, Alkeon, Diffusion). Growth print in same post: since May round, run-rate revenue from $492M to almost $900M. Named customer verticals in post: NVIDIA (chip design), GE Aerospace, Citi, Mercedes-Benz, Modal. Independence line: building as independent agent lab (choose/combine models incl. own). Supersedes prior plate language that the ~$47–48B round was still talks-only. Do not invent post-money vs pre-money split beyond company “at a $48B valuation,” or ARR beyond “almost $900M” run-rate. Owner Quill.",
+      "grafs": [
+        "Cognition on Sept. 8 said it raised over $2 billion in a Series E at a $48 billion valuation, the company wrote in a blog post titled “Do it all with Devin: Announcing our Series E.”",
+        "New investors Andreessen Horowitz and Accel led the round, alongside existing investors Founders Fund, General Catalyst and Avenir. The company also named a long syndicate including Benchmark, Bessemer, Kleiner Perkins, Greylock, Lightspeed, Altimeter, Bond Capital, Meritech, Atreides, Valor, T. Rowe Price, Lux, 8VC, D1, 137 Ventures, DST, Positive Sum and others listed in the post.",
+        "Since its May round, Cognition said run-rate revenue has grown from $492 million to almost $900 million. The post cites Devin deployments across chip design at NVIDIA, aviation at GE Aerospace, financial services at Citi, automotive at Mercedes-Benz, and AI infrastructure at Modal, and says Cognition is building as an independent agent lab that can choose and combine models, including its own."
       ]
     },
     {
