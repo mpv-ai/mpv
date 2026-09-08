@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 54,
+  "number": 55,
   "city": "New York",
-  "date": "Monday, September 7, 2026",
-  "editionLabel": "Labor Day",
+  "date": "Tuesday, September 8, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance real-time quotes (Fri close; US markets closed Labor Day)",
-    "updated": "Sep 7, ~10:56 a.m. ET — Labor Day; US tape UNCHANGED vs Fri Night",
+    "source": "Yahoo Finance real-time quotes (Fri Sep 4 close; US cash reopens Tue)",
+    "updated": "Sep 8, ~9:00 a.m. ET — pre-open; last cash UNCHANGED vs Fri Night / Labor Day",
     "line": "S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Labor Day: OpenAI wiki disclosure; Spire £1.03bn; Ingenia rejects Warburg.",
+    "hed": "Mistral €3B; Anthropic walks Decart; three arXiv catch-ups.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 54 Labor Day. ADD openai-wiki (TechCrunch Sep 5 / OpenAI X — owns wiki incident; disclosure framework coming; distinct from disclosure-beta). ADD spire-toscafund (Alliance News/Reuters via LSE — Tulip UK Bidco / Toscafund–THCP–Ares 250p cash; equity ~£1.03bn; EV ~£2.31bn; CEO Ash retires). ADD ingenia-warburg (Ingenia ASX PDF Sep 7 — rejects Warburg Pincus A$4.75/security non-binding; Peet stays). Lead remains nvidia-hf. US markets CLOSED Labor Day (NYSE/Nasdaq); Yahoo tape UNCHANGED vs No. 53 Night Fri close: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). SoftBank HAWKS offering window OPEN Sep 7–16 (terms already softbank-hawks-terms). Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic–MatX/public S-1; DeepSeek $74B; Broadcom official IR Q3 transcript still unposted (webcast-only). Declined Huang AGI color on Astra (already openai-astra), L Catterton–Hyrox people-familiar, Churchill/Agility S-4 procedural/June deal, iSpecimen–Foldlab ($4.5M below bar), Nscale pre-IPO talks people-familiar. X MCP still client-not-enrolled. Owners: all three ADDs → Quill."
+    "body": "Vol. 1 No. 55 Morning. ADD mistral-d (Mistral company Sept. 8 — €3B Series D at >€21B post-money; Samsung-led; Scaleup Europe/EQT + PSG co-lead; largest European tech equity raise per company). ADD anthropic-decart (Bloomberg Sep 7 p.m. ET — walked ~$6B Decart after diligence; collaboration door open; people-familiar). ADD Labor Day arXiv catch-ups: llm-capability-paradox (2609.04373), fin-ft-hallucination (2609.04806), ai-equity-crypto-sota (2609.04917). Lead remains nvidia-hf. US cash reopens today; Yahoo last cash UNCHANGED vs Fri close pending the open: S&P 7,718.60 (−0.38%) · 10-year 4.78% · 30-year 5.25% · SOX 11,735.26 (+3.37%) · NVDA $230.36 (+0.84%). SoftBank HAWKS offering still OPEN through Sep 16. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1 / MatX abandoned; DeepSeek $74B; Broadcom official IR Q3 transcript still unposted (webcast/replay + third-party only). Declined Samsung SDS/KKR “reviewing” AX/RX/logistics (Yonhap Infomax — not a closed deal), Platinum–De Wave ~€400M (below bar / terms soft), Main–Orgvue (undisclosed), GE/CPP $11.75B (unsourced). Owners: all five ADDs → Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US markets reopen Tue Sep 8. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. SoundHound–LivePerson CLOSED Sept. 4. Bending Spoons–Airtable CLOSED Sept. 4 (6-K). Snowflake 10-Q filed (Q2 FY27). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only).",
-    "href": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp-20260904x6k.htm"
+    "line": "US cash session opens Tue Sep 8. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only).",
+    "href": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
   },
   "sections": [
     "All",
@@ -59,6 +59,116 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "mistral-d",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Mistral raises €3B Series D at >€21B; Samsung leads",
+      "dek": "Scaleup Europe (EQT) and PSG co-lead. Largest European tech equity raise, company says. Proceeds: research, compute, infra.",
+      "date": "Sept. 8, 2026",
+      "source": "Mistral",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "also": [
+        {
+          "label": "CNBC (Samsung lead; Mensch interview)",
+          "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html"
+        },
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/mistral-ai-raises-at-21-billion-valuation-in-samsung-led-round"
+        },
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / funding. PRIMARY: Mistral company post Sept. 8 — €3B Series D at post-money valuation of more than €21B; company calls it the largest equity fundraising round ever completed by a European technology company; Samsung Electronics led; co-leads Scaleup Europe Fund (managed by EQT) and existing investor PSG Equity; new: Advent, BlackRock-managed funds/accounts, Grand Duchy of Luxembourg; existing participants include a16z, ASML, NVIDIA, Salesforce Ventures, Index, Lightspeed, GC, DST, Bpifrance, etc.; use of proceeds: frontier research, scale compute/infra, commercial + international footprint; operates across 20 countries; supports 125+ enterprises including Airbus, ASML, HSBC. CNBC: ~$3.5B / ~$24B hed; Mensch interview on building own DCs / compute ownership ~100% over five years; ARR expected to exceed $1B this year (Mensch earlier) and he expects to beat that. Stick to euros from company; dollar only as CNBC conversion. Prior Series C was ASML-led at €11.7B (company Series C post). Distinct from nvidia-hf. Owner Quill.",
+      "grafs": [
+        "Mistral on Tuesday said it raised €3 billion in a Series D at a post-money valuation of more than €21 billion — the largest equity fundraising round ever completed by a European technology company, per the company’s own announcement three years after launch.",
+        "Samsung Electronics led the round; Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity co-led. New money includes Advent, funds and accounts managed by BlackRock, and the Grand Duchy of Luxembourg. Existing backers participating include a16z, ASML, NVIDIA, Salesforce Ventures, Index Ventures, Lightspeed, General Catalyst, DST Global, Bpifrance and others named in the company post.",
+        "Proceeds, Mistral says, expand frontier research, scale compute capacity for training, grow infrastructure and products, and accelerate commercial and international footprint. The company says it now operates across 20 countries and supports more than 125 enterprises, naming Airbus, ASML and HSBC. CNBC’s concurrent report puts the raise at about $3.5 billion and the valuation near $24 billion, and quotes CEO Arthur Mensch on building owned data-center capacity and training bigger, faster models."
+      ]
+    },
+    {
+      "id": "anthropic-decart",
+      "lead": false,
+      "section": "AI",
+      "kicker": "M&A",
+      "hed": "Anthropic walks from ~$6B Decart deal after diligence",
+      "dek": "Bloomberg people-familiar; no agreement signed. Collaboration door left open. Both sides declined comment.",
+      "date": "Sept. 7, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+      "also": [
+        {
+          "label": "Globes (Israel relay)",
+          "url": "https://en.globes.co.il/en/article-anthropic-decides-against-6b-decart-acquisition-report-1001554747"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / M&A next to MatX abandoned watch color. PRIMARY: Bloomberg Sep 7 ~9:25–10:02 p.m. ET — Anthropic decided against acquiring Decart AI; had explored a deal and performed due diligence, then walked away; people familiar, not identified; companies may still pursue other collaboration opportunities per one person. Discussed size ~$6B carried from earlier talks reporting — do not invent a signed term sheet. Globes Sep 8 relays Bloomberg for Israel desk. Do NOT print FourWeekMBA/AnalyticsInsight relocation or 'undisclosed diligence findings' claims as fact — not in the Bloomberg snippet we can verify. Distinct from Anthropic–MatX abandoned ~$7B (Aug) and Anthropic–Lambda $35B (still open/unconfirmed). Owner Quill.",
+      "grafs": [
+        "Anthropic has decided against acquiring Decart AI after exploring a deal and completing due diligence, people familiar with the matter told Bloomberg late Monday (story timed Sept. 7 evening ET / updated into Sept. 8).",
+        "No agreement was signed. One of Bloomberg’s sources said the companies may still pursue other opportunities to collaborate. Both sides declined to comment, per secondary relays of the same Bloomberg report.",
+        "The ~$6 billion figure is the discussed size from earlier reporting on the talks, not a disclosed purchase price on a closed deal. Treat this as a walk-away after diligence, distinct from the earlier Anthropic–MatX abandonment watch and from the still-unconfirmed Anthropic–Lambda $35 billion compute story."
+      ]
+    },
+    {
+      "id": "llm-capability-paradox",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research",
+      "hed": "Why better models can create riskier systems",
+      "dek": "Ross/So/De Simone/Pozniak/Lo (arXiv 2609.04373). Frontier LLMs correlate more as capability rises — a non-diversifiable risk floor.",
+      "date": "Sept. 3, 2026",
+      "source": "arXiv 2609.04373",
+      "url": "https://arxiv.org/abs/2609.04373",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Research note (Labor Day catch-up; submitted Sep 3). Stick to abstract: shared training/architectures → more capable LLMs behave more similarly → correlated actions that do not diversify away; framework for non-diversifiable risk floor; agent-based LLM traders in financial markets. Findings: (1) frontier LLMs show significantly correlated behavior that increases with capability; (2) when shared reasoning is accurate, more agents reduce market-level risk; (3) under shared misinformation, correlation becomes a liability — capability paradox. Do not invent trading P&L tables beyond abstract. Owner Quill.",
+      "grafs": [
+        "Jillian Ross, Eric So, Zoe De Simone, Charles Pozniak and Andrew W. Lo argue in arXiv 2609.04373 that improving individual model capability can degrade system-level outcomes when shared training and architectures make more capable LLMs behave more alike.",
+        "They frame correlated LLM actions as creating a non-diversifiable risk floor and test the idea in an agent-based financial-market simulation with LLM traders of varying general-purpose capability. Per the abstract: frontier models show correlation that rises with capability; when shared reasoning is accurate, more agents can cut market-level risk; when agents share a misinformation environment, the same correlation becomes a liability."
+      ]
+    },
+    {
+      "id": "fin-ft-hallucination",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research",
+      "hed": "Financial fine-tuning spikes numerical hallucination",
+      "dek": "Li & Liu (arXiv 2609.04806). Base ~5.4% overt hallucination; domain FT-A 82.5%; numeracy-enhanced FT hits 98%.",
+      "date": "Sept. 4, 2026",
+      "source": "arXiv 2609.04806",
+      "url": "https://arxiv.org/abs/2609.04806",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Research note (Labor Day catch-up; submitted Sep 4). Stick to abstract numbers only: Base instruction-tuned ~5.4% overt hallucination; FT-A (domain language-adapted) 82.5% overt; FT-A+B+C (numeracy-enhanced) 98%. Three-level taxonomy: overt / covert-explicit / covert-implicit. Mechanism: template injection of memorized canonical values. Claim: hallucination driven by degradation of numerical restraint under domain adaptation, not insufficient numeracy — numeracy supervision amplified hallucination. Recommend grounding-aware generation/abstention. Owner Quill.",
+      "grafs": [
+        "Xiaodong Li and Peiwei Liu’s arXiv 2609.04806 runs a controlled study of numerical hallucination in financial summarization across a base instruction-tuned model, a domain-adapted model (FT-A), and a numeracy-enhanced domain model (FT-A+B+C).",
+        "Per the abstract, the base model stays near 5.4% overt hallucination, while FT-A jumps to 82.5% and the numeracy-enhanced stack reaches 98%. The authors argue domain adaptation degrades numerical restraint — including via template injection of memorized canonical values — and that adding numeracy supervision amplified rather than fixed the failure."
+      ]
+    },
+    {
+      "id": "ai-equity-crypto-sota",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Research",
+      "hed": "AI in equity and crypto: upstream progress, thin net alpha",
+      "dek": "Zhu & Cai (arXiv 2609.04917). SOTA through 31 Aug 2026: real workflow gains, no general architecture with durable capacity-aware net alpha.",
+      "date": "Sept. 4, 2026",
+      "source": "arXiv 2609.04917",
+      "url": "https://arxiv.org/abs/2609.04917",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Markets/Research note (Labor Day catch-up). Critical SOTA review through 31 Aug 2026 across equities/ETFs/crypto spot/perps/on-chain. Alpha-translation chain framing. Finding per abstract: real upstream progress in prediction/text/portfolios/workflows; thinner evidence for durable net performance; contamination, selection, costs, venue mechanics, capacity break translation; no general AI architecture shown to deliver persistent cross-regime capacity-aware net alpha in the public record examined. Do not invent specific strategy Sharpe numbers. Owner Quill.",
+      "grafs": [
+        "Linsen Zhu and Mengqing Cai’s arXiv 2609.04917 surveys public AI-investing research through 31 August 2026 across listed equities, ETFs, centralized crypto spot and perpetual futures, and on-chain markets.",
+        "Their alpha-translation chain — point-in-time information to stable signal to feasible positions to executable orders to risk-adjusted returns after costs — finds real upstream progress but thinner evidence of durable net alpha. Within the public record they examine, no general AI architecture is shown to deliver persistent, cross-regime, capacity-aware net alpha."
       ]
     },
     {
