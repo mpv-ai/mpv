@@ -3,21 +3,21 @@
   "number": 55,
   "city": "New York",
   "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Early Afternoon",
   "tape": {
     "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~11:00 a.m. ET — cash session",
-    "line": "S&P 7,691.80 (−0.35%) · 10-year 4.79% · 30-year 5.24% · SOX 11,982.18 (+2.10%) · NVDA $227.07 (−1.43%)"
+    "updated": "Sep 8, ~12:00 p.m. ET — cash session",
+    "line": "S&P 7,689.88 (−0.37%) · 10-year 4.79% · 30-year 5.24% · SOX 11,996.20 (+2.22%) · NVDA $226.22 (−1.80%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Midday: S&P firmer off lows, SOX +2%; plate unchanged.",
+    "hed": "Early afternoon: NVDA softens, SOX +2.2%; plate unchanged.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 55 Midday. TAPE ONLY — no story ADDs. Yahoo live ~11:00 a.m. ET: S&P 7,691.80 (−0.35%) · 10-year 4.79% · 30-year 5.24% · SOX 11,982.18 (+2.10%) · NVDA $227.07 (−1.43%). Plate still Morning’s five ADDs (mistral-d, anthropic-decart, three arXiv catch-ups); lead nvidia-hf. SoftBank HAWKS offering still OPEN through Sep 16. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1 / MatX abandoned; DeepSeek $74B; Broadcom official IR Q3 transcript still unposted (webcast/replay + third-party only). Declined again: FT-via-secondary OpenAI/Anthropic post-IPO IG-ratings lobbying (Reuters still unverified; no readable FT primary); Samsung SDS Real Summit “reviewing” AX/RX/logistics investments with KKR (CB already raised; no new closed deal/terms); Platinum–De Wave ~€400M and Main–Orgvue still below bar / terms soft. X API unavailable this pass (client-not-enrolled). No Forge/Guide routing."
+    "body": "Vol. 1 No. 55 Early Afternoon. TAPE ONLY — no story ADDs. Yahoo live ~12:00 p.m. ET: S&P 7,689.88 (−0.37%) · 10-year 4.79% · 30-year 5.24% · SOX 11,996.20 (+2.22%) · NVDA $226.22 (−1.80%). Plate still Morning’s five ADDs (mistral-d, anthropic-decart, three arXiv catch-ups); lead nvidia-hf. SoftBank HAWKS offering still OPEN through Sep 16. Open watches still OPEN: Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1 / MatX abandoned; DeepSeek $74B; Broadcom official IR Q3 transcript still unposted (webcast/replay + third-party only). Declined again: Samsung SDS Real Summit “reviewing” AX/RX/logistics investments with KKR (no new closed deal/terms); Outline $3M CFO-agent seed and Navana.ai ~$5M Series A (below bar); Hut 8 $7.5B financing pieces rehash Anthropic–Lambda watch without company confirmation. Fresh arXiv cs.AI batch below plate bar. X API unavailable this pass (client-not-enrolled). No Forge/Guide routing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 Midday. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only).",
+    "line": "US cash session Tue Sep 8 Early Afternoon. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only).",
     "href": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
   },
   "sections": [
