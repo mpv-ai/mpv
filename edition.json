@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 67,
+  "number": 68,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~2:50 p.m. ET — cash session live)",
-    "updated": "Sep 9, ~2:50 p.m. ET — US cash session",
-    "line": "S&P 7,645.63 (−0.36%) · 10-year 4.84% · 30-year 5.29% · SOX 11,924.08 (+0.30%) · NVDA $224.07 (−0.74%)"
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 cash close)",
+    "updated": "Sep 9, cash close — US session",
+    "line": "S&P 7,636.36 (−0.48%) · 10-year 4.84% · 30-year 5.29% · SOX 11,931.32 (+0.37%) · NVDA $223.67 (−0.91%)"
   },
   "deskNote": {
-    "kicker": "AI / Infra",
-    "hed": "Late Afternoon: Zankore up-to-$3.1B Nvidia GPU loan; STMicro CFO optics mix.",
+    "kicker": "AI / Funding",
+    "hed": "Evening: Clay $115M Series D at $7.1B; cash-close tape.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 67 Late Afternoon. Catch-up ADD zankore-31b (TechNode + Bloomberg: senior term loan facility up to $3.1B; Citi debt adviser; ING/Natixis/QNB/UOB MLA; initial 100 MW Nvidia build in Indonesia; August launch context 200 MW H1 ’27 / 1 GW DSX — prefer “up to $3.1B”). ADD stm-optics-cfo (Reuters: Grandi ~80% of >$2B 2027 AI DC target is fibre-optic connectivity; ~20% power/cooling; meaningful server-power $ not before 2028). cegid-silae demoted from lead, still on plate. Yahoo tape refreshed (~2:50 p.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript PDF). Declined Meta–Stilla.ai (Axios; terms undisclosed), Bajaj–TrueFan 5% (no $), Finch Pre-A $50M val merge, Genpact/Lyft CFO rotations (off-beat or already declined pattern), Cognition again (on plate). X scan skipped (client-not-enrolled). Forge/Guide nothing."
+    "body": "Vol. 1 No. 68 Evening. ADD clay-d (Clay blog + Business Wire: Wellington-led $115M Series D at $7.1B; >17k customers; $1M GTM-engineer scholarship; Sculpt Oct. 8). zankore-31b demoted from lead, still on plate. Yahoo cash-close tape refreshed. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Xiaopeng Robotics ~$900M/$6.3B (secondary xix.ai only), Bajaj–TrueFan 5% again (no $), Meta–Stilla terms undisclosed, arXiv overnight cs.AI batch (below plate bar), Cognition/Harvey/Mistral/ADI/Cegid recycles. X scan skipped (client-not-enrolled). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
@@ -30,8 +30,40 @@
   ],
   "stories": [
     {
-      "id": "zankore-31b",
+      "id": "clay-d",
       "lead": true,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Clay raises $115M Series D at $7.1B; Wellington leads",
+      "dek": "Company blog Sept. 9. AI GTM / growth agents; >17k customers. Also $1M GTM-engineer scholarship. Prior: $3.1B Series C Aug. 2025; $5B tender Jan. 2026.",
+      "date": "Sept. 9, 2026",
+      "source": "Clay",
+      "url": "https://www.clay.com/blog/series-d",
+      "also": [
+        {
+          "label": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20260909828345/en/"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/clay-valued-71-billion-latest-funding-round-ai-agent-startups-run-hot-2026-09-09/"
+        },
+        {
+          "label": "NYT DealBook (press kit)",
+          "url": "https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / GTM-agent funding as Evening lead (company blog + Business Wire Sept. 9; Reuters wire same day; missed on ~3:52 p.m. NOTHING_NEW pass). PRIMARY: Clay blog https://www.clay.com/blog/series-d — $115M Series D at $7.1B; Wellington led; participants Sequoia, StepStone, a16z, Perennial, Meritech, DST, CapitalG, BoxGroup, Boldstart, Bloomberg Beta, Evolution (blog lists “a16z perennial” — treat as a16z + Perennial per Business Wire/Reuters). Company claims 4x revenue growth in 2025; >17k customers incl. 80% of Forbes AI50 and names Anthropic, Google, OpenAI, Stripe, ElevenLabs, Visa, Siemens, UPS (BW also Workday). Also announces $1M scholarship fund for GTM engineers; Sculpt conference Oct. 8 SF product preview. Context only (not new raise): Aug. 2025 Series C $100M at $3.1B CapitalG-led; Jan. 2026 employee tender at $5B. Do not invent ARR/run-rate beyond company “4x revenue growth in 2025” / prior $100M ARR Dec. 2025 blog color. Prefer company $7.1B over Axios Aug. 31 “$7B pre-money” scoop. Owner Quill.",
+      "grafs": [
+        "Clay, the New York AI go-to-market company, said Sept. 9 it raised $115 million in Series D financing at a $7.1 billion valuation, according to a company blog post by co-founder and CEO Kareem Amin and a matching Business Wire release.",
+        "Wellington led the round, with participation from Sequoia, StepStone, Andreessen Horowitz, Perennial, Meritech, DST, CapitalG, BoxGroup, Boldstart, Bloomberg Beta, and Evolution. Clay said the raise follows 4x revenue growth in 2025 and that more than 17,000 customers use the platform, including 80% of the Forbes AI 50 and customers such as Anthropic, Google, OpenAI, Stripe, ElevenLabs, Visa, Siemens, and UPS.",
+        "The company also announced a $1 million scholarship fund to train GTM engineers and said it will preview product launches at Sculpt, its second annual user conference, on Oct. 8 in San Francisco. Stick to the Series D size and $7.1B valuation as the new print; treat the Aug. 2025 $100M / $3.1B Series C and Jan. 2026 $5B employee tender as prior context only."
+      ]
+    },
+    {
+      "id": "zankore-31b",
+      "lead": false,
       "section": "AI",
       "kicker": "Infrastructure",
       "hed": "Zankore signs up-to-$3.1B senior loan for Nvidia GPU AI cloud in Indonesia",
