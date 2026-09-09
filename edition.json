@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 60,
+  "number": 61,
   "city": "New York",
   "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Night",
+  "editionLabel": "Late Night",
   "tape": {
     "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~4:11 p.m. ET — cash close (unchanged into night)",
+    "updated": "Sep 8, ~4:11 p.m. ET — cash close (unchanged into late night)",
     "line": "S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%)"
   },
   "deskNote": {
-    "kicker": "AI / Funding",
-    "hed": "Night: Cognition Series E >$2B at $48B.",
+    "kicker": "AI / Infra",
+    "hed": "Late Night catch-up: Qualcomm–Amazon multi-gen silicon + $60B warrant path.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 60 Night. ADD cognition-e (Cognition company blog Sept. 8: >$2B Series E at $48B; a16z + Accel lead; run-rate ~$492M→almost $900M since May). Supersedes prior talks-only decline. Yahoo cash-close tape unchanged: S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only). Declined Sapien (Fortune: $180M valuation, raise size undisclosed — below plate bar) and Renaissance–De Wave (~€400M yacht interiors; terms soft)."
+    "body": "Vol. 1 No. 61 Late Night. ADD qcom-amzn (Qualcomm PR + 8-K Item 3.02: multi-gen custom AI inference silicon with Amazon / AWS; optical to 1.6T; Amazon.com NV Investment Holdings warrant up to 25M QCOM @ $161.26 expiring Sept. 3, 2036; vest to max $60B purchases; 3.75M vested on issue). Catch-up — morning print missed on No. 60 Night. Yahoo cash-close tape UNCHANGED. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only). Declined Genpact CFO (mid-cap rotate), L Catterton–Hyrox talks, Renaissance–De Wave (~€400M yacht), Sapien ($180M valuation / raise size undisclosed)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). CPI and PPI this week — last major inflation prints before the Sept. 15–16 FOMC. Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus; Reuters mid-October roadshow / late-Sept prospectus still people-familiar). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed. Cognition Series E now company-confirmed (see cognition-e).",
-    "href": "https://cognition.ai/blog/series-e"
+    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html"
   },
   "sections": [
     "All",
@@ -83,6 +83,34 @@
         "Cognition on Sept. 8 said it raised over $2 billion in a Series E at a $48 billion valuation, the company wrote in a blog post titled “Do it all with Devin: Announcing our Series E.”",
         "New investors Andreessen Horowitz and Accel led the round, alongside existing investors Founders Fund, General Catalyst and Avenir. The company also named a long syndicate including Benchmark, Bessemer, Kleiner Perkins, Greylock, Lightspeed, Altimeter, Bond Capital, Meritech, Atreides, Valor, T. Rowe Price, Lux, 8VC, D1, 137 Ventures, DST, Positive Sum and others listed in the post.",
         "Since its May round, Cognition said run-rate revenue has grown from $492 million to almost $900 million. The post cites Devin deployments across chip design at NVIDIA, aviation at GE Aerospace, financial services at Citi, automotive at Mercedes-Benz, and AI infrastructure at Modal, and says Cognition is building as an independent agent lab that can choose and combine models, including its own."
+      ]
+    },
+    {
+      "id": "qcom-amzn",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Infra",
+      "hed": "Qualcomm–Amazon: multi-gen AI data-center silicon; warrant to $60B buys",
+      "dek": "Company PR + 8-K Sept. 8. Custom inference silicon + optical to 1.6T. Amazon affiliate warrant: up to 25M QCOM @ $161.26; 3.75M vested on issue.",
+      "date": "Sept. 8, 2026",
+      "source": "Qualcomm; SEC Form 8-K",
+      "url": "https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html",
+      "also": [
+        {
+          "label": "SEC Form 8-K (filed Sept. 8; event Sept. 3)",
+          "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926105718/tm2623289d1_8k.htm"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI infra / hyperscaler silicon (catch-up vs No. 60 Night — morning PR/8-K missed on plate). PRIMARY PR (Qualcomm Technologies via PR Newswire, Sept. 8, 9:00 ET): multi-generation collaboration with Amazon for customized silicon at scale for large-scale AI data centers, working together on AI inference; also high-performance optical connectivity solutions extending up to 1.6T and future generations; Qualcomm to deepen use of AWS AI infra including Amazon Bedrock for EDA, targeting shorter chip-design cycles. Quotes: Cristiano Amon (QCOM CEO); Prasad Kalyanaraman (VP, AWS). PRIMARY economics: QUALCOMM Inc. Form 8-K Item 3.02 signed by CFO/COO Akash Palkhiwala, dated Sept. 8, 2026 (earliest event Sept. 3) — in connection with strategic collaboration among QUALCOMM, QTI affiliates, and Amazon Data Services affiliates for Amazon purchases of QTI server chip products, technology, systems and manufacturing services, Company issued warrant to Amazon.com NV Investment Holdings LLC to acquire up to 25,000,000 shares of QCOM common stock at $161.26 per share; cashless exercise; expires Sept. 3, 2036; shares vest in tranches tied to commercial arrangements, binding POs and actual purchases up to a maximum of $60 billion in payments, with 3,750,000 shares vested upon issuance based on initial purchase commitments; no voting rights until exercise; Section 4(a)(2); resale registration planned. ALSO Reuters: frames warrant as right to buy about $4 billion of stock at $161.26; notes Amazon custom-chip ARR >$25B end-June quarter and Qualcomm data-center chip revenue ambition $15B by 2029 as color — attribute carefully; do not treat $60B as booked revenue or firm order. Do not invent MW, GPU counts, ASP, or close timing.",
+      "grafs": [
+        "Qualcomm Technologies said Tuesday it is collaborating with Amazon across multiple generations of customized silicon for large-scale AI data centers, with the work centered on AI inference, and that the companies are also developing high-performance optical connectivity solutions extending up to 1.6T and future generations. The San Diego chipmaker said it plans to deepen its own use of AWS AI infrastructure, including Amazon Bedrock, for electronic design automation workloads to shorten chip-design cycles. CEO Cristiano Amon cast the tie-up as compute-plus-connectivity for more efficient AI infrastructure; AWS vice president Prasad Kalyanaraman said the pair are aiming at more performant, efficient, and cost-effective infrastructure for customers.",
+        "The financing side sits in QUALCOMM Incorporated’s Form 8-K under Item 3.02, signed by CFO and COO Akash Palkhiwala and dated Sept. 8, 2026, with earliest event Sept. 3. In connection with a strategic collaboration covering Amazon’s purchases of Qualcomm Technologies server chip products, technology, systems, and manufacturing services, Qualcomm issued a warrant to Amazon.com NV Investment Holdings LLC for up to 25,000,000 shares of Qualcomm common stock at an exercise price of $161.26 a share. The warrant allows cashless exercise and expires Sept. 3, 2036. Shares vest in tranches tied to commercial arrangements, binding purchase orders, and actual purchases during the warrant term, up to a maximum of $60 billion in payments, with 3,750,000 shares vested on issuance based on initial purchase commitments. Unexercised, the warrant carries no voting or other stockholder rights; Qualcomm expects to file a resale prospectus supplement, relying on Securities Act Section 4(a)(2).",
+        "Reuters, citing the same filing, framed the warrant as a right for Amazon to buy about $4 billion of Qualcomm stock at $161.26 and said Amazon could buy up to $60 billion of Qualcomm’s AI data-center chips and related products under the long-term partnership. That $60 billion figure is the 8-K’s maximum payments tied to vesting — not booked revenue and not a guaranteed order book. Carry Reuters’ color on Amazon’s custom-chip annualized revenue run-rate above $25 billion at the end of the June quarter, and on Qualcomm’s stated ambition for $15 billion of data-center chip revenue by 2029, only as attributed wire context. Catch-up: the PR and 8-K cleared the morning window but were missing from Vol. 1 No. 60 Night."
       ]
     },
     {
