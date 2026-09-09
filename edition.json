@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 62,
+  "number": 63,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~9:28 a.m. ET — cash session not yet open)",
-    "updated": "Sep 9, ~9:28 a.m. ET — Tue Sep 8 cash close held into Wed open",
-    "line": "S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%)"
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~9:53 a.m. ET — cash session live)",
+    "updated": "Sep 9, ~9:53 a.m. ET — US cash open",
+    "line": "S&P 7,650.51 (−0.30%) · 10-year 4.80% · 30-year 5.25% · SOX 11,931.42 (+0.37%) · NVDA $224.52 (−0.54%)"
   },
   "deskNote": {
-    "kicker": "AI / IPO",
-    "hed": "Morning: DeepSeek taps CITIC for STAR IPO prep; Friar Communacopia CFO prints; three arXiv clears.",
+    "kicker": "AI / Semis",
+    "hed": "Mid-morning: ADI buys Alif for $1.35B; Samsung–Mistral on-prem fab AI; Thoma Bravo–Tanda growth stake.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 62 Morning. ADD deepseek-citic (Reuters exclusive Sept. 9: CITIC Securities for Shanghai STAR Market IPO prep; aims to begin process this year; timing/size/valuation undetermined — does NOT close the open $74–75B / 500bn yuan funding-round watch). ADD openai-friar (Reuters: Sarah Friar at Goldman Communacopia — Jalapeno taped out in nine months; Luna −80% price / ~10× usage; Codex 25M users; enterprise rev +32% Jun→Jul vs ~20% overall ARR; mid-year enterprise/consumer ~even; Luna cheaper than Z.ai GLM 5.3 on cloud per Friar). ADD goant-alpha (2609.08719), ai-for-ai-grid (2609.08166), profit-alignment (2609.07731). Yahoo tape UNCHANGED (Tue cash close held into Wed pre-open). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript still unconfirmed vs third-party copies). Declined GE–CPP PE Wire rehash (already on plate); Forvis Mazars PE-AI webinar; Breakingviews DC-credit color Sep 8."
+    "body": "Vol. 1 No. 63 Mid-Morning. ADD adi-alif (ADI PR Newswire Sept. 9: $1.35B cash upfront for Alif Semiconductor + up to $200M contingent; close eyed before YE26; HSR; Physical Intelligence framing; do not invent EV multiples). ADD samsung-mistral-partner (Samsung Global Newsroom Sept. 9: on-prem Mistral Large for DS chip design/manufacturing; Series D lead restated — distinct from plate mistral-d funding). ADD thoma-tanda (Thoma Bravo Sept. 8: strategic growth investment in Tanda/Workforce.com; terms undisclosed; founders remain; AI roadmap). Yahoo tape refreshed to live cash session. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined Anthropic mid-Oct IPO chatter; Runway–Kinetix team join; Genpact CFO rumor; Goodwin–Cerberus secondary; GSAM–NOJA paywalled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash opens Wed Sep 9 ~9:30 a.m. ET (tape still Tue close at this print). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.reuters.com/world/chinas-deepseek-taps-citic-securities-domestic-ipo-sources-say-2026-09-09/"
+    "line": "ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.prnewswire.com/news-releases/analog-devices-to-acquire-alif-semiconductor-adding-an-ai-native-processing-platform-to-advance-physical-intelligence-for-the-next-generation-of-real-world-systems-302873715.html"
   },
   "sections": [
     "All",
@@ -30,8 +30,80 @@
   ],
   "stories": [
     {
-      "id": "nvidia-hf",
+      "id": "adi-alif",
       "lead": true,
+      "section": "AI",
+      "kicker": "Semis",
+      "hed": "ADI to buy Alif Semiconductor for $1.35B cash (+ up to $200M contingent)",
+      "dek": "Edge AI MCUs and fusion processors for “Physical Intelligence.” Close eyed before YE26; HSR waiting period.",
+      "date": "Sept. 9, 2026",
+      "source": "Analog Devices (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/analog-devices-to-acquire-alif-semiconductor-adding-an-ai-native-processing-platform-to-advance-physical-intelligence-for-the-next-generation-of-real-world-systems-302873715.html",
+      "also": [
+        {
+          "label": "Analog Devices IR",
+          "url": "https://investor.analog.com/news-releases/news-release-details/analog-devices-acquire-alif-semiconductor-adding-ai-native"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / semis M&A as hourly lead. PRIMARY: ADI–Alif PR Newswire Sept. 9 (Wilmington/Pleasanton). Stick to company prints: definitive agreement; all-cash $1.35 billion upfront to Alif stockholders subject to definitive agreement terms; incremental contingent consideration of up to $200 million; boards of both companies approved; expected close before end of calendar year 2026 subject to customary conditions and HSR waiting period; Alif (Pleasanton) AI-native microcontrollers and fusion processors with integrated NPUs; silicon shipping with design wins; Vincent Roche “Physical Intelligence” framing; advisors PJT/Wachtell (ADI), Qatalyst/DLA Piper (Alif). Do not invent EV multiples, Alif private marks, revenue, or accretion. Signed, not closed. Owner Quill.",
+      "grafs": [
+        "Analog Devices, Inc. (NASDAQ: ADI) and Alif Semiconductor announced Sept. 9 that they have entered a definitive agreement under which ADI will acquire Alif in an all-cash transaction for $1.35 billion of upfront consideration, subject to the terms of the definitive agreement.",
+        "Both companies’ boards approved the deal. ADI may also pay incremental contingent consideration of up to $200 million. The transaction is expected to close before the end of calendar year 2026, subject to customary closing conditions and the expiration of the applicable Hart-Scott-Rodino waiting period.",
+        "Alif, based in Pleasanton, California, supplies AI-native microcontrollers and fusion processors with integrated neural processing units; the companies said Alif’s silicon is already shipping in production with design wins. ADI CEO and Chair Vincent Roche framed the combination as advancing “Physical Intelligence” — systems that sense, reason, and act locally in real time. PJT Partners and Wachtell advised ADI; Qatalyst Partners and DLA Piper advised Alif."
+      ]
+    },
+    {
+      "id": "samsung-mistral-partner",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Partnership",
+      "hed": "Samsung + Mistral: on-prem AI for chip design and manufacturing",
+      "dek": "Samsung Newsroom Sept. 9. Mistral Large inside Samsung DS; Series D lead restated — distinct from plate mistral-d.",
+      "date": "Sept. 9, 2026",
+      "source": "Samsung Global Newsroom",
+      "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+      "also": [
+        {
+          "label": "Mistral Series D (already on plate)",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as separate id from mistral-d. PRIMARY: Samsung Global Newsroom Sept. 9 — strategic partnership to enhance semiconductor engineering and manufacturing; Samsung will integrate Mistral services including Mistral Large across semiconductor operations for customized on-premises AI models with sensitive data kept inside Samsung infrastructure; use cases cited include defect detection, equipment optimization, yield stabilization for advanced memory and logic; same release restates Samsung led Mistral’s Series D and took a strategic equity stake. Do not rehash €3B / >€21B funding numbers except as brief pointer to mistral-d already on plate. Quotes: Young Hyun Jun (Samsung DS); Arthur Mensch (Mistral) if needed for package. Owner Quill.",
+      "grafs": [
+        "Samsung Electronics announced a strategic partnership with Mistral AI to enhance semiconductor engineering and manufacturing, according to a Sept. 9 Samsung Global Newsroom release tied to the Korea–France summit framing in the company’s messaging.",
+        "Samsung said it will integrate Mistral services, including Mistral Large, across its semiconductor operations to develop customized on-premises AI models while keeping sensitive data inside Samsung infrastructure. Cited use cases include defect detection, equipment optimization, and yield stabilization for advanced memory and logic.",
+        "The same Newsroom release restates that Samsung led Mistral’s Series D financing and took a strategic equity stake — commercial partnership detail that sits alongside, and does not replace, the plate’s mistral-d funding story."
+      ]
+    },
+    {
+      "id": "thoma-tanda",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity",
+      "hed": "Thoma Bravo takes growth stake in Tanda (Workforce.com); terms undisclosed",
+      "dek": "First outside capital after 14 years bootstrapped. Founders remain significant shareholders; Phillpot stays CEO.",
+      "date": "Sept. 8, 2026",
+      "source": "Thoma Bravo",
+      "url": "https://www.thomabravo.com/press-releases/thoma-bravo-announces-strategic-growth-investment-in-tanda",
+      "also": [
+        {
+          "label": "PR Newswire (APAC)",
+          "url": "https://www.prnewswire.com/apac/news-releases/thoma-bravo-announces-strategic-growth-investment-in-tanda-302872915.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / software growth. PRIMARY: Thoma Bravo press release dated September 8, 2026 (Brisbane/San Francisco). Stick to disclosed prints only: strategic growth investment in Tanda (workforce management, payroll and HR for shift-based workers; operates internationally as Workforce.com); proceeds support product innovation including AI roadmap and new-market expansion; terms not disclosed; co-founders remain significant shareholders; Jake Phillpot remains CEO; company says previously bootstrapped 14 years with no outside capital; ~8,000 businesses globally; Thoma Bravo AUM approximately $170 billion as of June 30, 2026 per release. Advisors: Barrenjoey / SBA Law (Tanda); Piper Sandler / Kirkland & Ellis / Allens (Thoma Bravo). Do not invent valuation, check size, or ownership %. Owner Quill.",
+      "grafs": [
+        "Thoma Bravo announced a strategic growth investment in Tanda, a workforce management, payroll and HR platform for shift-based workers that operates internationally as Workforce.com, in a Sept. 8 press release. Proceeds are intended to support product innovation, including the company’s AI roadmap, and expansion into new markets. Terms of the transaction were not disclosed.",
+        "Tanda’s co-founders will remain significant shareholders and continue to lead the company, with Jake Phillpot remaining chief executive officer. The company said it had been bootstrapped with no outside capital for 14 years since founding and serves approximately 8,000 businesses globally across hospitality, retail, quick-service restaurants, healthcare and other frontline industries.",
+        "Thoma Bravo described itself as holding approximately $170 billion in assets under management as of June 30, 2026. Barrenjoey and SBA Law advised Tanda; Piper Sandler, Kirkland & Ellis, and Allens advised Thoma Bravo."
+      ]
+    },
+    {
+      "id": "nvidia-hf",
+      "lead": false,
       "section": "AI",
       "kicker": "Deal",
       "hed": "Nvidia to buy Hugging Face for $12.93B",
