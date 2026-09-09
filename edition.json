@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 66,
+  "number": 67,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~2:03 p.m. ET — cash session live)",
-    "updated": "Sep 9, ~2:03 p.m. ET — US cash session",
-    "line": "S&P 7,645.61 (−0.36%) · 10-year 4.83% · 30-year 5.28% · SOX 11,936.40 (+0.41%) · NVDA $224.30 (−0.63%)"
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~2:50 p.m. ET — cash session live)",
+    "updated": "Sep 9, ~2:50 p.m. ET — US cash session",
+    "line": "S&P 7,645.63 (−0.36%) · 10-year 4.84% · 30-year 5.29% · SOX 11,924.08 (+0.30%) · NVDA $224.07 (−0.74%)"
   },
   "deskNote": {
-    "kicker": "PE / Software",
-    "hed": "Afternoon: Silver Lake merges Cegid + Silae at >€10B EV; Pedersen to CEO.",
+    "kicker": "AI / Infra",
+    "hed": "Late Afternoon: Zankore up-to-$3.1B Nvidia GPU loan; STMicro CFO optics mix.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 66 Afternoon. Catch-up ADD cegid-silae (Cegid PR Paris Sept. 9 + Silae FR: intention to merge; combined EV >€10B; Silver Lake remains majority; Christian Pedersen from IFS to CEO of combined group; close guided H1 2027; 2M end-customers / >15k CPA firms / >13M monthly payslips; ~1,400-dev AI/R&D push). google-fi-13b demoted from lead, still on plate. Yahoo tape refreshed (~2:03 p.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined Meta–Stilla.ai (Axios scoop; terms undisclosed; no company $), Bajaj–TrueFan 5% (no $), AdaptHealth/Kura/MSC CFO rotations (off-beat), TRM Labs $2B val expansion (amount undisclosed). X scan skipped (client-not-enrolled). Forge/Guide nothing."
+    "body": "Vol. 1 No. 67 Late Afternoon. Catch-up ADD zankore-31b (TechNode + Bloomberg: senior term loan facility up to $3.1B; Citi debt adviser; ING/Natixis/QNB/UOB MLA; initial 100 MW Nvidia build in Indonesia; August launch context 200 MW H1 ’27 / 1 GW DSX — prefer “up to $3.1B”). ADD stm-optics-cfo (Reuters: Grandi ~80% of >$2B 2027 AI DC target is fibre-optic connectivity; ~20% power/cooling; meaningful server-power $ not before 2028). cegid-silae demoted from lead, still on plate. Yahoo tape refreshed (~2:50 p.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript PDF). Declined Meta–Stilla.ai (Axios; terms undisclosed), Bajaj–TrueFan 5% (no $), Finch Pre-A $50M val merge, Genpact/Lyft CFO rotations (off-beat or already declined pattern), Cognition again (on plate). X scan skipped (client-not-enrolled). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Cegid–Silae close guided H1 2027 (works council + regulators). ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close.",
-    "href": "https://www.cegid.com/global/news/cegid-and-silae-join-forces-to-create-a-european-leader-in-ai-driven-business-technology/"
+    "line": "Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided, not online. Cegid–Silae close guided H1 2027 (works council + regulators). ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close. STMicro >$2B 2027 AI DC target mix now printed; server-power leg still 2028+.",
+    "href": "https://technode.global/2026/09/09/zankore-3-1b-ai-infrastructure-financing-indonesia/"
   },
   "sections": [
     "All",
@@ -30,8 +30,60 @@
   ],
   "stories": [
     {
-      "id": "cegid-silae",
+      "id": "zankore-31b",
       "lead": true,
+      "section": "AI",
+      "kicker": "Infrastructure",
+      "hed": "Zankore signs up-to-$3.1B senior loan for Nvidia GPU AI cloud in Indonesia",
+      "dek": "Ooredoo/Indosat/Nokia/Nvidia-backed neocloud. Citi debt adviser; ING, Natixis, QNB, UOB MLA. Initial ~100 MW build; 200 MW guided H1 ’27.",
+      "date": "Sept. 9, 2026",
+      "source": "TechNode Global",
+      "url": "https://technode.global/2026/09/09/zankore-3-1b-ai-infrastructure-financing-indonesia/",
+      "also": [
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/nvidia-backed-firm-in-indonesia-signs-3-1-billion-gpu-loan"
+        },
+        {
+          "label": "IOH launch (Aug.)",
+          "url": "https://ioh.co.id/EN/contents?slug=indosat-ooredoo-group-nokia-and-nvidia-launch-zankore-by-indosat-ready-to-serve-the-region-with-full-stack-ai-infra-platform"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / hyperscaler-adjacent neocloud debt as Late Afternoon lead (catch-up: Bloomberg ~5:27 a.m. ET / TechNode same day; flagged at ~2:00 p.m. ET hourly but deferred behind cegid-silae). PRIMARY: TechNode Global Sept. 9 reporting Zankore company announcement + Bloomberg. Stick to sourced prints: senior term loan facility of up to $3.1 billion to fund GPU infrastructure deployment; Citi exclusive debt adviser; Citi, ING, Natixis CIB, Qatar National Bank and UOB senior mandated lead arrangers/underwriters/bookrunners; company also building an initial 100 MW of NVIDIA AI infrastructure in Indonesia. August launch context (IOH PR): Indosat Ooredoo Hutchison + Ooredoo Group + Nokia + NVIDIA; ~200 MW AI capacity guided first half 2027 on NVIDIA GB300 NVL72 / DSX; up to 1 GW DSX AI Factory target. Do not invent draw schedule, interest rate, Nvidia guarantee %, or booked GPU purchase $. Prefer “up to $3.1B” facility language (TechNode) over truncated “$3.1B loan” headlines. Ooredoo 49% / ~$800M equity color is August launch reporting (TelecomTV etc.) — secondary to the Sept. 9 debt print; do not treat as new equity raise today. Owner Quill.",
+      "grafs": [
+        "Zankore, the Indonesia-based AI infrastructure platform backed by Indosat Ooredoo Hutchison, Ooredoo Group, NVIDIA and Nokia, said Sept. 9 it has signed a senior term loan facility of up to $3.1 billion to fund the next phase of NVIDIA GPU deployment, according to TechNode Global’s report of the company announcement and a Bloomberg wrap.",
+        "Citi acted as exclusive debt adviser. Citi, ING, Natixis CIB, Qatar National Bank and United Overseas Bank were senior mandated lead arrangers, underwriters and bookrunners. Zankore said it is building an initial 100 MW of NVIDIA-powered AI infrastructure in Indonesia and described the package as one of Asia’s largest AI-infrastructure financings and the first syndicated deal of this scale in Asia-Pacific — company characterizations, not independent rankings.",
+        "The debt follows Zankore’s August launch, when Indosat and partners outlined a NVIDIA DSX AI Factory platform targeting up to 1 GW of capacity and roughly 200 MW in the first half of 2027 on GB300 NVL72 systems. Stick to the Sept. 9 facility size and bank roster as the new print; treat August capacity and sponsor equity figures as launch context only."
+      ]
+    },
+    {
+      "id": "stm-optics-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Semiconductors",
+      "hed": "STMicro CFO: ~80% of >$2B 2027 AI data-center target is optics",
+      "dek": "Grandi at Citi TMT. Remaining ~20% power/cooling; meaningful server-power revenue not before 2028. First breakdown of July-raised target.",
+      "date": "Sept. 9, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/stmicros-2027-ai-revenue-be-four-fifths-optics-cfo-says-2026-09-09/",
+      "also": [
+        {
+          "label": "Seeking Alpha (Citi TMT transcript)",
+          "url": "https://seekingalpha.com/article/4944477-stmicroelectronics-n-v-stm-presents-at-citis-2026-global-tmt-conference-transcript"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / AI semis as Late Afternoon companion (Reuters ~12:19 p.m. ET; missed on Nos. 65–66). PRIMARY: Reuters Sept. 9 (Nathan Vifflin). Stick to prints: about 80% of the more than $2 billion in AI data-centre revenue STMicroelectronics is targeting for 2027 will come from chips used in fibre-optic data links; remaining 20% from chips for cooling systems and power conversion inside servers; CFO Lorenzo Grandi told Citi’s Global TMT Conference in New York; short term mainly driven by connectivity; ST’s presence in server power currently limited and company does not expect meaningful revenue from that business before 2028; first breakdown of a target the company raised in July. Do not invent 2026 dollar figures beyond what Reuters states, nor product SKUs. Owner Quill.",
+      "grafs": [
+        "STMicroelectronics CFO Lorenzo Grandi told Citi’s Global TMT Conference in New York on Sept. 9 that about 80% of the more than $2 billion in AI data-center revenue the chipmaker is targeting for 2027 will come from chips used in fibre-optic data links, Reuters reported — the first breakdown of a target ST raised in July.",
+        "The remaining roughly 20% is expected from chips used for cooling systems and power conversion inside servers. Grandi said the near term will be mainly driven by the connectivity portion, that ST’s presence in server power is currently limited, and that the company does not expect meaningful revenue from that business before 2028.",
+        "The comments frame ST’s AI data-center story, for now, as an optical-connectivity franchise, with the larger server-power opportunity still out on the 2028+ horizon."
+      ]
+    },
+    {
+      "id": "cegid-silae",
+      "lead": false,
       "section": "PE",
       "kicker": "Software",
       "hed": "Silver Lake to merge Cegid + Silae at >€10B EV; Pedersen CEO",
