@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 68,
+  "number": 69,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance chart quotes (Wed Sep 9 cash close)",
     "updated": "Sep 9, cash close — US session",
     "line": "S&P 7,636.36 (−0.48%) · 10-year 4.84% · 30-year 5.29% · SOX 11,931.32 (+0.37%) · NVDA $223.67 (−0.91%)"
   },
   "deskNote": {
-    "kicker": "AI / Funding",
-    "hed": "Evening: Clay $115M Series D at $7.1B; cash-close tape.",
+    "kicker": "PE / Buyout",
+    "hed": "Late Evening: Cerberus–Goodwin up-to-£1.1B; TPG–Lyric ~$5B explore.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 68 Evening. ADD clay-d (Clay blog + Business Wire: Wellington-led $115M Series D at $7.1B; >17k customers; $1M GTM-engineer scholarship; Sculpt Oct. 8). zankore-31b demoted from lead, still on plate. Yahoo cash-close tape refreshed. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Xiaopeng Robotics ~$900M/$6.3B (secondary xix.ai only), Bajaj–TrueFan 5% again (no $), Meta–Stilla terms undisclosed, arXiv overnight cs.AI batch (below plate bar), Cognition/Harvey/Mistral/ADI/Cegid recycles. X scan skipped (client-not-enrolled). Forge/Guide nothing."
+    "body": "Vol. 1 No. 69 Late Evening. ADD cerberus-goodwin (Goodwin RNS + Cerberus PR: up-to-£1.1B headline cash for Mechanical Engineering perimeter; Q1 ’27 close guided) as Late Evening lead; ADD tpg-lyric (Reuters exclusive people-familiar ~$5B Lyric sale process; JPMorgan; ~$250M EBITDA). clay-d demoted from lead, still on plate. Cash-close tape UNCHANGED. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Lightfield $47M Series A (no company valuation; below plate vs Clay), Cymphony $30M/>$100M, Xiaopeng Robotics secondary again, Bajaj–TrueFan, Meta–Stilla terms undisclosed, L Catterton–Hyrox terms undisclosed, Cognition/Harvey/Clay/Zankore/Cegid recycles. X scan skipped (client-not-enrolled). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided, not online. Cegid–Silae close guided H1 2027 (works council + regulators). ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close. STMicro >$2B 2027 AI DC target mix now printed; server-power leg still 2028+.",
+    "line": "Cerberus–Goodwin Q1 ’27 close still guided (reorg + NSIA/FDI/antitrust). TPG–Lyric sale process OPEN — no signed deal. Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided, not online. Cegid–Silae close guided H1 2027 (works council + regulators). ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close. STMicro >$2B 2027 AI DC target mix now printed; server-power leg still 2028+.",
     "href": "https://technode.global/2026/09/09/zankore-3-1b-ai-infrastructure-financing-indonesia/"
   },
   "sections": [
@@ -30,8 +30,55 @@
   ],
   "stories": [
     {
-      "id": "clay-d",
+      "id": "cerberus-goodwin",
       "lead": true,
+      "section": "PE",
+      "kicker": "Buyout",
+      "hed": "Cerberus agrees up-to-£1.1B deal for Goodwin mechanical engineering unit",
+      "dek": "Company RNS + Cerberus PR Sept. 9. Defence/industrial PE; Q1 ’27 close guided. GSC, GI, Noreva, Easat, Pumps in perimeter.",
+      "date": "Sept. 9, 2026",
+      "source": "Goodwin RNS",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-09-09:newsml_RSI0128Ua:0-reg-goodwin-plc-cerberus-capital-m-sale-of-mechanical-engineering-division/",
+      "also": [
+        {
+          "label": "Cerberus PR",
+          "url": "https://www.prnewswire.com/news-releases/cerberus-to-acquire-substantial-part-of-the-mechanical-engineering-division-of-goodwin-plc-302873555.html"
+        },
+        {
+          "label": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cyvzn5r054yo"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / defence-industrial buyout as Late Evening lead (catch-up: Cerberus PR ~5:20 a.m. ET / Goodwin RNS same day; missed on Nos. 63–68). PRIMARY: Goodwin PLC RNS Sept. 9 (via TradingView/LSEG RNS reprint) + matching Cerberus PRNewswire. Stick to sourced prints: agreement to sell substantial part of Mechanical Engineering division (Goodwin Steel Castings, Goodwin International, Noreva GmbH, Easat Group, Pumps Division) to Cerberus affiliate Deepwater Lord Acquisition Co Limited for headline cash consideration of up to approximately £1.1 billion subject to customary closing adjustments; expected complete Q1 2027 subject to reorganisation + antitrust/FDI/regulatory approvals (incl. UK NSIA); FY ended 30 Apr 2026 perimeter ~£206m gross assets / ~£69m operating profit (RNS narrative; Appendix 2 shows operating profit £70.187m — prefer RNS “£69 million” narrative figure or note appendix); Refractory + Technological remain with Goodwin; Board intends significant proportion of net cash proceeds to shareholders (quantum/timing/form TBD); CFO Adam Deeth and GC Anthony Thomas expected to step down conditional on completion (Board searching replacements). Prefer “up to approximately £1.1 billion” language. Do not invent EV multiple or GBP/USD conversion. Owner Quill.",
+      "grafs": [
+        "Cerberus Capital Management said Sept. 9 its affiliate has agreed to acquire a substantial part of Goodwin plc’s Mechanical Engineering Division for a headline cash consideration of up to approximately £1.1 billion, subject to customary purchase-price adjustments, matching a Goodwin regulatory announcement the same day.",
+        "The perimeter includes Goodwin Steel Castings, Goodwin International, Noreva GmbH, Easat Group and the Pumps Division — businesses that supply aerospace, defence, nuclear, power and mining customers, including UK, US and Australian navy work and AUKUS-related programmes. Completion is guided for the first quarter of 2027, after an internal reorganisation and antitrust, foreign-direct-investment and other regulatory clearances.",
+        "Goodwin said the unit represented about £206 million in gross assets and £69 million in operating profits in the year ended April 30, 2026, and that it intends to return a significant share of net cash proceeds to shareholders once quantum, timing and form are set. Stick to the £1.1 billion headline and Q1 ’27 close guide; treat defence-spending color as context, not a new print."
+      ]
+    },
+    {
+      "id": "tpg-lyric",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Exit watch",
+      "hed": "TPG explores ~$5B sale of healthcare payment software Lyric — Reuters",
+      "dek": "People familiar. JPMorgan advising. ~$250M EBITDA. Payment-integrity software for insurers incl. UNH, CVS, Humana. Early process; no deal assured.",
+      "date": "Sept. 9, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/tpg-explores-5-billion-sale-healthcare-software-company-lyric-sources-say-2026-09-09/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE / healthcare software exit as Late Evening companion (Reuters exclusive ~3:49 p.m. ET; missed on No. 67 NOTHING_NEW and No. 68 Evening). PRIMARY: Reuters Sept. 9 (Sabrina Valle). Stick to people-familiar prints only: TPG exploring sale of Lyric, healthcare payments / payment-integrity software; process could value company at about $5 billion; working with JPMorgan Chase; Lyric generates about $250 million of annual EBITDA; insurers including UnitedHealth, CVS and Humana hire Lyric to prevent inaccurate medical claims payments. Do not invent bid list, multiple, or close timing. Prefer “about $5 billion” / “explores” language — not a signed deal. Historical context only if needed: TPG’s prior ClaimsXten/Change carve-out is older FierceHealthcare color, not today’s print. Owner Quill.",
+      "grafs": [
+        "Private equity firm TPG is exploring a sale of Lyric, the healthcare payment-integrity software company, in a process that could value the business at about $5 billion, people close to the discussions told Reuters on Sept. 9.",
+        "TPG is working with investment bankers at JPMorgan Chase on a possible sale, the people said. Lyric generates about $250 million of annual EBITDA, and insurers including UnitedHealth, CVS and Humana use the software to help prevent inaccurate medical claims payments, according to the report.",
+        "Treat the story as an early sale process, not a closed transaction: stick to Reuters’ people-familiar figures and do not invent buyers, timing, or a signed purchase agreement."
+      ]
+    },
+    {
+      "id": "clay-d",
+      "lead": false,
       "section": "AI",
       "kicker": "Funding",
       "hed": "Clay raises $115M Series D at $7.1B; Wellington leads",
