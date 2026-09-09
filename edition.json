@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 64,
+  "number": 65,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~11:15 a.m. ET — cash session live)",
-    "updated": "Sep 9, ~11:15 a.m. ET — US cash session",
-    "line": "S&P 7,630.24 (−0.56%) · 10-year 4.82% · 30-year 5.26% · SOX 11,891.83 (+0.03%) · NVDA $224.24 (−0.66%)"
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~11:54 a.m. ET — cash session live)",
+    "updated": "Sep 9, ~11:54 a.m. ET — US cash session",
+    "line": "S&P 7,639.49 (−0.44%) · 10-year 4.84% · 30-year 5.29% · SOX 11,943.70 (+0.47%) · NVDA $224.43 (−0.58%)"
   },
   "deskNote": {
-    "kicker": "AI / Funding",
-    "hed": "Late morning: Harvey $550M at $15.5B; ADI–Alif and Samsung–Mistral still on plate.",
+    "kicker": "AI / Infrastructure",
+    "hed": "Midday: Google ≥€13B Finland AI infra; Fortum 22-year Loviisa PPA; Harvey Guardrails now company-primary.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 64 Late Morning. ADD harvey-550 (Harvey blog Sept. 9: $550M at $15.5B; Diffusion + Lightspeed co-lead; open-weight model + Harvey LAB; Am Law 100 print). Prior Mid-Morning adds adi-alif / samsung-mistral-partner / thoma-tanda kept. Yahoo tape refreshed (~11:15 a.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined Copilot Capital–Green Eagle (majority, terms undisclosed, mid-market), Valsoft/TAG–Square 9 (terms undisclosed), Zaigo PE diligence launch, Guardrails AI claim as company-primary (TNW only; absent from Harvey blog). Forge/Guide nothing."
+    "body": "Vol. 1 No. 65 Midday. Catch-up ADD google-fi-13b (Google Cloud press corner Sept. 9: plans to invest at least €13B in Finland digital/AI infrastructure over 2027–2028; largest single European investment; Hamina + Kajaani/Muhos/Vaala) and fortum-google (Fortum inside information 10:00 EEST: 22-year Loviisa nuclear PPA, up to 50% of capacity 2030–49; Group comparable RONA +~1.4pp over time; ~€1B lifetime-extension programme). UPDATE harvey-550: Guardrails AI acquisition now company-confirmed (Harvey blog; terms still undisclosed; fourth 2026 deal). Yahoo tape refreshed (~11:54 a.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined TRM Labs Series C expansion (valuation $2B, amount raised undisclosed), PHYMI “nearly $100m” seed (WeChat/DealStreetAsia; no exact $), Finch pre-A $50M, Accumulus–Eir (terms undisclosed), Bajaj 5% TrueFan (no $), Genpact CFO rotation, OpenAI–Samsung chip color (no $, no specs), AngelAi/Mortgage Treasury promotional $100M, Guardrails as priced deal. X scan skipped (client-not-enrolled). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence"
+    "line": "ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close.",
+    "href": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
   },
   "sections": [
     "All",
@@ -30,16 +30,76 @@
   ],
   "stories": [
     {
-      "id": "harvey-550",
+      "id": "google-fi-13b",
       "lead": true,
+      "section": "AI",
+      "kicker": "Infrastructure",
+      "hed": "Google to invest at least €13B in Finland AI infrastructure over 2027–28",
+      "dek": "Company print: largest single European investment. Hamina plus Kajaani, Muhos, Vaala. Reuters conversion $15.1B is secondary.",
+      "date": "Sept. 9, 2026",
+      "source": "Google",
+      "url": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/"
+        },
+        {
+          "label": "Yle",
+          "url": "https://yle.fi/a/74-20245301"
+        },
+        {
+          "label": "Fortum",
+          "url": "https://www.fortum.com/en/media/2026/09/inside-information-fortum-and-google-partner-drive-sustainable-growth-finland-sign-nuclear-power-purchase-agreement"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / hyperscaler capex as Midday lead (catch-up: Google press corner + Fortum inside information posted ~3 a.m. ET, missed on Nos. 62–64). PRIMARY: Google Cloud press corner Sept. 9. Stick to company prints: plans to invest at least €13 billion in digital infrastructure in Finland over the next two years (2027–2028), including data center and other supporting infrastructure in Hamina, Kajaani, Muhos and Vaala; company calls it Google’s largest single investment in Europe. Construction-phase (2027–2028) company estimates: annual average €3.6 billion contribution to Finland GDP and more than 37,000 jobs nationwide, of which ~16,000 construction; once operational, facilities projected to support 7,000 jobs annually. Energy package in same release: 22-year life-extension PPA with Fortum for Loviisa (detail on fortum-google); MoU with Fortum on new flexibility/generation including possible new nuclear at Loviisa; additional onshore wind PPAs with Valorem and Suomen Hyötytuuli bringing total new-to-grid onshore wind capacity supported by Google to 629 MW; 94 MW battery near Kajaani expected late 2027; €31 million community funding over four years (€10 million R&D). Ruth Porat (President and CIO of Alphabet and Google) is the named company voice. Reuters Helsinki wrap converts to $15.1 billion — secondary FX, do not replace the €13B company print. Do not invent Fortum share-price moves. Owner Quill.",
+      "grafs": [
+        "Google said Sept. 9 it plans to invest at least €13 billion in digital infrastructure in Finland over 2027 and 2028, calling the outlay its largest single investment in Europe. The company said the plan covers data centers and supporting infrastructure in Hamina, where it has operated since converting a paper mill in 2009, and in Kajaani, Muhos, and Vaala.",
+        "During the 2027–2028 construction phase, Google estimated an annual average €3.6 billion contribution to Finland’s GDP and more than 37,000 jobs nationwide, including about 16,000 in construction. Once operational, the facilities are projected to support 7,000 jobs a year. A €31 million community fund over four years includes €10 million earmarked for research and innovation. Ruth Porat, president and chief investment officer of Alphabet and Google, framed the spend as pairing technical expansion with new energy capacity, grid work, and affordability programmes.",
+        "The same release lists a 22-year life-extension power-purchase agreement with Fortum for the Loviisa nuclear plant near Hamina, a memorandum of understanding on new flexibility and generation (including possible new reactors at Loviisa), additional onshore wind PPAs that bring Google-supported new-to-grid wind to 629 MW, and a 94 MW battery near Kajaani expected in late 2027. Reuters converted the €13 billion floor to $15.1 billion; use the company euro print as primary."
+      ]
+    },
+    {
+      "id": "fortum-google",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Energy",
+      "hed": "Fortum signs 22-year Loviisa nuclear PPA with Google; RONA +~1.4pp",
+      "dek": "Inside information. Up to 50% of plant capacity in 2030–49. Enables lifetime extension through 2050. MoU on new nuclear/renewables.",
+      "date": "Sept. 9, 2026",
+      "source": "Fortum",
+      "url": "https://www.fortum.com/en/media/2026/09/inside-information-fortum-and-google-partner-drive-sustainable-growth-finland-sign-nuclear-power-purchase-agreement",
+      "also": [
+        {
+          "label": "Google",
+          "url": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / energy offtake as companion to google-fi-13b, not a duplicate. PRIMARY: Fortum stock-exchange inside information dated 9 September 2026, 10:00 EEST. Stick to Fortum prints: 22-year life-extension PPA with Google providing economic certainty for Loviisa lifetime extension and power upgrade through 2050 by contracting for up to 50% of the plant’s capacity; PPA starts 2028 at smaller capacity and reaches 50% in 2030–2049. Group comparable RONA expected to increase by approximately 1.4 percentage points over time once 50% of generation capacity is contracted (vs long-term Group comparable RONA target 14%; 11.0% LTM at end-Q2 2026). ~€1 billion Loviisa investment programme 2023–2050; ~80% of projects and €700 million of capex still pending investment decisions; PPA said to provide revenue certainty to continue investments associated with 100% of the lifetime extension and to enable a new 10 MW increase on top of a planned 38 MW uprate expected live in 2028. Plant: two PWRs, ~8 TWh/year, ~580 Fortum employees, ~10% of Finland’s electricity; without the programme could not run beyond 2030. MoU covers new nuclear, renewables, flexibility, and energy portfolio management; first step is Fortum optimizing a Google-contracted 94 MW battery at Kajaani. Do not invent Fortum share-price reaction. Distinct from fervo-google (Utah EGS). Owner Quill.",
+      "grafs": [
+        "Fortum (Nasdaq Helsinki) said in a Sept. 9 inside-information release that it has signed a 22-year power-purchase agreement with Google covering the lifetime-extension period of the Loviisa nuclear plant. The PPA starts in 2028 at a smaller slice of output and is set to reach 50% of the plant’s capacity in 2030–2049, giving Fortum the revenue certainty it said it needs to keep Loviisa running through the end of its operating licenses in 2050.",
+        "Fortum expects the agreement to lift Group comparable return on net assets by about 1.4 percentage points over time once 50% of generation is contracted, against a long-term Group comparable RONA target of 14% (11.0% over the last twelve months at the end of the second quarter of 2026). The company has an approximately €1 billion Loviisa investment programme aimed at extending plant life to 2050; it said about 80% of the projects and €700 million of the required capital expenditure are still pending investment decisions. Fortum said the Google PPA supports continuing the investments tied to 100% of the lifetime extension and is expected to enable a further 10 MW uprate on top of a planned 38 MW increase due in 2028.",
+        "Loviisa’s two pressurized-water reactors, commissioned in 1977 and 1980, produce about 8 terawatt-hours a year and employ about 580 Fortum staff; Fortum and Google both note the plant supplies roughly 10% of Finland’s electricity and could not operate beyond 2030 without the extension programme. The companies also signed a memorandum of understanding on new nuclear, renewables, flexibility, and portfolio-management services, with a first step that Fortum will optimize a 94 MW battery Google has contracted next to a new data center in Kajaani."
+      ]
+    },
+    {
+      "id": "harvey-550",
+      "lead": false,
       "section": "AI",
       "kicker": "Funding",
       "hed": "Harvey raises $550M at $15.5B valuation; Diffusion + Lightspeed co-lead",
-      "dek": "Company blog Sept. 9. Legal AI; open-weight model + Harvey LAB cited. Do not invent Guardrails deal terms.",
+      "dek": "Company blog Sept. 9. Legal AI; open-weight model + Harvey LAB. Guardrails AI acquisition now company-confirmed; terms undisclosed.",
       "date": "Sept. 9, 2026",
       "source": "Harvey",
       "url": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
       "also": [
+        {
+          "label": "Harvey — Guardrails",
+          "url": "https://www.harvey.ai/blog/guardrails-ai-joins-harvey"
+        },
         {
           "label": "Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round"
@@ -54,11 +114,11 @@
         }
       ],
       "owner": "QUILL",
-      "action": "ADD under AI / legal software funding as Late Morning lead. PRIMARY: Harvey company blog Sept. 9. Stick to printed company numbers: $550M funding round at a $15.5B valuation; co-led by Diffusion and Lightspeed Venture Partners; existing participants Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, and WNDR; new investors include Diffusion, Lightspeed, Sapphire Ventures, and Whale Rock; raise follows introduction of Harvey's first post-trained open-weight model and launch of Harvey LAB (Legal Agent Benchmark); company cites 80% of Am Law 100 law firms use Harvey and five of the Fortune 10 among in-house clients. Bloomberg headline uses $15.6B — treat as secondary vs company $15.5B print; Silicon Republic tracks company $15.5B. TNW may mention Guardrails AI acquisition — do NOT promote Guardrails as a confirmed company print (absent from Harvey blog); if color is used, attribute to TNW and note terms undisclosed / unverified vs company primary. Owner Quill.",
+      "action": "UPDATE (was Late Morning lead; now demoted under google-fi-13b). PRIMARY funding: Harvey company blog Sept. 9 — $550M at $15.5B; Diffusion + Lightspeed co-lead; existing Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, WNDR; new Diffusion, Lightspeed, Sapphire Ventures, Whale Rock; open-weight model + Harvey LAB; 80% of Am Law 100. Bloomberg $15.6B remains secondary vs company $15.5B. NEW: Harvey company blog “Guardrails AI Joins Harvey” (Sept. 9) is now the company-primary on the acquisition previously flagged only in TNW — Guardrails AI (San Francisco) acquired; co-founders Shreya Rajpal and Zayd Simjee and team join Harvey product and engineering; Harvey’s fourth acquisition of 2026; Guardrails investors named Zetta Venture Partners, Bloomberg Beta, Pear VC, Factory, and Microsoft. Terms still NOT disclosed — do not invent price or structure. Keep TNW as also-file color only. Owner Quill.",
       "grafs": [
         "Harvey announced a $550 million funding round at a $15.5 billion valuation in a Sept. 9 company blog post, co-led by Diffusion and Lightspeed Venture Partners. The company said the raise follows the introduction of its first post-trained open-weight model and the launch of Harvey LAB, the Legal Agent Benchmark, and will accelerate work helping law firms, in-house legal teams, and professional services firms build and own intelligence at scale.",
-        "Existing investors Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, and WNDR participated. New investors include Diffusion, Lightspeed, Sapphire Ventures, and Whale Rock. Co-founders Winston Weinberg and Gabe Pereyra framed Harvey as aiming to be the global partner legal teams turn to for AI transformation.",
-        "Harvey said 80% of Am Law 100 law firms use the product alongside many leading in-house legal teams, including five of the Fortune 10. Stick to the company print on valuation ($15.5B); Bloomberg's $15.6B headline and any secondary Guardrails AI acquisition color are not substitutes for the company blog."
+        "Existing investors Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, and WNDR participated. New investors include Diffusion, Lightspeed, Sapphire Ventures, and Whale Rock. Co-founders Winston Weinberg and Gabe Pereyra framed Harvey as aiming to be the global partner legal teams turn to for AI transformation. Harvey said 80% of Am Law 100 law firms use the product, including five of the Fortune 10 among in-house clients. Stick to the company print on valuation ($15.5B); Bloomberg’s $15.6B headline is secondary.",
+        "A separate Sept. 9 Harvey blog post confirms the acquisition of San Francisco-based Guardrails AI, an agent-security platform. Co-founders Shreya Rajpal and Zayd Simjee and their team will join Harvey’s product and engineering organization; Harvey called it its fourth acquisition of 2026. Guardrails’ investors are listed as Zetta Venture Partners, Bloomberg Beta, Pear VC, Factory, and Microsoft. Terms were not disclosed."
       ]
     },
     {
