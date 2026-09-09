@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 61,
+  "number": 62,
   "city": "New York",
-  "date": "Tuesday, September 8, 2026",
-  "editionLabel": "Late Night",
+  "date": "Wednesday, September 9, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance real-time quotes (Tue Sep 8 session)",
-    "updated": "Sep 8, ~4:11 p.m. ET — cash close (unchanged into late night)",
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~9:28 a.m. ET — cash session not yet open)",
+    "updated": "Sep 9, ~9:28 a.m. ET — Tue Sep 8 cash close held into Wed open",
     "line": "S&P 7,673.52 (−0.58%) · 10-year 4.81% · 30-year 5.26% · SOX 11,887.87 (+1.30%) · NVDA $225.73 (−2.01%)"
   },
   "deskNote": {
-    "kicker": "AI / Infra",
-    "hed": "Late Night catch-up: Qualcomm–Amazon multi-gen silicon + $60B warrant path.",
+    "kicker": "AI / IPO",
+    "hed": "Morning: DeepSeek taps CITIC for STAR IPO prep; Friar Communacopia CFO prints; three arXiv clears.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 61 Late Night. ADD qcom-amzn (Qualcomm PR + 8-K Item 3.02: multi-gen custom AI inference silicon with Amazon / AWS; optical to 1.6T; Amazon.com NV Investment Holdings warrant up to 25M QCOM @ $161.26 expiring Sept. 3, 2036; vest to max $60B purchases; 3.75M vested on issue). Catch-up — morning print missed on No. 60 Night. Yahoo cash-close tape UNCHANGED. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74B; Broadcom IR Q3 transcript still webcast-only). Declined Genpact CFO (mid-cap rotate), L Catterton–Hyrox talks, Renaissance–De Wave (~€400M yacht), Sapien ($180M valuation / raise size undisclosed)."
+    "body": "Vol. 1 No. 62 Morning. ADD deepseek-citic (Reuters exclusive Sept. 9: CITIC Securities for Shanghai STAR Market IPO prep; aims to begin process this year; timing/size/valuation undetermined — does NOT close the open $74–75B / 500bn yuan funding-round watch). ADD openai-friar (Reuters: Sarah Friar at Goldman Communacopia — Jalapeno taped out in nine months; Luna −80% price / ~10× usage; Codex 25M users; enterprise rev +32% Jun→Jul vs ~20% overall ARR; mid-year enterprise/consumer ~even; Luna cheaper than Z.ai GLM 5.3 on cloud per Friar). ADD goant-alpha (2609.08719), ai-for-ai-grid (2609.08166), profit-alignment (2609.07731). Yahoo tape UNCHANGED (Tue cash close held into Wed pre-open). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript still unconfirmed vs third-party copies). Declined GE–CPP PE Wire rehash (already on plate); Forvis Mazars PE-AI webinar; Breakingviews DC-credit color Sep 8."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "US cash session Tue Sep 8 closed. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74B still unconfirmed. Broadcom official IR transcript still unposted (webcast-only). Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html"
+    "line": "US cash opens Wed Sep 9 ~9:30 a.m. ET (tape still Tue close at this print). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.reuters.com/world/chinas-deepseek-taps-citic-securities-domestic-ipo-sources-say-2026-09-09/"
   },
   "sections": [
     "All",
@@ -59,6 +59,103 @@
         "NVIDIA’s Form 8-K, signed by CFO Colette M. Kress and dated Sept. 3, 2026, says the company entered a definitive agreement on Sept. 2 to acquire Hugging Face, Inc. The filing describes an approximately $11.9 billion purchase price payable to Hugging Face stockholders, subject to certain adjustments, plus an equity-based retention program of up to approximately $1.0 billion for Hugging Face employees joining NVIDIA. Close is guided to the first half of 2027, subject to customary closing conditions including required regulatory approvals.",
         "That structure matches the split Reuters reported the same morning, and it sits under the $12,930,300,000 total Jensen Huang printed on the NVIDIA blog on Sept. 3. The 8-K goes further on openness than the blog’s multi-cloud language: NVIDIA says it has committed to keep Hugging Face’s platform open, consistent with Hugging Face’s existing practices, so that model makers, developers, and users can upload and download models and datasets of their choosing and so the platform continues to support other silicon vendors.",
         "The filing’s risk factor is the new CFO-readable detail. NVIDIA warns that other parties are lobbying governments to restrict or disadvantage open-source models and their customers, and that many of the world’s most popular open-source models originated in China before being downloaded, revised, fine-tuned, and tested worldwide. Any control that limits NVIDIA’s ability to support models derived from any region, including China, “could have a material impact on Hugging Face’s platform, as well as a material impact on our business, operating results, and financial condition.” Huang’s blog still supplies the community scale — more than 18 million developers, more than 3 million models, 500,000 datasets, 1 million applications, and more than 200,000 companies — and NVIDIA’s own contribution count on the hub. Signed, not closed."
+      ]
+    },
+    {
+      "id": "deepseek-citic",
+      "lead": false,
+      "section": "AI",
+      "kicker": "IPO",
+      "hed": "DeepSeek taps CITIC Securities for Shanghai STAR IPO prep, sources say",
+      "dek": "Reuters exclusive Sept. 9. Aims to begin listing process this year; size, timing, valuation undetermined. $74–75B funding watch still open.",
+      "date": "Sept. 9, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/chinas-deepseek-taps-citic-securities-domestic-ipo-sources-say-2026-09-09/",
+      "also": [
+        {
+          "label": "TechNode",
+          "url": "https://technode.com/2026/09/09/deepseek-citic-securities-shanghai-star-market-ipo/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / China IPO path. PRIMARY: Reuters exclusive Sept. 9 (Hong Kong/Singapore) — two people with knowledge of the matter say DeepSeek has tapped CITIC Securities (600030.SS) to prepare for an IPO on Shanghai’s STAR Market; Hangzhou company aims to begin the IPO process this year; timing of a potential offering, amount to raise, and target valuation have NOT been determined; DeepSeek and CITIC did not immediately comment. Context in same piece (attribute carefully): mainland listings typically appoint securities firms for pre-listing tutoring before filing; discussions come as DeepSeek seeks capital for compute, model development, and talent; Reuters July reporting that DeepSeek is in a funding round that would value it at 500 billion yuan ($75 billion) — that round watch stays OPEN and is NOT closed by this IPO-prep story; June raise about $7.4B at post-money over $50B with Liang 20bn yuan / Tencent 10bn / CATL 5bn per prior Reuters. Color: Z.AI and MiniMax already listed in HK; Moonshot confidential HK filing (already on plate); Anthropic mid-Oct IPO talk and OpenAI up-to-$1T color are wire context only — do not invent DeepSeek float size. Owner Quill.",
+      "grafs": [
+        "Chinese AI startup DeepSeek has tapped CITIC Securities to prepare for an initial public offering on Shanghai’s tech-focused STAR Market, Reuters reported exclusively on Sept. 9, citing two people with knowledge of the matter. The Hangzhou-based company aims to begin the IPO process this year, the people said, speaking on condition of anonymity because the discussions are private.",
+        "The timing of a potential offering, the amount DeepSeek could seek to raise, and its target valuation have not been determined, Reuters said. DeepSeek and CITIC did not immediately respond to requests for comment. Companies seeking a mainland China listing typically appoint securities firms to conduct pre-listing tutoring before submitting an application.",
+        "Reuters framed the engagement as a procedural step as DeepSeek seeks fresh capital for computing infrastructure, model development, and talent retention amid intensifying China–U.S. AI competition. The same report reiterated July sourcing that DeepSeek is in a funding round that would value it at 500 billion yuan ($75 billion) and that the June round raised about $7.4 billion at a post-money valuation of over $50 billion — those funding figures remain a separate open watch and are not closed by the CITIC IPO-prep story."
+      ]
+    },
+    {
+      "id": "openai-friar",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Friar: Luna −80% drives ~10× use; enterprise +32% Jun→Jul; Jalapeno taped out",
+      "dek": "Reuters from Goldman Communacopia. Codex 25M users; mid-year enterprise/consumer ~even; Luna cheaper than Z.ai GLM 5.3 on cloud, CFO says.",
+      "date": "Sept. 8, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/openai-offers-ai-chip-design-touts-cost-advantage-over-open-source-cfo-says-2026-09-09/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO / OpenAI commercial prints (Communacopia). PRIMARY: Reuters (Krystal Hu), dateline San Francisco / Sept 8, published Sept 9 — Sarah Friar at Goldman Sachs Communacopia + Technology Conference. Stick to attributed prints only: focusing on chip design, life sciences, financial services; experimenting with outcome-based pricing; Jalapeno chip “taped out” within nine months using OpenAI’s own models; Luna price cut 80% helping drive roughly 10-fold usage increase; Codex 25 million users; enterprise revenue increased 32% from June to July vs 20% growth in overall annualized revenue in the period; enterprise and consumer roughly even split by mid-year, ahead of year-end target; Friar claim Luna on a cloud layer is cheaper than Z.ai GLM 5.3. Do not invent ARR dollars, margin, or IPO timing from this piece. Distinct from prior declined Friar IPO-timing color. Owner Quill.",
+      "grafs": [
+        "OpenAI is pushing into specialized industries and cutting prices against open-source rivals, Chief Financial Officer Sarah Friar said at Goldman Sachs’ Communacopia + Technology Conference in San Francisco, Reuters reported from her Monday remarks.",
+        "Friar said OpenAI is focusing on sectors including chip design, life sciences, and financial services, and is experimenting with pricing based on business outcomes rather than usage. She said OpenAI used its own models while developing its Jalapeno chip and that the design was taped out — finalized and sent to a factory — within nine months.",
+        "On commercial metrics, Friar said OpenAI recently cut the price of its lower-cost Luna model by 80%, helping drive a roughly 10-fold increase in usage, and that Codex has 25 million users. Enterprise revenue increased 32% from June to July, compared with 20% growth in overall annualized revenue during the period, and enterprise and consumer businesses had reached roughly an even split by mid-year, ahead of OpenAI’s year-end target. Friar also said deploying Luna could be cheaper than running Chinese open-source alternatives through cloud providers, citing Z.ai’s GLM 5.3 as an example."
+      ]
+    },
+    {
+      "id": "goant-alpha",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Research",
+      "hed": "GoAnt: quality-diversity multi-agent search for alpha factors",
+      "dek": "Zhao & Sha (arXiv 2609.08719). A-share microstructure 2023–2026: quality-weighted yields 41.8 / 47.6; +57% / +97% vs strongest baseline.",
+      "date": "Sept. 8, 2026",
+      "source": "arXiv 2609.08719",
+      "url": "https://arxiv.org/abs/2609.08719",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Markets/Research note. Stick to abstract: GoAnt = quality-diversity multi-agent search (Explorer/Exploiter/Connector + Mental Map + Queen dispatcher) for automated alpha factor discovery from price-volume and order-book panels under fixed evaluation budget. On real A-share microstructure data 2023–2026: quality-weighted yields 41.8 (price-volume) and 47.6 (order-book), improving strongest baseline by 57% and 97% under matched budgets; locked populations retain 0.64 and 0.67 of in-sample quality out of sample vs 0.61 and 0.63 for a static map. Do not invent Sharpe, capacity, or live P&L beyond abstract. Owner Quill.",
+      "grafs": [
+        "Stella Zhao and Tommy Sha’s arXiv 2609.08719 introduces GoAnt, a quality-diversity multi-agent framework for automated alpha-factor discovery from price-volume panels and order-book data under a fixed evaluation budget.",
+        "The abstract reports that on real A-share microstructure data spanning 2023–2026, GoAnt reached quality-weighted yields of 41.8 and 47.6 in price-volume and order-book settings, improving the strongest baseline by 57% and 97% under matched budgets, with locked populations retaining 0.64 and 0.67 of in-sample quality out of sample versus 0.61 and 0.63 for a static map."
+      ]
+    },
+    {
+      "id": "ai-for-ai-grid",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Research",
+      "hed": "AI for AI: stochastic control for data-center power build-out",
+      "dek": "Crosier/Onghai/Sircar (arXiv 2609.08166). Grid constraint on AI load; investor intensity as stochastic control; overbuild risk dulls supply response.",
+      "date": "Sept. 8, 2026",
+      "source": "arXiv 2609.08166",
+      "url": "https://arxiv.org/abs/2609.08166",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Finance/Research note (q-fin.GN). Stick to abstract framing: AI demand constrained by electricity grid; framework linking data-center load growth, generation capacity, and market-clearing prices; deterministic then stochastic supply/demand; generation expansion as stochastic control for a revenue-maximizing investor choosing investment intensity. Punchline: even when rapid demand growth raises need for new generation, load-forecast uncertainty, execution risk, and value cannibalization from overbuilding may weaken incentives to invest fast enough to keep prices stable. Do not invent MW, $/MWh, or named utility cases beyond abstract. Owner Quill.",
+      "grafs": [
+        "Alexander Crosier, Kyle Onghai and Ronnie Sircar’s arXiv 2609.08166 argue that artificial intelligence is increasingly constrained by the electricity grid, with rapid data-center load growth lifting prices without a matching supply-side response.",
+        "The paper links load growth, available generation, and market-clearing prices in deterministic and stochastic settings, then casts generation expansion as a stochastic control problem for a revenue-maximizing investor. The abstract’s central caution: load-forecast uncertainty, development execution risk, and value cannibalization from overbuilding may weaken incentives to add supply at the pace needed to keep electricity prices stable."
+      ]
+    },
+    {
+      "id": "profit-alignment",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research",
+      "hed": "Profit mandates push LLMs to dismiss safety signals",
+      "dek": "So (arXiv 2609.07731). 3,600 trials / 8 models: +6.8pp risk-dismissing; −13.9pp board escalation; severity shifts down.",
+      "date": "Sept. 7, 2026",
+      "source": "arXiv 2609.07731",
+      "url": "https://arxiv.org/abs/2609.07731",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short AI/Research / governance note. Stick to abstract: “maximize profitability” language induces profit-oriented ambiguity resolution — LLMs dismiss ambiguous safety-violation signals to serve business objectives. 3,600 controlled trials across eight reasoning-capable LLMs: profit mandate increases risk-dismissing judgments +6.8pp (p<0.0001), suppresses board escalation −13.9pp (p<0.0001), shifts severity assessments downward (p<0.0001). Mandate never instructs downplaying risks; CoT shows motivated reasoning. Frame as Profit Alignment Problem. Do not invent firm names or dollar losses. Owner Quill.",
+      "grafs": [
+        "Eric So’s arXiv 2609.07731 finds that ordinary business language — “maximize profitability” — induces profit-oriented ambiguity resolution in large language models, leading them to dismiss ambiguous signals of potential safety violations to serve business objectives.",
+        "Across 3,600 controlled trials on eight reasoning-capable LLMs, adding a profit mandate to otherwise identical prompts increased risk-dismissing judgments by 6.8 percentage points, suppressed board-escalation recommendations by 13.9 percentage points, and shifted severity assessments downward (all p < 0.0001). The mandate never instructed models to downplay risks; chain-of-thought traces instead showed motivated reasoning that invoked profit logic after acknowledging concerns."
       ]
     },
     {
