@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 65,
+  "number": 66,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~11:54 a.m. ET — cash session live)",
-    "updated": "Sep 9, ~11:54 a.m. ET — US cash session",
-    "line": "S&P 7,639.49 (−0.44%) · 10-year 4.84% · 30-year 5.29% · SOX 11,943.70 (+0.47%) · NVDA $224.43 (−0.58%)"
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~2:03 p.m. ET — cash session live)",
+    "updated": "Sep 9, ~2:03 p.m. ET — US cash session",
+    "line": "S&P 7,645.61 (−0.36%) · 10-year 4.83% · 30-year 5.28% · SOX 11,936.40 (+0.41%) · NVDA $224.30 (−0.63%)"
   },
   "deskNote": {
-    "kicker": "AI / Infrastructure",
-    "hed": "Midday: Google ≥€13B Finland AI infra; Fortum 22-year Loviisa PPA; Harvey Guardrails now company-primary.",
+    "kicker": "PE / Software",
+    "hed": "Afternoon: Silver Lake merges Cegid + Silae at >€10B EV; Pedersen to CEO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 65 Midday. Catch-up ADD google-fi-13b (Google Cloud press corner Sept. 9: plans to invest at least €13B in Finland digital/AI infrastructure over 2027–2028; largest single European investment; Hamina + Kajaani/Muhos/Vaala) and fortum-google (Fortum inside information 10:00 EEST: 22-year Loviisa nuclear PPA, up to 50% of capacity 2030–49; Group comparable RONA +~1.4pp over time; ~€1B lifetime-extension programme). UPDATE harvey-550: Guardrails AI acquisition now company-confirmed (Harvey blog; terms still undisclosed; fourth 2026 deal). Yahoo tape refreshed (~11:54 a.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined TRM Labs Series C expansion (valuation $2B, amount raised undisclosed), PHYMI “nearly $100m” seed (WeChat/DealStreetAsia; no exact $), Finch pre-A $50M, Accumulus–Eir (terms undisclosed), Bajaj 5% TrueFan (no $), Genpact CFO rotation, OpenAI–Samsung chip color (no $, no specs), AngelAi/Mortgage Treasury promotional $100M, Guardrails as priced deal. X scan skipped (client-not-enrolled). Forge/Guide nothing."
+    "body": "Vol. 1 No. 66 Afternoon. Catch-up ADD cegid-silae (Cegid PR Paris Sept. 9 + Silae FR: intention to merge; combined EV >€10B; Silver Lake remains majority; Christian Pedersen from IFS to CEO of combined group; close guided H1 2027; 2M end-customers / >15k CPA firms / >13M monthly payslips; ~1,400-dev AI/R&D push). google-fi-13b demoted from lead, still on plate. Yahoo tape refreshed (~2:03 p.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined Meta–Stilla.ai (Axios scoop; terms undisclosed; no company $), Bajaj–TrueFan 5% (no $), AdaptHealth/Kura/MSC CFO rotations (off-beat), TRM Labs $2B val expansion (amount undisclosed). X scan skipped (client-not-enrolled). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close.",
-    "href": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
+    "line": "Cegid–Silae close guided H1 2027 (works council + regulators). ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close.",
+    "href": "https://www.cegid.com/global/news/cegid-and-silae-join-forces-to-create-a-european-leader-in-ai-driven-business-technology/"
   },
   "sections": [
     "All",
@@ -30,8 +30,40 @@
   ],
   "stories": [
     {
-      "id": "google-fi-13b",
+      "id": "cegid-silae",
       "lead": true,
+      "section": "PE",
+      "kicker": "Software",
+      "hed": "Silver Lake to merge Cegid + Silae at >€10B EV; Pedersen CEO",
+      "dek": "Company print Sept. 9. Majority SL stays. Close guided H1 2027. 2M end-customers; 1,400-dev AI push.",
+      "date": "Sept. 9, 2026",
+      "source": "Cegid",
+      "url": "https://www.cegid.com/global/news/cegid-and-silae-join-forces-to-create-a-european-leader-in-ai-driven-business-technology/",
+      "also": [
+        {
+          "label": "Silae (FR)",
+          "url": "https://www.silae.fr/presse/cegid-et-silae-sunissent-pour-creer-un-leader-ia-europeen/"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/frances-cegid-silae-merge-10-billion-software-deal-2026-09-09/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / European software as Afternoon lead (catch-up: company PR + CNBC/Reuters posted morning ET, missed on Nos. 62–65). PRIMARY: Cegid English press release Paris, 9 September 2026 (also Silae FR). Stick to company prints: Cegid and Silae announce intention to merge; combined group expected to value at more than €10 billion enterprise value; Silver Lake majority shareholder of both and will remain majority of combined group; Christian Pedersen (from IFS) appointed CEO of Cegid and will lead combined group; Christian Lucas (Silver Lake Managing Partner) Chairman of Cegid and Silae; Pierre Cesarini continues to lead Silae; Bruno Vaffier remains General Manager of combined group; Rico Adlor-Andersen continues leading Shine. Scale prints: Cegid (incl. Shine) + Silae power accounting/tax/finance/payroll of 2 million end-customers and more than 15,000 chartered accountancy firms; more than 13 million payslips across Europe every month; assemble ~1,400-strong developer team to scale R&D/AI. Close guided first half of 2027 subject to employee-representative consultation and regulatory approvals. Do not invent revenue beyond what you can source (CNBC/FT cite ~€1.6B annual revenue as secondary — prefer company EV print). Do not invent ownership %. Owner Quill.",
+      "grafs": [
+        "Cegid and Silae said on Sept. 9 they intend to merge into a European AI-driven business-technology platform, with the planned transaction expected to value the combined group at more than €10 billion in enterprise value, per Cegid’s Paris press release.",
+        "Silver Lake, majority owner of both companies since partnering with Cegid in 2016 and Silae in 2020, will remain majority shareholder. Christian Pedersen joins from IFS as CEO of Cegid and will lead the combined group; Christian Lucas chairs; Pierre Cesarini continues to lead Silae. Close is guided for the first half of 2027, subject to employee consultations and regulatory approvals.",
+        "Together with Shine (recently acquired by Cegid), the companies say they power accounting, tax, finance and payroll for 2 million end-customers and more than 15,000 chartered accountancy firms, produce more than 13 million payslips a month across Europe, and will assemble a roughly 1,400-person developer team to scale AI and R&D."
+      ]
+    },
+    {
+      "id": "google-fi-13b",
+      "lead": false,
       "section": "AI",
       "kicker": "Infrastructure",
       "hed": "Google to invest at least €13B in Finland AI infrastructure over 2027–28",
