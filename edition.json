@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 63,
+  "number": 64,
   "city": "New York",
   "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~9:53 a.m. ET — cash session live)",
-    "updated": "Sep 9, ~9:53 a.m. ET — US cash open",
-    "line": "S&P 7,650.51 (−0.30%) · 10-year 4.80% · 30-year 5.25% · SOX 11,931.42 (+0.37%) · NVDA $224.52 (−0.54%)"
+    "source": "Yahoo Finance chart quotes (Wed Sep 9 ~11:15 a.m. ET — cash session live)",
+    "updated": "Sep 9, ~11:15 a.m. ET — US cash session",
+    "line": "S&P 7,630.24 (−0.56%) · 10-year 4.82% · 30-year 5.26% · SOX 11,891.83 (+0.03%) · NVDA $224.24 (−0.66%)"
   },
   "deskNote": {
-    "kicker": "AI / Semis",
-    "hed": "Mid-morning: ADI buys Alif for $1.35B; Samsung–Mistral on-prem fab AI; Thoma Bravo–Tanda growth stake.",
+    "kicker": "AI / Funding",
+    "hed": "Late morning: Harvey $550M at $15.5B; ADI–Alif and Samsung–Mistral still on plate.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 63 Mid-Morning. ADD adi-alif (ADI PR Newswire Sept. 9: $1.35B cash upfront for Alif Semiconductor + up to $200M contingent; close eyed before YE26; HSR; Physical Intelligence framing; do not invent EV multiples). ADD samsung-mistral-partner (Samsung Global Newsroom Sept. 9: on-prem Mistral Large for DS chip design/manufacturing; Series D lead restated — distinct from plate mistral-d funding). ADD thoma-tanda (Thoma Bravo Sept. 8: strategic growth investment in Tanda/Workforce.com; terms undisclosed; founders remain; AI roadmap). Yahoo tape refreshed to live cash session. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined Anthropic mid-Oct IPO chatter; Runway–Kinetix team join; Genpact CFO rumor; Goodwin–Cerberus secondary; GSAM–NOJA paywalled."
+    "body": "Vol. 1 No. 64 Late Morning. ADD harvey-550 (Harvey blog Sept. 9: $550M at $15.5B; Diffusion + Lightspeed co-lead; open-weight model + Harvey LAB; Am Law 100 print). Prior Mid-Morning adds adi-alif / samsung-mistral-partner / thoma-tanda kept. Yahoo tape refreshed (~11:15 a.m. ET). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B funding round; Broadcom official IR Q3 transcript). Declined Copilot Capital–Green Eagle (majority, terms undisclosed, mid-market), Valsoft/TAG–Square 9 (terms undisclosed), Zaigo PE diligence launch, Guardrails AI claim as company-primary (TNW only; absent from Harvey blog). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
     "line": "ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4’26 close; CPI spin still Q1’27. Nscale–Figure initial GPUs guided H2’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.prnewswire.com/news-releases/analog-devices-to-acquire-alif-semiconductor-adding-an-ai-native-processing-platform-to-advance-physical-intelligence-for-the-next-generation-of-real-world-systems-302873715.html"
+    "href": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence"
   },
   "sections": [
     "All",
@@ -30,8 +30,40 @@
   ],
   "stories": [
     {
-      "id": "adi-alif",
+      "id": "harvey-550",
       "lead": true,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Harvey raises $550M at $15.5B valuation; Diffusion + Lightspeed co-lead",
+      "dek": "Company blog Sept. 9. Legal AI; open-weight model + Harvey LAB cited. Do not invent Guardrails deal terms.",
+      "date": "Sept. 9, 2026",
+      "source": "Harvey",
+      "url": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+      "also": [
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round"
+        },
+        {
+          "label": "Silicon Republic",
+          "url": "https://www.siliconrepublic.com/business/harvey-legal-ai-funding-and-investment-550m"
+        },
+        {
+          "label": "The Next Web",
+          "url": "https://thenextweb.com/news/harvey-550m-round-15-6bn-guardrails-acquisition"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / legal software funding as Late Morning lead. PRIMARY: Harvey company blog Sept. 9. Stick to printed company numbers: $550M funding round at a $15.5B valuation; co-led by Diffusion and Lightspeed Venture Partners; existing participants Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, and WNDR; new investors include Diffusion, Lightspeed, Sapphire Ventures, and Whale Rock; raise follows introduction of Harvey's first post-trained open-weight model and launch of Harvey LAB (Legal Agent Benchmark); company cites 80% of Am Law 100 law firms use Harvey and five of the Fortune 10 among in-house clients. Bloomberg headline uses $15.6B — treat as secondary vs company $15.5B print; Silicon Republic tracks company $15.5B. TNW may mention Guardrails AI acquisition — do NOT promote Guardrails as a confirmed company print (absent from Harvey blog); if color is used, attribute to TNW and note terms undisclosed / unverified vs company primary. Owner Quill.",
+      "grafs": [
+        "Harvey announced a $550 million funding round at a $15.5 billion valuation in a Sept. 9 company blog post, co-led by Diffusion and Lightspeed Venture Partners. The company said the raise follows the introduction of its first post-trained open-weight model and the launch of Harvey LAB, the Legal Agent Benchmark, and will accelerate work helping law firms, in-house legal teams, and professional services firms build and own intelligence at scale.",
+        "Existing investors Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, and WNDR participated. New investors include Diffusion, Lightspeed, Sapphire Ventures, and Whale Rock. Co-founders Winston Weinberg and Gabe Pereyra framed Harvey as aiming to be the global partner legal teams turn to for AI transformation.",
+        "Harvey said 80% of Am Law 100 law firms use the product alongside many leading in-house legal teams, including five of the Fortune 10. Stick to the company print on valuation ($15.5B); Bloomberg's $15.6B headline and any secondary Guardrails AI acquisition color are not substitutes for the company blog."
+      ]
+    },
+    {
+      "id": "adi-alif",
+      "lead": false,
       "section": "AI",
       "kicker": "Semis",
       "hed": "ADI to buy Alif Semiconductor for $1.35B cash (+ up to $200M contingent)",
