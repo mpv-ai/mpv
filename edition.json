@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 71,
+  "number": 72,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~10:55 a.m. ET)",
-    "updated": "Sep 10, ~10:55 a.m. ET — US session",
-    "line": "S&P 7,605.23 (−0.41%) · 10-year 4.91% · 30-year 5.34% · SOX 11,705.13 (−1.90%) · NVDA $217.96 (−2.55%)"
+    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~12:06 p.m. ET)",
+    "updated": "Sep 10, ~12:06 p.m. ET — US session",
+    "line": "S&P 7,596.57 (−0.52%) · 10-year 4.92% · 30-year 5.35% · SOX 11,698.51 (−1.95%) · NVDA $219.06 (−2.06%)"
   },
   "deskNote": {
-    "kicker": "AI / Hardware",
-    "hed": "Mid-Morning: Positron $875M/$5B lead; Salesforce completes Fin; PPI still on plate.",
+    "kicker": "Finance / PE",
+    "hed": "Midday: BIS AI-stability lead; Accel-KKR £207.6M Eleco take-private; tape soft.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 71 Mid-Morning. ADD positron-c (company PR: $875M Series C at $5B post; co-led NEA/Atreides/Valor/Andra/SemiAnalysis Capital/Jim Clark; Asimov/Titan; Atlas >50 racks OCI) as Mid-Morning lead. ADD salesforce-fin-close (Salesforce Newsroom: completed Fin ex-Intercom; June IR ~$3.6B terms — close PR silent on price). Demote ppi-aug from lead, still on plate. Live Yahoo tape refreshed vs No. 70 ~10:15 print (SOX/NVDA still soft; S&P less red). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted — third-party transcripts exist). Declined Meta–Stilla again (terms undisclosed), Lightfield $47M, Cfo.ai rebrand/product, GoldenTree Conti CFO (alt-credit hire below plate), Harvey/Mistral/ADI recycles. X scan skipped (client-not-enrolled). Forge/Guide nothing."
+    "body": "Vol. 1 No. 72 Midday. ADD bis-ai-stability (Reuters: BIS GM Hernandez de Cos — AI boom financial-stability risks; top-five tech >$1T 2025–26; debt/private-credit opacity) as Midday lead. ADD accel-eleco (RNS: Accel-KKR Avocet Bidco 235p / ~£207.6M equity / EV £192.4M; Q1 ’27 scheme). Demote positron-c from lead, still on plate. Live Yahoo tape refreshed vs No. 71 ~10:55 print (S&P/SOX/NVDA still soft; 10y ~4.92%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted — third-party transcripts exist). Declined Canoe/Bloomberg (July print), wholesale-inventories recycle, small funding wires without valuation. X scan skipped (no X connector). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed — Listen Labs talks still OPEN. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+    "line": "Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed — Listen Labs talks still OPEN. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/"
   },
   "sections": [
     "All",
@@ -30,8 +30,59 @@
   ],
   "stories": [
     {
-      "id": "positron-c",
+      "id": "bis-ai-stability",
       "lead": true,
+      "section": "Finance",
+      "kicker": "Central banks",
+      "hed": "BIS head: AI boom creates new financial-stability risks",
+      "dek": "Reuters Sept. 10. Top-five tech >$1T AI spend 2025–26; debt/private-credit financing \"opaque and interconnected\"; lofty valuations + concentration flagged.",
+      "date": "Sept. 10, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI financial stability as Midday lead (Reuters London Sept. 10, Marc Jones; speech to India's central bank conference). PRIMARY: Reuters. Stick to: BIS General Manager Pablo Hernandez de Cos says AI's rapid rise creates new financial-stability risks; infrastructure spend already large enough to influence global economic conditions; BIS estimates world's five largest technology firms will invest more than $1 trillion in AI between 2025 and 2026; industry forecasts global AI investment from about $500 billion now to as much as $4 trillion by 2030; boom increasingly financed through debt and private credit rather than corporate earnings — funding \"opaque and interconnected\"; lofty valuations, market concentration and opaque financing could create vulnerabilities if corporate profits fall short; generative AI task gains cited 10%–65% in coding/consulting/writing; AI could raise TFP growth ~0.5pp/year depending on adoption; job-loss signs in customer service, programming, admin; parallels to railway and dotcom booms — \"do warrant some caution\". Do not invent circular-financing figures beyond Reuters text. Owner Quill.",
+      "grafs": [
+        "Bank for International Settlements General Manager Pablo Hernandez de Cos said Sept. 10 that AI's rapid rise is creating new financial-stability risks, with related infrastructure spending already large enough to influence global economic conditions, Reuters reported from a conference hosted by India's central bank.",
+        "The BIS estimates the world's five largest technology firms will invest more than $1 trillion in AI between 2025 and 2026, while industry forecasts put global AI investment rising from about $500 billion now to as much as $4 trillion by 2030. Hernandez de Cos said the boom is increasingly financed through debt and private credit rather than corporate earnings, and that much of that funding remains \"opaque and interconnected.\"",
+        "He also flagged lofty valuations, market concentration and opaque financing structures as potential vulnerabilities if profits fall short of expectations, drawing parallels with past investment booms such as railways and the dotcom surge. Stick to the Reuters print; treat productivity ranges (10%–65% task gains; ~0.5pp TFP) as cited study color, not a BIS forecast."
+      ]
+    },
+    {
+      "id": "accel-eleco",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Take-private",
+      "hed": "Accel-KKR agrees £207.6M cash offer for AIM software Eleco at 235p",
+      "dek": "RNS Sept. 10. Scheme via Avocet Bidco; ~74.7% premium to 134.5p; EV £192.4M (~20.2× FY25 EBITDA); 45.2% irrevocables/LOIs; Q1 ’27 close guided.",
+      "date": "Sept. 10, 2026",
+      "source": "Accel-KKR / Eleco RNS",
+      "url": "https://www.valuespectrum.com/corporate_news/1486922-accel-kkr-recommended-cash-offer-for-eleco-plc",
+      "also": [
+        {
+          "label": "LSE ELCO",
+          "url": "https://www.londonstockexchange.com/news-article/ELCO/recommended-cash-acquisition/17779674"
+        },
+        {
+          "label": "Proactive",
+          "url": "https://www.proactiveinvestors.co.uk/companies/news/1098338/private-equity-swoops-on-eleco-with-208m-cash-takeover-update-1098338.html"
+        },
+        {
+          "label": "Offer site",
+          "url": "https://www.projecteagleoffer.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / UK software take-private (Rule 2.7 RNS Sept. 10; catch-up vs Mid-Morning plate). PRIMARY: Accel-KKR/Eleco recommended cash acquisition RNS (Valuespectrum full reprint of RNS 2174U) + LSE ELCO article. Stick to: Avocet Bidco (Accel-KKR funds) recommended all-cash scheme; 235p/share; equity value ~£207.6M fully diluted; EV £192.4M (~20.2× FY25 EBITDA / ~31.9× Cash EBITDA); ~74.7% premium to 134.5p close 9 Sept; irrevocables + LOIs ~45.2%; board (Stephens Rule 3) intends unanimous recommend; Accel-KKR >$23B cumulative capital; Eleco building-lifecycle software (Asta Powerproject etc.); FY25 rev £38.8M (+20%), Adj. EBITDA £10.2M (+32%), ARR £34.3M; H1’26 ARR ~£35.5M; close guided during or prior to Q1 2027 subject to scheme/Court. Do not invent USD conversion or competing bid. Owner Quill.",
+      "grafs": [
+        "Accel-KKR-backed Avocet Bidco Limited announced a recommended all-cash offer for AIM-listed building-lifecycle software group Eleco plc at 235 pence a share, valuing the fully diluted equity at approximately £207.6 million and implying an enterprise value of £192.4 million, according to the Sept. 10 Rule 2.7 announcement.",
+        "The price is about a 74.7% premium to Eleco’s 134.5p close on Sept. 9 and about 20.2 times FY 2025 EBITDA. Directors and shareholders representing about 45.2% of the shares have given irrevocable undertakings or letters of intent; the Eleco board, advised by Stephens, intends to recommend unanimously.",
+        "The deal is structured as a court scheme and is currently expected to complete during or prior to the first quarter of 2027, subject to shareholder and court approvals. Accel-KKR said it would back Eleco’s next growth phase, including SaaS and AI product investment; stick to the RNS prints and the Q1 ’27 guide."
+      ]
+    },
+    {
+      "id": "positron-c",
+      "lead": false,
       "section": "AI",
       "kicker": "Funding",
       "hed": "Positron AI raises $875M Series C at $5B for inference silicon",
