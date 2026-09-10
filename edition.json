@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 74,
+  "number": 75,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Mid Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~2:51 p.m. ET)",
-    "updated": "Sep 10, ~2:51 p.m. ET — US session",
-    "line": "S&P 7,593.11 (−0.57%) · 10-year 4.95% · 30-year 5.36% · SOX 11,665.46 (−2.23%) · NVDA $218.22 (−2.44%)"
+    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~4:35 p.m. ET)",
+    "updated": "Sep 10, ~4:35 p.m. ET — US session",
+    "line": "S&P 7,591.70 (−0.58%) · 10-year 4.94% · 30-year 5.36% · SOX 11,614.17 (−2.66%) · NVDA $218.36 (−2.37%)"
   },
   "deskNote": {
-    "kicker": "PE / M&A",
-    "hed": "Mid Afternoon: Bending Spoons–Miro $1.355B EV catch-up lead.",
+    "kicker": "PE / AI",
+    "hed": "Late Afternoon: Altera IPO-prep lead; OpenAI ChatGPT FS catch-up.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 74 Mid Afternoon. ADD bsp-miro (official BSP newsroom: $1.355B EV / ~$1.79B equity; $295M seller reinvest; Q4 ’26 close guided; ~$600M ARR) as Mid Afternoon lead — morning definitive agreement missed on Nos. 70–73. Demote hsbc-cfo from lead, still on plate. Live Yahoo tape refreshed vs No. 73 ~1:05 print (S&P/SOX/NVDA still soft; 10y ~4.95%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined TAR $120M/$1B Series A (Bloomberg/FinSMEs — no company PR body in window), Exiger/Carlyle product PR (2023 $1.2B recycle), Socure $156M wire (already on plate; prior bar), Bloomberg PE-AI LP transparency alone (paywall), cfo.ai product rebrand. X scan skipped (no X connector). Forge/Guide nothing — Guide agent absent."
+    "body": "Vol. 1 No. 75 Late Afternoon. ADD altera-ipo (Reuters people-familiar: Silver Lake/Intel Altera IPO could raise >$2B as early as 2026; Barclays/Citi/JPM/MS; confidential file guided coming weeks) as Late Afternoon lead. ADD openai-chatgpt-fs (official OpenAI blog: ChatGPT for Financial Services; MS/Evercore design partners; GPT-6 Astra; Daloopa/PitchBook/LSEG News/Crunchbase) — Midday launch missed on No. 74. Demote bsp-miro from lead, still on plate. Live Yahoo tape refreshed vs No. 74 ~2:51 print (SOX softer −2.66%; S&P/NVDA still soft). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Blackstone–Flow Control Holdings (Business Wire definitive; terms undisclosed — below bar), Adobe Q3 revenue beat alone (thin AI print), cfo.ai product rebrand (prior bar). X scan skipped (no X connector). Forge/Guide nothing — Guide agent absent."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro"
+    "line": "Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10/"
   },
   "sections": [
     "All",
@@ -30,8 +30,57 @@
   ],
   "stories": [
     {
-      "id": "bsp-miro",
+      "id": "altera-ipo",
       "lead": true,
+      "section": "PE",
+      "kicker": "IPO / Semiconductors",
+      "hed": "Altera preparing IPO that could raise over $2B as early as 2026 — Reuters",
+      "dek": "People-familiar Sept. 10. Silver Lake taps Barclays, Citi, JPMorgan, Morgan Stanley; confidential file guided coming weeks; Intel keeps 49%.",
+      "date": "Sept. 10, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE / semiconductors as Late Afternoon lead. PRIMARY: Reuters exclusive (Milana Vinn / Echo Wang) Sept. 10 ~7:48 p.m. UTC (= ~3:48 p.m. ET). Stick to people-familiar: Silver Lake and Intel-backed Altera preparing IPO that could raise over $2 billion as early as 2026; Silver Lake tapped Barclays, Citi, JPMorgan, Morgan Stanley as underwriters (order not finalized); preparing to confidentially file in coming weeks; listing could come as early as this year; plans including timing/size could still change. Barclays, JPMorgan, Morgan Stanley, Silver Lake declined to comment; Altera, Citi, Intel did not immediately respond. Context on-record: Intel acquired Altera ~$16.7B in 2015; fully standalone last September after Intel sold 51% to Silver Lake for $4.46B valuing Altera at $8.75B; Intel retains 49%; Silver Lake committed ~$3.3B equity alongside MGX co-investor; CEO Raghib Hussain July Reuters interview said preparing for eventual public listing targeting AI/robotics growth. Dealogic color: U.S. IPOs ex-SPACs raised record $137B through end-Aug; Arm 2023 raised nearly $5B framed as recent large semi IPO. Do not invent valuation at IPO or treat as filed S-1. Owner Quill.",
+      "grafs": [
+        "Altera, the programmable-chip company majority-owned by Silver Lake with Intel retaining a large stake, is preparing an initial public offering that could raise over $2 billion as early as 2026, according to people familiar with the matter cited by Reuters on Sept. 10.",
+        "Silver Lake has tapped Barclays, Citi, JPMorgan and Morgan Stanley as underwriters, though the bank lineup order is not finalized, three sources told Reuters. The San Jose company is preparing to confidentially file in the coming weeks, and a listing could come as early as this year, the sources said, cautioning that timing and size could still change.",
+        "Barclays, JPMorgan, Morgan Stanley and Silver Lake declined to comment; Altera, Citi and Intel did not immediately respond. Altera became fully standalone in September 2025 after Intel sold a 51% stake to Silver Lake for $4.46 billion in a deal valuing the chipmaker at $8.75 billion; Intel still holds 49%.",
+        "Treat as people-familiar IPO prep — not a filed prospectus. Stick to Reuters’ figures and the on-record spin-out history; do not invent an IPO valuation or a roadshow date."
+      ]
+    },
+    {
+      "id": "openai-chatgpt-fs",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Enterprise / Finance",
+      "hed": "OpenAI launches ChatGPT for Financial Services with Morgan Stanley, Evercore",
+      "dek": "Official blog Sept. 10. GPT-6 Astra; built-in Daloopa, PitchBook, LSEG News, Crunchbase; IB and equity research first.",
+      "date": "Sept. 10, 2026",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / enterprise finance as Late Afternoon companion (Midday official launch missed on No. 74). PRIMARY: OpenAI blog Introducing ChatGPT for Financial Services, Sept. 10, 2026. Stick to: tailored ChatGPT Work experience combining built-in financial data with GPT-6 Astra; design partnership with Morgan Stanley and Evercore; starts with investment banking and equity research; built-in premium data from Daloopa, PitchBook, LSEG News, Crunchbase indexed/hosted by OpenAI with granular citations; working with S&P Capital IQ, LSEG, MSCI, Dow Jones Factiva, Moody’s on shared sign-in/entitlements; MCP connectors include FactSet, Datasite, Box, Preqin, Intapp (50+); admins can publish Excel/Word/PowerPoint templates; builds on ChatGPT Enterprise SAML SSO, SCIM, RBAC; business data not used to train by default; available to eligible financial institutions (contact sales / account team). ALSO: Reuters confirms MS/Evercore design partners and LSEG/PitchBook/Daloopa framing; CNBC 1:12 p.m. EDT — Nick Turley VP Product quotes on analyst-like research/citations; demo M&A target → pitch deck; Turley declined to name signed banks; frames as efficiency not headcount cut; notes Anthropic Claude for Financial Services prior year. Do not invent pricing, seat counts, or named bank customers. Companion to existing gemini-fs on plate. Owner Quill.",
+      "grafs": [
+        "OpenAI on Sept. 10 introduced ChatGPT for Financial Services, a tailored ChatGPT Work experience that pairs built-in financial datasets with GPT-6 Astra for research, financial modeling, and client materials, the company said in an official blog post.",
+        "The product was shaped with design partners Morgan Stanley and Evercore and is initially aimed at investment banking and equity research. Built-in data from providers including Daloopa, PitchBook, LSEG News, and Crunchbase is indexed and hosted by OpenAI so users can cite figures back to source passages.",
+        "Firms can connect existing subscriptions through integrations OpenAI said it is working on with providers such as S&P Capital IQ, LSEG, MSCI, Dow Jones Factiva, and Moody’s, alongside MCP connectors including FactSet and others. Administrators can publish firm Excel, Word, and PowerPoint templates, and the offering builds on ChatGPT Enterprise security controls including SAML SSO, SCIM, and role-based access.",
+        "Availability is limited to eligible financial institutions via OpenAI sales or account teams. Reuters and CNBC separately covered the launch; CNBC quoted product VP Nick Turley on teaching ChatGPT to research and cite like an analyst. Do not invent pricing or named bank customers."
+      ]
+    },
+    {
+      "id": "bsp-miro",
+      "lead": false,
       "section": "PE",
       "kicker": "M&A",
       "hed": "Bending Spoons agrees to buy Miro for $1.355B enterprise value",
