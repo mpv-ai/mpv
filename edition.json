@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 73,
+  "number": 74,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~1:05 p.m. ET)",
-    "updated": "Sep 10, ~1:05 p.m. ET — US session",
-    "line": "S&P 7,605.14 (−0.41%) · 10-year 4.91% · 30-year 5.33% · SOX 11,702.84 (−1.91%) · NVDA $218.80 (−2.18%)"
+    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~2:51 p.m. ET)",
+    "updated": "Sep 10, ~2:51 p.m. ET — US session",
+    "line": "S&P 7,593.11 (−0.57%) · 10-year 4.95% · 30-year 5.36% · SOX 11,665.46 (−2.23%) · NVDA $218.22 (−2.44%)"
   },
   "deskNote": {
-    "kicker": "CFO / AI",
-    "hed": "Afternoon: HSBC CFO succession lead; Listen Labs walked Menlo term sheet; Polymarket names Jenson CFO.",
+    "kicker": "PE / M&A",
+    "hed": "Mid Afternoon: Bending Spoons–Miro $1.355B EV catch-up lead.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 73 Afternoon. ADD hsbc-cfo (official SEA: Pam Kaur leaves Group CFO role in 2027 / not standing at 2027 AGM; advisory to Group CEO; Board searching internal+external) as Afternoon lead. ADD listen-menlo-walk (TechCrunch catch-up: Menlo $125M/$1.5B Series C term sheet walked; Salesforce ~$2B talks still OPEN). ADD polymarket-cfo (PR: Warren Jenson, ex-Amazon/EA/Delta/NBC CFO). Demote bis-ai-stability from lead, still on plate. Live Yahoo tape refreshed vs No. 72 ~12:06 print (S&P/SOX/NVDA still soft; 10y ~4.91%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Exiger/Carlyle product PR (2023 $1.2B recycle), Socure $156M wire (official PRs still omit check size; already on plate), Bloomberg PE-AI LP transparency alone (paywall/robot — insufficient body), HSBC without SEA until PDF verified. X scan skipped (no X connector). Forge/Guide nothing — Guide agent absent."
+    "body": "Vol. 1 No. 74 Mid Afternoon. ADD bsp-miro (official BSP newsroom: $1.355B EV / ~$1.79B equity; $295M seller reinvest; Q4 ’26 close guided; ~$600M ARR) as Mid Afternoon lead — morning definitive agreement missed on Nos. 70–73. Demote hsbc-cfo from lead, still on plate. Live Yahoo tape refreshed vs No. 73 ~1:05 print (S&P/SOX/NVDA still soft; 10y ~4.95%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined TAR $120M/$1B Series A (Bloomberg/FinSMEs — no company PR body in window), Exiger/Carlyle product PR (2023 $1.2B recycle), Socure $156M wire (already on plate; prior bar), Bloomberg PE-AI LP transparency alone (paywall), cfo.ai product rebrand. X scan skipped (no X connector). Forge/Guide nothing — Guide agent absent."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.hsbc.com/-/files/hsbc/investors/results-and-announcements/stock-exchange-announcements/2026/september/sea-100926-hsbc-holdings-plc-group-cfo-succession.pdf"
+    "line": "Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro"
   },
   "sections": [
     "All",
@@ -30,8 +30,41 @@
   ],
   "stories": [
     {
-      "id": "hsbc-cfo",
+      "id": "bsp-miro",
       "lead": true,
+      "section": "PE",
+      "kicker": "M&A",
+      "hed": "Bending Spoons agrees to buy Miro for $1.355B enterprise value",
+      "dek": "Official PR Sept. 10. All-cash; ~$1.79B equity with net cash; $295M seller reinvest into BSP equity; Q4 ’26 close guided.",
+      "date": "Sept. 10, 2026",
+      "source": "Bending Spoons",
+      "url": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro",
+      "also": [
+        {
+          "label": "Miro CEO note",
+          "url": "https://miro.com/blog/miro-bending-spoons/"
+        },
+        {
+          "label": "SEC 6-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000015/bsp-20260910x6k.htm"
+        },
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-10/bending-spoons-agrees-to-buy-workspace-miro-for-1-36-billion"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / software M&A as Late Midday catch-up lead (morning PR missed on Nos. 70–73). PRIMARY: Bending Spoons investor newsroom Sept. 10. Stick to: NASDAQ:BSP definitive agreement to acquire Miro at enterprise value $1.355 billion; with Miro’s net cash implies equity value approximately $1.79 billion; all-cash; certain Miro shareholders agreed to invest $295 million of proceeds into newly issued Bending Spoons equity; subject to customary closing conditions and regulatory approvals; boards unanimously approved; will acquire 100% of issued and outstanding Miro shares; expected close Q4 2026; companies operate independently until close. CEO Luca Ferrari: Miro ~$600 million ARR, nearly 90% business/enterprise; plans to invest in performance/reliability/functionality; long-term own-and-operate. Miro CEO Andrey Khusid: ~4 million paying users; >750 customers with >$100k ARR; 100M+ users / 250k customers framed in About. Advisors: BNP Paribas + J.P. Morgan to BSP; Morgan Stanley exclusive to Miro; Latham to BSP; Goodwin to Miro. Note last week Airtable close already on plate (bsp-airtable-close). ALSO: Miro blog confirms EV/equity split; SEC 6-K names RealTimeBoard, Inc. d/b/a Miro and Omega Merger Sub. Do not invent peak 2022 valuation markdown unless Quill packages separately from Bloomberg/commentary. Owner Quill.",
+      "grafs": [
+        "Bending Spoons S.p.A. (Nasdaq: BSP) said Sept. 10 it has entered a definitive agreement to acquire Miro at an enterprise value of $1.355 billion, implying an equity value of about $1.79 billion once Miro’s net cash is included, according to the company’s investor newsroom.",
+        "The transaction is all cash. Certain Miro shareholders have agreed to invest $295 million of their proceeds into newly issued Bending Spoons equity. The deal, including that investment, is subject to customary closing conditions and regulatory approvals, with close guided for the fourth quarter of 2026.",
+        "Bending Spoons CEO Luca Ferrari said Miro has grown to around $600 million in annual recurring revenue, nearly 90% from business and enterprise customers, and that after closing the company plans to invest in performance, reliability, and collaborative functionality. Miro founder and CEO Andrey Khusid said nearly 4 million paying users depend on the product, including more than 750 customers with over $100,000 in ARR.",
+        "Bending Spoons will acquire 100% of Miro’s issued and outstanding shares; until close the companies said they will operate independently. The buyer completed its Airtable acquisition last week (already on the plate)."
+      ]
+    },
+    {
+      "id": "hsbc-cfo",
+      "lead": false,
       "section": "CFO",
       "kicker": "Banking",
       "hed": "HSBC CFO Pam Kaur to leave in 2027; Board starts succession search",
