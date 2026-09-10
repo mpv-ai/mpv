@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 75,
+  "number": 76,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~4:35 p.m. ET)",
-    "updated": "Sep 10, ~4:35 p.m. ET — US session",
+    "source": "Yahoo Finance chart quotes (Thu Sep 10 cash close)",
+    "updated": "Sep 10, cash close ET — US session",
     "line": "S&P 7,591.70 (−0.58%) · 10-year 4.94% · 30-year 5.36% · SOX 11,614.17 (−2.66%) · NVDA $218.36 (−2.37%)"
   },
   "deskNote": {
-    "kicker": "PE / AI",
-    "hed": "Late Afternoon: Altera IPO-prep lead; OpenAI ChatGPT FS catch-up.",
+    "kicker": "Markets / AI cloud",
+    "hed": "Evening: Oracle Q1 FY27 IaaS lead; Adobe Q3 raise.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 75 Late Afternoon. ADD altera-ipo (Reuters people-familiar: Silver Lake/Intel Altera IPO could raise >$2B as early as 2026; Barclays/Citi/JPM/MS; confidential file guided coming weeks) as Late Afternoon lead. ADD openai-chatgpt-fs (official OpenAI blog: ChatGPT for Financial Services; MS/Evercore design partners; GPT-6 Astra; Daloopa/PitchBook/LSEG News/Crunchbase) — Midday launch missed on No. 74. Demote bsp-miro from lead, still on plate. Live Yahoo tape refreshed vs No. 74 ~2:51 print (SOX softer −2.66%; S&P/NVDA still soft). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Blackstone–Flow Control Holdings (Business Wire definitive; terms undisclosed — below bar), Adobe Q3 revenue beat alone (thin AI print), cfo.ai product rebrand (prior bar). X scan skipped (no X connector). Forge/Guide nothing — Guide agent absent."
+    "body": "Vol. 1 No. 76 Evening. ADD oracle-q1 (Oracle IR + 8-K Ex. 99.1: Q1 FY27 rev $19.3B +30%; IaaS $7.4B +121%; cloud $11.6B +62%; RPO $664B; nGAAP EPS $1.92; capex $28.5B / FCF −$5.4B; ATM $20B done; FY27 ≥$90B / $8.10) as Evening lead. ADD adobe-q3 (Business Wire: Q3 FY26 $6.76B +13%; GAAP/non-GAAP EPS $4.62/$6.13; AI-first ARR +150%+; >1B MAUs; raises FY26). Demote altera-ipo from lead. Cash tape unchanged vs No. 75 close print. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10/"
+    "line": "Oracle Q1 printed — call/webcast replay on IR; Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26; Q4 targets $6.80–$6.85B. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx"
   },
   "sections": [
     "All",
@@ -30,8 +30,61 @@
   ],
   "stories": [
     {
-      "id": "altera-ipo",
+      "id": "oracle-q1",
       "lead": true,
+      "section": "Markets",
+      "kicker": "Earnings / Cloud",
+      "hed": "Oracle Q1 FY27: IaaS +121% to $7.4B; rev $19.3B (+30%); RPO $664B",
+      "dek": "Company PR Sept. 10 AMC. Non-GAAP EPS $1.92; cloud $11.6B (+62%); capex $28.5B, FCF −$5.4B; ATM $20B equity completed; FY27 rev ≥$90B / nGAAP EPS $8.10.",
+      "date": "Sept. 10, 2026",
+      "source": "Oracle",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx",
+      "also": [
+        {
+          "label": "SEC 8-K index (Acc. 0001193125-26-387905)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/0001193125-26-387905-index.htm"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI cloud earnings as Evening lead. PRIMARY: Oracle IR press release Sept. 10 (also furnished as Ex. 99.1 to Form 8-K Acc. 0001193125-26-387905, filed ~4:16 p.m. ET). Stick to company figures only: Q1 FY27 (quarter ended Aug. 31, 2026) total rev $19.3B (+30% USD and CC); total cloud $11.6B (+62% USD / +61% CC); Cloud Infra IaaS $7.4B (+121% USD / +120% CC); Cloud Apps SaaS $4.2B (+10%); software $5.5B (−3%); services $1.4B (+5%); hardware $0.8B (+15%); delivered 850 MW additional datacenter capacity. GAAP op. income $6.7B (+57%); non-GAAP op. income $8.2B (+31%); GAAP NI available to common $4.7B (+60%); non-GAAP NI available to common $5.8B (+34%); GAAP diluted EPS $1.56 (+55%); non-GAAP diluted EPS $1.92 (+30%). Operating cash flow record $23.1B (+184%); free cash flow −$5.4B after capex $28.5B. RPO $664B (+$209B y/y) after booking >$30B additional AI cloud contracts in Q1; company says structuring means no incremental impact on capital-raise plans; since end-Q4 delivered >300,000 GPUs. Completed sale of $20B common stock (before commissions) via ATM in Q1 as part of previously disclosed capital investment program (net proceeds $19.909B per cash-flow statement). Q2 FY27 guide: total rev growth 30–34% CC/USD; total cloud growth 64–70% CC / 65–71% USD; non-GAAP EPS $1.83–$1.91 CC / $1.85–$1.93 USD (ex Q2 FY26 Ampere one-time gain). Full FY27: total rev at least $90B; non-GAAP EPS $8.10. Common dividend $0.50 payable Oct. 23 to holders of record Oct. 9. CNBC color only for LSEG consensus ($1.92 vs $1.74; $19.35B vs $19.14B) and AH reaction — do not invent call color beyond company PR. Owner Quill.",
+      "grafs": [
+        "Oracle reported fiscal first-quarter 2027 results after the close on Sept. 10, with total revenue up 30% to $19.3 billion and cloud infrastructure (IaaS) revenue up 121% to $7.4 billion, according to the company’s press release furnished with its Form 8-K.",
+        "Total cloud revenue (IaaS + SaaS) rose 62% to $11.6 billion, with cloud applications (SaaS) up 10% to $4.2 billion. GAAP diluted EPS was $1.56 (+55%) and non-GAAP diluted EPS was $1.92 (+30%). Remaining performance obligations climbed $209 billion year over year to $664 billion after the company booked more than $30 billion of additional AI cloud contracts in the quarter.",
+        "Operating cash flow hit a record $23.1 billion (+184%), while free cash flow was −$5.4 billion after $28.5 billion of capital expenditures. During Q1 Oracle completed a $20 billion (before commissions) at-the-market common-stock sale as part of its previously disclosed capital investment program.",
+        "For Q2 FY27 Oracle guided total revenue growth of 30%–34% and cloud revenue growth of 65%–71% in USD, with non-GAAP EPS of $1.85–$1.93 in USD excluding a prior-year one-time gain. Full-year FY27 guidance is total revenue of at least $90 billion and non-GAAP EPS of $8.10."
+      ]
+    },
+    {
+      "id": "adobe-q3",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Earnings / AI software",
+      "hed": "Adobe Q3: record $6.76B rev (+13%); raises FY26 targets; AI-first ARR +150%+",
+      "dek": "Business Wire Sept. 10 AMC. GAAP EPS $4.62 / non-GAAP $6.13; ARR $27.50B; >1B MAUs; interim CFO Steve Day; FY26 rev $26.576–$26.626B.",
+      "date": "Sept. 10, 2026",
+      "source": "Adobe",
+      "url": "https://www.businesswire.com/news/home/20260910832552/en/",
+      "also": [
+        {
+          "label": "Adobe Investor Relations",
+          "url": "https://www.adobe.com/investor-relations.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / software earnings as Evening companion (Adobe Business Wire PR Sept. 10 ~4:05 p.m. ET). PRIMARY: https://www.businesswire.com/news/home/20260910832552/en/ — Adobe Q3 FY26 ended Aug. 28, 2026: record revenue $6.76B (+13% y/y, +12% CC); GAAP diluted EPS $4.62; non-GAAP diluted EPS $6.13; total Adobe ARR exiting quarter $27.50B; GAAP op. income $2.35B / non-GAAP $2.97B; GAAP NI $1.83B / non-GAAP $2.42B; record Q3 operating cash flow $2.52B; RPO $22.16B (cRPO 67%); repurchased ~9.5M shares. Customer-group: total subscription $6.56B (+14% / +13% CC); Business Professionals & Consumers $1.91B (+16% / +15% CC); Creative & Marketing Professionals $4.65B (+13% / +12% CC). Company highlights: AI-first ARR grew more than 150% y/y; >1 billion monthly active users across creativity and productivity. Quotes: Chair/CEO Shantanu Narayen; SVP and interim CFO Steve Day. Raised FY26 targets: total rev $26.576–$26.626B; GAAP EPS $18.12–$18.17; non-GAAP EPS $24.45–$24.50; ending ARR growth 10.2%. Q4 FY26 targets: rev $6.80–$6.85B; GAAP EPS $4.65–$4.70; non-GAAP $6.30–$6.35. Do not invent Street consensus or AH price action unless separately sourced. Owner Quill.",
+      "grafs": [
+        "Adobe reported record third-quarter fiscal 2026 revenue of $6.76 billion, up 13% year over year (12% in constant currency), in a Business Wire release dated Sept. 10 for the quarter ended Aug. 28, 2026.",
+        "Diluted EPS was $4.62 on a GAAP basis and $6.13 non-GAAP. Total Adobe ARR exiting the quarter was $27.50 billion, operating cash flow was a record $2.52 billion for the quarter, and the company said AI-first ARR grew more than 150% year over year while monthly active users across creativity and productivity solutions exceeded 1 billion.",
+        "Adobe raised full-year FY2026 targets to revenue of $26.576–$26.626 billion, GAAP diluted EPS of $18.12–$18.17, and non-GAAP diluted EPS of $24.45–$24.50. Interim CFO Steve Day said the company delivered double-digit revenue and EPS growth and is expanding via a freemium strategy and agentic experiences."
+      ]
+    },
+    {
+      "id": "altera-ipo",
+      "lead": false,
       "section": "PE",
       "kicker": "IPO / Semiconductors",
       "hed": "Altera preparing IPO that could raise over $2B as early as 2026 — Reuters",
