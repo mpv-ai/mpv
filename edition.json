@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 72,
+  "number": 73,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~12:06 p.m. ET)",
-    "updated": "Sep 10, ~12:06 p.m. ET — US session",
-    "line": "S&P 7,596.57 (−0.52%) · 10-year 4.92% · 30-year 5.35% · SOX 11,698.51 (−1.95%) · NVDA $219.06 (−2.06%)"
+    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~1:05 p.m. ET)",
+    "updated": "Sep 10, ~1:05 p.m. ET — US session",
+    "line": "S&P 7,605.14 (−0.41%) · 10-year 4.91% · 30-year 5.33% · SOX 11,702.84 (−1.91%) · NVDA $218.80 (−2.18%)"
   },
   "deskNote": {
-    "kicker": "Finance / PE",
-    "hed": "Midday: BIS AI-stability lead; Accel-KKR £207.6M Eleco take-private; tape soft.",
+    "kicker": "CFO / AI",
+    "hed": "Afternoon: HSBC CFO succession lead; Listen Labs walked Menlo term sheet; Polymarket names Jenson CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 72 Midday. ADD bis-ai-stability (Reuters: BIS GM Hernandez de Cos — AI boom financial-stability risks; top-five tech >$1T 2025–26; debt/private-credit opacity) as Midday lead. ADD accel-eleco (RNS: Accel-KKR Avocet Bidco 235p / ~£207.6M equity / EV £192.4M; Q1 ’27 scheme). Demote positron-c from lead, still on plate. Live Yahoo tape refreshed vs No. 71 ~10:55 print (S&P/SOX/NVDA still soft; 10y ~4.92%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted — third-party transcripts exist). Declined Canoe/Bloomberg (July print), wholesale-inventories recycle, small funding wires without valuation. X scan skipped (no X connector). Forge/Guide nothing."
+    "body": "Vol. 1 No. 73 Afternoon. ADD hsbc-cfo (official SEA: Pam Kaur leaves Group CFO role in 2027 / not standing at 2027 AGM; advisory to Group CEO; Board searching internal+external) as Afternoon lead. ADD listen-menlo-walk (TechCrunch catch-up: Menlo $125M/$1.5B Series C term sheet walked; Salesforce ~$2B talks still OPEN). ADD polymarket-cfo (PR: Warren Jenson, ex-Amazon/EA/Delta/NBC CFO). Demote bis-ai-stability from lead, still on plate. Live Yahoo tape refreshed vs No. 72 ~12:06 print (S&P/SOX/NVDA still soft; 10y ~4.91%). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR Anthropic S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Exiger/Carlyle product PR (2023 $1.2B recycle), Socure $156M wire (official PRs still omit check size; already on plate), Bloomberg PE-AI LP transparency alone (paywall/robot — insufficient body), HSBC without SEA until PDF verified. X scan skipped (no X connector). Forge/Guide nothing — Guide agent absent."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed — Listen Labs talks still OPEN. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/"
+    "line": "HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.hsbc.com/-/files/hsbc/investors/results-and-announcements/stock-exchange-announcements/2026/september/sea-100926-hsbc-holdings-plc-group-cfo-succession.pdf"
   },
   "sections": [
     "All",
@@ -30,8 +30,87 @@
   ],
   "stories": [
     {
-      "id": "bis-ai-stability",
+      "id": "hsbc-cfo",
       "lead": true,
+      "section": "CFO",
+      "kicker": "Banking",
+      "hed": "HSBC CFO Pam Kaur to leave in 2027; Board starts succession search",
+      "dek": "Official SEA Sept. 10. Not standing at 2027 AGM; advisory role to Group CEO after; internal and external candidates.",
+      "date": "Sept. 10, 2026",
+      "source": "HSBC",
+      "url": "https://www.hsbc.com/-/files/hsbc/investors/results-and-announcements/stock-exchange-announcements/2026/september/sea-100926-hsbc-holdings-plc-group-cfo-succession.pdf",
+      "also": [
+        {
+          "label": "HKEX SEA (English)",
+          "url": "https://www.hsbc.com/-/files/hsbc/investors/results-and-announcements/stock-exchange-announcements/2026/september/sea-100926-group-cfo-succession-announcement-made-to-the-hk-stock-exchange.pdf"
+        },
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-10/hsbc-looks-for-new-cfo-as-pam-kaur-set-to-leave-next-year"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / G-SIB succession as Afternoon lead. PRIMARY: HSBC Holdings plc Group CFO Succession SEA dated 10 September 2026 (PDF). Stick to: Group CFO Pam Kaur informed the Board of her plan to leave her role in 2027 and not stand for re-election as director at the 2027 AGM; official retirement date as Group CFO to be confirmed in due course but no later than the 2027 AGM; after stepping down from full-time Group CFO and Executive Director next year, she will assume an advisory role to support the Group CEO on ongoing strategic projects and ensure a smooth transition; Board has commenced a process to identify her successor considering both internal and external candidates; Chairman Brendan Nelson and Group CEO Georges Elhedery quoted; Kaur joined leadership since 2013; note to editors: HSBC assets US$3,438bn at 30 June 2026; 56 countries/territories. Appendix (remuneration policy line): expected to remain Group CFO and ED until 2027 AGM or earlier if successor starts; notice period ends 9 September 2027; post-retirement adviser to Group CEO expected through end-2028; Good Leaver on deferred/LTI with competitor condition; no other termination compensation. Do not invent a reason for exit beyond her statement that 2027 feels the right time for new leadership opportunities. Owner Quill.",
+      "grafs": [
+        "HSBC Holdings plc said Sept. 10 that Group Chief Financial Officer Pam Kaur has informed the Board of her plan to leave the role in 2027 and not stand for re-election as a director at the company’s 2027 annual general meeting, according to an official stock-exchange announcement.",
+        "Her official retirement date as Group CFO will be confirmed in due course but will be no later than the 2027 AGM. After stepping down from the full-time Group CFO and Executive Director roles next year, Kaur will take an advisory role supporting Group CEO Georges Elhedery on ongoing strategic projects and the transition to a successor.",
+        "The Board has started a search for her successor that will consider both internal and external candidates. Chairman Brendan Nelson thanked Kaur for 13 years of service across Internal Audit, Risk & Compliance, and Finance; Elhedery said her judgement and financial discipline have been invaluable over two years as Group CFO.",
+        "Kaur said that with the bank in a strong place financially and strategically, 2027 feels the right time to embrace new leadership opportunities. HSBC said it had assets of US$3,438 billion at June 30, 2026, and serves customers from offices in 56 countries and territories."
+      ]
+    },
+    {
+      "id": "listen-menlo-walk",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Venture / M&A",
+      "hed": "Listen Labs walked Menlo $125M/$1.5B term sheet for Salesforce talks",
+      "dek": "TechCrunch people-familiar Sept. 9. Signed Series C never closed; BI’s ~$2B Salesforce talks still OPEN.",
+      "date": "Sept. 9, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "also": [
+        {
+          "label": "Business Insider (Salesforce talks)",
+          "url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / venture-M&A as Afternoon companion to salesforce-listen (catch-up: TechCrunch Marina Temkin 5:00 p.m. PDT Sept. 9 = 8:00 p.m. ET; missed on Nos. 70–72). PRIMARY: TechCrunch people-familiar. Stick to: Listen Labs recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation with Menlo Ventures set to lead; round never closed — company walked away from the signed term sheet (rare/frowned upon per VCs cited); financing likely collapsed because of Salesforce acquisition talks; BI reported Salesforce talks around $2 billion, not finalized; Listen Labs ~$30 million annualized revenue (~3x Simile per people familiar); if Salesforce talks collapse, several VCs expect Listen Labs to return targeting $2 billion or higher; person with Salesforce-exit experience flagged ~67x revenue multiple as potentially steep; customers Microsoft, Canva, Anthropic, Sweetgreen; prior $69M Series B late January at $500M led by Ribbit with Sequoia, Conviction, Pear; Listen Labs, Salesforce, Menlo, Simile did not immediately comment. Do not treat as closed M&A or closed financing. Owner Quill.",
+      "grafs": [
+        "Listen Labs recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation with Menlo Ventures set to lead, then walked away before the round closed, according to several people with knowledge of the matter cited by TechCrunch on Sept. 9.",
+        "TechCrunch said the financing likely collapsed because of acquisition talks with Salesforce. Business Insider has reported Salesforce talks to buy Listen Labs for around $2 billion that are not finalized and may not result in a deal.",
+        "People familiar with the companies’ financials told TechCrunch Listen Labs has about $30 million in annualized revenue. If Salesforce talks collapse, several VCs told the outlet they expect Listen Labs to return to market targeting a valuation of $2 billion or higher.",
+        "Listen Labs, Salesforce, Menlo Ventures, and competitor Simile did not immediately respond to TechCrunch’s requests for comment. Treat as people-familiar process color next to the existing Salesforce–Listen Labs talks item — not a closed round or closed acquisition."
+      ]
+    },
+    {
+      "id": "polymarket-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Prediction markets",
+      "hed": "Polymarket names ex-Amazon CFO Warren Jenson as finance chief",
+      "dek": "Company PR Sept. 10. Reports to CEO Shayne Coplan; scales CFTC-regulated U.S. exchange. Bloomberg frames as first CFO.",
+      "date": "Sept. 10, 2026",
+      "source": "Polymarket / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/polymarket-appoints-warren-jenson-as-chief-financial-officer-302875360.html",
+      "also": [
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-10/polymarket-hires-first-cfo-in-push-to-regain-ground-on-kalshi"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / markets infra. PRIMARY: Polymarket PR Newswire Sept. 10, 2026 09:16 ET. Stick to: Warren Jenson named Chief Financial Officer; previously served as CFO of Amazon, Electronic Arts, Delta Air Lines and NBC; also President and CFO at Nielsen and President at LiveRamp; reports to Founder/CEO Shayne Coplan; will lead finance org, financial and capital strategy, long-range planning; appointment as Polymarket scales CFTC-regulated U.S. exchange and expands globally; boards DigitalOcean, Dropbox, Ripple. ALSO: Bloomberg frames hire as first CFO and Kalshi competition context — do not invent share, valuation, or raise size from the CFO PR (Aug. 1789/$21B funding is a separate print, not restated here unless Quill packages separately). Owner Quill.",
+      "grafs": [
+        "Polymarket on Sept. 10 named veteran finance executive Warren Jenson chief financial officer, the prediction-markets company said in a PR Newswire release.",
+        "Jenson previously served as CFO of Amazon, Electronic Arts, Delta Air Lines and NBC, and later held senior roles as president and CFO at Nielsen and president at LiveRamp. He will report to founder and CEO Shayne Coplan.",
+        "Polymarket said the appointment comes as it scales its CFTC-regulated U.S. exchange and expands its global platform; as CFO, Jenson will lead the finance organization and set financial and capital strategy. He also serves on the boards of DigitalOcean, Dropbox and Ripple.",
+        "Bloomberg separately framed the hire as Polymarket’s first CFO amid competition with rival Kalshi. Stick to the company PR for bio and mandate; do not invent a valuation or raise size from the CFO announcement alone."
+      ]
+    },
+    {
+      "id": "bis-ai-stability",
+      "lead": false,
       "section": "Finance",
       "kicker": "Central banks",
       "hed": "BIS head: AI boom creates new financial-stability risks",
