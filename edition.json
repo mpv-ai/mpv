@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 76,
+  "number": 77,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance chart quotes (Thu Sep 10 cash close)",
     "updated": "Sep 10, cash close ET — US session",
     "line": "S&P 7,591.70 (−0.58%) · 10-year 4.94% · 30-year 5.36% · SOX 11,614.17 (−2.66%) · NVDA $218.36 (−2.37%)"
   },
   "deskNote": {
-    "kicker": "Markets / AI cloud",
-    "hed": "Evening: Oracle Q1 FY27 IaaS lead; Adobe Q3 raise.",
+    "kicker": "AI / Infrastructure",
+    "hed": "Late Evening: Microsoft >38 GW capacity plan; DOJ–Groq probe; China HBM chip hikes.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 76 Evening. ADD oracle-q1 (Oracle IR + 8-K Ex. 99.1: Q1 FY27 rev $19.3B +30%; IaaS $7.4B +121%; cloud $11.6B +62%; RPO $664B; nGAAP EPS $1.92; capex $28.5B / FCF −$5.4B; ATM $20B done; FY27 ≥$90B / $8.10) as Evening lead. ADD adobe-q3 (Business Wire: Q3 FY26 $6.76B +13%; GAAP/non-GAAP EPS $4.62/$6.13; AI-first ARR +150%+; >1B MAUs; raises FY26). Demote altera-ipo from lead. Cash tape unchanged vs No. 75 close print. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
+    "body": "Vol. 1 No. 77 Late Evening. ADD msft-dc-38gw (Bloomberg people-familiar Brody Ford/Matt Day ~5:00 p.m. ET: >38 GW data-center capacity by 2032 vs ~12 GW now; more than triple; shortages forced turning away some AI/cloud business) as Late Evening lead. ADD doj-nvda-groq (NYT/Reuters: DOJ probes Nvidia–Groq ~$17B non-exclusive license structure; formal info request; fines possible, unwind unlikely) — morning recommend catch-up. ADD china-hbm-ai-hikes (Reuters exclusive: Huawei Ascend 950DT indicated >250k yuan +20–50%; Cambricon 690 +20–30%; grey-market HBM) — morning recommend catch-up. Demote oracle-q1 from lead. Cash tape unchanged vs No. 76 close print (Yahoo S&P 7,591.70 −0.58%). Declined Exiger 1Exiger AI replatform PR (Carlyle/Insight/JMI portfolio marketing; $1.2B was 2023). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Oracle Q1 printed — call/webcast replay on IR; Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26; Q4 targets $6.80–$6.85B. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx"
+    "line": "Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — call/webcast replay on IR; Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26; Q4 targets $6.80–$6.85B. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"
   },
   "sections": [
     "All",
@@ -30,8 +30,86 @@
   ],
   "stories": [
     {
-      "id": "oracle-q1",
+      "id": "msft-dc-38gw",
       "lead": true,
+      "section": "AI",
+      "kicker": "Infrastructure / Cloud",
+      "hed": "Microsoft plans >38 GW data-center capacity by 2032, up from ~12 GW — Bloomberg",
+      "dek": "People-familiar Sept. 10 ~5 p.m. ET. More than triple capacity; shortages forced turning away some AI/cloud business; NY-state peak power comparison.",
+      "date": "Sept. 10, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+      "also": [
+        {
+          "label": "Bloomberg Law (same Brody Ford / Matt Day)",
+          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/microsoft-plans-data-center-push-to-triple-its-computing-power"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / cloud infrastructure as Late Evening lead. PRIMARY: Bloomberg Big Take by Brody Ford and Matt Day, Sept. 10, 2026 at 5:00 p.m. EDT (Bloomberg Law mirror stamped 9:00 p.m. UTC). Stick to people-familiar only — do not invent capex totals, AI-share splits, or lease figures not on the visible lede. Confirmed: Microsoft plans to more than triple data-center capacity; globe-spanning network will have more than 38 gigawatts of capacity in 2032, up from about 12 gigawatts now; effort could help overcome a computing shortage that has forced it to turn away some AI and cloud business; that 2032 figure would eclipse New York state peak electricity use. Bloomberg Law adds: figures provide a rare glimpse of how much computing capacity Microsoft hopes to get for the massive sums it is spending on data centers (sentence truncated on free page — do not invent the rest). Treat as people-familiar plan, not a company IR guidance print. Owner Quill.",
+      "grafs": [
+        "Microsoft plans to more than triple its data-center capacity, aiming for more than 38 gigawatts by 2032 from about 12 gigawatts now, according to people familiar with the plans cited by Bloomberg on Sept. 10.",
+        "The push is framed as a response to a computing shortage that has already forced the company to turn away some AI and cloud business, Bloomberg reported. The 2032 capacity target would eclipse the electricity New York state uses at peak periods, the report said.",
+        "Authors Brody Ford and Matt Day; treat as people-familiar planning color, not a Microsoft IR release. Do not invent incremental gigawatt schedules, AI-versus-general cloud splits, or dollar capex totals beyond what the visible Bloomberg lede states."
+      ]
+    },
+    {
+      "id": "doj-nvda-groq",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Antitrust / Semiconductors",
+      "hed": "DOJ probes Nvidia–Groq license structure — NYT; Reuters confirms",
+      "dek": "People-familiar. Formal information request after Dec. 2025 ~$17B non-exclusive license + talent move; fines possible, unwind unlikely per report.",
+      "date": "Sept. 10, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-doj-probes-nvidias-licensing-deal-with-ai-startup-groq-nyt-reports-2026-09-10/",
+      "also": [
+        {
+          "label": "New York Times",
+          "url": "https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html"
+        },
+        {
+          "label": "Groq company announcement (Dec. 24, 2025)",
+          "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / antitrust as Late Evening companion (morning recommend catch-up — id was not on plate). PRIMARY wire: Reuters Sept. 9/10 summarizing NYT (Carlos Méndez). Stick to: DOJ investigating whether Nvidia structured its licensing deal with Groq to avoid antitrust scrutiny, per two people familiar; Nvidia announced a $17 billion deal last year for a non-exclusive license to Groq chip technology and hired executives including founder Jonathan Ross; DOJ opened inquiry shortly after Dec. announcement and sent Nvidia a formal request for information; Nvidia spokesperson said the Groq story is a prime example of the American system working as designed; Groq and DOJ did not immediately respond to Reuters outside business hours; agency could fine if it finds mishandling, though unlikely to seek unwind per the report. On-record company framing: Groq Dec. 24, 2025 newsroom — non-exclusive inference technology license; Ross, Sunny Madra and other Groq members join Nvidia; Groq continues independently with Simon Edwards as CEO. Do NOT invent a single reconciled $17B vs ~$20B historical wire figure beyond what this Reuters piece states ($17B). Owner Quill.",
+      "grafs": [
+        "The U.S. Justice Department is investigating whether Nvidia structured its licensing deal with AI chip startup Groq to avoid antitrust scrutiny, the New York Times reported, citing two people familiar with the matter, with Reuters confirming the account on Sept. 9–10.",
+        "Nvidia announced a $17 billion arrangement last year for a non-exclusive license to Groq’s chip technology and hired several Groq executives, including founder Jonathan Ross, Reuters said. The DOJ opened its inquiry shortly after the December announcement and has sent Nvidia a formal request for information, according to the NYT report as relayed by Reuters.",
+        "An Nvidia spokesperson said the Groq story is “a prime example of the American system working as designed to promote innovation, reward entrepreneurs, and benefit consumers.” Groq’s December 2025 company announcement described a non-exclusive inference-technology license, with Ross and president Sunny Madra joining Nvidia while Groq continues as an independent company under CEO Simon Edwards.",
+        "Reuters, citing the Times report, said the agency could fine Nvidia if it finds the deal was mishandled, though it is unlikely to seek to unwind the transaction. Treat as people-familiar regulatory color — not a filed complaint or court ruling."
+      ]
+    },
+    {
+      "id": "china-hbm-ai-hikes",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Semiconductors / China",
+      "hed": "China AI chipmakers lift prices as HBM shortage bites — Huawei, Cambricon",
+      "dek": "Reuters exclusive people-familiar Sept. 10. Ascend 950DT indicated >250,000 yuan (+20–50%); Cambricon 690 indicated +20–30%; grey-market HBM after Dec. 2024 curbs.",
+      "date": "Sept. 10, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/",
+      "also": [
+        {
+          "label": "Mint (Reuters reprint)",
+          "url": "https://www.livemint.com/technology/chinas-ai-chipmakers-raise-prices-as-high-bandwidth-memory-shortage-bites-11789016524933.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / semiconductors as Late Evening companion (morning recommend catch-up). PRIMARY: Reuters exclusive Sept. 10 (people familiar). Stick to: Huawei Ascend 950DT indicated price above 250,000 yuan (~$37,255), up 20%–50% vs quotes two months earlier depending on contract terms; Huawei has publicly said 950DT available Q4 2026; Cambricon planned 690 indicated price up 20%–30% vs two months earlier (no exact yuan figure); MetaX and Iluvatar CoreX similar increases per sources; grey-market HBM after Dec. 2024 U.S. advanced-HBM export curbs; HBM costs several times non-China prices; Ascend 950PR ~60,000 yuan early year to >80,000 yuan (~+30%); Ascend 910C >110,000 yuan from ~90,000 yuan early year; companies did not respond; Cambricon 690 not formally launched (flagship 590); Iluvatar doubled GPU shipments to ByteDance to 100,000 units this year per one source; Huawei largest domestic ByteDance supplier then Cambricon then Iluvatar per three sources. Do NOT merge Bloomberg’s separate “~60%” Ascend 950DT framing into the Reuters 20–50% band. Owner Quill.",
+      "grafs": [
+        "Chinese AI chipmakers including Huawei and Cambricon have sharply raised indicated prices for current and next-generation AI processors as high-bandwidth memory costs climb, three people familiar with the matter told Reuters on Sept. 10.",
+        "Huawei lifted the indicated price of its Ascend 950DT accelerator card to above 250,000 yuan (about $37,255), a 20% to 50% jump from quotes two months earlier depending on contract terms, two people said. Huawei has said the 950DT will be available in the fourth quarter of 2026. Cambricon’s planned 690 chip was indicated 20% to 30% higher than levels from two months earlier, without an exact figure, and MetaX and Iluvatar CoreX made similar increases, the sources said.",
+        "Since Washington tightened controls on certain advanced HBM exports to China in December 2024, Chinese chipmakers have relied more on grey-market channels where such memory can cost several times what buyers outside China pay, feeding directly into finished cards, Reuters reported. Earlier Huawei boards also rose: Ascend 950PR from roughly 60,000 yuan early in the year to more than 80,000 yuan, and Ascend 910C from about 90,000 yuan to more than 110,000 yuan, sources said.",
+        "Huawei, Cambricon, MetaX, Iluvatar CoreX and ByteDance did not respond to Reuters requests for comment. Treat as people-familiar pricing color — not company list prices."
+      ]
+    },
+    {
+      "id": "oracle-q1",
+      "lead": false,
       "section": "Markets",
       "kicker": "Earnings / Cloud",
       "hed": "Oracle Q1 FY27: IaaS +121% to $7.4B; rev $19.3B (+30%); RPO $664B",
