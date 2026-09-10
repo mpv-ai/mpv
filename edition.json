@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 69,
+  "number": 70,
   "city": "New York",
-  "date": "Wednesday, September 9, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Thursday, September 10, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Wed Sep 9 cash close)",
-    "updated": "Sep 9, cash close — US session",
-    "line": "S&P 7,636.36 (−0.48%) · 10-year 4.84% · 30-year 5.29% · SOX 11,931.32 (+0.37%) · NVDA $223.67 (−0.91%)"
+    "source": "Yahoo Finance chart quotes (Thu Sep 10 ~10:15 a.m. ET)",
+    "updated": "Sep 10, ~10:15 a.m. ET — US session",
+    "line": "S&P 7,588.78 (−0.62%) · 10-year 4.92% · 30-year 5.35% · SOX 11,622.41 (−2.59%) · NVDA $218.09 (−2.49%)"
   },
   "deskNote": {
-    "kicker": "PE / Buyout",
-    "hed": "Late Evening: Cerberus–Goodwin up-to-£1.1B; TPG–Lyric ~$5B explore.",
+    "kicker": "Markets / Inflation",
+    "hed": "Morning: August PPI +0.4% / +5.4% y/y lead; Listen Labs ~$2B talks; UniPat $300M/$2.5B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 69 Late Evening. ADD cerberus-goodwin (Goodwin RNS + Cerberus PR: up-to-£1.1B headline cash for Mechanical Engineering perimeter; Q1 ’27 close guided) as Late Evening lead; ADD tpg-lyric (Reuters exclusive people-familiar ~$5B Lyric sale process; JPMorgan; ~$250M EBITDA). clay-d demoted from lead, still on plate. Cash-close tape UNCHANGED. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Lightfield $47M Series A (no company valuation; below plate vs Clay), Cymphony $30M/>$100M, Xiaopeng Robotics secondary again, Bajaj–TrueFan, Meta–Stilla terms undisclosed, L Catterton–Hyrox terms undisclosed, Cognition/Harvey/Clay/Zankore/Cegid recycles. X scan skipped (client-not-enrolled). Forge/Guide nothing."
+    "body": "Vol. 1 No. 70 Morning. ADD ppi-aug (BLS USDL 26-1495: final demand +0.4% SA / +5.4% y/y; energy-led goods +1.1%, diesel +24.1%; less foods/energy/trade +0.3% / +4.7% y/y) as Morning lead. ADD salesforce-listen (BI people-familiar ~$2B Salesforce–Listen Labs talks; not final; catch-up from Sep 9 ~3 p.m. ET). ADD unipat-ai (Bloomberg people-familiar: Alibaba-led $300M at $2.5B; Tencent/HSG; talks ongoing). Cerberus–Goodwin demoted from lead, still on plate. Live Yahoo tape refreshed vs Wed cash close. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX — no public EDGAR S-1 in window; DeepSeek $74–75B funding; Broadcom official IR Q3 transcript PDF still unposted). Declined Exiger 1Exiger product PR (no new capital), Meta–Stilla again (terms undisclosed), Cegid/Clay/Mistral/Qualcomm recycles. X scan skipped (client-not-enrolled). Forge/Guide nothing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Cerberus–Goodwin Q1 ’27 close still guided (reorg + NSIA/FDI/antitrust). TPG–Lyric sale process OPEN — no signed deal. Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided, not online. Cegid–Silae close guided H1 2027 (works council + regulators). ADI–Alif guided close before YE 2026 (HSR). SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). PPI Thu Sep 10 / CPI Fri Sep 11 — last major inflation prints before the Sept. 15–16 FOMC. DeepSeek STAR IPO prep with CITIC — process aims 2026; size/timing/valuation undetermined; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting to purchase milestones; not booked $60B). Flex–EPC guided Q4 ’26 close; CPI spin still Q1 ’27. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending shareholder/court. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. Google Finland spend is a 2027–2028 plan, not a 2026 close. STMicro >$2B 2027 AI DC target mix now printed; server-power leg still 2028+.",
-    "href": "https://technode.global/2026/09/09/zankore-3-1b-ai-infrastructure-financing-indonesia/"
+    "line": "August PPI printed (+0.4% / +5.4% y/y) — CPI Fri Sep 11 still ahead; Sept. 15–16 FOMC. Salesforce–Listen Labs talks OPEN — no signed deal. UniPat $300M/$2.5B talks OPEN — contours may change. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.bls.gov/news.release/ppi.htm"
   },
   "sections": [
     "All",
@@ -30,8 +30,80 @@
   ],
   "stories": [
     {
-      "id": "cerberus-goodwin",
+      "id": "ppi-aug",
       "lead": true,
+      "section": "Markets",
+      "kicker": "Inflation",
+      "hed": "August PPI +0.4% m/m, +5.4% y/y; energy-led goods surge",
+      "dek": "BLS USDL 26-1495. Ex food/energy/trade +0.3% m/m / +4.7% y/y. Diesel +24.1%; goods +1.1%, services +0.1%. Last major producer print before Sept. 15–16 FOMC; CPI Fri.",
+      "date": "Sept. 10, 2026",
+      "source": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/ppi.htm",
+      "also": [
+        {
+          "label": "Bloomberg (core gauge)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-10/key-gauge-of-us-producer-prices-rises-less-than-forecast"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / inflation as Morning lead (BLS 8:30 a.m. ET Thu Sep 10). PRIMARY: https://www.bls.gov/news.release/ppi.htm (USDL 26-1495, PRODUCER PRICE INDEXES – AUGUST 2026). Stick to BLS lede and Final Demand detail: final demand +0.4% SA in August; July revised to +0.1% (from prior unchanged print); June −0.1%; unadj. 12-month final demand +5.4%. Goods +1.1%; services +0.1%. Final demand less foods, energy, and trade services +0.3% m/m (after +0.4% in July) and +4.7% y/y. Goods less foods and energy +0.4%; foods +0.1%; energy +4.2% (>¾ of goods rise); diesel fuel +24.1% (>⅓ of goods increase); transportation and warehousing services +2.3%; trade services −0.2%. April–July revised for late reports. Bloomberg also notes PPI ex food and energy +0.2% after revised +0.3% July — secondary color only; prefer BLS less-foods-energy-and-trade framing as primary core. Frame into CPI Fri Sep 11 and FOMC Sep 15–16; do not invent Fed-odds or equity-close reaction beyond sourced tape. Owner Quill.",
+      "grafs": [
+        "The Producer Price Index for final demand moved up 0.4 percent in August, seasonally adjusted, the U.S. Bureau of Labor Statistics reported today (USDL 26-1495). Final demand prices rose 0.1 percent in July and decreased 0.1 percent in June. On an unadjusted basis, the index for final demand increased 5.4 percent for the 12 months ended in August.",
+        "In August, final demand goods advanced 1.1 percent and final demand services increased 0.1 percent. Over three-fourths of the goods rise came from energy, which moved up 4.2 percent, with diesel fuel jumping 24.1 percent. Goods less foods and energy rose 0.4 percent and foods 0.1 percent. The index for final demand less foods, energy, and trade services rose 0.3 percent after 0.4 percent in July, and was up 4.7 percent over 12 months.",
+        "BLS said April through July figures were revised for late reports. This is the last major producer-price print before Friday’s CPI and the Sept. 15–16 FOMC; stick to the BLS percentages and do not invent a policy call."
+      ]
+    },
+    {
+      "id": "salesforce-listen",
+      "lead": false,
+      "section": "AI",
+      "kicker": "M&A watch",
+      "hed": "Salesforce in talks to buy Listen Labs for around $2B — Business Insider",
+      "dek": "People familiar. AI customer-research platform; talks not final. Last private mark $500M. Customers incl. Anthropic, Google, Microsoft.",
+      "date": "Sept. 9, 2026",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9",
+      "also": [
+        {
+          "label": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-eyes-2-billion-acquisition-of-ai-powered-platform-listen-labs/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / enterprise M&A as Morning companion (catch-up: Business Insider Katie Roof/Ben Bergman ~3:01 p.m. ET Sep 9; missed on Nos. 67–69). PRIMARY: BI people-familiar only. Stick to: Salesforce recently in talks to buy Listen Labs, AI-powered customer research platform, for around $2 billion; talks not finalized and could ultimately be unsuccessful; Salesforce and Listen Labs did not comment. Founders Alfred Wahlforss and Florian Juengermann (2023); customers include Microsoft, Anthropic, Google, Nestlé, Sweetgreen, Perplexity; company said earlier this year ARR grew 15x and interviewed >1M people in nine months. Last valued at $500M earlier this year; backers Sequoia, Ribbit, Conviction, Pear. BI color: would strengthen Agentforce; Information said Salesforce considered Hugging Face before Nvidia deal — context only. Prefer “around $2 billion” / “talks” language — not a signed deal. Do not invent EV multiple or close timing. Owner Quill.",
+      "grafs": [
+        "Salesforce has recently been in talks to buy Listen Labs, an AI-powered customer research platform, for around $2 billion, according to people familiar with the matter cited by Business Insider on Sept. 9.",
+        "The talks have not been finalized and could ultimately be unsuccessful, a person with knowledge of the deal told BI. Salesforce and Listen Labs did not respond to requests for comment. Listen Labs was last valued at $500 million in a financing round earlier this year, with backers including Sequoia Capital, Ribbit Capital, Conviction Partners, and Pear VC.",
+        "Treat the story as an early acquisition process, not a closed transaction: stick to BI’s around-$2 billion figure and people-familiar sourcing."
+      ]
+    },
+    {
+      "id": "unipat-ai",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding",
+      "hed": "Alibaba to lead $300M UniPat AI round at $2.5B — Bloomberg",
+      "dek": "People familiar. AI testing/benchmarking; Tencent + HSG also in. Talks ongoing; terms may change. Founder: ex-Alibaba Tongyi intern Li Kuan.",
+      "date": "Sept. 10, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value",
+      "also": [
+        {
+          "label": "Longbridge / etnet (Bloomberg reprint)",
+          "url": "https://longbridge.com/en/news/298538558"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / China evaluation-infra funding as Morning companion (Bloomberg Sep 10 ~ morning ET window). PRIMARY: Bloomberg people-familiar. Stick to: Alibaba slated to lead a $300 million investment in UniPat AI, AI training and benchmarking startup, valuing the company at $2.5 billion; financing set to close soon; participation from Tencent and previous backers HSG (formerly Sequoia China); talks remain in progress and deal contours may still change. Bloomberg frames founder as former Alibaba intern / ex-staffer (Tongyi). Do not invent round letter, ARR, or closed status — prefer “slated to lead” / “talks in progress” language. Secondary color from open sources (UniScientist GitHub/unipat.ai) only if needed for what the company builds — not for the financing print. Owner Quill.",
+      "grafs": [
+        "Alibaba is slated to lead a $300 million investment in UniPat AI, an AI training and benchmarking startup, valuing the company at $2.5 billion, according to people familiar with the matter cited by Bloomberg on Sept. 10.",
+        "The financing is set to close soon and also drew participation from Tencent and previous backers including HSG, formerly Sequoia China, the people said. Talks remain in progress and the deal’s contours may still change.",
+        "Treat the story as an unclosed round: stick to Bloomberg’s $300 million / $2.5 billion people-familiar prints and do not invent a signed term sheet or round letter."
+      ]
+    },
+    {
+      "id": "cerberus-goodwin",
+      "lead": false,
       "section": "PE",
       "kicker": "Buyout",
       "hed": "Cerberus agrees up-to-£1.1B deal for Goodwin mechanical engineering unit",
