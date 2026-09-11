@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 85,
+  "number": 86,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance chart quotes (Fri Sep 11 cash close)",
-    "updated": "Sep 11, ~6:56 p.m. ET — US cash close",
+    "updated": "Sep 11, ~7:50 p.m. ET — US cash close (unchanged vs No. 85)",
     "line": "S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Evening: Main Capital–Tribal ~£189.3M cash; US cash close tape refreshed.",
+    "hed": "Night: Google–Mechanize talent close (terms TBD); cash-close tape unchanged.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 85 Evening. ADD tribal-main (Tribal RNS: Main Capital Thames Bidco conditional buy of Tribal businesses for ~£189.3M cash; AIM Rule 15 + NSI; GM Oct. 2; SilverTree rejected; FY25 pro forma rev £92.5M / adj. EBITDA £17.5M) as lead → Quill. Demoted spacex-host-111 (still on plate). Yahoo cash close vs No. 84 ~2:20 live: S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%). Declined: Xapien $56M Spectrum (thin / no valuation vs plate bar); Cohere $2–3B / $20B talks (Globe/Bloomberg — not final; company no comment); Copart–ACV $1.9B auto auctions (off core beat); Porsche–Rimac €1B stakes (auto / off beat); Salzgitter + African Bank CFO moves (off beat); Fluidstack Pentagon OSC ~$5B loan talks still talks-not-final; nvidia-hf / oracle-q1 / enflame-star / zai-hk-5b / polymarket-cfo / cls-cfo already on plate. X scan skipped (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
+    "body": "Vol. 1 No. 86 Night. ADD google-mechanize (BI: Google completed Mechanize talent deal; Besiroglu → DeepMind; 12+ staff midtraining; Assadi now CEO; final terms undisclosed — do not print prior $1.5B+ talks as closed price) as lead → Quill. Demoted tribal-main (still on plate). Yahoo cash close UNCHANGED vs No. 85: S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%). Declined: KKR–Integer $2.1B leveraged-loan wrap (Bloomberg paywall / no free primary); FFL–Waylin (terms undisclosed, prior decline); OpenAI Altman “open to slowing” (Bloomberg via Reuters people-familiar soft color); Xapien $56M / Cohere talks / Fluidstack Pentagon loan talks. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI; MVL if completes. SpaceX ~$1.11B/mo hosting still on plate (customer TBD). UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN. Oracle Q1 / Adobe Q3 printed. Altera IPO prep OPEN. OpenAI ChatGPT for Financial Services live. SoftBank HAWKS offering OPEN through Sep 16. Nvidia–Hugging Face definitive still on plate (H1 ’27 close). Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74–75B funding still unconfirmed. Firmus rumoured IPO — not filed. CVC–Ginko China talks OPEN (not final). Cohere $2–3B talks OPEN (not final)."
+    "line": "Google–Mechanize talent deal completed (final $ undisclosed). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI; MVL if completes. SpaceX ~$1.11B/mo hosting still on plate (customer TBD). UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN."
   },
   "sections": [
     "All",
@@ -29,8 +29,27 @@
   ],
   "stories": [
     {
-      "id": "tribal-main",
+      "id": "google-mechanize",
       "lead": true,
+      "section": "AI",
+      "kicker": "Talent / Aquihire",
+      "hed": "Google completes Mechanize talent deal; Besiroglu joins DeepMind",
+      "dek": "BI Sep 11. LinkedIn shows ex-CEO Tamay Besiroglu at DeepMind + 12+ former Mechanize staff on Google midtraining. Final terms undisclosed — prior BI talks were $1.5B+. Guive Assadi now Mechanize CEO. Google/Besiroglu declined comment.",
+      "date": "Sept. 11, 2026",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / talent aquihire as Night lead (BI Sep 11 catch-up vs No. 85 Evening). PRIMARY: https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9. Stick to: Google completed talent deal with Mechanize Inc (SF AI agents/coding startup); public LinkedIn postings show co-founder/ex-CEO Tamay Besiroglu now research scientist at Google DeepMind; over a dozen other former Mechanize employees now at Google, mostly on midtraining; former chief of staff Guive Assadi now describes himself as Mechanize CEO; Google and Besiroglu declined to comment; BI previously reported talks for a $1.5 billion-plus deal for tech and talent — FINAL TERMS OF THE CLOSED DEAL WERE NOT DISCLOSED (do NOT print $1.5B+ as the closed price or EV). Context only: Mechanize earlier said it raised $9.1M at $500M valuation; structure framed as talent deal typically used to limit antitrust scrutiny vs full acquisition (Windsurf precedent mentioned as color). Demote tribal-main (keep on plate). Owner Quill.",
+      "grafs": [
+        "Google has completed a talent deal with San Francisco AI startup Mechanize Inc, Business Insider reported Sept. 11, citing public LinkedIn postings rather than a company announcement.",
+        "Mechanize co-founder and former CEO Tamay Besiroglu now lists himself as a research scientist at Google DeepMind, and more than a dozen other former Mechanize employees appear at Google, mostly on midtraining work that sharpens chatbot coding. Former chief of staff Guive Assadi now describes himself as Mechanize’s CEO. Google and Besiroglu declined to comment.",
+        "Business Insider previously reported Google had been in talks for a $1.5 billion-plus package covering Mechanize’s technology and talent. The final terms of the completed deal were not disclosed, so the paper is not treating $1.5 billion as a closed purchase price."
+      ]
+    },
+    {
+      "id": "tribal-main",
+      "lead": false,
       "section": "PE",
       "kicker": "Software / Take-private",
       "hed": "Main Capital to buy Tribal Group businesses for ~£189.3M cash",
