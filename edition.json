@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 79,
+  "number": 80,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Thu Sep 10 cash close)",
-    "updated": "Sep 10, cash close ET — US session (Fri pre-open; cash tape held)",
-    "line": "S&P 7,591.70 (−0.58%) · 10-year 4.94% · 30-year 5.36% · SOX 11,614.17 (−2.66%) · NVDA $218.36 (−2.37%)"
+    "source": "Yahoo Finance chart quotes (Fri Sep 11 live session)",
+    "updated": "Sep 11, ~9:50 a.m. ET — US regular session",
+    "line": "S&P 7,663.60 (+0.95%) · 10-year 4.92% · 30-year 5.32% · SOX 11,855.60 (+2.08%) · NVDA $219.81 (+0.66%)"
   },
   "deskNote": {
-    "kicker": "Markets / Inflation",
-    "hed": "Morning: August CPI +0.4% / core +0.3%; Z.AI ~$5B HK sheets; Motive >$1.3B GC.",
+    "kicker": "Markets / Tape",
+    "hed": "Mid-Morning: post-CPI rebound — S&P +0.95%, SOX +2.08%; cash-close hold lifted.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 79 Morning. ADD cpi-aug (CNBC/BLS: headline +0.4% m/m / +3.4% y/y in line; core +0.3% m/m hot / +2.4% y/y; gasoline +3.9%) as Morning lead. ALSO morning-radar clears: zai-hk-5b (Reuters term sheets ~$2B @ HK$714 + ~$3B CNY CB; CICC), motive-gc (company >$1.3B GC CVF; ARR >$600M; S-1 withdrawn; no valuation), deepseek-v41-flash (company V4.1-Flash; does NOT close $74–75B funding watch), gmmm-geo 2609.11915, rlmm-regime 2609.11614. Demote ayar-e-ext from lead. Cash tape UNCHANGED vs No. 78 (Yahoo Thu close held into Fri pre-open). Declined Bloomberg PE AI-transparency feature (no deal terms). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
+    "body": "Vol. 1 No. 80 Mid-Morning. TAPE ONLY — no new stories. Yahoo live ~9:50 a.m. ET flips No. 79 Thu cash-close hold: S&P 7,663.60 (+0.95% / +71.9 pts vs 7,591.70), SOX 11,855.60 (+2.08% / +241 pts), NVDA $219.81 (+0.66%), 10-year 4.92% (−2 bp), 30-year 5.32% (−4 bp). CPI lead (cpi-aug) and Fri morning adds unchanged. Declined for plate: Bloomberg PE AI-exposure LP transparency feature (Sep 10 enterprise; no deal print); Meta–Stilla (already declined No. 78); Kinetix AI $75M angel (below bar); Nscale $3.5B pre-IPO talks (Sep 4; already covered via nscale-figure / older watch). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
   },
   "comingUp": {
     "label": "Coming up",
