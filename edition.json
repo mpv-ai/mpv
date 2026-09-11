@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 81,
+  "number": 82,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance chart quotes (Fri Sep 11 live session)",
-    "updated": "Sep 11, ~11:20 a.m. ET — US regular session",
-    "line": "S&P 7,667.27 (+1.00%) · 10-year 4.94% · 30-year 5.33% · SOX 11,857.17 (+2.09%) · NVDA $220.48 (+0.97%)"
+    "updated": "Sep 11, ~11:58 a.m. ET — US regular session",
+    "line": "S&P 7,670.53 (+1.04%) · 10-year 4.94% · 30-year 5.33% · SOX 11,877.86 (+2.27%) · NVDA $219.67 (+0.60%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Late Morning: Enflame STAR debut lead; post-CPI tape still green — S&P +1.00%, SOX +2.09%.",
+    "hed": "Midday: TeamSystem minority sale lead — H&F ~15% to FP/KKR at €8–10B EV; tape still green post-CPI.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 81 Late Morning. ADD enflame-star (Reuters: Shanghai Enflame 688801.SS closed +179% after ¥6.12B / $912M STAR IPO; offer ¥142.18 → close ¥397; Tencent 17.95% / 83.79% of 2025 sales; 2025 rev ¥990.2M +37%, loss ¥1.16B; 9M’26 guide ¥2.3–3.0B / loss ¥700–860M) as lead → Quill; ADD moonshot-arr (Bloomberg people-familiar: ARR >$1B Aug from $300M June; YE annualized sales target $2B; Kimi K3) → Quill — does not close moonshot-hk-ipo. Demoted cpi-aug (still on plate). Yahoo live ~11:20 a.m. ET vs No. 80 ~9:50: S&P 7,667.27 (+1.00%) · 10-year 4.94% · 30-year 5.33% · SOX 11,857.17 (+2.09%) · NVDA $220.48 (+0.97%). Declined: Anthropic mid-October IPO slip (Reuters ~Sep 4–5; already covered via anthropic-15b-revolver + S-1 watch); Positron C recycle; ElevenLabs CFO recycle; feature/PE surveys without deal prints. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
+    "body": "Vol. 1 No. 82 Midday. ADD teamsystem-hf (Reuters exclusive: H&F sells ~10% TeamSystem to Francisco Partners + ~5% to investors including KKR; EV €8–10B; remaining stake rolls to another H&F fund) as lead → Quill. Demoted enflame-star (still on plate). Yahoo live ~11:58 a.m. ET vs No. 81 ~11:20: S&P 7,670.53 (+1.04%) · 10-year 4.94% · 30-year 5.33% · SOX 11,877.86 (+2.27%) · NVDA $219.67 (+0.60%). Declined: CVC–Ginko China final talks ($700–800M incl. debt; terms not final); Bloomberg PE AI-exposure LP transparency feature (Sep 10; no deal print); Altman open-to-slow color (Bloomberg via Reuters; soft). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Enflame STAR debut printed (+179% / $912M). August CPI printed — headline +0.4% / +3.4%; core +0.3% / +2.4% (CNBC/BLS); Sept. 15–16 FOMC next. Moonshot ARR people-familiar (>$1B Aug / $2B YE target) — HK IPO watch still OPEN. Z.AI ~$5B HK placement+CB launched (term sheets; not closed). Motive >$1.3B GC CVF — S-1 withdrawn; valuation undisclosed. DeepSeek V4.1-Flash live — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive — Q4 ’26 close guided. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks still OPEN — Menlo term sheet walked. Accel-KKR–Eleco scheme close guided during/prior Q1 2027. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Anthropic public S-1 still held (mid-October marketing color already on revolver watch). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11/"
+    "line": "TeamSystem minority sale printed (H&F → FP ~10% / KKR-in ~5%; EV €8–10B; private-IPO roll). Enflame STAR debut printed (+179% / $912M). August CPI printed — headline +0.4% / +3.4%; core +0.3% / +2.4% (CNBC/BLS); Sept. 15–16 FOMC next. Moonshot ARR people-familiar (>$1B Aug / $2B YE target) — HK IPO watch still OPEN. Z.AI ~$5B HK placement+CB launched (term sheets; not closed). Motive >$1.3B GC CVF — S-1 withdrawn; valuation undisclosed. DeepSeek V4.1-Flash live — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive — Q4 ’26 close guided. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks still OPEN — Menlo term sheet walked. Accel-KKR–Eleco scheme close guided during/prior Q1 2027. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Anthropic public S-1 still held (mid-October marketing color already on revolver watch). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. CVC–Ginko China talks OPEN (Reuters final talks; $700–800M incl. debt; may not close).",
+    "href": "https://www.reuters.com/legal/transactional/francisco-partners-kkr-buy-minority-stakes-italys-teamsystem-sources-say-2026-09-11/"
   },
   "sections": [
     "All",
@@ -30,8 +30,27 @@
   ],
   "stories": [
     {
-      "id": "enflame-star",
+      "id": "teamsystem-hf",
       "lead": true,
+      "section": "PE",
+      "kicker": "Software / Secondary",
+      "hed": "H&F sells ~15% of TeamSystem: FP ~10%, KKR in ~5%; EV €8–10B",
+      "dek": "Reuters people-familiar Sept. 11. Agreed terms; remaining H&F stake rolls to another H&F fund (private IPO). Rev >€1.3B; core earnings ~€600M; 2025 adj. EBITDA €476M (~16.5–17× at €8B FT ask).",
+      "date": "Sept. 11, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/francisco-partners-kkr-buy-minority-stakes-italys-teamsystem-sources-say-2026-09-11/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE / software as Midday lead (Reuters exclusive, Elvira Pollina / Amy-Jo Crowley, Milan/London, Sept. 11). PRIMARY: https://www.reuters.com/legal/transactional/francisco-partners-kkr-buy-minority-stakes-italys-teamsystem-sources-say-2026-09-11/ — Francisco Partners and KKR agreed terms to buy minority stakes in Italian business-software TeamSystem from Hellman & Friedman. Stick to Reuters people-familiar: ~10% to Francisco Partners; further ~5% to other investors including KKR; EV €8–10B ($9.27–$11.59B at $1=€0.8628). H&F cashes part of stake and transfers remaining stake to another H&F-managed fund (private IPO / GP-led secondary color). All four parties declined to comment. Filing color: H&F 69% as of July; Silver Lake 12.8% and ADIA 9.8% from 2023 H&F sales. FT July ask ~€8B implied ~16.5–17× 2025 adj. EBITDA €476M. Current: rev >€1.3B / core earnings ~€600M; entry EBITDA was €75M (2016). SME e-invoicing stickiness is source color only. Context only (already on plate): Silver Lake Cegid+Silae >€10B EV. Do NOT invent purchase price $, close timing, or board seats. Demote enflame-star (keep on plate). Owner Quill.",
+      "grafs": [
+        "Private equity firms Francisco Partners and KKR have agreed terms to buy minority stakes in Italian business-software company TeamSystem from Hellman & Friedman, three people familiar with the matter told Reuters on Sept. 11.",
+        "H&F is selling about 10 percent of TeamSystem to Francisco Partners and a further roughly 5 percent to other investors including KKR, valuing the company at €8 billion to €10 billion ($9.27 billion to $11.59 billion), the people said. H&F, Francisco Partners, KKR and TeamSystem declined to comment.",
+        "The sale lets H&F crystallize part of its investment while rolling its remaining stake into another fund it manages — a private-IPO style transfer — according to the sources. A corporate filing showed H&F held 69 percent as of July, with Silver Lake at 12.8 percent and Abu Dhabi’s ADIA at 9.8 percent from 2023 stake sales; TeamSystem now generates more than €1.3 billion of revenue and about €600 million of core earnings, one person said, versus €75 million of EBITDA when H&F first invested in 2016."
+      ]
+    },
+    {
+      "id": "enflame-star",
+      "lead": false,
       "section": "AI",
       "kicker": "China / IPO",
       "hed": "Enflame STAR debut +179%; $912M IPO; Tencent ~84% of 2025 sales",
