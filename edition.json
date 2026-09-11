@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 80,
+  "number": 81,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Late Morning",
   "tape": {
     "source": "Yahoo Finance chart quotes (Fri Sep 11 live session)",
-    "updated": "Sep 11, ~9:50 a.m. ET — US regular session",
-    "line": "S&P 7,663.60 (+0.95%) · 10-year 4.92% · 30-year 5.32% · SOX 11,855.60 (+2.08%) · NVDA $219.81 (+0.66%)"
+    "updated": "Sep 11, ~11:20 a.m. ET — US regular session",
+    "line": "S&P 7,667.27 (+1.00%) · 10-year 4.94% · 30-year 5.33% · SOX 11,857.17 (+2.09%) · NVDA $220.48 (+0.97%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Mid-Morning: post-CPI rebound — S&P +0.95%, SOX +2.08%; cash-close hold lifted.",
+    "hed": "Late Morning: Enflame STAR debut lead; post-CPI tape still green — S&P +1.00%, SOX +2.09%.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 80 Mid-Morning. TAPE ONLY — no new stories. Yahoo live ~9:50 a.m. ET flips No. 79 Thu cash-close hold: S&P 7,663.60 (+0.95% / +71.9 pts vs 7,591.70), SOX 11,855.60 (+2.08% / +241 pts), NVDA $219.81 (+0.66%), 10-year 4.92% (−2 bp), 30-year 5.32% (−4 bp). CPI lead (cpi-aug) and Fri morning adds unchanged. Declined for plate: Bloomberg PE AI-exposure LP transparency feature (Sep 10 enterprise; no deal print); Meta–Stilla (already declined No. 78); Kinetix AI $75M angel (below bar); Nscale $3.5B pre-IPO talks (Sep 4; already covered via nscale-figure / older watch). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
+    "body": "Vol. 1 No. 81 Late Morning. ADD enflame-star (Reuters: Shanghai Enflame 688801.SS closed +179% after ¥6.12B / $912M STAR IPO; offer ¥142.18 → close ¥397; Tencent 17.95% / 83.79% of 2025 sales; 2025 rev ¥990.2M +37%, loss ¥1.16B; 9M’26 guide ¥2.3–3.0B / loss ¥700–860M) as lead → Quill; ADD moonshot-arr (Bloomberg people-familiar: ARR >$1B Aug from $300M June; YE annualized sales target $2B; Kimi K3) → Quill — does not close moonshot-hk-ipo. Demoted cpi-aug (still on plate). Yahoo live ~11:20 a.m. ET vs No. 80 ~9:50: S&P 7,667.27 (+1.00%) · 10-year 4.94% · 30-year 5.33% · SOX 11,857.17 (+2.09%) · NVDA $220.48 (+0.97%). Declined: Anthropic mid-October IPO slip (Reuters ~Sep 4–5; already covered via anthropic-15b-revolver + S-1 watch); Positron C recycle; ElevenLabs CFO recycle; feature/PE surveys without deal prints. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "August CPI printed — headline +0.4% / +3.4%; core +0.3% / +2.4% (CNBC/BLS); Sept. 15–16 FOMC next. Z.AI ~$5B HK placement+CB launched (term sheets; not closed). Motive >$1.3B GC CVF — S-1 withdrawn; valuation undisclosed. DeepSeek V4.1-Flash live — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive — Q4 ’26 close guided. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks still OPEN — Menlo term sheet walked. Accel-KKR–Eleco scheme close guided during/prior Q1 2027. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+    "line": "Enflame STAR debut printed (+179% / $912M). August CPI printed — headline +0.4% / +3.4%; core +0.3% / +2.4% (CNBC/BLS); Sept. 15–16 FOMC next. Moonshot ARR people-familiar (>$1B Aug / $2B YE target) — HK IPO watch still OPEN. Z.AI ~$5B HK placement+CB launched (term sheets; not closed). Motive >$1.3B GC CVF — S-1 withdrawn; valuation undisclosed. DeepSeek V4.1-Flash live — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive — Q4 ’26 close guided. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks still OPEN — Menlo term sheet walked. Accel-KKR–Eleco scheme close guided during/prior Q1 2027. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Anthropic public S-1 still held (mid-October marketing color already on revolver watch). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11/"
   },
   "sections": [
     "All",
@@ -30,8 +30,55 @@
   ],
   "stories": [
     {
-      "id": "cpi-aug",
+      "id": "enflame-star",
       "lead": true,
+      "section": "AI",
+      "kicker": "China / IPO",
+      "hed": "Enflame STAR debut +179%; $912M IPO; Tencent ~84% of 2025 sales",
+      "dek": "Reuters Sept. 11. Offer ¥142.18; close ¥397; IPO mkt cap ~¥61.2B → ~¥171B. Rev +37% to ¥990.2M; loss narrowed to ¥1.16B. 9M’26 guide ¥2.3–3.0B rev / ¥700–860M loss.",
+      "date": "Sept. 11, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11/",
+      "also": [
+        {
+          "label": "Reuters (pre-debut filing, Sept. 9)",
+          "url": "https://www.reuters.com/world/asia-pacific/tencent-backed-enflame-debut-shanghai-friday-912-million-ipo-2026-09-09/"
+        },
+        {
+          "label": "Forbes (debut color)",
+          "url": "https://www.forbes.com/sites/ywang/2026/09/11/chinese-ai-chipmaker-enflame-mints-two-billionaires-as-stock-surges-180-in-shanghai-debut/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / China capital markets as Late Morning lead (Reuters Yantoultra Ngui/Samuel Shen, Hong Kong/Shanghai, Sept. 11). PRIMARY: https://www.reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11/ — Shanghai Enflame Technology (688801.SS) closed up 179% in Shanghai STAR debut Friday after raising 6.12 billion yuan ($912 million) in its IPO. Stick to Reuters prints: offer price 142.18 yuan; opened 410; high 475 / low 386.99; closed 397 yuan. Sold 43.04 million new shares = 10% of enlarged capital. Offer-price market value about 61.2 billion yuan (filing Wednesday); at Friday close ~171 billion yuan (~2.8× IPO valuation). Tencent largest shareholder at 17.95% post-offer and was largest pre-listing customer; sales linked to Tencent 83.79% of 2025 revenue (prospectus). Still unprofitable: 2025 net loss narrowed to 1.16 billion yuan from 1.51 billion; revenue +37% to 990.2 million yuan. Company forecast 9M 2026 revenue 2.3–3.0 billion yuan and net loss 700–860 million yuan; expects breakeven or profitability in 2026 or 2027 depending on growth/margins. Proceeds mostly for fifth- and sixth-generation AI chips, software, and large-scale computing systems. Context only: one of “four little GPU dragons” with Moore Threads, MetaX, Biren (do not re-lead those). FX attributed: $1 = 6.7061 yuan. Do NOT invent ADRs, US listing plans, or chip specs beyond prospectus use-of-proceeds. Demote cpi-aug (keep on plate). Owner Quill.",
+      "grafs": [
+        "Shanghai Enflame Technology closed up 179 percent in its Shanghai STAR Market debut on Friday after raising 6.12 billion yuan ($912 million) in its initial public offering, Reuters reported from Hong Kong and Shanghai.",
+        "Shares priced at 142.18 yuan opened at 410, traded as high as 475 and as low as 386.99, and closed at 397 yuan. Enflame sold 43.04 million new shares, equal to 10 percent of enlarged capital; the offer implied about 61.2 billion yuan of market value, and Friday’s close lifted that to roughly 171 billion yuan — nearly 2.8 times the IPO valuation, Reuters said.",
+        "Tencent is the largest shareholder at 17.95 percent after the offering and accounted for 83.79 percent of Enflame’s 2025 revenue as its largest pre-listing customer, the prospectus showed. Revenue rose 37 percent to 990.2 million yuan in 2025 while the net loss narrowed to 1.16 billion yuan from 1.51 billion; the company guided first-nine-months 2026 revenue of 2.3 billion to 3 billion yuan and a net loss of 700 million to 860 million yuan, and said it expects to break even or turn profitable in 2026 or 2027 depending on growth and margins."
+      ]
+    },
+    {
+      "id": "moonshot-arr",
+      "lead": false,
+      "section": "AI",
+      "kicker": "China / Revenue",
+      "hed": "Moonshot tells investors ARR topped $1B in Aug; YE target $2B",
+      "dek": "Bloomberg people-familiar Sept. 11. ARR $300M in June → >$1B August after July Kimi K3. Annualized sales target $2B by year-end. Does not close HK IPO watch.",
+      "date": "Sept. 11, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / China as Late Morning companion to moonshot-hk-ipo (Bloomberg News, Sept. 11 ~9:17 a.m. UTC / 5:17 a.m. ET — people familiar). Stick to Bloomberg: Moonshot AI targeting annualized revenue of $2 billion by year-end; told investors annual recurring revenue topped $1 billion in August, up from $300 million in June, fueled by July release of Kimi K3. Competitive color only as attributed (heat on Anthropic and Z.AI). Does NOT close or replace moonshot-hk-ipo (confidential HK filing / $3B raise watch still on plate). Do NOT invent valuation, raise size, or audited financials from this item — people-familiar ARR only. Owner Quill.",
+      "grafs": [
+        "Moonshot AI is targeting annualized revenue of $2 billion by the end of 2026, according to people familiar with the matter cited by Bloomberg on Sept. 11.",
+        "The Chinese AI developer recently told investors its annual recurring revenue topped $1 billion in August, up from $300 million in June, the same people said, after the July release of its Kimi K3 model.",
+        "Bloomberg framed the jump as intensifying competition with rivals including Anthropic and Z.AI. The print does not by itself confirm a Hong Kong listing timetable; the confidential IPO filing watch remains separate on the plate."
+      ]
+    },
+    {
+      "id": "cpi-aug",
+      "lead": false,
       "section": "Markets",
       "kicker": "Inflation",
       "hed": "August CPI +0.4% m/m, +3.4% y/y; core +0.3% / +2.4%",
