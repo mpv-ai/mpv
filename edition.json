@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 77,
+  "number": 78,
   "city": "New York",
   "date": "Thursday, September 10, 2026",
-  "editionLabel": "Late Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance chart quotes (Thu Sep 10 cash close)",
     "updated": "Sep 10, cash close ET — US session",
     "line": "S&P 7,591.70 (−0.58%) · 10-year 4.94% · 30-year 5.36% · SOX 11,614.17 (−2.66%) · NVDA $218.36 (−2.37%)"
   },
   "deskNote": {
-    "kicker": "AI / Infrastructure",
-    "hed": "Late Evening: Microsoft >38 GW capacity plan; DOJ–Groq probe; China HBM chip hikes.",
+    "kicker": "AI / Optics",
+    "hed": "Night: Ayar Labs +$150M (2026 primary $650M); Reuters secondary >$5B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 77 Late Evening. ADD msft-dc-38gw (Bloomberg people-familiar Brody Ford/Matt Day ~5:00 p.m. ET: >38 GW data-center capacity by 2032 vs ~12 GW now; more than triple; shortages forced turning away some AI/cloud business) as Late Evening lead. ADD doj-nvda-groq (NYT/Reuters: DOJ probes Nvidia–Groq ~$17B non-exclusive license structure; formal info request; fines possible, unwind unlikely) — morning recommend catch-up. ADD china-hbm-ai-hikes (Reuters exclusive: Huawei Ascend 950DT indicated >250k yuan +20–50%; Cambricon 690 +20–30%; grey-market HBM) — morning recommend catch-up. Demote oracle-q1 from lead. Cash tape unchanged vs No. 76 close print (Yahoo S&P 7,591.70 −0.58%). Declined Exiger 1Exiger AI replatform PR (Carlyle/Insight/JMI portfolio marketing; $1.2B was 2023). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
+    "body": "Vol. 1 No. 78 Night. ADD ayar-e-ext (Business Wire company PR 8:00 a.m. ET catch-up missed on earlier Sept. 10 passes: +$150M; 2026 primary capital $650M; Wiwynn joins Alchip/AMD/Intel/MediaTek/NVIDIA; Bengaluru Design Center / HVM) as Night lead. ALSO Reuters: Series E extension of March $500M; $225M Antero Peak/Artisan secondary valuing >$5B (Sequoia Global Equities, ARK, Greycroft) — keep secondary mark separate from primary. Demote msft-dc-38gw from lead. Cash tape UNCHANGED vs No. 77 (Yahoo S&P 7,591.70 −0.58%). Declined FFL–Waylin (Business Wire/PE Hub; terms undisclosed), Meta–Stilla (terms undisclosed), arXiv 2609.10350 / 2609.10113 below plate bar. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — call/webcast replay on IR; Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26; Q4 targets $6.80–$6.85B. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "line": "Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — call/webcast replay on IR; Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26; Q4 targets $6.80–$6.85B. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
     "href": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"
   },
   "sections": [
@@ -30,8 +30,40 @@
   ],
   "stories": [
     {
-      "id": "msft-dc-38gw",
+      "id": "ayar-e-ext",
       "lead": true,
+      "section": "AI",
+      "kicker": "Funding / Optics",
+      "hed": "Ayar Labs adds $150M; 2026 primary hits $650M; secondary marks >$5B",
+      "dek": "Company BW Sept. 10 8:00 a.m. ET — Series E extension for CPO HVM + Bengaluru design center; Wiwynn joins strategics (Alchip/AMD/Intel/MediaTek/NVIDIA). Reuters: $225M secondary led by Antero Peak/Artisan.",
+      "date": "Sept. 10, 2026",
+      "source": "Ayar Labs / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260910253998/en/",
+      "also": [
+        {
+          "label": "Reuters (Stephen Nellis) — secondary + Wade timing",
+          "url": "https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/"
+        },
+        {
+          "label": "HPCwire (Source: Ayar Labs)",
+          "url": "https://www.hpcwire.com/off-the-wire/ayar-labs-brings-2026-funding-to-650m-for-cpo-manufacturing/"
+        },
+        {
+          "label": "FinSMEs",
+          "url": "https://www.finsmes.com/2026/09/ayar-labs-raises-150m-in-additional-funding.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / co-packaged optics funding as Night lead (morning miss / catch-up on No. 77). PRIMARY company: Business Wire 20260910253998 Sept. 10, 8:00 a.m. ET (Ayar Labs) — additional $150 million; total primary capital raised in 2026 to $650 million; Wiwynn strategic investment earlier this year joins Alchip, AMD, Intel, MediaTek, and NVIDIA; use of proceeds: HVM transition (product development, validation, manufacturing ecosystem) + new Bengaluru Design Center (complements US + Hsinchu; VP silicon eng Sankara Venkateswaran oversees; Arun Balachandar site lead). Mark Wade quote on copper as limiting factor. Do NOT invent primary-round valuation, revenue, or customer names beyond PR. ALSO Reuters Stephen Nellis Sept. 10 11:01 a.m. UTC: capital is extension of March Series E $500M; Wade to Reuters — qualify for volume production by end-2027 to support customer ramps 2028–2029; SAME DAY secondary: Antero Peak Group at Artisan Partners led $225M share purchase from early employees/investors valuing Ayar at more than $5 billion; Sequoia Global Equities, ARK Invest, Greycroft participated. Keep secondary valuation SEPARATE from the $150M primary extension — do not label the extension itself as a $5B round. March Series E context only: company had printed $3.75B then (not re-lead). Owner Quill.",
+      "grafs": [
+        "Ayar Labs said Sept. 10 it secured an additional $150 million, bringing total primary capital raised in 2026 to $650 million, per the company Business Wire release timed 8:00 a.m. ET.",
+        "The company framed the capital as fuel for its transition to high-volume manufacturing of co-packaged optics and a new Bengaluru Design Center alongside existing U.S. and Hsinchu teams. It separately disclosed that Taiwanese cloud IT firm Wiwynn made a strategic investment earlier this year, joining strategics that include Alchip, AMD, Intel, MediaTek, and NVIDIA.",
+        "Reuters, citing CEO Mark Wade, said the raise extends the $500 million Series E announced in March and that Ayar is targeting volume-production qualification by end-2027 for customer ramps in 2028–2029. Reuters also reported a concurrent $225 million secondary led by Antero Peak Group at Artisan Partners that valued the company at more than $5 billion, with Sequoia Global Equities, ARK Invest, and Greycroft participating — treat that mark as secondary-market liquidity, not the primary extension price."
+      ]
+    },
+    {
+      "id": "msft-dc-38gw",
+      "lead": false,
       "section": "AI",
       "kicker": "Infrastructure / Cloud",
       "hed": "Microsoft plans >38 GW data-center capacity by 2032, up from ~12 GW — Bloomberg",
