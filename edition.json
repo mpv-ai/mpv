@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 82,
+  "number": 83,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance chart quotes (Fri Sep 11 live session)",
-    "updated": "Sep 11, ~11:58 a.m. ET — US regular session",
-    "line": "S&P 7,670.53 (+1.04%) · 10-year 4.94% · 30-year 5.33% · SOX 11,877.86 (+2.27%) · NVDA $219.67 (+0.60%)"
+    "updated": "Sep 11, ~1:03 p.m. ET — US regular session",
+    "line": "S&P 7,670.33 (+1.04%) · 10-year 4.95% · 30-year 5.34% · SOX 11,884.65 (+2.33%) · NVDA $219.16 (+0.36%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Midday: TeamSystem minority sale lead — H&F ~15% to FP/KKR at €8–10B EV; tape still green post-CPI.",
+    "hed": "Afternoon: Blackstone–FCH AI liquid-cooling lead; Celestica CFO succession; tape still green.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 82 Midday. ADD teamsystem-hf (Reuters exclusive: H&F sells ~10% TeamSystem to Francisco Partners + ~5% to investors including KKR; EV €8–10B; remaining stake rolls to another H&F fund) as lead → Quill. Demoted enflame-star (still on plate). Yahoo live ~11:58 a.m. ET vs No. 81 ~11:20: S&P 7,670.53 (+1.04%) · 10-year 4.94% · 30-year 5.33% · SOX 11,877.86 (+2.27%) · NVDA $219.67 (+0.60%). Declined: CVC–Ginko China final talks ($700–800M incl. debt; terms not final); Bloomberg PE AI-exposure LP transparency feature (Sep 10; no deal print); Altman open-to-slow color (Bloomberg via Reuters; soft). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
+    "body": "Vol. 1 No. 83 Afternoon. ADD bx-fch (Blackstone BCP+BETP definitive buy of Audax Flow Control Holdings; Audax minority roll; terms undisclosed; Q4 close guided; CDUs/manifolds/SFN) as lead → Quill. ADD cls-cfo (Celestica GNW: Chawla → Group President, Global Markets; Ankenmann CFO Oct. 1) → Quill. Demoted teamsystem-hf (still on plate). Yahoo live ~1:03 p.m. ET vs No. 82 ~11:58: S&P 7,670.33 (+1.04%) · 10-year 4.95% · 30-year 5.34% · SOX 11,884.65 (+2.33%) · NVDA $219.16 (+0.36%); CLS ~$341 (+~4.9%) tape color only. Declined: CVC–Ginko still talks-not-final; Manus/Meta buyback recirculation (Aug/Sep 2 Caixin/Global Times — not a fresh afternoon print); MatrixCare–Frazier (healthcare software; off core AI/markets bar); Accel-Eleco already on plate. X scan skipped (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "TeamSystem minority sale printed (H&F → FP ~10% / KKR-in ~5%; EV €8–10B; private-IPO roll). Enflame STAR debut printed (+179% / $912M). August CPI printed — headline +0.4% / +3.4%; core +0.3% / +2.4% (CNBC/BLS); Sept. 15–16 FOMC next. Moonshot ARR people-familiar (>$1B Aug / $2B YE target) — HK IPO watch still OPEN. Z.AI ~$5B HK placement+CB launched (term sheets; not closed). Motive >$1.3B GC CVF — S-1 withdrawn; valuation undisclosed. DeepSeek V4.1-Flash live — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive — Q4 ’26 close guided. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks still OPEN — Menlo term sheet walked. Accel-KKR–Eleco scheme close guided during/prior Q1 2027. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Anthropic public S-1 still held (mid-October marketing color already on revolver watch). Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed. CVC–Ginko China talks OPEN (Reuters final talks; $700–800M incl. debt; may not close).",
-    "href": "https://www.reuters.com/legal/transactional/francisco-partners-kkr-buy-minority-stakes-italys-teamsystem-sources-say-2026-09-11/"
+    "line": "Blackstone–FCH definitive printed (Audax minority; terms TBD; Q4 close). Celestica CFO succession printed (Oct. 1). TeamSystem minority sale still on plate (H&F → FP ~10% / KKR-in ~5%; EV €8–10B). Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN. Oracle Q1 / Adobe Q3 printed. Altera IPO prep OPEN. OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks OPEN. Accel-KKR–Eleco scheme close guided Q1 2027. SoftBank HAWKS offering OPEN through Sep 16. Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74–75B funding still unconfirmed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO — not filed. CVC–Ginko China talks OPEN (not final).",
+    "href": "https://www.blackstone.com/news/press/blackstone-to-acquire-flow-control-holdings-a-leader-in-highly-engineered-data-center-liquid-cooling-components/"
   },
   "sections": [
     "All",
@@ -30,8 +30,64 @@
   ],
   "stories": [
     {
-      "id": "teamsystem-hf",
+      "id": "bx-fch",
       "lead": true,
+      "section": "PE",
+      "kicker": "AI Infrastructure",
+      "hed": "Blackstone to buy Audax’s Flow Control Holdings (AI liquid-cooling components)",
+      "dek": "Definitive agreement Sept. 10. BCP + BETP majority; Audax retains minority. Terms undisclosed; close guided Q4. CDUs / in-row manifolds / SFN for OEMs and hyperscalers.",
+      "date": "Sept. 10, 2026",
+      "source": "Blackstone / Audax",
+      "url": "https://www.blackstone.com/news/press/blackstone-to-acquire-flow-control-holdings-a-leader-in-highly-engineered-data-center-liquid-cooling-components/",
+      "also": [
+        {
+          "label": "Audax PR",
+          "url": "https://audaxprivateequity.com/news/blackstone-to-acquire-flow-control-holdings-a-leader-in-highly-engineered-data-center-liquid-cooling-components"
+        },
+        {
+          "label": "IPE Real Assets",
+          "url": "https://realassets.ipe.com/news/blackstone-buys-us-data-centre-flow-components-maker-flow-control/10138415.article"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / AI data-center cooling as Afternoon lead (Blackstone PR Sept. 10 ~10:00 a.m. ET catch-up vs Nos. 76–82). PRIMARY: https://www.blackstone.com/news/press/blackstone-to-acquire-flow-control-holdings-a-leader-in-highly-engineered-data-center-liquid-cooling-components/ + Audax reprint. Stick to: private equity funds affiliated with Blackstone Capital Partners and Blackstone Energy Transition Partners entered a definitive agreement to acquire Flow Control Holdings (FCH) from Audax Private Equity; Audax retains a minority equity stake and continues partnering with Blackstone and management; FCH HQ Cincinnati; components used by OEMs and hyperscalers for coolant distribution units (CDUs), in-row manifolds and secondary fluid networks (SFN); liquid cooling framed as more energy-efficient vs air (PUE / CO2 color from PR only); CEO Scott Kerns notes 10 acquisitions under Audax and investment in production/distribution; Blackstone quotes Bilal Khan (SMD) and Mark Zhu (MD) on AI liquid-cooling theme; terms not disclosed; expected close in the fourth quarter; advisors: Houlihan Lokey + Jefferies (FCH), Ropes & Gray (legal FCH/Audax); William Blair, UBS, Goldman Sachs (Blackstone), Kirkland & Ellis (Blackstone legal). Do NOT invent purchase price, EV, multiple, or revenue. Demote teamsystem-hf (keep on plate). Owner Quill.",
+      "grafs": [
+        "Blackstone said Sept. 10 that private equity funds affiliated with Blackstone Capital Partners and Blackstone Energy Transition Partners entered into a definitive agreement to acquire Flow Control Holdings from Audax Private Equity, with Audax retaining a minority equity stake.",
+        "Cincinnati-based FCH supplies highly engineered flow-control components used by OEMs and hyperscalers in coolant distribution units, in-row manifolds and secondary fluid networks for data-center liquid cooling, alongside food, beverage and pharmaceutical end markets.",
+        "Terms were not disclosed. The companies said the transaction is expected to close in the fourth quarter. Advisors named in the release include Houlihan Lokey and Jefferies for FCH, Ropes & Gray as FCH counsel, and William Blair, UBS and Goldman Sachs for Blackstone with Kirkland & Ellis as Blackstone counsel."
+      ]
+    },
+    {
+      "id": "cls-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Data Center / AI",
+      "hed": "Celestica: Chawla to Group President, Global Markets; Ankenmann named CFO Oct. 1",
+      "dek": "Official GlobeNewswire Sept. 11. Internal succession at AI/data-center infra name; Chawla CFO since 2017; Ankenmann SVP Finance (ex-GE).",
+      "date": "Sept. 11, 2026",
+      "source": "Celestica (GlobeNewswire)",
+      "url": "https://www.stocktitan.net/news/CLS/celestica-announces-new-leadership-structure-to-support-dd01gfl1gq9g.html",
+      "also": [
+        {
+          "label": "Globe and Mail (GNW reprint)",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/CLS/pressreleases/4556612/celestica-announces-new-leadership-structure-to-support-unprecedented-growth/"
+        },
+        {
+          "label": "Finviz (GNW)",
+          "url": "https://finviz.com/news/391213/celestica-announces-new-leadership-structure-to-support-unprecedented-growth"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / AI data-center infra succession (GlobeNewswire Sept. 11 8:30 a.m. ET catch-up). PRIMARY reprint: Stock Titan full GNW text + Globe and Mail. Stick to: effective Oct. 1, 2026, Mandeep Chawla (CFO since 2017; joined Celestica 2010; prior ~decade at GE) becomes newly created Group President, Global Markets overseeing commercial execution and global market expansion; Todd Ankenmann (joined 2018; SVP Finance; prior >decade GE finance) succeeds as CFO; CEO/Chair Rob Mionis quoted on scaling for unprecedented growth; company describes itself as data-center infrastructure / AI, cloud and hybrid cloud. Do not invent compensation, org-chart headcount, or guidance changes tied to the appointments. Yahoo CLS ~$341 (+~4.9%) is tape color only — not a company print. Owner Quill.",
+      "grafs": [
+        "Celestica Inc. (NYSE, TSX: CLS) said Sept. 11 that effective Oct. 1, 2026, Chief Financial Officer Mandeep Chawla will become Group President, Global Markets, a newly created role overseeing commercial execution and global market expansion, and Todd Ankenmann will succeed him as CFO.",
+        "Chawla has been CFO since 2017 and joined Celestica in 2010 after nearly a decade at GE and subsequent senior roles in engineering and life sciences. Ankenmann joined in 2018 as Senior Vice President, Finance, after more than a decade in senior finance roles at GE.",
+        "Chairman and CEO Rob Mionis framed the moves as aligning leadership with the company’s growth trajectory in data-center infrastructure and advanced technology solutions. The release does not change financial guidance."
+      ]
+    },
+    {
+      "id": "teamsystem-hf",
+      "lead": false,
       "section": "PE",
       "kicker": "Software / Secondary",
       "hed": "H&F sells ~15% of TeamSystem: FP ~10%, KKR in ~5%; EV €8–10B",
