@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 84,
+  "number": 85,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Fri Sep 11 live session)",
-    "updated": "Sep 11, ~2:20 p.m. ET — US regular session",
-    "line": "S&P 7,667.50 (+1.00%) · 10-year 4.96% · 30-year 5.35% · SOX 11,878.58 (+2.28%) · NVDA $219.23 (+0.40%)"
+    "source": "Yahoo Finance chart quotes (Fri Sep 11 cash close)",
+    "updated": "Sep 11, ~6:56 p.m. ET — US cash close",
+    "line": "S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Late Afternoon: SpaceX ~$1.11B/mo hosting lead; UAE 5 GW redesign + €40B Germany DC package.",
+    "hed": "Evening: Main Capital–Tribal ~£189.3M cash; US cash close tape refreshed.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 84 Late Afternoon. ADD spacex-host-111 (CFO Johnsen Communacopia: ~$1.11B/mo hosting from Dec. 1 ≈ $13B ARR; customer unnamed; $100B YE ARR conviction) as lead → Quill. ADD uae-5gw-revise (Reuters exclusive: 5 GW UAE-US AI Campus toward distributed network after Iran attacks; G42 soft confirm) → Quill. ADD uae-de-40b (€40B Germany package incl. ~1 GW DCs; joint declaration) → Quill. Demoted bx-fch (still on plate). Yahoo live ~2:20 p.m. ET vs No. 83 ~1:03: S&P 7,667.50 (+1.00%) · 10-year 4.96% · 30-year 5.35% · SOX 11,878.58 (+2.28%) · NVDA $219.23 (+0.40%); deltas noise-only (SPX −~2.8 pts, SOX −~6 pts, NVDA +$0.07). Declined: Kinetix $75M Angel+ (prior decline / thin primary); Bain–Advent–Amil healthcare talks (off core AI/markets bar); Ocean Capital SPAC CFO resignation (below bar); Engageware C-suite (below bar); CVC–Ginko still talks-not-final; arXiv EVaR/CryptoL below plate bar. X scan skipped (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
+    "body": "Vol. 1 No. 85 Evening. ADD tribal-main (Tribal RNS: Main Capital Thames Bidco conditional buy of Tribal businesses for ~£189.3M cash; AIM Rule 15 + NSI; GM Oct. 2; SilverTree rejected; FY25 pro forma rev £92.5M / adj. EBITDA £17.5M) as lead → Quill. Demoted spacex-host-111 (still on plate). Yahoo cash close vs No. 84 ~2:20 live: S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%). Declined: Xapien $56M Spectrum (thin / no valuation vs plate bar); Cohere $2–3B / $20B talks (Globe/Bloomberg — not final; company no comment); Copart–ACV $1.9B auto auctions (off core beat); Porsche–Rimac €1B stakes (auto / off beat); Salzgitter + African Bank CFO moves (off beat); Fluidstack Pentagon OSC ~$5B loan talks still talks-not-final; nvidia-hf / oracle-q1 / enflame-star / zai-hk-5b / polymarket-cfo / cls-cfo already on plate. X scan skipped (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "SpaceX ~$1.11B/mo hosting printed (customer TBD). UAE 5 GW campus redesign people-familiar — Stargate UAE 1 GW phase continues. UAE–Germany €40B / ~1 GW DC package printed. Blackstone–FCH definitive still on plate (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN. Oracle Q1 / Adobe Q3 printed. Altera IPO prep OPEN. OpenAI ChatGPT for Financial Services live. SoftBank HAWKS offering OPEN through Sep 16. Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74–75B funding still unconfirmed. Firmus rumoured IPO — not filed. CVC–Ginko China talks OPEN (not final)."
+    "line": "Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI; MVL if completes. SpaceX ~$1.11B/mo hosting still on plate (customer TBD). UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN. Oracle Q1 / Adobe Q3 printed. Altera IPO prep OPEN. OpenAI ChatGPT for Financial Services live. SoftBank HAWKS offering OPEN through Sep 16. Nvidia–Hugging Face definitive still on plate (H1 ’27 close). Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74–75B funding still unconfirmed. Firmus rumoured IPO — not filed. CVC–Ginko China talks OPEN (not final). Cohere $2–3B talks OPEN (not final)."
   },
   "sections": [
     "All",
@@ -29,8 +29,32 @@
   ],
   "stories": [
     {
-      "id": "spacex-host-111",
+      "id": "tribal-main",
       "lead": true,
+      "section": "PE",
+      "kicker": "Software / Take-private",
+      "hed": "Main Capital to buy Tribal Group businesses for ~£189.3M cash",
+      "dek": "RNS Sept. 11. Thames Bidco (Main Capital); AIM Rule 15 + NSI; GM guided Oct. 2; SilverTree approach rejected. FY25 pro forma rev £92.5M / adj. EBITDA £17.5M.",
+      "date": "Sept. 11, 2026",
+      "source": "Tribal Group RNS",
+      "url": "https://www.investegate.co.uk/announcement/rns/tribal-group--trb/proposed-acquisition-by-main-capital-partners/9768930",
+      "also": [
+        {
+          "label": "TradingView / LSEG RNS reprint",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-09-11:newsml_RSK5105Ua:0-reg-tribal-group-plc-proposed-acquisition-by-main-capital-partners/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / UK education-software disposal as Evening lead (Tribal RNS Sept. 11; catch-up vs No. 84 Late Afternoon). PRIMARY: Investegate RNS https://www.investegate.co.uk/announcement/rns/tribal-group--trb/proposed-acquisition-by-main-capital-partners/9768930. Stick to: conditional SPA to sell Tribal Group businesses (all operating subsidiaries — Student Information Solutions + Etio; named Group Companies incl. Tribal Dynamics Holdings, Tribal Holdings, Tribal Education, Empowering Education International, Semestry Ltd, Semestry Netherlands BV) to Thames Bidco Limited controlled by funds/accounts managed or advised by Main Capital Partners (~EUR 12B AUM software PE); aggregate cash consideration ~£189.3M; £4.9M of that offered to Tribal Share Plan participants for option release; AIM Rule 15 fundamental change + Takeover Code Rule 21.1 restricted action after SilverTree approach; conditional on Shareholder Sale Resolution at GM expected 2 Oct 2026 (no later than 5 Oct) and NSI Act Condition; if completes, Board intends solvent MVL / cancel AIM admission and distribute net proceeds (quantum/timing TBD); Directors + certain shareholders irrevocables/LOI covering ~44.2% (94,813,364 shares) — Directors irrevocables plus ~34.4% shareholder irrevocables and RWC ~5.7% non-binding LOI as printed; SilverTree Equity Partners LLP unsolicited highly conditional non-binding potential offer unanimously rejected shortly before this announcement; FY25 pro forma perimeter NAV £58.6M, rev £92.5M, adj. EBITDA £17.5M; FY26 consensus noted in RNS (rev £93.6M / adj. EBITDA £17.0M / net cash excl. leases £9.4M) is consensus color only. Do NOT invent EV multiple, per-share consideration to Tribal plc holders beyond cash-consideration/MVL framing, or USD conversion. Demote spacex-host-111 (keep on plate). Owner Quill.",
+      "grafs": [
+        "Tribal Group plc said Sept. 11 it has entered a conditional sale and purchase agreement to sell its Tribal Group businesses to Thames Bidco Limited, a newly formed company controlled by funds and accounts managed or advised by Main Capital Partners, for aggregate cash consideration of approximately £189.3 million.",
+        "The perimeter is Tribal’s operating subsidiaries in student-information solutions and Etio. About £4.9 million of the cash consideration will be offered to participants in Tribal share plans for the release of options. The sale is an AIM Rule 15 fundamental change of business and, after an unsolicited SilverTree Equity Partners approach the board rejected, a restricted action under Takeover Code Rule 21.1, so it needs shareholder approval at a general meeting expected on Oct. 2, 2026 (no later than Oct. 5), plus an NSI Act condition.",
+        "For the year ended Dec. 31, 2025, the businesses to be sold had pro forma net assets of £58.6 million, revenue of £92.5 million and adjusted EBITDA of £17.5 million. Directors and certain shareholders representing about 44.2% of the issued share capital have given irrevocable undertakings or a non-binding letter of intent to vote in favour. If the sale completes, Tribal intends a solvent voluntary liquidation and AIM cancellation to distribute net proceeds to shareholders."
+      ]
+    },
+    {
+      "id": "spacex-host-111",
+      "lead": false,
       "section": "AI",
       "kicker": "AI Infrastructure",
       "hed": "SpaceX CFO: new AI hosting deal ~$1.11B a month from Dec. 1 (~$13B ARR)",
