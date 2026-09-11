@@ -1,24 +1,24 @@
 {
   "volume": 1,
-  "number": 78,
+  "number": 79,
   "city": "New York",
-  "date": "Thursday, September 10, 2026",
-  "editionLabel": "Night",
+  "date": "Friday, September 11, 2026",
+  "editionLabel": "Morning",
   "tape": {
     "source": "Yahoo Finance chart quotes (Thu Sep 10 cash close)",
-    "updated": "Sep 10, cash close ET — US session",
+    "updated": "Sep 10, cash close ET — US session (Fri pre-open; cash tape held)",
     "line": "S&P 7,591.70 (−0.58%) · 10-year 4.94% · 30-year 5.36% · SOX 11,614.17 (−2.66%) · NVDA $218.36 (−2.37%)"
   },
   "deskNote": {
-    "kicker": "AI / Optics",
-    "hed": "Night: Ayar Labs +$150M (2026 primary $650M); Reuters secondary >$5B.",
+    "kicker": "Markets / Inflation",
+    "hed": "Morning: August CPI +0.4% / core +0.3%; Z.AI ~$5B HK sheets; Motive >$1.3B GC.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 78 Night. ADD ayar-e-ext (Business Wire company PR 8:00 a.m. ET catch-up missed on earlier Sept. 10 passes: +$150M; 2026 primary capital $650M; Wiwynn joins Alchip/AMD/Intel/MediaTek/NVIDIA; Bengaluru Design Center / HVM) as Night lead. ALSO Reuters: Series E extension of March $500M; $225M Antero Peak/Artisan secondary valuing >$5B (Sequoia Global Equities, ARK, Greycroft) — keep secondary mark separate from primary. Demote msft-dc-38gw from lead. Cash tape UNCHANGED vs No. 77 (Yahoo S&P 7,591.70 −0.58%). Declined FFL–Waylin (Business Wire/PE Hub; terms undisclosed), Meta–Stilla (terms undisclosed), arXiv 2609.10350 / 2609.10113 below plate bar. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
+    "body": "Vol. 1 No. 79 Morning. ADD cpi-aug (CNBC/BLS: headline +0.4% m/m / +3.4% y/y in line; core +0.3% m/m hot / +2.4% y/y; gasoline +3.9%) as Morning lead. ALSO morning-radar clears: zai-hk-5b (Reuters term sheets ~$2B @ HK$714 + ~$3B CNY CB; CICC), motive-gc (company >$1.3B GC CVF; ARR >$600M; S-1 withdrawn; no valuation), deepseek-v41-flash (company V4.1-Flash; does NOT close $74–75B funding watch), gmmm-geo 2609.11915, rlmm-regime 2609.11614. Demote ayar-e-ext from lead. Cash tape UNCHANGED vs No. 78 (Yahoo Thu close held into Fri pre-open). Declined Bloomberg PE AI-transparency feature (no deal terms). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding-round unconfirmed)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — call/webcast replay on IR; Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26; Q4 targets $6.80–$6.85B. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live for eligible institutions. Bending Spoons–Miro definitive — Q4 ’26 close guided (EV $1.355B / equity ~$1.79B; $295M seller reinvest). HSBC Group CFO succession OPEN (Pam Kaur leaves 2027; successor search internal+external; advisory role after). Salesforce–Listen Labs talks still OPEN — Menlo $125M/$1.5B Series C term sheet walked (TechCrunch). Accel-KKR–Eleco scheme close guided during/prior Q1 2027. CPI Fri Sep 11; Sept. 15–16 FOMC. Positron Asimov tapeout guided end-2026 / Titan production 2H ’27. Salesforce–Fin closed. UniPat $300M/$2.5B talks OPEN. Cerberus–Goodwin Q1 ’27 close still guided. TPG–Lyric sale process OPEN. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Zankore initial Indonesia GPU build + H1 ’27 ~200 MW / long-term 1 GW DSX still guided. Cegid–Silae close guided H1 2027. ADI–Alif guided close before YE 2026. DeepSeek STAR IPO prep with CITIC — process aims 2026; separate from open $74–75B funding-round watch. Qualcomm–Amazon collaboration live (warrant vesting; not booked $60B). Flex–EPC guided Q4 ’26 close. Nscale–Figure initial GPUs guided H2 ’27 Barstow. Nvidia–Hugging Face still guided H1 2027 close. GE–CPP guided H2 2027 close. EQT–McGill signed, not closed. Oura S-1 filed, not priced. Anthropic public S-1 still held (revolver is not the prospectus). Spire–Tulip scheme pending. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
-    "href": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"
+    "line": "August CPI printed — headline +0.4% / +3.4%; core +0.3% / +2.4% (CNBC/BLS); Sept. 15–16 FOMC next. Z.AI ~$5B HK placement+CB launched (term sheets; not closed). Motive >$1.3B GC CVF — S-1 withdrawn; valuation undisclosed. DeepSeek V4.1-Flash live — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Ayar Labs Series E extension printed — 2026 primary $650M; Reuters secondary >$5B (Antero Peak). Microsoft >38 GW / ~12 GW people-familiar plan OPEN (Bloomberg; not IR guidance). DOJ–Nvidia–Groq probe OPEN (NYT/Reuters people-familiar; formal info request). China AI-chip HBM price hikes OPEN (Reuters people-familiar). Oracle Q1 printed — Q2 guide 30–34% rev / 65–71% cloud USD; FY27 ≥$90B. Adobe Q3 printed — raised FY26. Altera IPO prep OPEN (Reuters: confidential file guided coming weeks; >$2B raise possible as early as 2026; not filed). OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive — Q4 ’26 close guided. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks still OPEN — Menlo term sheet walked. Accel-KKR–Eleco scheme close guided during/prior Q1 2027. SoftBank HAWKS offering OPEN through Sep 16 (issue Sep 17). Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed by company. DeepSeek $74–75B funding round still unconfirmed as closed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO this year (Reuters) — not filed.",
+    "href": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
   },
   "sections": [
     "All",
@@ -30,8 +30,144 @@
   ],
   "stories": [
     {
-      "id": "ayar-e-ext",
+      "id": "cpi-aug",
       "lead": true,
+      "section": "Markets",
+      "kicker": "Inflation",
+      "hed": "August CPI +0.4% m/m, +3.4% y/y; core +0.3% / +2.4%",
+      "dek": "BLS Fri 8:30 via CNBC. Headline in line; core m/m 0.1pp hot. Gasoline +3.9% (>1/3 of gain). FedWatch hike odds ~90% ahead of Sept. 15–16 FOMC.",
+      "date": "Sept. 11, 2026",
+      "source": "U.S. Bureau of Labor Statistics; CNBC",
+      "url": "https://www.bls.gov/news.release/cpi.htm",
+      "also": [
+        {
+          "label": "CNBC (Jeff Cox, 8:32 a.m. ET)",
+          "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / inflation as Morning lead (BLS 8:30 a.m. ET Fri Sep 11). PRIMARY path: https://www.bls.gov/news.release/cpi.htm (August 2026 CPI). Wire confirmation: CNBC Jeff Cox 8:32 a.m. ET citing BLS — CPI-U +0.4% SA m/m; +3.4% y/y (both in line with Dow Jones consensus); core (ex food/energy) +0.3% m/m (0.1pp above forecast) / +2.4% y/y (in line). Energy +2.1% m/m / +16.3% y/y; gasoline +3.9% accounting for more than one-third of the all-items gain; food +0.1% m/m / +2.7% y/y (food at home flat); shelter +0.3%; transportation services +0.5%; used cars/trucks +0.4%; new vehicles +0.3%. Fed color only as attributed: CME FedWatch hike odds ~90% after the print; funds rate still 3.5%–3.75%; Sept. 15–16 FOMC. Do NOT invent shelter contribution shares, food-away splits, or BLS USDL number unless read from the BLS release itself (desk hit 403 on BLS HTML — stick to CNBC-attributed BLS prints above). Pair with plate ppi-aug. Owner Quill.",
+      "grafs": [
+        "The Consumer Price Index for All Urban Consumers rose a seasonally adjusted 0.4 percent in August, leaving the 12-month increase at 3.4 percent, the Bureau of Labor Statistics reported Friday, according to CNBC’s Jeff Cox at 8:32 a.m. ET. Both headline readings matched the Dow Jones consensus.",
+        "Excluding food and energy, core CPI advanced 0.3 percent on the month — 0.1 percentage point above forecast — with the core annual rate at 2.4 percent, in line with estimates, CNBC said, citing BLS.",
+        "Energy drove the headline: the energy index rose 2.1 percent in August and 16.3 percent from a year earlier, while gasoline jumped 3.9 percent and accounted for more than one-third of the monthly all-items gain. Food edged up 0.1 percent (food at home flat) and was up 2.7 percent annually; shelter rose 0.3 percent; transportation services 0.5 percent; used cars and trucks 0.4 percent; and new vehicles 0.3 percent.",
+        "Traders lifted odds of a quarter-point Federal Open Market Committee hike at the Sept. 15–16 meeting to about 90 percent on the CME FedWatch gauge after the print, CNBC reported. The federal funds target range remains 3.5%–3.75%."
+      ]
+    },
+    {
+      "id": "zai-hk-5b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Capital markets / China",
+      "hed": "Z.AI launches ~$5B HK raise: ~$2B shares @ HK$714 + ~$3B CB",
+      "dek": "Reuters term sheets Sept. 11. 21.97M new shares (10% to HK$793 close); CNY 20.14B zero-coupon CB due Sep 2027; CICC; settlements independent.",
+      "date": "Sept. 11, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / China capital markets as Morning companion (Reuters Yantoultra Ngui, Hong Kong, Sept. 11 ~10:47 AM UTC — term sheets seen by Reuters). Stick to sheet + Reuters: Z.AI Co Ltd (2513.HK), formerly Zhipu AI; ~$2B HK share placement — 21.97 million new shares at HK$714 ($91.05), 10% discount to Friday close HK$793; concurrent ~$3B convertible — 20.14 billion yuan zero-coupon bonds due September 2027, USD-settled; issue price 100%–100.5% of face (yield −0.5% to 0%); initial conversion HK$892.50 (25% premium to HK$714 placement); issuer call from Feb 18, 2027 if shares ≥130% of conversion for 20 of 30 sessions (all-but-not-part). Proceeds: R&D, computing/infra, expansion, strategic investments, potential M&A, WC. Placement and CB concurrent but not interdependent. CICC sole global coordinator and joint bookrunner with Guotai Junan Securities (Hong Kong). Company did not immediately respond outside office hours. Context only (do not re-lead): Jan HK IPO; ~$4B July follow-on per Reuters; MiniMax already listed; Moonshot/DeepSeek listing color already on plate. Do NOT invent book status, cornerstone names, or post-deal market cap. Owner Quill.",
+      "grafs": [
+        "Beijing-based Z.AI Co Ltd (2513.HK), formerly Zhipu AI, launched a Hong Kong share placement of about $2 billion and a concurrent convertible-bond sale of about $3 billion, according to term sheets seen by Reuters on Sept. 11.",
+        "The equity leg offers 21.97 million new Hong Kong shares at HK$714 ($91.05) each, a 10% discount to Friday’s closing price of HK$793, Reuters reported. The company is also marketing 20.14 billion yuan (~$3 billion) of zero-coupon bonds due September 2027 that settle in U.S. dollars, issued at 100% to 100.5% of face (yield −0.5% to zero) with an initial conversion price of HK$892.50 — a 25% premium to the placement price.",
+        "Reuters said Z.AI may redeem all, but not part, of the bonds from Feb. 18, 2027 if shares trade at or above 130% of conversion for 20 of 30 sessions. Proceeds target R&D, computing resources and infrastructure, expansion, strategic investments, potential acquisitions, and working capital. The share and bond legs run concurrently but are not dependent on each other closing; CICC is sole global coordinator and joint bookrunner with Guotai Junan Securities (Hong Kong)."
+      ]
+    },
+    {
+      "id": "motive-gc",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Growth equity / AI ops",
+      "hed": "Motive takes >$1.3B from General Catalyst CVF; withdraws S-1",
+      "dek": "Company Sept. 10. ARR crossed $600M (+30% YoY); >$100k ARR +~60%; NRR >120%. Singhvi joins board. No valuation disclosed.",
+      "date": "Sept. 10, 2026",
+      "source": "Motive",
+      "url": "https://gomotive.com/motive-secures-more-than-1-3-billion-in-growth-financing-from-general-catalyst/",
+      "also": [
+        {
+          "label": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/motive-1-3-billion-growth-financing"
+        },
+        {
+          "label": "The Next Web",
+          "url": "https://thenextweb.com/news/motive-1-3bn-general-catalyst-withdraws-ipo-filing"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / growth equity as Morning catch-up (company post dated September 10, 2026 — missed on No. 78 Night). PRIMARY: https://gomotive.com/motive-secures-more-than-1-3-billion-in-growth-financing-from-general-catalyst/ — Motive secured more than $1.3 billion in growth financing from General Catalyst’s Customer Value Fund (CVF); Pranav Singhvi (GC MD) joins Board; ARR crossed $600 million; ARR growth accelerated to 30% YoY; ARR from customers above $100,000 grew nearly 60% YoY with NRR above 120%; use of proceeds: AI platform, GTM scale, reach into largest operations; named products Maintenance and Operations Intelligence; Thomas Hansen is President, Go-to-Market; given financing, Motive withdrew previously filed S-1 and remains positioned for a future listing; nearly 100,000 customers. Quotes available: CEO Shoaib Makani; CFO Chirag Shah; Singhvi. Do NOT invent valuation, ownership %, or debt vs equity split — company did not disclose a mark. Secondary TNW/FreightWaves only for color that valuation was not disclosed. Owner Quill.",
+      "grafs": [
+        "Motive, the AI platform for physical operations, said Sept. 10 it secured more than $1.3 billion in growth financing from General Catalyst’s Customer Value Fund, with General Catalyst managing director Pranav Singhvi joining the board.",
+        "The company said the financing follows its strongest quarter: annual recurring revenue crossed $600 million, ARR growth accelerated to 30% year over year, and ARR from customers spending above $100,000 grew nearly 60% with net revenue retention above 120%.",
+        "Motive said it will use the capital to deepen AI investment across the platform and scale go-to-market teams, and that given the financing it has withdrawn its previously filed S-1 while remaining positioned to pursue a public listing later. The company did not disclose a valuation."
+      ]
+    },
+    {
+      "id": "deepseek-v41-flash",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Models",
+      "hed": "DeepSeek ships V4.1-Flash: 552B MoE, 1M context, MIT weights",
+      "dek": "Company Sept. 10. CED 8B/16B activate; native vision; deepseek-flash API; V4 Pro routes to Flash from Sep 14 04:00 UTC. Does not close $74–75B funding watch.",
+      "date": "Sept. 10, 2026",
+      "source": "DeepSeek",
+      "url": "https://api-docs.deepseek.com/news/news260910",
+      "also": [
+        {
+          "label": "Hugging Face model card",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+        },
+        {
+          "label": "API pricing / model ids",
+          "url": "https://api-docs.deepseek.com/quick_start/pricing"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / models as Morning catch-up (company Sept. 10 — missed on No. 78). PRIMARY: DeepSeek API news https://api-docs.deepseek.com/news/news260910 + HF README https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash. Stick to company: multimodal MoE with 552B backbone params; up to 1M-token context; native image+text; Causal Encoder-Decoder (CED) activating 8B prefill / 16B decode; CSA2 + FP4 KV (~890 bytes/token, ~1/4 prior Flash); MIT license weights; API model name deepseek-flash; legacy deepseek-v4-flash / deepseek-v4-flash-vision-exp already route to V4.1-Flash; from 04:00 UTC Sept. 14, 2026 until V4.1-Pro, deepseek-v4-pro routes to V4.1-Flash at Flash prices; new pricing effective 04:00 UTC Sept. 10. Optional benchmark table color only if sourced from company card (e.g. GPQA Diamond 90.9; Terminal-Bench 2.1 90.6) — do not invent third-party evals. DOES NOT close open DeepSeek $74–75B funding-round watch or supersede deepseek-citic STAR/CITIC IPO-prep story. Owner Quill.",
+      "grafs": [
+        "DeepSeek on Sept. 10 released DeepSeek-V4.1-Flash, describing it as the smallest model in a new architecture family: a multimodal mixture-of-experts with 552 billion backbone parameters, native image understanding, and support for contexts up to one million tokens, with MIT-licensed weights on Hugging Face.",
+        "The company says the model uses a Causal Encoder-Decoder design that activates 8B parameters per token in prefill and 16B in decode, with Compressed Sparse Attention 2 and FP4 KV caching that cut the global KV footprint to roughly one-quarter of DeepSeek-V4-Flash.",
+        "On the API, the recommended model id is deepseek-flash; legacy Flash aliases already route to V4.1-Flash, and from 04:00 UTC on Sept. 14, 2026 requests to deepseek-v4-pro will route to V4.1-Flash at Flash rates until a V4.1-Pro ships. This product release does not confirm or close the separate open watch on a ~$74–75 billion DeepSeek funding round."
+      ]
+    },
+    {
+      "id": "gmmm-geo",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Research",
+      "hed": "GMMM: causal framework for GEO and generative-engine marketing",
+      "dek": "Kato, Honma & Kato (arXiv 2609.11915). Links generative-answer notice to business outcomes; EN/JP product-rec sims.",
+      "date": "Sept. 10, 2026",
+      "source": "arXiv 2609.11915",
+      "url": "https://arxiv.org/abs/2609.11915",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Markets/Research note. Stick to abstract: Generative Marketing Mix Modeling (GMMM) estimates causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). GEO side combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities; GEM side combines sponsored-placement records with notice probabilities; compares expected business responses under alternative treatment sequences and states identification conditions; empirical check on simulated product-recommendation answers in English and Japanese. Authors Masahiro Kato, Daiki Honma, Taka Kato. Do not invent lift percentages or real-brand case studies beyond the abstract. Owner Quill.",
+      "grafs": [
+        "Masahiro Kato, Daiki Honma, and Taka Kato’s arXiv 2609.11915 propose Generative Marketing Mix Modeling (GMMM), a causal framework for estimating the business effects of Generative Engine Optimization and Generative Engine Marketing when standard marketing data omit how often users see a firm’s name in generated answers.",
+        "For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities; for GEM, it pairs sponsored-placement records with notice probabilities, then compares expected business responses under alternative treatment sequences. The authors report an empirical check on simulated product-recommendation answers in English and Japanese."
+      ]
+    },
+    {
+      "id": "rlmm-regime",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Research",
+      "hed": "RL market maker beats GLFT; regime signals fix flow-stress PnL",
+      "dek": "Moret & Lillo (arXiv 2609.11614). Rainbow DQN C51 in ZI LOB; change-point + quote-exposure state restores profitability under directional imbalance.",
+      "date": "Sept. 10, 2026",
+      "source": "arXiv 2609.11614",
+      "url": "https://arxiv.org/abs/2609.11614",
+      "also": [],
+      "owner": "QUILL",
+      "action": "Short Markets/Research / microstructure note. Stick to abstract: classical Avellaneda-Stoikov / GLFT quoting assumes stationary order flow; regimes (e.g. metaorder algo flow) produce negative PnL. Authors build RLMM — Rainbow-style distributional DQN (C51) — in a zero-intelligence limit order book; in stationary setting RLMM outperforms GLFT across observed risk-return frontier; more robust to flow asymmetry than GLFT but still suffers inventory-saturation drawdowns under persistent directional imbalance; augmenting state with Bayesian online change-point filter on directional flow bias + queue-adjusted quote-exposure imbalance restores profitability; scenario-bandit reweighting of low-return regime scenarios further helps under random-persistence and correlated-direction stress. Authors Felipe Moret, Fabrizio Lillo. Do not invent live-exchange backtest dollars. Owner Quill.",
+      "grafs": [
+        "Felipe Moret and Fabrizio Lillo’s arXiv 2609.11614 argue classical stochastic-control market-making (Avellaneda–Stoikov and GLFT) breaks when order flow is non-stationary, and they introduce RLMM, a Rainbow-style distributional DQN (C51) calibrated in a zero-intelligence limit-order book.",
+        "In a stationary setting, RLMM outperforms GLFT across the observed risk-return frontier and is more robust to flow asymmetry, but stationarily trained policies still take large inventory-saturation drawdowns under persistent directional imbalance. Adding a Bayesian online change-point filter on directional flow bias and a queue-adjusted quote-exposure signal restores profitability, with a scenario-bandit step further improving stressed regimes."
+      ]
+    },
+    {
+      "id": "ayar-e-ext",
+      "lead": false,
       "section": "AI",
       "kicker": "Funding / Optics",
       "hed": "Ayar Labs adds $150M; 2026 primary hits $650M; secondary marks >$5B",
