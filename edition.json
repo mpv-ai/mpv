@@ -1,24 +1,23 @@
 {
   "volume": 1,
-  "number": 83,
+  "number": 84,
   "city": "New York",
   "date": "Friday, September 11, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance chart quotes (Fri Sep 11 live session)",
-    "updated": "Sep 11, ~1:03 p.m. ET — US regular session",
-    "line": "S&P 7,670.33 (+1.04%) · 10-year 4.95% · 30-year 5.34% · SOX 11,884.65 (+2.33%) · NVDA $219.16 (+0.36%)"
+    "updated": "Sep 11, ~2:20 p.m. ET — US regular session",
+    "line": "S&P 7,667.50 (+1.00%) · 10-year 4.96% · 30-year 5.35% · SOX 11,878.58 (+2.28%) · NVDA $219.23 (+0.40%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Afternoon: Blackstone–FCH AI liquid-cooling lead; Celestica CFO succession; tape still green.",
+    "hed": "Late Afternoon: SpaceX ~$1.11B/mo hosting lead; UAE 5 GW redesign + €40B Germany DC package.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 83 Afternoon. ADD bx-fch (Blackstone BCP+BETP definitive buy of Audax Flow Control Holdings; Audax minority roll; terms undisclosed; Q4 close guided; CDUs/manifolds/SFN) as lead → Quill. ADD cls-cfo (Celestica GNW: Chawla → Group President, Global Markets; Ankenmann CFO Oct. 1) → Quill. Demoted teamsystem-hf (still on plate). Yahoo live ~1:03 p.m. ET vs No. 82 ~11:58: S&P 7,670.33 (+1.04%) · 10-year 4.95% · 30-year 5.34% · SOX 11,884.65 (+2.33%) · NVDA $219.16 (+0.36%); CLS ~$341 (+~4.9%) tape color only. Declined: CVC–Ginko still talks-not-final; Manus/Meta buyback recirculation (Aug/Sep 2 Caixin/Global Times — not a fresh afternoon print); MatrixCare–Frazier (healthcare software; off core AI/markets bar); Accel-Eleco already on plate. X scan skipped (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
+    "body": "Vol. 1 No. 84 Late Afternoon. ADD spacex-host-111 (CFO Johnsen Communacopia: ~$1.11B/mo hosting from Dec. 1 ≈ $13B ARR; customer unnamed; $100B YE ARR conviction) as lead → Quill. ADD uae-5gw-revise (Reuters exclusive: 5 GW UAE-US AI Campus toward distributed network after Iran attacks; G42 soft confirm) → Quill. ADD uae-de-40b (€40B Germany package incl. ~1 GW DCs; joint declaration) → Quill. Demoted bx-fch (still on plate). Yahoo live ~2:20 p.m. ET vs No. 83 ~1:03: S&P 7,667.50 (+1.00%) · 10-year 4.96% · 30-year 5.35% · SOX 11,878.58 (+2.28%) · NVDA $219.23 (+0.40%); deltas noise-only (SPX −~2.8 pts, SOX −~6 pts, NVDA +$0.07). Declined: Kinetix $75M Angel+ (prior decline / thin primary); Bain–Advent–Amil healthcare talks (off core AI/markets bar); Ocean Capital SPAC CFO resignation (below bar); Engageware C-suite (below bar); CVC–Ginko still talks-not-final; arXiv EVaR/CryptoL below plate bar. X scan skipped (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B funding)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Blackstone–FCH definitive printed (Audax minority; terms TBD; Q4 close). Celestica CFO succession printed (Oct. 1). TeamSystem minority sale still on plate (H&F → FP ~10% / KKR-in ~5%; EV €8–10B). Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN. Oracle Q1 / Adobe Q3 printed. Altera IPO prep OPEN. OpenAI ChatGPT for Financial Services live. Bending Spoons–Miro definitive. HSBC Group CFO succession OPEN. Salesforce–Listen Labs talks OPEN. Accel-KKR–Eleco scheme close guided Q1 2027. SoftBank HAWKS offering OPEN through Sep 16. Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74–75B funding still unconfirmed. Broadcom official IR transcript still unconfirmed. Firmus rumoured IPO — not filed. CVC–Ginko China talks OPEN (not final).",
-    "href": "https://www.blackstone.com/news/press/blackstone-to-acquire-flow-control-holdings-a-leader-in-highly-engineered-data-center-liquid-cooling-components/"
+    "line": "SpaceX ~$1.11B/mo hosting printed (customer TBD). UAE 5 GW campus redesign people-familiar — Stargate UAE 1 GW phase continues. UAE–Germany €40B / ~1 GW DC package printed. Blackstone–FCH definitive still on plate (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN. Oracle Q1 / Adobe Q3 printed. Altera IPO prep OPEN. OpenAI ChatGPT for Financial Services live. SoftBank HAWKS offering OPEN through Sep 16. Anthropic public S-1 still held. Bloomberg >15% early-2027 server-price hikes still open. Anthropic–Lambda $35B still unconfirmed. DeepSeek $74–75B funding still unconfirmed. Firmus rumoured IPO — not filed. CVC–Ginko China talks OPEN (not final)."
   },
   "sections": [
     "All",
@@ -30,8 +29,79 @@
   ],
   "stories": [
     {
-      "id": "bx-fch",
+      "id": "spacex-host-111",
       "lead": true,
+      "section": "AI",
+      "kicker": "AI Infrastructure",
+      "hed": "SpaceX CFO: new AI hosting deal ~$1.11B a month from Dec. 1 (~$13B ARR)",
+      "dek": "Goldman Communacopia Sep 10. Customer unnamed. Adds conviction on YE $100B ARR. Existing Anthropic ~$1.25B/mo and Google ~$920M/mo Colossus hosting (BI).",
+      "date": "Sept. 10–11, 2026",
+      "source": "SpaceX / Goldman Sachs Communacopia transcript",
+      "url": "https://stockanalysis.com/stocks/spcx/transcripts/740754-goldman-sachs-communacopia-technology-conference-2026/",
+      "also": [
+        {
+          "label": "Business Insider",
+          "url": "https://www.businessinsider.com/spacex-strikes-billion-a-month-compute-deal-with-mystery-customer-2026-9"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / AI infrastructure as Late Afternoon lead (Thu Communacopia catch-up + Fri BI). PRIMARY transcript quote from CFO Bret Johnsen: closed another hosting deal earlier this month; about $1.11 billion a month starting December 1; roughly $13 billion of ARR; more conviction on $100B ARR by year-end annualizing December. Stick to: customer NOT named; deal structure described as roughly 90-day with 90-day out (~six-month commits) like other hosting deals; terrestrial compute ending this year a little over 2 GW; next-year deployed range 5–10 GW; NVIDIA exclusive framing; orbital compute first satellites targeted next year. BI secondary: Anthropic $1.25B/mo through May 2029; Google $920M/mo; Colossus Mississippi/Tennessee; Q2 AI infra spend $16B; Q3 early cloud services signed $6.7B (earnings color). Do NOT invent customer identity, Reflection AI as company-confirmed on this print, or orbital revenue. Demote bx-fch (keep on plate). Owner Quill.",
+      "grafs": [
+        "SpaceX CFO Bret Johnsen told Goldman Sachs’s Communacopia + Technology Conference on Sept. 10 that the company closed another terrestrial AI compute hosting deal earlier this month worth about $1.11 billion a month starting Dec. 1 — roughly $13 billion of annualized recurring revenue — and that the print gave him “even more conviction” on a $100 billion ARR target by year-end when December is annualized.",
+        "Johnsen did not name the customer. On the same fireside he said nearly all hosting deals, including this one, are structured as roughly 90-day commits with a 90-day out (about six months), reflecting conviction in SpaceX’s own model products and reluctance to lock capacity forever. Business Insider’s Fri write-up places the new deal alongside existing Colossus hosting with Anthropic (~$1.25 billion a month through May 2029) and Google (~$920 million a month).",
+        "Terrestrial scale framing from the same transcript: a little over 2 GW ending this year and a 5–10 GW deployed range next year, with line of sight to power called out as the gating item; NVIDIA exclusivity for chips SpaceX does not control. Orbital compute satellites remain a next-year target, not this deal. Package as AI-infra monetization with an unnamed counterparty — do not invent who signed."
+      ]
+    },
+    {
+      "id": "uae-5gw-revise",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI Infrastructure",
+      "hed": "UAE revises 5 GW AI campus plan after Iran attacks — toward a distributed network",
+      "dek": "Reuters exclusive Sep 11 (six people familiar). Was ~10 sq mi Abu Dhabi campus; now likely multi-site across UAE; air defense / underground options. G42: work progressing; specs under continuous review. Stargate UAE phase 1 $30B / 1 GW still building.",
+      "date": "Sept. 11, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / AI infrastructure (Reuters EXCLUSIVE Sep 11). Stick to people-familiar: 5-gigawatt UAE-US AI Campus originally a ~10-square-mile (26 km²) Abu Dhabi campus; now likely a network of data centers across the UAE; authorities considering air defenses and underground / mountain siting for sensitive loads; first phase (Stargate UAE) $30B / 1 GW compute cluster with first 200 MW due this year expected to continue with some hardening. Led by G42 (Sheikh Tahnoun). Partners named in piece: Nvidia, OpenAI, Oracle, Cisco, SoftBank context via Stargate JV. G42 on-record: work progressing as planned; specifics subject to continuous review for security/resilience. OpenAI: good progress on infrastructure/adoption. SoftBank declined; Nvidia/Oracle/Cisco/ministry no comment. Color only if attributed: AWS UAE/Bahrain DCs damaged in March attacks; Iran April video warning naming Stargate UAE; site near Al Dhafra Air Base per two sources. Do NOT invent new capex, delayed MW, or China-tie changes beyond the piece. Owner Quill.",
+      "grafs": [
+        "Reuters reported exclusively on Sept. 11 that the UAE is quietly revising plans for a 5-gigawatt AI data-center project — one of the biggest outside the U.S. — after the Iran war forced a rethink of how and where critical infrastructure should be built, citing six people familiar with the matter.",
+        "What was envisaged as a roughly 10-square-mile campus in Abu Dhabi will now likely become a network of sites across the UAE, four of the sources said. Officials are also weighing air defenses and underground construction; some sensitive military-related loads could go into mountain sites in Ras Al Khaimah or Fujairah. Reuters could not say how close a new masterplan is or how costs and timelines might move.",
+        "The project is led by G42 and built with U.S. tech partners under the UAE-US AI Campus framing announced during President Trump’s Gulf visit. Construction on Stargate UAE — a $30 billion, 1-gigawatt first phase with Oracle/G42 — began last year, with the first 200 megawatts due online this year; sources said that phase continues with hardening. G42 told Reuters work is progressing as planned while “specifics are subject to continuous review” for security and resilience. Carry as people-familiar + G42 soft confirm — not a cancelled campus."
+      ]
+    },
+    {
+      "id": "uae-de-40b",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI Infrastructure",
+      "hed": "UAE plans €40B Germany package, including ~1 GW of new data centers",
+      "dek": "Joint declaration on Sheikh Mohamed state visit (Sep 10). AI / digital infra / energy. ~€10B Bavaria reported. German-UAE Investment Council LoI. Stick to euro primary.",
+      "date": "Sept. 10–11, 2026",
+      "source": "German Federal Government / CNBC",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-the-occasion-of-the-state-visit-of-the-president-of-the-united-arab-emirates-to-the-federal-republic-of-germany-2452242",
+      "also": [
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/11/uae-germany-investment-data-centers.html"
+        },
+        {
+          "label": "AFP / France24",
+          "url": "https://www.france24.com/en/live-news/20260910-uae-to-invest-40-billion-euros-in-germany-including-for-data-centres-berlin"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI infrastructure as Thu–Fri catch-up (missed Nos. 79–83). PRIMARY: German government joint declaration — EUR 40 billion intended investment package including advanced digital infrastructure and new state-of-the-art data centres with approximately 1 GW capacity; Germany fostering favourable environment; Investment Council plans; bilateral non-oil trade USD 15.5B in 2025. CNBC Fri secondary: ~$46.4B FX; ~€10B Bavaria reportedly earmarked; defense cooperation deepened. AFP: data centres up to 1 GW. Do NOT invent signed offtake, named operators, or that the full €40B is data-center only — package spans AI, tech, energy. Distinct from uae-5gw-revise (domestic campus redesign). Owner Quill.",
+      "grafs": [
+        "During UAE President Sheikh Mohamed bin Zayed Al Nahyan’s state visit to Germany, Berlin and Abu Dhabi announced an intended €40 billion investment package that explicitly includes “new state-of-the-art data centres with a capacity of approximately 1 GW,” according to the joint declaration published by the German federal government.",
+        "CNBC’s Sept. 11 read-through puts the package at about $46.4 billion and notes roughly €10 billion reportedly aimed at Bavaria, plus a declaration of intent to form a German-UAE investment council. The declaration also cites bilateral non-oil trade of $15.5 billion in 2025 and welcomes further corporate partnerships (Covestro, RWE, ADNOC, Masdar named as examples in the text).",
+        "Frame as Gulf capital into European AI/digital infrastructure — not a single hyperscaler offtake. Keep euro figures primary; treat dollar conversions as secondary FX. Pair on the plate with uae-5gw-revise (domestic 5 GW redesign) without conflating the two."
+      ]
+    },
+    {
+      "id": "bx-fch",
+      "lead": false,
       "section": "PE",
       "kicker": "AI Infrastructure",
       "hed": "Blackstone to buy Audax’s Flow Control Holdings (AI liquid-cooling components)",
