@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 92,
+  "number": 93,
   "city": "New York",
   "date": "Monday, September 14, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Close",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 14, ~3:49 p.m. ET — US regular session",
-    "line": "S&P 7,628.87 (−0.37%) · 10-year 4.961% · 30-year 5.329% · SOX 11,175.96 (−5.48%) · NVDA $212.04 (−2.86%)"
+    "updated": "Sep 14, ~4:55 p.m. ET — US regular session closed",
+    "line": "S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Late Afternoon: Vista–Finastra strategic options; Anthropic Claude for Financial Advisors.",
+    "hed": "Close: SOX −5.86%, NVDA −3.36% into the close; plate unchanged.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 92 Late Afternoon. ADD vista-finastra (Reuters exclusive people-familiar: Vista + Morgan Stanley early-stage strategic options for Finastra — sale/stake/M&A paths; Blackstone among lookers; valuation talk high-single-digit bn to ~$12B; ~$650M EBITDA) → Quill. ADD anthropic-cfa (Reuters/Bloomberg company launch: Claude for Financial Advisors; Schwab, BlackRock, Addepar et al.; companion to openai-chatgpt-fs / gemini-fs) → Quill. Lead remains baldwin-dfo-77. Yahoo ~3:49 p.m. ET tape: S&P 7,628.87 (−0.37%) · 10-year 4.961% · 30-year 5.329% · SOX 11,175.96 (−5.48%) · NVDA $212.04 (−2.86%) — S&P/NVDA/yields near No. 91; SOX deeper (−5.48% vs −4.87%). Declined: FFL–Waylin (Sept. 10; terms undisclosed); Blackstone Google TPU “tens of billions” expansion (The Information people-familiar; no company figure — soft). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 93 Close. No new stories vs No. 92 Late Afternoon. Yahoo ~4:55 p.m. ET close tape: S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%) — S&P −8.89 pts / NVDA −$1.08 / SOX −44.7 pts vs ~3:49 p.m.; yields flat. Lead remains baldwin-dfo-77. Declined this hour: OpenAI–Glass Imaging (WSJ people-familiar >$300M; OpenAI no comment — soft); BofA Moynihan Q3 IB $1.6–1.8B (≥10% YoY) mid-quarter color (pre-window / borderline for evening AI plate). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). HF $12.9B CLOSED (nvidia-hf). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead."
   },
   "comingUp": {
     "label": "Coming up",
