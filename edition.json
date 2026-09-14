@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 89,
+  "number": 90,
   "city": "New York",
   "date": "Monday, September 14, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid Afternoon",
   "tape": {
-    "source": "CNBC Quote Cache (Tradeweb yields; equities)",
-    "updated": "Sep 14, ~12:40 p.m. ET — US regular session",
-    "line": "S&P 7,632.74 (−0.32%) · 10-year 4.947% · 30-year 5.321% · SOX 11,198.03 (−5.29%) · NVDA $211.69 (−3.02%)"
+    "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
+    "updated": "Sep 14, ~1:22 p.m. ET — US regular session",
+    "line": "S&P 7,635.41 (−0.28%) · 10-year 4.951% · 30-year 5.329% · SOX 11,221.47 (−5.10%) · NVDA $212.21 (−2.79%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Afternoon: Intrepid $525M Fund I; Palliser presses Recordati ≥€60 vs CVC–GBL.",
+    "hed": "Mid Afternoon: Firmus ≤$5B ASX IPO talk; Kaiko $110M; Anthropic Nasdaq + 2Q op. profit.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 89 Afternoon. ADD intrepid-525 (company/Business Wire: Intrepid Growth Partners formal launch + Fund I final close US$525M; Machin/Shulgan/Agrawal; >80 LPs incl. Temasek, ADIC, BBB, EDC, BDC; nine portfolio cos incl. PhysicsX, StackAdapt) → Quill. ADD palliser-recordati (Palliser BW + Reuters: activist letter urges Recordati board withdraw support for Respighi BidCo/CVC–GBL €51.29 tender; wants ≥€60; independents unanimously opposed via Rothschild; May offer ~€10.7B) → Quill. Lead remains baldwin-dfo-77. CNBC ~12:40 p.m. ET tape: S&P 7,632.74 (−0.32%) · 10-year 4.947% · 30-year 5.321% · SOX 11,198.03 (−5.29%) · NVDA $211.69 (−3.02%) — SPX bounced ~+24 pts vs Midday while chips still ~−5%. Declined: Blackstone–Google TPU “several times” more (The Information via secondary; no firm $ — skip crypto-briefing “tens of billions”); Jaggaer–Ivoflow close (terms undisclosed); OpenAI/Anthropic PE JV talks (not final); SoftBank −13% already on softbank-openai-1187; Mistral €3B already mistral-d. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 90 Mid Afternoon. ADD firmus-ipo-5b (Reuters people-familiar; company declined: Firmus seeking up to $5B ASX IPO; October launch / late-Oct debut possible; Dealogic 4th-largest YTD if sized; last month $2B equity / >$10.5B post-money) → Quill. ADD kaiko-110 (Kaiko + S&P Global PR: S&P leads Series B extension to $110M; BNP/Bpifrance/Nasdaq Ventures/Coinbase Ventures/DRW/RBC/Susquehanna et al.; no extension valuation) → Quill. ADD anthropic-op2 (CNBC: Nasdaq venue; adj./op. profit 2nd straight quarter people-familiar; $65B ARR July prior CNBC; public S-1 still OPEN) → Quill. Lead remains baldwin-dfo-77. Yahoo ~1:22 p.m. ET tape: S&P 7,635.41 (−0.28%) · 10-year 4.951% · 30-year 5.329% · SOX 11,221.47 (−5.10%) · NVDA $212.21 (−2.79%) — noise bounce vs No. 89 Afternoon. Declined: Vista–Finastra “strategic options” (no new firm terms); Senate AI duty-of-care draft (no bill text); AI-slowdown sell as standalone (already on softbank-openai-1187 + tape). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Intrepid Growth Fund I $525M closed. Palliser–Recordati activism — CVC–GBL €51.29 vs ≥€60 ask; tender still live. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
+    "line": "Firmus ASX IPO up to $5B people-familiar (Oct launch) — company declined. Kaiko Series B to $110M (S&P Global-led). Anthropic Nasdaq + adj. op. profit 2Q streak people-familiar — public S-1/MatX still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Intrepid Growth Fund I $525M closed. Palliser–Recordati activism — CVC–GBL €51.29 vs ≥€60 ask; tender still live. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
   },
   "sections": [
     "All",
@@ -54,6 +54,77 @@
         "The Baldwin Group said Sept. 14 it has entered a definitive agreement for Sequence Holdings and DFO Management — the family investment office of Dell Technologies founder Michael Dell — to take the Nasdaq-listed insurance distributor private in an all-cash transaction valued at about $7.7 billion.",
         "Shareholders are to receive $32.50 a share in cash, an approximately 88% premium to the June 17, 2026 unaffected close. The company said the enterprise value is roughly $4.6 billion of equity plus about $3.1 billion of net debt assumed or refinanced, or about 20 times trailing-twelve-month adjusted EBITDA of roughly $396 million.",
         "Eligible Baldwin colleagues are expected to retain a significant minority stake alongside Sequence and DFO. The deal has no financing condition, was approved unanimously by the board after a special committee process, and is targeted to close in the first quarter of 2027 subject to shareholder and regulatory approvals, after which Baldwin would leave Nasdaq."
+      ]
+    },
+    {
+      "id": "firmus-ipo-5b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "IPO / Infra",
+      "hed": "Firmus eyes up to $5B Australian IPO as early as late October",
+      "dek": "Reuters Sep 14 people-familiar; company declined comment. October launch target; ASX debut possibly late October. Dealogic: would rank 4th-largest IPO YTD. Last month $2B equity round; post-money >$10.5B.",
+      "date": "Sept. 14, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/firmus-seeks-raise-up-5-billion-australian-ipo-bloomberg-reports-2026-09-14/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra IPO as Mid Afternoon companion to on-plate firmus-openai (Reuters Sydney/HK Sep 14 people-familiar; Firmus declined comment). PRIMARY: https://www.reuters.com/world/asia-pacific/firmus-seeks-raise-up-5-billion-australian-ipo-bloomberg-reports-2026-09-14/. Stick to people-familiar + company decline: Australian AI infrastructure company Firmus Technologies seeking to raise up to $5 billion in IPO; targets October launch with ASX debut possible as early as late October; size/timing could still change. Dealogic via Reuters: at $5B would be 4th-largest IPO globally YTD behind SpaceX, CXMT Corp, Cerebras Systems; 2nd-largest Australia-listed IPO on record behind Telstra’s $10B 1997 float. AFR first reported discussions to raise up to A$7B (~$5B); Bloomberg also reported potential size. Roadshow: investor meetings began Asia Monday; Europe/US then Australia; international leg ~two weeks before Australia. Background OK if labeled prior company: last month raised $2B equity taking post-money above $10.5B with Nvidia and Coatue participation and backing from Blackstone funds and Jane Street. Do NOT invent valuation range for the IPO, shares offered, or bank syndicate. Owner Quill.",
+      "grafs": [
+        "Firmus Technologies is seeking to raise up to $5 billion in an Australian initial public offering targeted for an October launch, with a possible ASX debut as early as late October, two people familiar with the matter told Reuters on Sept. 14; a Firmus spokesperson declined to comment.",
+        "At that size, Dealogic data cited by Reuters would rank the deal as the fourth-largest IPO globally so far this year — behind SpaceX, CXMT, and Cerebras — and the second-largest Australia-listed IPO on record after Telstra’s $10 billion flotation in 1997. The Australian Financial Review first reported talks of up to A$7 billion (~$5 billion).",
+        "Reuters said Firmus began meeting Asian investors Monday and plans Europe and U.S. stops before Australia. Separately, the company said last month it raised $2 billion of equity that took its post-money valuation above $10.5 billion, with Nvidia and Coatue among participants — context for the IPO test, not a confirmation of listing terms."
+      ]
+    },
+    {
+      "id": "kaiko-110",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Funding / Market Data",
+      "hed": "S&P Global leads Kaiko Series B extension to $110M for onchain data rails",
+      "dek": "Kaiko + S&P Global PR Sep 14. Series B-2 to $110M via S&P Global Ventures. BNP, Bpifrance, Broadridge, Coinbase Ventures, DRW, Nasdaq Ventures, RBC, Susquehanna et al. No extension valuation disclosed.",
+      "date": "Sept. 14, 2026",
+      "source": "Kaiko / S&P Global",
+      "url": "https://www.kaiko.com/news/sp-global-leads-strategic-investment-in-kaiko-extending-series-b-to-110-million",
+      "also": [
+        {
+          "label": "S&P Global (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/sp-global-leads-strategic-investment-in-kaiko-deepening-commitment-to-digital-assets-and-on-chain-markets-302877589.html"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/government/crypto-data-firm-kaiko-secures-110-million-funding-round-led-by-sp-global-2026-09-14/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / digital-asset market data as Mid Afternoon companion (Kaiko company + S&P Global PR Newswire Sep 14 ~8:00 a.m. ET; Reuters Paris same day). PRIMARY Kaiko: https://www.kaiko.com/news/sp-global-leads-strategic-investment-in-kaiko-extending-series-b-to-110-million ; S&P PR: https://www.prnewswire.com/news-releases/sp-global-leads-strategic-investment-in-kaiko-deepening-commitment-to-digital-assets-and-on-chain-markets-302877589.html ; Reuters https://www.reuters.com/legal/government/crypto-data-firm-kaiko-secures-110-million-funding-round-led-by-sp-global-2026-09-14/. Stick to company: Kaiko announced S&P Global led a strategic investment extending Series B to $110 million (S&P calls it Series B-2 via S&P Global Ventures). New/strategic LPs named by Kaiko: BNP Paribas, Bpifrance, Broadridge, Canton Foundation, Coinbase Ventures, DRW Venture Capital, Nasdaq Ventures, Royal Bank of Canada, Stellar, Susquehanna Private Equity Investments; existing Anthemis, Point Nine, Revaia also participated. Investors join a Kaiko-chaired Strategic Industry Working Group on tokenized-market data infrastructure. Coverage: Kaiko/Reuters say product covers >150 exchanges and crypto protocols; S&P PR says Kaiko supports >250 financial firms/institutions/regulators. Recent M&A named OK if labeled company: Cometh (MiCA/CASP) and Amberdata. Partnership color OK if labeled: March 2026 S&P DJI–Kaiko tokenized iBoxx US Treasuries Index; early Sep S&P Kaiko Digital Asset Indices suite. Do NOT invent extension pre/post valuation, cheque sizes, or ownership %. Owner Quill.",
+      "grafs": [
+        "Kaiko said Sept. 14 that S&P Global led a strategic investment extending its Series B to $110 million, with S&P Global describing the cheque as a Series B-2 extension through S&P Global Ventures into the digital-asset market-data and onchain infrastructure provider.",
+        "Kaiko listed additional strategic backers including BNP Paribas, Bpifrance, Broadridge, Canton Foundation, Coinbase Ventures, DRW Venture Capital, Nasdaq Ventures, Royal Bank of Canada, Stellar, and Susquehanna Private Equity Investments, plus returning Anthemis, Point Nine, and Revaia. Participating institutions also joined a Kaiko-chaired working group on data standards for tokenized markets.",
+        "Reuters noted the firm’s product covers more than 150 exchanges and crypto protocols; S&P’s release separately said Kaiko supports more than 250 financial firms, institutions, and regulators. Company materials cite recent acquisitions of Cometh and Amberdata and the co-branded S&P Kaiko Digital Asset Indices — none of the primaries disclose a valuation for this extension."
+      ]
+    },
+    {
+      "id": "anthropic-op2",
+      "lead": false,
+      "section": "AI",
+      "kicker": "IPO / Profitability",
+      "hed": "Anthropic picks Nasdaq as adj. operating profit hits second straight quarter",
+      "dek": "CNBC Sep 14 + FT/Reuters Sep 13 people-familiar. Nasdaq venue confirmed. Adj. operating profit positive 2Q streak (no $ disclosed). $65B ARR in July (CNBC prior). Public S-1/MatX watch still OPEN.",
+      "date": "Sept. 14, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "also": [
+        {
+          "label": "Reuters (FT report)",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / IPO path as Mid Afternoon companion (CNBC Sep 14; FT via Reuters Sep 13). PRIMARY CNBC: https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html ; Reuters/FT https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/. Stick to: CNBC confirmed Anthropic selected Nasdaq for potential IPO after Business Insider; company declined comment. CNBC two sources familiar: company told some shareholders it will generate an operating profit for a second straight quarter in the current period; FT reported Sunday (Reuters relay). Do NOT invent $ amount of adj./operating profit. CNBC prior: Anthropic hit $65B annualized revenue in July (~7× YoY). Context OK if labeled: valued at $965B earlier this year; confidentially filed IPO prospectus in June; widely expected as soon as next month; could seek ~$2T IPO valuation is speculative framing not a filed range. Amodei weekend slowdown essay + Altman “ill-advised” for OpenAI 2026 IPO is market color for SoftBank/AI tape — keep separate from softbank-openai-1187. Open watch Anthropic public S-1/MatX remains OPEN (confidential filing ≠ public S-1). Owner Quill.",
+      "grafs": [
+        "Anthropic has selected Nasdaq as the exchange for its potential IPO, CNBC confirmed Sept. 14 after Business Insider first reported the venue choice; Anthropic declined to comment.",
+        "CNBC, citing two people familiar with the matter, said the company has told some shareholders it will generate an operating profit for a second straight quarter in the current period — matching a Financial Times report relayed by Reuters on Sept. 13. Neither outlet disclosed a dollar figure for that adjusted/operating profit print.",
+        "CNBC separately reiterated that Anthropic hit about $65 billion in annualized revenue in July, roughly a sevenfold year-earlier increase, and noted a confidential IPO prospectus filed in June with a listing widely expected as soon as next month. A public S-1 is still not on the tape — the Anthropic public S-1/MatX watch stays open."
       ]
     },
     {
