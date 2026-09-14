@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 87,
+  "number": 88,
   "city": "New York",
   "date": "Monday, September 14, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "CNBC Quote Cache (Tradeweb yields; equities)",
-    "updated": "Sep 14, ~9:54 a.m. ET — US regular session",
-    "line": "S&P 7,615.26 (−0.54%) · 10-year 4.992% · 30-year 5.363% · SOX 11,216.88 (−5.14%) · NVDA $210.75 (−3.46%)"
+    "updated": "Sep 14, ~11:29 a.m. ET — US regular session",
+    "line": "S&P 7,609.22 (−0.62%) · 10-year 4.965% · 30-year 5.342% · SOX 11,183.94 (−5.41%) · NVDA $211.48 (−3.12%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Morning: SoftBank $11.87B OpenAI facility; SOX/NVDA hard open.",
+    "hed": "Midday: Baldwin $7.7B Sequence–DFO take-private; Temporal $550M E; Buildots $130M.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 87 Morning. ADD softbank-openai-1187 (Bloomberg people-familiar $11.87B two-year facility ~20 banks; SoftBank declined comment; pair SoftBank IR Sep 9 $25.9B Sep 15 bridge prepay; shares as much as −13% Mon) as lead → Quill. ADD tandem-health-b (company $100M Series B Scaleup Europe/EQT; no valuation) → Quill. Demoted google-mechanize (still on plate). CNBC ~9:54 a.m. ET tape: S&P 7,615.26 (−0.54%) · 10-year 4.992% · 30-year 5.363% · SOX 11,216.88 (−5.14%) · NVDA $210.75 (−3.46%). Declined: Temporal Series E (NYSE advisory only; no company primary — Series D still last company print); OpenAI–Windsor $3B (garbled Windsurf/2025); Z.ai “completes” $5B (TechNode/21Jingji thin secondary of already-on-plate zai-hk-5b launch); Medallia Aug recap; Aeon €12M seed. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 88 Midday. ADD baldwin-dfo-77 (company/Business Wire: Sequence Holdings + DFO Management ~$7.7B EV take-private; $32.50/share cash; ~88% premium to Jun 17 unaffected; equity ~$4.6B + ~$3.1B net debt; ~20× TTM Adj. EBITDA ~$396M; Q1 2027 close target; colleagues retain minority) as lead → Quill. ADD temporal-e (company: $550M Series E at $12.55B; Lightspeed lead; ARR >$250M) → Quill — clears prior advisory-only decline. ADD buildots-130 (company via Bloomberg/Globes/FinSMEs: $130M led by O.G. Venture Partners; total $297M; no company valuation printed — do not use Ctech ~$1B estimate as fact) → Quill. Demoted softbank-openai-1187 (still on plate; Sep 15 $25.9B prepay still ahead). CNBC ~11:29 a.m. ET tape: S&P 7,609.22 (−0.62%) · 10-year 4.965% · 30-year 5.342% · SOX 11,183.94 (−5.41%) · NVDA $211.48 (−3.12%). Declined: Z.ai “completes” $5B (secondary of zai-hk-5b); Cymphony $30M stealth; Crane–Trillium Pumps US ~$240M (off-beat industrial); Optro CFO Tim Daniels. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "SoftBank $11.87B OpenAI facility + Sep 15 $25.9B bridge prepay. Tandem Health $100M Series B (no valuation). Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
+    "line": "Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
   },
   "sections": [
     "All",
@@ -29,8 +29,83 @@
   ],
   "stories": [
     {
-      "id": "softbank-openai-1187",
+      "id": "baldwin-dfo-77",
       "lead": true,
+      "section": "Finance",
+      "kicker": "M&A / Insurance",
+      "hed": "Sequence + Dell’s DFO to take Baldwin private in ~$7.7B deal",
+      "dek": "Company/Business Wire Sep 14. $32.50/share cash (~88% premium to Jun 17 unaffected). Equity ~$4.6B + ~$3.1B net debt. ~20× TTM Adj. EBITDA ~$396M. Q1 2027 close; colleagues keep minority stake.",
+      "date": "Sept. 14, 2026",
+      "source": "The Baldwin Group / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260914720607/en/",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/dfo-management-sequence-take-baldwin-private-77-billion-deal-2026-09-14/"
+        },
+        {
+          "label": "Business Wire reprint (MarketMinute)",
+          "url": "https://1kttc.marketminute.com/article/bizwire-2026-9-14-the-baldwin-group-to-go-private-through-majority-investment-by-sequence-holdings-and-dell-family-office"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / insurance take-private as Midday lead (company Business Wire Sep 14 ~8:30 a.m. ET). PRIMARY: https://www.businesswire.com/news/home/20260914720607/en/ (full text also at MarketMinute BizWire reprint). Stick to company: The Baldwin Group, Inc. (NASDAQ: BWIN) entered a definitive agreement under which an entity to be formed by Sequence Holdings and DFO Management (Dell Family Office — investment office of Michael Dell) will acquire a majority interest in an all-cash transaction valued at approximately $7.7 billion; upon completion Baldwin becomes privately held with eligible Baldwin colleagues retaining a significant minority equity stake alongside Sequence and DFO. Price: $32.50 cash per share of Baldwin common stock; ~88% premium to Jun 17, 2026 unaffected close (day before media reports of a potential take-private). EV bridge: ~$7.7B total enterprise value = equity purchase price ~$4.6B + ~$3.1B net debt assumed or refinanced; implies ~20× TTM Adjusted EBITDA ~$396M (non-GAAP; company Note). Structure: Parent via newly formed merger subsidiary merges with/into Baldwin; Baldwin survives as wholly owned subsidiary of Parent; no financing condition; unanimously approved by Board after Special Committee of independent/disinterested directors. Timing: expected close Q1 2027 subject to Baldwin shareholder approval, required regulatory approvals, and customary conditions; Nasdaq delist on completion. Eligible colleagues who hold equity may roll a portion into the private company. Advisors (company): Ardea lead FA; Davis Polk legal; Troutman Pepper Locke insurance regulatory; MarshBerry also FA to Baldwin; Special Committee — Perella Weinberg FA, Potter Anderson legal; Sequence/DFO — Piper Sandler lead FA, Moelis capital markets, Morgan Stanley/Barclays/Wells Fargo FAs; Latham (Sequence), S&C (DFO). Do NOT invent % ownership split between Sequence and DFO, Class A vs Class B treatment beyond company text, or financing sources. Reuters color OK if labeled: premarket ~$31.69 (+6.9%) in one print. Demote softbank-openai-1187 (keep on plate). Owner Quill.",
+      "grafs": [
+        "The Baldwin Group said Sept. 14 it has entered a definitive agreement for Sequence Holdings and DFO Management — the family investment office of Dell Technologies founder Michael Dell — to take the Nasdaq-listed insurance distributor private in an all-cash transaction valued at about $7.7 billion.",
+        "Shareholders are to receive $32.50 a share in cash, an approximately 88% premium to the June 17, 2026 unaffected close. The company said the enterprise value is roughly $4.6 billion of equity plus about $3.1 billion of net debt assumed or refinanced, or about 20 times trailing-twelve-month adjusted EBITDA of roughly $396 million.",
+        "Eligible Baldwin colleagues are expected to retain a significant minority stake alongside Sequence and DFO. The deal has no financing condition, was approved unanimously by the board after a special committee process, and is targeted to close in the first quarter of 2027 subject to shareholder and regulatory approvals, after which Baldwin would leave Nasdaq."
+      ]
+    },
+    {
+      "id": "temporal-e",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Infra",
+      "hed": "Temporal raises $550M Series E at $12.55B as durable-execution AI infra scales",
+      "dek": "Company Sep 14. Lightspeed leads; Wellington, Goldman Sachs Alternatives, Tiger co-lead. ARR >$250M (+200% y/y). Clears prior advisory-only decline.",
+      "date": "Sept. 14, 2026",
+      "source": "Temporal",
+      "url": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / durable-execution infra funding as Midday companion (company primary Sep 14). PRIMARY: https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation. Stick to company: Temporal announced a $550M Series E at a $12.55B valuation led by Lightspeed; co-leads Wellington Management, Growth Equity at Goldman Sachs Alternatives, and Tiger Global; strong participation from T. Rowe Price (accounts advised by T. Rowe Price Associates, Inc.) and SV Angel; returning a16z, Sequoia, Index, GIC, Sapphire Ventures, Amplify. Company growth prints: annualized revenue run rate recently surpassed $250M, growing more than 200% y/y; NDR >200% since February; Temporal Cloud processed 1.9 trillion+ actions in August (+350% y/y); open-source installs surpassed 43 million in August (+134% since Jan 2026); paying customers >4,300 including OpenAI, Snap, NVIDIA, Netflix, JPMorgan Chase. Team doubled to 570 employees over the past year; proceeds for platform R&D, developer/enterprise GTM, and infra scale. This CLEARS the prior No. 87 decline of Temporal Series E as NYSE-advisory-only / no company primary — company PR is now the source. Do NOT invent post-money ownership %, prior-round size, or bank underwriting. Owner Quill.",
+      "grafs": [
+        "Temporal said Sept. 14 it raised $550 million in Series E funding at a $12.55 billion valuation, led by Lightspeed, with Wellington Management, Goldman Sachs Alternatives’ growth-equity group, and Tiger Global as co-leads.",
+        "Returning backers include a16z, Sequoia, Index, GIC, Sapphire Ventures, and Amplify, with T. Rowe Price accounts and SV Angel also participating. Temporal said its annualized revenue run rate recently surpassed $250 million, up more than 200% year over year, with net dollar retention above 200% since February.",
+        "The company said Temporal Cloud processed more than 1.9 trillion actions in August and that open-source installs topped 43 million, with more than 4,300 paying customers. Proceeds will fund platform R&D and go-to-market as the team has doubled to 570 employees over the past year."
+      ]
+    },
+    {
+      "id": "buildots-130",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Contech",
+      "hed": "Buildots raises $130M for AI construction intelligence as data-center builds surge",
+      "dek": "Company via Bloomberg/Globes/FinSMEs Sep 14. O.G. Venture Partners leads; Lightspeed, Intel Capital among participants. Total funding $297M. No company valuation on this round — skip Ctech ~$1B estimate.",
+      "date": "Sept. 14, 2026",
+      "source": "Buildots / Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million",
+      "also": [
+        {
+          "label": "Globes",
+          "url": "https://en.globes.co.il/en/article-israeli-construction-intelligence-co-buildots-raises-130m-1001555383"
+        },
+        {
+          "label": "FinSMEs",
+          "url": "https://www.finsmes.com/2026/09/buildots-raises-130m-in-funding.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / construction-intelligence funding as Midday companion (company announcement Sep 14 via Bloomberg people + Globes/FinSMEs). PRIMARY free: Globes https://en.globes.co.il/en/article-israeli-construction-intelligence-co-buildots-raises-130m-1001555383 ; Bloomberg https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million ; FinSMEs https://www.finsmes.com/2026/09/buildots-raises-130m-in-funding.html. Stick to: Tel Aviv Buildots raised $130M led by O.G. Venture Partners (Bloomberg: billionaire Eyal Ofer’s OG Venture Partners), with Lightspeed Venture Partners, Intel Capital, Mohari Ventures, Human Capital, Qumra Capital, Avigdor Willenz, Viola Growth, and Poalim Equity; total funding since founding $297M. Use of proceeds (FinSMEs): expand construction portfolios across North America and EMEA; enhance platform. Product: AI construction control tower / digital twin from site video + schedules + 3D models for mega-projects including AI data centers. Globes color OK if labeled: workforce doubled to 400 (260 in Israel); ARR tripled to “tens of millions”; ~130 real-estate clients; Digital Realty named; Intel selected Buildots for manufacturing-plant oversight (prior context). Do NOT print Ctech/Calcalist “nearly $1 billion” / “estimated $1 billion” valuation as fact — that is reporter estimate, not a company-stated post-money. Do NOT invent Series letter if company did not name one. Owner Quill.",
+      "grafs": [
+        "Buildots, the Tel Aviv construction-intelligence startup, raised $130 million in a round led by O.G. Venture Partners, the company said Sept. 14, with Lightspeed Venture Partners, Intel Capital, and other existing and new backers participating.",
+        "The raise brings Buildots’ total funding since its 2018 founding to $297 million. The company uses computer vision and AI to turn jobsite video, schedules, and 3D models into a progress “control tower” for large projects, including AI data centers and chip plants.",
+        "Buildots did not disclose a valuation for this round in the Bloomberg, Globes, or FinSMEs accounts of its announcement. Globes said the firm has about 400 employees and has tripled ARR to tens of millions of dollars amid the data-center construction boom."
+      ]
+    },
+    {
+      "id": "softbank-openai-1187",
+      "lead": false,
       "section": "Finance",
       "kicker": "Debt / OpenAI",
       "hed": "SoftBank seals $11.87B two-year facility for OpenAI push; ~20 banks",
