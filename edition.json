@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 90,
+  "number": 91,
   "city": "New York",
   "date": "Monday, September 14, 2026",
-  "editionLabel": "Mid Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 14, ~1:22 p.m. ET — US regular session",
-    "line": "S&P 7,635.41 (−0.28%) · 10-year 4.951% · 30-year 5.329% · SOX 11,221.47 (−5.10%) · NVDA $212.21 (−2.79%)"
+    "updated": "Sep 14, ~2:45 p.m. ET — US regular session",
+    "line": "S&P 7,636.51 (−0.27%) · 10-year 4.959% · 30-year 5.331% · SOX 11,248.02 (−4.87%) · NVDA $212.38 (−2.71%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Mid Afternoon: Firmus ≤$5B ASX IPO talk; Kaiko $110M; Anthropic Nasdaq + 2Q op. profit.",
+    "hed": "Late Afternoon: DeepSeek first CFO (sources); PSG Europe III >€4.4B; Transformation IV $850M.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 90 Mid Afternoon. ADD firmus-ipo-5b (Reuters people-familiar; company declined: Firmus seeking up to $5B ASX IPO; October launch / late-Oct debut possible; Dealogic 4th-largest YTD if sized; last month $2B equity / >$10.5B post-money) → Quill. ADD kaiko-110 (Kaiko + S&P Global PR: S&P leads Series B extension to $110M; BNP/Bpifrance/Nasdaq Ventures/Coinbase Ventures/DRW/RBC/Susquehanna et al.; no extension valuation) → Quill. ADD anthropic-op2 (CNBC: Nasdaq venue; adj./op. profit 2nd straight quarter people-familiar; $65B ARR July prior CNBC; public S-1 still OPEN) → Quill. Lead remains baldwin-dfo-77. Yahoo ~1:22 p.m. ET tape: S&P 7,635.41 (−0.28%) · 10-year 4.951% · 30-year 5.329% · SOX 11,221.47 (−5.10%) · NVDA $212.21 (−2.79%) — noise bounce vs No. 89 Afternoon. Declined: Vista–Finastra “strategic options” (no new firm terms); Senate AI duty-of-care draft (no bill text); AI-slowdown sell as standalone (already on softbank-openai-1187 + tape). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 91 Late Afternoon. ADD deepseek-cfo (Reuters people-familiar: plans to hire GL Ventures’ Yan Wentao as first CFO; CITIC STAR prep already on plate; $74–75B funding watch still OPEN) → Quill. ADD psg-eu3-44 (Bloomberg people-familiar: PSG Equity >€4.4B / ~$5.1B for Europe III; ~70% larger than 2023 predecessor) → Quill. ADD transform-iv-850 (company Business Wire: Fund IV final close $850M hard cap; AUM >$2.5B; digital health + AI) → Quill. Lead remains baldwin-dfo-77. Hugging Face $12.9B watch CLOSED (already on plate as nvidia-hf; NVIDIA blog + 8-K). Yahoo ~2:45 p.m. ET tape: S&P 7,636.51 (−0.27%) · 10-year 4.959% · 30-year 5.331% · SOX 11,248.02 (−4.87%) · NVDA $212.38 (−2.71%) — essentially flat vs No. 90 Mid Afternoon. Declined: Superhuman–Fathom (company confirmed; terms undisclosed — below bar); Baseten–Blaxel (Sept. 10; terms undisclosed). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Firmus ASX IPO up to $5B people-familiar (Oct launch) — company declined. Kaiko Series B to $110M (S&P Global-led). Anthropic Nasdaq + adj. op. profit 2Q streak people-familiar — public S-1/MatX still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Intrepid Growth Fund I $525M closed. Palliser–Recordati activism — CVC–GBL €51.29 vs ≥€60 ask; tender still live. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
+    "line": "DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. PSG Europe III >€4.4B (~$5.1B) people-familiar. Transformation Capital Fund IV $850M hard-cap close. Firmus ASX IPO up to $5B people-familiar (Oct launch) — company declined. Kaiko Series B to $110M (S&P Global-led). Anthropic Nasdaq + adj. op. profit 2Q streak people-familiar — public S-1/MatX still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Intrepid Growth Fund I $525M closed. Palliser–Recordati activism — CVC–GBL €51.29 vs ≥€60 ask; tender still live. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -54,6 +54,73 @@
         "The Baldwin Group said Sept. 14 it has entered a definitive agreement for Sequence Holdings and DFO Management — the family investment office of Dell Technologies founder Michael Dell — to take the Nasdaq-listed insurance distributor private in an all-cash transaction valued at about $7.7 billion.",
         "Shareholders are to receive $32.50 a share in cash, an approximately 88% premium to the June 17, 2026 unaffected close. The company said the enterprise value is roughly $4.6 billion of equity plus about $3.1 billion of net debt assumed or refinanced, or about 20 times trailing-twelve-month adjusted EBITDA of roughly $396 million.",
         "Eligible Baldwin colleagues are expected to retain a significant minority stake alongside Sequence and DFO. The deal has no financing condition, was approved unanimously by the board after a special committee process, and is targeted to close in the first quarter of 2027 subject to shareholder and regulatory approvals, after which Baldwin would leave Nasdaq."
+      ]
+    },
+    {
+      "id": "deepseek-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "AI / IPO prep",
+      "hed": "DeepSeek plans first CFO hire — GL Ventures’ Yan Wentao, sources say",
+      "dek": "Reuters people-familiar Sept. 14. First CFO as STAR IPO prep advances; CITIC already tapped. $74–75B funding watch still OPEN.",
+      "date": "Sept. 14, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/chinas-deepseek-hires-dealmaker-cfo-ahead-possible-ipo-2026-09-14/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO / China AI IPO path as Late Afternoon catch-up (Reuters Sept. 14 ~12:34 p.m. ET / 4:34 p.m. UTC; missed on Mid Afternoon plate). PRIMARY: https://www.reuters.com/legal/government/chinas-deepseek-hires-dealmaker-cfo-ahead-possible-ipo-2026-09-14/ — two people with knowledge say DeepSeek plans to hire Yan Wentao, a partner at GL Ventures (Hillhouse’s VC arm), as its first chief financial officer amid potential IPO prep. Stick to Reuters: appointment framed as step from research lab bankrolled by founder Liang’s High-Flyer hedge fund toward a more conventional corporate structure; CFO role typically covers investor communications, financial controls, capital allocation, and listing disclosure; Reuters last week that DeepSeek tapped CITIC Securities for Shanghai STAR Market IPO prep (already on plate as deepseek-citic); timing/size/valuation of a potential offering not determined in that prior exclusive. Context only — do NOT close DeepSeek $74–75B funding watch: same piece reiterates ongoing fundraising round that values it at about 500 billion yuan ($74 billion) per July Reuters, and June raise about $7.4B at post-money >$50B. Hillhouse is NOT an investor in DeepSeek per Reuters; DeepSeek, Hillhouse did not immediately comment; Yan not reached. Yan born 1991; Zero2IPO lists MiniMax among representative investments — color only. Do NOT invent start date, compensation, or board title beyond CFO. Owner Quill.",
+      "grafs": [
+        "DeepSeek plans to hire Yan Wentao, a partner at venture-capital firm GL Ventures, as its first chief financial officer, two people with knowledge of the matter told Reuters on Sept. 14, as the Chinese AI startup prepares for a potential initial public offering.",
+        "Reuters reported last week that Hangzhou-based DeepSeek had tapped CITIC Securities to prepare for a possible listing on Shanghai’s technology-focused STAR Market. A CFO typically manages investor communications, financial controls, capital allocation, and disclosure processes required for a listing; the sources said Yan’s dealmaking background would mark a step from a research-focused lab toward a more conventional corporate structure.",
+        "GL Ventures is the venture arm of Hillhouse Investment; Reuters said Hillhouse is not an investor in DeepSeek. DeepSeek and Hillhouse did not immediately respond to requests for comment, and Yan could not immediately be reached. The same report reiterated that DeepSeek is in an ongoing fundraising round that values it at about 500 billion yuan ($74 billion) and that it raised about $7.4 billion in June at a post-money valuation of more than $50 billion — that $74–75B funding watch stays OPEN."
+      ]
+    },
+    {
+      "id": "psg-eu3-44",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Funds / Software",
+      "hed": "PSG raises >€4.4B for Europe III software and tech fund",
+      "dek": "Bloomberg people-familiar Sept. 14. ~70% larger than 2023 predecessor; ~$5.1B. Buy-and-build European software growth equity.",
+      "date": "Sept. 14, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/psg-raises-more-than-4-4-billion-for-software-tech-bets",
+      "also": [
+        {
+          "label": "CryptoBriefing (secondary summary)",
+          "url": "https://cryptobriefing.com/psg-equity-raises-eu44b-european-tech-fund/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / European software growth funds as Late Afternoon catch-up (Bloomberg Sept. 14 ~7:00 a.m. ET / 12:00 p.m. GMT+1; missed on Mid Afternoon plate). PRIMARY: https://www.bloomberg.com/news/articles/2026-09-14/psg-raises-more-than-4-4-billion-for-software-tech-bets — Swetha Gopinath; PSG Equity raised more than €4.4 billion ($5.1 billion) for a new fund targeting European software and technology companies. Stick to Bloomberg people-familiar: PSG Europe III is around 70% larger than its predecessor vehicle raised in 2023; people asked not to be identified discussing confidential information. Secondary color OK if labeled CryptoBriefing: first Europe fund >€1.3B (Jan 2021); second >€2.6B (Nov 2023); PennSERS recommended €100M commitment in May 2026 materials; buy-and-build software playbook; Germany platform focus historically; Sept 2026 Mistral AI €3B Series D co-lead / >€21B valuation is context color — already-separate Mistral coverage if any, do not invent LP roster beyond sourced. Do NOT invent hard cap, final close date beyond Bloomberg print, or DPI/TVPI. Owner Quill.",
+      "grafs": [
+        "PSG Equity has raised more than €4.4 billion ($5.1 billion) for a new fund targeting European software and technology companies, Bloomberg reported on Sept. 14, citing people familiar with the matter.",
+        "Bloomberg said PSG Europe III is around 70% larger than its predecessor vehicle, which the firm raised in 2023, according to people who asked not to be identified discussing confidential information. The raise is framed as a vote of confidence in European software after a heavy sector selloff earlier this year.",
+        "Secondary summaries put the prior Europe funds at just over €1.3 billion (2021) and over €2.6 billion (2023) and note a Pennsylvania SERS staff memo earlier in 2026 recommending up to €100 million for Europe III — color only; stick to Bloomberg for the >€4.4 billion headline."
+      ]
+    },
+    {
+      "id": "transform-iv-850",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Funds / Digital Health",
+      "hed": "Transformation Capital closes Fund IV at $850M hard cap",
+      "dek": "Company/Business Wire Sept. 14. Oversubscribed; AUM >$2.5B across four funds. AI-driven digital health commercial-stage focus.",
+      "date": "Sept. 14, 2026",
+      "source": "Transformation Capital / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260914431059/en/",
+      "also": [
+        {
+          "label": "Business Wire reprint (FinancialContent)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-14-transformation-capital-closes-fund-iv-at-850-million-exceeding-its-target-in-oversubscribed-fundraise"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / digital-health growth funds as Late Afternoon catch-up (company Business Wire Sept. 14 ~10:00 a.m. ET; missed on Mid Afternoon plate). PRIMARY: https://www.businesswire.com/news/home/20260914431059/en/ (FinancialContent BizWire reprint OK). Stick to company: Transformation Capital announced final close of Fund IV at its $850 million hard cap, exceeding target in an oversubscribed fundraise completed this summer; existing LPs continued and new institutional investors joined; firm has already begun deploying Fund IV; AUM more than $2.5 billion across four funds; largest dedicated digital health venture and growth equity firm; strategy commercial-stage companies using technology and AI; eight new AI-focused investments in the past year alone per release; Managing Partners Todd Cozzens, Jared Kesselheim, M.D., Mike Dixon; offices Boston and San Francisco; portfolio examples named OK if labeled company (Datavant, Judi Health, Sword Health, Grow Therapy, SmarterDx, Parachute Health). Do NOT invent LP names, target size, or TVPI. Owner Quill.",
+      "grafs": [
+        "Transformation Capital said Sept. 14 it has completed the final close of Transformation Capital Fund IV at its $850 million hard cap, exceeding its target in an oversubscribed fundraise finished this summer, according to a company Business Wire release.",
+        "The firm said existing limited partners continued to back the strategy and that new institutional investors joined for the first time. Fund IV brings Transformation Capital’s total assets under management to more than $2.5 billion across four funds, and the firm said it has already begun deploying the new capital.",
+        "Transformation Capital describes itself as the largest dedicated digital health venture and growth equity firm, investing exclusively in commercial-stage companies transforming healthcare delivery, cost, and quality, including eight new AI-focused investments in the past year. Managing Partners are Todd Cozzens, Jared Kesselheim, M.D., and Mike Dixon."
       ]
     },
     {
