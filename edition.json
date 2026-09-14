@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 88,
+  "number": 89,
   "city": "New York",
   "date": "Monday, September 14, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "CNBC Quote Cache (Tradeweb yields; equities)",
-    "updated": "Sep 14, ~11:29 a.m. ET — US regular session",
-    "line": "S&P 7,609.22 (−0.62%) · 10-year 4.965% · 30-year 5.342% · SOX 11,183.94 (−5.41%) · NVDA $211.48 (−3.12%)"
+    "updated": "Sep 14, ~12:40 p.m. ET — US regular session",
+    "line": "S&P 7,632.74 (−0.32%) · 10-year 4.947% · 30-year 5.321% · SOX 11,198.03 (−5.29%) · NVDA $211.69 (−3.02%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Midday: Baldwin $7.7B Sequence–DFO take-private; Temporal $550M E; Buildots $130M.",
+    "hed": "Afternoon: Intrepid $525M Fund I; Palliser presses Recordati ≥€60 vs CVC–GBL.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 88 Midday. ADD baldwin-dfo-77 (company/Business Wire: Sequence Holdings + DFO Management ~$7.7B EV take-private; $32.50/share cash; ~88% premium to Jun 17 unaffected; equity ~$4.6B + ~$3.1B net debt; ~20× TTM Adj. EBITDA ~$396M; Q1 2027 close target; colleagues retain minority) as lead → Quill. ADD temporal-e (company: $550M Series E at $12.55B; Lightspeed lead; ARR >$250M) → Quill — clears prior advisory-only decline. ADD buildots-130 (company via Bloomberg/Globes/FinSMEs: $130M led by O.G. Venture Partners; total $297M; no company valuation printed — do not use Ctech ~$1B estimate as fact) → Quill. Demoted softbank-openai-1187 (still on plate; Sep 15 $25.9B prepay still ahead). CNBC ~11:29 a.m. ET tape: S&P 7,609.22 (−0.62%) · 10-year 4.965% · 30-year 5.342% · SOX 11,183.94 (−5.41%) · NVDA $211.48 (−3.12%). Declined: Z.ai “completes” $5B (secondary of zai-hk-5b); Cymphony $30M stealth; Crane–Trillium Pumps US ~$240M (off-beat industrial); Optro CFO Tim Daniels. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 89 Afternoon. ADD intrepid-525 (company/Business Wire: Intrepid Growth Partners formal launch + Fund I final close US$525M; Machin/Shulgan/Agrawal; >80 LPs incl. Temasek, ADIC, BBB, EDC, BDC; nine portfolio cos incl. PhysicsX, StackAdapt) → Quill. ADD palliser-recordati (Palliser BW + Reuters: activist letter urges Recordati board withdraw support for Respighi BidCo/CVC–GBL €51.29 tender; wants ≥€60; independents unanimously opposed via Rothschild; May offer ~€10.7B) → Quill. Lead remains baldwin-dfo-77. CNBC ~12:40 p.m. ET tape: S&P 7,632.74 (−0.32%) · 10-year 4.947% · 30-year 5.321% · SOX 11,198.03 (−5.29%) · NVDA $211.69 (−3.02%) — SPX bounced ~+24 pts vs Midday while chips still ~−5%. Declined: Blackstone–Google TPU “several times” more (The Information via secondary; no firm $ — skip crypto-briefing “tens of billions”); Jaggaer–Ivoflow close (terms undisclosed); OpenAI/Anthropic PE JV talks (not final); SoftBank −13% already on softbank-openai-1187; Mistral €3B already mistral-d. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
+    "line": "Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Intrepid Growth Fund I $525M closed. Palliser–Recordati activism — CVC–GBL €51.29 vs ≥€60 ask; tender still live. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
   },
   "sections": [
     "All",
@@ -54,6 +54,62 @@
         "The Baldwin Group said Sept. 14 it has entered a definitive agreement for Sequence Holdings and DFO Management — the family investment office of Dell Technologies founder Michael Dell — to take the Nasdaq-listed insurance distributor private in an all-cash transaction valued at about $7.7 billion.",
         "Shareholders are to receive $32.50 a share in cash, an approximately 88% premium to the June 17, 2026 unaffected close. The company said the enterprise value is roughly $4.6 billion of equity plus about $3.1 billion of net debt assumed or refinanced, or about 20 times trailing-twelve-month adjusted EBITDA of roughly $396 million.",
         "Eligible Baldwin colleagues are expected to retain a significant minority stake alongside Sequence and DFO. The deal has no financing condition, was approved unanimously by the board after a special committee process, and is targeted to close in the first quarter of 2027 subject to shareholder and regulatory approvals, after which Baldwin would leave Nasdaq."
+      ]
+    },
+    {
+      "id": "intrepid-525",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Funds / AI Growth",
+      "hed": "Intrepid Growth closes $525M Fund I to back AI industry builders",
+      "dek": "Company/Business Wire Sep 14. Formal launch + final close. Co-founders Machin (ex-CPPIB), Shulgan (ex-OMERS), Agrawal (U of T). >80 LPs incl. Temasek, ADIC, BBB, EDC, BDC. Nine portfolio cos incl. PhysicsX, StackAdapt.",
+      "date": "Sept. 14, 2026",
+      "source": "Intrepid Growth Partners / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260914390488/en/",
+      "also": [
+        {
+          "label": "Business Wire reprint (FinancialContent)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-14-intrepid-growth-partners-launches-with-us525-million-fund-to-back-ambitious-ai-founders-redefining-their-industries"
+        },
+        {
+          "label": "The Next Web",
+          "url": "https://thenextweb.com/news/intrepid-growth-partners-525m-ai-fund-state"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / AI growth funds as Afternoon companion (company Business Wire Sep 14 ~8:00 a.m. ET; Midday skipped for Baldwin plate). PRIMARY: https://www.businesswire.com/news/home/20260914390488/en/ (FinancialContent BizWire reprint OK). Stick to company: Intrepid Growth Partners announced formal launch alongside final close of inaugural US$525M Fund I; founded 2023 by Mark Machin (former President & CEO, CPPIB), Mark Shulgan (former Head of Growth Equity, OMERS), Ajay Agrawal (Professor, University of Toronto / AI economist); offices Toronto and London; >80 global LPs including Temasek, Abu Dhabi Investment Council, British Business Bank, Export Development Canada (EDC), Business Development Bank of Canada (BDC), plus US/global institutions and family offices; already invested in nine portfolio companies including London PhysicsX and Toronto StackAdapt; focus Canada–UK corridor plus US/Europe on proven AI businesses redesigning industries. Advisers named OK if labeled company: Richard Sutton, Sendhil Mullainathan, Sir Mike Wigston, Harley Finkelstein. TNW color OK if labeled: five named LPs are state/state-backed across four countries; Canadian AI minister Evan Solomon and UK AI minister Kanishka Narayan on record for launch — do NOT frame as grants. Do NOT invent fund term, target IRR, cheque size, LP ticket sizes, or the six unnamed portfolio companies. Globe \"$25M above target\" only if separately sourced — skip unless verified. Owner Quill.",
+      "grafs": [
+        "Intrepid Growth Partners said Sept. 14 it has formally launched alongside the final close of its inaugural Fund I at US$525 million, positioning the Toronto- and London-based firm as a specialist growth investor for AI companies redesigning established industries.",
+        "The firm was founded in 2023 by Mark Machin, former president and CEO of Canada Pension Plan Investment Board; Mark Shulgan, formerly head of growth equity at OMERS; and Ajay Agrawal, a University of Toronto professor and AI economist. Business Wire lists more than 80 limited partners, notably Temasek, Abu Dhabi Investment Council, the British Business Bank, Export Development Canada, and Business Development Bank of Canada.",
+        "Intrepid said it has already invested in nine portfolio companies, including London-based PhysicsX and Toronto-based StackAdapt, and is focused on the Canada–UK corridor as well as the United States and Europe. The Next Web noted that five of the named backers are state or state-backed institutions spanning four countries — color, not a grant print."
+      ]
+    },
+    {
+      "id": "palliser-recordati",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Activism / Pharma",
+      "hed": "Palliser urges Recordati board to scrap support for CVC–GBL €51.29 offer",
+      "dek": "Palliser/Business Wire + Reuters Sep 14. Letter dated Sep 1 made public. Wants ≥€60/share. Independent directors unanimously opposed (Rothschild unfair); six non-independents backed. May consortium offer ~€10.7B.",
+      "date": "Sept. 14, 2026",
+      "source": "Palliser Capital / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260911121253/en/",
+      "also": [
+        {
+          "label": "Business Wire reprint (MarketMinute)",
+          "url": "https://www.marketminute.com/article/bizwire-2026-9-14-palliser-capital-issues-letter-to-recordatis-board-of-directors-urging-withdrawal-of-support-on-materially-undervalued-tender-offer"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/palliser-capital-urges-recordatis-board-withdraw-support-cvc-gbl-offer-2026-09-14/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / pharma take-private activism as Afternoon companion (Palliser Business Wire Sep 14 ~2:00 a.m. ET; Reuters Milan same day). PRIMARY BW: https://www.businesswire.com/news/home/20260911121253/en/ ; MarketMinute reprint OK; Reuters https://www.reuters.com/business/palliser-capital-urges-recordatis-board-withdraw-support-cvc-gbl-offer-2026-09-14/. Stick to: activist Palliser Capital publicly issued a Sep 1 letter to Recordati S.p.A. board urging withdrawal of support for Respighi BidCo S.p.A. €51.29-per-share tender offer; asks CVC Capital Partners + Groupe Bruxelles Lambert (GBL) consortium to raise to no less than €60/share for fair minority treatment. Palliser cites: independent directors unanimously recommended against based on Rothschild & Co. fairness opinion that offer is unfair to minorities; six non-independent directors with consortium ties/financial interests pushed approval despite four independents opposing; coercion risk if minorities left in illiquid delisted securities. Reuters context OK if labeled: CVC+GBL May all-cash full takeover via Respighi BidCo ~€10.7B; Palliser argues offer materially undervalues. Do NOT invent Palliser % stake, voting intentions, or whether €60 will clear. Owner Quill.",
+      "grafs": [
+        "Activist Palliser Capital said Sept. 14 it had publicly released a Sept. 1 letter urging Recordati’s board to withdraw support for Respighi BidCo’s €51.29-a-share tender offer from the CVC Capital Partners and Groupe Bruxelles Lambert consortium, arguing the bid materially undervalues the Italian drugmaker.",
+        "Palliser called for the consortium to raise the offer to at least €60 a share to treat minority holders fairly. Its Business Wire release says Recordati’s independent directors unanimously recommended against the deal after Rothschild & Co. found the price unfair to minorities, while six non-independent directors with consortium ties backed it.",
+        "Reuters reported the same day that CVC and GBL launched the all-cash full takeover through Respighi BidCo in May at about €10.7 billion. The activism print does not by itself close or reprice the live offer — it puts a public floor demand on a contested PE take-private."
       ]
     },
     {
