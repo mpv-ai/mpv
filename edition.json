@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 91,
+  "number": 92,
   "city": "New York",
   "date": "Monday, September 14, 2026",
   "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 14, ~2:45 p.m. ET — US regular session",
-    "line": "S&P 7,636.51 (−0.27%) · 10-year 4.959% · 30-year 5.331% · SOX 11,248.02 (−4.87%) · NVDA $212.38 (−2.71%)"
+    "updated": "Sep 14, ~3:49 p.m. ET — US regular session",
+    "line": "S&P 7,628.87 (−0.37%) · 10-year 4.961% · 30-year 5.329% · SOX 11,175.96 (−5.48%) · NVDA $212.04 (−2.86%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Late Afternoon: DeepSeek first CFO (sources); PSG Europe III >€4.4B; Transformation IV $850M.",
+    "hed": "Late Afternoon: Vista–Finastra strategic options; Anthropic Claude for Financial Advisors.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 91 Late Afternoon. ADD deepseek-cfo (Reuters people-familiar: plans to hire GL Ventures’ Yan Wentao as first CFO; CITIC STAR prep already on plate; $74–75B funding watch still OPEN) → Quill. ADD psg-eu3-44 (Bloomberg people-familiar: PSG Equity >€4.4B / ~$5.1B for Europe III; ~70% larger than 2023 predecessor) → Quill. ADD transform-iv-850 (company Business Wire: Fund IV final close $850M hard cap; AUM >$2.5B; digital health + AI) → Quill. Lead remains baldwin-dfo-77. Hugging Face $12.9B watch CLOSED (already on plate as nvidia-hf; NVIDIA blog + 8-K). Yahoo ~2:45 p.m. ET tape: S&P 7,636.51 (−0.27%) · 10-year 4.959% · 30-year 5.331% · SOX 11,248.02 (−4.87%) · NVDA $212.38 (−2.71%) — essentially flat vs No. 90 Mid Afternoon. Declined: Superhuman–Fathom (company confirmed; terms undisclosed — below bar); Baseten–Blaxel (Sept. 10; terms undisclosed). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 92 Late Afternoon. ADD vista-finastra (Reuters exclusive people-familiar: Vista + Morgan Stanley early-stage strategic options for Finastra — sale/stake/M&A paths; Blackstone among lookers; valuation talk high-single-digit bn to ~$12B; ~$650M EBITDA) → Quill. ADD anthropic-cfa (Reuters/Bloomberg company launch: Claude for Financial Advisors; Schwab, BlackRock, Addepar et al.; companion to openai-chatgpt-fs / gemini-fs) → Quill. Lead remains baldwin-dfo-77. Yahoo ~3:49 p.m. ET tape: S&P 7,628.87 (−0.37%) · 10-year 4.961% · 30-year 5.329% · SOX 11,175.96 (−5.48%) · NVDA $212.04 (−2.86%) — S&P/NVDA/yields near No. 91; SOX deeper (−5.48% vs −4.87%). Declined: FFL–Waylin (Sept. 10; terms undisclosed); Blackstone Google TPU “tens of billions” expansion (The Information people-familiar; no company figure — soft). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. PSG Europe III >€4.4B (~$5.1B) people-familiar. Transformation Capital Fund IV $850M hard-cap close. Firmus ASX IPO up to $5B people-familiar (Oct launch) — company declined. Kaiko Series B to $110M (S&P Global-led). Anthropic Nasdaq + adj. op. profit 2Q streak people-familiar — public S-1/MatX still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Intrepid Growth Fund I $525M closed. Palliser–Recordati activism — CVC–GBL €51.29 vs ≥€60 ask; tender still live. Temporal $550M Series E at $12.55B. Buildots $130M (total $297M). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. PSG Europe III >€4.4B (~$5.1B) people-familiar. Transformation Capital Fund IV $850M hard-cap close. Firmus ASX IPO up to $5B people-familiar (Oct launch) — company declined. Kaiko Series B to $110M (S&P Global-led). Anthropic Nasdaq + adj. op. profit 2Q streak people-familiar. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. August CPI printed — Sept. 15–16 FOMC next. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -54,6 +54,53 @@
         "The Baldwin Group said Sept. 14 it has entered a definitive agreement for Sequence Holdings and DFO Management — the family investment office of Dell Technologies founder Michael Dell — to take the Nasdaq-listed insurance distributor private in an all-cash transaction valued at about $7.7 billion.",
         "Shareholders are to receive $32.50 a share in cash, an approximately 88% premium to the June 17, 2026 unaffected close. The company said the enterprise value is roughly $4.6 billion of equity plus about $3.1 billion of net debt assumed or refinanced, or about 20 times trailing-twelve-month adjusted EBITDA of roughly $396 million.",
         "Eligible Baldwin colleagues are expected to retain a significant minority stake alongside Sequence and DFO. The deal has no financing condition, was approved unanimously by the board after a special committee process, and is targeted to close in the first quarter of 2027 subject to shareholder and regulatory approvals, after which Baldwin would leave Nasdaq."
+      ]
+    },
+    {
+      "id": "vista-finastra",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Exits / Fintech software",
+      "hed": "Vista explores sale or other options for Finastra; Blackstone among lookers",
+      "dek": "Reuters exclusive people-familiar Sept. 14. Morgan Stanley advising; early-stage. Valuation talk high-single-digit bn to ~$12B; ~$650M EBITDA.",
+      "date": "Sept. 14, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/vista-equity-exploring-strategic-options-financial-software-provider-finastra-2026-09-14/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE / financial software exits as Late Afternoon catch-up (Reuters exclusive Sept. 14 ~12:52 p.m. ET / 4:52 p.m. UTC; missed on No. 91). PRIMARY: https://www.reuters.com/world/vista-equity-exploring-strategic-options-financial-software-provider-finastra-2026-09-14/ — Amy-Jo Crowley/Milana Vinn. Stick to people-familiar: Vista Equity Partners exploring strategic options for Finastra that could include a potential sale; working with Morgan Stanley; process early-stage and could also be stake divestment, merger, or Finastra acquiring another player; initial interest from other investment firms; Blackstone among prospective bidders studying the company (one source); no certainty of a transaction. Valuation color (sources): two people said could be valued at more than high-single-digit billion dollars; a third said traditional earnings multiples for specialized software could value Finastra as high as $12 billion and that the company expects ~$650 million EBITDA this year. Company context (Reuters + Finastra site via Reuters): London HQ; payments/lending/corporate banking software; formed 2017 by Vista via Misys + D+H; serves thousands of FIs including >80% of world’s top banks per website. Transformation under CEO Chris Walters (Jan 2025): sold treasury/capital markets to Apax (Teciem, Feb); agreed June to sell universal banking to Pollen Street Capital. Vista, Finastra, Morgan Stanley, Blackstone all declined to comment. Do NOT invent process timeline, bid list beyond Blackstone-as-studying, or confirmed sale. Owner Quill.",
+      "grafs": [
+        "Vista Equity Partners is exploring strategic options for financial-software provider Finastra that could include a sale, four people familiar with the matter told Reuters on Sept. 14, with Morgan Stanley advising on an early-stage process.",
+        "The review could also result in Vista divesting a stake or Finastra merging with or acquiring another industry player, the sources said. Finastra has drawn initial interest from other investment firms, and Blackstone is among prospective bidders studying the company, one of the sources added; there is no certainty a transaction will occur.",
+        "Two people said Finastra could be valued at more than high-single-digit billions of dollars, while a third said traditional software earnings multiples could put the company as high as about $12 billion and that it expects roughly $650 million of EBITDA this year. Vista, Finastra, Morgan Stanley and Blackstone declined to comment."
+      ]
+    },
+    {
+      "id": "anthropic-cfa",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Enterprise / Wealth",
+      "hed": "Anthropic launches Claude for Financial Advisors with Schwab, BlackRock",
+      "dek": "Reuters/Bloomberg Sept. 14. Connectors to custodians and wealth stack; companion to openai-chatgpt-fs (IB/ER) and gemini-fs.",
+      "date": "Sept. 14, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+      "also": [
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/anthropic-pitches-new-claude-tool-for-financial-advisors"
+        },
+        {
+          "label": "Wealth Management",
+          "url": "https://www.wealthmanagement.com/artificial-intelligence/anthropic-launches-claude-for-financial-advisors"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / enterprise wealth as Late Afternoon catch-up (Reuters Sept. 14 ~1:10 p.m. ET / 5:10 p.m. UTC; Bloomberg ~9:00 a.m. PDT / noon ET; missed on No. 91 Late Afternoon plate). PRIMARY: https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/ — Anthropic launched Claude for Financial Advisors, connecting Claude to investment analytics and wealth-management software from firms including BlackRock, Charles Schwab and Addepar; designed to help FS firms prepare for client meetings, review portfolios and handle follow-up; builds on Anthropic’s broader financial-services push; also names Envestnet, iCapital, Orion, Wealthbox, Wealth.com and Zocks. ALSO Bloomberg (Tanya Falenczyk/Silla Brush): pitches advisers on Claude blended with financial analytics. ALSO Wealth Management (Davis Janowski; Anthropic statement + Peter Nolan interview): connectors list expands to include SS&C Black Diamond and Vanguard; workflow skills include pre-meeting prep, alt-investment briefs, compliance/AI-policy review, estate/tax briefing, portfolio rebalance review, post-meeting notes, prospect intake; Enterprise plans with audit logs; Nolan ballpark ~$70–$120/user/month for heavy use (requires Claude Co-Work; Advisors plug-in free per WM); one-time usage credit for new licenses requested by end-Sept 2026; BlackRock Jaime Magyera and Ritholtz Josh Brown quotes in company materials — color only. Companion to openai-chatgpt-fs (IB/ER, Sept. 10) and gemini-fs already on plate. Do NOT invent seat counts, bank/RIA customer names beyond sourced quotes, or hard ARR. Public S-1/MatX watch still OPEN (separate). Owner Quill.",
+      "grafs": [
+        "Anthropic on Monday launched Claude for Financial Advisors, a set of tools that connect its Claude chatbot to investment analytics and wealth-management software from firms including BlackRock, Charles Schwab and Addepar, Reuters reported, citing the company’s announcement.",
+        "The product is aimed at helping financial advisers prepare for client meetings, review portfolios and handle follow-up work. Reuters said the offering also ties Claude to data and software from Envestnet, iCapital, Orion, Wealthbox, Wealth.com and Zocks, building on Anthropic’s broader push into financial services after OpenAI’s ChatGPT for Financial Services launch days earlier.",
+        "Secondary coverage of Anthropic’s statement adds connectors including Vanguard and SS&C Black Diamond and lists workflow skills for meeting prep, alternative-investment briefs, compliance reviews and portfolio rebalancing. Wealth Management, citing Anthropic’s Peter Nolan, put heavy-use pricing in a rough $70–$120 per user per month ballpark — interview color only; stick to Reuters for the launch frame."
       ]
     },
     {
