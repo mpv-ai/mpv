@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 93,
+  "number": 94,
   "city": "New York",
   "date": "Monday, September 14, 2026",
-  "editionLabel": "Close",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 14, ~4:55 p.m. ET — US regular session closed",
+    "updated": "Sep 14, ~6:57 p.m. ET — US regular session closed; tape unchanged vs Close",
     "line": "S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Close: SOX −5.86%, NVDA −3.36% into the close; plate unchanged.",
+    "hed": "Evening: Cornelis $205M AI networking add; cash-close tape unchanged.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 93 Close. No new stories vs No. 92 Late Afternoon. Yahoo ~4:55 p.m. ET close tape: S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%) — S&P −8.89 pts / NVDA −$1.08 / SOX −44.7 pts vs ~3:49 p.m.; yields flat. Lead remains baldwin-dfo-77. Declined this hour: OpenAI–Glass Imaging (WSJ people-familiar >$300M; OpenAI no comment — soft); BofA Moynihan Q3 IB $1.6–1.8B (≥10% YoY) mid-quarter color (pre-window / borderline for evening AI plate). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). HF $12.9B CLOSED (nvidia-hf). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead."
+    "body": "Vol. 1 No. 94 Evening. One add vs No. 93 Close: cornelis-205 (company Business Wire Sep 14 — ~$205M funding led by IAG Capital Partners; Active Compute Fabric scale-up/out + Qualcomm AI Infra Summit collab; no valuation). Yahoo cash-close tape unchanged: S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%). Lead remains baldwin-dfo-77. Declined this hour: OpenAI–Glass Imaging (WSJ people-familiar >$300M; OpenAI no comment — soft, same as Close); Superhuman–Fathom notetaker M&A (TechCrunch — below plate bar); Collective Compass advisor product launch (PR — below bar). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). HF $12.9B CLOSED (nvidia-hf)."
   },
   "comingUp": {
     "label": "Coming up",
@@ -342,6 +342,38 @@
         "Buildots, the Tel Aviv construction-intelligence startup, raised $130 million in a round led by O.G. Venture Partners, the company said Sept. 14, with Lightspeed Venture Partners, Intel Capital, and other existing and new backers participating.",
         "The raise brings Buildots’ total funding since its 2018 founding to $297 million. The company uses computer vision and AI to turn jobsite video, schedules, and 3D models into a progress “control tower” for large projects, including AI data centers and chip plants.",
         "Buildots did not disclose a valuation for this round in the Bloomberg, Globes, or FinSMEs accounts of its announcement. Globes said the firm has about 400 employees and has tripled ARR to tens of millions of dollars amid the data-center construction boom."
+      ]
+    },
+    {
+      "id": "cornelis-205",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Networking",
+      "hed": "Cornelis raises ~$205M for Active Compute Fabric; Qualcomm joins AI Infra Summit stage",
+      "dek": "Company/Business Wire Sep 14. IAG Capital Partners leads (Joel Whitley quoted). Intel 2020 spinout; CN5000 shipping, CN6000 sampling toward Q4 2026. No valuation disclosed.",
+      "date": "Sept. 14, 2026",
+      "source": "Cornelis / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260914323310/en/",
+      "also": [
+        {
+          "label": "Business Wire reprint (FinancialContent)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-14-cornelis-expands-into-scale-up-networking-with-active-compute-fabric-205m-in-funding-and-qualcomm-collaboration-at-ai-infra-summit"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+        },
+        {
+          "label": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/09/14/cornelis-networks-raises-205m-and-scales-up-and-scales-out-with-its-new-active-compute-fabric/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / networking infra funding as Evening companion (company Business Wire Sep 14 ~9:00 a.m. ET; missed earlier plate). PRIMARY: https://www.businesswire.com/news/home/20260914323310/en/ (full text also at FinancialContent BizWire reprint). Stick to company: Cornelis introduced Active Compute Fabric — open architecture spanning scale-up and scale-out with programmable compute in the fabric; announced approximately $205 million in funding to expand into scale-up networking and bring next-gen products to market; IAG Capital Partners Partner Joel Whitley quoted (lead per TechCrunch); Qualcomm Technologies’ Tony Pialis (EVP/GM Data Center) joins CEO Lisa Spelman keynote at AI Infra Summit Sep 15; CN5000 shipping today, CN6000 sampling with expanded availability expected Q4 2026; open standards UALink/ESUN (scale-up) and Ultra Ethernet (scale-out). Do NOT invent round letter, valuation, or full syndicate beyond IAG lead/quote. Company modeling footnotes ($1.68B wasted GPU capacity etc.) are projections — keep out of hed/dek or label as company modeling if used. Owner Quill.",
+      "grafs": [
+        "Cornelis said Sept. 14 it has raised approximately $205 million to expand into scale-up networking and bring its next generation of products to market, alongside the launch of Active Compute Fabric — an open architecture that puts programmable compute into both scale-up and scale-out AI/HPC fabrics. TechCrunch and the company release identify IAG Capital Partners as the lead; IAG partner Joel Whitley is quoted in the Business Wire.",
+        "Active Compute Fabric combines lossless transport, in-fabric acceleration, and programmable compute so the network can operate on data in transit and offload collective operations, using open standards including UALink and ESUN for scale-up and Ultra Ethernet for scale-out. Cornelis, which spun out of Intel in 2020, said CN5000 is shipping and CN6000 is sampling with customers ahead of broader availability expected in the fourth quarter of 2026.",
+        "Qualcomm Technologies will join Cornelis at AI Infra Summit: Tony Pialis, EVP and GM of Data Center, is set to appear with CEO Lisa Spelman during her Sept. 15 keynote on networking’s role in rack-scale AI economics. No valuation or full investor syndicate beyond the IAG lead was disclosed in the company materials."
       ]
     },
     {
