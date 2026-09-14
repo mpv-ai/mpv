@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 86,
+  "number": 87,
   "city": "New York",
-  "date": "Friday, September 11, 2026",
-  "editionLabel": "Night",
+  "date": "Monday, September 14, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart quotes (Fri Sep 11 cash close)",
-    "updated": "Sep 11, ~7:50 p.m. ET — US cash close (unchanged vs No. 85)",
-    "line": "S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%)"
+    "source": "CNBC Quote Cache (Tradeweb yields; equities)",
+    "updated": "Sep 14, ~9:54 a.m. ET — US regular session",
+    "line": "S&P 7,615.26 (−0.54%) · 10-year 4.992% · 30-year 5.363% · SOX 11,216.88 (−5.14%) · NVDA $210.75 (−3.46%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Night: Google–Mechanize talent close (terms TBD); cash-close tape unchanged.",
+    "hed": "Morning: SoftBank $11.87B OpenAI facility; SOX/NVDA hard open.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 86 Night. ADD google-mechanize (BI: Google completed Mechanize talent deal; Besiroglu → DeepMind; 12+ staff midtraining; Assadi now CEO; final terms undisclosed — do not print prior $1.5B+ talks as closed price) as lead → Quill. Demoted tribal-main (still on plate). Yahoo cash close UNCHANGED vs No. 85: S&P 7,656.98 (+0.86%) · 10-year 4.975% · 30-year 5.354% · SOX 11,824.00 (+1.81%) · NVDA $218.29 (−0.03%). Declined: KKR–Integer $2.1B leveraged-loan wrap (Bloomberg paywall / no free primary); FFL–Waylin (terms undisclosed, prior decline); OpenAI Altman “open to slowing” (Bloomberg via Reuters people-familiar soft color); Xapien $56M / Cohere talks / Fluidstack Pentagon loan talks. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
+    "body": "Vol. 1 No. 87 Morning. ADD softbank-openai-1187 (Bloomberg people-familiar $11.87B two-year facility ~20 banks; SoftBank declined comment; pair SoftBank IR Sep 9 $25.9B Sep 15 bridge prepay; shares as much as −13% Mon) as lead → Quill. ADD tandem-health-b (company $100M Series B Scaleup Europe/EQT; no valuation) → Quill. Demoted google-mechanize (still on plate). CNBC ~9:54 a.m. ET tape: S&P 7,615.26 (−0.54%) · 10-year 4.992% · 30-year 5.363% · SOX 11,216.88 (−5.14%) · NVDA $210.75 (−3.46%). Declined: Temporal Series E (NYSE advisory only; no company primary — Series D still last company print); OpenAI–Windsor $3B (garbled Windsurf/2025); Z.ai “completes” $5B (TechNode/21Jingji thin secondary of already-on-plate zai-hk-5b launch); Medallia Aug recap; Aeon €12M seed. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Google–Mechanize talent deal completed (final $ undisclosed). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI; MVL if completes. SpaceX ~$1.11B/mo hosting still on plate (customer TBD). UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (not closed). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. Ayar Labs Series E extension printed. Microsoft >38 GW people-familiar OPEN. DOJ–Nvidia–Groq probe OPEN. China AI-chip HBM hikes OPEN."
+    "line": "SoftBank $11.87B OpenAI facility + Sep 15 $25.9B bridge prepay. Tandem Health $100M Series B (no valuation). Google–Mechanize talent close still on plate (terms TBD). Main Capital–Tribal ~£189.3M conditional — GM Oct. 2 + NSI. SpaceX ~$1.11B/mo hosting still on plate. UAE 5 GW redesign + €40B Germany DC package still on plate. Blackstone–FCH definitive (terms TBD; Q4). Celestica CFO Oct. 1. TeamSystem minority sale still on plate. Enflame STAR debut printed. August CPI printed — Sept. 15–16 FOMC next. Moonshot ARR people-familiar — HK IPO watch OPEN. Z.AI ~$5B HK placement+CB launched (completion secondary only). Motive >$1.3B GC — S-1 withdrawn. DeepSeek V4.1-Flash live — $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN."
   },
   "sections": [
     "All",
@@ -29,8 +29,55 @@
   ],
   "stories": [
     {
-      "id": "google-mechanize",
+      "id": "softbank-openai-1187",
       "lead": true,
+      "section": "Finance",
+      "kicker": "Debt / OpenAI",
+      "hed": "SoftBank seals $11.87B two-year facility for OpenAI push; ~20 banks",
+      "dek": "Bloomberg people-familiar Sep 14. Upsized from $10B target; SoftBank declined comment. Pair Sep 9 IR: $25.9B OpenAI bridge prepay due Sep 15. Shares as much as −13% Mon (Japan Times/Bloomberg).",
+      "date": "Sept. 14, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push",
+      "also": [
+        {
+          "label": "SoftBank IR — early repayment",
+          "url": "https://group.softbank/en/news/press/20260909"
+        },
+        {
+          "label": "Japan Times (Bloomberg)",
+          "url": "https://www.japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / OpenAI debt as Morning lead (Bloomberg Janice Huang Sep 14 ~1:42 AM UTC + SoftBank IR Sep 9). Stick to: SoftBank Group sealed an $11.87B two-year facility last week to support its OpenAI investment, up from a $10B target; ~20 banks committed; SoftBank declined comment (people-familiar — not company primary on the new facility). PRIMARY free rewrite also at Japan Times. PAIR company IR Sep 9: SBG will prepay entire outstanding USD 25.9B under the Mar 27, 2026 OpenAI bridge (facility USD 40.0B; USD 30.0B drawn to date) on Sep 15, 2026. Market color (Japan Times/Bloomberg): SoftBank shares tumbled as much as 13% Monday (most since Jul 17); Altman Fortune interview color that OpenAI would not IPO this year amid safety concerns is CONTEXT for the selloff — do not invent IPO terms. Secondary Bloomberg color OK if labeled: $10B margin loan on OpenAI stake; potential $10–20B USD junk-bond soundings this week in NY; ~$65B OpenAI by Oct; ~$37B raised YTD bonds+loans incl. this facility (Bloomberg-compiled). Do NOT invent bank names, coupon, or facility docs. Demote google-mechanize (keep on plate). Owner Quill.",
+      "grafs": [
+        "SoftBank Group sealed an $11.87 billion two-year loan facility last week to support its OpenAI investment, up from an earlier $10 billion target, Bloomberg reported Sept. 14 citing people familiar with the matter. About 20 banks committed; SoftBank declined to comment.",
+        "The borrowing sits beside SoftBank’s Sept. 9 company notice that it will prepay the entire outstanding $25.9 billion balance of its $40 billion OpenAI bridge facility on Sept. 15 (of which $30 billion had been drawn). SoftBank shares tumbled as much as 13% Monday in Tokyo, the most since July 17, Japan Times reported via Bloomberg, as investors also digested OpenAI CEO Sam Altman’s remarks that the company would not pursue a 2026 IPO while addressing safety concerns.",
+        "Bloomberg said the new facility adds to SoftBank’s recent OpenAI-linked debt stack, including a $10 billion margin loan backed by its OpenAI stake and soundings for a potential $10–20 billion U.S. dollar junk-bond sale. SoftBank is slated to put close to $65 billion into OpenAI by October; Bloomberg-compiled data put year-to-date SoftBank bond-and-loan fundraising at about $37 billion including this facility."
+      ]
+    },
+    {
+      "id": "tandem-health-b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Healthtech",
+      "hed": "Tandem Health raises $100M Series B led by EQT’s Scaleup Europe Fund",
+      "dek": "Company Sep 14. First healthcare AI back by the fund; Kinnevik, Northzone, Amino Collective, Visionaries follow. Total funding $160M after $50M Series A. No valuation printed.",
+      "date": "Sept. 14, 2026",
+      "source": "Tandem Health",
+      "url": "https://tandemhealth.ai/resources/news/tandem-health-raises-100m-to-bring-european-healthcare-into-the-ai-era-led-by-the-scaleup-europe-fund-managed-by-eqt",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / European healthtech funding as Morning companion (company primary Sep 14). Stick to company: Stockholm Tandem Health raised $100M Series B led by Scaleup Europe Fund managed by EQT — fund’s first healthcare investment; existing Kinnevik, Northzone, Amino Collective, Visionaries participating; follows $50M Series A in 2025; total funding $160M. Use of proceeds: accelerate AI adoption across European healthcare; expand from AI Medical Assistant to AI-native Clinic Operating System; double down across European markets. Company claims: used by 10,000 care organisations across 14 European markets; integrated with >130 medical record systems; three Class IIa MDR certifications in past six months. Do NOT invent valuation, post-money, or ownership %. Owner Quill.",
+      "grafs": [
+        "Stockholm healthtech Tandem Health raised $100 million in Series B funding led by the Scaleup Europe Fund managed by EQT, the company said Sept. 14, calling it the fund’s first healthcare AI investment.",
+        "Existing backers Kinnevik, Northzone, Amino Collective, and Visionaries are participating. The round follows a $50 million Series A in 2025 and brings Tandem’s total funding to $160 million. The company did not disclose a valuation.",
+        "Tandem said proceeds will accelerate AI adoption across European healthcare as it expands from an AI Medical Assistant toward an AI-native Clinic Operating System and deepens presence across 14 European markets. It said it is used by 10,000 care organisations and integrated with more than 130 medical-record systems."
+      ]
+    },
+    {
+      "id": "google-mechanize",
+      "lead": false,
       "section": "AI",
       "kicker": "Talent / Aquihire",
       "hed": "Google completes Mechanize talent deal; Besiroglu joins DeepMind",
