@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 94,
+  "number": 95,
   "city": "New York",
-  "date": "Monday, September 14, 2026",
-  "editionLabel": "Evening",
+  "date": "Tuesday, September 15, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 14, ~6:57 p.m. ET — US regular session closed; tape unchanged vs Close",
-    "line": "S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%)"
+    "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
+    "updated": "Sep 15, ~8:53 a.m. ET — premarket; cash equities still Mon regular close",
+    "line": "S&P 7,619.98 (−0.48% Mon) · ES ≈7,686 (−0.09%) · 10-year 5.000% · 30-year 5.374% · SOX 11,131.28 (−5.86% Mon) · NVDA $210.96 (−3.36% Mon)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Evening: Cornelis $205M AI networking add; cash-close tape unchanged.",
+    "hed": "Morning: EUCLYD >€200M Series A lead; Exein $270M; SoftBank $25.9B prepay day.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 94 Evening. One add vs No. 93 Close: cornelis-205 (company Business Wire Sep 14 — ~$205M funding led by IAG Capital Partners; Active Compute Fabric scale-up/out + Qualcomm AI Infra Summit collab; no valuation). Yahoo cash-close tape unchanged: S&P 7,619.98 (−0.48%) · 10-year 4.961% · 30-year 5.329% · SOX 11,131.28 (−5.86%) · NVDA $210.96 (−3.36%). Lead remains baldwin-dfo-77. Declined this hour: OpenAI–Glass Imaging (WSJ people-familiar >$300M; OpenAI no comment — soft, same as Close); Superhuman–Fathom notetaker M&A (TechCrunch — below plate bar); Collective Compass advisor product launch (PR — below bar). SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). HF $12.9B CLOSED (nvidia-hf)."
+    "body": "Vol. 1 No. 95 Morning. Three adds vs No. 94 Evening: euclyd-200 (company PR Newswire Sep 15 — Series A >€200M co-led Samsung / Somerset / EQT Scaleup / Innovation Industries; Wennink chair; no valuation; CNBC ~$230–231M), exein-270 (Tech.eu/StartupBusiness/Trending Topics Sep 15 — $270M at $1.7B Headline-led Physical AI cyber; company $270M blog not yet live), softbank-259-prepay (company Sep 9 schedule — entire $25.9B OpenAI bridge balance prepaid today). Yahoo premarket tape: cash S&P/SOX/NVDA still Mon close; ES ≈7,686 (−0.09%); 10-year 5.000% / 30-year 5.374% (vs Mon 4.961% / 5.329%). Lead flips to euclyd-200; baldwin-dfo-77 remains on plate. Declined: AlphaPai $50M Series B (below bar); Sierra $350M/$10B aggregator recycle (Sep 2025); Reuters AI-spend nervousness / Fortress private-credit FOMO (color). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). HF $12.9B CLOSED (nvidia-hf). FOMC Sep 15–16 ahead."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. PSG Europe III >€4.4B (~$5.1B) people-familiar. Transformation Capital Fund IV $850M hard-cap close. Firmus ASX IPO up to $5B people-familiar (Oct launch) — company declined. Kaiko Series B to $110M (S&P Global-led). Anthropic Nasdaq + adj. op. profit 2Q streak people-familiar. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. SoftBank Sep 15 $25.9B OpenAI bridge prepay still ahead; $11.87B facility still on plate. August CPI printed — Sept. 15–16 FOMC next. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window. Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate settlement wire yet; $11.87B facility still on plate. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -29,8 +29,92 @@
   ],
   "stories": [
     {
-      "id": "baldwin-dfo-77",
+      "id": "euclyd-200",
       "lead": true,
+      "section": "AI",
+      "kicker": "Funding / Chips",
+      "hed": "EUCLYD closes >€200M Series A; Samsung and EQT Scaleup co-lead",
+      "dek": "Company/PR Newswire Sep 15. Co-led by Samsung, Somerset Capital Partners, EQT-managed Scaleup Europe Fund, Innovation Industries. Peter Wennink (ex-ASML CEO) named Chairman. No valuation disclosed. CNBC: ~$230–231M / €200M.",
+      "date": "Sept. 15, 2026",
+      "source": "EUCLYD / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/euclyd-raises-over-200-million-to-break-the-ai-efficiency-wall-302878020.html",
+      "also": [
+        {
+          "label": "PR Newswire UK",
+          "url": "https://www.prnewswire.co.uk/news-releases/euclyd-raises-over-200-million-to-break-the-ai-efficiency-wall-302878043.html"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / chip Series A as Morning lead (company PR Newswire Sep 15). PRIMARY: https://www.prnewswire.com/news-releases/euclyd-raises-over-200-million-to-break-the-ai-efficiency-wall-302878020.html. Stick to company: Eindhoven-based EUCLYD signed a Series A of more than €200 million; co-led by Samsung, Somerset Capital Partners, Scaleup Europe Fund (managed by EQT), and Innovation Industries; participants EIFO, imec.xpand, BOM, Quadri; Peter Wennink (former ASML President & CEO) joins as Chairman. Platform: craftwerk (agentic AI silicon) + craftwerk station CWS; inference efficiency / memory co-design thesis. CNBC exclusive with CEO Bernardo Kastrup frames ~$230–231M and says commercial chip-system rollout targeted 2028 — cite as CNBC, not invent company valuation. No valuation in company PR.",
+      "grafs": [
+        "EUCLYD said Sept. 15 it has signed a Series A financing round of more than €200 million, co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund managed by EQT, and Innovation Industries, with participation from EIFO, imec.xpand, Brabant Development Agency (BOM), and Quadri.",
+        "Peter Wennink, former President & CEO of ASML, joins as Chairman. The Eindhoven company is building inference-focused silicon and systems (craftwerk / craftwerk station CWS) aimed at power, memory bandwidth, and cost-per-token constraints in foundation-model deployment; proceeds expand engineering, roadmap, partnerships, and commercial prep across enterprise, sovereign, and hyperscale markets.",
+        "CNBC, citing CEO Bernardo Kastrup, put the round at about $230–231 million on a €200 million Series A and said EUCLYD aims to begin rolling out physical chip systems in 2028. Company PR does not disclose a valuation."
+      ]
+    },
+    {
+      "id": "exein-270",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Funding / Physical AI",
+      "hed": "Exein raises $270M at $1.7B for Physical AI cybersecurity; Headline leads",
+      "dek": "Tech.eu / StartupBusiness / Trending Topics Sep 15. Series C; Sofina, Goldman Sachs, EIB ETCI, KfW Capital, T.Capital; prior Intrepid Growth, Balderton, HV, Lakestar et al. J.P. Morgan RCF upsized; KfW joins.",
+      "date": "Sept. 15, 2026",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/09/15/exein-raises-270m-at-1-7b-valuation-claims-title-of-europe-s-most-valuable-cybersecurity-scaleup/",
+      "also": [
+        {
+          "label": "StartupBusiness",
+          "url": "https://www.startupbusiness.it/en/exein-secures-a-270-million-funding-round-and-is-valued-at-1-7-billion/197170/"
+        },
+        {
+          "label": "Trending Topics",
+          "url": "https://www.trendingtopics.eu/exein-a-startup-from-rome-raises-270-million-and-becomes-a-physical-ai-unicorn/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / Physical AI cyber funding as Morning companion. PRIMARY secondary coverage (company blog post for $270M not yet on exein.io at check): https://tech.eu/2026/09/15/exein-raises-270m-at-1-7b-valuation-claims-title-of-europe-s-most-valuable-cybersecurity-scaleup/. Stick to consistent outlets: Rome-based Exein announced $270 million new funding at a $1.7 billion valuation; Headline leads; Sofina, Goldman Sachs, EIB Group via ETCI, KfW Capital, T.Capital (Deutsche Telekom) participate; prior Balderton, HV, Intrepid Growth Partners, 33N, Lakestar, Supernova Invest, Blue Cloud Ventures, Geodesic Capital; oversubscribed; existing J.P. Morgan-led RCF upsized with KfW joining. Photon runtime + Physical AI foundation-model roadmap. Do not use LavX investor list (conflicts). Cross-link intrepid-525 already on plate.",
+      "grafs": [
+        "Exein, the Rome-based Physical AI cybersecurity company, announced Sept. 15 a $270 million funding round at a $1.7 billion valuation, with Headline leading and participation from Sofina, Goldman Sachs, the European Investment Bank Group through ETCI, KfW Capital, and T.Capital, plus prior investors including Balderton, HV, Intrepid Growth Partners, 33N Ventures, Lakestar, Supernova Invest, Blue Cloud Ventures, and Geodesic Capital.",
+        "Coverage says the round was significantly oversubscribed and that Exein’s existing revolving credit facility led by J.P. Morgan is being upsized, with KfW joining as an additional lender. The company is building Photon runtime security and a proprietary foundation model trained on machine telemetry across more than two billion devices.",
+        "Proceeds accelerate US and APAC expansion, including planned Bay Area hiring; H1 2026 ARR was cited as up 4× year on year in Tech.eu / Trending Topics coverage. Company $270M blog post was not yet live on exein.io at Scout check — package from Tech.eu + StartupBusiness + Trending Topics."
+      ]
+    },
+    {
+      "id": "softbank-259-prepay",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "OpenAI / Credit",
+      "hed": "SoftBank prepays $25.9B OpenAI bridge balance today (Sep 15)",
+      "dek": "Company Sep 9: entire outstanding USD 25.9B (~¥3,981.9B at ¥153.74) under Mar 27 OpenAI bridge to be prepaid Sep 15; lenders notified. Facility $40B total; $30B drawn to date.",
+      "date": "Sept. 15, 2026",
+      "source": "SoftBank Group",
+      "url": "https://group.softbank/en/news/press/20260909",
+      "also": [
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/softbank-to-repay-40-billion-bridge-loan-for-openai-stake"
+        },
+        {
+          "label": "MarketScreener / DJ",
+          "url": "https://au.marketscreener.com/news/softbank-group-to-repay-25-9-billion-bridge-loan-balance-ce785bd9da8df322"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / OpenAI credit as Morning companion on scheduled prepay day. PRIMARY: https://group.softbank/en/news/press/20260909 (Sep 9 company release). Stick to company: SoftBank Group decided to prepay on September 15, 2026 the entire outstanding balance of USD 25.9 billion (~JPY 3,981.9 billion at USD=JPY 153.74) under the bridge facility announced Mar 27, 2026 primarily for OpenAI follow-on investments, and notified lenders. Bridge total facility USD 40.0 billion; aggregate USD 30.0 billion drawn to date. Do not invent post-settlement confirmation beyond the company schedule; pair with softbank-openai-1187 ($11.87B two-year facility) already on plate.",
+      "grafs": [
+        "SoftBank Group said Sept. 9 it would prepay, on September 15, 2026, the entire outstanding USD 25.9 billion balance (about ¥3,981.9 billion at ¥153.74 per dollar) under its March 27 bridge facility used primarily for OpenAI follow-on investments, and that lenders had been notified.",
+        "The bridge facility totals USD 40.0 billion, of which an aggregate USD 30.0 billion had been drawn as of the Sept. 9 notice. The scheduled prepay lands today on the Morning plate alongside SoftBank’s separate ~$11.87 billion two-year facility already covered as softbank-openai-1187.",
+        "Scout has no separate same-day settlement press beyond the Sept. 9 schedule — package as company-dated prepay day, not an invented cash-transfer confirmation."
+      ]
+    },
+    {
+      "id": "baldwin-dfo-77",
+      "lead": false,
       "section": "Finance",
       "kicker": "M&A / Insurance",
       "hed": "Sequence + Dell’s DFO to take Baldwin private in ~$7.7B deal",
