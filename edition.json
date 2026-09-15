@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 95,
+  "number": 96,
   "city": "New York",
   "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~8:53 a.m. ET — premarket; cash equities still Mon regular close",
-    "line": "S&P 7,619.98 (−0.48% Mon) · ES ≈7,686 (−0.09%) · 10-year 5.000% · 30-year 5.374% · SOX 11,131.28 (−5.86% Mon) · NVDA $210.96 (−3.36% Mon)"
+    "updated": "Sep 15, ~10:11 a.m. ET — cash equities open",
+    "line": "S&P 7,593.02 (−0.35%) · ES ≈7,674 (−0.25%) · 10-year 5.004% · 30-year 5.376% · SOX 11,253.30 (+1.10%) · NVDA $212.68 (+0.82%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Morning: EUCLYD >€200M Series A lead; Exein $270M; SoftBank $25.9B prepay day.",
+    "hed": "Mid-Morning: Grab–Atome $1.49B lead; Qupital $300M; GS Alternatives $11.7B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 95 Morning. Three adds vs No. 94 Evening: euclyd-200 (company PR Newswire Sep 15 — Series A >€200M co-led Samsung / Somerset / EQT Scaleup / Innovation Industries; Wennink chair; no valuation; CNBC ~$230–231M), exein-270 (Tech.eu/StartupBusiness/Trending Topics Sep 15 — $270M at $1.7B Headline-led Physical AI cyber; company $270M blog not yet live), softbank-259-prepay (company Sep 9 schedule — entire $25.9B OpenAI bridge balance prepaid today). Yahoo premarket tape: cash S&P/SOX/NVDA still Mon close; ES ≈7,686 (−0.09%); 10-year 5.000% / 30-year 5.374% (vs Mon 4.961% / 5.329%). Lead flips to euclyd-200; baldwin-dfo-77 remains on plate. Declined: AlphaPai $50M Series B (below bar); Sierra $350M/$10B aggregator recycle (Sep 2025); Reuters AI-spend nervousness / Fortress private-credit FOMO (color). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). HF $12.9B CLOSED (nvidia-hf). FOMC Sep 15–16 ahead."
+    "body": "Vol. 1 No. 96 Mid-Morning. Three adds vs No. 95 Morning: grab-atome (MAJOR — Grab company PR Sep 15 — 60% of Atome Financial / Neuroncredit for $1.49B cash incl. $0.26B primary; Phase 2 40% framework; 2028 Adj. EBITDA $1.7B revise), qupital-300 (company PR Newswire Sep 13 — US$300M Series C + MUFG/Quester ABS; no valuation), gs-pe-117 (Reuters Sep 15 citing GS statement — $11.7B across WSCP IX $9.6B / Asia $1.6B / co-invest $500M; AUS $459B). Yahoo cash-open tape refreshes Mon-close prints from No. 95. Lead flips to grab-atome; euclyd-200 demoted. SoftBank $25.9B prepay still schedule-only (softbank-259-prepay) — no separate settlement wire. Declined: Profound $180M/$1.8B Series D (Bloomberg “plans to announce”; no tryprofound.com Series D post yet); AlphaPai $50M Series B (below bar); optional arXiv llm-fin-sim / insur-fm (plate space). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B). HF CLOSED. FOMC Sep 15–16 ahead."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window. Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate settlement wire yet; $11.87B facility still on plate. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate as grab-atome). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate settlement wire yet; $11.87B facility still on plate. Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -29,8 +29,75 @@
   ],
   "stories": [
     {
-      "id": "euclyd-200",
+      "id": "grab-atome",
       "lead": true,
+      "section": "Finance",
+      "kicker": "M&A / Fintech",
+      "hed": "Grab to buy 60% of Atome Financial for $1.49B cash",
+      "dek": "Company Sep 15. Controlling stake in Neuroncredit (Atome Financial / AIGL); $0.26B primary growth capital; close guided Q3 2027 subject to regs. Phase 2 remaining 40% ~2 years later on 13.0x adj. EBITDA / 2.5x revenue framework; equity floor $2.0B / cap $4.5B. Revises 2028 Adj. EBITDA to $1.7B.",
+      "date": "Sept. 15, 2026",
+      "source": "Grab",
+      "url": "https://www.grab.com/sg/press/others/grab-to-acquire-majority-stake-in-atome-financial-accelerating-growth-and-profitability-of-financial-services-segment/",
+      "also": [
+        {
+          "label": "Webcast (Sep 15 20:00 SGT / 08:00 ET)",
+          "url": "https://grab.zoom.us/j/95608437671?pwd=jxsJTEQiPz3v3EwbAjZtb1FdbyXnRw.1"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / SEA fintech M&A as Mid-Morning MAJOR lead (company Grab PR Sep 15). PRIMARY: https://www.grab.com/sg/press/others/grab-to-acquire-majority-stake-in-atome-financial-accelerating-growth-and-profitability-of-financial-services-segment/. Stick to Grab: definitive agreements for Grab to acquire controlling 60% equity interest in Neuroncredit Pte. Ltd. (Atome Financial), digital FS platform of Advance Intelligence Group Limited (AIGL), for $1.49B cash of which $0.26B is primary growth capital (Phase 1); expected complete by Q3 2027 subject to regulatory approvals and customary conditions; Phase 2 remaining 40% ~two years after Phase 1 close on pre-agreed valuation framework (13.0x annualized adj. EBITDA + 2.5x annualized Revenue, 75%/25% on trailing six months) with equity floor $2.0B / cap $4.5B and ≥50% Phase 2 consideration in cash. Atome operates SG/MY/PH/ID/TH; 25M cumulative transacted users; >30k brands; ~$1B gross loan portfolio as of Jun 30, 2026 (unaudited). Funded from existing Grab cash; accretive to Group Adj. EBITDA on completion; revises Group 2028 Adj. EBITDA target to $1.7B and >30% Group revenue CAGR 2025–2028; Atome + FS Segment Adj. EBITDA $500M by 2028 / combined gross loan portfolio >$6B subject to close timing. AIGL backed by SoftBank Vision Fund 2, Warburg Pincus, Ares, EDBI — do NOT invent SoftBank stake % in Atome, Phase 1 EV multiple, or closed Phase 2 $. Webcast Sep 15 20:00 SGT / 08:00 ET. Demote euclyd-200 to lead:false.",
+      "grafs": [
+        "Grab Holdings said Sept. 15 it has entered definitive agreements to acquire a controlling 60% equity interest in Neuroncredit Pte. Ltd. (Atome Financial), the digital financial services platform of Advance Intelligence Group Limited, for $1.49 billion in cash, of which $0.26 billion is primary growth capital.",
+        "Phase 1 is expected to complete by the third quarter of 2027, subject to regulatory approvals and customary closing conditions. Grab has also agreed to buy the remaining 40% about two years after Phase 1 closes under a performance-tied framework of 13.0× annualized adjusted EBITDA and 2.5× annualized revenue (75%/25% weights on the trailing six months), with an equity valuation floor of $2.0 billion and a cap of $4.5 billion, and at least half of Phase 2 consideration in cash.",
+        "Atome Financial operates in Singapore, Malaysia, the Philippines, Indonesia and Thailand, with 25 million cumulative transacted users, more than 30,000 brands, and an unaudited gross loan portfolio of about $1 billion as of June 30, 2026. Grab said the deal is funded from existing cash and, subject to closing timing, expects Atome plus the rest of Financial Services to deliver $500 million of Segment Adjusted EBITDA and a combined gross loan portfolio over $6 billion by 2028, while upgrading Group 2028 Adjusted EBITDA to $1.7 billion and targeting over 30% Group revenue CAGR from 2025 to 2028. AIGL is backed by SoftBank Vision Fund 2, Warburg Pincus, Ares, and EDBI; Grab hosts a webcast today at 20:00 SGT / 08:00 ET."
+      ]
+    },
+    {
+      "id": "qupital-300",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Funding / Trade finance",
+      "hed": "Qupital raises $300M Series C + MUFG ABS; eyes overseas and IPO",
+      "dek": "Company/PR Newswire Sep 13. Combined US$300M: Series C led by M Capital + ABS from MUFG and Quester Capital. AI trade finance; cumulative loans >US$9.5B. No valuation. Margin >45% within 12 months = company expectation only; IPO aspirational.",
+      "date": "Sept. 13, 2026",
+      "source": "Qupital / PR Newswire",
+      "url": "https://www.prnewswire.com/apac/news-releases/qupital-raises-300m-in-series-c-led-by-m-capital-and-new-mufg-abs-financing-eyes-overseas-markets-and-ipo-302876994.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI trade-finance funding as Mid-Morning companion (company PR Newswire Sep 13). PRIMARY: https://www.prnewswire.com/apac/news-releases/qupital-raises-300m-in-series-c-led-by-m-capital-and-new-mufg-abs-financing-eyes-overseas-markets-and-ipo-302876994.html. Stick to company: Hong Kong–based Qupital announced US$300 million in combined new capital commitments anchored by Series C led by M Capital, alongside ABS commitments from Mitsubishi UFJ Financial Group (MUFG) and Quester Capital; AI-driven cross-border e-commerce trade finance; cumulative loans processed >US$9.5B; expand China/US/Japan/SEA; expects profit margins >45% within next twelve months (company expectation — not a verified print); actively exploring capital-market opportunities including IPO, fundraising and strategic acquisition. NO valuation disclosed — do not invent. Prior backers cited in About: Alibaba, MindWorks, Greater Bay Area Homeland Development Fund, ITVF HK.",
+      "grafs": [
+        "Qupital, the Hong Kong–based AI-driven cross-border e-commerce trade-finance platform, said Sept. 13 via PR Newswire that it has raised US$300 million in combined new capital commitments, anchored by a Series C led by M Capital with additional ABS commitments from Mitsubishi UFJ Financial Group (MUFG) and Quester Capital.",
+        "The company said cumulative loans processed have surpassed US$9.5 billion and that proceeds will expand financing capacity across China, the United States, Japan, and Southeast Asia while scaling its proprietary AI risk engine.",
+        "Qupital said it expects profit margins to expand to over 45% within the next twelve months — a company expectation, not an audited print — and that it is actively exploring capital-market paths including an IPO. The release does not disclose a valuation."
+      ]
+    },
+    {
+      "id": "gs-pe-117",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Fundraising",
+      "hed": "Goldman Alternatives raises $11.7B across West Street PE vehicles",
+      "dek": "Reuters Sep 15 citing GS statement: $9.6B West Street Capital Partners IX; $1.6B West Street Asia Equity Partners I; $500M co-invest. AUM $459B as of June 30; $750B by 2030 goal.",
+      "date": "Sept. 15, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/goldman-sachs-asset-arm-raises-117-billion-private-equity-funds-2026-09-15/",
+      "also": [
+        {
+          "label": "Herald Business",
+          "url": "https://biz.heraldcorp.com/article/10874629"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / mega-fund close as Mid-Morning companion. PRIMARY secondary: Reuters Sep 15 citing Goldman Sachs statement — https://www.reuters.com/legal/transactional/goldman-sachs-asset-arm-raises-117-billion-private-equity-funds-2026-09-15/. No goldmansachs.com press release located at Scout check. Stick to Reuters/Herald: Goldman Sachs Alternatives raised $11.7B across latest PE funds/vehicles — $9.6B flagship West Street Capital Partners IX (ninth vintage), $1.6B West Street Asia Equity Partners I, $500M related co-investment vehicles; LPs institutional + HNW North America/Europe/Middle East with significant GS and employee commitments; >1/3 of WSCP IX capital already invested (Michael Bruun to Reuters); Alternatives AUS $459B as of June 30 with goal $750B by end-2030. Herald also quotes Brad Gross on the close. Do not invent hard-cap vs prior vintage size beyond what outlets print.",
+      "grafs": [
+        "Goldman Sachs’ asset-management arm said Tuesday its Alternatives unit has raised $11.7 billion across its latest private-equity funds and related vehicles, Reuters reported, citing a Goldman statement.",
+        "The haul breaks down as $9.6 billion for flagship buyout fund West Street Capital Partners IX, $1.6 billion for Asia-focused West Street Asia Equity Partners I, and $500 million for related co-investment vehicles. WSCP IX is the ninth vintage of the flagship platform; Reuters said capital came from institutional and high-net-worth investors in North America, Europe and the Middle East, with significant commitments from Goldman Sachs and its employees.",
+        "Global co-head of private equity Michael Bruun told Reuters that more than one-third of the capital has already been invested, with a roughly four- to four-and-a-half-year deployment window. Goldman Sachs Alternatives had $459 billion in assets under supervision as of June 30 and aims to reach $750 billion by the end of 2030, Reuters said."
+      ]
+    },
+    {
+      "id": "euclyd-200",
+      "lead": false,
       "section": "AI",
       "kicker": "Funding / Chips",
       "hed": "EUCLYD closes >€200M Series A; Samsung and EQT Scaleup co-lead",
