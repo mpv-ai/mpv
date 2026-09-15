@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 96,
+  "number": 97,
   "city": "New York",
   "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~11:55 a.m. ET — late-morning cash",
-    "line": "S&P 7,584.40 (−0.47%) · ES ≈7,656 (−0.48%) · 10-year 4.987% · 30-year 5.359% · SOX 11,176.49 (+0.41%) · NVDA $212.28 (+0.63%)"
+    "updated": "Sep 15, ~1:38 p.m. ET — midday cash",
+    "line": "S&P 7,582.34 (−0.49%) · ES ≈7,651 (+0.34%) · 10-year 5.016% · 30-year 5.381% · SOX 11,141.30 (+0.09%) · NVDA $211.57 (+0.29%)"
   },
   "deskNote": {
-    "kicker": "Markets / Tape",
-    "hed": "Late Morning tape refresh; Grab–Atome $1.49B still leads. No new plate adds.",
+    "kicker": "Markets / Funding",
+    "hed": "Profound $180M/$1.8B clears company-post bar; Grab–Atome still leads. Midday tape softer on yields.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 96 Late Morning — tape-only refresh vs Mid-Morning (~10:11 a.m. ET). Yahoo late-morning cash: S&P softer (−0.47%), ES ≈7,656, 10-year 4.987% / 30-year 5.359%, SOX cooled to +0.41% from +1.10% open print, NVDA $212.28 (+0.63%). No new story ids since Mid-Morning. Lead remains grab-atome; qupital-300 / gs-pe-117 / euclyd-200 / exein-270 still on plate. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR has no separate Sep 15 settlement wire (latest is Sep 9 decision PR). Declined this hour: Profound $180M/$1.8B Series D (Bloomberg; still no tryprofound.com Series D post); Model ML >$100M talks (Bloomberg people-familiar, not closed); Datavant minority to Neuberger/KKR (company PR — significant minority, New Mountain retains control, close guided Q4 2026; no disclosed equity $ / valuation — below plate bar vs Grab/Qupital/GS). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED. FOMC Sep 15–16 ahead — do not invent a decision."
+    "body": "Vol. 1 No. 97 Midday — one ADD vs Late Morning (~11:55 a.m. ET): profound-180 (company tryprofound.com Series D blog + GlobeNewswire; previously declined pending company post). Lead remains grab-atome. Yahoo midday: S&P 7,582.34 (−0.49%), ES ≈7,651, 10-year 5.016% / 30-year 5.381% (yields up vs Late Morning 4.987%/5.359%), SOX cooled to 11,141 (+0.09%) from Late Morning 11,176 (+0.41%), NVDA $211.57 (+0.29%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: Model ML >$100M talks (Bloomberg people-familiar, not closed); Datavant minority Neuberger/KKR (no disclosed equity $); OpenAI–Glass Imaging (WSJ people-familiar >$300M; OpenAI no company confirm); Carlyle Jason Thomas AI-financing/mortgage interview color; Carlyle–MIT Generative AI consortium (research partnership, below plate bar). FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window (do not invent a print). Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate as grab-atome). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate SoftBank settlement wire yet; $11.87B facility still on plate. Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate SoftBank settlement wire yet. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate). Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -50,6 +50,34 @@
         "Grab Holdings said Sept. 15 it has entered definitive agreements to acquire a controlling 60% equity interest in Neuroncredit Pte. Ltd. (Atome Financial), the digital financial services platform of Advance Intelligence Group Limited, for $1.49 billion in cash, of which $0.26 billion is primary growth capital.",
         "Phase 1 is expected to complete by the third quarter of 2027, subject to regulatory approvals and customary closing conditions. Grab has also agreed to buy the remaining 40% about two years after Phase 1 closes under a performance-tied framework of 13.0× annualized adjusted EBITDA and 2.5× annualized revenue (75%/25% weights on the trailing six months), with an equity valuation floor of $2.0 billion and a cap of $4.5 billion, and at least half of Phase 2 consideration in cash.",
         "Atome Financial operates in Singapore, Malaysia, the Philippines, Indonesia and Thailand, with 25 million cumulative transacted users, more than 30,000 brands, and an unaudited gross loan portfolio of about $1 billion as of June 30, 2026. Grab said the deal is funded from existing cash and, subject to closing timing, expects Atome plus the rest of Financial Services to deliver $500 million of Segment Adjusted EBITDA and a combined gross loan portfolio over $6 billion by 2028, while upgrading Group 2028 Adjusted EBITDA to $1.7 billion and targeting over 30% Group revenue CAGR from 2025 to 2028. AIGL is backed by SoftBank Vision Fund 2, Warburg Pincus, Ares, and EDBI; Grab hosts a webcast today at 20:00 SGT / 08:00 ET."
+      ]
+    },
+    {
+      "id": "profound-180",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Martech",
+      "hed": "Profound raises $180M Series D at $1.8B; Sequoia and Kleiner Perkins lead",
+      "dek": "Company Sep 15 blog + GlobeNewswire. Led by Sequoia Capital and Kleiner Perkins; Lightspeed, Khosla, Saga, Evantic, South Park Commons participate. AI marketing / AEO platform; >2,500 brands; ~1/3 of Fortune 100. Aim (AI Marketer) product.",
+      "date": "Sept. 15, 2026",
+      "source": "Profound",
+      "url": "https://www.tryprofound.com/blog/series-d",
+      "also": [
+        {
+          "label": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/09/15/3362180/0/en/profound-raises-180m-series-d-at-1-8b-valuation-to-build-the-ai-platform-for-marketing-teams.html"
+        },
+        {
+          "label": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / martech Series D as Midday companion (company Profound blog Sep 15 + GlobeNewswire). PRIMARY: https://www.tryprofound.com/blog/series-d. Stick to company: $180M Series D at $1.8B valuation, led by Sequoia Capital and Kleiner Perkins with participation from existing investors Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons; CEO James Cadwallader; AI marketing / Answer Engine Optimization platform and AI Marketer (Aim); company says >2,500 brands and a third of the Fortune 100 use Profound. GlobeNewswire same-day release matches $180M / $1.8B and co-lead framing; Bloomberg exclusive also $180M / $1.8B co-led Sequoia+KP and cumulative >$335M raised — cite secondary for cumulative only if Quill wants it. Do NOT invent ARR, growth rate, or post-money beyond $1.8B. Previously held Mid-Morning / Late Morning pending company post — now cleared.",
+      "grafs": [
+        "Profound, the New York–based AI marketing platform, said Sept. 15 it has raised $180 million in Series D funding at a $1.8 billion valuation, led by Sequoia Capital and Kleiner Perkins, with participation from existing investors Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons.",
+        "In a company blog post, co-founder and CEO James Cadwallader framed the round as fuel to build “the AI platform for marketing,” centered on Answer Engine Optimization and a product called AI Marketer (Aim) that works from shared brand context across marketing teams.",
+        "Profound said more than 2,500 brands, including a third of the Fortune 100, already use the platform. A same-day GlobeNewswire release matches the $180 million / $1.8 billion figures; Bloomberg separately reported the round with the same headline numbers."
       ]
     },
     {
