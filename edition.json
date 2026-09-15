@@ -1,19 +1,19 @@
 {
   "volume": 1,
-  "number": 99,
+  "number": 100,
   "city": "New York",
   "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Close",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~4:24 p.m. ET — late-afternoon cash",
-    "line": "S&P 7,585.73 (−0.45%) · ES ≈7,665 (−0.37%) · 10-year 4.996% · 30-year 5.364% · SOX 11,175.55 (+0.40%) · NVDA $212.17 (+0.57%)"
+    "updated": "Sep 15, ~5:00 p.m. ET — cash close",
+    "line": "S&P 7,585.73 (−0.45%) · ES ≈7,664 (−0.37%) · 10-year 4.996% · 30-year 5.364% · SOX 11,175.55 (+0.40%) · NVDA $212.17 (+0.57%)"
   },
   "deskNote": {
     "kicker": "Markets / AI",
-    "hed": "Factory $200M at $5B catch-up; Grab–Atome still leads.",
+    "hed": "Delos >$100M interconnect catch-up; Grab–Atome still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 99 Late Afternoon — one ADD vs Afternoon (~3:13 p.m. ET plate): factory-200 (company Factory blog Sep 15 — $200M at $5B from Blackstone, Khosla, Sequoia, Insight, Evantic, Sound Ventures, NEA, Mantis, Clearlake; total >$400M; named customers Nvidia/Blackstone/RBC/PANW/Adobe/T-Mobile; WSJ/Reuters secondaries). Lead remains grab-atome. Yahoo late afternoon: S&P 7,585.73 (−0.45%), ES ≈7,665 (−0.37%), 10-year 4.996% / 30-year 5.364% (yields off Afternoon 5.002%/5.368%), SOX 11,175.55 (+0.40%), NVDA $212.17 (+0.57%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR press list still tops out at Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: AlphaPai $50M Series B (company PR; below plate bar vs $100M+ funding strip — Afternoon decline stands); Model ML >$100M talks (still not closed — Midday/Afternoon declines stand); Datavant Neuberger/KKR minority (still no disclosed equity $); Carlyle Jason Thomas AI-financing + Carlyle–MIT consortium (prior declines stand); Fortress Neumark AI-FOMO private-credit interview color; Prevalent AI $22M. FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
+    "body": "Vol. 1 No. 100 Close — two ADDs vs Late Afternoon (~4:24 p.m. ET plate): delos-100 (company Delos Data PR Newswire Sep 15 — >$100M from Matrix, Playground, Socratic, Capricorn Technology Impact Fund, Matter, IAG; Nonstop AI Data Interface / Reference Architecture; Reuters secondary) and artemis-iv-254 (company Artemis PR Newswire Sep 15 — Fund IV final close $254M industrial tech; closed Sep 1; aero/defense/life science/semiconductor; three platforms). Lead remains grab-atome. Yahoo cash close: S&P 7,585.73 (−0.45%), ES ≈7,664 (−0.37%), 10-year 4.996% / 30-year 5.364%, SOX 11,175.55 (+0.40%), NVDA $212.17 (+0.57%) — essentially unchanged vs Late Afternoon. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR press list still tops out at Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: AlphaPai $50M Series B (below bar — prior declines stand); Model ML >$100M talks (still not closed); Datavant Neuberger/KKR minority (no equity $); Carlyle Jason Thomas / Carlyle–MIT (prior declines); Fortress Neumark AI-FOMO color; Prevalent AI $22M; Thatch $108M Series C at $1B (health-benefits ICHRA platform — off core AI/PE/CFO beat); OpenAI–Glass Imaging >$300M (WSJ Sep 14 people-familiar; OpenAI unconfirmed — hold); Suno first CFO Cherry Miao (LinkedIn Sep 14 — soft source / below plate bar). FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
@@ -50,6 +50,53 @@
         "Grab Holdings said Sept. 15 it has entered definitive agreements to acquire a controlling 60% equity interest in Neuroncredit Pte. Ltd. (Atome Financial), the digital financial services platform of Advance Intelligence Group Limited, for $1.49 billion in cash, of which $0.26 billion is primary growth capital.",
         "Phase 1 is expected to complete by the third quarter of 2027, subject to regulatory approvals and customary closing conditions. Grab has also agreed to buy the remaining 40% about two years after Phase 1 closes under a performance-tied framework of 13.0× annualized adjusted EBITDA and 2.5× annualized revenue (75%/25% weights on the trailing six months), with an equity valuation floor of $2.0 billion and a cap of $4.5 billion, and at least half of Phase 2 consideration in cash.",
         "Atome Financial operates in Singapore, Malaysia, the Philippines, Indonesia and Thailand, with 25 million cumulative transacted users, more than 30,000 brands, and an unaudited gross loan portfolio of about $1 billion as of June 30, 2026. Grab said the deal is funded from existing cash and, subject to closing timing, expects Atome plus the rest of Financial Services to deliver $500 million of Segment Adjusted EBITDA and a combined gross loan portfolio over $6 billion by 2028, while upgrading Group 2028 Adjusted EBITDA to $1.7 billion and targeting over 30% Group revenue CAGR from 2025 to 2028. AIGL is backed by SoftBank Vision Fund 2, Warburg Pincus, Ares, and EDBI; Grab hosts a webcast today at 20:00 SGT / 08:00 ET."
+      ]
+    },
+    {
+      "id": "delos-100",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / AI Networking",
+      "hed": "Delos Data raises >$100M for Nonstop AI interconnect silicon",
+      "dek": "Company PR Newswire Sep 15. Matrix, Playground, Socratic, Capricorn Technology Impact Fund, Matter, IAG among backers. Nonstop AI Data Interface + Reference Architecture; Intel-veteran founders Ed Doe / Dan Daly. Reuters secondary.",
+      "date": "Sept. 15, 2026",
+      "source": "Delos Data / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/delos-data-closes-over-100-million-to-deliver-delos-nonstop-ai-for-faster-stronger-more-efficient-ai-capacity-302879199.html",
+      "also": [
+        {
+          "label": "Reuters via CNA",
+          "url": "https://www.channelnewsasia.com/business/delos-data-chip-startup-founded-intel-veterans-raises-100-million-ai-networks-6386386"
+        },
+        {
+          "label": "Product PR (May)",
+          "url": "https://www.prnewswire.com/news-releases/faster-ai-inference-enabled-by-1000x-higher-scale-with-delos-data-nonstop-ai-302782721.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / networking-silicon funding as Close catch-up (company Delos Data PR Newswire Sep 15 ~10:56 a.m. ET — missed on Late Afternoon plate). PRIMARY: https://www.prnewswire.com/news-releases/delos-data-closes-over-100-million-to-deliver-delos-nonstop-ai-for-faster-stronger-more-efficient-ai-capacity-302879199.html. Stick to company: raised over $100 million from Matrix, Playground, Socratic Partners, Capricorn's Technology Impact Fund, Matter Venture Partners, IAG, and industry luminaries; funds to grow software/hardware engineering and accelerate product development and sales; launching Delos Nonstop AI; also announces Nonstop AI Reference Architecture and Nonstop AI Data Interface (company claims 10x lower latency / 10x higher efficiency — attribute as company claim); Data Interface joins Nonstop AI Clusters and Nonstop AI Server; CEO/co-founder Ed Doe; CTO/co-founder Dan Daly; Pat Gelsinger quoted as Playground Global GP. Reuters secondary (via CNA): $100 million; Intel veterans; investors Matrix Partners, Playground, Socratic Partners, Capricorn, Matter Venture Partners, IAG and DYNAMIQ; Gelsinger interview color on idle compute. Do NOT invent Series letter, valuation, ARR, or customer names beyond what company/Reuters state. Owner Quill.",
+      "grafs": [
+        "Delos Data, the Palo Alto AI-networking startup, said Sept. 15 it has raised over $100 million from Matrix, Playground, Socratic Partners, Capricorn's Technology Impact Fund, Matter Venture Partners, IAG, and other industry investors to scale Delos Nonstop AI interconnect hardware and software.",
+        "The company also unveiled its Nonstop AI Reference Architecture and Nonstop AI Data Interface, which it says joins earlier Nonstop AI Clusters and Nonstop AI Server products to move data across mixed GPUs, accelerators, CPUs, memory, and storage for agentic inference — framing the network, not compute alone, as the next chokepoint.",
+        "Co-founders Ed Doe (CEO) and Dan Daly (CTO) said the capital will expand engineering and sales. Reuters separately noted Intel-veteran roots and named DYNAMIQ among investors; former Intel CEO Pat Gelsinger, now a Playground Global general partner, is among the backers quoted in the company release."
+      ]
+    },
+    {
+      "id": "artemis-iv-254",
+      "lead": false,
+      "section": "Private Equity",
+      "kicker": "PE / Fundraise",
+      "hed": "Artemis Capital closes Fund IV at $254M for industrial tech",
+      "dek": "Company PR Newswire Sep 15. Final close Sep 1; aerospace, defense, life science, semiconductor end markets. Three Fund IV platforms acquired to date. Piper Sandler Aviditi placement agent.",
+      "date": "Sept. 15, 2026",
+      "source": "Artemis / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/artemis-announces-final-close-of-artemis-capital-partners-iv-lp-at-over-250-million-302878977.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Private Equity / industrial-tech fundraise as Close companion (company Artemis PR Newswire Sep 15). PRIMARY: https://www.prnewswire.com/news-releases/artemis-announces-final-close-of-artemis-capital-partners-iv-lp-at-over-250-million-302878977.html. Stick to company: Artemis Capital Partners IV, L.P. final commitments $254 million; Fund IV closed Sep 1, 2026; Boston PE focused on Industrial Tech enabling aerospace, defense, life science and semiconductor end markets; three Fund IV platforms acquired to date; CEO James Ward; CIO Euan Milne; Piper Sandler private capital advisory (Aviditi Advisors) sole placement agent; Mintz counsel. Do NOT invent LP names, prior fund sizes, or portfolio company names beyond the three-platforms count. Owner Quill.",
+      "grafs": [
+        "Boston private-equity firm Artemis Capital Partners said Sept. 15 it has completed the final close of Artemis Capital Partners IV, L.P. with $254 million in commitments.",
+        "The firm said Fund IV closed on Sep. 1 and will continue its industrial-tech strategy of buying, building, and realizing platforms that serve aerospace, defense, life science, and semiconductor end markets, with three Fund IV platforms already acquired.",
+        "CEO James Ward and CIO Euan Milne thanked returning and new limited partners. Piper Sandler's Aviditi Advisors was sole placement agent; Mintz served as legal counsel."
       ]
     },
     {
