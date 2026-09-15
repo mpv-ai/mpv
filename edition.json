@@ -3,21 +3,21 @@
   "number": 96,
   "city": "New York",
   "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Late Morning",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~10:11 a.m. ET — cash equities open",
-    "line": "S&P 7,593.02 (−0.35%) · ES ≈7,674 (−0.25%) · 10-year 5.004% · 30-year 5.376% · SOX 11,253.30 (+1.10%) · NVDA $212.68 (+0.82%)"
+    "updated": "Sep 15, ~11:55 a.m. ET — late-morning cash",
+    "line": "S&P 7,584.40 (−0.47%) · ES ≈7,656 (−0.48%) · 10-year 4.987% · 30-year 5.359% · SOX 11,176.49 (+0.41%) · NVDA $212.28 (+0.63%)"
   },
   "deskNote": {
     "kicker": "Markets / Tape",
-    "hed": "Mid-Morning: Grab–Atome $1.49B lead; Qupital $300M; GS Alternatives $11.7B.",
+    "hed": "Late Morning tape refresh; Grab–Atome $1.49B still leads. No new plate adds.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 96 Mid-Morning. Three adds vs No. 95 Morning: grab-atome (MAJOR — Grab company PR Sep 15 — 60% of Atome Financial / Neuroncredit for $1.49B cash incl. $0.26B primary; Phase 2 40% framework; 2028 Adj. EBITDA $1.7B revise), qupital-300 (company PR Newswire Sep 13 — US$300M Series C + MUFG/Quester ABS; no valuation), gs-pe-117 (Reuters Sep 15 citing GS statement — $11.7B across WSCP IX $9.6B / Asia $1.6B / co-invest $500M; AUS $459B). Yahoo cash-open tape refreshes Mon-close prints from No. 95. Lead flips to grab-atome; euclyd-200 demoted. SoftBank $25.9B prepay still schedule-only (softbank-259-prepay) — no separate settlement wire. Declined: Profound $180M/$1.8B Series D (Bloomberg “plans to announce”; no tryprofound.com Series D post yet); AlphaPai $50M Series B (below bar); optional arXiv llm-fin-sim / insur-fm (plate space). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B). HF CLOSED. FOMC Sep 15–16 ahead."
+    "body": "Vol. 1 No. 96 Late Morning — tape-only refresh vs Mid-Morning (~10:11 a.m. ET). Yahoo late-morning cash: S&P softer (−0.47%), ES ≈7,656, 10-year 4.987% / 30-year 5.359%, SOX cooled to +0.41% from +1.10% open print, NVDA $212.28 (+0.63%). No new story ids since Mid-Morning. Lead remains grab-atome; qupital-300 / gs-pe-117 / euclyd-200 / exein-270 still on plate. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR has no separate Sep 15 settlement wire (latest is Sep 9 decision PR). Declined this hour: Profound $180M/$1.8B Series D (Bloomberg; still no tryprofound.com Series D post); Model ML >$100M talks (Bloomberg people-familiar, not closed); Datavant minority to Neuberger/KKR (company PR — significant minority, New Mountain retains control, close guided Q4 2026; no disclosed equity $ / valuation — below plate bar vs Grab/Qupital/GS). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED. FOMC Sep 15–16 ahead — do not invent a decision."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate as grab-atome). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate settlement wire yet; $11.87B facility still on plate. Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window (do not invent a print). Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate as grab-atome). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate SoftBank settlement wire yet; $11.87B facility still on plate. Vista–Finastra early-stage strategic options (MS advising; Blackstone studying) — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar (Yan Wentao / GL Ventures) — $74–75B funding watch still OPEN; CITIC STAR prep still on plate. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close / shareholder+regulatory. Nvidia–Hugging Face $12.93B confirmed (nvidia-hf) — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
