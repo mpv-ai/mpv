@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 97,
+  "number": 98,
   "city": "New York",
   "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~1:38 p.m. ET — midday cash",
-    "line": "S&P 7,582.34 (−0.49%) · ES ≈7,651 (+0.34%) · 10-year 5.016% · 30-year 5.381% · SOX 11,141.30 (+0.09%) · NVDA $211.57 (+0.29%)"
+    "updated": "Sep 15, ~3:13 p.m. ET — afternoon cash",
+    "line": "S&P 7,584.28 (−0.47%) · ES ≈7,658 (−0.45%) · 10-year 5.002% · 30-year 5.368% · SOX 11,166.33 (+0.31%) · NVDA $212.14 (+0.56%)"
   },
   "deskNote": {
-    "kicker": "Markets / Funding",
-    "hed": "Profound $180M/$1.8B clears company-post bar; Grab–Atome still leads. Midday tape softer on yields.",
+    "kicker": "Markets / Funds",
+    "hed": "Radical Breakouts >$1B first close + Flex Axiom Form 10/CFO; Grab–Atome still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 97 Midday — one ADD vs Late Morning (~11:55 a.m. ET): profound-180 (company tryprofound.com Series D blog + GlobeNewswire; previously declined pending company post). Lead remains grab-atome. Yahoo midday: S&P 7,582.34 (−0.49%), ES ≈7,651, 10-year 5.016% / 30-year 5.381% (yields up vs Late Morning 4.987%/5.359%), SOX cooled to 11,141 (+0.09%) from Late Morning 11,176 (+0.41%), NVDA $211.57 (+0.29%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: Model ML >$100M talks (Bloomberg people-familiar, not closed); Datavant minority Neuberger/KKR (no disclosed equity $); OpenAI–Glass Imaging (WSJ people-familiar >$300M; OpenAI no company confirm); Carlyle Jason Thomas AI-financing/mortgage interview color; Carlyle–MIT Generative AI consortium (research partnership, below plate bar). FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
+    "body": "Vol. 1 No. 98 Afternoon — three ADDs vs Midday (~1:38–2:08 p.m. ET plate): radical-breakouts-1b (company PRNewswire first close >$1B late-stage AI VC; Canada’s largest-ever VC fund; named Canadian LP roster); flex-axiom-10 (Axiom name + preliminary Form 10; Nasdaq AXM guided; CPI spin still Q1’27); flex-cfo-schwetz (Amy Schwetz RMS/ITS CFO Oct. 5 → expected Flex CFO post-spin). Lead remains grab-atome. Yahoo afternoon: S&P 7,584.28 (−0.47%), ES ≈7,658 (−0.45%), 10-year 5.002% / 30-year 5.368% (yields off Midday 5.016%/5.381%), SOX 11,166 (+0.31%), NVDA $212.14 (+0.56%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: AlphaPai $50M Series B (company PR; below plate bar vs $100M+ funding strip); Prevalent AI $22M Integrity Growth (below bar); Fortress Neumark AI-FOMO private-credit interview color (Bloomberg Sep 14 / FP syndication); Model ML >$100M talks (still not closed — Midday decline stands); Datavant Neuberger/KKR minority (still no disclosed equity $); Carlyle Jason Thomas AI-financing/mortgage + Carlyle–MIT consortium (Midday declines stand); Carlyle Schwartz Fed-hike TV color. FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate SoftBank settlement wire yet. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate). Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate SoftBank settlement wire yet. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate). Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -78,6 +78,89 @@
         "Profound, the New York–based AI marketing platform, said Sept. 15 it has raised $180 million in Series D funding at a $1.8 billion valuation, led by Sequoia Capital and Kleiner Perkins, with participation from existing investors Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons.",
         "In a company blog post, co-founder and CEO James Cadwallader framed the round as fuel to build “the AI platform for marketing,” centered on Answer Engine Optimization and a product called AI Marketer (Aim) that works from shared brand context across marketing teams.",
         "Profound said more than 2,500 brands, including a third of the Fortune 100, already use the platform. A same-day GlobeNewswire release matches the $180 million / $1.8 billion figures; Bloomberg separately reported the round with the same headline numbers."
+      ]
+    },
+    {
+      "id": "radical-breakouts-1b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Funds / AI Growth",
+      "hed": "Radical Breakouts Fund first-closes >$1B — Canada’s largest-ever VC vehicle",
+      "dek": "Company PRNewswire Sep 15. Late-stage AI scale-ups. Named LPs: PSP, CPP Investments, HOOPP, TD, BMO, CI GAM, OPTrust (+ other globals). Multi-billion strategy; exact final target undisclosed.",
+      "date": "Sept. 15, 2026",
+      "source": "Radical Ventures (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/radical-ventures-announces-the-largest-venture-capital-fund-in-canadian-history-302878409.html",
+      "also": [
+        {
+          "label": "Canada Newswire",
+          "url": "https://www.newswire.ca/news-releases/radical-ventures-announces-the-largest-venture-capital-fund-in-canadian-history-831314550.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / late-stage AI VC as Afternoon catch-up (company PRNewswire Sep 15 ~9:15 a.m. ET; missed on Midday plate). PRIMARY: https://www.prnewswire.com/news-releases/radical-ventures-announces-the-largest-venture-capital-fund-in-canadian-history-302878409.html. Stick to company: first close of Radical Breakouts Fund; largest-ever VC fund in Canada; over US$1 billion in commitments; late-stage strategy for AI scale-ups on path to next trillion-dollar businesses; named investors PSP Investments, CPP Investments, HOOPP, TD Bank Group, BMO Financial Group, CI Global Asset Management, OPTrust, alongside other leading global investors; announced at inaugural Canada Investment Summit (Toronto). Company calls vehicle multi-billion-dollar — do NOT invent hard-cap, final close date, or LP ticket sizes. Portfolio color from PR only if labeled: Discovery Loop, Cohere, Waabi, World Labs, Etched, Crusoe, etc. Owner Quill.",
+      "grafs": [
+        "Radical Ventures said Sept. 15 it has completed the first close of its Radical Breakouts Fund with more than US$1 billion in commitments, calling the late-stage AI vehicle the largest venture-capital fund in Canadian history.",
+        "Named backers include PSP Investments, Canada Pension Plan Investment Board (CPP Investments), HOOPP, TD Bank Group, BMO Financial Group, CI Global Asset Management and OPTrust, alongside other leading global investors, the firm said in a PR Newswire release timed to the Canada Investment Summit in Toronto.",
+        "The firm described Breakouts as a multi-billion-dollar strategy aimed at AI scale-ups that stay private longer and reach public markets already valued at $100 billion or more — but it did not disclose a hard cap, final close timetable, or individual LP commitments.",
+        "Managing Partner Jordan Jacobs said the fund is meant to give Canadian champions a domestic source of late-stage capital at the scale they have historically sought in the United States."
+      ]
+    },
+    {
+      "id": "flex-axiom-10",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Infra / Spin",
+      "hed": "Flex names Axiom for CPI spin, files Form 10; Nasdaq AXM guided",
+      "dek": "Company PRNewswire Sep 15. Cloud and Power Infrastructure spin still Q1’27 subject to Form 10 effectiveness, shareholder and Singapore High Court approval. Companion: Schwetz to Flex CFO path (flex-cfo-schwetz).",
+      "date": "Sept. 15, 2026",
+      "source": "Flex (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/flex-announces-new-company-name-for-the-planned-cloud-and-power-infrastructure-spin-off-and-files-form-10-registration-statement-302878102.html",
+      "also": [
+        {
+          "label": "Flex IR",
+          "url": "https://investors.flex.com/news/news-details/2026/Flex-Announces-Expected-Flex-CFO-and-Board-Composition-for-Flex-and-Axiom-Following-Separation/default.aspx"
+        },
+        {
+          "label": "CFO / boards PR",
+          "url": "https://www.prnewswire.com/news-releases/flex-announces-expected-flex-cfo-and-board-composition-for-flex-and-axiom-following-separation-302878107.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI infra / power spin as Afternoon catch-up (company PRNewswire Sep 15 ~6:06 a.m. ET; Midday skipped for Grab/Profound plate). PRIMARY name+Form 10: https://www.prnewswire.com/news-releases/flex-announces-new-company-name-for-the-planned-cloud-and-power-infrastructure-spin-off-and-files-form-10-registration-statement-302878102.html. Stick to company: unveils Axiom Solutions International, Inc. as name of planned independent Cloud and Power Infrastructure company; preliminary Form 10 filed with SEC; post-spin Axiom expected to trade Nasdaq “AXM”; separation expected Q1 calendar 2027 subject to Flex board approval, Form 10 effectiveness, Flex shareholder and Singapore High Court approval. CEO Revathi Advaithi expected Axiom CEO; quote on power, thermal, compute for AI infrastructure OK if attributed. Do NOT invent float, valuation, or EPC Power close odds — EPC deal remains separate flex-epc. Pair with flex-cfo-schwetz. Owner Quill.",
+      "grafs": [
+        "Flex (Nasdaq: FLEX) said Sept. 15 it has named Axiom Solutions International, Inc. as the future independent Cloud and Power Infrastructure company and filed a preliminary Form 10 registration statement with the U.S. SEC.",
+        "After the planned spin-off, Axiom is expected to trade on Nasdaq under the ticker AXM, Flex said; completion is still guided for the first quarter of calendar 2027, subject to board approval, Form 10 effectiveness, Flex shareholder approval and Singapore High Court approval.",
+        "CEO Revathi Advaithi, who is expected to become Axiom’s CEO, said the business brings together power, thermal management and compute as AI raises demands on physical infrastructure.",
+        "The naming update sits alongside Flex’s still-pending EPC Power acquisition into CPI (flex-epc) and a same-day CFO/board package for the post-separation companies (flex-cfo-schwetz)."
+      ]
+    },
+    {
+      "id": "flex-cfo-schwetz",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Data Center / Spin",
+      "hed": "Flex taps Amy Schwetz for RMS/ITS CFO Oct. 5; expected Flex CFO post-Axiom spin",
+      "dek": "Company PRNewswire Sep 15. Ex-Flowserve/Peabody CFO. Boards named for Flex and Axiom; Oliver/Eubanks join Flex board Sep 24. Separation still Q1’27.",
+      "date": "Sept. 15, 2026",
+      "source": "Flex (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/flex-announces-expected-flex-cfo-and-board-composition-for-flex-and-axiom-following-separation-302878107.html",
+      "also": [
+        {
+          "label": "Flex IR",
+          "url": "https://investors.flex.com/news/news-details/2026/Flex-Announces-Expected-Flex-CFO-and-Board-Composition-for-Flex-and-Axiom-Following-Separation/default.aspx"
+        },
+        {
+          "label": "Axiom name / Form 10 PR",
+          "url": "https://www.prnewswire.com/news-releases/flex-announces-new-company-name-for-the-planned-cloud-and-power-infrastructure-spin-off-and-files-form-10-registration-statement-302878102.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / AI data-center infra spin succession as Afternoon companion to flex-axiom-10. PRIMARY: https://www.prnewswire.com/news-releases/flex-announces-expected-flex-cfo-and-board-composition-for-flex-and-axiom-following-separation-302878107.html. Stick to company: Amy B. Schwetz joins Oct. 5, 2026 as CFO of Regulated Manufacturing Services (RMS) and Integrated Technology Services (ITS) segments and is expected to serve as Flex CFO after CPI/Axiom separation; most recently CFO of Flowserve; previously CFO of Peabody Energy; EY start. Boards: George R. Oliver and Mark Eubanks join Flex board effective Sep 24, 2026 (Eubanks transitions to Axiom board post-separation); Brian Yoor expected Flex board and David Johnson expected Axiom board upon separation. Do not invent compensation or AXM valuation. Owner Quill.",
+      "grafs": [
+        "Flex said Sept. 15 that Amy B. Schwetz will join on Oct. 5, 2026 as chief financial officer of its Regulated Manufacturing Services and Integrated Technology Services segments and is expected to become Flex CFO after the planned Cloud and Power Infrastructure separation.",
+        "Schwetz most recently served as CFO of Flowserve and previously as CFO of Peabody Energy, after beginning her career at Ernst & Young, the company said.",
+        "The same release named expected post-separation boards for Flex and Axiom Solutions International, including George R. Oliver and Mark Eubanks joining the Flex board effective Sept. 24, 2026, with Eubanks slated to move to the Axiom board after the spin.",
+        "Brian Yoor is expected to join the Flex board and David Johnson the Axiom board upon completion of the separation, which Flex still guides for the first quarter of calendar 2027 subject to customary conditions."
       ]
     },
     {
