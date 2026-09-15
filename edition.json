@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 98,
+  "number": 99,
   "city": "New York",
   "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~3:13 p.m. ET — afternoon cash",
-    "line": "S&P 7,584.28 (−0.47%) · ES ≈7,658 (−0.45%) · 10-year 5.002% · 30-year 5.368% · SOX 11,166.33 (+0.31%) · NVDA $212.14 (+0.56%)"
+    "updated": "Sep 15, ~4:24 p.m. ET — late-afternoon cash",
+    "line": "S&P 7,585.73 (−0.45%) · ES ≈7,665 (−0.37%) · 10-year 4.996% · 30-year 5.364% · SOX 11,175.55 (+0.40%) · NVDA $212.17 (+0.57%)"
   },
   "deskNote": {
-    "kicker": "Markets / Funds",
-    "hed": "Radical Breakouts >$1B first close + Flex Axiom Form 10/CFO; Grab–Atome still leads.",
+    "kicker": "Markets / AI",
+    "hed": "Factory $200M at $5B catch-up; Grab–Atome still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 98 Afternoon — three ADDs vs Midday (~1:38–2:08 p.m. ET plate): radical-breakouts-1b (company PRNewswire first close >$1B late-stage AI VC; Canada’s largest-ever VC fund; named Canadian LP roster); flex-axiom-10 (Axiom name + preliminary Form 10; Nasdaq AXM guided; CPI spin still Q1’27); flex-cfo-schwetz (Amy Schwetz RMS/ITS CFO Oct. 5 → expected Flex CFO post-spin). Lead remains grab-atome. Yahoo afternoon: S&P 7,584.28 (−0.47%), ES ≈7,658 (−0.45%), 10-year 5.002% / 30-year 5.368% (yields off Midday 5.016%/5.381%), SOX 11,166 (+0.31%), NVDA $212.14 (+0.56%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: AlphaPai $50M Series B (company PR; below plate bar vs $100M+ funding strip); Prevalent AI $22M Integrity Growth (below bar); Fortress Neumark AI-FOMO private-credit interview color (Bloomberg Sep 14 / FP syndication); Model ML >$100M talks (still not closed — Midday decline stands); Datavant Neuberger/KKR minority (still no disclosed equity $); Carlyle Jason Thomas AI-financing/mortgage + Carlyle–MIT consortium (Midday declines stand); Carlyle Schwartz Fed-hike TV color. FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
+    "body": "Vol. 1 No. 99 Late Afternoon — one ADD vs Afternoon (~3:13 p.m. ET plate): factory-200 (company Factory blog Sep 15 — $200M at $5B from Blackstone, Khosla, Sequoia, Insight, Evantic, Sound Ventures, NEA, Mantis, Clearlake; total >$400M; named customers Nvidia/Blackstone/RBC/PANW/Adobe/T-Mobile; WSJ/Reuters secondaries). Lead remains grab-atome. Yahoo late afternoon: S&P 7,585.73 (−0.45%), ES ≈7,665 (−0.37%), 10-year 4.996% / 30-year 5.364% (yields off Afternoon 5.002%/5.368%), SOX 11,175.55 (+0.40%), NVDA $212.17 (+0.57%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR press list still tops out at Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: AlphaPai $50M Series B (company PR; below plate bar vs $100M+ funding strip — Afternoon decline stands); Model ML >$100M talks (still not closed — Midday/Afternoon declines stand); Datavant Neuberger/KKR minority (still no disclosed equity $); Carlyle Jason Thomas AI-financing + Carlyle–MIT consortium (prior declines stand); Fortress Neumark AI-FOMO private-credit interview color; Prevalent AI $22M. FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — no separate SoftBank settlement wire yet. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate). Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate Sep 15 settlement wire. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate). Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -50,6 +50,34 @@
         "Grab Holdings said Sept. 15 it has entered definitive agreements to acquire a controlling 60% equity interest in Neuroncredit Pte. Ltd. (Atome Financial), the digital financial services platform of Advance Intelligence Group Limited, for $1.49 billion in cash, of which $0.26 billion is primary growth capital.",
         "Phase 1 is expected to complete by the third quarter of 2027, subject to regulatory approvals and customary closing conditions. Grab has also agreed to buy the remaining 40% about two years after Phase 1 closes under a performance-tied framework of 13.0× annualized adjusted EBITDA and 2.5× annualized revenue (75%/25% weights on the trailing six months), with an equity valuation floor of $2.0 billion and a cap of $4.5 billion, and at least half of Phase 2 consideration in cash.",
         "Atome Financial operates in Singapore, Malaysia, the Philippines, Indonesia and Thailand, with 25 million cumulative transacted users, more than 30,000 brands, and an unaudited gross loan portfolio of about $1 billion as of June 30, 2026. Grab said the deal is funded from existing cash and, subject to closing timing, expects Atome plus the rest of Financial Services to deliver $500 million of Segment Adjusted EBITDA and a combined gross loan portfolio over $6 billion by 2028, while upgrading Group 2028 Adjusted EBITDA to $1.7 billion and targeting over 30% Group revenue CAGR from 2025 to 2028. AIGL is backed by SoftBank Vision Fund 2, Warburg Pincus, Ares, and EDBI; Grab hosts a webcast today at 20:00 SGT / 08:00 ET."
+      ]
+    },
+    {
+      "id": "factory-200",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Coding Agents",
+      "hed": "Factory raises $200M at $5B; Blackstone, Khosla, Sequoia among backers",
+      "dek": "Company Sep 15 blog. Total funding >$400M. Also NEA, Insight, Evantic, Sound Ventures, Mantis, Clearlake. Customers named: Nvidia, Blackstone, RBC, Palo Alto Networks, Adobe, T-Mobile. Competes Cognition/Cursor strip.",
+      "date": "Sept. 15, 2026",
+      "source": "Factory",
+      "url": "https://factory.ai/news/5-billion-valuation",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/ai-coding-agent-startup-factory-triples-valuation-5-billion-latest-funding-round-2026-09-15/"
+        },
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / coding-agent funding as Late Afternoon catch-up (company Factory blog Sep 15; WSJ exclusive ~12:00 p.m. ET / Reuters ~2:23 p.m. ET — missed on Afternoon plate). PRIMARY: https://factory.ai/news/5-billion-valuation. Stick to company: $200M financing at $5B valuation from Blackstone, Khosla Ventures, Sequoia Capital, Insight Partners, Evantic Capital, Sound Ventures, NEA, Mantis VC, and Clearlake; total funding >$400M; founded 2023 by Matan Grinberg and Eno Reyes; named enterprise users Nvidia, Blackstone, RBC, Palo Alto Networks, Adobe, T-Mobile; April Factory 2.0 / Factory Router color OK if attributed. Reuters secondary: more than tripled vs prior $1.5B; competes Cognition and Cursor; Coinbase/Block workforce color is Reuters framing not company. WSJ secondary: angels Marc Benioff and Brad Gerstner — cite only if Quill wants angels; company post does not name them. Do NOT invent Series letter, ARR, or growth rate. Owner Quill.",
+      "grafs": [
+        "Factory, the San Francisco AI coding-agent company, said Sept. 15 it has raised $200 million at a $5 billion valuation from Blackstone, Khosla Ventures, Sequoia Capital, Insight Partners, Evantic Capital, Sound Ventures, NEA, Mantis VC, and Clearlake, bringing total funding to more than $400 million.",
+        "Co-founders Matan Grinberg and Eno Reyes framed the round as capital to scale “self-improving software development” for enterprises, with named customers including Nvidia, Blackstone, Royal Bank of Canada, Palo Alto Networks, Adobe, and T-Mobile.",
+        "The company said Factory is used by hundreds of thousands of developers and can run in the cloud, on-premises, or fully air-gapped environments. Reuters separately noted the raise more than triples Factory’s April $1.5 billion valuation and puts it in the same coding-agent race as Cognition and Cursor."
       ]
     },
     {
