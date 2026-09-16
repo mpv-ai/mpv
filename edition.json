@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 100,
+  "number": 101,
   "city": "New York",
-  "date": "Tuesday, September 15, 2026",
-  "editionLabel": "Close",
+  "date": "Wednesday, September 16, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 15, ~5:00 p.m. ET — cash close",
-    "line": "S&P 7,585.73 (−0.45%) · ES ≈7,664 (−0.37%) · 10-year 4.996% · 30-year 5.364% · SOX 11,175.55 (+0.40%) · NVDA $212.17 (+0.57%)"
+    "updated": "Sep 16, ~10:13 a.m. ET — regular session",
+    "line": "S&P 7,603.73 (+0.24%) · ES ≈7,680 (+0.31%) · 10-year 4.971% · 30-year 5.347% · SOX 11,354.08 (+1.60%) · NVDA $214.77 (+1.23%)"
   },
   "deskNote": {
-    "kicker": "Markets / AI",
-    "hed": "Delos >$100M interconnect catch-up; Grab–Atome still leads.",
+    "kicker": "PE / Markets",
+    "hed": "Brookfield–RWC ~US$2.9B SID; Grab–Atome still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 100 Close — two ADDs vs Late Afternoon (~4:24 p.m. ET plate): delos-100 (company Delos Data PR Newswire Sep 15 — >$100M from Matrix, Playground, Socratic, Capricorn Technology Impact Fund, Matter, IAG; Nonstop AI Data Interface / Reference Architecture; Reuters secondary) and artemis-iv-254 (company Artemis PR Newswire Sep 15 — Fund IV final close $254M industrial tech; closed Sep 1; aero/defense/life science/semiconductor; three platforms). Lead remains grab-atome. Yahoo cash close: S&P 7,585.73 (−0.45%), ES ≈7,664 (−0.37%), 10-year 4.996% / 30-year 5.364%, SOX 11,175.55 (+0.40%), NVDA $212.17 (+0.57%) — essentially unchanged vs Late Afternoon. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR press list still tops out at Sep 9 decision PR; no separate Sep 15 settlement wire. Declined this hour: AlphaPai $50M Series B (below bar — prior declines stand); Model ML >$100M talks (still not closed); Datavant Neuberger/KKR minority (no equity $); Carlyle Jason Thomas / Carlyle–MIT (prior declines); Fortress Neumark AI-FOMO color; Prevalent AI $22M; Thatch $108M Series C at $1B (health-benefits ICHRA platform — off core AI/PE/CFO beat); OpenAI–Glass Imaging >$300M (WSJ Sep 14 people-familiar; OpenAI unconfirmed — hold); Suno first CFO Cherry Miao (LinkedIn Sep 14 — soft source / below plate bar). FOMC decision still Wednesday Sep 16 2 p.m. ET — do not invent. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B company-unconfirmed; Anthropic public S-1/MatX; DeepSeek $74–75B). DOJ–Nvidia–Groq OPEN. Vista–Finastra early-stage. HF CLOSED."
+    "body": "Vol. 1 No. 101 Morning Edition — one ADD vs Close (No. 100 / sha 6414413): brookfield-rwc-29 (company RWC ASX SID Sep 16 — Brookfield Capital Partners acquires 100% for US$3.38/share cash ≈A$4.75; ~US$2.9B EV / ~12.1× FY26 post-AASB16 EBITDA; go-shop to Oct 15; BCP VII ≤US$1.5B equity + ≤US$1.65B debt; Q1 2027 target; Reuters secondary). Lead remains grab-atome. Yahoo ~10:13 a.m. ET regular session: S&P 7,603.73 (+0.24%), ES ≈7,680 (+0.31%), 10-year 4.971% / 30-year 5.347%, SOX 11,354.08 (+1.60%), NVDA $214.77 (+1.23%) — material vs Sep 15 cash close (SOX/NVDA bid). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. FOMC decision still today 2 p.m. ET — do not invent. Declined this hour: OpenAI >$1.2T / >$1.5T early funding talks (FT/Bloomberg people-familiar; prior decline stands); Blackstone CFO Chae Barclays/AI-infra color (no new named deal $); City AM UK Private Capital AI-adoption survey (soft); SoftBank $25.9B settlement confirmation (still Sep 9 IR only). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay scheduled today (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate Sep 15 settlement wire. Grab–Atome webcast today 20:00 SGT / 08:00 ET (already on plate). Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window today Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -50,6 +50,30 @@
         "Grab Holdings said Sept. 15 it has entered definitive agreements to acquire a controlling 60% equity interest in Neuroncredit Pte. Ltd. (Atome Financial), the digital financial services platform of Advance Intelligence Group Limited, for $1.49 billion in cash, of which $0.26 billion is primary growth capital.",
         "Phase 1 is expected to complete by the third quarter of 2027, subject to regulatory approvals and customary closing conditions. Grab has also agreed to buy the remaining 40% about two years after Phase 1 closes under a performance-tied framework of 13.0× annualized adjusted EBITDA and 2.5× annualized revenue (75%/25% weights on the trailing six months), with an equity valuation floor of $2.0 billion and a cap of $4.5 billion, and at least half of Phase 2 consideration in cash.",
         "Atome Financial operates in Singapore, Malaysia, the Philippines, Indonesia and Thailand, with 25 million cumulative transacted users, more than 30,000 brands, and an unaudited gross loan portfolio of about $1 billion as of June 30, 2026. Grab said the deal is funded from existing cash and, subject to closing timing, expects Atome plus the rest of Financial Services to deliver $500 million of Segment Adjusted EBITDA and a combined gross loan portfolio over $6 billion by 2028, while upgrading Group 2028 Adjusted EBITDA to $1.7 billion and targeting over 30% Group revenue CAGR from 2025 to 2028. AIGL is backed by SoftBank Vision Fund 2, Warburg Pincus, Ares, and EDBI; Grab hosts a webcast today at 20:00 SGT / 08:00 ET."
+      ]
+    },
+    {
+      "id": "brookfield-rwc-29",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Take-private",
+      "hed": "Brookfield signs SID for Reliance Worldwide at ~US$2.9B EV",
+      "dek": "ASX company Sep 16. US$3.38/share cash (≈A$4.75 at 0.7122); ~12.1× FY26 post-AASB16 EBITDA. Go-shop to Oct 15; US$25.3m break/reverse fees; BCP VII up to US$1.5B equity + US$1.65B debt. Q1 2027 target.",
+      "date": "Sept. 16, 2026",
+      "source": "RWC / ASX",
+      "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0744mp8k0hk0f4.pdf",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/australias-reliance-worldwide-agrees-brookfields-29-billion-buyout-bid-2026-09-16/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / industrial take-private as Morning Edition catch-up (company RWC ASX announcement Sep 16). PRIMARY: https://announcements.asx.com.au/asxpdf/20260916/pdf/0744mp8k0hk0f4.pdf. Stick to company: Reliance Worldwide Corporation Limited (ASX: RWC) entered a scheme implementation deed with a Brookfield Capital Partners LLC affiliate under which Brookfield will acquire 100% of RWC ordinary shares for US$3.38 cash per share by scheme of arrangement; Cash Consideration implies A$4.75 at AUD/USD 0.7122 on 15 Sep 2026; enterprise value approximately US$2.9 billion and implied EV/FY26 EBITDA ~12.1× post-AASB16 (US$2.8B / 12.9× pre-AASB16). Premiums vs undisturbed 17 Aug 2026: ~31.5% last close / 32.7% 3m VWAP / 43.0% 6m VWAP. Path: unsolicited NBOs A$4.15 / A$4.25 / A$4.50 in Apr–May 2026 → improved A$4.75 early Aug → Process Deed 18 Aug with four-week exclusivity → SID signed. Go Shop through 15 Oct 2026 (solicitation of alternatives; matching right). Break fee and reverse break fee each US$25.3m. Funding: Brookfield Capital Partners VII L.P. equity commitment letter up to US$1.5B (dated 15 Sep 2026); debt commitment up to US$1.65B (incl. ABL up to US$300m + term loan US$1.35B). Conditions include FIRB, ACCC, HSR, German/Ukraine competition, shareholder + court approval, Independent Expert (Grant Thornton) best-interests conclusion. Board unanimously recommends in absence of superior proposal and subject to IE. Scheme booklet expected Nov 2026; implementation targeted Q1 2027; ticking fee 0.0263 USD cents/share/day from 1 Apr 2027 if not implemented by 31 Mar 2027. Advisers (company): Goldman Sachs + Oaktower FA; Herbert Smith Freehills Kramer legal. Reuters secondary OK if labeled (shares +7% early then closed ~+3.5% to A$4.48; AustralianSuper/Aware Super ~20.2% — do not invent their vote). Do NOT invent portfolio thesis beyond plumbing/heating SharkBite color from secondary, or closed rival bid $. Keep grab-atome as lead. Owner Quill.",
+      "grafs": [
+        "Reliance Worldwide Corporation (ASX: RWC) said Sept. 16 it has entered a binding scheme implementation deed with a Brookfield Capital Partners affiliate under which Brookfield will acquire 100% of RWC ordinary shares for US$3.38 cash per share — implying about A$4.75 at the Sept. 15 AUD/USD rate of 0.7122 and an enterprise value of approximately US$2.9 billion.",
+        "The cash consideration equates to roughly 12.1× FY26 adjusted EBITDA on a post-AASB16 basis (about 12.9× pre-AASB16) and a roughly 31.5% premium to the undisturbed Aug. 17 close before the Process Deed. Brookfield improved through four approaches (A$4.15 / A$4.25 / A$4.50, then A$4.75). A go-shop runs through Oct. 15, 2026, with matching rights; break and reverse break fees are each US$25.3 million. Funding includes up to US$1.5 billion equity from Brookfield Capital Partners VII L.P. and up to US$1.65 billion committed debt.",
+        "RWC’s board unanimously recommends shareholders vote in favour absent a superior proposal and subject to Grant Thornton concluding the scheme is in shareholders’ best interests. Scheme booklet is expected in November; implementation is targeted for Q1 2027, subject to FIRB, ACCC, HSR and other clearances plus shareholder and court approval. Reuters noted early ASX strength (shares briefly +7%, closing about +3.5%)."
       ]
     },
     {
