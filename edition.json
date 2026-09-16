@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 101,
+  "number": 102,
   "city": "New York",
   "date": "Wednesday, September 16, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Midday Edition",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 16, ~10:13 a.m. ET — regular session",
-    "line": "S&P 7,603.73 (+0.24%) · ES ≈7,680 (+0.31%) · 10-year 4.971% · 30-year 5.347% · SOX 11,354.08 (+1.60%) · NVDA $214.77 (+1.23%)"
+    "updated": "Sep 16, ~11:34 a.m. ET — regular session",
+    "line": "S&P 7,611.66 (+0.34%) · ES ≈7,687 (+0.40%) · 10-year 4.957% · 30-year 5.338% · SOX 11,370.34 (+1.74%) · NVDA $215.90 (+1.76%)"
   },
   "deskNote": {
-    "kicker": "PE / Markets",
-    "hed": "Brookfield–RWC ~US$2.9B SID; Grab–Atome still leads.",
+    "kicker": "AI / Markets",
+    "hed": "Arcee Series B >$1B (Vista co-lead); Grab–Atome still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 101 Morning Edition — one ADD vs Close (No. 100 / sha 6414413): brookfield-rwc-29 (company RWC ASX SID Sep 16 — Brookfield Capital Partners acquires 100% for US$3.38/share cash ≈A$4.75; ~US$2.9B EV / ~12.1× FY26 post-AASB16 EBITDA; go-shop to Oct 15; BCP VII ≤US$1.5B equity + ≤US$1.65B debt; Q1 2027 target; Reuters secondary). Lead remains grab-atome. Yahoo ~10:13 a.m. ET regular session: S&P 7,603.73 (+0.24%), ES ≈7,680 (+0.31%), 10-year 4.971% / 30-year 5.347%, SOX 11,354.08 (+1.60%), NVDA $214.77 (+1.23%) — material vs Sep 15 cash close (SOX/NVDA bid). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. FOMC decision still today 2 p.m. ET — do not invent. Declined this hour: OpenAI >$1.2T / >$1.5T early funding talks (FT/Bloomberg people-familiar; prior decline stands); Blackstone CFO Chae Barclays/AI-infra color (no new named deal $); City AM UK Private Capital AI-adoption survey (soft); SoftBank $25.9B settlement confirmation (still Sep 9 IR only). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
+    "body": "Vol. 1 No. 102 Midday Edition — one ADD vs Morning (No. 101 / sha 6e86aaed): arcee-b (company Arcee blog Sep 16 — Series B led by Vista Equity Partners, Cambium Capital, Emergence Capital; AI10, Hitachi, IAG, M12, P7, Wipro; valuation more than $1B; company silent on $ raised; Fortune Term Sheet secondary ≥$150M people-familiar). Lead remains grab-atome. Yahoo ~11:34 a.m. ET regular session: S&P 7,611.66 (+0.34%), ES ≈7,687 (+0.40%), 10-year 4.957% / 30-year 5.338%, SOX 11,370.34 (+1.74%), NVDA $215.90 (+1.76%) — modest bid vs ~10:13 a.m. line, not a tape-only move. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. FOMC decision still today 2 p.m. ET — do not invent. Declined this hour: Sword Health–Headspace ~$300M (Bloomberg; prior decline); Smartling–Vitruvian majority (PE Hub; terms undisclosed; prior decline); ByteDance Anew Labs $290M (Reuters sources; prior decline); KKR–Logoplaste exclusive talks (Bloomberg people-familiar; packaging / early); Apollo $585M The Executive Centre hybrid financing (statement; off-core); KKR–Neuberger Datavant minority (Fortune Term Sheet; terms undisclosed); Split Pay $125M / Thatch $108M / Nuance Labs $50M (Term Sheet; below plate bar); OpenAI >$1.2T / >$1.5T early funding talks (prior decline); SoftBank $25.9B settlement confirmation (still Sep 9 IR only). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision window today Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "FOMC Sep 15–16 decision window today Wednesday 2 p.m. ET (do not invent a print). SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic Claude for Financial Advisors live — public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Baldwin Sequence–DFO ~$7.7B take-private — Q1 2027 close. Flex CPI→Axiom spin — Form 10 filed; close still Q1’27. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. Arcee Series B company primary on plate — Fortune ≥$150M dollars still people-familiar only."
   },
   "sections": [
     "All",
@@ -74,6 +74,30 @@
         "Reliance Worldwide Corporation (ASX: RWC) said Sept. 16 it has entered a binding scheme implementation deed with a Brookfield Capital Partners affiliate under which Brookfield will acquire 100% of RWC ordinary shares for US$3.38 cash per share — implying about A$4.75 at the Sept. 15 AUD/USD rate of 0.7122 and an enterprise value of approximately US$2.9 billion.",
         "The cash consideration equates to roughly 12.1× FY26 adjusted EBITDA on a post-AASB16 basis (about 12.9× pre-AASB16) and a roughly 31.5% premium to the undisturbed Aug. 17 close before the Process Deed. Brookfield improved through four approaches (A$4.15 / A$4.25 / A$4.50, then A$4.75). A go-shop runs through Oct. 15, 2026, with matching rights; break and reverse break fees are each US$25.3 million. Funding includes up to US$1.5 billion equity from Brookfield Capital Partners VII L.P. and up to US$1.65 billion committed debt.",
         "RWC’s board unanimously recommends shareholders vote in favour absent a superior proposal and subject to Grant Thornton concluding the scheme is in shareholders’ best interests. Scheme booklet is expected in November; implementation is targeted for Q1 2027, subject to FIRB, ACCC, HSR and other clearances plus shareholder and court approval. Reuters noted early ASX strength (shares briefly +7%, closing about +3.5%)."
+      ]
+    },
+    {
+      "id": "arcee-b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Open Models",
+      "hed": "Arcee Series B at >$1B; Vista, Cambium, Emergence co-lead",
+      "dek": "Company Sep 16 blog. Participants: AI10, Hitachi, IAG, M12, P7, Wipro. Amount undisclosed on company post; Fortune exclusive cites ≥$150M people-familiar. Trinity Large 400B MoE ~$20M build cost; DOE / Genesis-Science-1 next.",
+      "date": "Sept. 16, 2026",
+      "source": "Arcee",
+      "url": "https://www.arcee.ai/blog/arcee-ai-raises-series-b-to-build-the-future-of-american-open-models",
+      "also": [
+        {
+          "label": "Fortune Term Sheet",
+          "url": "https://fortune.com/2026/09/16/arcee-ai-trained-four-models-for-20-million-now-its-worth-1-billion/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / open-weight funding as Midday catch-up (company Arcee blog Sep 16; Fortune Term Sheet exclusive ~7:12 a.m. ET). PRIMARY: https://www.arcee.ai/blog/arcee-ai-raises-series-b-to-build-the-future-of-american-open-models. Stick to company: Series B led by Vista Equity Partners, Cambium Capital, and Emergence Capital, with participation from AI10 Ventures, Hitachi, IAG, M12, P7, and Wipro; round values Arcee at more than $1 billion; use of proceeds — next-gen Trinity models (already in training), expand DOE/national-lab work (Genesis-Science-1 starting point), grow open-model product suite; Trinity Large is a 400B MoE U.S. end-to-end open-weight model; entire 2025 model lineup incl. Trinity Large built for approximately $20 million (salaries, compute, data, infra, ops). Company post does NOT state dollars raised. Fortune secondary OK if labeled: exclusive learned Series B at $1B pre-money; source familiar said at least $150 million; Arcee declined to disclose amount to Fortune; McQuade HF-alum / catch-China color is Fortune interview — optional for Quill. Do NOT invent Series $ beyond Fortune people-familiar ≥$150M, ARR, or customer logos beyond company/Fortune. Keep grab-atome as lead. Owner Quill.",
+      "grafs": [
+        "Arcee AI said Sept. 16 it has closed a Series B led by Vista Equity Partners, Cambium Capital, and Emergence Capital, with participation from AI10 Ventures, Hitachi, IAG, M12, P7, and Wipro, valuing the open-weight model lab at more than $1 billion.",
+        "The company said proceeds will accelerate the next generation of its Trinity model family (already in training), expand work with the U.S. Department of Energy and national laboratories, and grow products around open models. Arcee said its entire 2025 lineup, including Trinity Large — a 400-billion-parameter MoE built end-to-end in the U.S. — cost about $20 million including salaries, compute, data, infrastructure, and operations.",
+        "Arcee’s company post does not state the dollars raised. Fortune’s Term Sheet, which reported the round exclusively earlier Wednesday, said a source familiar with the matter put the raise at least at $150 million and that Arcee declined to disclose the amount."
       ]
     },
     {
