@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 112,
+  "number": 113,
   "city": "New York",
   "date": "Thursday, September 17, 2026",
-  "editionLabel": "Evening Edition",
+  "editionLabel": "Late Evening Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~6:01 p.m. ET — after the close / evening (last regular-session prints; AH drift immaterial)",
+    "updated": "Sep 17, ~6:55 p.m. ET — after the close / late evening (last regular-session prints unchanged vs Evening plate; AH drift immaterial)",
     "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%)"
   },
   "deskNote": {
     "kicker": "AI / Markets",
-    "hed": "Unsealed OpenAI–Microsoft copyright quotes plated; FOMC still leads.",
+    "hed": "Claude R&D share, Huang 2× chips, Warsh hyperscaler yields plated; FOMC still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 112 Evening Edition — ADD openai-nyt-unredact (Quill) vs Early Evening (No. 111). Reuters Sep 17 ~5:44 p.m. ET (9:44 p.m. UTC): previously redacted discovery quotes in NYT-led news orgs' summary-judgment papers vs OpenAI and Microsoft made public; Turley / Brockman / Nadella / Hecht quotes as filed — Microsoft disputes company attribution on Hecht and says Nadella observations ≠ copyright conclusions; OpenAI no immediate comment. TechCrunch ~3:46 p.m. ET / Ars Technica corroborate; CourtListener brief PDF linked as also. Not MAJOR — fomc-sep16 remains lead; crusoe-39 stays top of plate under lead. Yahoo ~6:01 p.m. ET after-close tape identical to Early Evening ~4:57 p.m. last-session prints (S&P 7,637.76 +1.14% / SOX 11,599.49 +3.14% / NVDA $219.34 +2.54% / Nasdaq 26,418.30 +1.69% / 10y 4.947% / 30y 5.296%) — below material bar for tape-only refresh; publish driven by openai-nyt-unredact ADD. user-X MCP skipped (get_usage_credits → client-not-enrolled expected). Declined this hour: Magentic $18M Series A Felicis/Sequoia/Westly (company + PR Newswire midday — real but under-add vs denser plate / prefer larger or harder prints); Beacon acquires Haize Labs (Business Wire — terms undisclosed tuck-in); King Charles AI safety speech (Reuters — ceremonial); Manus $500M/$4B recirculation (already declined); Nvidia $2B Brookfield AI Infrastructure Fund size reveal (already declined); Apollo SoftBank $9B NAV upsizing (already declined); GFL dual-bid — no definitive / no new prices; SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid; Crux $22B no IR confirm; SoftBank prepay no separate settlement wire; Brookfield–RWC go-shop through Oct 15). HF CLOSED. crusoe-30b SUPERSEDED by crusoe-39 (keep both)."
+    "body": "Vol. 1 No. 113 Late Evening Edition — ADD anthropic-rd-lead-26, nvda-huang-2x, warsh-hyperscaler, nvidia-baiif-2b, apollo-sb-nav-9b (all Quill) vs Evening (No. 112). Anthropic: Claude “leads” 26% internal AI R&D (Reuters via Investing.com; Yahoo analysis). Huang 2× chip-sales quote (CNBC). Warsh hyperscaler “competition for capital” from official FOMC transcript (complements fomc-sep16). Bloomberg sizes Nvidia BAIIF anchor at $2B. Apollo–SoftBank VF2 NAV talks toward $9B UNCONFIRMED people-familiar (Japan Times/Bloomberg). Not MAJOR — fomc-sep16 remains lead. Yahoo ~6:55 p.m. ET tape identical to Evening ~6:01 p.m. last-session prints — below material bar for tape-only; publish driven by story ADDs. user-X MCP skipped (get_usage_credits → client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Evening plate + openai-nyt-unredact — watch overnight Asia/Europe + Friday open; Friday Fed speakers (Bowman / Schmid per calendars). NYT–OpenAI–Microsoft copyright SJ — court has not ruled; watch further unsealing / Microsoft–OpenAI reply briefs. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Magentic $18M Series A declined this hour (under-add). Loudoun County data-center pause resolution — final board vote expected October. crusoe-30b SUPERSEDED by crusoe-39 — leave both; prefer crusoe-39 for copy."
+    "line": "Late Evening plate + five ADDs — watch overnight Asia/Europe + Friday open; Friday Fed speakers (Bowman / Schmid per calendars). Anthropic R&D metrics — watch company blog primary if posted / next regular print. Apollo–SoftBank VF2 NAV toward $9B — UNCONFIRMED; watch close or SoftBank/Apollo IR. Nvidia BAIIF $2B — watch BAM/BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ — court has not ruled. GFL special-committee / bid prices (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — next path Warsh + remaining 2026 SEP dots; warsh-hyperscaler complements. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage — no deal certainty. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. crusoe-30b SUPERSEDED by crusoe-39."
   },
   "sections": [
     "All",
@@ -28,6 +28,125 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-rd-lead-26",
+      "lead": false,
+      "section": "AI",
+      "kicker": "R&D / Agents",
+      "hed": "Anthropic: Claude now “leads” 26% of internal AI R&D; not fully autonomous",
+      "dek": "Reuters Sep 17 via Investing.com. Up from 1% in March (Epoch AI scale). AI collaborates on >90% of research as of August. ~30k agents on main platform; ~1 in 47k actions blocked.",
+      "date": "Sept. 17, 2026",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/economy-news/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-4906530",
+      "also": [
+        {
+          "label": "Yahoo Finance (Investing.com analysis)",
+          "url": "https://finance.yahoo.com/news/anthropic-data-highlights-ai-doomer-210612525.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / R&D transparency as Late Evening (Reuters Sep 17 via Investing.com rewrite; Yahoo ~5:06 p.m. PT analysis catch-up). PRIMARY: https://www.investing.com/news/economy-news/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-4906530 (Reuters text). Stick to sourced: Claude “leads” 26% of Anthropic’s internal AI R&D work; company will publish measures regularly; AI collaborated with humans on >90% of research work as of August; Claude not operating fully autonomously in any measured portion; contribution rose from 1% in March on Epoch AI scale; ~30,000 AI agents doing research/engineering on main internal platform at once in August; every action screened; >1B decisions that month with about 1 in 47,000 blocked; sample week in July: ~6% of compute used for AI research went to safety, rising to 12% for research carried out by AI itself (company: conservative). Do NOT invent blog URL if company page not verified; do NOT claim recursive self-improvement has arrived. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Anthropic said Thursday that Claude now “leads” 26% of the artificial intelligence research and development work inside the company, part of new metrics it plans to publish regularly to show how quickly AI is helping build the next generation of the technology, Reuters reported.",
+        "Per the same report, AI also collaborated with humans on more than 90% of the research work at Anthropic as of August, while Claude is not operating fully autonomously in any measured portion of that work. The “leads” share rose from 1% in March on a scale developed by Epoch AI, an independent nonprofit that tracks the technology.",
+        "Anthropic said about 30,000 AI agents were doing research and engineering work on its main internal platform at any one time in August, with every action screened before it is carried out; of more than a billion decisions that month, about one in 47,000 was blocked. In a sample week in July, about 6% of the computing power Anthropic used for AI research went to safety work, rising to 12% for research carried out by AI itself — figures the company called conservative."
+      ]
+    },
+    {
+      "id": "nvda-huang-2x",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Guidance / Hardware",
+      "hed": "Huang: Nvidia expects to sell twice as many chips next year",
+      "dek": "CNBC Sep 17. Quote before King Charles AI summit in Scotland. Broad chip mix (not GPUs only). Ties to AI investment across industries/countries; safety: hold back unsafe products.",
+      "date": "Sept. 17, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "also": [
+        {
+          "label": "Fox Business",
+          "url": "https://www.foxbusiness.com/fox-news-tech/nvidia-ceo-jensen-huang-ai-chip-sales-growth"
+        },
+        {
+          "label": "Bloomberg (headline)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-s-huang-expects-to-sell-twice-as-many-chips-next-year"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / semiconductor guidance as Late Evening (CNBC Sep 17 ~1:52 p.m. ET; Fox Business ~12:12 p.m. ET). PRIMARY: https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html. Stick to sourced quote: “I expect Nvidia to sell twice as many chips as this next year as we do this year,” Huang told media before King Charles III summit in Scotland; attributed to AI contribution across industries/economies and country-level AI investment. CNBC notes Nvidia does not disclose total chip units; portfolio includes data-center GPUs plus CPUs, switch chips, optical networking, laptops, Jetson, Switch 2 chip, etc. Safety line OK if attributed: hold back products that are not safe / keep engineering. Do NOT invent unit counts, ASP, or new revenue guide beyond what CNBC attributes to prior FY28 commentary (~70% / ~$673B). Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Nvidia chief executive Jensen Huang said Thursday that the company expects to sell twice as many chips next year as this year, speaking to media before a King Charles III AI summit in Scotland, CNBC reported.",
+        "“I expect Nvidia to sell twice as many chips as this next year as we do this year,” Huang said, tying the forecast to AI’s contribution across industries and economies and to investment demand “in almost every single country that we’re in,” per CNBC. The outlet noted Nvidia does not disclose total chip units sold and that the forecast covers a broad semiconductor mix beyond data-center GPUs.",
+        "At the same summit, Huang also pressed AI developers on safety testing, saying products that are not safe should be held back and kept in engineering, according to CNBC and Fox Business."
+      ]
+    },
+    {
+      "id": "warsh-hyperscaler",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "FOMC / Yields",
+      "hed": "Warsh: hyperscaler funding is part of why long yields rose",
+      "dek": "Fed transcript Sep 16 presser (Neil Irwin / Axios Q). Three reasons since prior FOMC: growth, “competition for capital” from hyperscalers raising funding, geopolitics. Complements fomc-sep16 plate.",
+      "date": "Sept. 16, 2026",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Markets / rates as Late Evening catch-up of FOMC presser detail missed on fomc-sep16 plate (official transcript). PRIMARY: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf. Stick to Warsh answer to Neil Irwin (Axios) on why longer-term yields rose since the prior FOMC: (1) economic strength; (2) “competition for capital” — “the so-called hyperscalers are out in the market raising funding, and so the competition for capital is real and I think it partly explains the increase in yields”; (3) geopolitics / hot spots (not only spot energy/ag prices but crack spreads into store prices). Keep as complement to fomc-sep16 (hike + SEP), not a replacement. Do NOT invent BofA $121B or Morgan Stanley $570B figures unless separately sourced — those appear in secondary blogs, not this transcript. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "In the official Sept. 16 post-meeting press conference transcript, Chair Kevin Warsh answered a question from Axios’s Neil Irwin about the rise in longer-term bond yields by naming three leading explanations since the prior FOMC meeting.",
+        "First, Warsh cited economic strength as part of why long-term yields have risen over the course of 2026. Second, he pointed to “competition for capital,” saying the surge in capital expenditures is real and that “the so-called hyperscalers are out in the market raising funding, and so the competition for capital is real and I think it partly explains the increase in yields.”",
+        "Third, he cited geopolitics and hot spots around the world as drivers of long-term yields, distinguishing spot energy and agricultural prices from crack spreads that feed into store prices. The transcript frames the list as leading explanations, not an exclusive list, and pairs with the plated fomc-sep16 hike and SEP print."
+      ]
+    },
+    {
+      "id": "nvidia-baiif-2b",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI Infra / LP",
+      "hed": "Bloomberg: Nvidia’s Brookfield AI infra fund anchor sized at $2B",
+      "dek": "Bloomberg Sep 17 via investor documents — size of previously disclosed BAIIF anchor with KIA. Brookfield Nov 2025 PR: BAIIF $10B equity target; $5B commitments at launch incl. Brookfield, NVIDIA, KIA.",
+      "date": "Sept. 17, 2026",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-committed-2-billion-to-brookfield-ai-infrastructure-fund",
+      "also": [
+        {
+          "label": "Brookfield BAIIF launch PR (Nov 19, 2025)",
+          "url": "https://bam.brookfield.com/press-releases/brookfield-launches-100-billion-ai-infrastructure-program"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI infrastructure LPs as Late Evening (Bloomberg Sep 17 ~11:17 a.m. CT per stamp). PRIMARY: https://www.bloomberg.com/news/articles/2026-09-17/nvidia-committed-2-billion-to-brookfield-ai-infrastructure-fund. Stick to: investor documents revealed Nvidia committed $2B to Brookfield Artificial Intelligence Infrastructure Fund (BAIIF); size of a previously disclosed investment; Nvidia is an anchor alongside Kuwait Investment Authority. CONTEXT (Brookfield PR Nov 19, 2025): $100B AI infrastructure program with NVIDIA and KIA; BAIIF targets $10B equity commitments; already had $5B commitments from institutional/industry partners including Brookfield, NVIDIA and KIA at launch. Do NOT invent fund AUM raised-to-date beyond that, or claim new capital call closed today. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Bloomberg reported Sept. 17 that Nvidia has committed $2 billion to Brookfield Asset Management’s global artificial intelligence infrastructure fund, according to investor documents that revealed the size of a previously disclosed investment.",
+        "Bloomberg said Nvidia is an anchor investor in the Brookfield Artificial Intelligence Infrastructure Fund alongside the Kuwait Investment Authority, and that the fund is focused on the AI buildout — factories, dedicated behind-the-meter power and compute infrastructure.",
+        "Brookfield’s Nov. 19, 2025 launch release said the firm was anchoring a $100 billion AI infrastructure program with NVIDIA and KIA via BAIIF, targeting $10 billion of equity commitments and stating BAIIF had already received $5 billion of commitments from partners including Brookfield, NVIDIA and KIA."
+      ]
+    },
+    {
+      "id": "apollo-sb-nav-9b",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "SoftBank / NAV Loan",
+      "hed": "Apollo said to weigh lifting SoftBank VF2 NAV loan toward $9B",
+      "dek": "Japan Times (Bloomberg) Sep 17. People-familiar: talks to raise from $5.4B; size not finalized. Apollo and SoftBank declined comment. VF2-backed NAV facility; OpenAI financing context.",
+      "date": "Sept. 17, 2026",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/17/softbank-loan-apollo/",
+      "also": [
+        {
+          "label": "Bloomberg (headline)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/apollo-mulls-raising-softbank-loan-to-9-billion-for-openai-bets"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / SoftBank liquidity as Late Evening UNCONFIRMED people-familiar (Japan Times/Bloomberg Sep 17). PRIMARY: https://www.japantimes.co.jp/business/2026/09/17/softbank-loan-apollo/. Stick to: Apollo in talks with SoftBank about boosting a Vision Fund 2–backed NAV loan to $9B from $5.4B to help finance OpenAI investment; size not finalized; people familiar; Apollo and SoftBank declined comment. Context OK if attributed: Apollo made NAV loan in 2021 and boosted $900M last year to $5.4B; SoftBank committed $64.6B to OpenAI per article; separate Aug OpenAI-stake loan ~$10B including Apollo cited. Do NOT treat $9B as closed. Complements softbank-openai-1187 / softbank-259-prepay — does not replace. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Apollo Global Management is in talks with SoftBank Group about boosting the size of a Vision Fund 2–backed net-asset-value loan to $9 billion from $5.4 billion to help finance SoftBank’s OpenAI investment, The Japan Times reported Sept. 17, citing Bloomberg and people familiar with the matter.",
+        "The size of the financing has not been finalized, the people said, and representatives for Apollo and SoftBank declined to comment, per the report. Apollo originally made the NAV loan to SoftBank’s venture capital fund in 2021 and boosted it by $900 million last year to $5.4 billion, the article said.",
+        "The same piece places the talks alongside SoftBank’s broader OpenAI financing push, including a cited $64.6 billion OpenAI commitment and an August loan of about $10 billion backed by SoftBank’s OpenAI holding from lenders including Apollo — keep those as attributed context, not new closes."
+      ]
+    },
     {
       "id": "openai-nyt-unredact",
       "lead": false,
