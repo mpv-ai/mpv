@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 111,
+  "number": 112,
   "city": "New York",
   "date": "Thursday, September 17, 2026",
-  "editionLabel": "Early Evening Edition",
+  "editionLabel": "Evening Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~4:57 p.m. ET — after the close / early evening",
+    "updated": "Sep 17, ~6:01 p.m. ET — after the close / evening (last regular-session prints; AH drift immaterial)",
     "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%)"
   },
   "deskNote": {
-    "kicker": "Markets",
-    "hed": "Crusoe company-confirms $3.9B Series F at $30.9B; FOMC still leads.",
+    "kicker": "AI / Markets",
+    "hed": "Unsealed OpenAI–Microsoft copyright quotes plated; FOMC still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 111 Early Evening Edition — ADD crusoe-39 (Quill) vs Late Afternoon (No. 110 / content sha 661ada47 / publish ef571174). Company newsroom Sep 17: initial closing $3.9B Series F at $30.9B post-money; Atreides + Mubadala Capital + Valor co-lead; Founders Fund, GIC, NVIDIA, QIA, Radical, TPG named; >$140B TCV / 6GW+ contracted / 1 GW operational / Managed Inference >$100M ARR. Supersedes people-familiar crusoe-30b (kept on plate). Not MAJOR — fomc-sep16 remains lead. Yahoo ~4:57 p.m. ET after-close tape vs Late Afternoon ~3:04 p.m.: S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%) (Late Afternoon was S&P 7,639.55 +1.16% / SOX 11,599.46 +3.14% / NVDA $219.54 +2.64% / Nasdaq 26,407.89 +1.65% / 10y 4.951% / 30y 5.297%) — tiny drift; publish driven by crusoe-39 ADD. SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR (softbank-259-prepay) — no separate SoftBank IR settlement confirmation wire. user-X MCP skipped (get_usage_credits → client-not-enrolled expected). Declined this hour: Nvidia $2B Brookfield AI Infrastructure Fund size reveal (Bloomberg investor-docs — size of previously disclosed anchor; BAIIF Nov 2025 program already known; not a new commitment print); Apollo SoftBank $9B NAV upsizing (already declined); EQT–ElevenLabs Scaleup Europe talks (already declined); Emulate $700M seed talks; Adaptive $30M / Comp AI / Manus / GMI Cloud recirculation; BauWatch / Crux / Advent / BCV already plated; GFL dual-bid — no definitive / no new prices. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid). HF CLOSED."
+    "body": "Vol. 1 No. 112 Evening Edition — ADD openai-nyt-unredact (Quill) vs Early Evening (No. 111). Reuters Sep 17 ~5:44 p.m. ET (9:44 p.m. UTC): previously redacted discovery quotes in NYT-led news orgs' summary-judgment papers vs OpenAI and Microsoft made public; Turley / Brockman / Nadella / Hecht quotes as filed — Microsoft disputes company attribution on Hecht and says Nadella observations ≠ copyright conclusions; OpenAI no immediate comment. TechCrunch ~3:46 p.m. ET / Ars Technica corroborate; CourtListener brief PDF linked as also. Not MAJOR — fomc-sep16 remains lead; crusoe-39 stays top of plate under lead. Yahoo ~6:01 p.m. ET after-close tape identical to Early Evening ~4:57 p.m. last-session prints (S&P 7,637.76 +1.14% / SOX 11,599.49 +3.14% / NVDA $219.34 +2.54% / Nasdaq 26,418.30 +1.69% / 10y 4.947% / 30y 5.296%) — below material bar for tape-only refresh; publish driven by openai-nyt-unredact ADD. user-X MCP skipped (get_usage_credits → client-not-enrolled expected). Declined this hour: Magentic $18M Series A Felicis/Sequoia/Westly (company + PR Newswire midday — real but under-add vs denser plate / prefer larger or harder prints); Beacon acquires Haize Labs (Business Wire — terms undisclosed tuck-in); King Charles AI safety speech (Reuters — ceremonial); Manus $500M/$4B recirculation (already declined); Nvidia $2B Brookfield AI Infrastructure Fund size reveal (already declined); Apollo SoftBank $9B NAV upsizing (already declined); GFL dual-bid — no definitive / no new prices; SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid; Crux $22B no IR confirm; SoftBank prepay no separate settlement wire; Brookfield–RWC go-shop through Oct 15). HF CLOSED. crusoe-30b SUPERSEDED by crusoe-39 (keep both)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "After-close tape + crusoe-39 plated — watch overnight Asia/Europe + Friday open. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Emulate $700M seed / Manus raise — talks only until hard close. GFL dual consortium — OPEN until definitive agreement. Loudoun County data-center pause resolution — final board vote expected October. crusoe-30b people-familiar plate SUPERSEDED by crusoe-39 company print — leave both; prefer crusoe-39 for copy."
+    "line": "Evening plate + openai-nyt-unredact — watch overnight Asia/Europe + Friday open; Friday Fed speakers (Bowman / Schmid per calendars). NYT–OpenAI–Microsoft copyright SJ — court has not ruled; watch further unsealing / Microsoft–OpenAI reply briefs. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Magentic $18M Series A declined this hour (under-add). Loudoun County data-center pause resolution — final board vote expected October. crusoe-30b SUPERSEDED by crusoe-39 — leave both; prefer crusoe-39 for copy."
   },
   "sections": [
     "All",
@@ -28,6 +28,38 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "openai-nyt-unredact",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Copyright / Litigation",
+      "hed": "Unsealed NYT filing: OpenAI, Microsoft execs called AI news use substitutive — even 'theft'",
+      "dek": "Reuters Sep 17 evening. Previously redacted discovery quotes in news orgs' summary-judgment papers. Turley: publishers face 'existential threat'; products 'largely substitutive.' Hecht (MSFT): 'largest theft of labor in human history.' Microsoft disputes company views.",
+      "date": "Sept. 17, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/openai-microsoft-executives-quotes-ai-training-threaten-copyright-defense-news-2026-09-17/",
+      "also": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+        },
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/"
+        },
+        {
+          "label": "CourtListener (brief PDF)",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1709.0.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / copyright litigation as Evening Edition (Reuters Sep 17 ~5:44 p.m. ET / 9:44 p.m. UTC; TechCrunch ~3:46 p.m. ET catch-up). PRIMARY: https://www.reuters.com/business/media-telecom/openai-microsoft-executives-quotes-ai-training-threaten-copyright-defense-news-2026-09-17/. Stick to sourced: previously redacted portions of news plaintiffs' summary-judgment filing in NYT-led copyright case vs OpenAI and Microsoft made public Thursday; outlets say quotes undercut fair-use defense. Named: OpenAI ChatGPT head Nick Turley — publishers face 'existential threat'; products 'largely substitutive' and will get more so; OpenAI president Greg Brockman — models 'particularly good at predicting text of news articles' / 'excellent at news'; replied 'ah nice' to paywall 'hack' report (per outlets); Microsoft CEO Satya Nadella — under oath that chatting with bots has substituted for going to the underlying source; Microsoft applied-science director Brent Hecht — 'astonishing theft of unprecedented proportions' / 'largest theft of labor in human history' (Microsoft: one employee's individual perspective, not company views). Microsoft spokesperson: Nadella testimony consistent with company defense; observations ≠ copyright conclusions. OpenAI no immediate comment (Reuters). Do NOT invent settlement odds, trial date, or claim court has ruled. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Previously redacted discovery quotes in the New York Times-led copyright case against OpenAI and Microsoft were made public Thursday, and news outlets argue the executives' own words undercut the companies' fair-use defense, Reuters reported.",
+        "According to the outlets' filing as summarized by Reuters and TechCrunch, OpenAI ChatGPT head Nick Turley wrote that publishers face an \"existential threat\" from products that are \"largely substitutive,\" while OpenAI president Greg Brockman described models as \"excellent at news\" and replied \"ah nice\" when told of a \"hack\" around the Times paywall. Microsoft CEO Satya Nadella agreed under oath that chatbot answers have substituted for visiting the underlying source site.",
+        "Microsoft's director of applied science Brent Hecht, in internal material quoted by plaintiffs, called mass scraping \"an astonishing theft of unprecedented proportions\" and \"the largest theft of labor in human history.\" A Microsoft spokesperson said Hecht's comments reflect one employee's perspective and do not represent the company's views, and that Nadella's testimony does not change Microsoft's copyright filings. OpenAI did not immediately comment to Reuters. The court has not ruled on fair use."
+      ]
+    },
     {
       "id": "crusoe-39",
       "lead": false,
