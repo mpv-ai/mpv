@@ -3,21 +3,21 @@
   "number": 105,
   "city": "New York",
   "date": "Thursday, September 17, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Midmorning Edition",
   "tape": {
-    "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~9:07 a.m. ET — premarket / overnight",
-    "line": "S&P prior close 7,551.81 (−0.45%) · ES ≈7,719 (+1.26%) · 10-year 4.957% · 30-year 5.313% · SOX prior close 11,246.11 (+0.63%) · NVDA prior close $213.90 · PM ≈$218.40 (+2.1%)"
+    "source": "CNBC Quote Cache (equities; US10Y/US30Y yields)",
+    "updated": "Sep 17, ~10:11 a.m. ET — cash open",
+    "line": "S&P 7,614.20 (+0.83%) · SOX 11,586.14 (+3.02%) · NVDA $219.29 (+2.52%) · 10-year 4.945% · 30-year 5.30% · Nasdaq 26,341.90 (+1.40%)"
   },
   "deskNote": {
-    "kicker": "PE / AI",
-    "hed": "Four Morning ADDs: Advent–Yatharth, BauWatch, Clearlake–Chelsea, LLM sponsor bias.",
+    "kicker": "Markets",
+    "hed": "Cash open tape refresh; no new ADDs vs Morning.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 105 Morning Edition — four ADDs vs Close (No. 104 / sha cdcc6f90): advent-yatharth (Advent ₹3,150 crore / ~$328.5M primary for 24.9% Yatharth Hospitals — Advent PR + Reuters Sep 17); bauwatch-carlyle-cvc (Carlyle + CVC DIF majority BauWatch from Haniel; Haniel keeps 10%; close Q1 2027 — company PR Sep 17; Reuters ~€1B EV people-familiar); clearlake-chelsea (Clearlake to full control of Chelsea FC as Boehly+Walter sell — club statement via CNBC/Reuters; FT ~£5B club / ~£950M for two stakes — label FT); llm-sponsor-bias (arXiv 2609.17989 role-assignment sponsorship bias in LLM recommenders — finance/AI research plate). fomc-sep16 remains MAJOR lead (not displaced). Yahoo ~9:07 a.m. ET premarket tape: S&P cash still prior close 7,551.81 (−0.45%); ES ≈7,719 (+1.26% vs 7,623); 10y 4.957%; 30y 5.313%; SOX prior close 11,246.11 (+0.63%); NVDA prior close $213.90 / premarket ≈$218.40 (+2.1%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. Declined this hour: Anthropic Claude Chat+Cowork merge / Docs+Slides (product UX; already No.104 deskNote); Hang Ten Systems +$53M second seed to $85M (Temasek-backed Xora; below PE plate bar); Impulse Space off beat; SoftBank settlement invent / Apollo upsizing without new SoftBank IR primary; Baldwin/DFO already baldwin-dfo-77. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
+    "body": "Vol. 1 No. 105 Midmorning Edition — tape-only refresh vs Morning (No. 105 / sha 5d214248). No new stories. CNBC ~10:11 a.m. ET cash: S&P 7,614.20 (+0.83% / +62.39 vs prior close 7,551.81); SOX 11,586.14 (+3.02%); NVDA $219.29 (+2.52% vs $213.90); Nasdaq 26,341.90 (+1.40%); US 10-year 4.945% (−5.9 bp); US 30-year 5.30% (−4.8 bp). fomc-sep16 remains MAJOR lead. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. Declined this hour: EQT Scaleup Europe Fund–ElevenLabs talks (Bloomberg people-familiar; >$500M seek; no deal / both declined comment — below plate); Apollo exploring Energos FLNG sale options >$3B / XRG up-to-50% stake (Reuters people-familiar; no deal; energy off core AI/CFO plate); Apollo SoftBank loan upsizing to $9B (no SoftBank IR primary); Kastle $24M Series A (Insight; below PE plate bar); Baldwin/DFO already baldwin-dfo-77; DeepSeek CFO already deepseek-cfo. user-X MCP still blocked (client-not-enrolled). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Cash equity open 9:30 a.m. ET — refresh S&P/SOX/NVDA off prior-close/premarket prints. FOMC Sep 15–16 decision PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path is Warsh guidance + remaining 2026 SEP dots. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN; Claude product merge is product color only. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027; Advent–Yatharth customary close; Clearlake–Chelsea terms beyond club statement still FT-labeled only."
+    "line": "Cash tape refreshed Midmorning — continue watching S&P/SOX/NVDA into lunch. FOMC Sep 15–16 decision PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path is Warsh guidance + remaining 2026 SEP dots. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027; Advent–Yatharth customary close; Clearlake–Chelsea terms beyond club statement still FT-labeled only. EQT–ElevenLabs talks — watch only until company confirmation."
   },
   "sections": [
     "All",
