@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 110,
+  "number": 111,
   "city": "New York",
   "date": "Thursday, September 17, 2026",
-  "editionLabel": "Late Afternoon Edition",
+  "editionLabel": "Early Evening Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~3:04 p.m. ET — late afternoon",
-    "line": "S&P 7,639.55 (+1.16%) · SOX 11,599.46 (+3.14%) · NVDA $219.54 (+2.64%) · 10-year 4.951% · 30-year 5.297% · Nasdaq 26,407.89 (+1.65%)"
+    "updated": "Sep 17, ~4:57 p.m. ET — after the close / early evening",
+    "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "Fever $250M EQT catch-up; tape still steady vs mid-afternoon.",
+    "hed": "Crusoe company-confirms $3.9B Series F at $30.9B; FOMC still leads.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 110 Late Afternoon Edition — ADD fever-250 (Quill) vs Mid Afternoon (No. 109 / sha 1b6f6505 / live sha was 1022d739). Catch-up missed earlier: Fever newsroom 1:48 a.m. ET — $250M primary equity led by EQT; Point72 Private Investments + Baillie Gifford + other existing; company calls largest-ever live-entertainment tech round; DICE owner. Valuation: company PR silent; MarketScreener/S&P Capital IQ ~$5.2B post-money — labeled secondary only. Not MAJOR — fomc-sep16 remains lead. Yahoo ~3:04 p.m. ET tape vs Mid Afternoon ~2:02 p.m.: S&P 7,639.55 (+1.16%) · SOX 11,599.46 (+3.14%) · NVDA $219.54 (+2.64%) · 10-year 4.951% · 30-year 5.297% · Nasdaq 26,407.89 (+1.65%) (Mid Afternoon was S&P 7,637.18 +1.13% / SOX 11,602.88 +3.17% / NVDA $219.27 +2.51% / Nasdaq 26,398.08 +1.62% / 10y 4.949% / 30y 5.296%) — tiny drift, publish driven by fever-250 ADD not tape. SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR (softbank-259-prepay) — no separate SoftBank IR settlement confirmation wire. user-X MCP skipped (get_usage_credits → client-not-enrolled). Declined this hour: Adaptive $30M Series B Tidemark (agentic construction accounting — below distinctive plate bar vs Comp AI tier); Emulate $700M seed talks (Bloomberg people-familiar — not closed); Comp AI $34M (already declined); Manus ~$500M/$4B raise talk; GMI Cloud $300M GPU-financing talks; EQT–ElevenLabs Scaleup Europe talks (already declined); Daiwa House ~30% Miller Homes from Apollo (undisclosed price — skip undisclosed-terms PE); Apollo explores Energos FLNG sale >$3B (Reuters people-familiar — exploring, not deal); Warsh/Fed rebound color (already on fomc-sep16); Loudoun County data-center application pause (Sep 15/16 draft-resolution vote — final Oct, not yet effective); SoftBank $25.9B settlement wire (none); Apollo SoftBank $9B NAV upsizing (already declined). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid). HF CLOSED."
+    "body": "Vol. 1 No. 111 Early Evening Edition — ADD crusoe-39 (Quill) vs Late Afternoon (No. 110 / content sha 661ada47 / publish ef571174). Company newsroom Sep 17: initial closing $3.9B Series F at $30.9B post-money; Atreides + Mubadala Capital + Valor co-lead; Founders Fund, GIC, NVIDIA, QIA, Radical, TPG named; >$140B TCV / 6GW+ contracted / 1 GW operational / Managed Inference >$100M ARR. Supersedes people-familiar crusoe-30b (kept on plate). Not MAJOR — fomc-sep16 remains lead. Yahoo ~4:57 p.m. ET after-close tape vs Late Afternoon ~3:04 p.m.: S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%) (Late Afternoon was S&P 7,639.55 +1.16% / SOX 11,599.46 +3.14% / NVDA $219.54 +2.64% / Nasdaq 26,407.89 +1.65% / 10y 4.951% / 30y 5.297%) — tiny drift; publish driven by crusoe-39 ADD. SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR (softbank-259-prepay) — no separate SoftBank IR settlement confirmation wire. user-X MCP skipped (get_usage_credits → client-not-enrolled expected). Declined this hour: Nvidia $2B Brookfield AI Infrastructure Fund size reveal (Bloomberg investor-docs — size of previously disclosed anchor; BAIIF Nov 2025 program already known; not a new commitment print); Apollo SoftBank $9B NAV upsizing (already declined); EQT–ElevenLabs Scaleup Europe talks (already declined); Emulate $700M seed talks; Adaptive $30M / Comp AI / Manus / GMI Cloud recirculation; BauWatch / Crux / Advent / BCV already plated; GFL dual-bid — no definitive / no new prices. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid). HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Late-afternoon tape + fever-250 plated — watch close for S&P/SOX/NVDA. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Emulate $700M seed / Manus raise — talks only until hard close. GFL dual consortium — OPEN until definitive agreement. Loudoun County data-center pause resolution — final board vote expected October."
+    "line": "After-close tape + crusoe-39 plated — watch overnight Asia/Europe + Friday open. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Emulate $700M seed / Manus raise — talks only until hard close. GFL dual consortium — OPEN until definitive agreement. Loudoun County data-center pause resolution — final board vote expected October. crusoe-30b people-familiar plate SUPERSEDED by crusoe-39 company print — leave both; prefer crusoe-39 for copy."
   },
   "sections": [
     "All",
@@ -28,6 +28,34 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "crusoe-39",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Neocloud / Series F",
+      "hed": "Crusoe closes $3.9B Series F at $30.9B; Atreides, Mubadala, Valor co-lead",
+      "dek": "Company newsroom Sep 17. Initial closing; oversubscribed. Named: Founders Fund, GIC, NVIDIA, QIA, Radical, TPG. Supersedes people-familiar crusoe-30b (~$3B/$30B).",
+      "date": "Sept. 17, 2026",
+      "source": "Crusoe",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/ai-infrastructure-provider-crusoe-valued-309-billion-latest-funding-round-2026-09-17/"
+        },
+        {
+          "label": "CNA (Reuters rewrite)",
+          "url": "https://www.channelnewsasia.com/business/ai-infrastructure-provider-crusoe-valued-309-billion-in-latest-funding-round-6393051"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / neocloud as Early Evening company confirmation (Crusoe newsroom Sep 17). PRIMARY: https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding. Stick to company: initial closing of anticipated $3.9B Series F at $30.9B post-money; oversubscribed; co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners; significant backing from new and existing including Founders Fund, GIC, NVIDIA, Qatar Investment Authority (QIA), Radical Ventures, and TPG; proceeds to scale existing programs and build out own AI factories (large campuses + modular Crusoe Spark) for Crusoe Cloud growth; company cites >$140B TCV, 6GW+ gross contracted capacity incl. 1 GW delivered/operational, 20x+ YoY Crusoe Cloud bookings YTD, Managed Inference >$100M ARR contracted. Lochmiller quote OK if attributed. Long additional-investor list in PR OK to summarize as 'additional investors named in PR' rather than dump every name. SECONDARY: Reuters/CNA OK labeled. SUPERSEDES people-familiar plate crusoe-30b (Bloomberg ~$3B+ / ~$30B post; company had declined comment) — keep crusoe-30b but this is the company print. Do NOT invent pre-money, IPO timing, Jane Street contract confirmation in this story (that was people-familiar on crusoe-30b). Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Crusoe said Sept. 17 it completed the initial closing of an anticipated $3.9 billion Series F at a $30.9 billion post-money valuation, co-led by Atreides Management, Mubadala Capital and Valor Equity Partners in an oversubscribed round.",
+        "Named backers in the company release include Founders Fund, GIC, NVIDIA, the Qatar Investment Authority, Radical Ventures and TPG, with a longer roster of additional investors listed in the same post. Crusoe said proceeds will scale existing programs and support the build-out of its own AI factories — large vertically integrated campuses and modular Crusoe Spark units — to fuel Crusoe Cloud growth.",
+        "The company cited more than $140 billion in total contracted value across its platform, more than 6 GW of gross contracted capacity including 1 GW delivered and operational, more than 20× year-over-year growth in Crusoe Cloud bookings year to date, and more than $100 million of ARR already contracted for Crusoe Managed Inference. The print supersedes the earlier people-familiar ~$3 billion / ~$30 billion plate (crusoe-30b) where Crusoe had declined to comment."
+      ]
+    },
     {
       "id": "fomc-sep16",
       "lead": true,
