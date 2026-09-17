@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 109,
+  "number": 110,
   "city": "New York",
   "date": "Thursday, September 17, 2026",
-  "editionLabel": "Mid Afternoon Edition",
+  "editionLabel": "Late Afternoon Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~2:02 p.m. ET — mid-afternoon",
-    "line": "S&P 7,637.18 (+1.13%) · SOX 11,602.88 (+3.17%) · NVDA $219.27 (+2.51%) · 10-year 4.949% · 30-year 5.296% · Nasdaq 26,398.08 (+1.62%)"
+    "updated": "Sep 17, ~3:04 p.m. ET — late afternoon",
+    "line": "S&P 7,639.55 (+1.16%) · SOX 11,599.46 (+3.14%) · NVDA $219.54 (+2.64%) · 10-year 4.951% · 30-year 5.297% · Nasdaq 26,407.89 (+1.65%)"
   },
   "deskNote": {
     "kicker": "Markets",
-    "hed": "MIND $72M + Hang Ten $53M + Kastle $24M catch-ups; tape steady.",
+    "hed": "Fever $250M EQT catch-up; tape still steady vs mid-afternoon.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 109 Mid Afternoon Edition — ADD mind-72 + hang-ten-53 + kastle-24 (Quill) vs Afternoon (No. 108 / sha 0a415531). Catch-ups missed earlier: (1) MIND PR Newswire 8:00 a.m. ET — $72M Series B Crosspoint-led; YL Ventures + Paladin; total $112M; AI-native DLP. (2) Hang Ten / TechCrunch Sep 16 — additional $53M seed led by Temasek Xora; total $85M; Sikka declines valuation. (3) Kastle PR Newswire 9:00 a.m. ET — $24M Series A Insight-led for banking AI workforce / consumer lending. None MAJOR — fomc-sep16 remains lead. Yahoo ~2:02 p.m. ET tape vs Afternoon ~1:08 p.m.: S&P 7,637.18 (+1.13%) · SOX 11,602.88 (+3.17%) · NVDA $219.27 (+2.51%) · 10-year 4.949% · 30-year 5.296% · Nasdaq 26,398.08 (+1.62%) (Afternoon was S&P 7,638.67 +1.15% / SOX 11,609.23 +3.23% / NVDA $219.13 +2.45% / Nasdaq 26,415.16 +1.68% / 10y 4.947% / 30y 5.297%) — tiny drift, no tape-driven lead change. SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR (softbank-259-prepay) — no separate settlement confirmation wire on SoftBank IR. user-X MCP skipped (client-not-enrolled). Declined this hour: Comp AI $34M Series A (Roo/Grand; below distinctive plate bar vs MIND); Emulate $700M seed talks (Bloomberg people-familiar — not closed); Manus ~$500M / $4B raise talk (Bloomberg newsletter — not closed); GMI Cloud $300M GPU-financing talks; EQT–ElevenLabs / Scaleup Europe talks (already declined); Warsh hyperscaler-yields commentary (color on fomc-sep16, not new plate); SoftBank $25.9B settlement wire (none); Apollo SoftBank $9B NAV upsizing (already declined); BauWatch/Grab–Atome/BCV $1.6B/Arcee B already plated. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid). HF CLOSED."
+    "body": "Vol. 1 No. 110 Late Afternoon Edition — ADD fever-250 (Quill) vs Mid Afternoon (No. 109 / sha 1b6f6505 / live sha was 1022d739). Catch-up missed earlier: Fever newsroom 1:48 a.m. ET — $250M primary equity led by EQT; Point72 Private Investments + Baillie Gifford + other existing; company calls largest-ever live-entertainment tech round; DICE owner. Valuation: company PR silent; MarketScreener/S&P Capital IQ ~$5.2B post-money — labeled secondary only. Not MAJOR — fomc-sep16 remains lead. Yahoo ~3:04 p.m. ET tape vs Mid Afternoon ~2:02 p.m.: S&P 7,639.55 (+1.16%) · SOX 11,599.46 (+3.14%) · NVDA $219.54 (+2.64%) · 10-year 4.951% · 30-year 5.297% · Nasdaq 26,407.89 (+1.65%) (Mid Afternoon was S&P 7,637.18 +1.13% / SOX 11,602.88 +3.17% / NVDA $219.27 +2.51% / Nasdaq 26,398.08 +1.62% / 10y 4.949% / 30y 5.296%) — tiny drift, publish driven by fever-250 ADD not tape. SoftBank $25.9B OpenAI bridge prepay still schedule-only / Sep 9 decision PR (softbank-259-prepay) — no separate SoftBank IR settlement confirmation wire. user-X MCP skipped (get_usage_credits → client-not-enrolled). Declined this hour: Adaptive $30M Series B Tidemark (agentic construction accounting — below distinctive plate bar vs Comp AI tier); Emulate $700M seed talks (Bloomberg people-familiar — not closed); Comp AI $34M (already declined); Manus ~$500M/$4B raise talk; GMI Cloud $300M GPU-financing talks; EQT–ElevenLabs Scaleup Europe talks (already declined); Daiwa House ~30% Miller Homes from Apollo (undisclosed price — skip undisclosed-terms PE); Apollo explores Energos FLNG sale >$3B (Reuters people-familiar — exploring, not deal); Warsh/Fed rebound color (already on fomc-sep16); Loudoun County data-center application pause (Sep 15/16 draft-resolution vote — final Oct, not yet effective); SoftBank $25.9B settlement wire (none); Apollo SoftBank $9B NAV upsizing (already declined). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra; GFL dual-bid). HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Mid-afternoon tape + mind-72 + hang-ten-53 + kastle-24 plated — watch close for S&P/SOX/NVDA. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Emulate $700M seed / Manus raise — talks only until hard close. GFL dual consortium — OPEN until definitive agreement."
+    "line": "Late-afternoon tape + fever-250 plated — watch close for S&P/SOX/NVDA. GFL special-committee outcome / bid prices if disclosed (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path Warsh guidance + remaining 2026 SEP dots. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN. DeepSeek $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Emulate $700M seed / Manus raise — talks only until hard close. GFL dual consortium — OPEN until definitive agreement. Loudoun County data-center pause resolution — final board vote expected October."
   },
   "sections": [
     "All",
@@ -58,6 +58,34 @@
         "The Federal Open Market Committee on Sept. 16 raised the target range for the federal funds rate by a quarter percentage point to 3¾ to 4 percent, approving the statement by a 12–0 vote.",
         "The Committee said economic activity is expanding at a solid pace, domestic spending has been resilient, productivity growth is strong and capital investment is robust, while inflation remains elevated and today’s action will support a timelier return to the 2 percent goal. Separately, the Board raised the interest on reserve balances to 3.90 percent and the primary credit rate to 4.0 percent, both effective Sept. 17, and directed the New York Fed Desk to maintain the funds rate in the new range.",
         "In the Summary of Economic Projections released with the decision, the median projected federal funds rate is 4.1 percent at the end of 2026 and 2027, 3.9 percent in 2028, 3.6 percent in 2029, and 3.2 percent in the longer run. CNBC reported it as the first hike since July 2023 and said 16 of 18 participants expect at least one more increase this year, with Chair Kevin Warsh not submitting a dot. At the post-meeting press conference, Reuters quoted Warsh saying inflation is too high and has been for too long, and that summer readings do not show underlying trends have meaningfully improved."
+      ]
+    },
+    {
+      "id": "fever-250",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Growth equity / Live entertainment",
+      "hed": "Fever raises $250M primary led by EQT; Point72 and Baillie Gifford join",
+      "dek": "Company newsroom Sep 17 1:48 a.m. ET. Largest-ever live-entertainment tech round per Fever; DICE owner. MarketScreener/S&P Capital IQ: ~$5.2B post-money — labeled secondary.",
+      "date": "Sept. 17, 2026",
+      "source": "Fever",
+      "url": "https://newsroom.feverup.com/en-US/271038-fever-raises-record-250m-led-by-eqt-in-a-bet-on-what-ai-can-t-replace-live-experiences/",
+      "also": [
+        {
+          "label": "MarketScreener / S&P Capital IQ",
+          "url": "https://www.marketscreener.com/news/fever-labs-inc-announced-that-it-has-received-250-million-in-funding-from-baillie-gifford-co--ce785bd3dd88f32d"
+        },
+        {
+          "label": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dice-owner-fever-raises-250m-led-by-eqt-in-what-it-calls-the-largest-ever-round-for-a-live-entertainment-tech-company/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / growth equity as Late Afternoon catch-up (Fever newsroom Sep 17 1:48 a.m. ET — missed earlier hourlies). PRIMARY: https://newsroom.feverup.com/en-US/271038-fever-raises-record-250m-led-by-eqt-in-a-bet-on-what-ai-can-t-replace-live-experiences/. Stick to company: $250M primary equity financing; EQT led; significant participation from Point72 Private Investments, Baillie Gifford, and other existing investors; company calls it largest-ever for a live-entertainment tech company; co-founders Ignacio Bachiller, Francisco Hein, Alexandre Perez; use of proceeds = geographic expansion beyond 55 countries + tech/tools for partners; claims >tripled revenue past three years and remained EBITDA-positive. Do NOT invent from company PR a valuation — company does not print one. SECONDARY OK labeled: MarketScreener/S&P Capital IQ says post-money valuation $5.2B; MBW also cites ~$5.2B in coverage (some color ties to prior secondary — prefer Capital IQ label for this round). Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Fever, the live-entertainment and culture tech platform that owns DICE, said Sept. 17 it raised $250 million in a primary equity financing led by EQT, with significant participation from Point72 Private Investments, Baillie Gifford and other existing investors.",
+        "The company called the round the largest ever for a live-entertainment tech firm and said proceeds will fund geographic expansion beyond the 55 countries where it operates today and deeper investment in partner technology for promoters, venues, sports teams and cultural institutions.",
+        "Fever said it more than tripled revenue over the past three years while remaining EBITDA-positive. The company newsroom did not print a valuation; MarketScreener citing S&P Capital IQ put the post-money at about $5.2 billion — treat as secondary, not a Fever IR print."
       ]
     },
     {
