@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 104,
+  "number": 105,
   "city": "New York",
-  "date": "Wednesday, September 16, 2026",
-  "editionLabel": "Close Edition",
+  "date": "Thursday, September 17, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
     "source": "Yahoo Finance (equities / futures; ^TNX/^TYX yields)",
-    "updated": "Sep 16, ~7:58 p.m. ET — close / after-hours",
-    "line": "S&P 7,551.81 (−0.45%) · ES ≈7,655 (+0.42% AH) · 10-year 5.006% · 30-year 5.349% · SOX 11,246.11 (+0.63%) · NVDA $213.90 (+0.82%)"
+    "updated": "Sep 17, ~9:07 a.m. ET — premarket / overnight",
+    "line": "S&P prior close 7,551.81 (−0.45%) · ES ≈7,719 (+1.26%) · 10-year 4.957% · 30-year 5.313% · SOX prior close 11,246.11 (+0.63%) · NVDA prior close $213.90 · PM ≈$218.40 (+2.1%)"
   },
   "deskNote": {
-    "kicker": "AI / PE",
-    "hed": "Cohere–Aleph definitive; AEMA + BCV $1.6B; Fed lead holds.",
+    "kicker": "PE / AI",
+    "hed": "Four Morning ADDs: Advent–Yatharth, BauWatch, Clearlake–Chelsea, LLM sponsor bias.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 104 Close Edition — three ADDs vs Afternoon (No. 103 / sha 1d48ac59): cohere-aleph (Cohere + Aleph Alpha definitive business combination — company Sep 16; dual HQ Toronto/Berlin; Scheer→COO / Weinbach→CRO on close; Reuters: April ~$20B frame, Schwarz €500M + StackIT compute up to €13B campus; regs pending); nvidia-aema (Emerald AI + Google + NVIDIA launch AI Energy Management Alliance — NVIDIA blog Sep 16; flexible grid-responsive AI DCs; Axios: Anthropic + utilities among launch partners); bcv-16 (Bain Capital Ventures raises $1.6B early-stage AI fund — Bloomberg Sep 16 10:00 a.m. ET; larger than $1.4B predecessor; infra / physical world / security / services). fomc-sep16 remains MAJOR lead. Yahoo ~7:58 p.m. ET close/AH tape: cash prints unchanged vs Afternoon ~4:46 p.m. (S&P 7,551.81 −0.45%, 10y 5.006%, 30y 5.349%, SOX 11,246.11 +0.63%, NVDA $213.90 +0.82%); ES AH ≈7,655 (+0.42%) vs Afternoon ≈7,622. SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. Declined this hour: Impulse Space $308M Series D extension / first CFO (company+Reuters; space mobility off core AI/PE/finance beat); Anthropic Claude Chat+Cowork merge / Docs+Slides (Reuters/Fortune; product UX color); Nvidia DSX MaxLPS / Lambda token-throughput summit color (below AEMA bar); Arcee follow-ups (already arcee-b). Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
+    "body": "Vol. 1 No. 105 Morning Edition — four ADDs vs Close (No. 104 / sha cdcc6f90): advent-yatharth (Advent ₹3,150 crore / ~$328.5M primary for 24.9% Yatharth Hospitals — Advent PR + Reuters Sep 17); bauwatch-carlyle-cvc (Carlyle + CVC DIF majority BauWatch from Haniel; Haniel keeps 10%; close Q1 2027 — company PR Sep 17; Reuters ~€1B EV people-familiar); clearlake-chelsea (Clearlake to full control of Chelsea FC as Boehly+Walter sell — club statement via CNBC/Reuters; FT ~£5B club / ~£950M for two stakes — label FT); llm-sponsor-bias (arXiv 2609.17989 role-assignment sponsorship bias in LLM recommenders — finance/AI research plate). fomc-sep16 remains MAJOR lead (not displaced). Yahoo ~9:07 a.m. ET premarket tape: S&P cash still prior close 7,551.81 (−0.45%); ES ≈7,719 (+1.26% vs 7,623); 10y 4.957%; 30y 5.313%; SOX prior close 11,246.11 (+0.63%); NVDA prior close $213.90 / premarket ≈$218.40 (+2.1%). SoftBank $25.9B OpenAI bridge prepay still schedule-only (softbank-259-prepay) — SoftBank IR still tops at Sep 9 decision PR; no separate settlement wire. Declined this hour: Anthropic Claude Chat+Cowork merge / Docs+Slides (product UX; already No.104 deskNote); Hang Ten Systems +$53M second seed to $85M (Temasek-backed Xora; below PE plate bar); Impulse Space off beat; SoftBank settlement invent / Apollo upsizing without new SoftBank IR primary; Baldwin/DFO already baldwin-dfo-77. Open watches still OPEN (Bloomberg >15% early-2027 server hikes; Anthropic–Lambda $35B; Anthropic public S-1/MatX; DeepSeek $74–75B; DOJ–Nvidia–Groq; Vista–Finastra). HF CLOSED."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "FOMC Sep 15–16 decision PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path is Warsh guidance + remaining 2026 SEP dots, not an invented meeting. Cohere–Aleph definitive on plate (cohere-aleph) — close later 2026 subject to regs; Schwarz/StackIT terms per Reuters. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN; Claude product merge is product color only. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. Arcee Series B company primary on plate — Fortune ≥$150M dollars still people-familiar only."
+    "line": "Cash equity open 9:30 a.m. ET — refresh S&P/SOX/NVDA off prior-close/premarket prints. FOMC Sep 15–16 decision PRINTED (fomc-sep16) — +25 bp to 3.75%–4.00%; next path is Warsh guidance + remaining 2026 SEP dots. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR; no separate settlement wire. Brookfield–RWC go-shop through Oct 15; scheme booklet Nov; Q1 2027 implementation target. Vista–Finastra early-stage strategic options — no deal certainty. Anthropic public S-1/MatX still OPEN; Claude product merge is product color only. DeepSeek first CFO people-familiar — $74–75B funding watch still OPEN. Nvidia–Hugging Face confirmed — HF watch CLOSED. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027; Advent–Yatharth customary close; Clearlake–Chelsea terms beyond club statement still FT-labeled only."
   },
   "sections": [
     "All",
@@ -58,6 +58,105 @@
         "The Federal Open Market Committee on Sept. 16 raised the target range for the federal funds rate by a quarter percentage point to 3¾ to 4 percent, approving the statement by a 12–0 vote.",
         "The Committee said economic activity is expanding at a solid pace, domestic spending has been resilient, productivity growth is strong and capital investment is robust, while inflation remains elevated and today’s action will support a timelier return to the 2 percent goal. Separately, the Board raised the interest on reserve balances to 3.90 percent and the primary credit rate to 4.0 percent, both effective Sept. 17, and directed the New York Fed Desk to maintain the funds rate in the new range.",
         "In the Summary of Economic Projections released with the decision, the median projected federal funds rate is 4.1 percent at the end of 2026 and 2027, 3.9 percent in 2028, 3.6 percent in 2029, and 3.2 percent in the longer run. CNBC reported it as the first hike since July 2023 and said 16 of 18 participants expect at least one more increase this year, with Chair Kevin Warsh not submitting a dot. At the post-meeting press conference, Reuters quoted Warsh saying inflation is too high and has been for too long, and that summer readings do not show underlying trends have meaningfully improved."
+      ]
+    },
+    {
+      "id": "advent-yatharth",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / India healthcare",
+      "hed": "Advent to put ₹3,150 crore (~$328.5M) primary into Yatharth for 24.9%",
+      "dek": "Advent + company Sep 17. Definitive primary infusion; Tyagi family remains largest shareholder. Reuters: $328.53M / shares to record high. Customary close conditions.",
+      "date": "Sept. 17, 2026",
+      "source": "Advent International",
+      "url": "https://www.adventinternational.com/news/advent-international-to-invest-rs-3150-crore-in-yatharth-hospitals-for-24-9-stake/",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/advent-invest-3285-million-indias-yatharth-hospital-249-stake-2026-09-17/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / India healthcare as Morning catch-up (Advent company PR Sep 17; Reuters same day). PRIMARY: https://www.adventinternational.com/news/advent-international-to-invest-rs-3150-crore-in-yatharth-hospitals-for-24-9-stake/. Stick to Advent: definitive agreement to invest Rs 3,150 crore of primary capital in Yatharth Hospital and Trauma Care Services Ltd (NSE: YATHARTH, BSE: 543950); upon completion Advent expected to acquire significant minority stake of 24.9%; subject to customary closing conditions; Tyagi Family remains largest shareholder and continues to guide long-term vision; nine multi-speciality hospitals ~2,800 beds / announced capacity ~3,250. Reuters secondary OK if labeled: invest 31.5 billion rupees ($328.53 million) for 24.9%; shares rose as much as 8.6% to record 1,067 rupees. Do NOT invent EV, board seats, or secondary-sale dollars. Keep fomc-sep16 as lead. Owner Quill.",
+      "grafs": [
+        "Advent International said Sept. 17 it has entered a definitive agreement to invest Rs 3,150 crore of primary capital in Yatharth Hospital and Trauma Care Services Ltd., and is expected to acquire a 24.9% minority stake on completion, subject to customary closing conditions.",
+        "The Tyagi family will remain the company’s largest shareholder and continue to guide long-term strategy. Yatharth operates nine multi-speciality hospitals with about 2,800 beds and an announced capacity of roughly 3,250 beds across North India.",
+        "Reuters, labeling the dollar conversion, said Advent will invest 31.5 billion rupees ($328.53 million) for the 24.9% stake and that Yatharth shares rose as much as 8.6% to a record 1,067 rupees."
+      ]
+    },
+    {
+      "id": "bauwatch-carlyle-cvc",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Infra security",
+      "hed": "Carlyle + CVC DIF take majority BauWatch; Haniel keeps 10%",
+      "dek": "CVC/Carlyle company PR Sep 17. Close guided Q1 2027 subject to regs. Reuters: each 45%; ~€1B EV people-familiar. Revenue €59M→€153M under Haniel.",
+      "date": "Sept. 17, 2026",
+      "source": "CVC / Carlyle",
+      "url": "https://www.cvc.com/media/news/2026/carlyle-and-cvc-dif-agree-to-acquire-bauwatch-from-haniel/",
+      "also": [
+        {
+          "label": "Reuters (EV people-familiar)",
+          "url": "https://www.reuters.com/legal/transactional/haniel-sells-majority-stake-bauwatch-carlyle-cvc-2026-09-17/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / European infra-security as Morning catch-up (CVC company PR Sep 17; Reuters same day). PRIMARY: https://www.cvc.com/media/news/2026/carlyle-and-cvc-dif-agree-to-acquire-bauwatch-from-haniel/. Stick to company: Carlyle + CVC DIF agree to acquire BauWatch (tech-enabled remote video surveillance) from Haniel; Haniel retains 10% minority; subject to customary regulatory approvals; expected close Q1 2027; Apeldoorn HQ; AI-enabled monitoring + 24/7 alarm response; 12 European markets; >15,000 active systems; revenue grew €59M to €153M in 2025 under Haniel since 2021; Carlyle Europe Partners equity; CVC DIF Value-Add IV. Reuters secondary OK if labeled: Carlyle and CVC each acquire 45%, Haniel retains 10%; deal values company around €1 billion ($1.15 billion) according to two sources familiar — LABEL EV as people-familiar, not company. Do NOT invent purchase price as confirmed company figure. Keep fomc-sep16 as lead. Owner Quill.",
+      "grafs": [
+        "CVC DIF and Carlyle said Sept. 17 they have agreed to acquire BauWatch, the European remote video-surveillance platform, from German family equity firm Haniel, which will retain a 10% minority stake; the deal is subject to customary regulatory approvals and is expected to close in the first quarter of 2027.",
+        "BauWatch, headquartered in Apeldoorn, the Netherlands, combines remote video surveillance, AI-enabled monitoring and 24/7 alarm response; the company PR says it is active in 12 European markets with more than 15,000 active systems, and that revenue rose from €59 million to €153 million in 2025 under Haniel’s ownership since 2021.",
+        "Reuters reported that under the agreement Carlyle and CVC will each acquire a 45% stake, and — citing two people familiar with the matter — that the deal values BauWatch at around €1 billion ($1.15 billion); label that enterprise value as people-familiar, not a company print."
+      ]
+    },
+    {
+      "id": "clearlake-chelsea",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Sports",
+      "hed": "Clearlake to full control of Chelsea as Boehly and Walter sell stakes",
+      "dek": "Club statement (via CNBC/Reuters) Wed night / Sep 17. Wyss remains. Boehly steps down as chair. FT (via CNBC/ESPN): ~£950M for two stakes / ~£5B club incl. debt — label FT.",
+      "date": "Sept. 17, 2026",
+      "source": "Chelsea FC (via CNBC)",
+      "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+      "also": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/former-chelsea-owners-boehly-walter-sell-holdings-clearlake-2026-09-16/"
+        },
+        {
+          "label": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/articles/cvrl6egl1254o"
+        },
+        {
+          "label": "ESPN (FT figures)",
+          "url": "https://www.espn.com/soccer/story/_/id/49960706/chelsea-clarlake-capital-todd-boehly-mark-walter-ownership"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / sports ownership as Morning catch-up (Chelsea club statement Wed night Sep 16 ET / Sep 17 coverage; CNBC + Reuters). PRIMARY quotes via CNBC: https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html. Stick to club: affiliates of Clearlake Capital Group, L.P. will acquire Todd Boehly’s ownership interest; Clearlake will also acquire Mark Walter’s interest and therefore acquire full control; Hansjörg Wyss remains an important stakeholder and partner; Boehly leaves chairman role; no changes to day-to-day operations, leadership or strategy; Clearlake previously majority (~61.5%); Boehly and Walter each ~12.8% per CNBC. FT figures ONLY if labeled (via CNBC/ESPN): ~£950 million combined for Boehly+Walter stakes; values club at ~£5 billion including debt. Do NOT invent Premier League approval timing or treat Wyss as selling (club says he remains). Keep fomc-sep16 as lead. Owner Quill.",
+      "grafs": [
+        "Chelsea Football Club said affiliates of Clearlake Capital Group, L.P. will acquire Todd Boehly’s ownership interest and, as part of the transition, Mark Walter’s stake — giving Clearlake full control — while Hansjörg Wyss remains an important stakeholder and partner in the ownership group.",
+        "Boehly is stepping down as chairman. Clearlake, which already held a majority stake (about 61.5% per CNBC), said through co-founders Behdad Eghbali and José Feliciano that it will continue investing in infrastructure, sporting performance and player development; the club said there will be no changes to day-to-day operations, leadership or strategy.",
+        "The Financial Times, as cited by CNBC and ESPN, reported roughly £950 million combined for the Boehly and Walter stakes in a transaction valuing the club at about £5 billion including debt — label those figures as FT, not club."
+      ]
+    },
+    {
+      "id": "llm-sponsor-bias",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research / AI commerce",
+      "hed": "arXiv: role assignment induces sponsorship bias in LLM recommenders",
+      "dek": "arXiv 2609.17989 (submitted Sep 16). Platform-as-principal attenuates penalty on sponsored listings vs traveler principal; disclosure alone insufficient in AI-mediated commerce.",
+      "date": "Sept. 16, 2026",
+      "source": "arXiv 2609.17989",
+      "url": "https://arxiv.org/abs/2609.17989",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / Research as Morning note (arXiv 2609.17989). PRIMARY: https://arxiv.org/abs/2609.17989. Stick to abstract: LLMs as conversational shopping assistants face conflict of duty when platforms sell advertising; sponsorship disclosures reach the agent not the consumer; fiduciary conflict-of-duty framing — agent’s evaluation of sponsored listing should not depend on which party deployed it; controlled choice experiments manipulate system-prompt roles (traveler vs booking platform as principal); platform delegation significantly attenuates penalty agents apply to sponsored listings and weakens disclosure-triggered skepticism in reasoning traces; replicated across LLMs and reasoning depths; second study: divergence widens when paid placement attributed to platform; stricter “Sponsored” vs “Promoted” lowers paid-listing choice but does not close gap when platform is named; disclosure mandates for human consumers cannot by themselves protect consumers in AI-mediated commerce. Do NOT invent model names, lift %, or vendor case studies beyond the abstract. Owner Quill.",
+      "grafs": [
+        "arXiv 2609.17989 (“Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders”), submitted Sept. 16, argues that LLM shopping assistants face a conflict of duty when the deploying platform also sells advertising, because sponsorship disclosures now reach the agent rather than the consumer.",
+        "In controlled choice experiments, assigning the booking platform rather than the traveler as the agent’s principal in the system prompt significantly attenuated the penalty agents applied to sponsored listings and weakened disclosure-triggered skepticism in reasoning traces; findings replicated across LLMs and reasoning depths.",
+        "A second study found the traveler–platform divergence widened when paid placement was attributed to the platform, and that stricter “Sponsored” (vs “Promoted”) wording lowered choice of paid listings but did not close the gap when the platform was named — concluding disclosure mandates designed for human consumers cannot by themselves protect consumers in AI-mediated commerce."
       ]
     },
     {
