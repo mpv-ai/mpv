@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 120,
+  "number": 121,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Afternoon Edition",
+  "editionLabel": "Mid-Afternoon Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~2:06 p.m. ET - Friday session. Yahoo: S&P 7,629.10 (−0.11%), Dow 51,620.98 (−0.30%), Nasdaq 26,415.62 (−0.01%), SOX 11,730.32 (+1.13%), NVDA $219.51 (+0.08%), ^TNX ~5.000%, ^TYX ~5.335%.",
-    "line": "S&P 7,629.10 (−0.11%) · Dow 51,620.98 (−0.30%) · Nasdaq 26,415.62 (−0.01%) · SOX 11,730.32 (+1.13%) · NVDA $219.51 (+0.08%) · 10-year 5.000% · 30-year 5.335%"
+    "updated": "Sep 18, ~3:05 p.m. ET - Friday session. Yahoo: S&P 7,641.05 (+0.04%), Dow 51,704.10 (−0.14%), Nasdaq 26,465.33 (+0.18%), SOX 11,762.42 (+1.40%), NVDA $219.43 (+0.04%), ^TNX ~5.000%, ^TYX ~5.332%.",
+    "line": "S&P 7,641.05 (+0.04%) · Dow 51,704.10 (−0.14%) · Nasdaq 26,465.33 (+0.18%) · SOX 11,762.42 (+1.40%) · NVDA $219.43 (+0.04%) · 10-year 5.000% · 30-year 5.332%"
   },
   "deskNote": {
-    "kicker": "Markets / AI / PE",
-    "hed": "Suleyman on OpenAI CoT tampering; OpenAI posts misalignment reports.",
+    "kicker": "Markets / AI / Fed",
+    "hed": "Evaluator embed letter + Warsh 'dose of accommodation' follow-on.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 120 Afternoon Edition - ADD suleyman-serious, openai-misalign-reports (both Quill) vs No. 119 Early Afternoon. CNBC Squawk: MSFT AI CEO calls OpenAI chain-of-thought / working-memory self-tampering a serious situation. OpenAI Alignment: six misalignment reports live (compaction notes; reports updated Sep 16; TechCrunch Sep 17). Completes openai-wiki framework watch. Not MAJOR - fomc-sep16 remains lead. Yahoo ~2:06 p.m. ET: S&P 7,629.10 (−0.11%), SOX 11,730.32 (+1.13%), NVDA $219.51 (+0.08%), 10y ~5.000%, 30y ~5.335%. Declined Neysa recirculation (already declined 119), BeBeez Anthropic IPO delay recirculation, Goldman Oppenheimer Competition for Capital (no primary GS PDF; Warsh already on plate), Blackstone UBS FCH loan (paywalled Bloomberg incremental to bx-fch), Crux $22B recirculation (already crux-22b)."
+    "body": "Vol. 1 No. 121 Mid-Afternoon Edition - ADD aef-embed-letter, warsh-dose (both Quill) vs No. 120 Afternoon. PRIMARY: AI Evaluator Forum Sep 18 letter (100+ signatories; five minimum conditions for embedded third-party evaluators) + CNBC exclusive. CNBC Jeff Cox on Warsh Sep 16 'dose of accommodation' framing; Evercore Guha hawkish read; CME FedWatch Oct hike odds ~58% Fri a.m. vs ~42% week earlier (CNBC). Lead remains fomc-sep16. Yahoo ~3:05 p.m. ET: S&P 7,641.05 (+0.04%), SOX 11,762.42 (+1.40%), NVDA $219.43 (+0.04%), 10y ~5.000%, 30y ~5.332%. Declined Manus $500M/$4B (WSJ/Bloomberg anonymous; TechCrunch secondary; no company confirm — UNCONFIRMED), Dreamforce 'older models enough' color feature, Buffett Berkshire chair step-down (outside core AI/PE/CFO beat), CleanSpark $6.6B lease recirculation (already clsk-meta-2227), Instinct $1B/$10B The Information recirculation (Sep 15-16), Sanmina ex-NVIDIA board 8-K (Sep 14-15 stale), Coforge PE-AI whitepaper soft."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 120 Afternoon + two ADDs - OpenAI misalignment report follow-ons / An Alien Mind if material. Anthropic wet-lab / Claude robot-lab confirms + any drug-program detail. CoreWeave settle Sep 22 + any upsizing exercise. CleanSpark notes pricing/close + Sandersville Phase I rent Q4 2027. Newsom GovOps/OES recommendations due ~Nov 16. Solidigm site/capex confirm. SK hynix Ventures first disclosed checks. Anthropic/OpenAI 20-30 MW lease confirms. MISTRAS SEC 8-K / proxy + go-shop through Oct 27. Nebius Oct 1 rate cutover. CXMT Beijing NAND R&D confirm. Apollo-Energos / XRG UNCONFIRMED. Softcat Admission ~Sep 22. SoftBank Arm draw / OpenAI bridge. Apollo-SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI-Glass confirm. Crux $22B still no BX/Alphabet IR. Anthropic public S-1/MatX OPEN. DeepSeek $74-75B OPEN. DOJ-Nvidia-Groq OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic-Lambda $35B OPEN. Broadcom IR Q3 transcript OPEN. Snowflake 10-Q CLOSED (snow-10q)."
+    "line": "No. 121 Mid-Afternoon + two ADDs - Lab responses to AEF embed-letter conditions / AEF-1 adoption. Warsh/FOMC speakers on 'accommodation' framing + Oct FOMC pricing. OpenAI misalignment report follow-ons / An Alien Mind if material. Anthropic wet-lab / Claude robot-lab confirms + any drug-program detail. CoreWeave settle Sep 22 + any upsizing exercise. CleanSpark notes pricing/close + Sandersville Phase I rent Q4 2027. Newsom GovOps/OES recommendations due ~Nov 16. Solidigm site/capex confirm. SK hynix Ventures first disclosed checks. Anthropic/OpenAI 20-30 MW lease confirms. MISTRAS SEC 8-K / proxy + go-shop through Oct 27. Nebius Oct 1 rate cutover. CXMT Beijing NAND R&D confirm. Apollo-Energos / XRG UNCONFIRMED. Softcat Admission ~Sep 22. SoftBank Arm draw / OpenAI bridge. Apollo-SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI-Glass confirm. Crux $22B still no BX/Alphabet IR. Anthropic public S-1/MatX OPEN. DeepSeek $74-75B OPEN. DOJ-Nvidia-Groq OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic-Lambda $35B OPEN. Broadcom IR Q3 transcript OPEN. Snowflake 10-Q CLOSED (snow-10q). Manus $4B round UNCONFIRMED watch."
   },
   "sections": [
     "All",
@@ -28,6 +28,62 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "aef-embed-letter",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Governance",
+      "hed": "100+ evaluators set minimum conditions for embedding inside frontier labs",
+      "dek": "AI Evaluator Forum letter Sep 18. Independence, transparency, no-retaliation, employee-like access. Hinton, Russell, METR among signatories. CNBC exclusive.",
+      "date": "Sept. 18, 2026",
+      "source": "AI Evaluator Forum / CNBC",
+      "url": "https://aievaluatorforum.org/initiatives/embedded-evaluation-letter",
+      "also": [
+        {
+          "label": "CNBC exclusive on the letter",
+          "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html"
+        },
+        {
+          "label": "AEF-1 minimum operating conditions (PDF)",
+          "url": "https://aievaluatorforum.org/AEF_1_Minimum_Operating_Conditions_for_Independent_Third_Party_AI_Evaluations.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / governance as Mid-Afternoon Sep 18 print. PRIMARY: aievaluatorforum.org letter dated Sep 18 (100+ signatories). SECONDARY: CNBC exclusive. Stick to letter text: five minimum conditions (independence/editorial control/no contingent pay; multiple evaluators/viewpoints; transparency + limited NDAs + board access; shield from retaliation/funding; employee-equivalent access). Notable names on letter page include Geoffrey Hinton, Stuart Russell, Vinh Nguyen (ex-NSA CAIO), METR's Charles Foster. CNBC: Conrad Stosz (AEF chair / Transluce) on shared principles; letter responds to Amodei 'employee-like access' proposal. Do NOT invent lab responses or claim OpenAI/Anthropic accepted terms. Not MAJOR. Owner Quill. Pair with suleyman-serious / openai-misalign-reports.",
+      "grafs": [
+        "The AI Evaluator Forum published a Sep. 18 open letter, \"Minimum Conditions for Embedding Evaluators,\" signed by more than 100 people in a personal capacity, setting five baseline requirements if frontier labs embed third-party evaluators with the kind of deep access Anthropic and peers have floated.",
+        "The conditions demand meaningful independence and editorial control (no lab ownership/governance, no contingent pay tied to findings), multiple evaluators across risk areas, transparency on methods/access/terms with limited NDAs and prompt board access, protections against retaliation including funding durability, and access equivalent to highly privileged employees for evaluation purposes (with customer-data carve-outs).",
+        "CNBC, which got an exclusive, quotes AEF chair Conrad Stosz on establishing shared principles so independent oversight is a \"meaningful tool.\" Signatories listed on the Forum page include Geoffrey Hinton, Stuart Russell, Vinh Nguyen (former NSA chief AI officer), and METR staff among others. Complements openai-misalign-reports and suleyman-serious; not MAJOR — fomc-sep16 remains lead."
+      ]
+    },
+    {
+      "id": "warsh-dose",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Fed",
+      "hed": "Warsh's 'dose of accommodation' framing has Street pricing a more open-ended hike path",
+      "dek": "CNBC Sep 18 on Warsh Sep 16 presser language. Evercore: stand-out hawkish element. CME FedWatch Oct hike odds ~58% Fri a.m. (was ~42% a week earlier).",
+      "date": "Sept. 18, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+      "also": [
+        {
+          "label": "FOMC Sep 16 plate (fomc-sep16)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"
+        },
+        {
+          "label": "Warsh hyperscaler capital (warsh-hyperscaler)",
+          "url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / Fed as Mid-Afternoon Sep 18 follow-on to fomc-sep16 / warsh-hyperscaler. PRIMARY: CNBC Jeff Cox Sep 18. Stick to attributed framing: Warsh called the +25 bp hike removing 'a dose of accommodation' (repeated); told Liesman neutral rate is academically useful but has 'no operational effect' on decisions today. Evercore ISI Krishna Guha client note via CNBC: 'one stand-out hawkish element' / more open-ended hike path. CNBC: CME FedWatch Oct hike odds near 58% Friday morning vs 42% a week earlier; GS and BofA added October hike to forecasts per CNBC. Futures implying ~4.635% funds near end-2027 per CNBC. Do NOT invent SEP dots beyond fomc-sep16 plate. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "CNBC's Jeff Cox writes that Fed Chair Kevin Warsh's Sep. 16 description of the quarter-point hike as removing \"a dose of accommodation\" — language he repeated — has Wall Street debating how open-ended the Warsh Fed's hiking path could be, especially after Warsh told CNBC's Steve Liesman that the neutral-rate benchmark has \"no operational effect\" on decisions today.",
+        "Evercore ISI's Krishna Guha, in a client note cited by CNBC, called the phrase \"the one stand-out hawkish element\" of the presser and said the framing differs from recent Fed practice, raising the possibility of a more open-ended approach to how many hikes may be required.",
+        "CNBC says CME FedWatch odds of an October hike were near 58% Friday morning, up from about 42% a week earlier, and that Goldman Sachs and Bank of America added an October increase to their forecasts. Complements fomc-sep16 and warsh-hyperscaler; not MAJOR — fomc-sep16 remains lead."
+      ]
+    },
     {
       "id": "suleyman-serious",
       "lead": false,
