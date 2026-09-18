@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 116,
+  "number": 117,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Midmorning Edition",
+  "editionLabel": "Late Morning Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~10:12 a.m. ET  -  Friday cash open. Yahoo: S&P 7,627.98 (−0.13%), SOX 11,752.19 (+1.32%), NVDA $220.45 (+0.51%), Nasdaq 26,417.93 (flat), ^TNX ~4.996%, ^TYX ~5.327%.",
-    "line": "S&P 7,627.98 (−0.13%) · SOX 11,752.19 (+1.32%) · NVDA $220.45 (+0.51%) · 10-year 4.996% · 30-year 5.327% · Nasdaq 26,417.93 (flat)"
+    "updated": "Sep 18, ~11:08 a.m. ET  -  Friday session. Yahoo: S&P 7,629.50 (−0.11%), Dow 51,547.15 (−0.45%), Nasdaq 26,428.50 (+0.04%), SOX 11,743.33 (+1.24%), NVDA $219.50 (+0.07%), ^TNX ~4.992%, ^TYX ~5.326%.",
+    "line": "S&P 7,629.50 (−0.11%) · Dow 51,547.15 (−0.45%) · Nasdaq 26,428.50 (+0.04%) · SOX 11,743.33 (+1.24%) · NVDA $219.50 (+0.07%) · 10-year 4.992% · 30-year 5.326%"
   },
   "deskNote": {
-    "kicker": "Markets / AI",
-    "hed": "BOJ to 1.25% (7–2); Ant FinAI; Anew $290M; Glass >$300M UNCONFIRMED; SoftBank Arm/CL.",
+    "kicker": "Markets / AI / PE",
+    "hed": "H.I.G.–MISTRAS $866M; Nebius GPU +17–21%; CXMT NAND UNCONFIRMED; Apollo–Energos >$3B talks.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 116 Midmorning Edition  -  ADD boj-sep18, ant-finai, anew-labs, openai-glass, softbank-arm-cl (all Quill) vs No. 115 Morning. BOJ +25 bp to 1.25% (7–2; Asada/Sato dissent; Jiji/BBC/CNBC). Ant International FinAI + Account for Agent (company PR). Anew Labs $290M at $1.5B people-familiar (Reuters Sep 16). OpenAI–Glass Imaging >$300M WSJ via TechCrunch UNCONFIRMED. SoftBank Arm margin to $25B + credit line to $6.5B (Bloomberg people-familiar). Not MAJOR  -  fomc-sep16 remains lead. Yahoo ~10:12 a.m. ET cash open: S&P 7,627.98 (−0.13%), SOX 11,752.19 (+1.32%), NVDA $220.45 (+0.51%), 10y ~4.996%, 30y ~5.327%. Declined Neysa $1.2B recirculation (Feb 2026 Blackstone PR / TechCrunch). SoftBank $25.9B still schedule-only."
+    "body": "Vol. 1 No. 117 Late Morning Edition  -  ADD mistras-hig, nebius-gpu, cxmt-nand, apollo-energos (all Quill) vs No. 116 Midmorning. H.I.G. take-private of MISTRAS at $20.35/share (~$866M EV incl. debt; company PR Sep 18; go-shop to Oct 27). Nebius on-demand Nvidia GPU rates +17–21% from Oct 1 (Reuters Sep 17; second hike in three months). CXMT NAND R&D line in Beijing UNCONFIRMED (Reuters exclusive). Apollo exploring Energos FLNG sale at >$3B UNCONFIRMED (Reuters Sep 17; XRG among possible bidders). Not MAJOR  -  fomc-sep16 remains lead. Yahoo ~11:08 a.m. ET: S&P 7,629.50 (−0.11%), SOX 11,743.33 (+1.24%), NVDA $219.50 (+0.07%), 10y ~4.992%, 30y ~5.326%. Declined Neysa $1.2B recirculation, Coforge PE white paper, HiTech ASX CFO, Crux/SoftBank Arm/Crusoe recirculations already on plate."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 116 Midmorning + five ADDs  -  BOJ path (next hike debate ~Dec; terminal still market talk). Softcat Admission ~Sep 22 + prelims Oct 14 + GDT close Q1 2027. SoftBank Arm draw / credit-line tap + $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI–Glass Imaging company confirm watch. Anew Labs company/investor confirm. Fed speakers (Bowman / Schmid) post-event text still pending. ElevenLabs Scaleup talks UNCONFIRMED. Beacon–Haize terms undisclosed. Nvidia BAIIF $2B  -  BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ  -  court has not ruled. Crux $22B chip loan  -  still no Blackstone/Alphabet/Crux IR confirm. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Raindrop Simulations GA. Penelope terms beyond $100M thin."
+    "line": "No. 117 Late Morning + four ADDs  -  MISTRAS SEC 8-K / proxy Schedule 14A + go-shop through Oct 27. Nebius Oct 1 rate cutover + commitment-discount uptake. CXMT company/Beijing confirm on NAND R&D line. Apollo–Energos process / XRG stake talks UNCONFIRMED. BOJ path (next hike debate ~Dec). Softcat Admission ~Sep 22 + prelims Oct 14 + GDT close Q1 2027. SoftBank Arm draw / credit-line tap + $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI–Glass Imaging company confirm watch. Anew Labs company/investor confirm. Fed speakers (Bowman / Schmid) post-event text still pending. ElevenLabs Scaleup talks UNCONFIRMED. Beacon–Haize terms undisclosed. Nvidia BAIIF $2B  -  BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ  -  court has not ruled. Crux $22B chip loan  -  still no Blackstone/Alphabet/Crux IR confirm. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
   },
   "sections": [
     "All",
@@ -28,6 +28,96 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "mistras-hig",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity / Industrials",
+      "hed": "H.I.G. to take MISTRAS private at $20.35/share; ~$866M EV incl. debt",
+      "dek": "Company PR Sep 18 via GlobeNewswire. All-cash; board unanimous; ~31% voting support; 40-day go-shop to Oct 27. Close late 2026 / early 2027. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 18, 2026",
+      "source": "MISTRAS / GlobeNewswire (via StockTitan); MarketWatch",
+      "url": "https://www.stocktitan.net/news/MG/mistras-group-inc-enters-into-definitive-agreement-to-be-acquired-by-dcc4vmgx27k3.html",
+      "also": [
+        {
+          "label": "MarketWatch (Sep 18)",
+          "url": "https://www.marketwatch.com/story/mistras-group-agrees-to-866m-acquisition-by-h-i-g-capital-affiliates-5462088b"
+        },
+        {
+          "label": "HedgeCo (Sep 18)",
+          "url": "https://hedgeco.net/news/09/2026/h-i-g-agreed-to-acquire-mistras-group-for-20-35-per-share.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / H.I.G.–MISTRAS as Late Morning print (company PR Sep 18). PRIMARY: StockTitan full GlobeNewswire text. Stick to confirmed: $20.35/share cash; EV ~$866M incl. outstanding debt; premiums ~8% / 13% to 30-/90-day VWAP ended Sep 17; 61% appreciation since Dec 31, 2025; board unanimous; H.I.G. affiliates have voting support on ~31% of shares; 40-day go-shop expires 11:59 p.m. ET Oct 27, 2026; close guided late 2026 or early 2027 subject to stockholder + regulatory approval; H.I.G. cites $75B AUM; advisors Baird (company), Texas Capital Securities (H.I.G.). SEC 8-K not yet visible on EDGAR as of ~11:08 a.m. ET Sep 18 — watch filing. Do NOT invent EBITDA multiple or financing sources. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "MISTRAS Group (NYSE: MG) said Sept. 18 it entered a definitive agreement to be acquired by affiliates of H.I.G. Capital in an all-cash deal at $20.35 per share, representing an enterprise value of about $866 million including outstanding debt, according to the company press release carried via GlobeNewswire.",
+        "The price is about an 8% and 13% premium to the company's 30- and 90-day volume-weighted average share prices for the period ended Sept. 17, and the board unanimously approved the transaction. Closing is expected in late 2026 or early 2027, subject to stockholder and regulatory approvals.",
+        "H.I.G. affiliates have voting and support agreements covering roughly 31% of MISTRAS common stock. The agreement includes a 40-day go-shop period expiring at 11:59 p.m. ET on Oct. 27, 2026. MarketWatch put the EV including debt at $866 million and noted shares were up in premarket after Thursday's close at $19.84."
+      ]
+    },
+    {
+      "id": "nebius-gpu",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI Infra / Pricing",
+      "hed": "Nebius lifts on-demand Nvidia GPU rates 17%–21% from Oct. 1 (second hike in 3 months)",
+      "dek": "Reuters Sep 17 exclusive. CPU +25%, memory ~+41%. Four customer contracts averaging >$1B each. Customer-notice dollar rates via GuruFocus. Not MAJOR.",
+      "date": "Sept. 17, 2026",
+      "source": "Reuters; GuruFocus (customer notice)",
+      "url": "https://www.reuters.com/technology/nebius-hikes-ai-cloud-prices-again-demand-computing-power-soars-2026-09-17/",
+      "also": [
+        {
+          "label": "GuruFocus customer-notice rates (Sep 17)",
+          "url": "https://www.gurufocus.com/news/9085703/nebius-stock-jumps-9-after-raising-gpu-rates"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Nebius pricing as Late Morning print (missed by No. 116 Midmorning). PRIMARY: Reuters Sep 17. Stick to confirmed: pay-as-you-go prices for selected Nvidia chips rise from Oct 1; GPU rates +17% to +21%; some CPU-only instances +25%; memory offerings ~+41%; second hike in three months; customers reserving large multi-month clusters can get commitment discounts; Nebius said it signed four customer contracts averaging more than $1B each. ALSO GuruFocus (customer communication): H100 $3.85→$4.50; H200 →$5.40; B200 →$8.50; B300 $7.85→$9.50. Do NOT invent CoreWeave contract prices beyond Reuters note that CoreWeave is signing at higher prices. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Cloud provider Nebius (NBIS) said it will raise pay-as-you-go prices for leasing selected Nvidia chips from Oct. 1, marking its second price hike in three months, Reuters reported Sept. 17.",
+        "Rates for selected Nvidia GPUs will rise between 17% and 21%. On-demand rates for some AMD and Intel CPU instances will rise 25%, and memory offerings about 41%, the company said. Customers reserving large-scale clusters for multiple months can receive commitment discounts.",
+        "A customer notice summarized by GuruFocus put H100 hourly rates at $4.50 from $3.85, H200 at $5.40, B200 at $8.50, and B300 at $9.50 from $7.85. Reuters said Nebius signed four customer contracts averaging more than $1 billion each after a quarter of rapid AI-cloud growth."
+      ]
+    },
+    {
+      "id": "cxmt-nand",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Semiconductors / China",
+      "hed": "CXMT plans NAND flash R&D line in Beijing amid global memory shortage — UNCONFIRMED",
+      "dek": "Reuters exclusive Sep 18; three people familiar; CXMT/YMTC/Samsung/Beijing no immediate comment. Would challenge Samsung, SK Hynix, Micron, YMTC. Not MAJOR.",
+      "date": "Sept. 18, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / China memory as Late Morning print. PRIMARY: Reuters exclusive Sep 18 5:23 AM UTC. Stick to sourced: three people familiar; CXMT (688825.SS) preparing to enter NAND flash; plans R&D production line for NAND at new Beijing plant (two sources); research institute in Beijing includes NAND projects (one source); discussed NAND plans with customers incl. a startup for AI/storage (third source, unnamed); timeline for R&D line ops / commercial scale unclear; CXMT, YMTC, Samsung, Beijing municipal government did not immediately respond. Context from Reuters/TrendForce: AI server demand driving shortage into at least 2027; Samsung Q2 NAND share 29.3%; CXMT raised 57.92B yuan ($8.6B) in July IPO. Label UNCONFIRMED — company has not confirmed. Do NOT invent capacity MW or tape-out dates. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Chinese DRAM maker CXMT is preparing to enter the NAND flash market dominated by Samsung and other foreign rivals, three people familiar with the matter told Reuters on Sept. 18, a move that would broaden its customer base amid a global memory shortage driven in part by AI-server demand.",
+        "Two of the sources said CXMT plans to establish a NAND flash research-and-development production line at its new plant in Beijing, and one said a Beijing research institute includes NAND development projects. A third said CXMT has discussed NAND plans with customers, including a newly established startup intending to buy NAND for AI storage products.",
+        "It was not clear when the R&D line would start or whether CXMT would move to large-scale commercial manufacturing. CXMT, YMTC, Samsung, and the Beijing municipal government did not immediately respond to Reuters requests for comment. Mark UNCONFIRMED pending company confirmation."
+      ]
+    },
+    {
+      "id": "apollo-energos",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity / Energy Infra",
+      "hed": "Apollo explores full or partial sale of Energos FLNG platform at >$3B — UNCONFIRMED",
+      "dek": "Reuters Sep 17 people-familiar. XRG (ADNOC) among possible bidders for up to ~50%. Apollo and XRG declined comment. Not MAJOR.",
+      "date": "Sept. 17, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/apollo-explores-sale-options-floating-lng-infrastructure-operator-energos-2026-09-17/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE / Apollo as Late Morning print (missed by No. 116). PRIMARY: Reuters Sep 17. Stick to: Apollo exploring strategic options for Energos Infrastructure; deal could value platform at more than $3B (people familiar); open to full or partial sale; XRG (ADNOC international arm) among potential bidders for stake of up to 50%; sources caution no deal is a possible outcome; Apollo and XRG declined comment; Energos did not respond. Fleet: 13 floating LNG vessels (9 FSRU-style storage/regas, 2 storage, 2 carriers) under long-term arrangements (Brazil, Egypt, Indonesia, Mexico, Netherlands per company site via Reuters). Apollo formed Energos with New Fortress in 2022; bought NFE's 20% in Jan 2024. Label UNCONFIRMED. Do NOT invent process banker or bid list beyond XRG. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Apollo Global Management is exploring strategic options for Energos Infrastructure in a process that could value the floating LNG infrastructure provider at more than $3 billion, people familiar with the matter told Reuters on Sept. 17.",
+        "Apollo has been holding talks with prospective bidders and would be open to either a full or partial sale, the sources said. XRG, the international investment arm of Abu Dhabi National Oil Company, is among the potential bidders and could take a stake of up to 50%, they said. The sources cautioned that no deal is a possible outcome.",
+        "Apollo and XRG declined to comment; Energos did not respond. Stamford-based Energos operates 13 floating LNG vessels deployed under long-term arrangements. Mark UNCONFIRMED — no signed deal."
+      ]
+    },
     {
       "id": "boj-sep18",
       "lead": false,
