@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 117,
+  "number": 118,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Late Morning Edition",
+  "editionLabel": "Midday Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~11:08 a.m. ET  -  Friday session. Yahoo: S&P 7,629.50 (−0.11%), Dow 51,547.15 (−0.45%), Nasdaq 26,428.50 (+0.04%), SOX 11,743.33 (+1.24%), NVDA $219.50 (+0.07%), ^TNX ~4.992%, ^TYX ~5.326%.",
-    "line": "S&P 7,629.50 (−0.11%) · Dow 51,547.15 (−0.45%) · Nasdaq 26,428.50 (+0.04%) · SOX 11,743.33 (+1.24%) · NVDA $219.50 (+0.07%) · 10-year 4.992% · 30-year 5.326%"
+    "updated": "Sep 18, ~12:15 p.m. ET  -  Friday session. Yahoo: S&P 7,622.11 (−0.20%), Dow 51,559.44 (−0.42%), Nasdaq 26,384.03 (−0.13%), SOX 11,715.42 (+1.00%), NVDA $219.41 (+0.03%), ^TNX ~5.002%, ^TYX ~5.335%.",
+    "line": "S&P 7,622.11 (−0.20%) · Dow 51,559.44 (−0.42%) · Nasdaq 26,384.03 (−0.13%) · SOX 11,715.42 (+1.00%) · NVDA $219.41 (+0.03%) · 10-year 5.002% · 30-year 5.335%"
   },
   "deskNote": {
     "kicker": "Markets / AI / PE",
-    "hed": "H.I.G.–MISTRAS $866M; Nebius GPU +17–21%; CXMT NAND UNCONFIRMED; Apollo–Energos >$3B talks.",
+    "hed": "Newsom AI EO; Solidigm U.S. NAND UNCONFIRMED; SK hynix Ventures; Anthropic/OpenAI 20–30 MW hunts.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 117 Late Morning Edition  -  ADD mistras-hig, nebius-gpu, cxmt-nand, apollo-energos (all Quill) vs No. 116 Midmorning. H.I.G. take-private of MISTRAS at $20.35/share (~$866M EV incl. debt; company PR Sep 18; go-shop to Oct 27). Nebius on-demand Nvidia GPU rates +17–21% from Oct 1 (Reuters Sep 17; second hike in three months). CXMT NAND R&D line in Beijing UNCONFIRMED (Reuters exclusive). Apollo exploring Energos FLNG sale at >$3B UNCONFIRMED (Reuters Sep 17; XRG among possible bidders). Not MAJOR  -  fomc-sep16 remains lead. Yahoo ~11:08 a.m. ET: S&P 7,629.50 (−0.11%), SOX 11,743.33 (+1.24%), NVDA $219.50 (+0.07%), 10y ~4.992%, 30y ~5.326%. Declined Neysa $1.2B recirculation, Coforge PE white paper, HiTech ASX CFO, Crux/SoftBank Arm/Crusoe recirculations already on plate."
+    "body": "Vol. 1 No. 118 Midday Edition - ADD newsom-ai-eo, solidigm-nand-us, sk-hynix-ventures, ai-dc-small (all Quill) vs No. 117 Late Morning. Newsom EO accelerates SB 813/AB 1405 + expert guide ~2 months on kill switch / onsite IVO (gov.ca.gov). Solidigm U.S. NAND fab talks UNCONFIRMED (Reuters; upstate NY leading; company: reviewing, no plans confirmed). SK hynix Ventures CVC brand launch (company PR). Anthropic/OpenAI 20–30 MW DC hunts UNCONFIRMED (CNBC; OpenAI on-record diversified compute). Not MAJOR - fomc-sep16 remains lead. Yahoo ~12:15 p.m. ET: S&P 7,622.11 (−0.20%), SOX 11,715.42 (+1.00%), NVDA $219.41 (+0.03%), 10y ~5.002%, 30y ~5.335%. Declined Neysa $1.2B recirculation, EQT–Rexford $1.2B SoCal logistics (off AI core), Coforge PE white paper, Apollo–DePuy/Truist recirculations (dated), Naive AI The Information secondary."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 117 Late Morning + four ADDs  -  MISTRAS SEC 8-K / proxy Schedule 14A + go-shop through Oct 27. Nebius Oct 1 rate cutover + commitment-discount uptake. CXMT company/Beijing confirm on NAND R&D line. Apollo–Energos process / XRG stake talks UNCONFIRMED. BOJ path (next hike debate ~Dec). Softcat Admission ~Sep 22 + prelims Oct 14 + GDT close Q1 2027. SoftBank Arm draw / credit-line tap + $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI–Glass Imaging company confirm watch. Anew Labs company/investor confirm. Fed speakers (Bowman / Schmid) post-event text still pending. ElevenLabs Scaleup talks UNCONFIRMED. Beacon–Haize terms undisclosed. Nvidia BAIIF $2B  -  BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ  -  court has not ruled. Crux $22B chip loan  -  still no Blackstone/Alphabet/Crux IR confirm. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN."
+    "line": "No. 118 Midday + four ADDs - Newsom GovOps/OES recommendations due ~Nov 16; watch special session. Solidigm site/capex confirm + SK Hynix–Intel Ohio memory talks. SK hynix Ventures first disclosed checks. Anthropic/OpenAI 20–30 MW lease confirms. MISTRAS SEC 8-K / proxy + go-shop through Oct 27. Nebius Oct 1 rate cutover. CXMT Beijing NAND R&D confirm. Apollo–Energos / XRG UNCONFIRMED. Softcat Admission ~Sep 22. SoftBank Arm draw / OpenAI bridge. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI–Glass confirm. Crux $22B still no BX/Alphabet IR. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B OPEN. DOJ–Nvidia–Groq OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B OPEN."
   },
   "sections": [
     "All",
@@ -28,6 +28,101 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "newsom-ai-eo",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Policy",
+      "hed": "Newsom EO accelerates CA AI oversight and an independent-verified “kill switch”",
+      "dek": "Governor PR Sep 18. Speeds SB 813 / AB 1405; expert guide in ~2 months; onsite IVO audits, verified safety frameworks, kill-switch efficacy, loss-of-control reporting (Hugging Face). Calls for national floor. Not MAJOR - fomc-sep16 remains lead.",
+      "date": "Sept. 18, 2026",
+      "source": "Office of Governor Gavin Newsom; CalMatters",
+      "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+      "also": [
+        {
+          "label": "CalMatters (Sep 18)",
+          "url": "https://calmatters.org/politics/2026/09/ai-rules-newsom-state-directive/"
+        },
+        {
+          "label": "Deadline (Sep 18)",
+          "url": "https://deadline.com/2026/09/gavin-newsom-ai-executive-order-1237107446/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / California oversight as Midday print (Governor PR Sep 18). PRIMARY: gov.ca.gov. Stick to confirmed: EO accelerates SB 813 (independent verification orgs) and AB 1405 (AI auditor registry); GovOps + OES convene experts for recommendations within two months; proposals under consideration include onsite independent verification organizations at frontier labs, independent verification of safety frameworks/transparency reports/risk assessments, advancing a frontier-model kill switch with ongoing IVO verification of efficacy, and updating critical safety incident definitions to include loss-of-control incidents such as the Hugging Face attack. Newsom calls for Congress/Trump to adopt CA framework as national floor. Context: follows SB 53 (2025) transparency/incident reporting. Do NOT invent effective dates for new requirements beyond the EO’s recommendation process. Not MAJOR - fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "California Gov. Gavin Newsom on Sept. 18 issued an executive order directing the Government Operations Agency, in consultation with the Governor’s Office of Emergency Services, to accelerate implementation of SB 813 and AB 1405 and to convene national experts to recommend further AI safety and security changes within about two months, according to the governor’s office.",
+        "Proposals under consideration include requiring frontier AI companies to embed designated independent verification organizations onsite for regular audits, having those organizations verify safety frameworks and risk assessments filed under state law, advancing a frontier-model emergency shutoff or “kill switch” whose efficacy is verified on an ongoing basis, and expanding reportable critical safety incidents to include loss-of-control events such as the Hugging Face attack.",
+        "Newsom framed the order as a response to recent AI incidents and federal inaction, and called on Congress and the White House to review and adopt California’s framework as a national baseline. The move builds on SB 53 (2025) frontier transparency and incident-reporting rules and this year’s independent-oversight statutes. Not MAJOR - fomc-sep16 remains the plate lead."
+      ]
+    },
+    {
+      "id": "solidigm-nand-us",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Semiconductors / Memory",
+      "hed": "Solidigm weighs U.S. NAND flash fab; upstate New York leading site - UNCONFIRMED",
+      "dek": "Reuters Sep 18 people-familiar. Separate from SK Hynix–Intel Ohio memory talks. SK Hynix: reviewing options, no specific plans confirmed. Solidigm no comment. Not MAJOR - pairs with cxmt-nand.",
+      "date": "Sept. 18, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/",
+      "also": [
+        {
+          "label": "Korea JoongAng Daily (Sep 18)",
+          "url": "https://www.koreajoongangdaily.com/business/sk-hynixs-solidigm-weighs-new-york-nand-factory/12882558"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / memory as Midday UNCONFIRMED print (Reuters Sep 18). PRIMARY: Reuters. Stick to sourced: three people familiar say SK Hynix subsidiary Solidigm is considering a U.S. NAND flash factory with upstate New York a leading candidate; project described as separate from SK Hynix talks with Intel to make memory at Ohio; SK Hynix statement says Solidigm is reviewing various options to strengthen competitiveness but no specific plans confirmed; Solidigm did not respond; no agreement reached and key details under discussion per one source; context includes Trump admin reshoring pressure, Lutnick tariff threats, Seoul controversy over U.S. fab plans, Solidigm’s sole NAND plant in Dalian, and prior media on ~5T won pre-IPO fundraising (company said no decisions). Do NOT invent capex, capacity, or timeline. Not MAJOR - fomc-sep16 remains lead; pairs with cxmt-nand. Owner Quill.",
+      "grafs": [
+        "SK Hynix’s U.S. subsidiary Solidigm is considering building a NAND flash memory factory in the United States, with upstate New York emerging as a leading candidate, three people familiar with the matter told Reuters on Sept. 18. The sources said the project would be separate from SK Hynix’s discussions with Intel to make memory chips at Intel’s Ohio facility.",
+        "SK Hynix said Solidigm “is reviewing various options to strengthen its business competitiveness, but no specific plans have been confirmed at this time.” Solidigm did not respond to Reuters outside business hours. One source cautioned that no agreement has been reached and key project details remain under discussion.",
+        "A U.S. plant would reduce reliance on Solidigm’s sole NAND facility in Dalian, China, amid Washington pressure to reshore chip production as AI data-center demand tightens memory supply. South Korean President Lee Jae Myung called U.S. factory pressure on Korean chipmakers “a matter of controversy.” SK Hynix shares rose 6.4% versus a 2.7% KOSPI gain, Reuters said. Not MAJOR - fomc-sep16 remains lead."
+      ]
+    },
+    {
+      "id": "sk-hynix-ventures",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Semiconductors / Venture",
+      "hed": "SK hynix launches SK hynix Ventures CVC brand in Silicon Valley for AI ecosystem",
+      "dek": "Company PR Sep 18. Expands CVC beyond semis into AI computing, data centers, system software, optical interconnect. Inaugural Ventures Day with CEO Kwak. Fund size not disclosed.",
+      "date": "Sept. 18, 2026",
+      "source": "SK hynix / PR Newswire; Korea Herald",
+      "url": "https://www.prnewswire.com/news-releases/sk-hynix-launches-sk-hynix-ventures-in-silicon-valley-to-expand-global-ai-ecosystem-investment-302882993.html",
+      "also": [
+        {
+          "label": "Korea Herald (Sep 18)",
+          "url": "https://www.koreaherald.com/article/10878747"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / SK hynix CVC as Midday print (company PR Sep 18). PRIMARY: PR Newswire / SK hynix. Stick to confirmed: launch of corporate venture brand SK hynix Ventures; inaugural SK hynix Ventures Day in Silicon Valley attended by CEO Kwak Noh-Jung; plans to broaden CVC from semiconductors/emerging tech into AI computing, data centers, system software, and optical interconnect; company says CVC since 2015 with direct and fund investments across U.S., China, Israel, Japan and returns exceeding 2x cumulative investment. Do NOT invent fund AUM, check size, or portfolio names beyond the PR. Not MAJOR - fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "SK hynix on Sept. 18 announced the launch of corporate venture brand SK hynix Ventures, aimed at expanding strategic partnerships across the global AI ecosystem, according to a company press release carried on PR Newswire.",
+        "The firm held an inaugural SK hynix Ventures Day in Silicon Valley attended by CEO Kwak Noh-Jung and other executives alongside global VCs and startups. Through the brand, SK hynix said it will broaden CVC investing from traditional semiconductors and emerging tech into AI computing, data centers, system software, and optical interconnect.",
+        "SK hynix said it has run a CVC organization since 2015 with direct investments and fund commitments across the U.S., China, Israel, and Japan, and claims returns exceeding twice its cumulative investment to date. The release does not disclose a dedicated fund size for the new brand. Not MAJOR - fomc-sep16 remains lead."
+      ]
+    },
+    {
+      "id": "ai-dc-small",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infrastructure",
+      "hed": "Anthropic and OpenAI hunt 20–30 MW data-center deals for faster capacity - UNCONFIRMED",
+      "dek": "CNBC Sep 18 sources. Anthropic sounded out UK/Nordics; OpenAI Nordics; both also U.S. talks per sources. OpenAI on-record: diversified compute portfolio, no comment on specific talks. Anthropic no comment.",
+      "date": "Sept. 18, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra as Midday UNCONFIRMED print (CNBC Sep 18, 5:38 a.m. ET). PRIMARY: CNBC. Stick to sourced: four people say Anthropic explored ~20–30 MW deals in UK and Nordics; two say OpenAI explored Nordics at that scale; one source also familiar with U.S. capacity talks at that scale for both; OpenAI spokesperson: building diversified compute portfolio, assesses partners on requirements/performance/reliability/timing/cost, does not comment on specific commercial discussions; Anthropic no comment. Context graf may note CNBC’s prior Aug sourcing on Anthropic–Nscale ~$45B / ~460 MW WV and OpenAI Stargate expansions, plus Structure Research “speed to usable capacity” and JLL inference-vs-training share projections as attributed analysis, not Scout numbers. Do NOT invent signed contracts or MW totals beyond sources. Not MAJOR - fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Anthropic and OpenAI are exploring smaller AI data-center capacity deals in the roughly 20–30 megawatt range, sources told CNBC on Sept. 18, as both labs race to bring usable compute online faster than multi-hundred-megawatt and gigawatt projects allow.",
+        "Four people familiar with the conversations said Anthropic has sounded out agreements in that range across the U.K. and the Nordics. Two of the sources said OpenAI has explored similar smaller deployments in the Nordics, and one source said they were also familiar with U.S. capacity talks at that scale involving both companies.",
+        "An OpenAI spokesperson told CNBC the company is “building a diversified compute portfolio” and assesses opportunities on requirements, performance, reliability, timing and cost, while declining to comment on specific commercial discussions. Anthropic did not comment. Structure Research’s Jabez Tan told CNBC smaller blocks can offer “speed to usable capacity,” especially as inference workloads can run across separate sites. Not MAJOR - fomc-sep16 remains lead."
+      ]
+    },
     {
       "id": "mistras-hig",
       "lead": false,
