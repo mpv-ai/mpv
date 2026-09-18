@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 113,
+  "number": 114,
   "city": "New York",
   "date": "Thursday, September 17, 2026",
   "editionLabel": "Late Evening Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~6:55 p.m. ET — after the close / late evening (last regular-session prints unchanged vs Evening plate; AH drift immaterial)",
+    "updated": "Sep 17, ~8:00 p.m. ET — after the close / late evening (last regular-session prints unchanged vs No. 113 Late Evening ~6:55 p.m.; AH drift immaterial)",
     "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%)"
   },
   "deskNote": {
-    "kicker": "AI / Markets",
-    "hed": "Claude R&D share, Huang 2× chips, Warsh hyperscaler yields plated; FOMC still leads.",
+    "kicker": "PE / AI",
+    "hed": "Softcat–GDT $1.05B exit plated; Beacon–Haize and ElevenLabs Scaleup talks catch-up.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 113 Late Evening Edition — ADD anthropic-rd-lead-26, nvda-huang-2x, warsh-hyperscaler, nvidia-baiif-2b, apollo-sb-nav-9b (all Quill) vs Evening (No. 112). Anthropic: Claude “leads” 26% internal AI R&D (Reuters via Investing.com; Yahoo analysis). Huang 2× chip-sales quote (CNBC). Warsh hyperscaler “competition for capital” from official FOMC transcript (complements fomc-sep16). Bloomberg sizes Nvidia BAIIF anchor at $2B. Apollo–SoftBank VF2 NAV talks toward $9B UNCONFIRMED people-familiar (Japan Times/Bloomberg). Not MAJOR — fomc-sep16 remains lead. Yahoo ~6:55 p.m. ET tape identical to Evening ~6:01 p.m. last-session prints — below material bar for tape-only; publish driven by story ADDs. user-X MCP skipped (get_usage_credits → client-not-enrolled)."
+    "body": "Vol. 1 No. 114 Late Evening Edition — ADD softcat-gdt, beacon-haize, elevenlabs-scaleup (all Quill) vs No. 113 Late Evening. Softcat LSE RNS + H.I.G. PR: buy General Datatech for $1.05B / £785m EV, close guided Q1 2027; Softcat also lifts FY26 uOP guide to high-teens. Beacon Business Wire: Haize Labs buy, terms undisclosed. ElevenLabs: EQT Scaleup Europe Fund talks for $500M+ round UNCONFIRMED (Bloomberg/TNW). Not MAJOR — fomc-sep16 remains lead. Yahoo ~8:00 p.m. ET tape identical to No. 113 last-session prints — below material bar for tape-only; publish driven by story ADDs. user-X MCP skipped (get_usage_credits → client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "Late Evening plate + five ADDs — watch overnight Asia/Europe + Friday open; Friday Fed speakers (Bowman / Schmid per calendars). Anthropic R&D metrics — watch company blog primary if posted / next regular print. Apollo–SoftBank VF2 NAV toward $9B — UNCONFIRMED; watch close or SoftBank/Apollo IR. Nvidia BAIIF $2B — watch BAM/BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ — court has not ruled. GFL special-committee / bid prices (gfl-dual-bid). FOMC Sep 15–16 PRINTED (fomc-sep16) — next path Warsh + remaining 2026 SEP dots; warsh-hyperscaler complements. Crux $22B chip loan (crux-22b) — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge prepay (softbank-259-prepay) — SoftBank IR still only Sep 9 decision PR. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage — no deal certainty. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. crusoe-30b SUPERSEDED by crusoe-39."
+    "line": "No. 114 Late Evening + three ADDs — Softcat–GDT close watch Q1 2027 + Softcat equity placing/retail offer details + prelims Oct 14; ElevenLabs Scaleup talks UNCONFIRMED; Beacon–Haize terms still undisclosed. Overnight Asia/Europe + Friday open; Friday Fed speakers (Bowman / Schmid per calendars). Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. Nvidia BAIIF $2B — BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ — court has not ruled. GFL special-committee / bid prices. FOMC Sep 15–16 PRINTED — next path Warsh + remaining 2026 SEP dots. Crux $22B chip loan — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027."
   },
   "sections": [
     "All",
@@ -28,6 +28,82 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "softcat-gdt",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Exit / IT Solutions",
+      "hed": "Softcat to buy H.I.G.’s General Datatech for $1.05B EV; close guided Q1 2027",
+      "dek": "Softcat LSE RNS + H.I.G. PR Sep 17. $1,050m / £785m EV; cash + debt + equity placing. High-teens FY26 uOP guide raise. AI infra / DC / networking US bolt-on.",
+      "date": "Sept. 17, 2026",
+      "source": "Softcat RNS; H.I.G.",
+      "url": "https://www.investegate.co.uk/index.php/announcement/rns/softcat--sct/acquisition-of-gdt-and-full-year-trading-update/9778378",
+      "also": [
+        {
+          "label": "H.I.G. Capital PR (Sep 17)",
+          "url": "https://hig.com/news/h-i-g-capital-signs-definitive-agreement-to-sell-general-datatech/"
+        },
+        {
+          "label": "PR Newswire (H.I.G.)",
+          "url": "https://www.prnewswire.com/news-releases/hig-capital-signs-definitive-agreement-to-sell-general-datatech-302882355.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / IT solutions exit as Late Evening catch-up (Softcat LSE RNS + H.I.G. PR Sep 17; missed on No. 113). PRIMARY: Softcat RNS https://www.investegate.co.uk/index.php/announcement/rns/softcat--sct/acquisition-of-gdt-and-full-year-trading-update/9778378. Stick to: Softcat plc signed agreement to acquire GDT Topco, L.P. (General Datatech) for enterprise value $1,050m (£785m); expected close end Q1 CY2027 subject to customary regulatory filings/approvals; funded via cash, new term loan + RCF, and equity issue (placing + retail offer, separate announcements); estimated net debt leverage 1.3x at closing, forecast below 1.0x by July 2028; expected high single-digit to low double-digit underlying EPS accretion in first full fiscal year; GDT Dallas HQ, founded 1996, ~700 upper mid-market/enterprise customers; networking, data centre, AI infrastructure, cybersecurity. H.I.G. (investor since 2021): sell for $1.05B EV to Softcat affiliate; company says doubled EBITDA under ownership. Softcat trading update: Board now expects high-teens FY2026 underlying operating profit growth (was mid-teens); FY2027 ex-GDT high single-digit uOP growth; prelims Oct 14 2026. Do NOT invent purchase multiple or GDT EBITDA $. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Softcat plc said Sept. 17 it has signed an agreement to acquire GDT Topco, L.P. (General Datatech), a Dallas-based multi-vendor IT solutions provider, for an enterprise value of $1,050 million (£785 million), according to its London Stock Exchange RNS, with H.I.G. Capital separately confirming the sale of its portfolio company to a Softcat affiliate at the same $1.05 billion EV.",
+        "Softcat said the deal accelerates its U.S. strategy in data centres, networking, AI infrastructure and cybersecurity, brings roughly 700 upper mid-market and enterprise customers, and is expected to deliver high single-digit to low double-digit underlying EPS accretion in the first full fiscal year; consideration will be funded with cash, new debt facilities (term loan and revolving credit facility) and an equity issue, with estimated net debt leverage of 1.3x at closing and a forecast below 1.0x by July 2028. Close is guided for the end of the first quarter of calendar 2027, subject to customary regulatory filings and approvals.",
+        "Alongside the acquisition, Softcat’s Board raised its FY2026 outlook to high-teens growth in full-year underlying operating profit (from mid-teens previously), with gross-profit growth moderately above that, and said that excluding GDT it expects high single-digit underlying operating-profit growth in FY2027; preliminary results are scheduled for Oct. 14, 2026. H.I.G., which invested in 2021, said GDT doubled EBITDA during its ownership while expanding hybrid cloud, AI and cybersecurity capabilities."
+      ]
+    },
+    {
+      "id": "beacon-haize",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Agents / Rollup",
+      "hed": "Beacon buys Haize Labs to run applied AI research across 45 software companies",
+      "dek": "Business Wire Sep 17. Terms undisclosed. Haize CEO Leonard Tang joins as VP of AI Research; agent testing / red-teaming focus for Main Street software portfolio.",
+      "date": "Sept. 17, 2026",
+      "source": "Business Wire",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/beacon-acquires-haize-labs-to-power-ai-for-the-real-economy",
+      "also": [
+        {
+          "label": "Beacon Holdings",
+          "url": "https://www.beaconholdings.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / agent reliability + software rollup as Late Evening catch-up (Business Wire Sep 17 ~10:30 a.m. ET; missed on earlier plates). PRIMARY: https://financialpost.com/pmn/business-wire-news-releases-pmn/beacon-acquires-haize-labs-to-power-ai-for-the-real-economy. Stick to company: Beacon Software acquired Haize Labs (AI reliability / agent testing and safeguarding); Haize team forms Applied AI Research Group; co-founder/CEO Leonard Tang joins as VP of AI Research; Beacon describes itself as centralized AI holding company with portfolio of 45 software companies; focuses listed: reusable AI infra, evaluation/feedback, continuous testing/red teaming/observability, products that cut admin burden. Terms NOT disclosed — do not invent price or valuation. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Beacon Software said Sept. 17 it has acquired Haize Labs, an AI reliability company that tests and safeguards AI agents for real-world deployment, according to a Business Wire release, with financial terms undisclosed.",
+        "Haize’s team will form Beacon’s Applied AI Research Group, and co-founder and CEO Leonard Tang will join as VP of AI Research to lead the AI operating system Beacon says it deploys across its companies.",
+        "Beacon, which calls itself a centralized AI holding company headquartered in Toronto, said the group will support a portfolio of 45 software companies serving recreation, utilities, education, government, manufacturing and other essential industries, with priorities that include reusable AI infrastructure, domain-specific evaluation systems, and continuous testing, red teaming and observability for agents."
+      ]
+    },
+    {
+      "id": "elevenlabs-scaleup",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Voice",
+      "hed": "EQT’s Scaleup Europe Fund said in talks to back ElevenLabs’ $500M+ round",
+      "dek": "Bloomberg via The Next Web Sep 17. UNCONFIRMED people-familiar; EQT and ElevenLabs declined comment. Complements elevenlabs-cfo plate.",
+      "date": "Sept. 17, 2026",
+      "source": "Bloomberg / The Next Web",
+      "url": "https://thenextweb.com/news/elevenlabs-funding-scaleup-europe-fund-talks",
+      "also": [
+        {
+          "label": "Bloomberg (headline)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/europe-tech-fund-said-in-talks-to-back-ai-startup-elevenlabs"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / voice funding as Late Evening UNCONFIRMED people-familiar catch-up (Bloomberg Sep 17 via TNW). PRIMARY accessible: https://thenextweb.com/news/elevenlabs-funding-scaleup-europe-fund-talks. Stick to: Scaleup Europe Fund (EQT-managed, EU-backed ~€5B per TNW) in discussions to invest in ElevenLabs; company aims to raise over $500M; talks ongoing, no guarantee; EQT and ElevenLabs declined comment to Bloomberg. Context OK if attributed: Feb $500M Sequoia-led at $11B; >$330M ARR for 2025 per TNW; London HQ, Polish founders/expansion. Do NOT treat round as closed or invent valuation for this raise. Complements elevenlabs-cfo — does not replace. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "The Scaleup Europe Fund, a European Commission–backed growth vehicle managed by EQT, is in discussions to invest in voice-AI company ElevenLabs as the startup seeks to raise more than $500 million, The Next Web reported Sept. 17, citing Bloomberg and people familiar with the matter.",
+        "Talks are ongoing and there is no guarantee a deal will happen, the report said, and representatives for EQT and ElevenLabs declined to comment to Bloomberg.",
+        "The same coverage places the talks against ElevenLabs’ February Sequoia-led $500 million round at an $11 billion valuation and cited 2025 annual recurring revenue above $330 million — keep those as attributed context, not new closes."
+      ]
+    },
     {
       "id": "anthropic-rd-lead-26",
       "lead": false,
