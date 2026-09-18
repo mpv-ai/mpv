@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 115,
+  "number": 116,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Midmorning Edition",
   "tape": {
-    "source": "Yahoo Finance (equities; ^TNX/^TYX yields); Reuters futures note",
-    "updated": "Sep 18, ~9:05 a.m. ET  -  Friday morning premarket (U.S. cash not yet open). Last regular-session equity prints unchanged vs No. 114 Late Evening. NVDA premarket ~$218.97 (−0.17% vs close). Early Friday ^TNX ~4.980% (prior close 4.947%); ^TYX ~5.31. Reuters ~4:50 a.m. ET futures: S&P +0.28%, Nasdaq-100 +0.56%, Dow +0.16%.",
-    "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.980% · 30-year 5.31% · Nasdaq 26,418.30 (+1.69%)"
+    "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
+    "updated": "Sep 18, ~10:12 a.m. ET  -  Friday cash open. Yahoo: S&P 7,627.98 (−0.13%), SOX 11,752.19 (+1.32%), NVDA $220.45 (+0.51%), Nasdaq 26,417.93 (flat), ^TNX ~4.996%, ^TYX ~5.327%.",
+    "line": "S&P 7,627.98 (−0.13%) · SOX 11,752.19 (+1.32%) · NVDA $220.45 (+0.51%) · 10-year 4.996% · 30-year 5.327% · Nasdaq 26,417.93 (flat)"
   },
   "deskNote": {
-    "kicker": "PE / AI",
-    "hed": "Softcat ~£354m equity results; Raindrop $50M total; Thoreau–Penelope $100M.",
+    "kicker": "Markets / AI",
+    "hed": "BOJ to 1.25% (7–2); Ant FinAI; Anew $290M; Glass >$300M UNCONFIRMED; SoftBank Arm/CL.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 115 Morning Edition  -  ADD softcat-equity, raindrop-50, penelope-100 (all Quill) vs No. 114 Late Evening. Softcat LSE Results RNS Sep 18: ~£354m gross / ~£345m net at 1,890p to part-fund GDT; admission ~Sep 22. Raindrop company blog Sep 17 (TNW Sep 18): Series A takes total funding to $50M led by CRV; Simulations launch; company did not state round size. Bloomberg Law Sep 18: Thoreau + Bertelsmann Healthcare Investments / Twine / Seedcamp commit $100M to Penelope Health (statement reviewed by Bloomberg). Not MAJOR  -  fomc-sep16 remains lead. Yahoo Friday morning: cash still closed; last-session equity tape unchanged vs No. 114; early 10y ~4.980% vs 4.947% prior close; NVDA PM ~$218.97 (−0.17%). user-X MCP skipped (get_usage_credits → client-not-enrolled)."
+    "body": "Vol. 1 No. 116 Midmorning Edition  -  ADD boj-sep18, ant-finai, anew-labs, openai-glass, softbank-arm-cl (all Quill) vs No. 115 Morning. BOJ +25 bp to 1.25% (7–2; Asada/Sato dissent; Jiji/BBC/CNBC). Ant International FinAI + Account for Agent (company PR). Anew Labs $290M at $1.5B people-familiar (Reuters Sep 16). OpenAI–Glass Imaging >$300M WSJ via TechCrunch UNCONFIRMED. SoftBank Arm margin to $25B + credit line to $6.5B (Bloomberg people-familiar). Not MAJOR  -  fomc-sep16 remains lead. Yahoo ~10:12 a.m. ET cash open: S&P 7,627.98 (−0.13%), SOX 11,752.19 (+1.32%), NVDA $220.45 (+0.51%), 10y ~4.996%, 30y ~5.327%. Declined Neysa $1.2B recirculation (Feb 2026 Blackstone PR / TechCrunch). SoftBank $25.9B still schedule-only."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 115 Morning + three ADDs  -  Softcat Admission ~Sep 22 + prelims Oct 14 + GDT close watch Q1 2027; Raindrop Simulations GA watch; Penelope terms beyond $100M commitment still thin. Friday open + Fed speakers (Bowman / Schmid per calendars) still pending post-event text. ElevenLabs Scaleup talks UNCONFIRMED. Beacon–Haize terms undisclosed. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. Nvidia BAIIF $2B  -  BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ  -  court has not ruled. GFL special-committee / bid prices. FOMC Sep 15–16 PRINTED  -  next path Warsh + remaining 2026 SEP dots. Crux $22B chip loan  -  still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027."
+    "line": "No. 116 Midmorning + five ADDs  -  BOJ path (next hike debate ~Dec; terminal still market talk). Softcat Admission ~Sep 22 + prelims Oct 14 + GDT close Q1 2027. SoftBank Arm draw / credit-line tap + $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI–Glass Imaging company confirm watch. Anew Labs company/investor confirm. Fed speakers (Bowman / Schmid) post-event text still pending. ElevenLabs Scaleup talks UNCONFIRMED. Beacon–Haize terms undisclosed. Nvidia BAIIF $2B  -  BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ  -  court has not ruled. Crux $22B chip loan  -  still no Blackstone/Alphabet/Crux IR confirm. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027. Raindrop Simulations GA. Penelope terms beyond $100M thin."
   },
   "sections": [
     "All",
@@ -28,6 +28,142 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "boj-sep18",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Central Banks / Japan",
+      "hed": "BOJ lifts policy rate +25 bp to 1.25% (7–2); highest since 1995",
+      "dek": "Jiji/Nippon + BBC + CNBC Sep 18. Asada and Sato dissent. Takes effect Thursday next week after Japan holidays. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 18, 2026",
+      "source": "Jiji via Nippon.com; BBC; CNBC",
+      "url": "https://www.nippon.com/en/news/yjj2026091800484/",
+      "also": [
+        {
+          "label": "BBC (Sep 18)",
+          "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no"
+        },
+        {
+          "label": "CNBC markets reaction (Sep 18)",
+          "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
+        },
+        {
+          "label": "Reuters (Sep 18)",
+          "url": "https://www.reuters.com/world/asia-pacific/boj-raises-interest-rates-31-year-high-widely-expected-move-2026-09-18/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / BOJ as Midmorning print (Jiji via Nippon.com Sep 18; BBC; CNBC). PRIMARY: https://www.nippon.com/en/news/yjj2026091800484/. Stick to confirmed: Policy Board raised policy rate by 0.25 pp to around 1.25% (highest in about 31 years; last at 1.25% April 1995); vote 7–2; dissenters Toichiro Asada (keep ~1%) and Ayano Sato (not appropriate time); first hike in three months under Gov. Kazuo Ueda; new target takes effect Thursday next week (Mon–Wed Japan holidays). CNBC: yen weakened past 157, JGB 10y slipped, Nikkei +1.5%; Asada cited core CPI below 2% / weak economy (Aug core 1.7% vs 1.8% July); Sato said developments had not substantially accelerated. BBC: hike from 1% to 1.25%. Do NOT invent SEP-style dots or terminal rate from BOJ itself. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "The Bank of Japan raised its policy interest rate by 0.25 percentage point to around 1.25% on Sept. 18, the highest level in about 31 years, according to Jiji Press via Nippon.com, with the Policy Board voting 7–2 after a two-day meeting.",
+        "Board members Toichiro Asada and Ayano Sato dissented: Asada favored keeping the rate around 1%, and Sato said it was not the appropriate time to hike. The new target takes effect Thursday next week after Monday–Wednesday national holidays in Japan.",
+        "CNBC reported that markets flipped the usual reaction script, with the yen weakening past 157 per dollar, the 10-year Japanese government bond yield slipping, and the Nikkei 225 gaining about 1.5%, as analysts pointed to the split vote and the absence of an updated outlook report."
+      ]
+    },
+    {
+      "id": "ant-finai",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Fintech / Agentic Payments",
+      "hed": "Ant International launches FinAI stack; Account for Agent for businesses",
+      "dek": "Company PR Sep 18 (Fintech Global). ~100 products across Alipay+/Antom/WorldFirst/Bettr. AFA via WorldFirst for Enterprise. Company-claimed agent metrics.",
+      "date": "Sept. 18, 2026",
+      "source": "Ant International PR; Fintech Global",
+      "url": "https://en.prnasia.com/releases/apac/ant-international-launches-industry-s-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-548466.shtml",
+      "also": [
+        {
+          "label": "Fintech Global (Sep 18)",
+          "url": "https://fintech.global/2026/09/18/ant-international-hands-payment-control-to-ai-agents/"
+        },
+        {
+          "label": "Ant International",
+          "url": "https://www.ant-intl.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / agentic fintech as Midmorning item (Ant International PR Newswire APAC Sep 18; Fintech Global). PRIMARY: company PR. Stick to company: full-stack AI-native solutions for payment, account, FX, treasury and growth; close to 100 key products across Alipay+, Antom, WorldFirst, Bettr; models Antom 3-in-1 Transformer and FalconTST; introduces Account for Agent (AFA) for businesses via WorldFirst for Enterprise (KYA smart contracts, monitoring, agent tuning); company metrics 89.5% of Antom main merchant payment clients deployed FinAI in past 12 months and 81.4% of payment tasks completed with AI help — attribute as company-claimed. Do NOT invent third-party valuation or ARR. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Ant International said Sept. 18 it launched a full stack of AI-native solutions for payment, account, FX, treasury and growth operations for global businesses, describing it as its largest-ever product upgrade with close to 100 key products across Alipay+, Antom, WorldFirst and Bettr, according to its PR Newswire release.",
+        "The company introduced what it calls Account for Agent (AFA), a business account built for autonomous AI agents inside WorldFirst for Enterprise, alongside foundation models it brands Antom 3-in-1 Transformer (payments) and FalconTST (FX and liquidity forecasting).",
+        "Ant said 89.5% of clients of its main merchant payment service already deployed FinAI solutions in the past 12 months and that 81.4% of payment tasks were completed with AI help — figures that come from the company, not an independent audit."
+      ]
+    },
+    {
+      "id": "anew-labs",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Biotech AI",
+      "hed": "ByteDance’s Anew Labs said to raise $290M at $1.5B after spin-off",
+      "dek": "Reuters Sep 16 people-familiar. HSG/IDG/GL Ventures lead; 5Y co-lead. ByteDance retains 56%. Company and investors did not comment.",
+      "date": "Sept. 16, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/bytedance-completes-290-million-fundraising-ai-drug-unit-after-its-spin-off-2026-09-16/",
+      "also": [
+        {
+          "label": "The Next Web (Reuters write-up)",
+          "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / drug-discovery funding as Midmorning catch-up (Reuters Sep 16, Kane Wu; people familiar). PRIMARY: https://www.reuters.com/legal/transactional/bytedance-completes-290-million-fundraising-ai-drug-unit-after-its-spin-off-2026-09-16/. Stick to Reuters: Anew Labs completed $290M inaugural external fundraising after spin-off; one source said $1.5B valuation; led by HSG (ex-Sequoia China), IDG Capital and GL Ventures (Hillhouse); 5Y Capital co-lead; also Gaorong, Primavera, Boyu, SBP Group, Shanghai Future Industries Fund; ByteDance retains 56% per second source; ByteDance and investors did not immediately respond. Do NOT invent round series letter beyond 'inaugural external'. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "ByteDance has completed a $290 million fundraising for Anew Labs, its spun-out AI drug-discovery unit, two people with knowledge of the matter told Reuters on Sept. 16.",
+        "One source said the Shanghai-based company reached a $1.5 billion valuation after the round, which Reuters said was led by HSG (formerly Sequoia China), IDG Capital and Hillhouse’s GL Ventures, with 5Y Capital as a co-lead.",
+        "A second source said ByteDance will keep a 56% stake after the raise. Reuters said ByteDance and the investors did not immediately respond to requests for comment."
+      ]
+    },
+    {
+      "id": "openai-glass",
+      "lead": false,
+      "section": "AI",
+      "kicker": "M&A / Hardware",
+      "hed": "OpenAI said to buy Glass Imaging for >$300M (WSJ; UNCONFIRMED)",
+      "dek": "WSJ via TechCrunch Sep 14. Computational photography; ex-Apple Portrait Mode founders. OpenAI did not comment. Do not invent device roadmap.",
+      "date": "Sept. 14, 2026",
+      "source": "WSJ via TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "also": [
+        {
+          "label": "WSJ report (paywalled title)",
+          "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / hardware M&A as Midmorning catch-up flagged UNCONFIRMED (TechCrunch Sep 14 citing WSJ). PRIMARY: https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/. Stick to: WSJ says OpenAI bought Glass Imaging for over $300M; founders Ziv Attar and Tom Bishop (ex-Apple Portrait Mode); prior ~$30M raised; neural-network camera-system imaging not post-shot edit; OpenAI did not immediately respond to TechCrunch. Frame as UNCONFIRMED by OpenAI. Do NOT invent io/Jony Ive device integration as confirmed. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "OpenAI has bought Glass Imaging, a computational-photography startup, in a deal worth over $300 million, according to a Wall Street Journal report summarized by TechCrunch on Sept. 14.",
+        "TechCrunch said Glass Imaging was founded in 2019 in Los Altos by former Apple engineers Ziv Attar and Tom Bishop, who previously helped develop Portrait Mode, and that the company had raised about $30 million before the reported sale.",
+        "OpenAI did not immediately respond to TechCrunch’s request for comment, so the price and close remain UNCONFIRMED by the company."
+      ]
+    },
+    {
+      "id": "softbank-arm-cl",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "SoftBank / AI Funding",
+      "hed": "SoftBank said to lift Arm margin loan to $25B; credit line to $6.5B",
+      "dek": "Bloomberg Sep 18 people-familiar (Arm via StocksTracker mirror; credit via Bloomberg Law). +$5B Arm facility; +$450M credit line from $6.05B. Draw status unclear.",
+      "date": "Sept. 18, 2026",
+      "source": "Bloomberg; Bloomberg Law",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow",
+      "also": [
+        {
+          "label": "Bloomberg Law credit line (Sep 18)",
+          "url": "https://news.bloomberglaw.com/bankruptcy-law/softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount"
+        },
+        {
+          "label": "StocksTracker Arm summary (Sep 18)",
+          "url": "https://stockstracker.com/mobile/articles/42985"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / SoftBank AI funding stack as Midmorning people-familiar print (Bloomberg Sep 18 Arm margin; Bloomberg Law credit line). PRIMARY Arm: https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow. Stick to: SoftBank increased Arm Holdings share-backed margin loan by $5B to $25B; renegotiated/signed with creditors this month; people familiar. StocksTracker (citing Bloomberg): facility expanded from $20B to $25B; lenders offered ~$7B vs SoftBank $3–5B target. PRIMARY credit: Bloomberg Law — additional $450M lifts existing credit line to $6.5B from $6.05B due to expire this month; another year to draw; unclear whether tapped. Do NOT invent SoftBank IR confirmation or OpenAI use-of-proceeds. Pair with softbank-259-prepay / softbank-openai-1187 / apollo-sb-nav-9b watches. SoftBank $25.9B bridge still schedule-only on SoftBank IR. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "SoftBank Group has increased its margin loan backed by shares of Arm Holdings by $5 billion to $25 billion, Bloomberg reported Sept. 18, citing people familiar with the matter who said the Japanese firm renegotiated terms and signed with creditors this month.",
+        "A StocksTracker summary of the Bloomberg reporting said the Arm-backed facility expanded from $20 billion to $25 billion and that lender demand ran around $7 billion against SoftBank’s $3–5 billion target.",
+        "Separately, Bloomberg Law reported the same day that SoftBank secured an additional $450 million to raise an existing credit line to $6.5 billion from $6.05 billion, extending drawdown availability for another year, with it unclear whether SoftBank has tapped or plans to tap the expanded line."
+      ]
+    },
     {
       "id": "softcat-equity",
       "lead": false,
