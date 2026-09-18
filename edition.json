@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 118,
+  "number": 119,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Midday Edition",
+  "editionLabel": "Early Afternoon Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~12:15 p.m. ET  -  Friday session. Yahoo: S&P 7,622.11 (−0.20%), Dow 51,559.44 (−0.42%), Nasdaq 26,384.03 (−0.13%), SOX 11,715.42 (+1.00%), NVDA $219.41 (+0.03%), ^TNX ~5.002%, ^TYX ~5.335%.",
-    "line": "S&P 7,622.11 (−0.20%) · Dow 51,559.44 (−0.42%) · Nasdaq 26,384.03 (−0.13%) · SOX 11,715.42 (+1.00%) · NVDA $219.41 (+0.03%) · 10-year 5.002% · 30-year 5.335%"
+    "updated": "Sep 18, ~1:07 p.m. ET - Friday session. Yahoo: S&P 7,624.77 (−0.17%), Dow 51,588.11 (−0.37%), Nasdaq 26,396.28 (−0.08%), SOX 11,732.52 (+1.15%), NVDA $219.64 (+0.14%), ^TNX ~5.000%, ^TYX ~5.336%.",
+    "line": "S&P 7,624.77 (−0.17%) · Dow 51,588.11 (−0.37%) · Nasdaq 26,396.28 (−0.08%) · SOX 11,732.52 (+1.15%) · NVDA $219.64 (+0.14%) · 10-year 5.000% · 30-year 5.336%"
   },
   "deskNote": {
     "kicker": "Markets / AI / PE",
-    "hed": "Newsom AI EO; Solidigm U.S. NAND UNCONFIRMED; SK hynix Ventures; Anthropic/OpenAI 20–30 MW hunts.",
+    "hed": "Anthropic wet lab; CoreWeave $3.7B converts; CleanSpark names Meta + $2.227B notes.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 118 Midday Edition - ADD newsom-ai-eo, solidigm-nand-us, sk-hynix-ventures, ai-dc-small (all Quill) vs No. 117 Late Morning. Newsom EO accelerates SB 813/AB 1405 + expert guide ~2 months on kill switch / onsite IVO (gov.ca.gov). Solidigm U.S. NAND fab talks UNCONFIRMED (Reuters; upstate NY leading; company: reviewing, no plans confirmed). SK hynix Ventures CVC brand launch (company PR). Anthropic/OpenAI 20–30 MW DC hunts UNCONFIRMED (CNBC; OpenAI on-record diversified compute). Not MAJOR - fomc-sep16 remains lead. Yahoo ~12:15 p.m. ET: S&P 7,622.11 (−0.20%), SOX 11,715.42 (+1.00%), NVDA $219.41 (+0.03%), 10y ~5.002%, 30y ~5.335%. Declined Neysa $1.2B recirculation, EQT–Rexford $1.2B SoCal logistics (off AI core), Coforge PE white paper, Apollo–DePuy/Truist recirculations (dated), Naive AI The Information secondary."
+    "body": "Vol. 1 No. 119 Early Afternoon Edition - ADD anthropic-wetlab, crwv-37b, clsk-meta-2227 (all Quill) vs No. 118 Midday. Reuters exclusive: Anthropic confirms Bay Area wet lab / life-sciences push (no clinical trials for now). CoreWeave IR: prices upsized $3.7B 2.875% converts due 2033 (from $3.0B). CleanSpark 8-K/Ex. 99.1: Meta (Anviran) named as Sandersville tenant/guarantor; $2.227B notes proposed not priced. Not MAJOR - fomc-sep16 remains lead. Yahoo ~1:07 p.m. ET: S&P 7,624.77 (−0.17%), SOX 11,732.52 (+1.15%), NVDA $219.64 (+0.14%), 10y ~5.000%, 30y ~5.336%. Declined SoftBank credit recirculation (already softbank-arm-cl), BeBeez Anthropic IPO delay recirculation (Sep 4 Reuters), Orion180/Electra IPOs (off beat), Coforge PE AI white paper (declined Midday), Neysa $1.2B recirculation."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 118 Midday + four ADDs - Newsom GovOps/OES recommendations due ~Nov 16; watch special session. Solidigm site/capex confirm + SK Hynix–Intel Ohio memory talks. SK hynix Ventures first disclosed checks. Anthropic/OpenAI 20–30 MW lease confirms. MISTRAS SEC 8-K / proxy + go-shop through Oct 27. Nebius Oct 1 rate cutover. CXMT Beijing NAND R&D confirm. Apollo–Energos / XRG UNCONFIRMED. Softcat Admission ~Sep 22. SoftBank Arm draw / OpenAI bridge. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI–Glass confirm. Crux $22B still no BX/Alphabet IR. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B OPEN. DOJ–Nvidia–Groq OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B OPEN."
+    "line": "No. 119 Early Afternoon + three ADDs - Anthropic wet-lab / Claude robot-lab confirms + any drug-program detail. CoreWeave settle Sep 22 + any upsizing exercise. CleanSpark notes pricing/close + Sandersville Phase I rent Q4 2027. Newsom GovOps/OES recommendations due ~Nov 16. Solidigm site/capex confirm. SK hynix Ventures first disclosed checks. Anthropic/OpenAI 20-30 MW lease confirms. MISTRAS SEC 8-K / proxy + go-shop through Oct 27. Nebius Oct 1 rate cutover. CXMT Beijing NAND R&D confirm. Apollo-Energos / XRG UNCONFIRMED. Softcat Admission ~Sep 22. SoftBank Arm draw / OpenAI bridge. Apollo-SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI-Glass confirm. Crux $22B still no BX/Alphabet IR. Anthropic public S-1/MatX OPEN. DeepSeek $74-75B OPEN. DOJ-Nvidia-Groq OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic-Lambda $35B OPEN. Broadcom IR Q3 transcript OPEN. Snowflake 10-Q CLOSED (snow-10q)."
   },
   "sections": [
     "All",
@@ -28,6 +28,81 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-wetlab",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Life Sciences",
+      "hed": "Anthropic confirms Bay Area wet lab as it ramps AI biology work",
+      "dek": "Reuters exclusive Sep 18. Life-sciences head on-record. Claude-directed lab robots sought (source). No clinical trials for now. Not MAJOR.",
+      "date": "Sept. 18, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / life sciences as Early Afternoon catch-up (Reuters exclusive Sep 18, ~6:02 a.m. ET; missed by No. 118 Midday). PRIMARY: Reuters. Stick to confirmed: Anthropic set up a Bay Area wet lab for physical biology beyond in-silico work (two people familiar); head of life sciences Eric Kauderer-Abrams confirmed wet-lab work in Reuters interview Tuesday and said approach is typical of biotech (own facilities + external partners); spokesperson later clarified lab is not for drug discovery specifically; one source said company wants Claude to direct robotic lab units with limited human intervention; Anthropic says human oversight remains essential; company not running clinical trials for now and says it is not competing with pharma on bringing drugs to market; Coefficient Bio acquisition confirmed (deal price ~$400M stock is media report, company no comment on price - omit or label). Context only if labeled: Amodei rare-disease essay; Claude Science; Novartis CEO on board. Do NOT invent disease targets or trial timelines. Not MAJOR - fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Anthropic has set up a San Francisco Bay Area wet lab for physical biology experiments as it pushes Claude into drug science, Reuters reported exclusively Sept. 18, citing two people familiar with the matter.",
+        "In a Reuters interview, Anthropic head of life sciences Eric Kauderer-Abrams confirmed the company is doing real lab work today, describing the mix of in-house facilities and external partners as typical for biotech. A spokesperson later clarified that the lab is not for drug discovery specifically.",
+        "One person familiar said Anthropic wants Claude to direct robotic units that carry out experiments with limited human intervention; the company said human oversight remains essential for safety. Kauderer-Abrams said Anthropic is not running clinical trials for now and is focusing on needs industry would not address, so it is not competing with pharma on bringing drugs to market. Not MAJOR - fomc-sep16 remains the plate lead."
+      ]
+    },
+    {
+      "id": "crwv-37b",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI Infra / Capital Markets",
+      "hed": "CoreWeave prices upsized $3.7B 2.875% converts due 2033",
+      "dek": "IR/Business Wire Sep 18. Upsized from $3.0B. Conv ~$97.85 (+22.5% to Sep 17 $79.88). Net ~$3.645B; ~$498.8M capped calls. Settle Sep 22. Not MAJOR.",
+      "date": "Sept. 18, 2026",
+      "source": "CoreWeave IR; Business Wire",
+      "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Prices-Upsized-3-7-Billion-Convertible-Senior-Notes-Offering/default.aspx",
+      "also": [
+        {
+          "label": "SEC 8-K proposed $3.0B (Sep 17)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000429/ex9911.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI infra capital markets as Early Afternoon catch-up (CoreWeave IR pricing Sep 18 ~7:00 a.m. ET; missed by No. 118 Midday). PRIMARY: investors.coreweave.com pricing release. Stick to official: priced $3.7B aggregate 2.875% convertible senior notes due 2033, upsized from previously announced $3.0B; settle Sep 22 subject to customary conditions; +$500M initial-purchaser option; initial conversion rate 10.2194 shares per $1,000 (~$97.85/share), ~22.50% premium to Sep 17 Nasdaq close $79.88; estimated net proceeds ~$3,644.5M (~$4,137.0M if option exercised in full) before offering expenses; ~$498.8M for capped calls, remainder general corporate purposes; capped-call cap price initially $199.70 (150% premium to $79.88); interest Apr 1/Oct 1 beginning Apr 1, 2027. Pair with Sep 17 proposed 8-K EX-99.1. Do NOT invent use-of-proceeds beyond general corporate / capped calls. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "CoreWeave (Nasdaq: CRWV) on Sept. 18 priced an upsized private offering of $3.7 billion aggregate principal amount of 2.875% convertible senior notes due 2033, raised from the $3.0 billion size announced Sept. 17, according to the company’s investor-relations release.",
+        "Settlement is scheduled for Sept. 22, subject to customary closing conditions. Initial purchasers received an option for up to an additional $500 million. The initial conversion rate is 10.2194 Class A shares per $1,000 principal (~$97.85 per share), a roughly 22.50% premium to the Sept. 17 Nasdaq close of $79.88.",
+        "CoreWeave estimates net proceeds of about $3,644.5 million (about $4,137.0 million if the option is exercised in full), before offering expenses, and intends to use roughly $498.8 million for capped-call transactions with an initial cap price of $199.70 per share, with the remainder for general corporate purposes. Not MAJOR - fomc-sep16 remains the plate lead."
+      ]
+    },
+    {
+      "id": "clsk-meta-2227",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI Infra / Debt",
+      "hed": "CleanSpark names Meta as Sandersville tenant; seeks $2.227B notes",
+      "dek": "SEC 8-K + Ex. 99.1 Sep 17. Anviran LLC = Meta sub; Meta guarantor. ~$6.6B NNN / 175 MW. Notes proposed, not priced. Not MAJOR.",
+      "date": "Sept. 17, 2026",
+      "source": "CleanSpark SEC 8-K; Exhibit 99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-20260917.htm",
+      "also": [
+        {
+          "label": "SEC Exhibit 99.1 (investor materials)",
+          "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_1.htm"
+        },
+        {
+          "label": "SEC Exhibit 99.2 (notes PR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_2.htm"
+        },
+        {
+          "label": "PR Newswire notes PR",
+          "url": "https://www.prnewswire.com/news-releases/cleanspark-inc-announces-proposed-offering-of-2-227-billion-of-senior-secured-notes-302881360.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI DC debt as Early Afternoon catch-up (CleanSpark 8-K Sep 17; missed by No. 118 Midday). PRIMARY 8-K Acc. 0001193125-26-393758: proposes $2.227B senior secured notes due 2031 via CSDC Finance I for Sandersville build-out, equity reimbursement, debt-service reserves; completion guarantee from CleanSpark; subject to market conditions. PRIMARY tenant ID is Exhibit 99.1 investor materials furnished under Item 7.01: Tenant Anviran, LLC is a wholly owned subsidiary of Meta; Meta serves as guarantor of rent and operating expenses; ~$6.6B triple-net lease / 175 MW critical IT; Phase I rent targeted Q4 2027. Do NOT treat notes as priced/closed. July lease print previously unnamed the IG tech tenant - this closes the name. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "CleanSpark (Nasdaq: CLSK) on Sept. 17 filed an 8-K announcing that wholly owned subsidiary CSDC Finance I intends to offer, subject to market conditions, $2.227 billion of senior secured notes due 2031 to finance remaining Sandersville data-center build-out costs, reimburse prior equity contributions, and fund debt-service reserves, with CleanSpark providing a completion guarantee.",
+        "Investor materials furnished as Exhibit 99.1 identify the Sandersville tenant as Anviran, LLC, a wholly owned Meta subsidiary, and state that Meta is guarantor of rent and operating expenses on the roughly $6.6 billion, 20-year triple-net lease covering 175 MW of critical IT load, with Phase I rent targeted for the fourth quarter of 2027.",
+        "The notes offering has not closed and remains subject to market and other conditions. The Meta naming closes the previously anonymous “high-investment-grade global technology company” label from CleanSpark’s July lease announcement. Not MAJOR - fomc-sep16 remains the plate lead."
+      ]
+    },
     {
       "id": "newsom-ai-eo",
       "lead": false,
