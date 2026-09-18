@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 114,
+  "number": 115,
   "city": "New York",
-  "date": "Thursday, September 17, 2026",
-  "editionLabel": "Late Evening Edition",
+  "date": "Friday, September 18, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
-    "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 17, ~8:00 p.m. ET — after the close / late evening (last regular-session prints unchanged vs No. 113 Late Evening ~6:55 p.m.; AH drift immaterial)",
-    "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.947% · 30-year 5.296% · Nasdaq 26,418.30 (+1.69%)"
+    "source": "Yahoo Finance (equities; ^TNX/^TYX yields); Reuters futures note",
+    "updated": "Sep 18, ~9:05 a.m. ET  -  Friday morning premarket (U.S. cash not yet open). Last regular-session equity prints unchanged vs No. 114 Late Evening. NVDA premarket ~$218.97 (−0.17% vs close). Early Friday ^TNX ~4.980% (prior close 4.947%); ^TYX ~5.31. Reuters ~4:50 a.m. ET futures: S&P +0.28%, Nasdaq-100 +0.56%, Dow +0.16%.",
+    "line": "S&P 7,637.76 (+1.14%) · SOX 11,599.49 (+3.14%) · NVDA $219.34 (+2.54%) · 10-year 4.980% · 30-year 5.31% · Nasdaq 26,418.30 (+1.69%)"
   },
   "deskNote": {
     "kicker": "PE / AI",
-    "hed": "Softcat–GDT $1.05B exit plated; Beacon–Haize and ElevenLabs Scaleup talks catch-up.",
+    "hed": "Softcat ~£354m equity results; Raindrop $50M total; Thoreau–Penelope $100M.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 114 Late Evening Edition — ADD softcat-gdt, beacon-haize, elevenlabs-scaleup (all Quill) vs No. 113 Late Evening. Softcat LSE RNS + H.I.G. PR: buy General Datatech for $1.05B / £785m EV, close guided Q1 2027; Softcat also lifts FY26 uOP guide to high-teens. Beacon Business Wire: Haize Labs buy, terms undisclosed. ElevenLabs: EQT Scaleup Europe Fund talks for $500M+ round UNCONFIRMED (Bloomberg/TNW). Not MAJOR — fomc-sep16 remains lead. Yahoo ~8:00 p.m. ET tape identical to No. 113 last-session prints — below material bar for tape-only; publish driven by story ADDs. user-X MCP skipped (get_usage_credits → client-not-enrolled)."
+    "body": "Vol. 1 No. 115 Morning Edition  -  ADD softcat-equity, raindrop-50, penelope-100 (all Quill) vs No. 114 Late Evening. Softcat LSE Results RNS Sep 18: ~£354m gross / ~£345m net at 1,890p to part-fund GDT; admission ~Sep 22. Raindrop company blog Sep 17 (TNW Sep 18): Series A takes total funding to $50M led by CRV; Simulations launch; company did not state round size. Bloomberg Law Sep 18: Thoreau + Bertelsmann Healthcare Investments / Twine / Seedcamp commit $100M to Penelope Health (statement reviewed by Bloomberg). Not MAJOR  -  fomc-sep16 remains lead. Yahoo Friday morning: cash still closed; last-session equity tape unchanged vs No. 114; early 10y ~4.980% vs 4.947% prior close; NVDA PM ~$218.97 (−0.17%). user-X MCP skipped (get_usage_credits → client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 114 Late Evening + three ADDs — Softcat–GDT close watch Q1 2027 + Softcat equity placing/retail offer details + prelims Oct 14; ElevenLabs Scaleup talks UNCONFIRMED; Beacon–Haize terms still undisclosed. Overnight Asia/Europe + Friday open; Friday Fed speakers (Bowman / Schmid per calendars). Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. Nvidia BAIIF $2B — BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ — court has not ruled. GFL special-committee / bid prices. FOMC Sep 15–16 PRINTED — next path Warsh + remaining 2026 SEP dots. Crux $22B chip loan — still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027."
+    "line": "No. 115 Morning + three ADDs  -  Softcat Admission ~Sep 22 + prelims Oct 14 + GDT close watch Q1 2027; Raindrop Simulations GA watch; Penelope terms beyond $100M commitment still thin. Friday open + Fed speakers (Bowman / Schmid per calendars) still pending post-event text. ElevenLabs Scaleup talks UNCONFIRMED. Beacon–Haize terms undisclosed. Apollo–SoftBank VF2 NAV toward $9B UNCONFIRMED. Nvidia BAIIF $2B  -  BAM LP docs if filed. NYT–OpenAI–Microsoft copyright SJ  -  court has not ruled. GFL special-committee / bid prices. FOMC Sep 15–16 PRINTED  -  next path Warsh + remaining 2026 SEP dots. Crux $22B chip loan  -  still no Blackstone/Alphabet/Crux IR confirm. SoftBank $25.9B OpenAI bridge SoftBank IR still only Sep 9 decision PR. Brookfield–RWC go-shop through Oct 15. Vista–Finastra early-stage. Anthropic public S-1/MatX OPEN. DeepSeek $74–75B funding watch OPEN. DOJ–Nvidia–Groq probe OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic–Lambda $35B company-unconfirmed OPEN. BauWatch close guided Q1 2027."
   },
   "sections": [
     "All",
@@ -28,6 +28,82 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "softcat-equity",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Equity / IT Solutions",
+      "hed": "Softcat raises ~£354m gross via placing and RetailBook to part-fund GDT",
+      "dek": "LSE RNS Sep 18. 1,890p placing (−4.0% to Sep 17 close). 18.74m new shares (~9.5%). Admission guided ~Sep 22. Follows softcat-gdt.",
+      "date": "Sept. 18, 2026",
+      "source": "Softcat RNS",
+      "url": "https://www.investegate.co.uk/announcement/rns/softcat--sct/results-of-equity-issue/9778533",
+      "also": [
+        {
+          "label": "Softcat acquisition + trading update RNS (Sep 17)",
+          "url": "https://www.investegate.co.uk/index.php/announcement/rns/softcat--sct/acquisition-of-gdt-and-full-year-trading-update/9778378"
+        },
+        {
+          "label": "Softcat Retail Offer via RetailBook RNS (Sep 17)",
+          "url": "https://www.investegate.co.uk/announcement/rns/softcat--sct/retail-offer-via-retailbook/9778387"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / Softcat GDT financing as Morning follow (Softcat LSE Results of equity issue RNS dated 18 September 2026). PRIMARY: https://www.investegate.co.uk/announcement/rns/softcat--sct/results-of-equity-issue/9778533. Stick to RNS body: gross proceeds approximately £354 million; Placing Price 1,890 pence (about 4.0% discount to 1,968p close on 17 September 2026); Placing 18,518,518 shares via J.P. Morgan Cazenove, Peel Hunt, BNP Paribas; Retail Offer 211,640 shares via RetailBook at same price; PDMRs indicated non-binding intention for 12,432 shares (blocked until after prelims under UK MAR); aggregate 18,742,590 New Ordinary Shares (~9.5% of existing issued share capital); net proceeds approximately £345 million (Pre-Emption Group section); use to part-fund GDT Topco / General Datatech acquisition announced yesterday; Admission expected 8:00 a.m. BST on or around 22 September 2026; post-Admission shares in issue 215,642,562; Peter Kelly Concert Party Group agreed to subscribe for 6,105,000 Placing Shares (~£115 million) as related-party transaction under UK Listing Rules; prelims still scheduled 14 October 2026. Complements softcat-gdt. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Softcat plc said Sept. 18 it has raised gross proceeds of approximately £354 million through an equity issue of new ordinary shares at 1,890 pence, according to its London Stock Exchange results RNS, with net proceeds of about £345 million intended to part-fund the General Datatech (GDT Topco) acquisition announced the prior day.",
+        "The company placed 18,518,518 shares with institutional investors via J.P. Morgan Cazenove, Peel Hunt and BNP Paribas, while eligible retail investors subscribed for 211,640 shares via RetailBook at the same placing price; together with a non-binding PDMR subscription intention for 12,432 shares (blocked until after the Oct. 14 prelims under UK MAR), the issue totals 18,742,590 new shares, or about 9.5% of existing issued ordinary share capital, at a roughly 4.0% discount to the Sept. 17 close of 1,968 pence.",
+        "Admission of the placing and retail shares is expected at 8:00 a.m. BST on or around Sept. 22, 2026, after which Softcat expects 215,642,562 ordinary shares in issue. The Peter Kelly Concert Party Group agreed to take 6,105,000 placing shares for about £115 million, a related-party transaction the board said is fair and reasonable for shareholders, with J.P. Morgan Cazenove advising as sponsor."
+      ]
+    },
+    {
+      "id": "raindrop-50",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Funding / Agents",
+      "hed": "Raindrop says Series A takes total funding to $50M; launches Simulations",
+      "dek": "Company blog Sep 17 (TNW Sep 18). CRV led. Round size not stated by company. Production agent monitoring + PR-time simulations.",
+      "date": "Sept. 17, 2026",
+      "source": "Raindrop; The Next Web",
+      "url": "https://www.raindrop.ai/blog/series-a/",
+      "also": [
+        {
+          "label": "The Next Web (Sep 18)",
+          "url": "https://thenextweb.com/news/raindrop-series-a-50m-crv-agent-failures-simulations"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / agent observability as Morning catch-up (company blog Sep 17; TNW Sep 18 8:30 a.m. UTC). PRIMARY: https://www.raindrop.ai/blog/series-a/. Stick to company: announced Series A; total funding now $50 million led by CRV; also cites researchers and executives at Anthropic, OpenAI and Thinking Machines; launching Raindrop Simulations (research/early access) that replay production traffic and test cases against proposed agent changes, then apply anomaly detection; traditional evals framed as catching anticipated failures only. TNW adds: Lightspeed and YC joined; Figma Ventures and Vercel Ventures listed; customers named Vercel, Framer, Clay plus unnamed Fortune 100 healthcare/logistics; co-founders Zubin Koticha, Ben Hylak, Alexis Gauba. Do NOT invent Series A dollar size as company-confirmed (company states $50M total, not the round size; decline unverified secondary $35M figures). Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Raindrop said Sept. 17 it has raised a Series A that brings total funding to $50 million, led by CRV, according to the company's blog, and it also cited participation from researchers and executives at Anthropic, OpenAI and Thinking Machines.",
+        "Alongside the raise, Raindrop launched Simulations, which it says replays real production traffic and existing test cases against a proposed agent change, then runs the company's anomaly detection so teams can see behavior shifts before they reach production.",
+        "The Next Web's Sept. 18 write-up, citing the company, lists Lightspeed Venture Partners and Y Combinator among backers and names Vercel, Framer and Clay as customers, alongside unnamed Fortune 100 enterprises in healthcare and logistics. The company did not publish a Series A round size in its own post."
+      ]
+    },
+    {
+      "id": "penelope-100",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Growth Equity / Health Tech",
+      "hed": "Thoreau and partners commit $100M to Penelope Health payer-policy platform",
+      "dek": "Bloomberg Law Sep 18. Statement reviewed by Bloomberg. Bertelsmann Healthcare Investments, Twine Ventures, Seedcamp also in. Terms beyond commitment size not detailed in available text.",
+      "date": "Sept. 18, 2026",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/private-equity/matt-holts-thoreau-invests-in-tech-platform-penelope-health",
+      "also": [
+        {
+          "label": "Penelope Health",
+          "url": "https://penelope.health/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / health-tech growth equity as Morning item (Bloomberg Law Sep 18, 11:00 a.m. UTC / Michelle F. Davis). PRIMARY: https://news.bloomberglaw.com/private-equity/matt-holts-thoreau-invests-in-tech-platform-penelope-health. Stick to article (statement reviewed by Bloomberg News): Matt Holt's Thoreau is investing in Penelope Health; Thoreau and investors including Bertelsmann Healthcare Investments, Twine Ventures and Seedcamp have committed $100 million; Penelope's platform has insurance-policy information for 200 million people in the US for coverage and prior-auth/payment workflow; administrative costs cited as about a quarter (of healthcare spending context in article). Do NOT invent valuation, round series label, or ownership %. Company site confirms payer-policy intelligence product but does not itself publish the financing terms in the fetched homepage. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Matt Holt's investment firm Thoreau is investing in Penelope Health, a startup that uses automation to cut doctors' administrative costs, Bloomberg Law reported Sept. 18, citing a statement reviewed by Bloomberg News.",
+        "Thoreau and investors including Bertelsmann Healthcare Investments, Twine Ventures and Seedcamp have committed $100 million in funding to the company, the report said.",
+        "Bloomberg Law said Penelope's platform holds insurance-policy information covering 200 million people in the U.S. so clinicians can see what is covered and what insurers require for approval and payment, against a backdrop in which administrative costs account for about a quarter of spending in the article's framing."
+      ]
+    },
     {
       "id": "softcat-gdt",
       "lead": false,
