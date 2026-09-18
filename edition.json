@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 122,
+  "number": 123,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Late Afternoon Edition",
+  "editionLabel": "Early Evening Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~4:05 p.m. ET - Friday session. Yahoo: S&P 7,650.15 (+0.16%), Dow 51,681.51 (−0.19%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
-    "line": "S&P 7,650.15 (+0.16%) · Dow 51,681.51 (−0.19%) · Nasdaq 26,522.55 (+0.39%) · SOX 11,921.69 (+2.78%) · NVDA $222.27 (+1.34%) · 10-year 4.998% · 30-year 5.331%"
+    "updated": "Sep 18, ~4:58 p.m. ET - Friday after cash close. Yahoo: S&P 7,650.50 (+0.17%), Dow 51,682.64 (−0.18%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
+    "line": "S&P 7,650.50 (+0.17%) · Dow 51,682.64 (−0.18%) · Nasdaq 26,522.55 (+0.39%) · SOX 11,921.69 (+2.78%) · NVDA $222.27 (+1.34%) · 10-year 4.998% · 30-year 5.331%"
   },
   "deskNote": {
-    "kicker": "AI / Security / Markets",
-    "hed": "Hacktron–Claude OpenAI bug-bounty catch-up; SOX/NVDA tape refresh.",
+    "kicker": "AI / IPO / Policy",
+    "hed": "Nscale S-1 + Virginia DC EO + Disney CTO; quiet tape vs Late Afternoon.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 122 Late Afternoon Edition - ADD hacktron-openai (Forge) vs No. 121 Mid-Afternoon. PRIMARY: Hacktron blog on July 25 libheif+SSO chain into employee ChatGPT/Codex and internal GitHub PoC; OpenAI $6,500 bounty / ~14h fix (SecurityWeek on-record). SECONDARY: WSJ exclusive Thu evening; TechCrunch Sep 18. Missed by Mid-Afternoon plate. Lead remains fomc-sep16. Yahoo ~4:05 p.m. ET: S&P 7,650.15 (+0.16%), SOX 11,921.69 (+2.78%, was +1.40% at Mid-Afternoon), NVDA $222.27 (+1.34%, was +0.04%), 10y ~4.998%, 30y ~5.331%. Declined: no new AEF lab responses / Warsh speaker follow-ons; Crusoe board Seifert/Stein/Straubel (soft adjacent to crusoe-39 Series F); AMD ~10% AI-chip price-hike rumors UNCONFIRMED; Alset AI microcap CFO soft; Apollo hyperscaler CDS note recirculation (Slok Wed Sep 16 / CNBC); Manus $4B still UNCONFIRMED; prior Mid-Afternoon declines stand."
+    "body": "Vol. 1 No. 123 Early Evening Edition - ADD nscale-s1, spanberger-dc-eo, disney-anand-cto (all Quill) vs No. 122 Late Afternoon. PRIMARY: Nscale Limited SEC Form S-1 filed Sep 18 (NYSE intend NSCL; GS/JPM/MS leads; H1’26 rev $140.6M +1,252%, net loss $1,020.1M; $103.4B active+contracted TCV). SECONDARY: Virginia Gov. Spanberger EO 22 (DC accountability + AI Task Force; Reuters). TERTIARY: Disney names Character.AI CEO Karandeep Anand first company-wide CTO effective Oct 2 (company PR). Lead remains fomc-sep16. Yahoo ~4:58 p.m. ET after cash close: S&P 7,650.50 (+0.17%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), 10y ~4.998%, 30y ~5.331% — deltas vs ~4:05 Late Afternoon plate immaterial. Declined: Comp AI $34M Series A (Sep 17 TechCrunch/company; mid-tier compliance tooling); Coforge PE AI white paper (vendor PR); CNN/sources US military AI-hallucinated intel near-miss (geopolitics; watch); NYT AI liability-exposure feature (paywall/timeout, no fresh exclusive numbers); no new AEF lab responses / Warsh speaker follow-ons; AMD ~10% AI-chip price-hike rumors still UNCONFIRMED; Manus $4B still UNCONFIRMED; SoftBank Arm margin loan / credit-line Bloomberg already on plate as softbank-arm-cl; prior Late Afternoon declines stand. X MCP search_news/search_posts_all/get_trends unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 122 Late Afternoon + hacktron-openai ADD - Lab responses to AEF embed-letter / AEF-1 adoption. Warsh/FOMC speakers on accommodation + Oct FOMC pricing. OpenAI post-Hacktron SSO/connector hardening follow-ons if material. Anthropic wet-lab / robot-lab confirms. CoreWeave settle Sep 22. CleanSpark notes pricing/close. Newsom GovOps/OES ~Nov 16. Solidigm site/capex. SK hynix Ventures first checks. Anthropic/OpenAI 20-30 MW lease confirms. MISTRAS 8-K/proxy go-shop through Oct 27. Nebius Oct 1 rate cutover. CXMT Beijing NAND R&D confirm. Apollo-Energos / XRG UNCONFIRMED. Softcat Admission ~Sep 22. SoftBank Arm draw / OpenAI bridge. Apollo-SoftBank VF2 NAV toward $9B UNCONFIRMED. OpenAI-Glass confirm. Crux $22B still no BX/Alphabet IR. Anthropic public S-1/MatX OPEN. DeepSeek $74-75B OPEN. DOJ-Nvidia-Groq OPEN. Bloomberg >15% early-2027 server hikes OPEN. Anthropic-Lambda $35B OPEN. Broadcom IR Q3 transcript OPEN. Manus $4B UNCONFIRMED watch."
+    "line": "No. 123 Early Evening + nscale-s1 / spanberger-dc-eo / disney-anand-cto ADDs - Nscale roadshow / priced range / Anyscale close. Virginia legislature on DC framework; AI Task Force first outputs. Disney tech org follow-ons / Character.AI talent migration. Lab responses to AEF embed-letter / AEF-1. Warsh/FOMC speakers + Oct FOMC pricing. OpenAI post-Hacktron SSO hardening if material. Anthropic wet-lab / robot-lab confirms. CoreWeave settle Sep 22. CleanSpark notes pricing/close. Newsom GovOps/OES ~Nov 16. Solidigm site/capex. SK hynix Ventures first checks. Prior Late Afternoon watches remain."
   },
   "sections": [
     "All",
@@ -28,6 +28,78 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "nscale-s1",
+      "lead": false,
+      "section": "AI",
+      "kicker": "IPO / Infra",
+      "hed": "Nscale files S-1 for NYSE ‘NSCL’; H1 revenue $140.6M (+1,252%), $103.4B contracted TCV",
+      "dek": "SEC Form S-1 Sep 18 (Nscale Limited, London). Intend NYSE NSCL; lead bookrunners GS / J.P. Morgan / Morgan Stanley. Price range blank. Alice Takhtajan CFO.",
+      "date": "Sept. 18, 2026",
+      "source": "SEC Form S-1 (Nscale Limited)",
+      "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm",
+      "also": [
+        {
+          "label": "EDGAR index (CIK 0002110365; accession 0001193125-26-395475)",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002110365&type=S-1&dateb=&owner=exclude&count=40"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra IPO as Early Evening Sep 18 print. PRIMARY: SEC Form S-1 filed Sep 18, 2026, Nscale Limited (England and Wales), Registration No. file 333-299011 / accession 0001193125-26-395475. Stick to filing text: offering of ordinary shares; no prior public market; IPO price range left blank ($ and $); intend to apply to list ordinary shares on NYSE under symbol NSCL; emerging growth company; Lead Bookrunners Goldman Sachs & Co. LLC, J.P. Morgan, Morgan Stanley (alphabetical); H1 ended Jun 30, 2026 revenue $140.6M vs $10.4M (+1,252%); net loss $1,020.1M H1’26 (vs $761.8M FY25 / $78.2M FY24); as of Aug 31, 2026 approx $2.6B active and $103.4B active+contracted TCV under long-term take-or-pay contracts; ~25k active GPUs and ~461k active+contracted GPUs; five active and twelve contracted DC sites; SOWs with Microsoft up to ~$43.8B through Dec 2033 (subject to delivery/financing conditions) and Anthropic Services Agreements up to ~$44.6B aggregate; announced Anyscale (Ray) acquisition as platform-layer step; Josh Payne Founder/CEO/Chair; Alice Takhtajan CFO. Do NOT invent share count, valuation, or priced range. Companion to on-plate nscale-figure (Sep 3 Figure compute PR). Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Nscale Limited filed a Form S-1 with the SEC on Sept. 18 for an initial public offering of ordinary shares, saying it intends to apply to list on the New York Stock Exchange under the symbol NSCL, with Goldman Sachs & Co. LLC, J.P. Morgan and Morgan Stanley as lead bookrunners and the IPO price range left blank in the filing.",
+        "The London-based AI infrastructure and cloud company reported revenue of $140.6 million for the six months ended June 30, 2026, up 1,252% from $10.4 million a year earlier, and a net loss of $1,020.1 million for the same period; as of Aug. 31, 2026 it disclosed about $2.6 billion of active and $103.4 billion of active and contracted total contract value under long-term take-or-pay contracts, alongside roughly 25,000 active GPUs and 461,000 active and contracted GPUs.",
+        "The prospectus summary also cites statements of work with Microsoft providing for payments of up to about $43.8 billion through December 2033 (subject to delivery and financing conditions), Anthropic services agreements of up to about $44.6 billion aggregate, an announced acquisition of Anyscale (Ray), and names Alice Takhtajan as chief financial officer under founder-CEO Josh Payne."
+      ]
+    },
+    {
+      "id": "spanberger-dc-eo",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Policy",
+      "hed": "Virginia’s Spanberger signs EO 22: data-center accountability + rapid-response AI task force",
+      "dek": "Governor EO Sep 18. Ban executive-branch NDAs on DC deals; VEDP bars ≥25 MW from site-readiness/expedited programs; AI Task Force. Reuters/EO PDF.",
+      "date": "Sept. 18, 2026",
+      "source": "Office of the Governor of Virginia; Reuters",
+      "url": "https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/eo/eo-22-establishing-va-data-center-accountability-and-ai-initiatives.pdf",
+      "also": [
+        {
+          "label": "Reuters (Sep 18)",
+          "url": "https://www.reuters.com/world/us/virginia-tightens-data-center-restrictions-amid-political-backlash-2026-09-18/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / state data-center policy as Early Evening Sep 18 companion to newsom-ai-eo. PRIMARY: Virginia EO 22 (2026) signed Sep 18 by Gov. Abigail Spanberger (PDF). Stick to EO + Reuters: implements Virginia Data Center Accountability Framework; Office of the Chief Energy Officer as lead; bans executive-branch NDAs that block disclosure of material info on proposed commercial DC development/incentives/resource demands/community impacts; VEDP shall not assist via Business Ready Sites / expedited permitting / similar discretionary programs for new DC projects with anticipated peak electrical demand ≥25 MW; DEQ to expedite noise and cooling-water scarcity rules (Eastern Virginia Groundwater Management Area designated cooling-water scarcity area); creates rapid-response AI Task Force (co-led Chief Transformation Officer, Counsel to Governor, Secretary of Administration) with AI Policy Planning Unit; Task Force to coordinate with frontier developers including Anthropic, OpenAI, xAI, Meta, Amazon, Microsoft. Reuters: VA has world’s largest DC concentration; framework partly needs legislature next year; incentives for renewable backup vs diesel/gas. Do NOT invent statutory effective dates for items EO says need legislation. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Virginia Gov. Abigail Spanberger on Sept. 18 signed Executive Order 22 directing implementation of a statewide Data Center Accountability Framework and creation of a rapid-response AI Task Force, according to the governor’s office PDF and a Reuters report the same day.",
+        "Among immediate executive actions, the order bars executive-branch agencies from new nondisclosure agreements that prevent public disclosure of material information on proposed commercial data-center projects, and directs the Virginia Economic Development Partnership not to provide Business Ready Sites, expedited permitting, or similar discretionary assistance for new data-center projects with anticipated peak electrical demand of 25 MW or greater.",
+        "Reuters noted Virginia hosts the world’s largest concentration of data centers and that parts of the framework will need legislative approval next year; the EO also tasks DEQ with accelerating noise and cooling-water scarcity rulemakings and instructs the AI Task Force to coordinate with frontier developers including Anthropic, OpenAI, xAI, Meta, Amazon, and Microsoft."
+      ]
+    },
+    {
+      "id": "disney-anand-cto",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Talent",
+      "hed": "Disney names Character.AI CEO Karandeep Anand as first company-wide CTO",
+      "dek": "Company PR Sep 18. SEVP & CTO effective Oct 2; reports to CEO Josh D’Amaro. Oversees enterprise tech, infra, data/AI platforms, product, engineering. Some Character.AI tech talent expected to follow.",
+      "date": "Sept. 18, 2026",
+      "source": "The Walt Disney Company",
+      "url": "https://thewaltdisneycompany.com/news/karandeep-anand-chief-technology-officer/",
+      "also": [
+        {
+          "label": "Deadline (Sep 18)",
+          "url": "https://deadline.com/2026/09/disney-chief-technology-officer-character-ai-1237107626/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / corporate talent as Early Evening Sep 18 print. PRIMARY: thewaltdisneycompany.com news Sep 18. Stick to company: Karandeep Anand joins as Senior Executive Vice President and Chief Technology Officer (newly created), effective Oct 2, reporting to CEO Josh D’Amaro; will oversee enterprise technology, infrastructure, data and AI platforms, product, and engineering across segment tech teams; a number of Character.AI’s technical team expected to join Disney; Anand most recently Character.AI CEO; prior Brex President/CPO; Meta VP Ads & Business Products; 15 years Microsoft including Azure platform work. Deadline notes 2025 Disney cease-and-desist to Character.AI over copyrighted characters (context only; label as prior press). Do NOT invent compensation, equity, or Character.AI deal terms. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "The Walt Disney Company on Sept. 18 named Karandeep Anand, most recently CEO of Character.AI, as Senior Executive Vice President and Chief Technology Officer, a newly created company-wide role effective Oct. 2 reporting directly to CEO Josh D’Amaro.",
+        "Disney said Anand will oversee enterprise technology, infrastructure, data and AI platforms, product, and engineering across segment technology teams, and that a number of Character.AI’s technical team are expected to join Disney with him.",
+        "Anand’s résumé in the company release includes President and Chief Product Officer at Brex, Meta Facebook VP of Ads & Business Products, and about 15 years at Microsoft including Azure platform work; Deadline separately noted Disney’s September 2025 cease-and-desist to Character.AI over alleged unauthorized use of Disney characters."
+      ]
+    },
     {
       "id": "hacktron-openai",
       "lead": false,
