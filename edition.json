@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 123,
+  "number": 124,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Early Evening Edition",
+  "editionLabel": "Evening Edition",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~4:58 p.m. ET - Friday after cash close. Yahoo: S&P 7,650.50 (+0.17%), Dow 51,682.64 (−0.18%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
+    "updated": "Sep 18, ~6:47 p.m. ET - Friday after cash close (unchanged vs No. 123 Early Evening). Yahoo: S&P 7,650.50 (+0.17%), Dow 51,682.64 (−0.18%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
     "line": "S&P 7,650.50 (+0.17%) · Dow 51,682.64 (−0.18%) · Nasdaq 26,522.55 (+0.39%) · SOX 11,921.69 (+2.78%) · NVDA $222.27 (+1.34%) · 10-year 4.998% · 30-year 5.331%"
   },
   "deskNote": {
-    "kicker": "AI / IPO / Policy",
-    "hed": "Nscale S-1 + Virginia DC EO + Disney CTO; quiet tape vs Late Afternoon.",
+    "kicker": "AI / Safety / CFO",
+    "hed": "Anthropic embeds Accenture/Faculty; Automattic interim CFO; Angle $2.7B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 123 Early Evening Edition - ADD nscale-s1, spanberger-dc-eo, disney-anand-cto (all Quill) vs No. 122 Late Afternoon. PRIMARY: Nscale Limited SEC Form S-1 filed Sep 18 (NYSE intend NSCL; GS/JPM/MS leads; H1’26 rev $140.6M +1,252%, net loss $1,020.1M; $103.4B active+contracted TCV). SECONDARY: Virginia Gov. Spanberger EO 22 (DC accountability + AI Task Force; Reuters). TERTIARY: Disney names Character.AI CEO Karandeep Anand first company-wide CTO effective Oct 2 (company PR). Lead remains fomc-sep16. Yahoo ~4:58 p.m. ET after cash close: S&P 7,650.50 (+0.17%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), 10y ~4.998%, 30y ~5.331% — deltas vs ~4:05 Late Afternoon plate immaterial. Declined: Comp AI $34M Series A (Sep 17 TechCrunch/company; mid-tier compliance tooling); Coforge PE AI white paper (vendor PR); CNN/sources US military AI-hallucinated intel near-miss (geopolitics; watch); NYT AI liability-exposure feature (paywall/timeout, no fresh exclusive numbers); no new AEF lab responses / Warsh speaker follow-ons; AMD ~10% AI-chip price-hike rumors still UNCONFIRMED; Manus $4B still UNCONFIRMED; SoftBank Arm margin loan / credit-line Bloomberg already on plate as softbank-arm-cl; prior Late Afternoon declines stand. X MCP search_news/search_posts_all/get_trends unavailable (client-not-enrolled)."
+    "body": "Vol. 1 No. 124 Evening Edition - ADD anthropic-acn-embed, automattic-cfo, angle-27 (all Quill) vs No. 123 Early Evening. PRIMARY: Anthropic company PR Sep 18 + CNBC ~5:31 p.m. ET — Accenture/Faculty named first embedded evaluator (red-team, alignment, safeguards; employee-like access); each side expects ≥$1B capacity spend over five years; Anthropic funds Accenture work directly; METR dialogue; non-exclusive; companion to aef-embed-letter / Amodei pace essay. SECONDARY: Automattic interim CFO Jeremy Klaperman (TechCrunch) after Davies exit. TERTIARY: Angle Health $200M Series C + $400M tender at $2.7B, Vitruvian-led (TechCrunch). Lead remains fomc-sep16. Yahoo tape unchanged vs ~4:58 p.m. Early Evening plate (cash close). Prior ~6:00 p.m. ET hourly slot produced no main commit after No. 123 (c3fe670 ~5:02 p.m. ET) — treated as failed/missed run; this 6:47 slot catches post-5:31 Anthropic/Accenture break. Declined: Manus ~$500M / $4B still UNCONFIRMED (WSJ via TechCrunch sources); Coforge PE AI white paper (vendor PR; already declined Late Afternoon/Early Evening); family-offices AI secondaries feature (TechCrunch trend piece, no hard single-name close); Wayve/Waymo CFO (Sep 16, AV mid-tier); Alset AI / Agereh micro-cap CFO churn; Reuters Anthropic-Accenture URL 401 behind paywall (used Anthropic PR + CNBC + CNA wire). X MCP search_news/search_posts_all still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 123 Early Evening + nscale-s1 / spanberger-dc-eo / disney-anand-cto ADDs - Nscale roadshow / priced range / Anyscale close. Virginia legislature on DC framework; AI Task Force first outputs. Disney tech org follow-ons / Character.AI talent migration. Lab responses to AEF embed-letter / AEF-1. Warsh/FOMC speakers + Oct FOMC pricing. OpenAI post-Hacktron SSO hardening if material. Anthropic wet-lab / robot-lab confirms. CoreWeave settle Sep 22. CleanSpark notes pricing/close. Newsom GovOps/OES ~Nov 16. Solidigm site/capex. SK hynix Ventures first checks. Prior Late Afternoon watches remain."
+    "line": "No. 124 Evening + anthropic-acn-embed / automattic-cfo / angle-27 ADDs - Accenture/Faculty embed start date, access MoU, METR pilot, next named evaluators; ACN trading reaction Mon. Automattic permanent CFO / board slate / Sep 23 board. Angle close + tender mechanics. Nscale roadshow / priced range / Anyscale close. Virginia DC EO / AI Task Force. Disney CTO org. AEF-1 lab responses. Warsh/FOMC + Oct pricing. CoreWeave settle Sep 22. CleanSpark notes. Newsom GovOps/OES ~Nov 16. Prior Early Evening watches remain."
   },
   "sections": [
     "All",
@@ -28,6 +28,76 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-acn-embed",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Safety / Governance",
+      "hed": "Anthropic names Accenture (Faculty) first embedded evaluator; each side ≥$1B over 5 years",
+      "dek": "Company PR + CNBC Sep 18 ~5:31 p.m. ET. Employee-like access for red-team, alignment, safeguards. Anthropic funds Accenture work directly; METR dialogue; non-exclusive.",
+      "date": "Sept. 18, 2026",
+      "source": "Anthropic (Partnering with Accenture on embedded evaluation)",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "also": [
+        {
+          "label": "CNBC (Ashley Capoot) — Anthropic selects Accenture as first embedded evaluator",
+          "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html"
+        },
+        {
+          "label": "TechCrunch — Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+        },
+        {
+          "label": "CNA/Reuters wire — each ≥$1B / five years framing",
+          "url": "https://www.channelnewsasia.com/business/anthropic-accenture-invest-2-billion-in-ai-model-evaluation-safety-concerns-rise-6395851"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / safety governance as Evening Sep 18 print. PRIMARY: Anthropic company post Sep 18 partnering with Accenture on independent embedded evaluation of frontier AI — led by Faculty (Accenture specialist AI). Scope: evaluate/red-team models, alignment assessments, test safeguards; embedded evaluators get access comparable to an employee. Anthropic and Accenture each expect to invest at least $1 billion building capacity over the next five years; Anthropic will fund Accenture’s work directly given urgency (long-term prefers pooled/government funding per Advanced AI Framework). Non-exclusive; dialogue with METR and other nonprofit evaluators; more evaluators to be announced. Companion to on-plate aef-embed-letter (AEF minimum conditions). First concrete step of Amodei “We Must Pace the Frontier” embed-evaluator pledge. Do NOT invent AH share prints (Yahoo postMarket blank at publish); do NOT flatten into a single $2B check — it is each ≥$1B capacity over five years. Not MAJOR — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "Anthropic said Friday it is partnering with Accenture on independent embedded evaluation of frontier AI, with the work led by Faculty, Accenture’s specialist AI business, covering model evaluation and red-teaming, alignment assessments, and testing of model safeguards — the lab’s first named step toward the embedded-evaluator commitment in CEO Dario Amodei’s “We Must Pace the Frontier” essay.",
+        "Anthropic and Accenture each expect to invest at least $1 billion in building capacity in this area over the next five years; Anthropic said that given the importance and urgency it will fund Accenture’s work directly for now, while arguing that longer-term funding should come from pooled or government sources as outlined in its Advanced AI Framework.",
+        "Embedded evaluators are described as working inside the company with access comparable to an employee so they can watch models take shape in training, verify safety commitments, report incidents, and inform the public; the partnership is non-exclusive, Anthropic is in dialogue with METR and other nonprofit evaluators, and it said additional evaluator relationships will be announced in coming weeks."
+      ]
+    },
+    {
+      "id": "automattic-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Tech / Governance",
+      "hed": "Automattic names WordPress VIP CFO Jeremy Klaperman interim finance chief after Davies exit",
+      "dek": "TechCrunch Sep 18 (Sarah Perez; internal Slack). Follows attempted Mullenweg ouster and exit of CFO Mark Davies + CLO Andy Missan. Board still to pick permanent CFO; next board meeting Sep 23.",
+      "date": "Sept. 18, 2026",
+      "source": "TechCrunch (Sarah Perez)",
+      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Evening Sep 18 print. PRIMARY: TechCrunch Sep 18 — Automattic names Jeremy Klaperman (CFO of WordPress VIP Enterprise) interim company CFO after Mark Davies departure amid board/CEO turmoil; Klaperman previously acted as CFO during Davies sabbatical; board (new members TBD) still evaluating internal/external candidates; verbal accept for chief legal officer replacing Andy Missan; Stephen Wolfram remains special advisor; next board meeting Sep 23. Stick to TechCrunch/Slack-attributed facts. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Automattic named Jeremy Klaperman, CFO of its WordPress VIP Enterprise unit, as interim chief financial officer, TechCrunch reported Friday, citing an internal Slack post from CEO Matt Mullenweg after the departure of then-CFO Mark Davies amid last week’s board fight over Mullenweg’s role.",
+        "Mullenweg said Klaperman had previously acted as Automattic CFO when Davies was on sabbatical, and that the board — whose new members have yet to be announced — still needs to evaluate internal and external candidates before naming a permanent finance chief; he also said a candidate for chief legal officer had verbally accepted, replacing Andy Missan, who left alongside Davies.",
+        "Mullenweg expressed confidence in the company’s cash and financial position, said Stephen Wolfram will continue as special advisor, and noted the next board meeting is scheduled for Sept. 23."
+      ]
+    },
+    {
+      "id": "angle-27",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Insurtech / Growth",
+      "hed": "Angle Health raises $200M Series C + $400M tender at $2.7B; Vitruvian leads",
+      "dek": "TechCrunch Sep 18. YC W20 alum; level-funded SMB health plans; AI platform; >5,000 businesses; says profitable. Round expected to close later this month.",
+      "date": "Sept. 18, 2026",
+      "source": "TechCrunch (Julie Bort)",
+      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance as Evening Sep 18 print. PRIMARY: TechCrunch Sep 18 — Angle Health $200M Series C alongside $400M tender offer at $2.7B valuation; led by Vitruvian Partners with Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator; tender lets employees cash out some shares; expects close later this month; YC W20; level-funded SMB health plans via AI-powered platform; >5,000 businesses; company says profitable. Do not invent ARR or prior valuation. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Angle Health, a Y Combinator winter 2020 alum that helps small businesses buy and manage level-funded health plans, said Friday it raised a $200 million Series C alongside a $400 million tender offer at a $2.7 billion valuation, TechCrunch reported.",
+        "Vitruvian Partners led the round, with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator; the tender is meant to let employees cash out some shares, and the company expects the financing to close later this month.",
+        "Angle describes an AI-powered platform that integrates with payroll and HR systems to help more than 5,000 businesses choose and manage plans, and told TechCrunch it is profitable."
+      ]
+    },
     {
       "id": "nscale-s1",
       "lead": false,
