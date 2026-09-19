@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 124,
+  "number": 125,
   "city": "New York",
   "date": "Friday, September 18, 2026",
-  "editionLabel": "Evening Edition",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~6:47 p.m. ET - Friday after cash close (unchanged vs No. 123 Early Evening). Yahoo: S&P 7,650.50 (+0.17%), Dow 51,682.64 (−0.18%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
+    "updated": "Sep 18, ~7:59 p.m. ET - Friday after cash close (unchanged vs No. 124 Evening ~6:47 p.m. plate). Yahoo: S&P 7,650.50 (+0.17%), Dow 51,682.64 (−0.18%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
     "line": "S&P 7,650.50 (+0.17%) · Dow 51,682.64 (−0.18%) · Nasdaq 26,522.55 (+0.39%) · SOX 11,921.69 (+2.78%) · NVDA $222.27 (+1.34%) · 10-year 4.998% · 30-year 5.331%"
   },
   "deskNote": {
-    "kicker": "AI / Safety / CFO",
-    "hed": "Anthropic embeds Accenture/Faculty; Automattic interim CFO; Angle $2.7B.",
+    "kicker": "AI / Markets / Infra debt",
+    "hed": "OpenAI ~$280B burn by 2030; Oracle Project Jupiter $18B loans stressed.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 124 Evening Edition - ADD anthropic-acn-embed, automattic-cfo, angle-27 (all Quill) vs No. 123 Early Evening. PRIMARY: Anthropic company PR Sep 18 + CNBC ~5:31 p.m. ET — Accenture/Faculty named first embedded evaluator (red-team, alignment, safeguards; employee-like access); each side expects ≥$1B capacity spend over five years; Anthropic funds Accenture work directly; METR dialogue; non-exclusive; companion to aef-embed-letter / Amodei pace essay. SECONDARY: Automattic interim CFO Jeremy Klaperman (TechCrunch) after Davies exit. TERTIARY: Angle Health $200M Series C + $400M tender at $2.7B, Vitruvian-led (TechCrunch). Lead remains fomc-sep16. Yahoo tape unchanged vs ~4:58 p.m. Early Evening plate (cash close). Prior ~6:00 p.m. ET hourly slot produced no main commit after No. 123 (c3fe670 ~5:02 p.m. ET) — treated as failed/missed run; this 6:47 slot catches post-5:31 Anthropic/Accenture break. Declined: Manus ~$500M / $4B still UNCONFIRMED (WSJ via TechCrunch sources); Coforge PE AI white paper (vendor PR; already declined Late Afternoon/Early Evening); family-offices AI secondaries feature (TechCrunch trend piece, no hard single-name close); Wayve/Waymo CFO (Sep 16, AV mid-tier); Alset AI / Agereh micro-cap CFO churn; Reuters Anthropic-Accenture URL 401 behind paywall (used Anthropic PR + CNBC + CNA wire). X MCP search_news/search_posts_all still client-not-enrolled."
+    "body": "Vol. 1 No. 125 Late Evening - ADD openai-burn-280, oracle-jupiter-18 (both Quill) vs No. 124 Evening. PRIMARY: FT exclusive (gift/headline + Reuters brief) — OpenAI leaked presentation expects to burn ~$280bn by 2030; expenses far outrun revenues projected $36bn this year to $350bn in 2030. SECONDARY: FT + Reuters — ~$18bn Project Jupiter (Oracle-leased New Mexico DC; OpenAI $300bn compute tie) loans quoted 89–91¢ by Santander/Jefferies; local water/air pushback; S&P Oracle one notch above junk. Lead remains fomc-sep16. Yahoo tape unchanged vs Evening plate (cash close Friday). Declined: Manus ~$500M/$4B still UNCONFIRMED; Anthropic Nov IPO timing (WSJ sources; plate already has anthropic $100B+ IPO pitch); Coforge PE AI white paper; family-offices AI secondaries trend; Meta Muse App Store #1; Infillion–Foursquare (ad tech); Apollo $35B Anthropic debt recirculation (June close); CleanSpark $2.276B notes pricing (PressReleaseCC reprint only — no verified IR/PR Newswire URL this pass; watch stays OPEN); Bianco Oct-hike odds commentary. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 124 Evening + anthropic-acn-embed / automattic-cfo / angle-27 ADDs - Accenture/Faculty embed start date, access MoU, METR pilot, next named evaluators; ACN trading reaction Mon. Automattic permanent CFO / board slate / Sep 23 board. Angle close + tender mechanics. Nscale roadshow / priced range / Anyscale close. Virginia DC EO / AI Task Force. Disney CTO org. AEF-1 lab responses. Warsh/FOMC + Oct pricing. CoreWeave settle Sep 22. CleanSpark notes. Newsom GovOps/OES ~Nov 16. Prior Early Evening watches remain."
+    "line": "No. 125 Late Evening + openai-burn-280 / oracle-jupiter-18 ADDs - OpenAI deck authenticity / financing path / IPO timing; Oracle Jupiter permitting / Blue Owl hold / Mon ORCL tape; CleanSpark notes pricing primary still OPEN. Nscale roadshow / priced range / Anyscale close. Virginia DC EO / AI Task Force. Disney CTO org. AEF-1 lab responses. Warsh/FOMC + Oct pricing. CoreWeave settle Sep 22. Newsom GovOps/OES ~Nov 16. Manus $500M/$4B UNCONFIRMED. Prior Evening watches remain."
   },
   "sections": [
     "All",
@@ -28,6 +28,58 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "openai-burn-280",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI / Funding",
+      "hed": "FT: OpenAI expects to burn ~$280bn by 2030; rev path $36bn→$350bn",
+      "dek": "FT exclusive Sep 18 ~7:05 p.m. ET (leaked presentation). Reuters brief: expenses far outrun revenues. Not a company filing. Lead remains fomc-sep16; MAJOR financing signal for Quill.",
+      "date": "Sept. 18, 2026",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c",
+      "also": [
+        {
+          "label": "Reuters brief via NewsX — burn $280bn; rev $36bn→$350bn",
+          "url": "https://world.newsx.com/world/brief-openai-expects-to-burn-280-billion-by-2030-ft-235494/"
+        },
+        {
+          "label": "Techmeme River — FT leak summary (~7:05 p.m. ET)",
+          "url": "https://www.techmeme.com/river"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI funding as Late Evening Sep 18 print. PRIMARY: Financial Times exclusive Sep 18 (headline verified on FT page: OpenAI expects to burn $280bn by 2030; Techmeme ~7:05 p.m. ET summarizes leaked presentation with revenue path $36B this year to $350B in 2030). ALSO: Reuters brief reprint (NewsX) matching burn $280bn and rev $36bn→$350bn. Stick to FT/Reuters-brief figures only. Do NOT invent annual FCF path, funding gap, or profitability year. Do NOT use Techmeme's $278B FCF figure as primary (prefer FT headline / Reuters ~$280bn burn). Not a company IR release — leaked deck via FT. MAJOR financing/radar signal but keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "The Financial Times reported Friday evening that a leaked OpenAI presentation shows the company expects to burn about $280 billion by 2030, with expenses far outrunning revenues even as sales are projected to climb from $36 billion this year to $350 billion in 2030.",
+        "A Reuters brief of the FT story repeated the same $280 billion cumulative burn figure and the $36 billion-to-$350 billion revenue path; the numbers are from the leaked deck, not an OpenAI investor filing.",
+        "The print lands after U.S. cash equity close and does not change the plate lead (fomc-sep16), but it is a material AI-financing signal for the weekend radar and Monday tape."
+      ]
+    },
+    {
+      "id": "oracle-jupiter-18",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI Infra / Credit",
+      "hed": "Oracle Project Jupiter ~$18B DC loans stressed at 89–91¢; NM pushback",
+      "dek": "FT Sep 18 ~7:10 p.m. ET + Reuters. Santander/Jefferies quotes. OpenAI $300bn compute tie; Blue Owl equity. S&P Oracle one notch above junk. Not MAJOR lead change.",
+      "date": "Sept. 18, 2026",
+      "source": "Financial Times; Reuters",
+      "url": "https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127",
+      "also": [
+        {
+          "label": "Reuters — Oracle $18B data center debt under pressure, FT reports",
+          "url": "https://www.reuters.com/business/finance/oracles-18-billion-data-center-debt-under-pressure-ft-reports-2026-09-18/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI infra credit as Late Evening Sep 18 print. PRIMARY: FT (Michelle Chan/Martha Muir/Stephen Morris/Robert Smith) — ~$18bn Project Jupiter loans (Oracle-leased 1,400-acre Doña Ana County NM campus) privately quoted 89–91 cents on the dollar by syndicate banks including Santander and Jefferies; heart of Oracle's ~$300bn OpenAI compute contract; Blue Owl equity; distribution stalled on Oracle leverage/creditworthiness; S&P July downgrade left Oracle one notch above junk; gas/Bloom pipeline blocks; air permit pause; SynMax says initial phase ≥7 months behind (was targeted Nov 2026). ALSO Reuters Bengali desk write-up of FT. Stick to FT/Reuters. Do NOT invent ORCL print moves post-close. Not MAJOR lead change — fomc-sep16 remains lead. Owner Quill.",
+      "grafs": [
+        "About $18 billion of loans tied to Oracle-leased Project Jupiter, a 1,400-acre data-center campus in Doña Ana County, New Mexico, slid into stressed territory Friday, with syndicate banks including Santander and Jefferies privately quoting the paper at 89 to 91 cents on the dollar, the Financial Times reported.",
+        "The campus sits at the center of Oracle's landmark roughly $300 billion compute contract with OpenAI and was backed late last year by the $18 billion bank package plus equity from Blue Owl; FT said distribution to a wider investor base has stalled amid Oracle's rising leverage after an S&P downgrade left the company one notch above junk.",
+        "Local opposition over water and air quality has blocked natural-gas and Bloom fuel-cell pipeline requests, and market intelligence cited by FT puts the initial phase at least seven months behind a previously targeted November 2026 online date; Oracle, Santander, Jefferies, Blue Owl, and STACK Infrastructure did not comment to the FT/Reuters."
+      ]
+    },
     {
       "id": "anthropic-acn-embed",
       "lead": false,
