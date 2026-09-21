@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 129,
+  "number": 130,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid-Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~12:22 p.m. ET — Monday cash session. Live prints vs Midday plate (~11:26): S&P 7,747.55 +1.27% (plate 7,730.27), Dow 51,965.40 +0.55% (plate 51,920.77), Nasdaq 27,025.60 +1.90% (plate 26,949.01), SOX 12,348.66 +3.58% (plate 12,334.00), NVDA $225.38 +1.40% (plate $224.80), AMD $611.84 +9.29% (new $1T print). Yields: ^TNX ~4.961% (plate ~4.963%), ^TYX ~5.296% (plate ~5.301%).",
-    "line": "S&P 7,747.55 (+1.27%) · Dow 51,965.40 (+0.55%) · Nasdaq 27,025.60 (+1.90%) · SOX 12,348.66 (+3.58%) · NVDA $225.38 (+1.40%) · AMD $611.84 (+9.29%) · 10-year 4.961% · 30-year 5.296%"
+    "updated": "Sep 21, ~1:17 p.m. ET — Monday cash session. Live prints vs Afternoon plate (~12:22): S&P 7,757.43 +1.40% (plate 7,747.55), Dow 52,042.51 +0.70% (plate 51,965.40), Nasdaq 27,055.35 +2.01% (plate 27,025.60), SOX 12,359.52 +3.67% (plate 12,348.66), NVDA $226.98 +2.12% (plate $225.38), AMD $607.19 +8.46% (plate $611.84; still well above Fri close). Yields: ^TNX ~4.959% (plate ~4.961%), ^TYX ~5.296% (unchanged).",
+    "line": "S&P 7,757.43 (+1.40%) · Dow 52,042.51 (+0.70%) · Nasdaq 27,055.35 (+2.01%) · SOX 12,359.52 (+3.67%) · NVDA $226.98 (+2.12%) · AMD $607.19 (+8.46%) · 10-year 4.959% · 30-year 5.296%"
   },
   "deskNote": {
-    "kicker": "AMD $1T + Afternoon tape",
-    "hed": "AMD clears $1T; SOX/Nasdaq extend Monday AI bid.",
+    "kicker": "BlackLine NetNow + Mid-Afternoon tape",
+    "hed": "BlackLine buys NetNow for AI credit risk; tape steady vs Afternoon.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 129 Afternoon — ADD amd-1t (Quill) vs No. 128 Midday. PRIMARY: CNBC + Reuters — AMD first $1T mcap; intraday high ~$613.92 / last ~$613.31 +9.6% per Reuters; fourth U.S. chip name after NVDA/AVGO/MU. Tape vs Midday: Nasdaq +~77 pts / S&P +~17; AMD +9% is the material print. Lead remains fomc-sep16. Declined: Fortune Brands Clifford CFO (Sep 9 announce, effective today, mid-cap home products below bar); Innventure Stober CFO (micro-cap, Midday decline stands); Amazon–Meta Muse block (pre-Midday GeekWire/Verge, agent-shopping privacy, not PE/CFO core); US–China AI hotline/Bessent (WaPo morning, policy recirculation vs deal desk); Apollo Kleinman Barclays (already Midday-declined); SoftBank/PRTH recirculation; Googlebook consumer SKU. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 130 Mid-Afternoon — ADD blackline-netnow (Quill) vs No. 129 Afternoon. PRIMARY: BlackLine / GlobeNewswire Sep 21 8:30 a.m. ET — acquires NetNow (AI-enabled B2B onboarding + credit risk) to extend Invoice-to-Cash upstream; terms not disclosed; Wilson Sonsini + Blake Cassels for BL; Lightning Partners (FA) + Fasken for NetNow. Tape vs Afternoon: S&P +~10 / Nasdaq +~30 / NVDA +~$1.60; AMD still +~8.5% day after $1T print. Lead remains fomc-sep16. Declined: Anthropic new-model-ahead-of-IPO (Reuters exclusive Sep 19, sources-say, no launch date — stale recirculation); BofA lagging AI debt deals (Bloomberg feature, softer markets color); Adlib–Paperbox insurance (undisclosed niche); Upland Simon CFO (July/Aug stale); Arm/Meta Muse CPU recirculation (Muse already Afternoon-declined; chip bid covered by amd-1t); SoftBank OpenAI bonds / AMD $1T already on plate. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 129 Afternoon + amd-1t ADD — AMD $1T milestone. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
+    "line": "No. 130 Mid-Afternoon + blackline-netnow ADD. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
   },
   "sections": [
     "All",
@@ -28,6 +28,35 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "blackline-netnow",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "CFO tech / M&A",
+      "hed": "BlackLine acquires NetNow to push AI credit risk into Invoice-to-Cash; terms undisclosed",
+      "dek": "GlobeNewswire Sep 21 8:30 a.m. ET. AI-enabled B2B onboarding, credit apps, fraud/risk monitoring upstream of receivables. Advisers named; deal value not disclosed. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "BlackLine, Inc. (GlobeNewswire)",
+      "url": "https://www.financialcontent.com/article/gnwcq-2026-9-21-blackline-acquires-netnow-expanding-invoice-to-cash-with-intelligent-customer-onboarding-and-credit-risk-management",
+      "also": [
+        {
+          "label": "Finviz / GlobeNewswire wire — BlackLine Acquires NetNow (Sep 21, 8:30 a.m.)",
+          "url": "https://finviz.com/news/393815/blackline-acquires-netnow-expanding-invoice-to-cash-with-intelligent-customer-onboarding-and-credit-risk-management"
+        },
+        {
+          "label": "Stock Titan — BlackLine Acquires NetNow for Credit Risk Tools",
+          "url": "https://www.stocktitan.net/news/BL/black-line-acquires-net-now-expanding-invoice-to-cash-with-ccqannbpoov5.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / CFO tech as Mid-Afternoon Sep 21 print (company wire 8:30 a.m. ET; first plate inclusion vs Afternoon No. 129). PRIMARY: BlackLine GlobeNewswire via FinancialContent — BlackLine (Nasdaq: BL) acquired NetNow, an AI-enabled B2B customer onboarding and credit risk management solution, expanding Invoice-to-Cash and Agentic Financial Operations for the Office of the CFO. Stick to: digitizes credit applications, trade references, risk assessment, fraud detection, ongoing credit monitoring upstream of invoice creation; quotes Andy Lilley (MD Invoice-to-Cash) and NetNow CEO Nauman Hafeez; advisers Wilson Sonsini Goodrich & Rosati and Blake Cassels & Graydon (BlackLine), Lightning Partners (NetNow exclusive FA), Fasken Martineau DuMoulin (NetNow legal). Do NOT invent purchase price, EV, or revenue. Terms not disclosed in the release. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "BlackLine said Monday it has acquired NetNow, an AI-enabled B2B customer onboarding and credit risk management platform, to extend its Invoice-to-Cash suite further upstream into credit decisions that precede invoice creation.",
+        "The company framed the deal as advancing its Agentic Financial Operations Platform for the Office of the CFO, connecting credit applications, trade references, third-party credit and banking data, AI-enabled risk and fraud detection, and ongoing portfolio monitoring with downstream receivables, working capital, and cash-flow outcomes.",
+        "Andy Lilley, managing director of Invoice-to-Cash at BlackLine, said credit remains one of the earliest consequential finance decisions yet stays manual at many firms; NetNow CEO Nauman Hafeez said the combination links credit intelligence to a broader financial-operations platform.",
+        "Financial terms were not disclosed. Wilson Sonsini Goodrich & Rosati and Blake, Cassels & Graydon advised BlackLine; Lightning Partners was NetNow’s exclusive financial adviser and Fasken Martineau DuMoulin LLP its legal adviser."
+      ]
+    },
     {
       "id": "amd-1t",
       "lead": false,
