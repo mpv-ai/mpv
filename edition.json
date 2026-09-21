@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 130,
+  "number": 131,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Mid-Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~1:17 p.m. ET — Monday cash session. Live prints vs Afternoon plate (~12:22): S&P 7,757.43 +1.40% (plate 7,747.55), Dow 52,042.51 +0.70% (plate 51,965.40), Nasdaq 27,055.35 +2.01% (plate 27,025.60), SOX 12,359.52 +3.67% (plate 12,348.66), NVDA $226.98 +2.12% (plate $225.38), AMD $607.19 +8.46% (plate $611.84; still well above Fri close). Yields: ^TNX ~4.959% (plate ~4.961%), ^TYX ~5.296% (unchanged).",
-    "line": "S&P 7,757.43 (+1.40%) · Dow 52,042.51 (+0.70%) · Nasdaq 27,055.35 (+2.01%) · SOX 12,359.52 (+3.67%) · NVDA $226.98 (+2.12%) · AMD $607.19 (+8.46%) · 10-year 4.959% · 30-year 5.296%"
+    "updated": "Sep 21, ~2:11 p.m. ET — Monday cash session. Live prints vs Mid-Afternoon plate (~1:17): S&P 7,761.81 +1.45% (plate 7,757.43), Dow 52,023.08 +0.66% (plate 52,042.51), Nasdaq 27,084.04 +2.12% (plate 27,055.35), SOX 12,383.51 +3.87% (plate 12,359.52), NVDA $227.14 +2.19% (plate $226.98), AMD $608.36 +8.67% (plate $607.19). Yields: ^TNX ~4.970% (plate ~4.959%), ^TYX ~5.303% (plate ~5.296%).",
+    "line": "S&P 7,761.81 (+1.45%) · Dow 52,023.08 (+0.66%) · Nasdaq 27,084.04 (+2.12%) · SOX 12,383.51 (+3.87%) · NVDA $227.14 (+2.19%) · AMD $608.36 (+8.67%) · 10-year 4.970% · 30-year 5.303%"
   },
   "deskNote": {
-    "kicker": "BlackLine NetNow + Mid-Afternoon tape",
-    "hed": "BlackLine buys NetNow for AI credit risk; tape steady vs Afternoon.",
+    "kicker": "Amazon–Muse block + Oura IPO terms",
+    "hed": "Amazon blocks Muse shopping; Oura sets $40–$44 IPO range. Tape firm.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 130 Mid-Afternoon — ADD blackline-netnow (Quill) vs No. 129 Afternoon. PRIMARY: BlackLine / GlobeNewswire Sep 21 8:30 a.m. ET — acquires NetNow (AI-enabled B2B onboarding + credit risk) to extend Invoice-to-Cash upstream; terms not disclosed; Wilson Sonsini + Blake Cassels for BL; Lightning Partners (FA) + Fasken for NetNow. Tape vs Afternoon: S&P +~10 / Nasdaq +~30 / NVDA +~$1.60; AMD still +~8.5% day after $1T print. Lead remains fomc-sep16. Declined: Anthropic new-model-ahead-of-IPO (Reuters exclusive Sep 19, sources-say, no launch date — stale recirculation); BofA lagging AI debt deals (Bloomberg feature, softer markets color); Adlib–Paperbox insurance (undisclosed niche); Upland Simon CFO (July/Aug stale); Arm/Meta Muse CPU recirculation (Muse already Afternoon-declined; chip bid covered by amd-1t); SoftBank OpenAI bonds / AMD $1T already on plate. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 131 Late Afternoon — ADD amazon-muse-block + oura-ipo-terms (Quill) vs No. 130 Mid-Afternoon. PRIMARY: Verge/BI/GeekWire — Amazon blocks Meta Muse from shopping Amazon.com (unauthorized agent popup; credential/scraping concerns; asked Meta to remove marketplace). Reuters — Oura roadshow $40–$44 / up to $2.2B / $15.62B FD valuation; Lilly $100M / Dragoneer $300M indicated interest; Nasdaq OURA next week. Tape vs Mid-Afternoon: S&P +~4 / Nasdaq +~29 / NVDA +~$0.16 / AMD +~$1.17; modest. Lead remains fomc-sep16. Declined: SoftBank OpenAI bonds / AMD $1T / BlackLine NetNow / Hg–Anthropic already on plate; Grok 4.7 (no clean SpaceXAI primary beyond Copilot changelog); FT ~$300B Big Tech AI guarantees (paywalled primary; $105B Nvidia Ohio already on nvda-10q); Apollo Kleinman Barclays (Sep 14 stale); Corridor $16M seed / Footprint $25M (below bar); NextSlide (Aug stale); Anthropic model-ahead-of-IPO recirculation. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 130 Mid-Afternoon + blackline-netnow ADD. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
+    "line": "No. 131 Late Afternoon + amazon-muse-block + oura-ipo-terms. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
   },
   "sections": [
     "All",
@@ -28,6 +28,56 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "amazon-muse-block",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Agentic commerce",
+      "hed": "Amazon blocks Meta Muse from shopping its store; cites unauthorized agent and credential concerns",
+      "dek": "Verge / Business Insider / GeekWire Sep 21. Amazon Conditions of Use popup for Muse users; asked Meta to remove marketplace. Amazon–Perplexity Comet suit cited as prior front. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "The Verge; Business Insider; GeekWire",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "also": [
+        {
+          "label": "Business Insider — Amazon keeping Meta Muse out of shopping carts (Sep 21)",
+          "url": "https://www.businessinsider.com/amazon-blocks-meta-muse-ai-agent-shopping-site-2026-9"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / agentic commerce as Late Afternoon Sep 21 print (first plate inclusion vs Mid-Afternoon No. 130). PRIMARY: The Verge https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping (Jess Weatherbed, Sep 21 9:21 a.m. UTC) + Business Insider (Georgia Hennessy) citing GeekWire first report. Stick to: Muse users see popup that continued access by an unauthorized AI agent violates Amazon Conditions of Use; Amazon says it was not notified/authorized, Muse does not identify itself, appears to capture/store credentials and scrape account data; Amazon asked Meta to remove its marketplace from Muse; Amazon spokesperson on open operation and respecting provider opt-out; Meta did not immediately comment to BI; Verge notes Amazon sued Perplexity over Comet shopping and has sparse confirmation emails since July. Do NOT invent legal outcome, traffic stats, or revenue impact. Distinct from prior Muse CPU-demand recirculation (already declined). Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Amazon is blocking Meta’s Muse personal AI agent from shopping on Amazon.com, The Verge and Business Insider reported Monday, after Muse users began seeing a warning that continued access by an unauthorized AI agent violates Amazon’s Conditions of Use.",
+        "Amazon told GeekWire and Business Insider it was not notified that Muse would access its store and did not authorize the activity, saying the agent fails to identify itself, appears to capture and store customer credentials, and scrapes account data. An Amazon spokesperson said third-party apps that offer to make purchases from other businesses should operate openly and respect service-provider decisions about whether to participate, and that Amazon has asked Meta to remove its marketplace from Muse.",
+        "Meta did not immediately respond to Business Insider’s request for comment. At Muse’s Sept. 8 launch, Meta said the agent cannot see passwords or payment details and stores credentials securely for use without viewing them.",
+        "The Verge framed the move as Amazon’s latest push to keep rival agentic shopping tools off its marketplace, noting Amazon’s lawsuit against Perplexity over Comet shopping activity and confirmation emails that have omitted item names and images since July to limit mining by external AI services."
+      ]
+    },
+    {
+      "id": "oura-ipo-terms",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "IPO / Wearables",
+      "hed": "Oura kicks off IPO roadshow: $40–$44 range, up to $2.2B raise, $15.62B fully diluted valuation",
+      "dek": "Reuters Sep 21. 50M shares; Nasdaq OURA expected next week. Lilly up to $100M / Dragoneer up to $300M indicated interest. Builds on oura-s1 (blank range). Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "Reuters",
+      "url": "https://uk.marketscreener.com/news/oura-targets-15-62-billion-valuation-in-us-ipo-setting-stage-for-fall-listings-ce785adbdc89f625",
+      "also": [
+        {
+          "label": "Bloomberg headline — Smart Ring Maker Oura, Backers Seek $2.2 Billion in US IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / IPO as Late Afternoon Sep 21 print (terms set vs oura-s1 blank range on plate). PRIMARY: Reuters via MarketScreener (Manya Saini, Sep 21) — Oura kicked off US IPO roadshow targeting $15.62B fully diluted valuation; company and some existing investors plan to raise as much as $2.2B via 50M shares at top of $40–$44 indicated range; expected to price and begin Nasdaq trading under OURA next week; Eli Lilly indicated interest up to $100M of shares; Dragoneer up to $300M; GS / MS / JPM lead underwriters; cites Mergermarket’s Samuel Kerr on fall IPO demand test and IPOX’s Kat Liu on beginner-friendly positioning. Stick to prospectus prints already on oura-s1 where overlapping (9M ended Jun 30 revenue $1.21B ~+74% y/y; 3.6M rings sold LTM Jun 30; expects ~5.7M paid members FY2026). Do NOT invent exact proceeds at mid/low or open price. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Oura kicked off the roadshow for its U.S. IPO on Monday targeting a fully diluted valuation of $15.62 billion, Reuters reported, as the smart-ring maker tests fall IPO demand after a tepid September for consumer tech listings.",
+        "Oura and some existing investors plan to raise as much as $2.2 billion through the sale of 50 million shares at the top of an indicated $40 to $44 range, with pricing and Nasdaq trading under ticker OURA expected next week, the Reuters dispatch said.",
+        "Eli Lilly has indicated interest in purchasing up to $100 million of the shares and Dragoneer up to $300 million, per Reuters. Goldman Sachs, Morgan Stanley, and J.P. Morgan are lead underwriters.",
+        "Reuters cited prospectus figures already on the plate: revenue of about $1.21 billion for the nine months ended June 30 (roughly +74% year over year), 3.6 million rings sold in the twelve months ended June 30, and an expectation of about 5.7 million paid members by the end of fiscal 2026. A late-stage round last year valued the company at about $11 billion."
+      ]
+    },
     {
       "id": "blackline-netnow",
       "lead": false,
