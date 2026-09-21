@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 126,
+  "number": 127,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~9:25 a.m. ET — Monday. Yahoo chart still prints Friday cash close for equities (S&P 7,650.50 +0.17%, Dow 51,682.64 −0.18%, Nasdaq 26,522.55 +0.39%, SOX 11,921.69 +2.78%, NVDA $222.27 +1.34%). Yields eased vs Friday plate: ^TNX ~4.967% (was ~4.998%), ^TYX ~5.298% (was ~5.331%).",
-    "line": "S&P 7,650.50 (+0.17% Fri) · Dow 51,682.64 (−0.18% Fri) · Nasdaq 26,522.55 (+0.39% Fri) · SOX 11,921.69 (+2.78% Fri) · NVDA $222.27 (+1.34% Fri) · 10-year 4.967% · 30-year 5.298%"
+    "updated": "Sep 21, ~10:27 a.m. ET — Monday cash session open. Live prints vs Fri close: S&P 7,721.67 +0.93%, Dow 51,922.24 +0.46%, Nasdaq 26,920.30 +1.50%, SOX 12,245.86 +2.72%, NVDA $223.78 +0.68%. Yields: ^TNX ~4.971% (plate Morning ~4.967%), ^TYX ~5.305% (Morning ~5.298%).",
+    "line": "S&P 7,721.67 (+0.93%) · Dow 51,922.24 (+0.46%) · Nasdaq 26,920.30 (+1.50%) · SOX 12,245.86 (+2.72%) · NVDA $223.78 (+0.68%) · 10-year 4.971% · 30-year 5.305%"
   },
   "deskNote": {
-    "kicker": "AI credit / Payments PE",
-    "hed": "SoftBank ~$11B OpenAI notes; Priority $8.05 take-private ~$1.6B.",
+    "kicker": "CFO / India PE + Monday tape",
+    "hed": "Avantor names Garner CFO; Samara ARC–Calyx platform; cash session risk-on.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 126 Morning — ADD softbank-openai-bonds, prth-805 (both Quill) vs No. 125 Late Evening. PRIMARY AI credit: Reuters SoftBank ~$11B senior notes for OpenAI $10B third tranche (price Sep 24 / settle Sep 29 / ~Oct 1; Fitch BB+); SoftBank IR $25.9B bridge prepay CLOSED. PRIMARY PE: Priority SEC EX-99.1 — $8.05 cash / ~$1.6B EV CEO-led take-private with Searchlight equity; Special Committee unanimous; H1 2027. Lead remains fomc-sep16. Yahoo equities still Friday settlement prints; yields off a few bp. Declined this pass: Hg–Anthropic strategic venture (PE News headline only — no primary figures); Anthropic–Blackstone/H&F JV talks (Forbes people-familiar); Gates Notes essay; Anthropic pace measurements blog. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 127 Mid-Morning — ADD avantor-cfo, samara-arc-calyx (both Quill) vs No. 126 Morning. PRIMARY CFO: Avantor SEC 8-K — Todd Garner EVP/CFO effective Sep 21; Eck stays CAO. PRIMARY PE: LiveMint — Samara stakes ARC + Calyx; ~₹1,200 crore industry-source. Tape: Monday cash open material vs Morning Fri prints (S&P +0.93%, Nasdaq +1.50%, SOX +2.72%). Lead remains fomc-sep16. SoftBank notes + Priority already on Morning plate — no re-add. Declined: SoftBank/PRTH recirculation; Anthropic Nov IPO talk (still OPEN watch); QuickLogic/ZettaJoule CFO (below bar); Bloomberg AI-risk newsletter (thematic). X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 126 Morning + softbank-openai-bonds / prth-805 ADDs — SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 close; OpenAI third tranche funding. Priority proxy/13e-3 + H1 2027 close path. SoftBank $25.9B bridge prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22. Prior Late Evening watches remain."
+    "line": "No. 127 Mid-Morning + avantor-cfo / samara-arc-calyx ADDs — Garner Day-1 at Avantor; Samara India logistics platform integration. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
   },
   "sections": [
     "All",
@@ -28,6 +28,62 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "avantor-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Life sciences / Governance",
+      "hed": "Avantor names ex-CONMED CFO Todd Garner EVP and finance chief; Eck stays CAO",
+      "dek": "SEC 8-K Sep 21 (event letter Sep 17). Effective today. Base $700k; 80% target bonus; $150k signing; $1.5M initial LTI (RSU/options). Not MAJOR.",
+      "date": "Sept. 21, 2026",
+      "source": "Avantor, Inc. (SEC Form 8-K / EX-99.1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1722482/000094787126000877/ss6842956_8k.htm",
+      "also": [
+        {
+          "label": "SEC EX-99.1 — Press release announcing Garner appointment",
+          "url": "https://www.sec.gov/Archives/edgar/data/1722482/000094787126000877/ss6842956_ex9901.htm"
+        },
+        {
+          "label": "SEC filing index — 8-K accession 0000947871-26-000877",
+          "url": "https://www.sec.gov/Archives/edgar/data/1722482/000094787126000877/0000947871-26-000877-index.html"
+        },
+        {
+          "label": "Finviz / PR Newswire wire — Avantor appoints new Chief Financial Officer",
+          "url": "https://finviz.com/news/393690/avantor-appoints-new-chief-financial-officer"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Mid-Morning Sep 21 print. PRIMARY: Avantor SEC Form 8-K filed Sep 21 (earliest event Sep 17 employment letter) — appoints Todd Garner EVP and CFO effective Sep 21, 2026; principal financial officer; joins Executive Leadership Team. Prior: CONMED EVP/CFO Jan 2018–Mar 2026; earlier C.R. Bard IR/Division CFO roles. Comp (employment letter): base $700,000; annual cash incentive target 80% of base (2026 pro-rated); one-time $150,000 signing bonus (repayable if departure within one year of commencement); initial LTI target $1,500,000 half RSUs (2-yr vest) / half options at 10% premium to grant-date close (3-yr vest); future annual LTI target $3,000,000; eligible for Executive Severance and Change in Control Plan. Steven Eck ceases Interim CFO on commencement, remains SVP and CAO (interim since Jun 24, 2026 per company PR). Stick to 8-K/EX-99.1. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Avantor named Todd Garner executive vice president and chief financial officer effective Monday, the life-sciences tools company said in a Form 8-K, making him principal financial officer and a member of its Executive Leadership Team.",
+        "Garner most recently was CFO of CONMED from 2018 into early 2026 and earlier held investor-relations and division-CFO roles at C.R. Bard; his employment letter sets base salary at $700,000, an 80% target annual bonus (pro-rated for 2026), a $150,000 signing bonus, and an initial $1.5 million long-term equity grant split between RSUs and premium-priced options.",
+        "Steven Eck, who had served as interim CFO since June 24, steps out of the interim finance seat on Garner’s start date but stays as senior vice president and chief accounting officer."
+      ]
+    },
+    {
+      "id": "samara-arc-calyx",
+      "lead": false,
+      "section": "PE",
+      "kicker": "India / Logistics",
+      "hed": "Samara Capital stakes ARC + Calyx into India logistics platform; ~₹1,200 crore cited",
+      "dek": "LiveMint Sep 21: company statement confirms platform; ~₹1,200 crore and near-equal promoter/Samara stakes via industry source (not company-disclosed). Combined FY26 rev ~₹2,140 crore. Not MAJOR.",
+      "date": "Sept. 21, 2026",
+      "source": "LiveMint (Priyamvada C)",
+      "url": "https://www.livemint.com/companies/start-ups/samara-capital-arc-calyx-logistics-platform-rs-1200-crore-11789902774973.html",
+      "also": [
+        {
+          "label": "VCCircle — Samara Capital to acquire stakes in ARC and Calyx",
+          "url": "https://www.vccircle.com/samaracapital-to-acquire-stakes-in-arc-and-calyx-to-build-logistics-platform"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / India logistics as Mid-Morning Sep 21 print. PRIMARY: LiveMint Sep 21 — Samara Capital acquires stakes in Associated Road Carriers (ARC) and Calyx Container Terminals to build an integrated logistics platform (company statement). LiveMint industry source: investment close to ₹1,200 crore with promoters and Samara holding almost equal stakes; company did not disclose financial details. Combined entities ~₹2,140 crore revenue in 2025-26 (company). Advisers: PwC (Samara), EY (promoters). Stick to LiveMint attribution; flag ₹1,200 crore as industry-source, not official company figure. Do NOT invent USD EV or ownership %. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Samara Capital said it is building an integrated India logistics platform by taking stakes in Associated Road Carriers, a large B2B road hauler, and Calyx Container Terminals, a Chennai Port container-freight station operator, LiveMint reported Monday citing a company statement.",
+        "LiveMint, citing an industry source, put the investment at close to ₹1,200 crore with promoters and Samara holding almost equal stakes; the companies did not disclose deal financials in the statement itself.",
+        "The combined businesses recorded about ₹2,140 crore of revenue in 2025-26, per the coverage, with fresh capital earmarked for network expansion, first- and last-mile capability, technology, and selective acquisitions; PwC advised Samara and EY advised the promoter group."
+      ]
+    },
     {
       "id": "softbank-openai-bonds",
       "lead": false,
