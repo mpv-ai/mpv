@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 133,
+  "number": 134,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~5:00 p.m. ET — Monday post-close. Live prints vs Late Day plate (~4:07): S&P 7,764.70 +1.49% (unchanged vs plate), Dow 52,048.83 +0.71% (unch), Nasdaq 27,122.09 +2.26% (unch), SOX 12,433.17 +4.29% (unch), NVDA $227.38 +2.30% (unch), AMD $615.52 +9.95% (unch). Yields: ^TNX ~4.963% (unch), ^TYX ~5.296% (unch). Cash session closed; tape flat vs Late Day — refresh for Evening ADDs only.",
+    "updated": "Sep 21, ~5:57 p.m. ET — Monday post-close. Live prints vs Evening plate (~5:00): S&P 7,764.70 +1.49% (unchanged), Dow 52,048.83 +0.71% (unch), Nasdaq 27,122.09 +2.26% (unch), SOX 12,433.17 +4.29% (unch), NVDA $227.38 +2.30% (unch), AMD $615.52 +9.95% (unch). Yields: ^TNX ~4.963% (unch), ^TYX ~5.296% (unch). Cash session closed; tape flat vs Evening — refresh for Late Evening ADD only.",
     "line": "S&P 7,764.70 (+1.49%) · Dow 52,048.83 (+0.71%) · Nasdaq 27,122.09 (+2.26%) · SOX 12,433.17 (+4.29%) · NVDA $227.38 (+2.30%) · AMD $615.52 (+9.95%) · 10-year 4.963% · 30-year 5.296%"
   },
   "deskNote": {
-    "kicker": "Magnite CFO + CA data-center bills",
-    "hed": "Magnite elevates Gephart to CFO. Newsom signs DC energy/water package.",
+    "kicker": "Iambic S-1 (Nvidia/QIA AI drug IPO)",
+    "hed": "Iambic files Nasdaq ‘IAM’ S-1; AbbVie AI discovery collab same day.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 133 Evening — ADD magnite-cfo + newsom-dc-bills (Quill) vs No. 132 Late Day. PRIMARY: Magnite GlobeNewswire via FinancialContent Sep 21 8:30 a.m. ET — Brian Gephart (CAO since Jun 2021) to CFO Oct 1 succeeding David Day. Bloomberg Government / KQED — Newsom signs SB 886/AB 2383 DC rate + upgrade package (by 2028) plus related water/CEQA bills; distinct from newsom-ai-eo. Tape flat vs Late Day close prints (S&P 7,764.70 / NVDA $227.38 / AMD $615.52). Lead remains fomc-sep16. Declined: DexCare–Mila Health acquire (healthcare scheduling AI; terms undisclosed; below desk bar); ILPT Anthony Paula CFO (REIT logistics; off-beat); Pulsar Helium / ZettaJoule / Vanderbilt CFOs (below bar); SoftBank OpenAI bonds / Hg–Anthropic / mchp-hailo-close already plated; Apollo Kleinman Barclays remarks (opinion/fundraising color, not a discrete deal print)."
+    "body": "Vol. 1 No. 134 Late Evening — ADD iambic-s1 (Quill) vs No. 133 Evening. PRIMARY: Reuters Sep 21 ~5:41 p.m. ET + SEC Form S-1 accession 0001193125-26-396704 (CIK 0001997038; file 333-299057) — Nvidia/QIA-backed Iambic Therapeutics files for Nasdaq IAM; JPM/Jefferies/BofA/Citi; range blank; ~$461.8M raised since Entos founding; IAM1363 early-stage solid tumors. Companion: AbbVie–Iambic PR Newswire multi-year AI discovery collab (upfront/milestones/royalties; amounts undisclosed). Tape flat vs Evening close prints (S&P 7,764.70 / NVDA $227.38 / AMD $615.52). Lead remains fomc-sep16. Declined: QuickLogic James Sullivan CFO (micro-cap eFPGA; below desk bar); KIC >$1B PE secondary (Bloomberg people-familiar; unconfirmed); Apollo Kleinman Barclays AI-financing remarks (opinion/fundraising color); Ingenia–Warburg revised A$2.06B rebuff (already plated Sep 7; Australia land-lease off core beat); SoftBank OpenAI bonds / Hg–Anthropic / magnite-cfo / newsom-dc-bills / mchp-hailo-close already plated."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 133 Evening + magnite-cfo + newsom-dc-bills. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary."
+    "line": "No. 134 Late Evening + iambic-s1. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary."
   },
   "sections": [
     "All",
@@ -28,6 +28,34 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "iambic-s1",
+      "lead": false,
+      "section": "AI",
+      "kicker": "IPO / AI Drug Discovery",
+      "hed": "Iambic Therapeutics files S-1 for Nasdaq ‘IAM’; Nvidia/QIA-backed AI drug platform",
+      "dek": "Reuters Sep 21 ~5:41 p.m. ET. SEC Form S-1 (accession 0001193125-26-396704; CIK 0001997038; file 333-299057). JPM / Jefferies / BofA / Citi. Price range blank. Same-day AbbVie multi-year AI discovery collab. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "Reuters; SEC Form S-1 (Iambic Therapeutics, Inc.)",
+      "url": "https://www.reuters.com/legal/litigation/nvidia-qia-backed-iambic-therapeutics-files-us-ipo-biotech-boom-rolls-2026-09-21/",
+      "also": [
+        {
+          "label": "EDGAR index — Iambic Therapeutics Form S-1 (accession 0001193125-26-396704; CIK 0001997038)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526396704/0001193125-26-396704-index.htm"
+        },
+        {
+          "label": "AbbVie / Iambic PR Newswire — multi-year AI-driven drug discovery collaboration (Sep 21, 8:00 a.m. ET)",
+          "url": "https://www.prnewswire.com/news-releases/abbvie-and-iambic-announce-collaboration-to-accelerate-ai-driven-drug-discovery-302883724.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / IPO as Late Evening Sep 21 print (Reuters ~5:41 p.m. ET / SEC S-1 same day; first plate inclusion vs Evening No. 133). PRIMARY narrative: Reuters — Nvidia- and Qatar Investment Authority-backed Iambic Therapeutics filed for a U.S. IPO Monday, intending Nasdaq under symbol IAM; J.P. Morgan, Jefferies, BofA Securities and Citigroup as underwriters; share count and price range not set. Stick to: founded 2019 as Entos; AI platform for small-molecule discovery; lead candidate IAM1363 in early-stage solid-tumor trial; ~$461.8M raised since inception; other named backers Catalio, Nexus Ventures, Coatue; same-day AbbVie multi-year collaboration (PR Newswire) for AI discovery across immunology, neuroscience and oncology (upfront + milestones + royalties; amounts undisclosed). Filing coordinates: CIK 0001997038; accession 0001193125-26-396704; file no. 333-299057. Do NOT invent offering size, share count, valuation, or priced range. Companion color only if sourced: TradingView/S-1 summary prints Michael Secora as CFO (ex-Recursion) and H1’26 collaboration revenue / losses — verify against filing before quoting. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Iambic Therapeutics, the San Diego AI drug-discovery company backed by Nvidia and Qatar Investment Authority, filed a Form S-1 with the SEC on Monday for a proposed Nasdaq listing under the symbol IAM, with J.P. Morgan, Jefferies, BofA Securities and Citigroup as underwriters and the share count and price range still blank.",
+        "Reuters reported the company has raised roughly $461.8 million since its 2019 founding as Entos and is advancing IAM1363, an early-stage candidate for solid tumors, while counting Catalio, Nexus Ventures and Coatue Management among major backers alongside Nvidia and QIA.",
+        "Separately on Monday, AbbVie and Iambic announced a multi-year collaboration to apply Iambic’s AI platform to small-molecule discovery across immunology, neuroscience and oncology, with Iambic eligible for an upfront payment, milestones and tiered royalties; dollar amounts were not disclosed in the companies’ release."
+      ]
+    },
     {
       "id": "magnite-cfo",
       "lead": false,
