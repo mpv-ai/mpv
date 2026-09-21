@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 125,
+  "number": 126,
   "city": "New York",
-  "date": "Friday, September 18, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Monday, September 21, 2026",
+  "editionLabel": "Morning",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 18, ~7:59 p.m. ET - Friday after cash close (unchanged vs No. 124 Evening ~6:47 p.m. plate). Yahoo: S&P 7,650.50 (+0.17%), Dow 51,682.64 (−0.18%), Nasdaq 26,522.55 (+0.39%), SOX 11,921.69 (+2.78%), NVDA $222.27 (+1.34%), ^TNX ~4.998%, ^TYX ~5.331%.",
-    "line": "S&P 7,650.50 (+0.17%) · Dow 51,682.64 (−0.18%) · Nasdaq 26,522.55 (+0.39%) · SOX 11,921.69 (+2.78%) · NVDA $222.27 (+1.34%) · 10-year 4.998% · 30-year 5.331%"
+    "updated": "Sep 21, ~9:25 a.m. ET — Monday. Yahoo chart still prints Friday cash close for equities (S&P 7,650.50 +0.17%, Dow 51,682.64 −0.18%, Nasdaq 26,522.55 +0.39%, SOX 11,921.69 +2.78%, NVDA $222.27 +1.34%). Yields eased vs Friday plate: ^TNX ~4.967% (was ~4.998%), ^TYX ~5.298% (was ~5.331%).",
+    "line": "S&P 7,650.50 (+0.17% Fri) · Dow 51,682.64 (−0.18% Fri) · Nasdaq 26,522.55 (+0.39% Fri) · SOX 11,921.69 (+2.78% Fri) · NVDA $222.27 (+1.34% Fri) · 10-year 4.967% · 30-year 5.298%"
   },
   "deskNote": {
-    "kicker": "AI / Markets / Infra debt",
-    "hed": "OpenAI ~$280B burn by 2030; Oracle Project Jupiter $18B loans stressed.",
+    "kicker": "AI credit / Payments PE",
+    "hed": "SoftBank ~$11B OpenAI notes; Priority $8.05 take-private ~$1.6B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 125 Late Evening - ADD openai-burn-280, oracle-jupiter-18 (both Quill) vs No. 124 Evening. PRIMARY: FT exclusive (gift/headline + Reuters brief) — OpenAI leaked presentation expects to burn ~$280bn by 2030; expenses far outrun revenues projected $36bn this year to $350bn in 2030. SECONDARY: FT + Reuters — ~$18bn Project Jupiter (Oracle-leased New Mexico DC; OpenAI $300bn compute tie) loans quoted 89–91¢ by Santander/Jefferies; local water/air pushback; S&P Oracle one notch above junk. Lead remains fomc-sep16. Yahoo tape unchanged vs Evening plate (cash close Friday). Declined: Manus ~$500M/$4B still UNCONFIRMED; Anthropic Nov IPO timing (WSJ sources; plate already has anthropic $100B+ IPO pitch); Coforge PE AI white paper; family-offices AI secondaries trend; Meta Muse App Store #1; Infillion–Foursquare (ad tech); Apollo $35B Anthropic debt recirculation (June close); CleanSpark $2.276B notes pricing (PressReleaseCC reprint only — no verified IR/PR Newswire URL this pass; watch stays OPEN); Bianco Oct-hike odds commentary. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 126 Morning — ADD softbank-openai-bonds, prth-805 (both Quill) vs No. 125 Late Evening. PRIMARY AI credit: Reuters SoftBank ~$11B senior notes for OpenAI $10B third tranche (price Sep 24 / settle Sep 29 / ~Oct 1; Fitch BB+); SoftBank IR $25.9B bridge prepay CLOSED. PRIMARY PE: Priority SEC EX-99.1 — $8.05 cash / ~$1.6B EV CEO-led take-private with Searchlight equity; Special Committee unanimous; H1 2027. Lead remains fomc-sep16. Yahoo equities still Friday settlement prints; yields off a few bp. Declined this pass: Hg–Anthropic strategic venture (PE News headline only — no primary figures); Anthropic–Blackstone/H&F JV talks (Forbes people-familiar); Gates Notes essay; Anthropic pace measurements blog. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 125 Late Evening + openai-burn-280 / oracle-jupiter-18 ADDs - OpenAI deck authenticity / financing path / IPO timing; Oracle Jupiter permitting / Blue Owl hold / Mon ORCL tape; CleanSpark notes pricing primary still OPEN. Nscale roadshow / priced range / Anyscale close. Virginia DC EO / AI Task Force. Disney CTO org. AEF-1 lab responses. Warsh/FOMC + Oct pricing. CoreWeave settle Sep 22. Newsom GovOps/OES ~Nov 16. Manus $500M/$4B UNCONFIRMED. Prior Evening watches remain."
+    "line": "No. 126 Morning + softbank-openai-bonds / prth-805 ADDs — SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 close; OpenAI third tranche funding. Priority proxy/13e-3 + H1 2027 close path. SoftBank $25.9B bridge prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22. Prior Late Evening watches remain."
   },
   "sections": [
     "All",
@@ -28,6 +28,66 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "softbank-openai-bonds",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI / Credit",
+      "hed": "SoftBank launches ~$11B senior notes for OpenAI $10B third tranche; $25.9B bridge prepaid",
+      "dek": "Reuters Sep 21: ~$10B USD + €1B notes; price Sep 24 settle Sep 29; expected Oct 1 close; Fitch BB+; cancels prior bridge. SoftBank IR Sep 9: full USD 25.9B prepay on Sep 15 under Mar 27 $40B OpenAI bridge CLOSED. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "Reuters; SoftBank Group IR",
+      "url": "https://www.reuters.com/technology/softbank-launches-11-billion-bonds-fund-openai-investment-2026-09-21/",
+      "also": [
+        {
+          "label": "SoftBank IR — Early Repayment of Bridge Loans (USD 25.9B prepay decided Sep 9 / Sep 15)",
+          "url": "https://group.softbank/en/news/press/20260909"
+        },
+        {
+          "label": "Google News / Reuters headline — SoftBank launches $11 billion bonds to fund OpenAI investment",
+          "url": "https://news.google.com/rss/search?q=SoftBank+launches+$11+billion+bonds+OpenAI&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI credit as Morning Sep 21 print. PRIMARY: Reuters Sep 21 — SoftBank launches about $11 billion of senior notes (~$10B USD + €1B) to fund the $10B OpenAI third tranche; price Sep 24, settle Sep 29, expected close around Oct 1; Fitch BB+; structure cancels the prior bridge path for that tranche. ALSO: SoftBank Group IR Sep 9 — decided to prepay on Sep 15 the entire outstanding USD 25.9B under the Mar 27 $40B bridge facility primarily for OpenAI follow-ons (CLOSED). Stick to Reuters + SoftBank IR figures only. Do NOT invent coupon, book size final, or OpenAI valuation. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "SoftBank Group launched about $11 billion of senior notes — roughly $10 billion in dollars plus €1 billion — to fund its $10 billion third-tranche OpenAI investment, Reuters reported Monday, citing a term sheet, with pricing expected Sep 24, settlement Sep 29, and closing around Oct 1.",
+        "The notes carry a Fitch BB+ rating in that coverage, and the bond path replaces the prior bridge financing for the tranche as SoftBank finishes paying down OpenAI-related bridge debt.",
+        "Separately, SoftBank’s own IR said on Sep 9 it had decided to prepay on Sep 15 the entire outstanding USD 25.9 billion under the March 27 bridge facility (total facility $40 billion) that was raised primarily for OpenAI follow-on investments — closing that prepay watch."
+      ]
+    },
+    {
+      "id": "prth-805",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Payments / Take-private",
+      "hed": "Priority Technology $8.05 cash take-private ~$1.6B EV; Searchlight equity; CEO-led",
+      "dek": "Company PR via SEC EX-99.1 Sep 21. Investor group led by Chairman/CEO Thomas Priore (WD Capital). Special Committee unanimous. H1 2027 close. 65% premium to Nov 7 2025 unaffected; 38% to Sep 18 close. Not MAJOR.",
+      "date": "Sept. 21, 2026",
+      "source": "Priority Technology Holdings (SEC EX-99.1 / Business Wire)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea030604701ex99-1.htm",
+      "also": [
+        {
+          "label": "SEC Form 8-K — Merger Agreement with WD Capital Partners (filed Sep 21; event Sep 18)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea0306047-8k_priority.htm"
+        },
+        {
+          "label": "Stock Titan — Priority $8.05 take-private / Searchlight equity framing",
+          "url": "https://www.stocktitan.net/news/PRTH/priority-technology-holdings-inc-announces-definitive-agreement-with-rqot2znlcejm.html"
+        },
+        {
+          "label": "Business Wire — Priority definitive agreement release",
+          "url": "https://www.businesswire.com/news/home/20260920050170/en/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / payments take-private as Morning Sep 21 print. PRIMARY: Priority SEC EX-99.1 press release dated Sep 21 — definitive agreement with investor group led by Chairman and CEO Thomas Priore to take company private at $8.05/share cash; enterprise value about $1.6B; Special Committee of independent/disinterested directors unanimously recommended; Board approved; equity commitments from funds advised by Searchlight Capital Partners; no financing condition; expected close first half of 2027; 65% premium to Nov 7 2025 unaffected close and 38% to Sep 18 2026 close. 8-K: Parent/Merger Sub are WD Capital Partners entities controlled by Priore. Stick to company/SEC figures. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Priority Technology Holdings said Monday it signed a definitive agreement with an investor group led by Chairman and CEO Thomas Priore to take the payments company private for $8.05 a share in cash, valuing the deal at about $1.6 billion of enterprise value.",
+        "A special committee of independent and disinterested directors unanimously recommended the transaction after negotiations that raised the price by more than 30% from the initial proposal; the board approved and will seek unaffiliated stockholder approval.",
+        "Financing includes equity commitments from funds advised by Searchlight Capital Partners and is not subject to a financing condition; closing is expected in the first half of 2027, after which Priority shares would leave Nasdaq."
+      ]
+    },
     {
       "id": "openai-burn-280",
       "lead": false,
