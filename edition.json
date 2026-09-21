@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 132,
+  "number": 133,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Late Day",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~4:07 p.m. ET — Monday cash session. Live prints vs Late Afternoon plate (~2:11): S&P 7,764.70 +1.49% (plate 7,761.81), Dow 52,048.83 +0.71% (plate 52,023.08), Nasdaq 27,122.09 +2.26% (plate 27,084.04), SOX 12,433.17 +4.29% (plate 12,383.51), NVDA $227.38 +2.30% (plate $227.14), AMD $615.52 +9.95% (plate $608.36). Yields: ^TNX ~4.963% (plate ~4.970%), ^TYX ~5.296% (plate ~5.303%).",
+    "updated": "Sep 21, ~5:00 p.m. ET — Monday post-close. Live prints vs Late Day plate (~4:07): S&P 7,764.70 +1.49% (unchanged vs plate), Dow 52,048.83 +0.71% (unch), Nasdaq 27,122.09 +2.26% (unch), SOX 12,433.17 +4.29% (unch), NVDA $227.38 +2.30% (unch), AMD $615.52 +9.95% (unch). Yields: ^TNX ~4.963% (unch), ^TYX ~5.296% (unch). Cash session closed; tape flat vs Late Day — refresh for Evening ADDs only.",
     "line": "S&P 7,764.70 (+1.49%) · Dow 52,048.83 (+0.71%) · Nasdaq 27,122.09 (+2.26%) · SOX 12,433.17 (+4.29%) · NVDA $227.38 (+2.30%) · AMD $615.52 (+9.95%) · 10-year 4.963% · 30-year 5.296%"
   },
   "deskNote": {
-    "kicker": "Microchip–Hailo close",
-    "hed": "Microchip closes Hailo edge-AI buy. Tape firm into the close.",
+    "kicker": "Magnite CFO + CA data-center bills",
+    "hed": "Magnite elevates Gephart to CFO. Newsom signs DC energy/water package.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 132 Late Day — ADD mchp-hailo-close (Quill) vs No. 131 Late Afternoon. PRIMARY: Microchip IR/GlobeNewswire Sep 21 9:00 a.m. ET — completes Hailo acquisition (edge AI/vision/robotics); terms undisclosed; not material to MCHP results; >100 customers / >10k developers; follows Jul 24 definitive. Tape vs Late Afternoon: S&P +~3 / Nasdaq +~38 / NVDA +~$0.24 / AMD +~$7.16; modest index, AMD still extending $1T session. Lead remains fomc-sep16. Declined: SoftBank OpenAI bonds (already softbank-openai-bonds); Crux/Blackstone–Alphabet $22B loan recirculation (crux-22b); Anthropic model-ahead-of-IPO / Nvidia IPO anchor recirculation; RoboTechnik HK ~$660M (TechNode; solar-automation primary, thin AI-desk bar); Enablence ~$18M optical (below bar); Vista–Finastra / CleanSpark / CoreWeave settle Sep 22 still OPEN watches without new primary. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 133 Evening — ADD magnite-cfo + newsom-dc-bills (Quill) vs No. 132 Late Day. PRIMARY: Magnite GlobeNewswire via FinancialContent Sep 21 8:30 a.m. ET — Brian Gephart (CAO since Jun 2021) to CFO Oct 1 succeeding David Day. Bloomberg Government / KQED — Newsom signs SB 886/AB 2383 DC rate + upgrade package (by 2028) plus related water/CEQA bills; distinct from newsom-ai-eo. Tape flat vs Late Day close prints (S&P 7,764.70 / NVDA $227.38 / AMD $615.52). Lead remains fomc-sep16. Declined: DexCare–Mila Health acquire (healthcare scheduling AI; terms undisclosed; below desk bar); ILPT Anthony Paula CFO (REIT logistics; off-beat); Pulsar Helium / ZettaJoule / Vanderbilt CFOs (below bar); SoftBank OpenAI bonds / Hg–Anthropic / mchp-hailo-close already plated; Apollo Kleinman Barclays remarks (opinion/fundraising color, not a discrete deal print)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 132 Late Day + mchp-hailo-close. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary."
+    "line": "No. 133 Evening + magnite-cfo + newsom-dc-bills. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary."
   },
   "sections": [
     "All",
@@ -28,6 +28,71 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "magnite-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Adtech / Governance",
+      "hed": "Magnite promotes Brian Gephart to CFO effective Oct. 1; Day retires after decade",
+      "dek": "GlobeNewswire Sep 21 8:30 a.m. ET. CAO since June 2021 succeeds David Day (CFO exit Sep 30). Prior Leaf Group CFO. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "Magnite, Inc. (GlobeNewswire)",
+      "url": "https://www.financialcontent.com/article/gnwcq-2026-9-21-magnite-promotes-brian-gephart-to-chief-financial-officer",
+      "also": [
+        {
+          "label": "Finviz / GlobeNewswire wire — Magnite Promotes Brian Gephart to Chief Financial Officer (Sep 21, 8:30 a.m.)",
+          "url": "https://finviz.com/news/393819/magnite-promotes-brian-gephart-to-chief-financial-officer"
+        },
+        {
+          "label": "RTT News — Magnite promotes Gephart to CFO as Day retires",
+          "url": "https://www.rttnews.com/3692621/magnite-promotes-brian-gephart-to-cfo-role-as-david-day-decides-to-retire.aspx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Evening Sep 21 print (company wire 8:30 a.m. ET; first plate inclusion vs Late Day No. 132). PRIMARY: Magnite GlobeNewswire via FinancialContent — Magnite (Nasdaq: MGNI) promotes Brian Gephart to CFO effective Oct. 1, 2026, succeeding David Day. Stick to: Gephart CAO since June 2021; Day decade-long CFO tenure / retirement previously announced; Gephart oversees corporate finance, accounting, reporting, IR, treasury, tax; prior Leaf Group CFO/PFO; >20 years public-company finance; quotes Michael Barrett (CEO), Gephart, Day. Do NOT invent Day advisory end-date or compensation unless sourced beyond this wire. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Magnite said Monday it has promoted Chief Accounting Officer Brian Gephart to chief financial officer effective Oct. 1, 2026, succeeding David Day at the independent sell-side advertising platform.",
+        "Gephart has been Magnite’s CAO since June 2021 and previously was CFO and principal financial officer at Leaf Group; the company said he will oversee global financial strategy and operations including corporate finance, accounting, reporting, investor relations, treasury, and tax.",
+        "CEO Michael Barrett framed the appointment as continuity inside Magnite’s leadership bench as the company scales its CTV platform. Day, who had previously announced his retirement after about a decade as finance chief, said he is confident in Magnite’s market position and the foundation built with the board and finance team."
+      ]
+    },
+    {
+      "id": "newsom-dc-bills",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Policy",
+      "hed": "Newsom signs CA data-center energy and water package, including SB 886 and AB 2383",
+      "dek": "Bloomberg Government Sep 21 ~3:36 p.m. UTC; KQED. Seven-bill package: special DC power rates by 2028, grid-upgrade cost allocation, water-use disclosure, CEQA guardrail. Distinct from newsom-ai-eo. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "Bloomberg Government; KQED; Office of Governor (statement via press)",
+      "url": "https://news.bgov.com/bloomberg-government-news/newsom-signs-bills-regulating-data-centers-water-energy-use",
+      "also": [
+        {
+          "label": "KQED — Newsom Signs New Restrictions on Data Center Development (Sep 21)",
+          "url": "https://www.kqed.org/news/12100746/newsom-signs-new-restrictions-on-data-center-development"
+        },
+        {
+          "label": "KRCR — Newsom signs 7 bills tightening rules for proposed data centers",
+          "url": "https://krcrtv.com/news/local/newsom-signs-7-bills-tightening-rules-for-proposed-data-centers"
+        },
+        {
+          "label": "California LegInfo — SB 886 bill text",
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB886"
+        },
+        {
+          "label": "California LegInfo — AB 2383 bill text",
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2383"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / California data-center policy as Evening Sep 21 print (BGov stamp Sep 21 3:36 p.m. UTC; first plate inclusion vs Late Day No. 132). PRIMARY: Bloomberg Government + KQED. Stick to confirmed: Newsom signed SB 886 and AB 2383 creating special electricity rates for data centers by 2028 and requiring facilities to pay for infrastructure upgrades tied to their load; package also covers energy/water reporting and related local/CEQA measures (KQED: SB 887 bars skipping state environmental review; AB 2469 blocks local approval until projected water use is disclosed). KRCR lists seven bills including AB 1577, AB 2383, AB 2469, AB 2619, SB 886, SB 887, SB 1168. Distinct from plated newsom-ai-eo (Sep 18 kill-switch EO). Do NOT invent exact tariff effective dates beyond 'by 2028' without quoting statute in grafs. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "California Gov. Gavin Newsom on Monday signed a multi-bill package regulating data-center electricity and water impacts, including SB 886 and AB 2383, Bloomberg Government and KQED reported.",
+        "Bloomberg Government said the SB 886 / AB 2383 pair will create special energy rates for data centers by 2028 and require the facilities to pay for infrastructure upgrades needed for their operations, as Washington has struggled to pass federal cost-sharing rules ahead of the midterms.",
+        "KQED reported the seven-bill signing also includes SB 887, which prevents data centers from skipping California’s environmental review process, and AB 2469, which bars local approval until developers disclose projected water use; business groups including the Data Center Coalition opposed the package.",
+        "The story is distinct from California’s Sep 18 AI oversight executive order already on the plate as newsom-ai-eo. Not MAJOR — fomc-sep16 remains the plate lead."
+      ]
+    },
     {
       "id": "mchp-hailo-close",
       "lead": false,
