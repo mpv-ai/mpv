@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 127,
+  "number": 128,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~10:27 a.m. ET — Monday cash session open. Live prints vs Fri close: S&P 7,721.67 +0.93%, Dow 51,922.24 +0.46%, Nasdaq 26,920.30 +1.50%, SOX 12,245.86 +2.72%, NVDA $223.78 +0.68%. Yields: ^TNX ~4.971% (plate Morning ~4.967%), ^TYX ~5.305% (Morning ~5.298%).",
-    "line": "S&P 7,721.67 (+0.93%) · Dow 51,922.24 (+0.46%) · Nasdaq 26,920.30 (+1.50%) · SOX 12,245.86 (+2.72%) · NVDA $223.78 (+0.68%) · 10-year 4.971% · 30-year 5.305%"
+    "updated": "Sep 21, ~11:26 a.m. ET — Monday cash session. Live prints vs Mid-Morning plate (~10:27): S&P 7,730.27 +1.04% (plate 7,721.67), Dow 51,920.77 +0.46% (flat vs plate), Nasdaq 26,949.01 +1.61% (plate 26,920.30), SOX 12,334.00 +3.46% (plate 12,245.86), NVDA $224.80 +1.14% (plate $223.78). Yields: ^TNX ~4.963% (plate ~4.971%), ^TYX ~5.301% (plate ~5.305%).",
+    "line": "S&P 7,730.27 (+1.04%) · Dow 51,920.77 (+0.46%) · Nasdaq 26,949.01 (+1.61%) · SOX 12,334.00 (+3.46%) · NVDA $224.80 (+1.14%) · 10-year 4.963% · 30-year 5.301%"
   },
   "deskNote": {
-    "kicker": "CFO / India PE + Monday tape",
-    "hed": "Avantor names Garner CFO; Samara ARC–Calyx platform; cash session risk-on.",
+    "kicker": "PE × Anthropic + Midday tape",
+    "hed": "Hg deepens Anthropic agentic push; SOX extends Monday bid.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 127 Mid-Morning — ADD avantor-cfo, samara-arc-calyx (both Quill) vs No. 126 Morning. PRIMARY CFO: Avantor SEC 8-K — Todd Garner EVP/CFO effective Sep 21; Eck stays CAO. PRIMARY PE: LiveMint — Samara stakes ARC + Calyx; ~₹1,200 crore industry-source. Tape: Monday cash open material vs Morning Fri prints (S&P +0.93%, Nasdaq +1.50%, SOX +2.72%). Lead remains fomc-sep16. SoftBank notes + Priority already on Morning plate — no re-add. Declined: SoftBank/PRTH recirculation; Anthropic Nov IPO talk (still OPEN watch); QuickLogic/ZettaJoule CFO (below bar); Bloomberg AI-risk newsletter (thematic). X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 128 Midday — ADD hg-anthropic-agentic (Quill) vs No. 127 Mid-Morning. PRIMARY: Hg PR Newswire / EQS — Claude agents across portfolio via Catalyst; 1,600 projects / >$260m budgeted EBITDA; $110B+ AUM. Tape: SOX +3.46% vs Fri (plate Mid-Morning +2.72%); S&P/Nasdaq modestly firmer vs plate; yields eased a touch. Lead remains fomc-sep16. Declined: SoftBank/PRTH/Ingenia recirculation; Innventure Stober CFO (micro-cap Accelsius parent, below bar); Huang '0% extinction' quote (soft); Apollo Kleinman Barclays AI-finance (Sep 14 conference recirculation); OpenAI–NextSlide (tertiary, undisclosed). X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 127 Mid-Morning + avantor-cfo / samara-arc-calyx ADDs — Garner Day-1 at Avantor; Samara India logistics platform integration. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
+    "line": "No. 128 Midday + hg-anthropic-agentic ADD — Hg Catalyst×Anthropic portfolio deploy. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
   },
   "sections": [
     "All",
@@ -28,6 +28,36 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "hg-anthropic-agentic",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Agentic AI",
+      "hed": "Hg deepens Anthropic tie: Claude agents across portfolio via Catalyst; 1,600 projects, >$260m EBITDA",
+      "dek": "PR Newswire / EQS Sep 21. Hg Catalyst + Anthropic deploy agentic Claude across ~60 cos; builds on early-2024 relationship; $110B+ AUM cited. Not MAJOR.",
+      "date": "Sept. 21, 2026",
+      "source": "Hg (PR Newswire / EQS News)",
+      "url": "https://www.prnewswire.co.uk/news-releases/hg-extends-collaboration-with-anthropic-to-bring-agentic-ai-capabilities-across-the-portfolio-302884668.html",
+      "also": [
+        {
+          "label": "EQS News — Hg corporate release (15:35 CET/CEST)",
+          "url": "https://www.eqs-news.com/news/corporate/hg-extends-collaboration-with-anthropic-to-bring-agentic-ai-capabilities-across-the-portfolio/8ba440c2-3d68-48bf-b0c4-29d7b30a21dc_en"
+        },
+        {
+          "label": "FinanzWire mirror — Hg EQS wire",
+          "url": "https://www.finanzwire.com/press-release/hg-etr-hg-extends-collaboration-with-anthropic-to-bring-agentic-ai-capabilities-across-the-portfolio-JkWmbkNuuce"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / agentic AI as Midday Sep 21 print. PRIMARY: Hg PR Newswire UK https://www.prnewswire.co.uk/news-releases/hg-extends-collaboration-with-anthropic-to-bring-agentic-ai-capabilities-across-the-portfolio-302884668.html (also EQS 15:35 CET). Stick to: Hg announces deepened strategic venture with Anthropic so Hg Catalyst and in-house AI team work directly with Anthropic to deploy Claude agentic capabilities across the Hg portfolio; relationship dating to early 2024; over 1,600 live AI projects across portfolio representing over $260m budgeted EBITDA impact (5x increase since then); Hg cites >$110B AUM, ~60 businesses, >$195B aggregate EV. Named examples of AI-embedded realisations: Quantios (agentic AI Mar 2026 ahead of Vista exit), GTreasury (Ripple), Intelerad (GE HealthCare). Quotes from Co-CEOs Steve Batchelor and JB Brian; Anthropic Guillaume Princen (Head of International, Digital Native Businesses). Do NOT invent deal value, equity stake, or exclusivity. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Hg said Monday it is deepening its collaboration with Anthropic so that Hg Catalyst, the firm's AI product incubator, and Anthropic will work directly to deploy Claude's agentic capabilities across Hg's software and services portfolio.",
+        "The London-based PE firm said the move builds on a relationship that dates to early 2024 and on more than 1,600 live AI projects across the portfolio that it puts at over $260 million of budgeted EBITDA impact, a fivefold increase since then.",
+        "Hg, which cites more than $110 billion of AUM across about 60 businesses with aggregate enterprise value above $195 billion, said portfolio companies typically own sector systems of record and workflows while Anthropic supplies the intelligence layer.",
+        "Hg pointed to recent exits where product-embedded AI featured, including Quantios (agentic AI launch in March 2026 ahead of a Vista Equity Partners exit), GTreasury (acquired by Ripple), and Intelerad (acquired by GE HealthCare).",
+        "Co-CEOs Steve Batchelor and JB Brian said Anthropic is central to Hg's agentic-AI push; Anthropic's Guillaume Princen, Head of International for Digital Native Businesses, said Claude brings frontier agentic AI with safety standards suited to critical workflows."
+      ]
+    },
     {
       "id": "avantor-cfo",
       "lead": false,
