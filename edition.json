@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 128,
+  "number": 129,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~11:26 a.m. ET — Monday cash session. Live prints vs Mid-Morning plate (~10:27): S&P 7,730.27 +1.04% (plate 7,721.67), Dow 51,920.77 +0.46% (flat vs plate), Nasdaq 26,949.01 +1.61% (plate 26,920.30), SOX 12,334.00 +3.46% (plate 12,245.86), NVDA $224.80 +1.14% (plate $223.78). Yields: ^TNX ~4.963% (plate ~4.971%), ^TYX ~5.301% (plate ~5.305%).",
-    "line": "S&P 7,730.27 (+1.04%) · Dow 51,920.77 (+0.46%) · Nasdaq 26,949.01 (+1.61%) · SOX 12,334.00 (+3.46%) · NVDA $224.80 (+1.14%) · 10-year 4.963% · 30-year 5.301%"
+    "updated": "Sep 21, ~12:22 p.m. ET — Monday cash session. Live prints vs Midday plate (~11:26): S&P 7,747.55 +1.27% (plate 7,730.27), Dow 51,965.40 +0.55% (plate 51,920.77), Nasdaq 27,025.60 +1.90% (plate 26,949.01), SOX 12,348.66 +3.58% (plate 12,334.00), NVDA $225.38 +1.40% (plate $224.80), AMD $611.84 +9.29% (new $1T print). Yields: ^TNX ~4.961% (plate ~4.963%), ^TYX ~5.296% (plate ~5.301%).",
+    "line": "S&P 7,747.55 (+1.27%) · Dow 51,965.40 (+0.55%) · Nasdaq 27,025.60 (+1.90%) · SOX 12,348.66 (+3.58%) · NVDA $225.38 (+1.40%) · AMD $611.84 (+9.29%) · 10-year 4.961% · 30-year 5.296%"
   },
   "deskNote": {
-    "kicker": "PE × Anthropic + Midday tape",
-    "hed": "Hg deepens Anthropic agentic push; SOX extends Monday bid.",
+    "kicker": "AMD $1T + Afternoon tape",
+    "hed": "AMD clears $1T; SOX/Nasdaq extend Monday AI bid.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 128 Midday — ADD hg-anthropic-agentic (Quill) vs No. 127 Mid-Morning. PRIMARY: Hg PR Newswire / EQS — Claude agents across portfolio via Catalyst; 1,600 projects / >$260m budgeted EBITDA; $110B+ AUM. Tape: SOX +3.46% vs Fri (plate Mid-Morning +2.72%); S&P/Nasdaq modestly firmer vs plate; yields eased a touch. Lead remains fomc-sep16. Declined: SoftBank/PRTH/Ingenia recirculation; Innventure Stober CFO (micro-cap Accelsius parent, below bar); Huang '0% extinction' quote (soft); Apollo Kleinman Barclays AI-finance (Sep 14 conference recirculation); OpenAI–NextSlide (tertiary, undisclosed). X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 129 Afternoon — ADD amd-1t (Quill) vs No. 128 Midday. PRIMARY: CNBC + Reuters — AMD first $1T mcap; intraday high ~$613.92 / last ~$613.31 +9.6% per Reuters; fourth U.S. chip name after NVDA/AVGO/MU. Tape vs Midday: Nasdaq +~77 pts / S&P +~17; AMD +9% is the material print. Lead remains fomc-sep16. Declined: Fortune Brands Clifford CFO (Sep 9 announce, effective today, mid-cap home products below bar); Innventure Stober CFO (micro-cap, Midday decline stands); Amazon–Meta Muse block (pre-Midday GeekWire/Verge, agent-shopping privacy, not PE/CFO core); US–China AI hotline/Bessent (WaPo morning, policy recirculation vs deal desk); Apollo Kleinman Barclays (already Midday-declined); SoftBank/PRTH recirculation; Googlebook consumer SKU. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 128 Midday + hg-anthropic-agentic ADD — Hg Catalyst×Anthropic portfolio deploy. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
+    "line": "No. 129 Afternoon + amd-1t ADD — AMD $1T milestone. SoftBank notes still price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
   },
   "sections": [
     "All",
@@ -28,6 +28,31 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "amd-1t",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Chips / Valuation",
+      "hed": "AMD tops $1T market cap for first time; shares +~9.6% to record as AI chip bid returns",
+      "dek": "CNBC / Reuters Sep 21. Intraday high ~$613.92; fourth U.S. chipmaker after Nvidia, Broadcom, Micron. YTD ~+185%; NVDA still ~$5T+. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "CNBC; Reuters",
+      "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+      "also": [
+        {
+          "label": "Reuters via MarketScreener — AMD joins $1 trillion club (Sep 21)",
+          "url": "https://hk.marketscreener.com/news/amd-joins-1-trillion-club-as-chipmakers-rally-on-ai-driven-demand-ce785adbdf8bff25"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI chips as Afternoon Sep 21 print (Reuters wire ~11:32 a.m. ET after Midday plate). PRIMARY: CNBC https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html — AMD topped $1T market cap for the first time; intraday high $613.92; ~9% Monday surge; five-day streak ~+24%; YTD >180%; still well behind Nvidia (~$5.4T). Also Reuters (MarketScreener mirror): last +9.6% at $613.31 record; fourth U.S. chipmaker after Nvidia, Broadcom, Micron; cites Great Hill Capital on money moving back into AI trade; Intel jumped ~11.8% same session in Reuters copy. Stick to sourced prints only; do not invent share count or exact mcap dollars beyond '$1 trillion' milestone. Live Yahoo ~12:22 p.m. ET still ~$611.84 +9.29%. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Advanced Micro Devices topped a $1 trillion market capitalization for the first time on Monday as shares surged about 9%, CNBC reported, with an intraday high of $613.92 that lifted the company's value just above the trillion-dollar mark.",
+        "A Reuters dispatch carried the same milestone, saying AMD was last up 9.6% at $613.31 at a record high and became only the fourth U.S. chipmaker to top $1 trillion after Nvidia, Broadcom and Micron, as investors bet on AMD's expanding role in AI computing.",
+        "CNBC noted AMD is riding a five-day winning streak of about 24% and is up more than 180% in 2026, while still trailing Nvidia's roughly $5.4 trillion market cap. Reuters quoted Great Hill Capital's Thomas Hayes saying money is moving back into the AI trade after recent cooling around hyperscaler spend.",
+        "The print lands after MPV Midday (No. 128) and helps explain the Monday chip bid: Yahoo live prints near the Afternoon slot still showed AMD near $612 (+~9%) with Intel also sharply higher. Not MAJOR for the plate — FOMC Sep 16 remains the lead."
+      ]
+    },
     {
       "id": "hg-anthropic-agentic",
       "lead": false,
