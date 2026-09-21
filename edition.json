@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 131,
+  "number": 132,
   "city": "New York",
   "date": "Monday, September 21, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Late Day",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~2:11 p.m. ET — Monday cash session. Live prints vs Mid-Afternoon plate (~1:17): S&P 7,761.81 +1.45% (plate 7,757.43), Dow 52,023.08 +0.66% (plate 52,042.51), Nasdaq 27,084.04 +2.12% (plate 27,055.35), SOX 12,383.51 +3.87% (plate 12,359.52), NVDA $227.14 +2.19% (plate $226.98), AMD $608.36 +8.67% (plate $607.19). Yields: ^TNX ~4.970% (plate ~4.959%), ^TYX ~5.303% (plate ~5.296%).",
-    "line": "S&P 7,761.81 (+1.45%) · Dow 52,023.08 (+0.66%) · Nasdaq 27,084.04 (+2.12%) · SOX 12,383.51 (+3.87%) · NVDA $227.14 (+2.19%) · AMD $608.36 (+8.67%) · 10-year 4.970% · 30-year 5.303%"
+    "updated": "Sep 21, ~4:07 p.m. ET — Monday cash session. Live prints vs Late Afternoon plate (~2:11): S&P 7,764.70 +1.49% (plate 7,761.81), Dow 52,048.83 +0.71% (plate 52,023.08), Nasdaq 27,122.09 +2.26% (plate 27,084.04), SOX 12,433.17 +4.29% (plate 12,383.51), NVDA $227.38 +2.30% (plate $227.14), AMD $615.52 +9.95% (plate $608.36). Yields: ^TNX ~4.963% (plate ~4.970%), ^TYX ~5.296% (plate ~5.303%).",
+    "line": "S&P 7,764.70 (+1.49%) · Dow 52,048.83 (+0.71%) · Nasdaq 27,122.09 (+2.26%) · SOX 12,433.17 (+4.29%) · NVDA $227.38 (+2.30%) · AMD $615.52 (+9.95%) · 10-year 4.963% · 30-year 5.296%"
   },
   "deskNote": {
-    "kicker": "Amazon–Muse block + Oura IPO terms",
-    "hed": "Amazon blocks Muse shopping; Oura sets $40–$44 IPO range. Tape firm.",
+    "kicker": "Microchip–Hailo close",
+    "hed": "Microchip closes Hailo edge-AI buy. Tape firm into the close.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 131 Late Afternoon — ADD amazon-muse-block + oura-ipo-terms (Quill) vs No. 130 Mid-Afternoon. PRIMARY: Verge/BI/GeekWire — Amazon blocks Meta Muse from shopping Amazon.com (unauthorized agent popup; credential/scraping concerns; asked Meta to remove marketplace). Reuters — Oura roadshow $40–$44 / up to $2.2B / $15.62B FD valuation; Lilly $100M / Dragoneer $300M indicated interest; Nasdaq OURA next week. Tape vs Mid-Afternoon: S&P +~4 / Nasdaq +~29 / NVDA +~$0.16 / AMD +~$1.17; modest. Lead remains fomc-sep16. Declined: SoftBank OpenAI bonds / AMD $1T / BlackLine NetNow / Hg–Anthropic already on plate; Grok 4.7 (no clean SpaceXAI primary beyond Copilot changelog); FT ~$300B Big Tech AI guarantees (paywalled primary; $105B Nvidia Ohio already on nvda-10q); Apollo Kleinman Barclays (Sep 14 stale); Corridor $16M seed / Footprint $25M (below bar); NextSlide (Aug stale); Anthropic model-ahead-of-IPO recirculation. X MCP still client-not-enrolled."
+    "body": "Vol. 1 No. 132 Late Day — ADD mchp-hailo-close (Quill) vs No. 131 Late Afternoon. PRIMARY: Microchip IR/GlobeNewswire Sep 21 9:00 a.m. ET — completes Hailo acquisition (edge AI/vision/robotics); terms undisclosed; not material to MCHP results; >100 customers / >10k developers; follows Jul 24 definitive. Tape vs Late Afternoon: S&P +~3 / Nasdaq +~38 / NVDA +~$0.24 / AMD +~$7.16; modest index, AMD still extending $1T session. Lead remains fomc-sep16. Declined: SoftBank OpenAI bonds (already softbank-openai-bonds); Crux/Blackstone–Alphabet $22B loan recirculation (crux-22b); Anthropic model-ahead-of-IPO / Nvidia IPO anchor recirculation; RoboTechnik HK ~$660M (TechNode; solar-automation primary, thin AI-desk bar); Enablence ~$18M optical (below bar); Vista–Finastra / CleanSpark / CoreWeave settle Sep 22 still OPEN watches without new primary. X MCP still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 131 Late Afternoon + amazon-muse-block + oura-ipo-terms. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Priority proxy/13e-3 + H1 2027. SoftBank $25.9B prepay CLOSED. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary. CoreWeave settle Sep 22."
+    "line": "No. 132 Late Day + mchp-hailo-close. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary."
   },
   "sections": [
     "All",
@@ -28,6 +28,35 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "mchp-hailo-close",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Edge AI / M&A",
+      "hed": "Microchip completes Hailo acquisition; edge AI and vision processors join MCHP portfolio",
+      "dek": "Microchip IR Sep 21 9:00 a.m. ET. Close of July 24 definitive deal; terms undisclosed; not expected material to Microchip results. >100 customers / >10k developers cited. Not MAJOR — fomc-sep16 remains lead.",
+      "date": "Sept. 21, 2026",
+      "source": "Microchip Technology Incorporated (GlobeNewswire / IR)",
+      "url": "https://ir.microchip.com/news-events/press-releases/detail/1415/microchip-technology-completes-acquisition-of-hailo",
+      "also": [
+        {
+          "label": "Finviz / GlobeNewswire wire — Microchip Completes Acquisition of Hailo (Sep 21)",
+          "url": "https://finviz.com/news/393862/microchip-technology-completes-acquisition-of-hailo"
+        },
+        {
+          "label": "Stock Titan — Microchip Completes Hailo Acquisition, Adds AI Chips",
+          "url": "https://www.stocktitan.net/news/MCHP/microchip-technology-completes-acquisition-of-3s1905t94nfq.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / edge M&A as Late Day Sep 21 print (company close wire 9:00 a.m. ET; first plate inclusion vs Late Afternoon No. 131). PRIMARY: Microchip IR https://ir.microchip.com/news-events/press-releases/detail/1415/microchip-technology-completes-acquisition-of-hailo (GlobeNewswire Sep 21 9:00 a.m. ET) — Microchip (Nasdaq: MCHP) completed acquisition of Hailo (edge AI / vision / robotics processors and AI software). Stick to: terms not disclosed; not expected to have a material impact on Microchip financial results; expands Edge AI, machine vision, robotics, Physical AI offerings; quotes Steve Sanghi (CEO/Chair), Mark Reiten (SCVP Intelligent Compute), Orr Danon (Hailo founder/CEO); Hailo ecosystem >100 customers and >10,000 developers; continues supporting Hailo products/software/customers. Builds on Jul 24 2026 definitive agreement (not previously on plate). Do NOT invent purchase price, EV, or revenue. Not MAJOR — keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Microchip Technology said Monday it has completed its acquisition of Hailo, the Israeli edge-AI chipmaker whose accelerators and vision processors expand Microchip’s portfolio for Edge AI, machine vision, robotics, and Physical AI applications.",
+        "Financial terms were not disclosed, and Microchip said the transaction is not expected to have a material impact on its financial results. The close follows a definitive agreement announced July 24, 2026.",
+        "CEO and Chair Steve Sanghi framed AI as foundational across embedded systems from industrial automation to intelligent transportation; Mark Reiten, senior corporate vice president of Microchip’s Intelligent Compute business, said Hailo adds edge AI acceleration and vision expertise to Microchip’s embedded, FPGA, connectivity, security, analog, and power lineup. Hailo founder and CEO Orr Danon said Microchip’s global reach and embedded franchise widen access for Hailo’s customers and developers.",
+        "Hailo brings more than 100 customers and a developer community exceeding 10,000 users, per the release. Microchip said it will keep supporting Hailo’s existing products, software, and customer engagements while integrating the lineup into its worldwide sales and technical-support channels."
+      ]
+    },
     {
       "id": "amazon-muse-block",
       "lead": false,
