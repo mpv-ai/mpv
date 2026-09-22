@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 141,
+  "number": 142,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Early Evening",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~3:10 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,768.66 (+0.05%), Dow 51,885.69 (−0.31%), Nasdaq 27,244.40 (+0.45%), SOX 12,644.49 (+1.70%), NVDA $229.60 (+0.98%), AMD $621.03 (+0.89%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. Futures: ES ~7,834 / NQ ~30,976. Tape refresh with ADD anthropic-opus-55 + firecrawl-75 + heidi-340 + baselayer-35 + hg-entersoftone.",
-    "line": "S&P 7,768.66 (+0.05%) · Dow 51,885.69 (−0.31%) · Nasdaq 27,244.40 (+0.45%) · SOX 12,644.49 (+1.70%) · NVDA $229.60 (+0.98%) · AMD $621.03 (+0.89%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,834 · NQ ~30,976 (early evening)"
+    "updated": "Sep 22, ~4:05 p.m. ET - Tuesday cash session. Session vs Monday close: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. Futures: ES ~7,836 / NQ ~31,024. Tape refresh with ADD sela-21 + chamelio-26 + confido-55 + cng-herndon + creatio-bankai.",
+    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,836 · NQ ~31,024 (evening)"
   },
   "deskNote": {
-    "kicker": "Claude Opus 5.5 + five same-day plate fills",
-    "hed": "Early Evening plate: Anthropic frontier drop; funding and Hg Greece fill.",
+    "kicker": "Five same-day plate fills into Evening",
+    "hed": "Evening plate: Sela, Chamelio, Confido, CNG CFO, Creatio Bank.AI.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 141 Early Evening — ADD anthropic-opus-55 + firecrawl-75 + heidi-340 + baselayer-35 + hg-entersoftone (Quill) vs No. 140 Late Afternoon. PRIMARY: Anthropic launches Claude Opus 5.5 (first Claude 5.5; ~40% cheaper than Opus 5; Fable 5.1-class on most work; $4/$20 per MTok; bio/cyber safeguards; Sonnet/Haiku 5.5 coming weeks). Same-day gaps: Firecrawl $75M Series B (Smash) + Alexandria; Heidi $100M Series C at $900M + $240M GC CVF ($340M); Baselayer $35M Series A (M13) Know-Your-Agent; Hg majority in EnterSoftone ~€1B (first Greece). Cash tape ~3:10 p.m. ET: SOX still firm (+1.7%), Nasdaq modest green, Dow soft; deltas vs Late Afternoon negligible. Lead remains fomc-sep16. CoreWeave settle Sep 22 still unconfirmed. SoftBank notes still price Sep 24. Broadcom IR Q3 transcript now available (watch close). DeepSeek: Yan Wentao reported on duty as CFO (Chinese secondary; pair deepseek-cfo/citic). Open watches otherwise unchanged. X API unavailable (client-not-enrolled)."
+    "body": "Vol. 1 No. 142 Evening - ADD sela-21 + chamelio-26 + confido-55 + cng-herndon + creatio-bankai (Quill) vs No. 141 Early Evening. Morning wires missed earlier: Sela $21M Seed/A (Costanoa) mortgage voice AI; Chamelio $26M Series A (Entree) AI legal ops; Confido $55M Series B (Insight) CPG back-office AI; Charter Next Generation names Todd Herndon CFO; Creatio commits $300M 2026-28 to Bank.AI (internal, not a raise). Cash tape ~4:05 p.m. ET: SOX firmer (+2.1% vs +1.7% Early Evening), Nasdaq still modest green, S&P flat, Dow soft. Lead remains fomc-sep16. SoftBank notes still price Sep 24. CoreWeave settle Sep 22 still unconfirmed (Digital Drive $1.1B Blue Owl lease bond marketing noted off-plate via Bloomberg reprint). DeepSeek Yan Wentao CFO duty still Chinese secondary. X API still unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 141 Early Evening + anthropic-opus-55 / firecrawl-75 / heidi-340 / baselayer-35 / hg-entersoftone. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Early Evening); Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Broadcom Q3 transcript available (watch closed). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B / CFO duty, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
+    "line": "No. 142 Evening + sela-21 / chamelio-26 / confido-55 / cng-herndon / creatio-bankai. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 still unconfirmed; Fully Connected Sep 30-Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74-75B / CFO duty, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,101 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "sela-21",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI / Mortgage Fintech",
+      "hed": "Sela raises $21M Seed and Series A led by Costanoa for voice AI mortgage agents",
+      "dek": "PR Newswire Sep 22 10:00 a.m. ET. Emergence joins. >$1B mortgages originated/month via agents; $10M ARR in 18 months; 6 of 10 largest IMBs.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (Sela)",
+      "url": "https://www.prnewswire.com/news-releases/selas-ai-agents-help-originate-1b-in-loans-per-month-company-raises-21m-302885941.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI fintech as Evening Sep 22 plate (PR Newswire 10:00 a.m. ET same-day miss vs Early Evening). PRIMARY: Sela PR Newswire Sep 22 - $21M total across Seed and Series A led by Costanoa, Emergence Capital participates. Voice AI for mortgage sales; agents help loan officers originate >$1B new mortgages/month; crossed $10M ARR in 18 months; 6 of 10 largest independent mortgage banks in production. Founders Nate Becker (ex-VoiceOps/LinkedIn) and Vahe Tshitoyan (ex-Google); 17 FTEs, plans to 50. A/B color OK labeled from PR: >10k borrowers +9% lead-to-lock; top-five servicer test +41% vs other voice AI across 7k+ leads. Stick to PR; do not invent valuation. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Sela, a San Francisco voice AI system for mortgage sales, raised a total of $21 million across Seed and Series A funding led by Costanoa, with participation from Emergence Capital, the company said in a PR Newswire release Tuesday.",
+        "The company said its AI agents help loan officers originate more than $1 billion in new mortgages per month and that it crossed $10 million in annualized run-rate revenue in 18 months, with six of the ten largest independent mortgage banks already in production.",
+        "Founded by Nate Becker and Vahe Tshitoyan, Sela said it has 17 full-time employees and plans to grow to 50, using the capital to expand the team and develop agents that guide borrowers through more of the consumer finance journey."
+      ]
+    },
+    {
+      "id": "chamelio-26",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Legal Ops",
+      "hed": "Chamelio raises $26M Series A led by Entree Capital for AI-native in-house legal ops",
+      "dek": "PR Newswire Sep 22 9:00 a.m. ET. Work-Bench, Emerge, Bright Pixel join. ARR 4x since seed five months ago; customers include Wiz, monday.com, Socure.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (Chamelio)",
+      "url": "https://www.prnewswire.com/news-releases/chamelio-raises-26m-series-a-to-replace-legacy-clm-with-ai-native-in-house-legal-operations-302886011.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI as Evening Sep 22 plate (PR Newswire 9:00 a.m. ET same-day miss). PRIMARY: Chamelio PR Newswire Sep 22 - $26M Series A led by Entree Capital; existing Work-Bench and Emerge Ventures plus Bright Pixel Capital participate. AI-native platform for in-house legal / CLM replacement; ARR grown 4x since seed five months ago; hundreds of customers incl. Wiz, monday.com, Socure, AppsFlyer, Wonderful.ai. Use of proceeds: proprietary legal action model, legal engineering/product teams, onboarding tech. Co-founders Alex Zilberman (CEO), Gil Banyas (COO), Gal Lellouche (CTO). Stick to PR; do not invent valuation or prior round size. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Chamelio, an AI-native platform for in-house legal teams, raised $26 million in Series A funding led by Entree Capital, with participation from existing investors Work-Bench and Emerge Ventures plus Bright Pixel Capital, the company said in a PR Newswire release Tuesday.",
+        "Since its seed round five months ago, Chamelio said annual recurring revenue has grown fourfold. Customers named in the release include Wiz, monday.com, Socure, AppsFlyer, and Wonderful.ai.",
+        "Proceeds will further develop its proprietary legal action model, grow legal engineering and product teams, and invest in onboarding technology as the New York company positions the platform to replace legacy contract lifecycle management systems."
+      ]
+    },
+    {
+      "id": "confido-55",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI / CPG Finance Ops",
+      "hed": "Confido raises $55M Series B led by Insight Partners for AI CPG back-office automation",
+      "dek": "Business Wire Sep 22 9:30 a.m. ET. Total funding $77M; Footwork and YC return for third round; >250 brands; $30B retail sales planning on platform.",
+      "date": "Sept. 22, 2026",
+      "source": "Business Wire (Confido)",
+      "url": "https://investor.wedbush.com/wedbush/article/bizwire-2026-9-22-confido-raises-55m-series-b-to-take-ai-powered-automation-across-the-entire-consumer-brand-back-office",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance as Evening Sep 22 plate (Business Wire 9:30 a.m. ET same-day miss). PRIMARY: Confido Business Wire Sep 22 - $55M Series B led by Insight Partners; Trenches Capital, Watchfire, Barrel Ventures participate; Footwork and Y Combinator return for a third consecutive round; total funding $77M. Unifies finance, accounting, sales, and ops across CPG commercial cycle; >250 brands incl. Daisy, Dude Wipes, Kettle & Fire, Unilever; >$30B retail sales planning on platform. Company claims 5x YoY growth and 5x valuation increase since Series A (no absolute valuation stated). Use of proceeds: product, food service expansion, hiring. Founders Justin Hunter and Kara Holinski. Stick to wire; do not invent valuation dollars. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Confido, a platform that unifies finance, accounting, sales, and operations across the consumer packaged goods commercial cycle, raised $55 million in Series B funding led by Insight Partners, bringing total funding to $77 million, the company said in a Business Wire release Tuesday.",
+        "Trenches Capital, Watchfire, and Barrel Ventures participated, while Footwork and Y Combinator returned for a third consecutive round. Confido said more than 250 CPG brands, including Daisy, Dude Wipes, Kettle & Fire, and Unilever, use the platform, with more than $30 billion in retail sales planning running through it.",
+        "The company said the financing follows fivefold year-over-year growth since its Series A and a fivefold increase in company valuation over the same period, and that proceeds will accelerate product development, food service expansion, and hiring across product, engineering, and go-to-market."
+      ]
+    },
+    {
+      "id": "cng-herndon",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Industrials",
+      "hed": "Charter Next Generation names Todd Herndon CFO; ex-Consilio finance chief",
+      "dek": "PR Newswire Sep 22 8:50 a.m. ET. Chicago HQ; reports to CEO Kathy Bolhous. Prior Diversey, Gardner Denver, Capital Safety; PE work with KKR, Bain, CD&R, Stone Point.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (Charter Next Generation)",
+      "url": "https://www.prnewswire.com/news-releases/charter-next-generation-names-todd-herndon-chief-financial-officer-302886047.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Evening Sep 22 plate (PR Newswire 8:50 a.m. ET same-day miss). PRIMARY: Charter Next Generation PR Newswire Sep 22 - Todd Herndon joined as CFO. Most recently CFO of Consilio (legal tech/enterprise legal services); prior leadership at Diversey (now Solenis), Gardner Denver (now Ingersoll Rand), Capital Safety; began at S.C. Johnson; PE exposure named as KKR, Bain Capital, CD&R, Stone Point Capital. Reports to Chairman/CEO Kathy Bolhous; based Chicago HQ; leads Finance, capital allocation, operating discipline. CNG: specialty films/advanced materials; 18 US facilities; >2,700 employee-owners. Stick to PR; no raise or valuation. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Charter Next Generation appointed Todd Herndon as Chief Financial Officer, the Chicago specialty-films and advanced-materials company said in a PR Newswire release Tuesday.",
+        "Herndon most recently served as CFO of Consilio and previously held leadership roles at Diversey (now part of Solenis), Gardner Denver (now part of Ingersoll Rand), and Capital Safety, after beginning his career at S.C. Johnson. The release also notes experience working with private equity firms including KKR, Bain Capital, CD&R, and Stone Point Capital.",
+        "As CFO he will lead CNG Finance, shape financial strategy and capital allocation, serve on the Executive Leadership Team, report to Chairman and CEO Kathy Bolhous, and be based at Chicago headquarters."
+      ]
+    },
+    {
+      "id": "creatio-bankai",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Banking CRM",
+      "hed": "Creatio commits $300M through 2028 to Bank.AI platform for financial institutions",
+      "dek": "PR Newswire Sep 22 8:36 a.m. ET. Internal build 2026-28; FS vertical +48% YoY. Bank.AI hub live; digital event Sep 24; Chicago summit Oct 27.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (Creatio)",
+      "url": "https://www.prnewswire.com/news-releases/creatio-invests-300-million-in-its-bankai-platform-to-drive-ai-adoption-in-financial-services-302885320.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / banking as Evening Sep 22 plate (PR Newswire 8:36 a.m. ET same-day miss). PRIMARY: Creatio PR Newswire Sep 22 - $300M investment from 2026 through 2028 in Creatio Bank.AI (not an external raise). Financial services vertical grew 48% YoY. Spend across product/AI innovation (Growth/Service/Operations agents, AI Studio), adoption/enablement, and partner ecosystem. Customers named: Nasdaq, First National Bank of Pennsylvania, Metro Bank, MetLife, CEC Bank, OTP Bank, National Bank of Panama, ESL Credit Union. Bank.AI hub launched; digital event Sep 24; Bank.AI Summit Chicago Oct 27. CEO Katherine Kostereva. Stick to PR; do not frame as venture round. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Creatio announced a $300 million investment from 2026 through 2028 in Creatio Bank.AI, its AI CRM and workflow offering for banks and financial institutions, the Boston company said in a PR Newswire release Tuesday.",
+        "The commitment is an internal platform build, not an external fundraising round. Creatio said its financial services vertical grew 48 percent year over year, and that the spend will accelerate product and AI innovation across Growth, Service, and Operations agents plus AI Studio, along with customer and partner enablement.",
+        "Named banking and financial customers in the release include Nasdaq, First National Bank of Pennsylvania, Metro Bank, MetLife, CEC Bank, OTP Bank, National Bank of Panama, and ESL Credit Union. Creatio also flagged a Bank.AI digital event on September 24 and a Bank.AI Summit in Chicago on October 27."
+      ]
+    },
     {
       "id": "anthropic-opus-55",
       "lead": false,
