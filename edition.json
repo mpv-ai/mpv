@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 136,
+  "number": 137,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~10:25 a.m. ET — Tuesday cash open. Session vs Monday close: S&P 7,768.55 (+0.05%), Dow 51,831.26 (-0.42%), Nasdaq 27,244.29 (+0.45%), SOX 12,559.35 (+1.01%), NVDA $228.18 (+0.35%), AMD $618.38 (+0.46%). Yields: ^TNX ~4.95%, ^TYX ~5.29%. Futures: ES ~7,838 / NQ ~30,966. Tape refresh with ADD snorkel-35 + cyera-gs-400 + verda-189.",
-    "line": "S&P 7,768.55 (+0.05%) · Dow 51,831.26 (-0.42%) · Nasdaq 27,244.29 (+0.45%) · SOX 12,559.35 (+1.01%) · NVDA $228.18 (+0.35%) · AMD $618.38 (+0.46%) · 10-year ~4.95% · 30-year ~5.29% · ES ~7,838 · NQ ~30,966 (cash open)"
+    "updated": "Sep 22, ~11:19 a.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,765.28 (+0.01%), Dow 51,799.77 (−0.48%), Nasdaq 27,227.19 (+0.39%), SOX 12,545.26 (+0.90%), NVDA $228.83 (+0.64%), AMD $618.88 (+0.55%). Yields: ^TNX ~4.96%, ^TYX ~5.29%. Futures: ES ~7,832 / NQ ~30,925. Tape refresh with ADD alibaba-qwen-chip + omilia-cfo.",
+    "line": "S&P 7,765.28 (+0.01%) · Dow 51,799.77 (−0.48%) · Nasdaq 27,227.19 (+0.39%) · SOX 12,545.26 (+0.90%) · NVDA $228.83 (+0.64%) · AMD $618.88 (+0.55%) · 10-year ~4.96% · 30-year ~5.29% · ES ~7,832 · NQ ~30,925 (midday)"
   },
   "deskNote": {
-    "kicker": "Snorkel $3.5B + Cyera $400M GS + Verda $189M",
-    "hed": "Mid-Morning plate: three AI financing adds; cash tape mixed (SOX/Nasdaq up, Dow soft).",
+    "kicker": "Alibaba Qwen/Zhenwu + Omilia CFO",
+    "hed": "Midday plate: China full-stack AI roadmap add; Omilia Finance chief; tape still mixed.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 136 Mid-Morning — ADD snorkel-35 + cyera-gs-400 + verda-189 (Quill) vs No. 135 Morning. PRIMARY: Reuters exclusive Sep 22 — Snorkel AI $350M at $3.5B (Insight/S32; ARR run-rate ~$350M). Companion: Business Wire Sep 22 7:15 a.m. ET — Cyera $400M Goldman Sachs Growth Equity Series G extension; valued >$12B. Companion: Verda company blog Sep 22 10am EEST — $189M/€163M Series B (Emergence); total funding >$450M; July ARR run-rate $165M. Cash tape ~10:25 a.m. ET: Nasdaq/SOX firm, Dow soft, NVDA modestly green; yields ~flat. Lead remains fomc-sep16. Declined: CoreWeave settle still unconfirmed (keep watch); SoftBank notes already plated (softbank-openai-bonds); DOJ–Nvidia–Groq recirculation (Sep 9–12 wires, already doj-nvda-groq); Anthropic–Lambda/MatX/DeepSeek valuation (no fresh print); Broadcom IR official Q3 transcript still not confirmed on IR (third-party Motley Fool exists; keep watch); Cognex follow-through (no material new fact beyond plated cgnx-realsense); Vista–Finastra / GFL dual-bid / CleanSpark notes (no fresh confirm). X search unavailable (API client-not-enrolled)."
+    "body": "Vol. 1 No. 137 Midday — ADD alibaba-qwen-chip + omilia-cfo (Quill) vs No. 136 Mid-Morning. PRIMARY: Reuters Sep 22 Apsara — Alibaba Qwen 5–10T roadmap + Zhenwu V900 (3× M890; Q1 2027); Cloud DC >20 GW by 2032; HK shares +5.1%. Do not mash with plated June-quarter alibaba P&L. Companion: Business Wire Sep 22 8:00 a.m. ET — Omilia promotes William Hardy to Group CFO post-$67M Series B. Cash tape ~11:19 a.m. ET: Nasdaq/SOX still green, Dow soft; deltas vs Mid-Morning modest. Lead remains fomc-sep16. Declined: Hg–Anthropic recirculation (already hg-anthropic-agentic); Transient Nasdaq Ventures (undisclosed $; older); FintechOS $28M (below bar); Dragos NetRise/runZero close (Sep 21; bolt-on terms undisclosed); TAR $120M Spark (Sep 10); Apollo Kleinman Barclays AI-financing comments (Sep 14 conference recirculation); CoreWeave settle still unconfirmed (keep watch); SoftBank notes / Oura / Iambic / Vista–Finastra / GFL / CleanSpark / Broadcom IR Q3 transcript (no fresh confirm). X search unavailable (API client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 136 Mid-Morning + snorkel-35 / cyera-gs-400 / verda-189. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (unconfirmed as of Mid-Morning). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
+    "line": "No. 137 Midday + alibaba-qwen-chip / omilia-cfo. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (unconfirmed as of Midday). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,53 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "alibaba-qwen-chip",
+      "lead": false,
+      "section": "AI",
+      "kicker": "China AI / Chips",
+      "hed": "Alibaba plans 5–10T-param Qwen models; unveils Zhenwu V900; HK shares +5%",
+      "dek": "Reuters Sep 22 Apsara. Qwen 4 in training; Qwen 4.5/5 roadmap to 5–10T vs Qwen 3.8 Max 2.4T. V900 3× M890; Q1 2027 commercial. Cloud DC target >20 GW by 2032.",
+      "date": "Sept. 22, 2026",
+      "source": "Reuters (Liam Mo / Eduardo Baptista); Alibaba Cloud PR",
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
+      "also": [
+        {
+          "label": "Alibaba Cloud Apsara full-stack AI roadmap PR (Sep 22)",
+          "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy?_p_lc=1"
+        },
+        {
+          "label": "RTHK reprint of Reuters wire",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1871067-20260922.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / China full-stack as Midday Sep 22 plate (missed overnight Asia print vs Mid-Morning). PRIMARY: Reuters Sep 22 from Apsara Conference — Eddie Wu: Qwen team plans model with 5 trillion to 10 trillion parameters (vs flagship Qwen 3.8 Max at 2.4T); company statement: Qwen 4 in training, Qwen 4.5/5 projected to scale to 5–10T. Zhenwu V900 (T-Head) delivers 3× predecessor M890; clusters up to 500,000 chips; mass production/commercial Q1 2027. Alibaba Cloud global DC capacity target >20 GW by 2032. HK-listed shares +5.1% Tuesday to ~1-month high. Stick to Reuters + company PR only. Do NOT mash with plated June-quarter alibaba P&L story (cloud +45% / group capex +75% / group NI −75% / Cloud adj. EBITA +133%). Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Alibaba said at its Apsara Conference it is developing an AI model up to four times larger than its flagship and unveiled a next-generation AI chip it called China's most powerful, sending Hong Kong-listed shares up 5.1% Tuesday, Reuters reported.",
+        "CEO Eddie Wu said the Qwen team plans to train a model with 5 trillion to 10 trillion parameters, versus 2.4 trillion for current flagship Qwen 3.8 Max. A company statement said Qwen 4 is already in training, with future Qwen 4.5 and Qwen 5 series projected to scale to that 5–10 trillion range.",
+        "Alibaba also unveiled the Zhenwu V900 from its T-Head unit, saying it delivers three times the performance of the M890 and can be clustered up to 500,000 chips. Mass production and commercial release are slated for Q1 2027. Wu set a target for Alibaba Cloud global data-center capacity to surpass 20 GW by 2032."
+      ]
+    },
+    {
+      "id": "omilia-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Agentic CX",
+      "hed": "Omilia promotes William Hardy to Group CFO after $67M Series B",
+      "dek": "Business Wire Sep 22 8:00 a.m. ET. Ex–Deutsche Bank software M&A banker and Chief of Staff; mandate is capital-efficient growth and an AI-first finance function.",
+      "date": "Sept. 22, 2026",
+      "source": "Business Wire (Omilia)",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-22-omilia-appoints-william-hardy-as-group-chief-financial-officer",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Midday Sep 22 plate. PRIMARY: Omilia Business Wire Sep 22 8:00 a.m. ET — promotes William Hardy (Chief of Staff) to Group CFO effective immediately after recently closed $67M Series B. Prior: Deutsche Bank Investment Banker specializing in Software M&A. Mandate: global finance org, capital-efficient growth, AI-first finance function. CEO Dimitris Vassos quoted. Stick to PR facts only; do not invent valuation or round lead. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Omilia, a self-learning agentic customer-experience platform, promoted William Hardy from Chief of Staff to Group Chief Financial Officer effective immediately, the company said in a Business Wire release Tuesday morning.",
+        "The appointment follows Omilia's recently closed $67 million Series B. Hardy spent the past 12 months on growth strategy, investor relations, and capital raising, and previously was an investment banker at Deutsche Bank specializing in software M&A.",
+        "CEO and co-founder Dimitris Vassos said Hardy will lead the global finance organization as the company expands into new markets, with a mandate for capital-efficient growth and an AI-first finance function."
+      ]
+    },
     {
       "id": "snorkel-35",
       "lead": false,
