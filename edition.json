@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 137,
+  "number": 138,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Mid-Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~11:19 a.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,765.28 (+0.01%), Dow 51,799.77 (−0.48%), Nasdaq 27,227.19 (+0.39%), SOX 12,545.26 (+0.90%), NVDA $228.83 (+0.64%), AMD $618.88 (+0.55%). Yields: ^TNX ~4.96%, ^TYX ~5.29%. Futures: ES ~7,832 / NQ ~30,925. Tape refresh with ADD alibaba-qwen-chip + omilia-cfo.",
-    "line": "S&P 7,765.28 (+0.01%) · Dow 51,799.77 (−0.48%) · Nasdaq 27,227.19 (+0.39%) · SOX 12,545.26 (+0.90%) · NVDA $228.83 (+0.64%) · AMD $618.88 (+0.55%) · 10-year ~4.96% · 30-year ~5.29% · ES ~7,832 · NQ ~30,925 (midday)"
+    "updated": "Sep 22, ~12:18 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,762.41 (−0.03%), Dow 51,806.39 (−0.47%), Nasdaq 27,191.71 (+0.26%), SOX 12,582.43 (+1.20%), NVDA $228.89 (+0.66%), AMD $617.05 (+0.25%). Yields: ^TNX ~4.97%, ^TYX ~5.31%. Futures: ES ~7,829 / NQ ~30,929. Tape refresh with ADD deepseek-un + accelevation-ipo + circle-binance-100 + meta-muse-ws.",
+    "line": "S&P 7,762.41 (−0.03%) · Dow 51,806.39 (−0.47%) · Nasdaq 27,191.71 (+0.26%) · SOX 12,582.43 (+1.20%) · NVDA $228.89 (+0.66%) · AMD $617.05 (+0.25%) · 10-year ~4.97% · 30-year ~5.31% · ES ~7,829 · NQ ~30,929 (mid-afternoon)"
   },
   "deskNote": {
-    "kicker": "Alibaba Qwen/Zhenwu + Omilia CFO",
-    "hed": "Midday plate: China full-stack AI roadmap add; Omilia Finance chief; tape still mixed.",
+    "kicker": "DeepSeek UNSC + Accelevation IPO + Circle/Binance + Muse Street",
+    "hed": "Mid-Afternoon plate: China AI at UNSC; DC-infra IPO terms; stablecoin stake; Muse monetization tape.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 137 Midday — ADD alibaba-qwen-chip + omilia-cfo (Quill) vs No. 136 Mid-Morning. PRIMARY: Reuters Sep 22 Apsara — Alibaba Qwen 5–10T roadmap + Zhenwu V900 (3× M890; Q1 2027); Cloud DC >20 GW by 2032; HK shares +5.1%. Do not mash with plated June-quarter alibaba P&L. Companion: Business Wire Sep 22 8:00 a.m. ET — Omilia promotes William Hardy to Group CFO post-$67M Series B. Cash tape ~11:19 a.m. ET: Nasdaq/SOX still green, Dow soft; deltas vs Mid-Morning modest. Lead remains fomc-sep16. Declined: Hg–Anthropic recirculation (already hg-anthropic-agentic); Transient Nasdaq Ventures (undisclosed $; older); FintechOS $28M (below bar); Dragos NetRise/runZero close (Sep 21; bolt-on terms undisclosed); TAR $120M Spark (Sep 10); Apollo Kleinman Barclays AI-financing comments (Sep 14 conference recirculation); CoreWeave settle still unconfirmed (keep watch); SoftBank notes / Oura / Iambic / Vista–Finastra / GFL / CleanSpark / Broadcom IR Q3 transcript (no fresh confirm). X search unavailable (API client-not-enrolled)."
+    "body": "Vol. 1 No. 138 Mid-Afternoon — ADD deepseek-un + accelevation-ipo + circle-binance-100 + meta-muse-ws (Quill) vs No. 137 Midday. PRIMARY: Reuters exclusive DeepSeek invited to Wed UNSC AI brief (Moonshot too; Liang not attending; Altman set). Companion Finance: Accelevation GlobeNewswire roadshow + Reuters wire up to $5.37B / $20–$24 / ACCV / Olympus ~85% vote; CNBC Binance $100M Circle stake at $80.84 + 5-yr USDC deal. Markets: Reuters Street Muse monetization (Apptopia downloads; Jefferies $10.8B scenario). Cash tape ~12:18 p.m. ET: SOX still firm (+1.2%), Nasdaq softer vs Midday, Dow still soft; deltas vs Midday modest aside SOX. Lead remains fomc-sep16. Open watches unchanged (Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24, CoreWeave settle Sep 22 still unconfirmed as of Mid-Afternoon, Oura price next week, Iambic amendment TBD). X search unavailable (API client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 137 Midday + alibaba-qwen-chip / omilia-cfo. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (unconfirmed as of Midday). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
+    "line": "No. 138 Mid-Afternoon + deepseek-un / accelevation-ipo / circle-binance-100 / meta-muse-ws. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Mid-Afternoon). Accelevation ACCV expected price week of Sep 28 (Renaissance). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,100 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "deepseek-un",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Geopolitics",
+      "hed": "DeepSeek invited to brief UN Security Council on AI risks Wednesday; Altman also set",
+      "dek": "Reuters exclusive Sep 22 (Laurie Chen). UNSC meeting Wed during UNGA week; Moonshot also invited; Liang Wenfeng not expected to attend. Pair with deepseek-cfo / deepseek-citic watches.",
+      "date": "Sept. 22, 2026",
+      "source": "Reuters (Laurie Chen exclusive)",
+      "url": "https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/",
+      "also": [
+        {
+          "label": "Straits Times reprint of Reuters exclusive",
+          "url": "https://www.straitstimes.com/asia/deepseek-to-brief-un-security-council-on-ai-this-week-sources-say"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / geopolitics as Mid-Afternoon Sep 22 plate (Reuters exclusive missed on Midday). PRIMARY: Reuters Sep 22 Laurie Chen from Beijing — two sources familiar: DeepSeek among companies briefing UN Security Council this week on AI risks as leaders gather for UNGA; 15-member Council set to meet Wednesday on AI and international security; OpenAI CEO Sam Altman plans to brief (Reuters reported last week); diplomats also expect senior Anthropic participation; DeepSeek and other Chinese AI firms including Moonshot invited to make statements; founder Liang Wenfeng does not plan to attend; plans fluid. DeepSeek and Moonshot did not immediately respond. Color OK labeled: UNSC first met on AI risks in 2023; Guterres warned last week; Bessent said Mon US-China agreed further AI-safety talks ahead of Trump–Xi. Do NOT invent Liang attendance or binding resolution — nonbinding briefing. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Chinese AI startup DeepSeek will be among the companies briefing the United Nations Security Council this week on AI risks, two sources familiar with the matter told Reuters in an exclusive published Tuesday, as world leaders gather in New York for the annual UN General Assembly.",
+        "The 15-member Council is set to meet Wednesday on AI and international security. OpenAI CEO Sam Altman plans to brief the meeting, and diplomats also expect senior Anthropic participation, Reuters reported last week. DeepSeek and other Chinese AI firms including Moonshot have been invited to make statements, one source said; DeepSeek founder Liang Wenfeng does not plan to attend, the source said, cautioning plans remain fluid.",
+        "DeepSeek and Moonshot did not immediately respond to requests for comment. The Security Council first met on AI risks in 2023. Separately, Treasury Secretary Scott Bessent said Monday that senior U.S. and Chinese officials agreed to hold further talks on AI safety ahead of Trump’s scheduled talks with Xi Jinping later this week."
+      ]
+    },
+    {
+      "id": "accelevation-ipo",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "IPO / AI Infrastructure",
+      "hed": "Accelevation roadshow: up to $5.37B val, $20–$24 range, Nasdaq ACCV; Olympus keeps ~85% vote",
+      "dek": "Company GlobeNewswire + Reuters Sep 22. 30M Class A shares (8.6M primary / 21.4M secondary); up to ~$720M at top. DC power/cooling/modular infra. PE Olympus bought Jan 2025.",
+      "date": "Sept. 22, 2026",
+      "source": "GlobeNewswire (Accelevation); Reuters (Pragyan Kalita via CNA/Mix 92.9)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366111/0/en/accelevation-launches-roadshow-for-proposed-initial-public-offering.html",
+      "also": [
+        {
+          "label": "CNA full Reuters wire — up to $5.37B valuation / $720M raise",
+          "url": "https://www.channelnewsasia.com/business/accelevation-targets-up-54-billion-valuation-in-us-ipo-6402136"
+        },
+        {
+          "label": "Mix 92.9 Thomson Reuters reprint (same wire; byline Kalita)",
+          "url": "https://mix929.com/2026/09/22/accelevation-backers-aim-to-raise-up-to-720-million-in-us-ipo/"
+        },
+        {
+          "label": "Renaissance Capital terms note (midpoint ~$4.9B; price week of Sep 28)",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/121811/power-distribution-products-manufacturer-accelevation-holdings-sets-terms"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI-infra IPO as Mid-Afternoon Sep 22 plate. PRIMARY company: GlobeNewswire Sep 22 6:52 a.m. ET — Accelevation Holdings launches roadshow for proposed IPO of 30,000,000 Class A shares (8,635,165 by company; 21,364,835 by selling stockholders); selling stockholders intend 30-day option for up to additional 4,500,000 shares; expected range $20.00–$24.00; applied Nasdaq Global Select ACCV; net proceeds to buy units in Accelevation Holdings LLC then repay indebtedness / offering expenses / org transactions / G&A; company gets none of selling-stockholder proceeds; MS + JPM joint lead bookrunners; GS, Barclays, BofA joint bookrunners; Houlihan Lokey, Baird, William Blair, Piper Sandler, Wolfe|Nomura Alliance additional. PRIMARY wire: Reuters via CNA/Mix 92.9 (Pragyan Kalita) — targeting valuation up to $5.37B; company + selling shareholders aiming to raise up to $720M at $20–$24; Olympus Partners (bought Jan 2025) will retain about 85% combined voting power; Miamisburg OH; designs/makes/installs power distribution, cooling, modular DC infra; net proceeds primarily refinance existing debt. Renaissance Capital OK labeled secondary only: midpoint market value ~$4.9B; LTM Jun 30 revenue $727M; backlog ~$1.1B as of Jun 30 2026; +147% revenue 2025; expected price week of Mon Sep 28. Do NOT invent EV multiple or close date. Pair with nscale-s1 / sb-energy-s1 pipeline color already on plate. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Accelevation Holdings launched the roadshow for its proposed U.S. IPO on Tuesday, saying it plans to offer 30 million Class A shares — about 8.6 million primary and 21.4 million from selling stockholders — at an expected $20 to $24 range and has applied to list on Nasdaq Global Select under ACCV, per a GlobeNewswire release.",
+        "Reuters reported the Olympus Partners-backed data-center infrastructure company is targeting a valuation of up to $5.37 billion and that the company and some selling shareholders are aiming to raise as much as $720 million. Olympus, which bought the company in January 2025, will retain about 85% of combined voting power after the offering, Reuters said.",
+        "Accelevation designs, makes, and installs power distribution, cooling, and modular infrastructure for data-center customers. Company net proceeds are intended primarily to refinance existing debt (Reuters) via a purchase of newly issued LLC units (company PR). Morgan Stanley and J.P. Morgan are joint lead bookrunners, with Goldman Sachs, Barclays, and BofA among joint bookrunners."
+      ]
+    },
+    {
+      "id": "circle-binance-100",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Stablecoin",
+      "hed": "Binance takes $100M Circle stake at $80.84; five-year USDC distribution deal",
+      "dek": "CNBC Sep 22. Lockup up to two years; Circle pays Binance monthly incentive fee tied to USDC balances. Push vs Tether internationally.",
+      "date": "Sept. 22, 2026",
+      "source": "CNBC (Tanaya Macheel)",
+      "url": "https://www.cnbc.com/2026/09/22/circle-lands-100-million-from-binance-to-ramp-up-global-usdc-expansion-.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance / stablecoin as Mid-Afternoon Sep 22 plate. PRIMARY: CNBC Tanaya Macheel Sep 22 9:08 a.m. EDT — Binance investing $100 million in Circle as part of five-year deal for Binance to promote USDC; Binance buys $100M of Circle shares at $80.84 each; lockup of as long as two years with some exceptions; Circle pays Binance a monthly incentive fee tied to USDC balances; Circle shares +>1% premarket. Quotes OK: Circle CEO Jeremy Allaire and Binance co-CEO Richard Teng from CNBC. Color OK labeled: USDT ~$183B vs USDC ~$75B circulation per CryptoQuant cited by CNBC; Circle Arc blockchain launched last week (CNBC). Stick to CNBC figures; do not invent share count beyond what CNBC printed or treat as open-market secondary. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Binance agreed to invest $100 million in stablecoin issuer Circle as part of a five-year commercial deal to promote Circle’s USDC on Binance’s platform, CNBC reported Tuesday, citing terms that include Circle paying Binance a monthly incentive fee tied to USDC balances.",
+        "Binance will buy $100 million of Circle shares at $80.84 each, subject to a lockup of as long as two years with some exceptions, CNBC said. Circle shares rose more than 1% in premarket trading Tuesday.",
+        "Circle CEO Jeremy Allaire and Binance co-CEO Richard Teng framed the partnership as expanding dollar stablecoin access in emerging markets. CNBC cited CryptoQuant figures putting USDT circulation near $183 billion versus about $75 billion for USDC."
+      ]
+    },
+    {
+      "id": "meta-muse-ws",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Consumer AI",
+      "hed": "Street turns bullish on Meta Muse monetization; Jefferies sketches $10.8B ARR path",
+      "dek": "Reuters Sep 22. Apptopia: 2.8M downloads in 12 days. META +>20% since Sep 8 launch; +>11% Monday. Companion to amazon-muse-block.",
+      "date": "Sept. 22, 2026",
+      "source": "Reuters (Shashwat Chauhan)",
+      "url": "https://www.reuters.com/business/wall-street-expects-metas-ai-agent-shape-into-new-revenue-engine-2026-09-22/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Markets / consumer-AI monetization as Mid-Afternoon Sep 22 plate (Reuters analysis with hard Street numbers). PRIMARY: Reuters Sep 22 Shashwat Chauhan — Wall Street bullish on Meta Muse as new revenue stream; Muse launched Sep 8 (free / $20 / $100 tiers); META shares +>20% since launch, +>$200B market cap to >7-month high as of last close; shares +1% by noon Tue after +>11% prior session. Apptopia via Reuters: 2.8M downloads first 12 days vs ChatGPT 1.3M first 12 days on similar metric (Muse 1.8M vs ChatGPT 1.3M in one comparison clause — stick to Reuters wording carefully: 'If compared on similar metrics to the first 12 days of OpenAI's ChatGPT, Muse has 1.8 million downloads versus 1.3 million for ChatGPT'). J.P.Morgan note: potential most widely used consumer AI app since ChatGPT. Jefferies: if 1B users by end-2027 and ≥3% paid → $10.8B annualized revenue; raised META PT to $875. LSEG via Reuters: 57 of 64 brokerages rate buy+; median PT $760. Pair with plated amazon-muse-block; do NOT invent ARR or treat Jefferies scenario as guidance. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Wall Street has turned bullish on Meta Platforms’ Muse AI agent as a potential new monetization engine, Reuters reported Tuesday, after Muse’s Sep. 8 launch (free, $20, and $100 monthly tiers) coincided with Meta shares rising more than 20% and adding over $200 billion in market value to a more-than-seven-month high as of the prior close.",
+        "Apptopia data cited by Reuters put Muse at 2.8 million downloads in the first 12 days. On a similar first-12-days comparison, Reuters said Muse had 1.8 million downloads versus 1.3 million for ChatGPT. Meta shares were up about 1% by noon Tuesday after surging more than 11% Monday.",
+        "Jefferies estimated that if Muse reached 1 billion users by end-2027 with at least 3% converting to paid, it could imply $10.8 billion in annualized revenue, and raised its Meta price target to $875. LSEG data via Reuters showed 57 of 64 covering brokerages at buy or higher with a median target of $760."
+      ]
+    },
     {
       "id": "alibaba-qwen-chip",
       "lead": false,
