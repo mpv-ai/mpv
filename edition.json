@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 142,
+  "number": 143,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~4:05 p.m. ET - Tuesday cash session. Session vs Monday close: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. Futures: ES ~7,836 / NQ ~31,024. Tape refresh with ADD sela-21 + chamelio-26 + confido-55 + cng-herndon + creatio-bankai.",
-    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,836 · NQ ~31,024 (evening)"
+    "updated": "Sep 22, ~6:02 p.m. ET - cash identical to Evening close. Session vs Monday close unchanged: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. AH futures: ES ~7,828 / NQ ~31,002 (vs Evening ES ~7,836 / NQ ~31,024). Tape refresh with ADD crwv-settle.",
+    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,828 · NQ ~31,002 (late evening)"
   },
   "deskNote": {
-    "kicker": "Five same-day plate fills into Evening",
-    "hed": "Evening plate: Sela, Chamelio, Confido, CNG CFO, Creatio Bank.AI.",
+    "kicker": "Open-watch close into Late Evening",
+    "hed": "CoreWeave settles $4.2B converts; full option exercised.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 142 Evening - ADD sela-21 + chamelio-26 + confido-55 + cng-herndon + creatio-bankai (Quill) vs No. 141 Early Evening. Morning wires missed earlier: Sela $21M Seed/A (Costanoa) mortgage voice AI; Chamelio $26M Series A (Entree) AI legal ops; Confido $55M Series B (Insight) CPG back-office AI; Charter Next Generation names Todd Herndon CFO; Creatio commits $300M 2026-28 to Bank.AI (internal, not a raise). Cash tape ~4:05 p.m. ET: SOX firmer (+2.1% vs +1.7% Early Evening), Nasdaq still modest green, S&P flat, Dow soft. Lead remains fomc-sep16. SoftBank notes still price Sep 24. CoreWeave settle Sep 22 still unconfirmed (Digital Drive $1.1B Blue Owl lease bond marketing noted off-plate via Bloomberg reprint). DeepSeek Yan Wentao CFO duty still Chinese secondary. X API still unavailable (client-not-enrolled)."
+    "body": "Vol. 1 No. 143 Late Evening - ADD crwv-settle (Quill) vs No. 142 Evening. Form 8-K confirms Sep 22 close of $4.2B 2.875% converts due 2033 including full $500M option; net ~$4.137B; ~$566.2M capped calls. Evening deskNote and ~5:06 p.m. hourly still had settle unconfirmed. Cash tape identical to Evening; AH futures negligible drift (ES ~7,828 / NQ ~31,002). Lead remains fomc-sep16. SoftBank notes still price Sep 24. DeepSeek Yan Wentao CFO duty still Chinese secondary. DOJ-Nvidia-Groq unchanged. X API still unavailable (client-not-enrolled). Skipped below bar: Ande $52M, Spott $21M, Atum $13.5M, CellPoint/Toscafund $34M, AIUC $40M Series A."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 142 Evening + sela-21 / chamelio-26 / confido-55 / cng-herndon / creatio-bankai. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 still unconfirmed; Fully Connected Sep 30-Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74-75B / CFO duty, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
+    "line": "No. 143 Late Evening + crwv-settle (CoreWeave $4.2B converts closed). SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave Fully Connected Sep 30-Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74-75B / CFO duty, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,34 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "crwv-settle",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI Infra / Capital Markets",
+      "hed": "CoreWeave settles $4.2B 2.875% converts; full $500M option exercised",
+      "dek": "Form 8-K filed Sep 22 (accepted ~12:17 p.m. ET / 16:17 UTC). Net ~$4.137B; ~$566.2M capped calls at $199.70 cap. Closes Sep 22 settle watch from crwv-37b pricing.",
+      "date": "Sept. 22, 2026",
+      "source": "SEC Form 8-K (CoreWeave)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000432/crwv-20260917.htm",
+      "also": [
+        {
+          "label": "EDGAR filing index",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000432/"
+        },
+        {
+          "label": "Prior pricing plate (crwv-37b)",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Prices-Upsized-3-7-Billion-Convertible-Senior-Notes-Offering/default.aspx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI infra capital markets as Late Evening Sep 22 plate (open-watch close; Evening deskNote and 5 p.m. hourly still said settle unconfirmed). PRIMARY: CoreWeave Form 8-K, accession 0001769628-26-000432, accepted 2026-09-22T16:17:14Z (~12:17 p.m. ET). Stick to 8-K: On Sep 22 completed previously announced upsized private offering of $4.2B aggregate 2.875% Convertible Senior Notes due 2033, including $500M via exercise in full of initial purchasers' option; Indenture dated Sep 22 with U.S. Bank Trust Company as trustee; net proceeds $4,137.0M after initial purchasers' discounts before offering expenses; ~$566.2M used for capped call transactions (cap price initially $199.70, 150% over Sep 17 $79.88); remainder general corporate purposes; initial conversion 10.2194 shares/$1,000 (~$97.85), ~22.50% premium to Sep 17 $79.88; max 52,578,540 Class A shares at maximum conversion rate 12.5187. Pair with existing crwv-37b pricing plate; do not invent new use of proceeds. Not MAJOR (settlement of priced deal). Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "CoreWeave completed its previously announced upsized private offering of $4.2 billion aggregate principal amount of 2.875% Convertible Senior Notes due 2033 on Sept. 22, including $500 million from the exercise in full of the initial purchasers' option, the company said in a Form 8-K filed the same day.",
+        "Net proceeds were about $4,137.0 million after initial purchasers' discounts and before offering expenses. CoreWeave used roughly $566.2 million of proceeds for capped call transactions with an initial cap price of $199.70 per share and intends to use the remainder for general corporate purposes.",
+        "The notes were issued under an Indenture dated Sept. 22 with U.S. Bank Trust Company, National Association, as trustee. The initial conversion rate remains 10.2194 Class A shares per $1,000 principal (about $97.85 per share), a roughly 22.50% premium to the Sept. 17 close of $79.88, with a maximum of 52,578,540 shares issuable at the maximum conversion rate."
+      ]
+    },
     {
       "id": "sela-21",
       "lead": false,
