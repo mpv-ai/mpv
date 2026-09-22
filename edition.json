@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 139,
+  "number": 140,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~1:15 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,763.58 (−0.01%), Dow 51,814.10 (−0.45%), Nasdaq 27,208.90 (+0.32%), SOX 12,609.84 (+1.42%), NVDA $229.77 (+1.05%), AMD $617.90 (+0.39%). Yields: ^TNX ~4.97%, ^TYX ~5.31%. Futures: ES ~7,831 / NQ ~30,940. Tape refresh with ADD clickhouse-scarpelli + databank-cfo + crwv-rke.",
-    "line": "S&P 7,763.58 (−0.01%) · Dow 51,814.10 (−0.45%) · Nasdaq 27,208.90 (+0.32%) · SOX 12,609.84 (+1.42%) · NVDA $229.77 (+1.05%) · AMD $617.90 (+0.39%) · 10-year ~4.97% · 30-year ~5.31% · ES ~7,831 · NQ ~30,940 (afternoon)"
+    "updated": "Sep 22, ~2:15 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,771.00 (+0.08%), Dow 51,876.45 (−0.33%), Nasdaq 27,242.18 (+0.44%), SOX 12,627.52 (+1.56%), NVDA $229.27 (+0.83%), AMD $621.23 (+0.93%). Yields: ^TNX ~4.96%, ^TYX ~5.29%. Futures: ES ~7,834 / NQ ~30,956. Tape refresh with ADD varda-cfo + go-ai-85.",
+    "line": "S&P 7,771.00 (+0.08%) · Dow 51,876.45 (−0.33%) · Nasdaq 27,242.18 (+0.44%) · SOX 12,627.52 (+1.56%) · NVDA $229.27 (+0.83%) · AMD $621.23 (+0.93%) · 10-year ~4.96% · 30-year ~5.29% · ES ~7,834 · NQ ~30,956 (late afternoon)"
   },
   "deskNote": {
-    "kicker": "ClickHouse board + DataBank CFO + CoreWeave RKE",
-    "hed": "Afternoon plate: AI-data CFO governance; colo CFO handoff; CRWV customer-held keys.",
+    "kicker": "Varda CFO + Go.AI $85M Series A",
+    "hed": "Late Afternoon plate: deep-tech CFO build; regulated on-prem AI raise.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 139 Afternoon — ADD clickhouse-scarpelli + databank-cfo + crwv-rke (Quill) vs No. 138 Mid-Afternoon. PRIMARY: ClickHouse blog (ex-Snowflake CFO Scarpelli to board/Audit chair; ARR >$350M; $15B Series D). DataBank PR Newswire (Ben Lowe CFO; Ooley→CEO / Martynek→Exec Chair Jan 1 2027). SiliconANGLE exclusive CoreWeave Remote Key Encryption (customer-held keys; IBM/Vault launch partner; LA later this year). Cash tape ~1:15 p.m. ET: SOX still firm (+1.4%), Nasdaq modest green, Dow soft; deltas vs Mid-Afternoon modest. Lead remains fomc-sep16. Open watches unchanged (Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24, CoreWeave settle Sep 22 still unconfirmed as of Afternoon). X API unavailable (client-not-enrolled)."
+    "body": "Vol. 1 No. 140 Late Afternoon — ADD varda-cfo + go-ai-85 (Quill) vs No. 139 Afternoon. PRIMARY: Varda PR Newswire 12:08 p.m. ET (Aaron Huber CFO + Steve Layne CRO; six missions; nine reentries goal). Go.AI Business Wire 8:00 a.m. ET missed earlier ($85M Series A / Updata; total $90M; >200 customers; ARR >8x; profitable). Cash tape ~2:15 p.m. ET: SOX still firm (+1.6%), Nasdaq modest green, Dow soft; deltas vs Afternoon modest (S&P flipped tiny green; AMD firmer). Lead remains fomc-sep16. CoreWeave settle Sep 22 still unconfirmed (no close PR found). SoftBank notes still price Sep 24. Open watches unchanged (Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24, CoreWeave settle Sep 22). X API unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 139 Afternoon + clickhouse-scarpelli / databank-cfo / crwv-rke. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Afternoon); Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
+    "line": "No. 140 Late Afternoon + varda-cfo / go-ai-85. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Late Afternoon); Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,49 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "varda-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Deep-tech",
+      "hed": "Varda names Aaron Huber CFO and Steve Layne CRO as orbital pharma scales",
+      "dek": "PR Newswire Sep 22 12:08 p.m. ET. Huber: deep-tech/capital-markets CFO (incl. $1.6B NYSE listing). Layne: Lockheed hypersonics/missile defense. Six launch-return missions done.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (Varda Space Industries)",
+      "url": "https://www.prnewswire.com/news-releases/varda-space-industries-signs-steve-layne-as-chief-revenue-officer-and-aaron-huber-as-chief-financial-officer-302886437.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Late Afternoon Sep 22 plate (PR Newswire 12:08 p.m. ET missed on Afternoon). PRIMARY: Varda Space Industries PR Newswire Sep 22 — Aaron Huber named CFO; Steve Layne named CRO. Huber: nearly two decades deep-tech/capital markets (auto tech, synthetic biology, healthcare AI); background includes $1.6B NYSE listing, multiple acquisitions, complex non-dilutive financing. Layne: >30 years defense programs; most recently VP/Deputy GM Strategic and Missile Defense Systems at LM Space; prior VP Hypersonic Strike Weapon Systems at Lockheed Martin. CEO Will Bruey: commercial and financial leadership for expanded ops and flights. Color OK labeled from PR: six successful launch-return missions; three vehicles at launch sites; aiming nine commercial reentries by year-end; first commercial pharmaceutical product made in orbit still ahead. Stick to PR only; do not invent raise size, valuation, or prior employer names beyond what PR states. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Varda Space Industries appointed Aaron Huber as Chief Financial Officer and Steve Layne as Chief Revenue Officer, the El Segundo orbital-pharmaceutical company said in a PR Newswire release Tuesday afternoon.",
+        "Huber joins with nearly two decades spanning automotive technology, synthetic biology, and healthcare AI, including a $1.6 billion NYSE listing, multiple acquisitions, and complex non-dilutive financing structures, the company said. Layne most recently served as Vice President and Deputy General Manager for Strategic and Missile Defense Systems at LM Space and previously led Lockheed Martin hypersonic strike programs.",
+        "CEO Will Bruey said the pair give Varda commercial and financial leadership to match its technical progress as it expands operations and flights. The company said it has completed six successful launch-and-return missions, has three vehicles at launch sites, and aims to bring its commercial reentry record to nine by year-end while advancing toward the first commercial pharmaceutical product manufactured in low Earth orbit."
+      ]
+    },
+    {
+      "id": "go-ai-85",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI Infra / Regulated",
+      "hed": "Go.AI raises $85M Series A led by Updata for on-prem AI in regulated industries",
+      "dek": "Business Wire Sep 22 8:00 a.m. ET. Total funding $90M; GFT Ventures + LAUNCH join. >200 customers; ARR >8x YoY; profitable; fixed-fee on-prem stack.",
+      "date": "Sept. 22, 2026",
+      "source": "Business Wire (Go.AI)",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-22-goai-raises-85-million-series-a-to-accelerate-on-prem-ai-infrastructure-for-regulated-industries",
+      "also": [
+        {
+          "label": "Fintech Global write-up",
+          "url": "https://fintech.global/2026/09/22/go-ai-raises-85m-series-a-for-on-prem-ai-push/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI infra as Late Afternoon Sep 22 plate (Business Wire morning wire missed earlier editions). PRIMARY: Go.AI Business Wire Sep 22 8:00 a.m. ET — $85M Series A led by Updata Partners; existing GFT Ventures and LAUNCH participate; total funding to date $90M. Chicago on-prem, examiner-ready AI infra for regulated industries (banks, healthcare, aerospace/defense, manufacturing). Rebrand from Go Abacus earlier this month; The Go1 launch as first on-prem AI hardware+software for regulated orgs. Company claims: >200 customers; ARR up >8x YoY; remains profitable; customers process >12.5M queries/day; fixed fee (no per-token). Use of proceeds: expand engineering, accelerate Go.OS software + hardware line, scale GTM beyond regulated into broader compliance-minded orgs. Quotes OK: CEO/co-founder David Moscatelli; Updata GP Carter Griffin. Stick to PR numbers; do not invent valuation or revenue dollars beyond ARR multiple. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Go.AI, a Chicago provider of on-premises AI infrastructure for regulated industries, raised $85 million in Series A funding led by Updata Partners, with existing investors GFT Ventures and LAUNCH participating, bringing total funding to $90 million, the company said in a Business Wire release Tuesday.",
+        "The raise follows a rebrand from Go Abacus and the launch of The Go1, which Go.AI calls the first on-prem AI hardware and software solution built for regulated organizations. The company said it has more than 200 customers, annual recurring revenue up more than eightfold year over year, remains profitable, and that customer deployments process more than 12.5 million queries per day under a fixed-fee model.",
+        "Proceeds will expand engineering, accelerate the Go.OS software and hardware line, and scale go-to-market as Go.AI moves beyond banks, healthcare, aerospace and defense, and manufacturing into a broader set of compliance-minded organizations, per the release."
+      ]
+    },
     {
       "id": "clickhouse-scarpelli",
       "lead": false,
