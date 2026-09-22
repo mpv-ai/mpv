@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 134,
+  "number": 135,
   "city": "New York",
-  "date": "Monday, September 21, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Tuesday, September 22, 2026",
+  "editionLabel": "Morning Edition",
   "tape": {
-    "source": "Yahoo Finance (equities; ^TNX/^TYX yields)",
-    "updated": "Sep 21, ~5:57 p.m. ET — Monday post-close. Live prints vs Evening plate (~5:00): S&P 7,764.70 +1.49% (unchanged), Dow 52,048.83 +0.71% (unch), Nasdaq 27,122.09 +2.26% (unch), SOX 12,433.17 +4.29% (unch), NVDA $227.38 +2.30% (unch), AMD $615.52 +9.95% (unch). Yields: ^TNX ~4.963% (unch), ^TYX ~5.296% (unch). Cash session closed; tape flat vs Evening — refresh for Late Evening ADD only.",
-    "line": "S&P 7,764.70 (+1.49%) · Dow 52,048.83 (+0.71%) · Nasdaq 27,122.09 (+2.26%) · SOX 12,433.17 (+4.29%) · NVDA $227.38 (+2.30%) · AMD $615.52 (+9.95%) · 10-year 4.963% · 30-year 5.296%"
+    "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
+    "updated": "Sep 22, ~9:15 a.m. ET — Tuesday pre-cash-open. Equity cash prints still Monday close (regular session opens 9:30): S&P 7,764.70 (+1.49%), Dow 52,048.83 (+0.71%), Nasdaq 27,122.09 (+2.26%), SOX 12,433.17 (+4.29%), NVDA $227.38 (+2.30%), AMD $615.52 (+9.95%). Yields softer vs Late Evening: ^TNX ~4.95% (was ~4.963%), ^TYX ~5.28% (was ~5.296%). Futures color: ES ~7,839 / NQ ~30,768. Tape refresh with ADD cgnx-realsense + ai-ig-split.",
+    "line": "S&P 7,764.70 (+1.49%) · Dow 52,048.83 (+0.71%) · Nasdaq 27,122.09 (+2.26%) · SOX 12,433.17 (+4.29%) · NVDA $227.38 (+2.30%) · AMD $615.52 (+9.95%) · 10-year ~4.95% · 30-year ~5.28% · ES ~7,839 · NQ ~30,768 (pre-open)"
   },
   "deskNote": {
-    "kicker": "Iambic S-1 (Nvidia/QIA AI drug IPO)",
-    "hed": "Iambic files Nasdaq ‘IAM’ S-1; AbbVie AI discovery collab same day.",
+    "kicker": "Cognex–RealSense + AI IG bifurcation",
+    "hed": "Morning plate: Cognex ~$500M cash for RealSense; Reuters AI vs non-AI IG split.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 134 Late Evening — ADD iambic-s1 (Quill) vs No. 133 Evening. PRIMARY: Reuters Sep 21 ~5:41 p.m. ET + SEC Form S-1 accession 0001193125-26-396704 (CIK 0001997038; file 333-299057) — Nvidia/QIA-backed Iambic Therapeutics files for Nasdaq IAM; JPM/Jefferies/BofA/Citi; range blank; ~$461.8M raised since Entos founding; IAM1363 early-stage solid tumors. Companion: AbbVie–Iambic PR Newswire multi-year AI discovery collab (upfront/milestones/royalties; amounts undisclosed). Tape flat vs Evening close prints (S&P 7,764.70 / NVDA $227.38 / AMD $615.52). Lead remains fomc-sep16. Declined: QuickLogic James Sullivan CFO (micro-cap eFPGA; below desk bar); KIC >$1B PE secondary (Bloomberg people-familiar; unconfirmed); Apollo Kleinman Barclays AI-financing remarks (opinion/fundraising color); Ingenia–Warburg revised A$2.06B rebuff (already plated Sep 7; Australia land-lease off core beat); SoftBank OpenAI bonds / Hg–Anthropic / magnite-cfo / newsom-dc-bills / mchp-hailo-close already plated."
+    "body": "Vol. 1 No. 135 Morning Edition — ADD cgnx-realsense + ai-ig-split (Quill) vs No. 134 Late Evening. PRIMARY: Cognex PR Newswire Sep 22 7:00 a.m. ET / 8-K accession 0000851205-26-000071 (~$500M cash; Q4 close; facial-auth spin-out; $56.5M retention + ~$50M RSUs). Companion: Reuters Sep 22 IG bifurcation (GS hyperscaler issuance ~$420B next year; AI spreads ~115 bp vs IG ~78 bp) paired with BlackRock BII Sep 21 weekly (AI/data-center bonds ~14% of U.S. IG issuance; financing demand could exceed $7.5T/yr by 2030). Pre-open tape: equity cash still Monday close; 10y/30y modestly softer; ES/NQ futures noted. Lead remains fomc-sep16. Declined: Hg–Anthropic expansion (already plated hg-anthropic-agentic); Apollo Kleinman higher-for-longer AI-financing color (opinion/fundraising); wholesaleinvestor Competition-for-Capital digest (secondary GS wrap). X search unavailable (API client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 134 Late Evening + iambic-s1. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary."
+    "line": "No. 135 Morning + cgnx-realsense / ai-ig-split. Cash open 9:30 a.m. ET. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript."
   },
   "sections": [
     "All",
@@ -28,6 +28,62 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "cgnx-realsense",
+      "lead": false,
+      "section": "AI",
+      "kicker": "M&A / Machine Vision",
+      "hed": "Cognex to buy RealSense for ~$500M cash; Q4 close guided",
+      "dek": "PR Newswire Sep 22 7:00 a.m. ET. Balance-sheet cash; $56.5M retention + ~$50M RSUs. Facial-auth spin-out pre-close. Robotic perception TAM ~$600M to ~$1.6B by 2030.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (Cognex); SEC Form 8-K",
+      "url": "https://www.prnewswire.com/news-releases/cognex-to-acquire-realsense-expanding-machine-vision-leadership-into-high-growth-robotic-perception-market-302885738.html",
+      "also": [
+        {
+          "label": "SEC Form 8-K — Cognex (accession 0000851205-26-000071; filed Sep 22, 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000071/cgnx-20260922.htm"
+        },
+        {
+          "label": "Exhibit 99.1 press release (EDGAR)",
+          "url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000071/exhibit991-pressrelease.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Physical AI M&A as Morning Edition Sep 22 plate (PR Newswire 7:00 a.m. ET; 8-K same day). PRIMARY: Cognex definitive agreement to acquire RealSense for approximately $500 million, financed entirely from existing cash and investments; expected close Q4 2026 subject to customary conditions. Stick to PR numbers: three-year $56.5 million cash retention at target (performance modifiers); RSUs valued at approximately $50 million under 2023 plan (grant-date share-price dependent); RealSense 2026 revenue expected $80–90 million (>50% growth); robotic perception market estimated $600 million today, >25% annual growth to approximately $1.6 billion by 2030; Intel-founded 2014 / spun out 2025; pre-close spin-out of Facial Authentication product line into independent company; Evercore financial advisor to Cognex; management call 8:00 a.m. ET Sep 22. Do NOT invent EV multiples, Intel stake %, or buyer valuation beyond sourced $500M cash + retention/RSU extras. Secondary Globes/Ctech ~$600M all-in color is retention+RSU arithmetic, not a second purchase price. Not MAJOR — keep lead fomc-sep16. Owner Quill (already briefed via morning radar).",
+      "grafs": [
+        "Cognex Corporation (Nasdaq: CGNX) said early Tuesday it has entered a definitive agreement to acquire RealSense, the depth-sensing camera and robotic-perception company originally founded by Intel in 2014 and spun out in 2025, for approximately $500 million in cash funded from existing balance-sheet cash and investments.",
+        "Per the PR Newswire release (7:00 a.m. ET) and accompanying Form 8-K (accession 0000851205-26-000071), Cognex also expects a three-year $56.5 million cash retention program at target for RealSense employees, subject to performance modifiers, and restricted stock units valued at about $50 million. Close is guided for the fourth quarter of 2026, subject to customary conditions. Before closing, RealSense will spin out its Facial Authentication product line into an independent company.",
+        "Cognex framed the deal as entry into robotic perception, a market it estimates at roughly $600 million today and expects to grow more than 25% annually to about $1.6 billion by 2030. RealSense is expected to generate $80 million to $90 million of revenue in 2026, more than 50% growth year over year. Evercore advised Cognex; management hosted an 8:00 a.m. ET call on the transaction."
+      ]
+    },
+    {
+      "id": "ai-ig-split",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Credit / AI Financing",
+      "hed": "IG market bifurcates: AI spreads ~115 bp vs ~78 bp broad IG",
+      "dek": "Reuters Sep 22. GS sees hyperscaler issuance ~$420B next year (+60% vs 2026 est.). Pair BlackRock BII Sep 21: AI/data-center bonds ~14% of U.S. IG issuance.",
+      "date": "Sept. 22, 2026",
+      "source": "Reuters; BlackRock Investment Institute (weekly commentary Sep 21, 2026)",
+      "url": "https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/",
+      "also": [
+        {
+          "label": "BlackRock BII weekly PDF — The AI buildout meets the 5% world (Sep 21, 2026)",
+          "url": "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20260921-the-ai-buildout-meets-the-5-percent-world.pdf"
+        },
+        {
+          "label": "BlackRock BII weekly commentary hub",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / credit as Morning Edition Sep 22 plate (Reuters New York dateline Sep 22; pair BII weekly dated Sep 21). PRIMARY wire: Reuters — IG credit split between AI-related and traditional issuers; buyers demand concessions on hyperscaler/data-center/chip-linked paper while non-AI deals clear tight. Stick to sourced figures: Goldman Sachs data — hyperscaler gross debt issuance expected record ~$420 billion next year, up 60% from 2026 estimates; AI-related issuer spreads around 115 bp (GS) vs 78 bp broader IG (ICE BofA); SIFMA — overall U.S. corporate issuance through August +30% y/y to $1.9 trillion; contrast deals — Alphabet August sale needed large concession (BNY note per Reuters) vs Aon $13.5 billion acquisition financing drawing $65 billion orders (30y tranche tightened 35 bp). PAIR: BlackRock BII Sep 21 weekly — broader AI and data-center bond universe about 14% of U.S. IG issuance this year (5% in 2025; 1% prior decade); U.S. financing demand could exceed $7.5 trillion annually by 2030. Do NOT invent default probabilities or Fed-path odds. Not MAJOR — keep lead fomc-sep16. Owner Quill (already briefed via morning radar).",
+      "grafs": [
+        "U.S. investment-grade credit has split into AI-linked and traditional books, Reuters reported Tuesday: hyperscaler, data-center, and chip-related borrowers face wider spreads and larger concessions, while financial and industrial issuers outside the AI complex still clear near historically tight levels and often oversubscribed books.",
+        "Goldman Sachs data cited by Reuters point to a record roughly $420 billion of hyperscaler gross debt issuance next year, up 60% from 2026 estimates. Spreads on AI-related issuers have stayed around 115 basis points, versus about 78 basis points for the broader IG market (ICE BofA). SIFMA figures show overall U.S. corporate issuance through August up 30% year over year to $1.9 trillion.",
+        "Pair with BlackRock Investment Institute’s Sep 21 weekly: the broader AI and data-center bond universe accounts for about 14% of U.S. investment-grade issuance this year, up from 5% in 2025 and 1% over the prior decade, with annual U.S. financing demand estimated to exceed $7.5 trillion by 2030. Portfolio managers quoted by Reuters stress supply and concentration limits, not imminent default risk, as the driver of the AI spread premium."
+      ]
+    },
     {
       "id": "iambic-s1",
       "lead": false,
