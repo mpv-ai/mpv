@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 135,
+  "number": 136,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Morning Edition",
+  "editionLabel": "Mid-Morning",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~9:15 a.m. ET — Tuesday pre-cash-open. Equity cash prints still Monday close (regular session opens 9:30): S&P 7,764.70 (+1.49%), Dow 52,048.83 (+0.71%), Nasdaq 27,122.09 (+2.26%), SOX 12,433.17 (+4.29%), NVDA $227.38 (+2.30%), AMD $615.52 (+9.95%). Yields softer vs Late Evening: ^TNX ~4.95% (was ~4.963%), ^TYX ~5.28% (was ~5.296%). Futures color: ES ~7,839 / NQ ~30,768. Tape refresh with ADD cgnx-realsense + ai-ig-split.",
-    "line": "S&P 7,764.70 (+1.49%) · Dow 52,048.83 (+0.71%) · Nasdaq 27,122.09 (+2.26%) · SOX 12,433.17 (+4.29%) · NVDA $227.38 (+2.30%) · AMD $615.52 (+9.95%) · 10-year ~4.95% · 30-year ~5.28% · ES ~7,839 · NQ ~30,768 (pre-open)"
+    "updated": "Sep 22, ~10:25 a.m. ET — Tuesday cash open. Session vs Monday close: S&P 7,768.55 (+0.05%), Dow 51,831.26 (-0.42%), Nasdaq 27,244.29 (+0.45%), SOX 12,559.35 (+1.01%), NVDA $228.18 (+0.35%), AMD $618.38 (+0.46%). Yields: ^TNX ~4.95%, ^TYX ~5.29%. Futures: ES ~7,838 / NQ ~30,966. Tape refresh with ADD snorkel-35 + cyera-gs-400 + verda-189.",
+    "line": "S&P 7,768.55 (+0.05%) · Dow 51,831.26 (-0.42%) · Nasdaq 27,244.29 (+0.45%) · SOX 12,559.35 (+1.01%) · NVDA $228.18 (+0.35%) · AMD $618.38 (+0.46%) · 10-year ~4.95% · 30-year ~5.29% · ES ~7,838 · NQ ~30,966 (cash open)"
   },
   "deskNote": {
-    "kicker": "Cognex–RealSense + AI IG bifurcation",
-    "hed": "Morning plate: Cognex ~$500M cash for RealSense; Reuters AI vs non-AI IG split.",
+    "kicker": "Snorkel $3.5B + Cyera $400M GS + Verda $189M",
+    "hed": "Mid-Morning plate: three AI financing adds; cash tape mixed (SOX/Nasdaq up, Dow soft).",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 135 Morning Edition — ADD cgnx-realsense + ai-ig-split (Quill) vs No. 134 Late Evening. PRIMARY: Cognex PR Newswire Sep 22 7:00 a.m. ET / 8-K accession 0000851205-26-000071 (~$500M cash; Q4 close; facial-auth spin-out; $56.5M retention + ~$50M RSUs). Companion: Reuters Sep 22 IG bifurcation (GS hyperscaler issuance ~$420B next year; AI spreads ~115 bp vs IG ~78 bp) paired with BlackRock BII Sep 21 weekly (AI/data-center bonds ~14% of U.S. IG issuance; financing demand could exceed $7.5T/yr by 2030). Pre-open tape: equity cash still Monday close; 10y/30y modestly softer; ES/NQ futures noted. Lead remains fomc-sep16. Declined: Hg–Anthropic expansion (already plated hg-anthropic-agentic); Apollo Kleinman higher-for-longer AI-financing color (opinion/fundraising); wholesaleinvestor Competition-for-Capital digest (secondary GS wrap). X search unavailable (API client-not-enrolled)."
+    "body": "Vol. 1 No. 136 Mid-Morning — ADD snorkel-35 + cyera-gs-400 + verda-189 (Quill) vs No. 135 Morning. PRIMARY: Reuters exclusive Sep 22 — Snorkel AI $350M at $3.5B (Insight/S32; ARR run-rate ~$350M). Companion: Business Wire Sep 22 7:15 a.m. ET — Cyera $400M Goldman Sachs Growth Equity Series G extension; valued >$12B. Companion: Verda company blog Sep 22 10am EEST — $189M/€163M Series B (Emergence); total funding >$450M; July ARR run-rate $165M. Cash tape ~10:25 a.m. ET: Nasdaq/SOX firm, Dow soft, NVDA modestly green; yields ~flat. Lead remains fomc-sep16. Declined: CoreWeave settle still unconfirmed (keep watch); SoftBank notes already plated (softbank-openai-bonds); DOJ–Nvidia–Groq recirculation (Sep 9–12 wires, already doj-nvda-groq); Anthropic–Lambda/MatX/DeepSeek valuation (no fresh print); Broadcom IR official Q3 transcript still not confirmed on IR (third-party Motley Fool exists; keep watch); Cognex follow-through (no material new fact beyond plated cgnx-realsense); Vista–Finastra / GFL dual-bid / CleanSpark notes (no fresh confirm). X search unavailable (API client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 135 Morning + cgnx-realsense / ai-ig-split. Cash open 9:30 a.m. ET. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22. Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript."
+    "line": "No. 136 Mid-Morning + snorkel-35 / cyera-gs-400 / verda-189. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (unconfirmed as of Mid-Morning). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,73 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "snorkel-35",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Financing / Training Data",
+      "hed": "Snorkel AI raises $350M at $3.5B; ARR run-rate ~$350M",
+      "dek": "Reuters exclusive Sep 22. Insight Partners and S32 co-lead; Addition, Greylock, Wells Fargo. Nearly 3x May 2025 $1.3B mark. Data-as-a-service + RL environments for frontier labs.",
+      "date": "Sept. 22, 2026",
+      "source": "Reuters (Krystal Hu exclusive)",
+      "url": "https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/",
+      "also": [
+        {
+          "label": "SRN News reprint of Reuters exclusive (same wire)",
+          "url": "https://srnnews.com/exclusive-snorkel-ai-valued-at-3-5-billion-amid-surging-demand-for-complex-ai-training-data/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / training-data financing as Mid-Morning Sep 22 plate (Reuters exclusive, Krystal Hu). PRIMARY: Snorkel AI raised $350 million at a $3.5 billion valuation; Insight Partners and S32 led; Addition, Greylock, Wells Fargo participated. Stick to Reuters figures only: nearly 3x the $1.3 billion valuation at the May 2025 $100 million raise; annualized revenue run-rate crossed $350 million (from ~$20 million a year earlier) on data-as-a-service launched Sep 2025; expects profitability this year; capital for researchers/engineers plus enterprise and government expansion. Do NOT invent OpenAI/Anthropic customer names or Exact round share. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Snorkel AI raised $350 million at a $3.5 billion valuation, CEO Alex Ratner told Reuters in an exclusive published Tuesday, as frontier labs pay up for complex training data and simulated reinforcement-learning environments.",
+        "Insight Partners and S32 led the round, with Addition, Greylock, and Wells Fargo participating. The mark is nearly three times the $1.3 billion valuation from Snorkel's May 2025 $100 million raise.",
+        "The San Francisco firm said its annualized revenue run-rate has crossed $350 million, up from roughly $20 million a year earlier, after shifting from software toward finished datasets and RL environments. Ratner said fresh capital will fund hiring plus enterprise and government expansion, and the company expects to reach profitability this year."
+      ]
+    },
+    {
+      "id": "cyera-gs-400",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Financing / AI Security",
+      "hed": "Cyera takes $400M Goldman Sachs Growth Equity into Series G; valued >$12B",
+      "dek": "Business Wire Sep 22 7:15 a.m. ET. GS Alternatives Growth Equity extension to Series G (Evolution Equity led). Agent data+identity platform; federal and EMEA/APAC expansion.",
+      "date": "Sept. 22, 2026",
+      "source": "Business Wire (Cyera) via FinancialContent",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-22-cyera-announces-400-million-investment-from-goldman-sachs-to-build-the-trust-layer-for-the-agentic-enterprise",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / security financing as Mid-Morning Sep 22 plate (Business Wire Sep 22 7:15 a.m. ET via FinancialContent mirror; direct BW blocked from desk fetch). PRIMARY: Cyera announced a $400 million extension from Growth Equity at Goldman Sachs Alternatives to its Series G (led by Evolution Equity). Stick to PR: valued at over $12 billion; proceeds for AI Security roadmap, federal expansion, and EMEA/APAC growth; Agent Guardian + Cyera Endpoint + Oasis Security NHI acquisition narrative per PR. Named customers in About: Paramount, Chipotle, Valvoline. Backers listed: Accel, Blackstone, Cyberstarts, Georgian, Lightspeed, Sequoia. Do NOT invent ARR, prior Series G size, or ownership %. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Cyera announced a $400 million investment from Growth Equity at Goldman Sachs Alternatives as an extension to its Series G, the company said in a Business Wire release dated Tuesday (7:15 a.m. ET), framing the raise as fuel for a unified data-and-identity platform aimed at AI agents.",
+        "The company said it is valued at over $12 billion. Proceeds will support the AI Security product roadmap, deeper federal-market expansion, and continued international growth across EMEA and APAC, per the release.",
+        "Cyera positioned Agent Guardian and Cyera Endpoint alongside its Oasis Security non-human-identity acquisition as the stack that ties sensitive data to who or what can reach it. Managing Director Irit Kahan of Growth Equity at Goldman Sachs Alternatives is quoted in the release on securing AI as a defining enterprise category."
+      ]
+    },
+    {
+      "id": "verda-189",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Financing / AI Cloud",
+      "hed": "Verda raises $189M/€163M Series B (Emergence); Europe AI-cloud unicorn",
+      "dek": "Company blog Sep 22 10am EEST. Emergence Capital leads oversubscribed Series B; MUFG IP, Supermicro, Varma, Lifeline, 6DC, byFounders, Tesi. Total funding >$450M; July ARR run-rate $165M.",
+      "date": "Sept. 22, 2026",
+      "source": "Verda (company blog / press release)",
+      "url": "https://verda.com/blog/verda-raises-189m",
+      "also": [
+        {
+          "label": "Tech.eu coverage of Verda $189M raise",
+          "url": "https://tech.eu/2026/09/22/verda-raises-189m-to-advance-its-ai-cloud-and-expand-compute-capacity/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra financing as Mid-Morning Sep 22 plate (Verda company blog dated Sep 22, 10am EEST Helsinki). PRIMARY: $189M/€163M new funding including oversubscribed Series B led by Emergence Capital; participants MUFG Innovation Partners, Supermicro, Varma, Lifeline Ventures, 6 Degrees Capital, byFounders, Tesi, angels (Ola Torudbakken, Mark Saroufim). Stick to company figures: total funding over $450M; July annualized revenue run-rate $165M; plans to multiply compute capacity over next year; inference investment; London and SF offices. Company calls itself Europe's latest unicorn (do not invent a precise post-money beyond that claim). Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Helsinki-based Verda said Tuesday it raised $189 million (€163 million) in new funding, including an oversubscribed Series B led by Emergence Capital, to scale its full-stack AI cloud and multiply compute capacity.",
+        "Participants include MUFG Innovation Partners, Supermicro, Varma Mutual Pension Insurance Company, Lifeline Ventures, 6 Degrees Capital, byFounders, Tesi, and angels including Ola Torudbakken and Mark Saroufim. Verda said total funding now exceeds $450 million and described itself as Europe's latest unicorn.",
+        "The company said it reached a $165 million annualized revenue run rate in July and will invest across inference and platform services while expanding further across Europe, the United States, and Asia."
+      ]
+    },
     {
       "id": "cgnx-realsense",
       "lead": false,
