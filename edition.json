@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 143,
+  "number": 144,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
   "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~6:02 p.m. ET - cash identical to Evening close. Session vs Monday close unchanged: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. AH futures: ES ~7,828 / NQ ~31,002 (vs Evening ES ~7,836 / NQ ~31,024). Tape refresh with ADD crwv-settle.",
-    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,828 · NQ ~31,002 (late evening)"
+    "updated": "Sep 22, ~7:06 p.m. ET - cash identical to Evening/No. 143. Session vs Monday close unchanged: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. AH futures: ES ~7,832 / NQ ~31,045 (vs No. 143 Late Evening ES ~7,828 / NQ ~31,002). Tape refresh with ADD prgs-domo-close.",
+    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,832 · NQ ~31,045 (late evening)"
   },
   "deskNote": {
-    "kicker": "Open-watch close into Late Evening",
-    "hed": "CoreWeave settles $4.2B converts; full option exercised.",
+    "kicker": "M&A close into Late Evening",
+    "hed": "Progress closes $400M Domo AI/data platform buy.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 143 Late Evening - ADD crwv-settle (Quill) vs No. 142 Evening. Form 8-K confirms Sep 22 close of $4.2B 2.875% converts due 2033 including full $500M option; net ~$4.137B; ~$566.2M capped calls. Evening deskNote and ~5:06 p.m. hourly still had settle unconfirmed. Cash tape identical to Evening; AH futures negligible drift (ES ~7,828 / NQ ~31,002). Lead remains fomc-sep16. SoftBank notes still price Sep 24. DeepSeek Yan Wentao CFO duty still Chinese secondary. DOJ-Nvidia-Groq unchanged. X API still unavailable (client-not-enrolled). Skipped below bar: Ande $52M, Spott $21M, Atum $13.5M, CellPoint/Toscafund $34M, AIUC $40M Series A."
+    "body": "Vol. 1 No. 144 Late Evening - ADD prgs-domo-close (Quill) vs No. 143 Late Evening. Progress Form 8-K (accepted ~12:09 p.m. ET) and Domo/Huckleberry.ai Form 8-K confirm Sep 22 close of previously announced $400M cash asset purchase; Domo renamed Huckleberry.ai, ticker HUCK from Sep 24; Domo received ~$221.0M cash after adjustments; credit facility terminated/liens released; ~$10.0M warrant repurchase. Cash tape identical; AH futures mild drift (ES ~7,832 / NQ ~31,045). Lead remains fomc-sep16. SoftBank notes still price Sep 24. DeepSeek Yan Wentao CFO duty still Chinese secondary (no Reuters confirm of start). DOJ-Nvidia-Groq unchanged. CoreWeave settle already on plate. X API still unavailable (client-not-enrolled). Skipped below bar: Venn/Zuma $50M, Host Digital Site II marketing, Hg Anthropic (already hg-anthropic-agentic), Snorkel PR follow (already snorkel-35)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 143 Late Evening + crwv-settle (CoreWeave $4.2B converts closed). SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave Fully Connected Sep 30-Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74-75B / CFO duty, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
+    "line": "No. 144 Late Evening + prgs-domo-close (Progress $400M Domo AI/data close; HUCK Sep 24). SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Progress PRGS earnings Sep 30 5pm ET (deal color). Oura price expected next week. Iambic pricing amendment TBD. CoreWeave Fully Connected Sep 30-Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74-75B / CFO duty start, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,38 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "prgs-domo-close",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Data Platform M&A",
+      "hed": "Progress closes $400M cash buy of Domo AI and data platform; Domo becomes Huckleberry.ai",
+      "dek": "Forms 8-K Sep 22 (Progress accepted ~12:09 p.m. ET). Asset purchase under July 22 APA; Domo keeps NOLs, gets ~$221.0M cash after adjustments; HUCK ticker Sep 24; facility terminated.",
+      "date": "Sept. 22, 2026",
+      "source": "SEC Form 8-K (Progress Software; Domo/Huckleberry.ai)",
+      "url": "https://www.sec.gov/Archives/edgar/data/876167/000155278126000497/e26389_prgs-8k.htm",
+      "also": [
+        {
+          "label": "Progress EDGAR index",
+          "url": "https://www.sec.gov/Archives/edgar/data/876167/000155278126000497/"
+        },
+        {
+          "label": "Domo/Huckleberry.ai Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1505952/000110465926109635/tm2625825d1_8k.htm"
+        },
+        {
+          "label": "Progress closing press release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/09/22/3366879/0/en/progress-software-completes-acquisition-of-domo-s-ai-and-data-platform-business.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / data-platform M&A as Late Evening Sep 22 plate (No. 144; midday 8-K miss vs Evening No. 142 and Late Evening No. 143). PRIMARY: Progress Form 8-K accession 0001552781-26-000497, accepted 2026-09-22T16:08:56Z (~12:09 p.m. ET), Items 2.01/7.01/9.01 — On Sep 22 completed previously announced purchase under July 22, 2026 Asset Purchase Agreement of substantially all Domo assets and employees (excluding Domo NOL carryforwards) and assumption of certain liabilities of Domo AI/data platform business (BI, viz, reporting, integration/analytics, embedded analytics, workflow/automation, AI-powered data products and AI agents, governance/management); aggregate purchase price $400 million cash funded via cash on hand and existing revolving credit facility; pro forma financials to follow by 8-K/A. PAIR Domo/Huckleberry.ai Form 8-K accession 0001104659-26-109635 accepted 2026-09-22T16:11:16Z — seller renamed Huckleberry.ai, Inc.; Nasdaq ticker HUCK effective Sep 24, 2026; received approximately $221.0 million cash after purchase-price adjustments, Warrant Repurchase, and other adjustments for Excluded Liabilities; terminated Amended and Restated Loan and Security Agreement with outstanding borrowings discharged and related liens/guaranties released; repurchased February/August 2024 warrants for approximately $10.0 million aggregate. Progress PR (Ex. 99.1 / GlobeNewswire) adds >2,400 businesses customer base and Sep 30 5:00 p.m. ET earnings-call color on financial impact — OK labeled from PR, not invent. Not MAJOR (close of previously announced deal). Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Progress Software completed its previously announced $400 million cash acquisition of substantially all of Domo’s AI and data-platform assets and employees on Sept. 22, excluding Domo’s net operating loss carryforwards, Progress said in a Form 8-K filed the same day.",
+        "The deal closed under an Asset Purchase Agreement dated July 22, 2026. Progress funded the purchase with cash on hand and its existing revolving credit facility and said it will file purchase financial statements and pro forma information in a later 8-K amendment.",
+        "Domo, which renamed itself Huckleberry.ai, Inc. at closing and will trade as HUCK on Nasdaq starting Sept. 24, said in its own Form 8-K that it received about $221.0 million in cash after purchase-price and other adjustments, repaid and terminated its credit facility with related liens released, and repurchased outstanding warrants for about $10.0 million. Progress’s closing release said the acquired platform adds a customer base of more than 2,400 businesses and that deal financial color will come on its Sept. 30 earnings call."
+      ]
+    },
     {
       "id": "crwv-settle",
       "lead": false,
