@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 138,
+  "number": 139,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Mid-Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~12:18 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,762.41 (−0.03%), Dow 51,806.39 (−0.47%), Nasdaq 27,191.71 (+0.26%), SOX 12,582.43 (+1.20%), NVDA $228.89 (+0.66%), AMD $617.05 (+0.25%). Yields: ^TNX ~4.97%, ^TYX ~5.31%. Futures: ES ~7,829 / NQ ~30,929. Tape refresh with ADD deepseek-un + accelevation-ipo + circle-binance-100 + meta-muse-ws.",
-    "line": "S&P 7,762.41 (−0.03%) · Dow 51,806.39 (−0.47%) · Nasdaq 27,191.71 (+0.26%) · SOX 12,582.43 (+1.20%) · NVDA $228.89 (+0.66%) · AMD $617.05 (+0.25%) · 10-year ~4.97% · 30-year ~5.31% · ES ~7,829 · NQ ~30,929 (mid-afternoon)"
+    "updated": "Sep 22, ~1:15 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,763.58 (−0.01%), Dow 51,814.10 (−0.45%), Nasdaq 27,208.90 (+0.32%), SOX 12,609.84 (+1.42%), NVDA $229.77 (+1.05%), AMD $617.90 (+0.39%). Yields: ^TNX ~4.97%, ^TYX ~5.31%. Futures: ES ~7,831 / NQ ~30,940. Tape refresh with ADD clickhouse-scarpelli + databank-cfo + crwv-rke.",
+    "line": "S&P 7,763.58 (−0.01%) · Dow 51,814.10 (−0.45%) · Nasdaq 27,208.90 (+0.32%) · SOX 12,609.84 (+1.42%) · NVDA $229.77 (+1.05%) · AMD $617.90 (+0.39%) · 10-year ~4.97% · 30-year ~5.31% · ES ~7,831 · NQ ~30,940 (afternoon)"
   },
   "deskNote": {
-    "kicker": "DeepSeek UNSC + Accelevation IPO + Circle/Binance + Muse Street",
-    "hed": "Mid-Afternoon plate: China AI at UNSC; DC-infra IPO terms; stablecoin stake; Muse monetization tape.",
+    "kicker": "ClickHouse board + DataBank CFO + CoreWeave RKE",
+    "hed": "Afternoon plate: AI-data CFO governance; colo CFO handoff; CRWV customer-held keys.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 138 Mid-Afternoon — ADD deepseek-un + accelevation-ipo + circle-binance-100 + meta-muse-ws (Quill) vs No. 137 Midday. PRIMARY: Reuters exclusive DeepSeek invited to Wed UNSC AI brief (Moonshot too; Liang not attending; Altman set). Companion Finance: Accelevation GlobeNewswire roadshow + Reuters wire up to $5.37B / $20–$24 / ACCV / Olympus ~85% vote; CNBC Binance $100M Circle stake at $80.84 + 5-yr USDC deal. Markets: Reuters Street Muse monetization (Apptopia downloads; Jefferies $10.8B scenario). Cash tape ~12:18 p.m. ET: SOX still firm (+1.2%), Nasdaq softer vs Midday, Dow still soft; deltas vs Midday modest aside SOX. Lead remains fomc-sep16. Open watches unchanged (Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24, CoreWeave settle Sep 22 still unconfirmed as of Mid-Afternoon, Oura price next week, Iambic amendment TBD). X search unavailable (API client-not-enrolled)."
+    "body": "Vol. 1 No. 139 Afternoon — ADD clickhouse-scarpelli + databank-cfo + crwv-rke (Quill) vs No. 138 Mid-Afternoon. PRIMARY: ClickHouse blog (ex-Snowflake CFO Scarpelli to board/Audit chair; ARR >$350M; $15B Series D). DataBank PR Newswire (Ben Lowe CFO; Ooley→CEO / Martynek→Exec Chair Jan 1 2027). SiliconANGLE exclusive CoreWeave Remote Key Encryption (customer-held keys; IBM/Vault launch partner; LA later this year). Cash tape ~1:15 p.m. ET: SOX still firm (+1.4%), Nasdaq modest green, Dow soft; deltas vs Mid-Afternoon modest. Lead remains fomc-sep16. Open watches unchanged (Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24, CoreWeave settle Sep 22 still unconfirmed as of Afternoon). X API unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 138 Mid-Afternoon + deepseek-un / accelevation-ipo / circle-binance-100 / meta-muse-ws. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Mid-Afternoon). Accelevation ACCV expected price week of Sep 28 (Renaissance). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
+    "line": "No. 139 Afternoon + clickhouse-scarpelli / databank-cfo / crwv-rke. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Afternoon); Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,73 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "clickhouse-scarpelli",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / AI Data Infra",
+      "hed": "ClickHouse adds ex-Snowflake CFO Mike Scarpelli to board as ARR tops $350M",
+      "dek": "Company blog Sep 22. Independent director and Audit Committee chair. Series D at $15B earlier this year; Jimmy Sexton remains CFO.",
+      "date": "Sept. 22, 2026",
+      "source": "ClickHouse (company blog)",
+      "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
+      "also": [
+        {
+          "label": "Business Wire / marketminute syndication",
+          "url": "https://appeal-democrat.marketminute.com/article/bizwire-2026-9-22-clickhouse-appoints-mike-scarpelli-former-snowflake-and-servicenow-cfo-to-board-of-directors"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Afternoon Sep 22 plate (company blog dated Sep 22; morning dateline missed on Mid-Afternoon). PRIMARY: ClickHouse blog Sep 22. Michael Scarpelli (ex-CFO Snowflake, ServiceNow, Data Domain; led each through IPO) joins Board as independent director and Audit Committee chair. Company says run-rate revenue surpassed $350M (from ~$200M end-2025); valued at $15B in Series D earlier this year; ~4,000 customers; ~800 employees / plan 1,000 by year-end; >half revenue outside US. Finance build-out note: Jimmy Sexton hired as CFO in 2025 (ex-Snowflake IR). Stick to company numbers; do not invent IPO timing. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "ClickHouse appointed Michael Scarpelli, the former Snowflake chief financial officer who previously held the same role at ServiceNow and Data Domain, to its Board of Directors as an independent director and Audit Committee chair, the company said in a blog post dated Tuesday.",
+        "The company said annualized revenue has surpassed $350 million, up from roughly $200 million at the end of 2025, and that it was valued at $15 billion in a Series D earlier this year. More than 4,000 customers use the platform, and ClickHouse employs nearly 800 people across 27 countries, with plans to reach 1,000 by year-end.",
+        "CEO Aaron Katz framed the appointment as governance for a consumption business at scale. Scarpelli joins a finance build-out that already includes CFO Jimmy Sexton, hired in 2025 after finance leadership roles at Snowflake and ServiceNow. Do not treat the board seat as an IPO filing."
+      ]
+    },
+    {
+      "id": "databank-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Digital Infrastructure",
+      "hed": "DataBank names Ben Lowe CFO as Ooley prepares CEO handoff for 2027",
+      "dek": "PR Newswire Sep 22 9:00 a.m. ET. Ex-Radius Global Infrastructure CFO and Crown Castle treasurer; AI/hyperscale demand cited.",
+      "date": "Sept. 22, 2026",
+      "source": "PR Newswire (DataBank)",
+      "url": "https://www.prnewswire.com/news-releases/databank-names-ben-lowe-as-chief-financial-officer-302885705.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Afternoon Sep 22 plate (PR Newswire 9:00 a.m. ET missed on earlier Sep 22 plates). PRIMARY: DataBank PR. Ben Lowe appointed CFO; leads finance, accounting, treasury, capital markets; reports to President and current CFO Kevin Ooley, who transitions to CEO Jan 1, 2027; current CEO Raul Martynek becomes Executive Chairman same date. Lowe most recently CFO at Radius Global Infrastructure (EQT Active Core Infrastructure / PSP portfolio); prior SVP Corporate Finance and Treasurer at Crown Castle. Company cites 70+ HPC-ready data centers in 25+ markets and AI/hyperscale demand. Stick to PR facts; no invented valuation. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "DataBank appointed Ben Lowe as Chief Financial Officer, the Dallas-based colocation and interconnection provider said in a PR Newswire release Tuesday morning.",
+        "Lowe will lead finance, accounting, treasury, and capital markets and report to President and current CFO Kevin Ooley, who is set to become CEO on January 1, 2027. Current CEO Raul Martynek will become Executive Chairman of the Board on the same date.",
+        "Lowe most recently was CFO at Radius Global Infrastructure, a portfolio company of EQT Active Core Infrastructure and PSP, and earlier was SVP of Corporate Finance and Treasurer at Crown Castle. DataBank said it operates 70-plus HPC-ready data centers across more than 25 markets as AI and hyperscale demand grows."
+      ]
+    },
+    {
+      "id": "crwv-rke",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Cloud Security",
+      "hed": "CoreWeave launches Remote Key Encryption so customer keys never sit on its cloud",
+      "dek": "SiliconANGLE exclusive Sep 22. Client-side keys; limited availability later this year with IBM as launch partner (Vault / KMIP).",
+      "date": "Sept. 22, 2026",
+      "source": "SiliconANGLE (Duncan Riley exclusive)",
+      "url": "https://siliconangle.com/2026/09/22/exclusive-coreweave-launches-remote-key-encryption-to-keep-customer-keys-off-its-cloud/",
+      "also": [
+        {
+          "label": "CoreWeave CISO bar-setting blog (context; dated Sep 12)",
+          "url": "https://www.coreweave.com/blog/the-bar-cisos-should-set-for-ai-infrastructure"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / cloud security as Afternoon Sep 22 plate (SiliconANGLE exclusive 7:00 a.m. ET catch-up). PRIMARY: SiliconANGLE Duncan Riley Sep 22. CoreWeave unveils Remote Key Encryption: encrypts customer data on CoreWeave infra with keys CoreWeave never holds; client-side in customer compute boundary; keys in customer secrets manager / KMS / HSM. First release protects AI Object Storage via HashiCorp Vault, Vault Enterprise, or KMIP-compatible KMS/HSM; IBM launch partner (IBM acquired HashiCorp Feb 2025). Limited availability later this year. Patent-pending key lifecycle approach per company. Quotes Andy Manoske and Paul Friedman blog post. Pair with open CoreWeave settle Sep 22 watch; do not invent settle status. Not MAJOR. Keep lead fomc-sep16. Owner Quill (Forge note only if product/engineering follow-up needed).",
+      "grafs": [
+        "CoreWeave unveiled Remote Key Encryption, a service that encrypts customer data on its AI cloud with keys the company itself never holds, SiliconANGLE reported in an exclusive Tuesday.",
+        "Encryption runs client-side inside the customer's compute boundary using keys generated and stored in the customer's existing secrets manager, KMS, or HSM. No key is imported into a CoreWeave-side key store, so the provider holds only ciphertext, the report said.",
+        "Remote Key Encryption enters limited availability later this year, with IBM as a launch partner. The first release protects data on CoreWeave AI Object Storage using HashiCorp Vault, Vault Enterprise, or any KMIP-compatible key product. CoreWeave's Fully Connected conference is set for San Francisco Sep 30 to Oct 1."
+      ]
+    },
     {
       "id": "deepseek-un",
       "lead": false,
