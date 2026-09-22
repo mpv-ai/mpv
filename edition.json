@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 140,
+  "number": 141,
   "city": "New York",
   "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Early Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~2:15 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,771.00 (+0.08%), Dow 51,876.45 (−0.33%), Nasdaq 27,242.18 (+0.44%), SOX 12,627.52 (+1.56%), NVDA $229.27 (+0.83%), AMD $621.23 (+0.93%). Yields: ^TNX ~4.96%, ^TYX ~5.29%. Futures: ES ~7,834 / NQ ~30,956. Tape refresh with ADD varda-cfo + go-ai-85.",
-    "line": "S&P 7,771.00 (+0.08%) · Dow 51,876.45 (−0.33%) · Nasdaq 27,242.18 (+0.44%) · SOX 12,627.52 (+1.56%) · NVDA $229.27 (+0.83%) · AMD $621.23 (+0.93%) · 10-year ~4.96% · 30-year ~5.29% · ES ~7,834 · NQ ~30,956 (late afternoon)"
+    "updated": "Sep 22, ~3:10 p.m. ET — Tuesday cash session. Session vs Monday close: S&P 7,768.66 (+0.05%), Dow 51,885.69 (−0.31%), Nasdaq 27,244.40 (+0.45%), SOX 12,644.49 (+1.70%), NVDA $229.60 (+0.98%), AMD $621.03 (+0.89%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. Futures: ES ~7,834 / NQ ~30,976. Tape refresh with ADD anthropic-opus-55 + firecrawl-75 + heidi-340 + baselayer-35 + hg-entersoftone.",
+    "line": "S&P 7,768.66 (+0.05%) · Dow 51,885.69 (−0.31%) · Nasdaq 27,244.40 (+0.45%) · SOX 12,644.49 (+1.70%) · NVDA $229.60 (+0.98%) · AMD $621.03 (+0.89%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,834 · NQ ~30,976 (early evening)"
   },
   "deskNote": {
-    "kicker": "Varda CFO + Go.AI $85M Series A",
-    "hed": "Late Afternoon plate: deep-tech CFO build; regulated on-prem AI raise.",
+    "kicker": "Claude Opus 5.5 + five same-day plate fills",
+    "hed": "Early Evening plate: Anthropic frontier drop; funding and Hg Greece fill.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 140 Late Afternoon — ADD varda-cfo + go-ai-85 (Quill) vs No. 139 Afternoon. PRIMARY: Varda PR Newswire 12:08 p.m. ET (Aaron Huber CFO + Steve Layne CRO; six missions; nine reentries goal). Go.AI Business Wire 8:00 a.m. ET missed earlier ($85M Series A / Updata; total $90M; >200 customers; ARR >8x; profitable). Cash tape ~2:15 p.m. ET: SOX still firm (+1.6%), Nasdaq modest green, Dow soft; deltas vs Afternoon modest (S&P flipped tiny green; AMD firmer). Lead remains fomc-sep16. CoreWeave settle Sep 22 still unconfirmed (no close PR found). SoftBank notes still price Sep 24. Open watches unchanged (Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24, CoreWeave settle Sep 22). X API unavailable (client-not-enrolled)."
+    "body": "Vol. 1 No. 141 Early Evening — ADD anthropic-opus-55 + firecrawl-75 + heidi-340 + baselayer-35 + hg-entersoftone (Quill) vs No. 140 Late Afternoon. PRIMARY: Anthropic launches Claude Opus 5.5 (first Claude 5.5; ~40% cheaper than Opus 5; Fable 5.1-class on most work; $4/$20 per MTok; bio/cyber safeguards; Sonnet/Haiku 5.5 coming weeks). Same-day gaps: Firecrawl $75M Series B (Smash) + Alexandria; Heidi $100M Series C at $900M + $240M GC CVF ($340M); Baselayer $35M Series A (M13) Know-Your-Agent; Hg majority in EnterSoftone ~€1B (first Greece). Cash tape ~3:10 p.m. ET: SOX still firm (+1.7%), Nasdaq modest green, Dow soft; deltas vs Late Afternoon negligible. Lead remains fomc-sep16. CoreWeave settle Sep 22 still unconfirmed. SoftBank notes still price Sep 24. Broadcom IR Q3 transcript now available (watch close). DeepSeek: Yan Wentao reported on duty as CFO (Chinese secondary; pair deepseek-cfo/citic). Open watches otherwise unchanged. X API unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 140 Late Afternoon + varda-cfo / go-ai-85. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Late Afternoon); Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary, Broadcom IR Q3 transcript, SoftBank notes Sep 24."
+    "line": "No. 141 Early Evening + anthropic-opus-55 / firecrawl-75 / heidi-340 / baselayer-35 / hg-entersoftone. SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave settle Sep 22 (still unconfirmed as of Early Evening); Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Broadcom Q3 transcript available (watch closed). Still OPEN: Bloomberg >15%, Anthropic–Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B / CFO duty, DOJ–Nvidia–Groq, Vista–Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
   },
   "sections": [
     "All",
@@ -28,6 +28,120 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-opus-55",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Frontier Models",
+      "hed": "Anthropic launches Claude Opus 5.5, first of Claude 5.5 family, ~40% cheaper than Opus 5",
+      "dek": "Sep 22. Fable 5.1-level on most work; $4/$20 per MTok input/output; cache reads $0.20/M; AWS/GCP/Azure; bio/cyber safeguards; Sonnet and Haiku 5.5 coming weeks.",
+      "date": "Sept. 22, 2026",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "also": [
+        {
+          "label": "BNN Bloomberg write-up",
+          "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/22/anthropic-unveils-claude-opus-55/"
+        },
+        {
+          "label": "Claude Platform docs",
+          "url": "https://platform.claude.com/docs/en/models/opus-5-5/overview"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI as Early Evening Sep 22 plate (same-day Anthropic product launch missed on Late Afternoon). PRIMARY: Anthropic blog Sep 22 — Claude Opus 5.5, first Claude 5.5 family model; performs at Claude Fable 5.1 level on most work; costs ~40% less to run than Opus 5 on typical workloads. Pricing: $4 / $20 per million input/output tokens (20% below Opus 5); cache reads $0.20/M (60% below); cache writes $5/M. API id claude-opus-5-5; available on Claude, API, Amazon Bedrock, Google Cloud, Microsoft Azure. Pre-release external evals include Frontier Design and METR; company says strongest on automated behavioral audit to date. Biology/cyber comparable to Mythos 5.1 → Life Sciences and Cyber Verification programs (safeguards similar to Fable 5.1). Claude Sonnet 5.5 and Haiku 5.5 to follow in coming weeks. Stick to Anthropic numbers; do not invent revenue or user counts. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Anthropic introduced Claude Opus 5.5 on Tuesday as the first model in its Claude 5.5 family, saying it performs at Claude Fable 5.1 level on most work and costs about 40 percent less to run than Opus 5 on typical workloads.",
+        "List prices are $4 per million input tokens and $20 per million output tokens, 20 percent below Opus 5, with cache reads at $0.20 per million tokens. The model is available now on Claude, the Claude API as claude-opus-5-5, and through Amazon Web Services, Google Cloud, and Microsoft Azure.",
+        "Anthropic said Opus 5.5 was tested before release by external evaluators including Frontier Design and METR and is its strongest-performing model to date on its automated behavioral audit. Because biology and cybersecurity capability is comparable to Claude Mythos 5.1, it ships with safeguards similar to Fable 5.1, including Life Sciences and Cyber Verification programs. Claude Sonnet 5.5 and Claude Haiku 5.5 are slated for the coming weeks."
+      ]
+    },
+    {
+      "id": "firecrawl-75",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Agent Data",
+      "hed": "Firecrawl raises $75M Series B led by Smash and launches Alexandria knowledge layer",
+      "dek": "Company blog Sep 22. Altos, Nexus, YC, Freestyle, Offline join. Pay-for-knowledge path; Wikimedia Enterprise already a provider.",
+      "date": "Sept. 22, 2026",
+      "source": "Firecrawl (company blog)",
+      "url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI as Early Evening Sep 22 plate (same-day morning miss). PRIMARY: Firecrawl blog Sep 22 by CEO Caleb Peffer — $75M Series B led by Smash Capital; Altos Ventures, Nexus Venture Partners, Y Combinator, Freestyle, Offline Ventures participate. Same day launches Alexandria: live web + official data providers + Firecrawl indexes/connectors for AI agents via existing Firecrawl API/MCP. Funding to expand sources and self-service pay-contributors path; Wikimedia Enterprise already cited as paid provider. Claims >1.5M users; Research/Developer/Government indexes; agents using Alexandria scored 21% higher on answer quality across 845 tasks (company test). Stick to blog numbers; no invented valuation. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Firecrawl raised a $75 million Series B led by Smash Capital, with participation from Altos Ventures, Nexus Venture Partners, Y Combinator, Freestyle, and Offline Ventures, CEO Caleb Peffer said in a company blog post Tuesday.",
+        "The same day Firecrawl launched Alexandria, a knowledge layer that combines the live web, official data providers, custom connectors, and Firecrawl indexes so AI agents can discover sources and retrieve through the existing Firecrawl API and MCP.",
+        "Proceeds will expand sources and a planned self-service path for individuals and organizations to earn when agents use their knowledge. Firecrawl said it already pays providers including Wikimedia Enterprise and that more than 1.5 million users build with the product."
+      ]
+    },
+    {
+      "id": "heidi-340",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Health",
+      "hed": "Heidi closes $100M Series C at $900M plus $240M GC CVF growth capital",
+      "dek": "Company / Business Wire Sep 22. Blackbird leads equity; Phoenix Court, Point72 PI, Headline; $340M combined; agentic clinical workflows.",
+      "date": "Sept. 22, 2026",
+      "source": "Heidi (company blog) / Business Wire",
+      "url": "https://www.heidihealth.com/en-au/blog/heidi-secures-us340m-to-scale-agents-across-health-systems-globally",
+      "also": [
+        {
+          "label": "Business Wire syndication (Wedbush)",
+          "url": "https://investor.wedbush.com/wedbush/article/bizwire-2026-9-22-heidi-secures-us340m-to-scale-agents-across-health-systems-globally"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / health as Early Evening Sep 22 plate (morning wire miss). PRIMARY: Heidi blog / Business Wire Sep 22 — US$100M Series C led by Blackbird; Phoenix Court, Point72 Private Investments, Headline participate; valuation US$900M. Plus US$240M growth investment led by General Catalyst Customer Value Fund; combined new funding US$340M. Use of proceeds: health-system adoption and supervised agentic capabilities beyond documentation. Company cites ~2.8M patient visits/week, 190 countries, 110 languages; ARR from $1M to $50M (April 2026) in two years; total raised $436.6M. Stick to PR; do not invent US hospital contract values. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Heidi, the clinician AI Care Partner, closed a $100 million Series C led by Blackbird at a $900 million valuation and separately secured a $240 million growth investment led by General Catalyst’s Customer Value Fund, bringing combined new funding to $340 million, the company said Tuesday.",
+        "Existing investors Phoenix Court, Point72 Private Investments, and Headline participated in the equity round. Heidi said it will deepen health-system adoption and extend supervised agentic capabilities beyond visit documentation.",
+        "The company said its platform supports about 2.8 million patient visits a week across 190 countries and 110 languages, with annual recurring revenue rising from $1 million to $50 million as of April 2026 over two years, and total capital raised of $436.6 million."
+      ]
+    },
+    {
+      "id": "baselayer-35",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "AI / Agentic Identity",
+      "hed": "Baselayer raises $35M Series A led by M13 for Know-Your-Agent suite",
+      "dek": "Crunchbase News exclusive Sep 22. Picus, Torch, Afore, Socure’s Matt Thompson; ~$40M total; 2,000+ FIs; valuation undisclosed.",
+      "date": "Sept. 22, 2026",
+      "source": "Crunchbase News (Mary Ann Azevedo exclusive)",
+      "url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+      "also": [
+        {
+          "label": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/09/22/with-35m-in-series-a-funding-baselayer-is-building-the-trust-layer-for-the-agentic-economy/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / agentic identity as Early Evening Sep 22 plate (same-day miss). PRIMARY: Crunchbase News exclusive Sep 22 — Baselayer (fka Osiris Ratings context in some coverage) raises $35M Series A led by M13; Picus Capital, Torch Capital, Afore Capital, Matt Thompson (Socure) participate; ~$40M cumulative since 2023; valuation declined. Launching Agentic Identity Suite / Know Your Agent credentials for agentic commerce. Claims 2,000+ FI customers / >20% of U.S. institutions; eight-figure revenue (no exact figure); ~50 employees. Stick to Crunchbase; do not invent valuation. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Baselayer raised $35 million in Series A funding led by M13, with participation from Picus Capital, Torch Capital, Afore Capital, and Socure’s Matt Thompson, bringing total funding to about $40 million, Crunchbase News reported in an exclusive Tuesday.",
+        "Alongside the raise, the San Francisco company is launching an Agentic Identity Suite aimed at Know-Your-Agent credentials so merchants and financial institutions can verify that an AI agent is authorized to act for a person or business.",
+        "CEO Jonathan Awad said more than 2,000 financial institutions, over 20 percent of U.S. institutions, use Baselayer for business identity and fraud risk, and that the company reached eight-figure revenue in less than two years without disclosing an exact figure or valuation."
+      ]
+    },
+    {
+      "id": "hg-entersoftone",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / European Software",
+      "hed": "Hg takes majority stake in Greek ERP vendor EnterSoftone at about €1B",
+      "dek": "HgCapital Trust RNS Sep 22. First Greece deal; HgT ~£33M via Genesis; Olympia/Imker/mgmt retain; AI via Hg Catalyst; close later 2026.",
+      "date": "Sept. 22, 2026",
+      "source": "HgCapital Trust (RNS) / EnterSoftone",
+      "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-an-investment-in-entersoftone/9784373",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE as Early Evening Sep 22 plate (RNS same-day miss; distinct from hg-anthropic-agentic already on plate). PRIMARY: HgCapital Trust RNS Sep 22 — majority investment in EnterSoftone (ES1); values business ~€1B; Hg’s first Greek-HQ deal. HgT invests ~£33M alongside Hg Genesis institutional clients. Olympia Group, Imker Group, and management retain significant shareholdings. Cloud transition + AI products via Hg Catalyst; expected close later 2026 subject to customary conditions. ES1: 90,000+ clients Greece/SE Europe ERP/CRM/e-invoicing (Entersoft+Softone 2025 merger). Stick to RNS; terms otherwise undisclosed. Not MAJOR. Keep lead fomc-sep16. Owner Quill.",
+      "grafs": [
+        "Hg announced a majority investment in EnterSoftone, valuing the Greek ERP and business-software group at around €1 billion, in what the firm called its first investment in a Greek-headquartered company, HgCapital Trust said in an RNS dated Tuesday.",
+        "HgCapital Trust will invest approximately £33 million alongside other institutional clients of Hg through the Hg Genesis Fund. Existing shareholders Olympia Group and Imker Group, together with management led by CEO Antonis Kotzamanidis, will retain significant stakes.",
+        "Hg said it will support EnterSoftone’s cloud transition and AI product build via Hg Catalyst. The company serves more than 90,000 clients across Greece and Southeast Europe. The transaction is expected to close later in 2026, subject to customary conditions."
+      ]
+    },
     {
       "id": "varda-cfo",
       "lead": false,
