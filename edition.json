@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 153,
+  "number": 154,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Late Evening",
+  "editionLabel": "Evening Close",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~6:10 pm ET - Wednesday cash close + after-hours futures refresh (Yahoo Finance chart). Session vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,775.00 / NQ ~30,800.50.",
-    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,775.00 · NQ ~30,800.50 (Wed cash close / AH futures)"
+    "updated": "Sep 23, ~7:10 pm ET - Wednesday cash close held; AH futures refresh (Yahoo Finance chart). Session vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,775.00 / NQ ~30,793.50.",
+    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,775.00 · NQ ~30,793.50 (Wed cash close / AH futures)"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Evening",
-    "hed": "Claude finds ART enzymes; Altman-Amodei brief UNSC.",
+    "kicker": "AI desk into Evening Close",
+    "hed": "Teamshares $225M preferred; Diageo picks Wilson as CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 153 Late Evening - ADD anthropic-art, altman-amodei-un, flutterwave-cfo, digitec-cfo (all Quill) vs No. 152 Early Evening. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final coupons/size on primary wires as of ~6:10 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Anthropic: company blog + preprint - Claude agents found phage ART (RT + partner + CRISPR-like repeats); function unknown; Feng Zhang comment as published. UNSC: CNBC - Altman and Amodei briefed Wednesday (follow to deepseek-un invite). CFO: Flutterwave Olufemi; DIGITEC Schneegass. Tape: cash prints flat vs Early Evening plate; SOX day chg corrected to Yahoo -1.23% (was mis-signed +0.81% on No. 152); Nasdaq day chg aligned to Yahoo -1.13%; AH futures drift ES ~7,775 / NQ ~30,800."
+    "body": "Vol. 1 No. 154 Evening Close - ADD teamshares-225, diageo-cfo (both Quill) vs No. 153 Late Evening. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final coupons/size on primary wires as of ~7:10 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Teamshares: GlobeNewswire 4:15 p.m. ET miss - $225M TRPIM preferred for SME M&A (16% cash div; +$75M capacity). Diageo: Reuters - WPP CFO Joanne Wilson succeeds Jhangiani in 2027. Tape: cash prints flat vs Late Evening; AH NQ ~30,793.50 (was ~30,800.50); ES ~7,775 held."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 153 Late Evening + anthropic-art + altman-amodei-un + flutterwave-cfo + digitec-cfo; softbank-notes-ipg still MAJOR (no final coupons; price Thu Sep 24 / settle Sep 29). Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 154 Evening Close + teamshares-225 + diageo-cfo; softbank-notes-ipg still MAJOR (no final coupons; price Thu Sep 24 / settle Sep 29). Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,54 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "teamshares-225",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / PE",
+      "hed": "Teamshares closes $225M T. Rowe preferred equity for SME acquisition growth",
+      "dek": "GlobeNewswire Sep 23 4:15 p.m. ET: NASDAQ:TMS tech-enabled SME acquirer closed $225M Series A perpetual non-voting non-convertible preferred from T. Rowe Price Investment Management–advised accounts (funded net of 1% OID); option for +$75M same series. Dividend 16% cash (14.5% if deleveraging/EBITDA thresholds); PIK at premium. Use: programmatic acquisitions. CEO Brown: >15k size-qualified SMEs/yr funnel; LOIs beyond $30M EBITDA under LOI. GS exclusive FA.",
+      "date": "Sept. 23, 2026",
+      "source": "GlobeNewswire (Teamshares)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367849/0/en/teamshares-announces-225-million-preferred-equity-investment.html",
+      "also": [
+        {
+          "label": "Company IR / 8-K pointer (via PR)",
+          "url": "https://investors.teamshares.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / PE as Evening Close Sep 23 (No. 154; 4:15 p.m. ET GlobeNewswire miss vs Nos. 150-153). PRIMARY company PR: $225M Series A perpetual preferred from TRPIM-advised accounts; non-voting non-convertible; +$75M capacity; funded net of 1% OID; 16% cash dividend (step-down 14.5% on thresholds) / PIK at premium; subordinated to senior debt; callable with make-whole. Use for SME acquisitions ($0.5–$5M EBITDA targets). Cite CEO Brown funnel (>15k) and $30M+ EBITDA under LOI only as PR. GS FA; Mayer Brown / Nelson Mullins counsel. Do NOT invent close price or valuation. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Teamshares (NASDAQ: TMS), the tech-enabled acquirer of small and medium-sized businesses, said September 23 it closed a $225 million preferred equity investment from accounts advised by T. Rowe Price Investment Management, according to a GlobeNewswire company release timed 4:15 p.m. ET.",
+        "The Series A preferred is perpetual, non-voting and non-convertible, with capacity to issue up to an additional $75 million of the same series to other institutional investors. The company said the funded amount is net of a 1% original issue discount and carries a 16% cash dividend that can step down to 14.5% if specified deleveraging and EBITDA thresholds are met, with a pay-in-kind election at a premium.",
+        "Proceeds are primarily for programmatic acquisitions. CEO Michael Brown cited a software funnel of more than 15,000 size-qualified, actively-for-sale SMEs per year and said the firm has signed additional LOIs beyond the $30 million of EBITDA under LOI disclosed on its recent earnings call. CFO Brian Gaebe said acquisition returns look attractive versus the blended financing cost. Goldman Sachs & Co. LLC was exclusive financial advisor."
+      ]
+    },
+    {
+      "id": "diageo-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Diageo names WPP CFO Joanne Wilson as finance chief; Jhangiani to exit in 2027 handover",
+      "dek": "Reuters Sep 23: Diageo CEO Dave Lewis appointed Joanne Wilson (WPP CFO; prior Tesco/Dunnhumby/Britvic) to succeed Nik Jhangiani sometime in 2027. Jhangiani joined 2024 from CCEP, served interim CEO Jul–Dec 2025 after Debra Crew exit. Lewis–Wilson Tesco overlap. Spirits Business: Wilson NED at Informa; Lewis cites turnaround acceleration after capital markets day.",
+      "date": "Sept. 23, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/diageo-ropes-wpp-finance-boss-joanne-wilson-cfo-2026-09-23/",
+      "also": [
+        {
+          "source": "The Spirits Business",
+          "url": "https://www.thespiritsbusiness.com/2026/09/diageo-names-cfo-replacement-for-nik-jhangiani/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Evening Close Sep 23 (No. 154; Reuters morning miss vs Nos. 145-153). PRIMARY Reuters: Wilson (WPP CFO) replaces Jhangiani in 2027; Lewis Tesco colleague overlap; Jhangiani two years in post, interim CEO 2025. PAIR Spirits Business for Britvic/Dunnhumby/Informa NED color and Lewis quote on turnaround. Do NOT invent start date or severance. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Diageo appointed Joanne Wilson, finance chief of WPP, as its next chief financial officer, Reuters reported September 23, succeeding Nik Jhangiani on an unspecified date in 2027.",
+        "Wilson previously held senior finance and commercial roles at Britvic, Tesco data unit Dunnhumby, Tesco and KPMG, and is a non-executive director of Informa, according to The Spirits Business. Her Tesco tenure overlapped with Diageo CEO Dave Lewis, who led Tesco from 2014 to 2020.",
+        "Jhangiani joined Diageo in 2024 from Coca-Cola Europacific Partners and served as interim CEO from July to December 2025 after Debra Crew's departure. Lewis said he and Jhangiani agreed the change was timely after sharing the new strategy with investors; Jhangiani will remain through a handover. TD Securities' Seamus Cassidy told Reuters the move may align the leadership team with Lewis's strategic vision."
+      ]
+    },
     {
       "id": "anthropic-art",
       "lead": false,
