@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 150,
+  "number": 151,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Afternoon Close",
+  "editionLabel": "Market Close",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~3:14 pm ET - Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,709.51 (-0.71%), Dow 51,552.84 (-0.60%), Nasdaq 26,945.57 (-1.10%), SOX 12,506.35 (-1.45%), NVDA $225.28 (-1.57%), AMD $613.62 (-1.63%). Yields: ^TNX ~5.12%, ^TYX ~5.40%. Futures: ES ~7,773.50 / NQ ~30,745.75.",
-    "line": "S&P 7,709.51 (-0.71%) · Dow 51,552.84 (-0.60%) · Nasdaq 26,945.57 (-1.10%) · SOX 12,506.35 (-1.45%) · NVDA $225.28 (-1.57%) · AMD $613.62 (-1.63%) · 10-year ~5.12% · 30-year ~5.40% · ES ~7,773.50 · NQ ~30,745.75 (Wed session)"
+    "updated": "Sep 23, ~4:03 pm ET - Wednesday cash session near close (Yahoo Finance). Session vs Tuesday close: S&P 7,706.09 (-0.75%), Dow 51,511.77 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,766.25 / NQ ~30,734.75.",
+    "line": "S&P 7,706.09 (-0.75%) · Dow 51,511.77 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,766.25 · NQ ~30,734.75 (Wed near close)"
   },
   "deskNote": {
-    "kicker": "AI capital stack into Afternoon Close",
-    "hed": "Bird $450M debt; Ema $77M Series B.",
+    "kicker": "PE desk into Market Close",
+    "hed": "Pollen Street explores take-private; EQT opens Abu Dhabi.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 150 Afternoon Close - ADD bird-450, ema-77 (both Quill) vs No. 149 Mid Afternoon. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~3:14 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Bird: CNW - $450M JPM-led debt ($400M term+$50M revolver), dividend recap; Agentic Harness launch. Ema: GlobeNewswire/TechCrunch - $77M Series B led by Creaegis; Accel, S32, Prosus; total $140M; valuation quadrupled but undisclosed. Declined Upwind-Aegis (undisclosed price). Tape refresh only vs ~2:16 p.m. plate (still soft vs Tuesday; small further drift)."
+    "body": "Vol. 1 No. 151 Market Close - ADD pollen-street-options, eqt-me-adgm (both Quill) vs No. 150 Afternoon Close. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~4:03 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Pollen: Reuters - exploring options including take-private; preliminary talks; shares +16.6% to 950p; £8.4B AUM. EQT: company - Middle East platform + ADGM office; Mahtani/Belrhiti; USD 389B AUM. Tape refresh only vs ~3:14 p.m. plate (still soft vs Tuesday; small further drift into the cash close)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 150 Afternoon Close + bird-450 + ema-77; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 151 Market Close + pollen-street-options + eqt-me-adgm; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,49 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "pollen-street-options",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "PE / Asset managers",
+      "hed": "Pollen Street explores options including take-private; shares jump after Reuters",
+      "dek": "Reuters Sep 23: London-listed PE/credit firm (£8.4B / ~$11.2B AUM) says it is exploring strategic options including a take-private and has begun preliminary talks with a limited number of parties. Shares rose as much as 16.6% to 950p. Reuters had flagged mid-sized PE and existing shareholder Wafra as potential buyers; company did not name parties.",
+      "date": "Sept. 23, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/uks-pollen-street-has-weighed-options-including-sale-sources-say-2026-09-23/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Markets / PE as Market Close Sep 23 (No. 151). PRIMARY Reuters: company statement after exclusive — exploring strategic options including take-private; preliminary talks with limited parties; £8.4B AUM PE+credit; shares +16.6% intraday to 950p. Cite Wafra/mid-sized PE only as Reuters sourcing on potential buyers, not as confirmed bidders. Do NOT invent offer price or process timeline. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "London-listed Pollen Street said September 23 it is exploring strategic options, including a take-private transaction, and has begun preliminary talks with a limited number of parties about a possible offer for the private capital firm, Reuters reported.",
+        "The statement followed a Reuters exclusive that the firm, which manages £8.4 billion ($11.22 billion) across private equity and private credit, had been working on options with an adviser as it seeks asset-management scale. Shares rose as much as 16.6% to 950p, their highest level since January, according to Reuters.",
+        "Reuters said potential buyers include mid-sized private equity firms as well as existing shareholder Wafra, which bought a minority stake in 2020 through Capital Constellation; Pollen Street did not name the parties it is speaking to. The company was formed in 2022 from the combination of Honeycomb Investment Trust and manager Pollen Street Capital, with holdings that include Markerstudy, UK challenger bank Shawbrook and Dutch digital lender bunq."
+      ]
+    },
+    {
+      "id": "eqt-me-adgm",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "PE / Gulf capital",
+      "hed": "EQT launches Middle East platform and opens Abu Dhabi ADGM office",
+      "dek": "EQT company release Sep 23: first GCC on-the-ground office in ADGM; platform spans Private Equity and Infrastructure under One EQT. Jimmy Mahtani named Chairman of GCC; Smiyet Belrhiti Head of Middle East / SEO. Firm cites USD 389B AUM; portfolio ties include Nord Anglia, Virtusa, Banking Circle, Nothing, SAUR.",
+      "date": "Sept. 23, 2026",
+      "source": "EQT Group; Reuters",
+      "url": "https://eqtgroup.com/news/eqt-launches-middle-east-platform-and-opens-abu-dhabi-office-2026-09-23",
+      "also": [
+        {
+          "label": "Reuters write-up",
+          "url": "https://www.reuters.com/world/middle-east/private-equity-firm-eqt-launches-middle-east-platform-opens-abu-dhabi-office-2026-09-23/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / PE as Market Close Sep 23 (No. 151). PRIMARY EQT press: Middle East platform + ADGM Abu Dhabi office; Mahtani Chairman of GCC; Belrhiti Head of Middle East/SEO; USD 389B AUM as of 30 Jun 2026; themes include digital/AI infrastructure alongside healthcare, education, industrials, energy transition. Cite named portfolio companies only as EQT listed. Distinct from eqt-coller / eqt-mcgill. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Swedish private markets firm EQT said September 23 it launched a dedicated Middle East platform and opened an office in Abu Dhabi Global Market, establishing its first on-the-ground GCC presence, according to a company release.",
+        "EQT, which reported USD 389 billion in total assets under management as of June 30, 2026, said the platform will deepen support for existing portfolio companies, build on institutional relationships in the region, and pursue new investments across Private Equity and Infrastructure under its One EQT model. Themes cited include healthcare and life sciences, education, digital and technology, industrials, business services, infrastructure and energy transition, including digital and AI infrastructure.",
+        "Jimmy Mahtani was appointed Chairman of GCC alongside his India and Southeast Asia private-capital chair role; Smiyet Belrhiti leads the Abu Dhabi office as Head of Middle East and Senior Executive Officer. EQT said portfolio companies with an established regional presence include Nord Anglia Education, Virtusa, Banking Circle, Nothing and SAUR. Reuters separately reported the same platform and office launch."
+      ]
+    },
     {
       "id": "bird-450",
       "lead": false,
