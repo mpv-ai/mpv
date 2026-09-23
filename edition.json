@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 149,
+  "number": 150,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Mid Afternoon",
+  "editionLabel": "Afternoon Close",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~2:16 pm ET - Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,713.47 (-0.66%), Dow 51,578.47 (-0.55%), Nasdaq 26,951.58 (-1.07%), SOX 12,517.27 (-1.36%), NVDA $225.44 (-1.50%), AMD $613.90 (-1.58%). Yields: ^TNX ~5.12%, ^TYX ~5.40%. Futures: ES ~7,778 / NQ ~30,743.",
-    "line": "S&P 7,713.47 (-0.66%) · Dow 51,578.47 (-0.55%) · Nasdaq 26,951.58 (-1.07%) · SOX 12,517.27 (-1.36%) · NVDA $225.44 (-1.50%) · AMD $613.90 (-1.58%) · 10-year ~5.12% · 30-year ~5.40% · ES ~7,778 · NQ ~30,743 (Wed session)"
+    "updated": "Sep 23, ~3:14 pm ET - Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,709.51 (-0.71%), Dow 51,552.84 (-0.60%), Nasdaq 26,945.57 (-1.10%), SOX 12,506.35 (-1.45%), NVDA $225.28 (-1.57%), AMD $613.62 (-1.63%). Yields: ^TNX ~5.12%, ^TYX ~5.40%. Futures: ES ~7,773.50 / NQ ~30,745.75.",
+    "line": "S&P 7,709.51 (-0.71%) · Dow 51,552.84 (-0.60%) · Nasdaq 26,945.57 (-1.10%) · SOX 12,506.35 (-1.45%) · NVDA $225.28 (-1.57%) · AMD $613.62 (-1.63%) · 10-year ~5.12% · 30-year ~5.40% · ES ~7,773.50 · NQ ~30,745.75 (Wed session)"
   },
   "deskNote": {
-    "kicker": "AI capital stack into Mid Afternoon",
-    "hed": "Enveda $311M Series E; Hubble $200M at $1.6B.",
+    "kicker": "AI capital stack into Afternoon Close",
+    "hed": "Bird $450M debt; Ema $77M Series B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 149 Mid Afternoon - ADD enveda-311, hubble-200 (both Quill) vs No. 148 Late Afternoon. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~2:16 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Enveda: Business Wire - $311M Series E led by Catalio; total >$845M; Petrocheilos to board; no valuation in PR. Hubble: company/GeekWire - $200M Series C at $1.6B; Smith Point lead; total $300M. Tape refresh only vs ~1:19 p.m. plate (modest bounce; still soft vs Tuesday)."
+    "body": "Vol. 1 No. 150 Afternoon Close - ADD bird-450, ema-77 (both Quill) vs No. 149 Mid Afternoon. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~3:14 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Bird: CNW - $450M JPM-led debt ($400M term+$50M revolver), dividend recap; Agentic Harness launch. Ema: GlobeNewswire/TechCrunch - $77M Series B led by Creaegis; Accel, S32, Prosus; total $140M; valuation quadrupled but undisclosed. Declined Upwind-Aegis (undisclosed price). Tape refresh only vs ~2:16 p.m. plate (still soft vs Tuesday; small further drift)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 149 Mid Afternoon + enveda-311 + hubble-200; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 150 Afternoon Close + bird-450 + ema-77; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,62 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "bird-450",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI / Credit",
+      "hed": "Bird.com closes $450M JPMorgan-led debt; launches Agentic Harness for AI agents",
+      "dek": "CNW/PR Newswire Sep 23 10:45 ET: $400M term loan + $50M revolver led by J.P. Morgan with Capital One and Citi; dividend recap for shareholder/employee liquidity. Also unveils Agentic Harness for agent messaging/voice/email/eSIM. Cited $165M 2025 EBITDA; headcount ~120 vs >1,000 peak.",
+      "date": "Sept. 23, 2026",
+      "source": "CNW / PR Newswire (Bird.com); Tech.eu",
+      "url": "https://www.newswire.ca/news-releases/bird-com-secures-450m-financing-as-it-launches-communications-infrastructure-for-ai-agents-817022361.html",
+      "also": [
+        {
+          "label": "Tech.eu debt + headcount color",
+          "url": "https://tech.eu/2026/09/23/bird-raises-450m-in-debt-headcount-cut-from-1000-to-120/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI credit as Afternoon Close Sep 23 (No. 150). Morning 10:45 ET CNW miss vs Nos. 145-149. PRIMARY: $450M debt ($400M term + $50M revolver) led by J.P. Morgan with Capital One and Citi; dividend recap liquidity for existing shareholders/employees — not a growth equity round. Pair with Agentic Harness launch for AI agent communications. Cite company $165M 2025 EBITDA and automation headcount cut only as sourced. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "AI communications infrastructure company Bird.com said September 23 it completed a $450 million debt financing led by J.P. Morgan, with Capital One and Citi as joint lead arrangers, according to a CNW/PR Newswire release.",
+        "The package comprises a $400 million term loan and a $50 million revolving credit facility and is structured as a dividend recapitalization to provide liquidity to existing shareholders, including current and former employees with equity. Seven banks participated, including SVB, MUFG, Flagstar and Huntington in the syndicate.",
+        "Alongside the financing, Bird unveiled a revamped Agentic Harness so AI agents can send messages, place calls, manage email and obtain eSIM plans on its network. The company said it generated $165 million of EBITDA in 2025 and cut headcount from more than 1,000 at peak to about 120 via automation."
+      ]
+    },
+    {
+      "id": "ema-77",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise",
+      "hed": "Ema raises $77M Series B led by Creaegis for enterprise AI Employees",
+      "dek": "GlobeNewswire / TechCrunch Sep 23: Creaegis leads; Accel, S32 and Prosus increase stakes. Total funding $140M. Valuation more than quadrupled vs 2024 round but latest figure undisclosed. GTM and platform scale; Mountain View.",
+      "date": "Sept. 23, 2026",
+      "source": "GlobeNewswire (Ema); TechCrunch",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367506/0/en/ema-raises-77m-series-b-to-put-ai-employees-to-work-across-the-enterprise.html",
+      "also": [
+        {
+          "label": "TechCrunch feature (no invented valuation)",
+          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+        },
+        {
+          "label": "Markets Insider GlobeNewswire reprint",
+          "url": "https://markets.businessinsider.com/news/stocks/ema-raises-77m-series-b-to-put-ai-employees-to-work-across-the-enterprise-1036567388"
+        },
+        {
+          "label": "SiliconANGLE coverage",
+          "url": "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / enterprise agents as Afternoon Close Sep 23 (No. 150). Morning 9am ET GlobeNewswire / TechCrunch miss vs Nos. 145-149. PRIMARY: $77M Series B led by Creaegis; Accel, S32, Prosus increase; total funding $140M; valuation more than quadrupled from prior but company declined latest number (do NOT invent). Use for GTM and platform. Customers named in PR include Wipro, Hitachi, ADP, PwC. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Mountain View startup Ema said September 23 it raised a $77 million Series B led by Creaegis, with existing investors Accel, S32 and Prosus increasing their stakes, according to a GlobeNewswire release and TechCrunch.",
+        "The round brings total funding to $140 million and more than quadruples Ema's valuation from its prior round, though the company declined to disclose the new figure. Ema said proceeds will scale go-to-market and continue platform investment for its agentic \"AI Employees\" across HR, IT and finance.",
+        "TechCrunch reported the round was entirely primary equity. The company said customers include Wipro, Hitachi, ADP and PwC, cited 50x revenue growth over two years off an undisclosed base, and said bookings have surpassed $150 million including multiyear contract value."
+      ]
+    },
     {
       "id": "enveda-311",
       "lead": false,
