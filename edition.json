@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 147,
+  "number": 148,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~12:36 pm ET — Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,714.82 (-0.64%), Dow 51,558.84 (-0.59%), Nasdaq 26,956.08 (-1.06%), SOX 12,469.22 (-1.74%), NVDA $224.62 (-1.86%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.09%, ^TYX ~5.39%. Futures: ES ~7,776.75 / NQ ~30,720.",
-    "line": "S&P 7,714.82 (-0.64%) · Dow 51,558.84 (-0.59%) · Nasdaq 26,956.08 (-1.06%) · SOX 12,469.22 (-1.74%) · NVDA $224.62 (-1.86%) · AMD $614.61 (-1.47%) · 10-year ~5.09% · 30-year ~5.39% · ES ~7,777 · NQ ~30,720 (Wed session)"
+    "updated": "Sep 23, ~1:19 pm ET — Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,704.75 (−0.77%), Dow 51,559.28 (−0.59%), Nasdaq 26,909.46 (−1.23%), SOX 12,428.99 (−2.06%), NVDA $224.47 (−1.92%), AMD $612.38 (−1.83%). Yields: ^TNX ~5.13%, ^TYX ~5.40%. Futures: ES ~7,763 / NQ ~30,666.",
+    "line": "S&P 7,704.75 (−0.77%) · Dow 51,559.28 (−0.59%) · Nasdaq 26,909.46 (−1.23%) · SOX 12,428.99 (−2.06%) · NVDA $224.47 (−1.92%) · AMD $612.38 (−1.83%) · 10-year ~5.13% · 30-year ~5.40% · ES ~7,763 · NQ ~30,666 (Wed session)"
   },
   "deskNote": {
-    "kicker": "Growth AI checks into Afternoon",
-    "hed": "Tekever $580M Series D; Noxtua €100M as C.H.BECK takes control.",
+    "kicker": "AI capital stack into Late Afternoon",
+    "hed": "Bessemer $5.75B; Basecamp $140M; Numeral $100M; CVC–CDN77.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 147 Afternoon — ADD tekever-580 (Quill) + noxtua-100 (Quill) vs No. 146 Midday. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; no final size, oversubscription print, or coupons on Reuters/Bloomberg/Japan Times wires as of ~12:36 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Tekever: CNBC — $580 million round at a $6.4 billion valuation, UC Investments and Baillie Gifford lead; CNA/Tech.eu — first close of Series D, more closes expected. Noxtua: company PR — Series C more than €100 million, C.H.BECK majority, MANZ joins; no valuation disclosed. Wednesday cash tape refreshed (Yahoo): equities still soft vs Tuesday, NVDA a bit weaker than the Midday plate, SOX/AMD firmer, yields a few bp higher. Open watches: SoftBank price Sep 24; DeepSeek Yan Wentao; DOJ–Nvidia–Groq; CleanSpark notes (~Sep 25); HUCK ticker Sep 24. X API still client-not-enrolled."
+    "body": "Vol. 1 No. 148 Late Afternoon — ADD basecamp-140, bessemer-575, numeral-100, cvc-cdn77, delinea-cfo (all Quill) vs No. 147 Afternoon. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~1:19 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Basecamp: PR Newswire — $140M Series C led by S32; Anthropic Anthology + NVIDIA in participant list; total $225M; no valuation in PR. Bessemer: BVP/Business Wire — $5.75B single close ($1.75B early / $4B growth). Numeral: company blog — $100M Series C Insight-led; total $157M. CVC–CDN77: Reuters — minority stake; source ~$1.9B EV. Delinea: GlobeNewswire — ex-Dropbox CFO Timothy Regan. Wednesday cash tape refreshed (Yahoo): still soft vs Tuesday; moves vs ~12:36 p.m. Afternoon plate are noise-only (S&P/Nasdaq a few tenths weaker). Open watches: SoftBank price Sep 24; DeepSeek Yan Wentao; DOJ–Nvidia–Groq; Anthropic–Lambda $35B; CleanSpark notes (~Sep 25); HUCK ticker Sep 24. X API still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 147 Afternoon + tekever-580 + noxtua-100; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump–Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 148 Late Afternoon + basecamp-140 + bessemer-575 + numeral-100 + cvc-cdn77 + delinea-cfo; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump–Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,133 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "basecamp-140",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Bio",
+      "hed": "Basecamp Research raises $140M Series C; S32 leads with Anthropic Anthology and NVIDIA",
+      "dek": "PR Newswire Sep 23 1:00 p.m. GMT: oversubscribed Series C to train next EDEN models and advance AI-designed therapeutics (in vivo cell therapy first). Total capital $225M. Tech.eu: NVentures returning; Anthology Fund (Anthropic/Menlo) new. No valuation in primary PR.",
+      "date": "Sept. 23, 2026",
+      "source": "PR Newswire (Basecamp Research); Tech.eu",
+      "url": "https://www.prnewswire.co.uk/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887620.html",
+      "also": [
+        {
+          "label": "Tech.eu — Anthropic Anthology + NVentures color",
+          "url": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/"
+        },
+        {
+          "label": "US PR Newswire mirror",
+          "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / bio as Late Afternoon Sep 23 (No. 148). PRIMARY PR Newswire London/Boston Sep 23: Basecamp Research closed an oversubscribed $140 million Series C led by S32 to train a new generation of EDEN models and advance a pipeline of AI-designed therapeutics toward clinical development, starting with in vivo cell therapy; total capital raised $225 million. Participant list in PR: Anthropic's Anthology Fund, Catalio, European Tech Collective, Firebrand River Capital, Inception Fund, King Philanthropies, NATO Innovation Fund, NVIDIA, PostScriptum, Redalpine, The Rockefeller Foundation, Singular, Sovereign AI, True Ventures; Andy Conrad (S32 / ex-Verily) joins board; Richard Pearce (ex-Biogen) named CBO. PAIR Tech.eu for NVentures returning / Anthology Fund (Anthropic–Menlo) as new. Do NOT invent valuation (secondary $800M prints not in primary PR/Tech.eu). NOT MAJOR — softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "London-based Basecamp Research said September 23 it raised an oversubscribed $140 million Series C led by S32 to train a new generation of its EDEN biological foundation models and advance AI-designed therapeutics toward clinical development, bringing total capital raised to $225 million, according to a PR Newswire release.",
+        "The press release lists Anthropic's Anthology Fund and NVIDIA among participants, alongside Catalio, the NATO Innovation Fund, Rockefeller, Sovereign AI, True Ventures and others. Tech.eu separately said NVIDIA's NVentures is a returning investor and that Anthology Fund, a partnership between Anthropic and Menlo Ventures, is a new investor.",
+        "Basecamp said it is applying EDEN to in vivo cell therapy and has shown preclinical results across multiple modalities; Andy Conrad of S32 is joining the board, and Richard Pearce, formerly of Biogen, was named chief business officer. Primary wires did not disclose a post-money valuation."
+      ]
+    },
+    {
+      "id": "bessemer-575",
+      "lead": false,
+      "section": "PE",
+      "kicker": "VC / AI",
+      "hed": "Bessemer closes $5.75B in one go: $1.75B early-stage and $4B growth for AI stack",
+      "dek": "Business Wire / BVP Sep 23 11:00 a.m. ET. Single close. Firm cites 260+ AI-native companies and >$3B invested since 2022; ~70% of checks still early-stage. Growth names cited include Anthropic, ClickHouse, Cognition, Waymo.",
+      "date": "Sept. 23, 2026",
+      "source": "Bessemer Venture Partners; Business Wire",
+      "url": "https://www.bvp.com/news/5-75-billion-to-back-the-founders-building-what-s-next",
+      "also": [
+        {
+          "label": "Business Wire via FinancialContent — $5.75B single close",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-23-bessemer-venture-partners-closes-575-billion-to-back-founders-from-seed-through-growth"
+        },
+        {
+          "label": "Ctech — Israel pace / growth-fund color",
+          "url": "https://www.calcalistech.com/ctechnews/article/rkyy3uz5fx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / VC as Late Afternoon Sep 23 (No. 148; 11 a.m. ET Business Wire miss on Afternoon No. 147). PRIMARY BVP post + Business Wire: Bessemer Venture Partners announced $5.75 billion in new capital raised in a single close — $1.75 billion for seed and early-stage investing and $4 billion for growth investments — amid AI opportunities across the stack. Stick to firm figures: since 2022 backed 260+ AI-native companies and invested more than $3 billion across compute/infrastructure, foundation models, developer platforms, applications and agents; roughly 70% of investments still early-stage; AUM cited as $20 billion in About section. Growth examples named by firm include Anthropic, DriveNets, fal, ClickHouse, Cognition, EliseAI, EvenUp, Legora, Ramp, ShopMy, Waymo. Do NOT invent LP names, fund legal names, or vintage IRRs. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Bessemer Venture Partners announced September 23 that it closed $5.75 billion in new capital in a single raise, split as $1.75 billion for seed and early-stage investing and $4 billion for growth, according to the firm's announcement and a Business Wire release.",
+        "The firm said the capital is aimed at AI-era companies across the stack and that since 2022 it has backed more than 260 AI-native companies while investing more than $3 billion. It also said roughly 70 percent of its investments are still made at the early stage.",
+        "Bessemer's growth examples in the release include concentrated bets in companies such as Anthropic, ClickHouse, Cognition, and Waymo. The firm's about copy cites more than $20 billion of assets under management."
+      ]
+    },
+    {
+      "id": "numeral-100",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Fintech / AI",
+      "hed": "Numeral raises $100M Series C led by Insight for AI sales-tax compliance",
+      "dek": "Company blog Sep 23: Insight Partners leads; Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, YC, Uncork participate. Total funding $157M. Transaction volume +327% y/y; tax engine expected to process >80M transactions.",
+      "date": "Sept. 23, 2026",
+      "source": "Numeral (company blog); Business Wire via FinancialContent",
+      "url": "https://www.numeral.com/blog/series-c",
+      "also": [
+        {
+          "label": "Business Wire via FinancialContent — Series C reprint",
+          "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-9-23-numeral-raises-100-million-series-c-to-expand-ai-powered-tax-compliance-across-industries"
+        },
+        {
+          "label": "Pulse2 — Insight lead summary",
+          "url": "https://pulse2.com/numeral-raises-100-million-series-c/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI compliance as Late Afternoon Sep 23 (No. 148). PRIMARY Numeral blog Sep 23: $100 million Series C led by Insight Partners with Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork; total funding $157 million; prior $35 million Series B Sep 2025; use of proceeds for product, industry expansion (software, manufacturing, distribution, wholesale) and hiring; platform metrics claimed: +327% y/y total transaction volume; expects tax engine to process more than 80 million transactions; VAT/GST in 90+ countries; 40+ system connectors; California prewritten-software sales-tax extension from 2027 cited in company post. PAIR Business Wire reprint via FinancialContent. Do NOT invent valuation. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "San Francisco sales-tax compliance startup Numeral said September 23 it raised a $100 million Series C led by Insight Partners, with participation from Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork, bringing total funding to $157 million.",
+        "Numeral said it will use the capital to accelerate product development, expand into software, manufacturing, distribution and wholesale customers, and hire across engineering, sales, marketing and product. The company said total transaction volume grew 327% year over year and that it expects its tax engine to process more than 80 million transactions.",
+        "The firm combines a deterministic tax engine with AI automation for nexus, registration, calculation, filing, remittance and exemption certificates, and said it also supports VAT and GST in more than 90 countries. Numeral cited California's enacted law extending sales and use tax to prewritten software, including SaaS, beginning in 2027 as an example of shifting rules."
+      ]
+    },
+    {
+      "id": "cvc-cdn77",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Infra",
+      "hed": "CVC buys minority stake in CDN77; source puts EV around $1.9B",
+      "dek": "Reuters Sep 23: first external capital for Prague internet infrastructure provider; founder Zdenek Cendra keeps majority and CEO role. CVC: largest CEE tech PE deal this year. Stake size and terms undisclosed in statement.",
+      "date": "Sept. 23, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/cvc-buys-minority-stake-internet-infrastructure-provider-cdn77-2026-09-23/",
+      "also": [
+        {
+          "label": "Global Banking & Finance — Reuters rewrite",
+          "url": "https://www.globalbankingandfinance.com/cvc-buys-minority-stake-internet-infrastructure-provider/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / infra as Late Afternoon Sep 23 (No. 148). PRIMARY Reuters (Amy-Jo Crowley, Muvija M): CVC agreed to buy a minority stake in Prague-based CDN77; companies' statement did not disclose stake size or financial terms; a source familiar with the matter told Reuters the deal values CDN77 at around $1.9 billion; founder/CEO Zdenek Cendra retains majority and continues to lead; CVC called it the largest private equity deal in CEE technology this year; CDN77 provides compute/storage for streaming, gaming and software and can support AI workloads; source said firm is targeting about $270 million revenue this year vs $218 million in 2025. Label $1.9B and revenue targets as source-told-Reuters, not company statement. Do NOT invent stake %. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "CVC agreed to buy a minority stake in Prague-based internet infrastructure provider CDN77, the companies said in a statement reported by Reuters on Wednesday, in what CVC called the largest private equity deal in Central and Eastern Europe's technology sector this year.",
+        "The statement did not disclose the size of the stake or the financial terms. A source familiar with the matter told Reuters the deal values CDN77 at around $1.9 billion. Founder and CEO Zdenek Cendra will retain a majority stake and continue to lead the company.",
+        "CDN77 provides computing power and storage for streaming, gaming and software customers and can support AI workloads. The same source told Reuters the firm is targeting about $270 million of revenue this year, up from $218 million in 2025."
+      ]
+    },
+    {
+      "id": "delinea-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Identity",
+      "hed": "Delinea names ex-Dropbox CFO Timothy Regan as finance chief",
+      "dek": "GlobeNewswire Sep 23 9:02 a.m. ET. Regan was Dropbox CFO 2020–2025 after CAO role through 2018 IPO. Delinea: identity security for AI agents/humans/machines; >$500M ARR in 2025; 9,000+ customers.",
+      "date": "Sept. 23, 2026",
+      "source": "GlobeNewswire (Delinea)",
+      "url": "https://www.financialcontent.com/article/gnwcq-2026-9-23-delinea-appoints-timothy-regan-as-chief-financial-officer",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Late Afternoon Sep 23 (No. 148; morning GlobeNewswire miss). PRIMARY Delinea GlobeNewswire Sep 23: Timothy Regan, CPA, appointed CFO; most recently Dropbox CFO 2020–2025 and advisor into early 2026; joined Dropbox 2016 as CAO and helped guide 2018 IPO; earlier Pandora VP Finance Controller, Dolby, EY. CEO Art Gilliland: AI expanding identity security market; agents increase need to control what identities can do. Company color from PR: surpassed $500 million ARR in 2025; more than 9,000 customers including over two-thirds of Fortune 100. Stick to PR; no raise or valuation. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Identity-security company Delinea appointed Timothy Regan as Chief Financial Officer, the San Francisco firm said in a GlobeNewswire release Wednesday morning.",
+        "Regan most recently served as CFO of Dropbox from 2020 to 2025 and as an advisor into early 2026 after joining Dropbox in 2016 as chief accounting officer and helping guide its 2018 IPO. Earlier roles included VP finance controller at Pandora Media and senior finance posts at Dolby Laboratories and Ernst & Young.",
+        "Delinea said Regan will lead global finance as the company scales an identity platform that controls what AI agents, humans and machines can do. The release said Delinea surpassed $500 million in annual recurring revenue in 2025 and serves more than 9,000 customers, including over two-thirds of the Fortune 100."
+      ]
+    },
     {
       "id": "tekever-580",
       "lead": false,
