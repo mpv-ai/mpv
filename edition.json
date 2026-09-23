@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 151,
+  "number": 152,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Market Close",
+  "editionLabel": "Early Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~4:03 pm ET - Wednesday cash session near close (Yahoo Finance). Session vs Tuesday close: S&P 7,706.09 (-0.75%), Dow 51,511.77 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,766.25 / NQ ~30,734.75.",
-    "line": "S&P 7,706.09 (-0.75%) · Dow 51,511.77 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,766.25 · NQ ~30,734.75 (Wed near close)"
+    "updated": "Sep 23, ~5:08 pm ET - Wednesday cash close + after-hours futures (Yahoo Finance chart). Session vs Tuesday close: S&P 7,706.03 (-0.76%), Dow 51,511.59 (-1.03%), Nasdaq 26,936.04 (-0.69%), SOX 12,534.27 (+0.81%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,772.50 / NQ ~30,773.25.",
+    "line": "S&P 7,706.03 (-0.76%) · Dow 51,511.59 (-1.03%) · Nasdaq 26,936.04 (-0.69%) · SOX 12,534.27 (+0.81%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,772.50 · NQ ~30,773.25 (Wed cash close / AH futures)"
   },
   "deskNote": {
-    "kicker": "PE desk into Market Close",
-    "hed": "Pollen Street explores take-private; EQT opens Abu Dhabi.",
+    "kicker": "AI desk into Early Evening",
+    "hed": "Mistral buys Pimento for Vibe; Brahma prints $2B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 151 Market Close - ADD pollen-street-options, eqt-me-adgm (both Quill) vs No. 150 Afternoon Close. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~4:03 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Pollen: Reuters - exploring options including take-private; preliminary talks; shares +16.6% to 950p; £8.4B AUM. EQT: company - Middle East platform + ADGM office; Mahtani/Belrhiti; USD 389B AUM. Tape refresh only vs ~3:14 p.m. plate (still soft vs Tuesday; small further drift into the cash close)."
+    "body": "Vol. 1 No. 152 Early Evening - ADD mistral-pimento, brahma-2b, actabl-cfo (all Quill) vs No. 151 Market Close. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final size, oversubscription print, or coupons on primary wires as of ~5:08 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Mistral: TNW/AFP - Pimento talent to Vibe; “several million euros”; L’Informé/Sifted price prints unlabeled. Brahma: Moneycontrol on Prime Focus exchange filing - $2B post-money on the $150M Multiples round (updates brahma-multiples). Actabl: ex-Stack Overflow CFO Susan Walker. Tape: cash close refresh + AH futures drift vs ~4:03 p.m. plate; SOX session print corrected to Yahoo +0.81%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 151 Market Close + pollen-street-options + eqt-me-adgm; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 152 Early Evening + mistral-pimento + brahma-2b + actabl-cfo; softbank-notes-ipg still MAJOR (no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,81 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "mistral-pimento",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / M&A",
+      "hed": "Mistral buys Paris adtech Pimento for Vibe talent; price still disputed",
+      "dek": "TNW Sep 23: Mistral confirmed to AFP it acquired generative-ad startup Pimento for “several million euros,” its third 2026 deal after Koyeb and Emmi AI. Staff join engineering/product to improve Vibe (ex-Le Chat). L’Informé had ~€3.8M; Sifted filings print €12.7M cash-and-shares. Mistral has not confirmed either figure. Pair with plated mistral-d (€3B Series D / >€21B).",
+      "date": "Sept. 23, 2026",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/mistral-acquires-pimento-ai-advertising",
+      "also": [
+        {
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/exclusive-mistral-pimento-acquisition"
+        },
+        {
+          "source": "L’Informé",
+          "url": "https://www.linforme.com/tech-telecom/article/mistral-ai-boucle-le-rachat-d-une-start-up-specialisee-dans-la-pub_9173.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / M&A as Early Evening Sep 23 (No. 152; morning TNW/AFP miss vs Nos. 145-151). PRIMARY TNW: Mistral confirmed to AFP; “several million euros”; talent to Vibe; third 2026 deal after Koyeb (Feb) and Emmi AI (May). Label L’Informé ~€3.8M and Sifted €12.7M cash-and-shares as unverified / filings-seen, not company figures. Do NOT invent customer fate for Pimento ad product. Pair mistral-d. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Mistral AI has acquired Paris-based generative advertising startup Pimento, confirming the deal to AFP at a price of “several million euros,” The Next Web reported September 23, calling it the French lab’s third acquisition of 2026.",
+        "Pimento’s engineering and product staff are joining Mistral to work on Vibe, the company’s conversational assistant formerly known as Le Chat. L’Informé, which first flagged the talks, said a person familiar with the matter put the price around €3.8 million and framed the deal as a talent move more than a customer-book purchase; Sifted separately reported documents showing a €12.7 million cash-and-shares structure. Mistral has not confirmed either number, TNW noted.",
+        "The purchase follows Mistral’s September 8 €3 billion Series D that valued the company above €21 billion (Samsung-led; EQT Scaleup Europe Fund and PSG Equity co-leads), already on the plate as mistral-d, and earlier 2026 deals for serverless cloud Koyeb and industrial-simulation specialist Emmi AI. Neither side has said what happens to Pimento’s advertising product used by more than 180 brands."
+      ]
+    },
+    {
+      "id": "brahma-2b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI growth",
+      "hed": "Prime Focus filing: Brahma AI $150M Multiples round at $2B; PFL keeps ~66% economics",
+      "dek": "Moneycontrol Sep 23 citing Prime Focus exchange disclosure: Brahma AI $150M preferred round led by Multiples ($100M) values the company at $2B post-money, up from $1.43B after the Feb 2025 United Al Saqer round. Further $100M investor interest may expand the round. Via DNEG, PFL remains largest economic holder at about 66% after dilution; voting-rights restructure already flagged on brahma-multiples. Subject to customary approvals.",
+      "date": "Sept. 23, 2026",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/prime-focus-backed-brahma-ai-raises-150-million-at-2-billion-valuation-14035937.html",
+      "also": [
+        {
+          "source": "Brahma AI / company PR",
+          "url": "https://www.brahma.io/news/brahma-ai-raises-150-million-round-led-by-multiples"
+        },
+        {
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/brahma-ai-raises-150-million-led-by-multiples-valued-at-2-billion/articleshow/134443471.cms"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / AI growth as Early Evening Sep 23 (No. 152) UPDATE to brahma-multiples (morning plate lacked valuation). PRIMARY Moneycontrol rewrite of Prime Focus exchange disclosure: $2B post-money; Multiples $100M of $150M preferred; +$100M interest may expand; PFL ~66% economic via DNEG; prior $1.43B Feb 2025 UASG print. Keep brahma-multiples on plate for CCPS/voting ≤24.99% / CNBC-TV18 board color. Do NOT invent pre-money or LP names beyond Multiples. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Prime Focus told Indian exchanges that its Brahma AI preferred-share raise values the enterprise audiovisual AI company at $2 billion post-money, Moneycontrol reported September 23, filling in the valuation blank left by Brahma’s own $150 million Multiples-led announcement earlier the same day.",
+        "Multiples Alternate Asset Management is putting in $100 million of the $150 million round, with another $100 million of investor interest that may let Brahma expand the financing, per the Moneycontrol account of the exchange disclosure. The print is up from the $1.43 billion valuation Prime Focus disclosed after a February 2025 round led by Abu Dhabi-based United Al Saqer Group.",
+        "Prime Focus said it remains Brahma’s largest economic shareholder, with about 66 percent economics through subsidiary DNEG after dilution from the raise, option pool and founder equity, while Brahma continues to operate independently under founder-CEO Prabhu Narasimhan. The voting-rights restructure that caps Prime Focus’s indirect voting interest at 24.99 percent remains as already plated on brahma-multiples; the transaction is still subject to customary approvals."
+      ]
+    },
+    {
+      "id": "actabl-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Actabl names ex-Stack Overflow CFO Susan Walker as finance chief",
+      "dek": "Actabl PR Newswire Sep 23: Susan Walker appointed CFO of the hotel operations software firm (ProfitSword, Hotel Effectiveness, Alice, Transcendent). Most recently Stack Overflow CFO; prior Jumio, Digital Guardian, Avention; CFO/COO Telestream; helped lead Aspen Aerogels IPO; began as J.P. Morgan tech equity analyst. Wharton MBA. Company cites >180,000 hotel-professional users and 90% of the 50 largest U.S. hotel management companies. No raise or valuation in the wire.",
+      "date": "Sept. 23, 2026",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/actabl-appoints-susan-walker-as-chief-financial-officer-302887055.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Early Evening Sep 23 (No. 152; 8:43 a.m. ET PR miss vs Nos. 145-151). PRIMARY Actabl PR Newswire: Susan Walker CFO; ex-Stack Overflow; prior Jumio/Digital Guardian/Avention/Telestream; Aspen Aerogels IPO; JPM analyst start. Stick to PR; no raise. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Actabl, the hotel operations software company behind ProfitSword, Hotel Effectiveness, Alice and Transcendent, appointed Susan Walker as chief financial officer, the company said in a PR Newswire release dated September 23.",
+        "Walker most recently served as CFO of Stack Overflow and previously held CFO roles at Jumio, Digital Guardian and Avention, plus CFO and COO of Telestream. Actabl said she helped lead Aspen Aerogels through its IPO and began her career as a technology equity analyst at J.P. Morgan; she holds an MBA from Wharton and a bachelor’s in applied mathematics and economics from UC Berkeley.",
+        "CEO Steven Moore said Walker will lead finance and partner on investment and strategic priorities as Actabl extends its hotel BI, labor, guest-service and asset-management suite with AI offerings. The company claims more than 180,000 hotel professionals use its technology, including teams at 90% of the 50 largest U.S. hotel management companies. The wire does not announce a financing or valuation."
+      ]
+    },
     {
       "id": "pollen-street-options",
       "lead": false,
