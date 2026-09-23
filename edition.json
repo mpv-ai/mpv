@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 152,
+  "number": 153,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Early Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~5:08 pm ET - Wednesday cash close + after-hours futures (Yahoo Finance chart). Session vs Tuesday close: S&P 7,706.03 (-0.76%), Dow 51,511.59 (-1.03%), Nasdaq 26,936.04 (-0.69%), SOX 12,534.27 (+0.81%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,772.50 / NQ ~30,773.25.",
-    "line": "S&P 7,706.03 (-0.76%) · Dow 51,511.59 (-1.03%) · Nasdaq 26,936.04 (-0.69%) · SOX 12,534.27 (+0.81%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,772.50 · NQ ~30,773.25 (Wed cash close / AH futures)"
+    "updated": "Sep 23, ~6:10 pm ET - Wednesday cash close + after-hours futures refresh (Yahoo Finance chart). Session vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,775.00 / NQ ~30,800.50.",
+    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,775.00 · NQ ~30,800.50 (Wed cash close / AH futures)"
   },
   "deskNote": {
-    "kicker": "AI desk into Early Evening",
-    "hed": "Mistral buys Pimento for Vibe; Brahma prints $2B.",
+    "kicker": "AI desk into Late Evening",
+    "hed": "Claude finds ART enzymes; Altman-Amodei brief UNSC.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 152 Early Evening - ADD mistral-pimento, brahma-2b, actabl-cfo (all Quill) vs No. 151 Market Close. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final size, oversubscription print, or coupons on primary wires as of ~5:08 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Mistral: TNW/AFP - Pimento talent to Vibe; “several million euros”; L’Informé/Sifted price prints unlabeled. Brahma: Moneycontrol on Prime Focus exchange filing - $2B post-money on the $150M Multiples round (updates brahma-multiples). Actabl: ex-Stack Overflow CFO Susan Walker. Tape: cash close refresh + AH futures drift vs ~4:03 p.m. plate; SOX session print corrected to Yahoo +0.81%."
+    "body": "Vol. 1 No. 153 Late Evening - ADD anthropic-art, altman-amodei-un, flutterwave-cfo, digitec-cfo (all Quill) vs No. 152 Early Evening. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final coupons/size on primary wires as of ~6:10 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Anthropic: company blog + preprint - Claude agents found phage ART (RT + partner + CRISPR-like repeats); function unknown; Feng Zhang comment as published. UNSC: CNBC - Altman and Amodei briefed Wednesday (follow to deepseek-un invite). CFO: Flutterwave Olufemi; DIGITEC Schneegass. Tape: cash prints flat vs Early Evening plate; SOX day chg corrected to Yahoo -1.23% (was mis-signed +0.81% on No. 152); Nasdaq day chg aligned to Yahoo -1.13%; AH futures drift ES ~7,775 / NQ ~30,800."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 152 Early Evening + mistral-pimento + brahma-2b + actabl-cfo; softbank-notes-ipg still MAJOR (no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 153 Late Evening + anthropic-art + altman-amodei-un + flutterwave-cfo + digitec-cfo; softbank-notes-ipg still MAJOR (no final coupons; price Thu Sep 24 / settle Sep 29). Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,106 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-art",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Life sciences",
+      "hed": "Claude finds phage ART enzyme system with CRISPR-like repeats; Anthropic opens biology lab",
+      "dek": "Anthropic Sep 23 blog + preprint: Claude agents (Mythos 5) spotted array-associated reverse transcriptases (ART) in bacteriophage DNA after a 21.5-hour, ~950-agent genome-mine; partner gene + tandem repeats; lab shows array RNAs; function still unknown. Feng Zhang: intriguing, merits follow-up. First result from spring 2026 Bay Area BSL-1/2 life-sciences lab.",
+      "date": "Sept. 23, 2026",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "also": [
+        {
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats"
+        },
+        {
+          "source": "Preprint PDF",
+          "url": "https://www-cdn.anthropic.com/22573675ada52a8ca8a97a1a4b4326b2f208a071.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / life sciences as Late Evening Sep 23 (No. 153; TNW ~7:27 p.m. ET miss vs No. 152 Early Evening). PRIMARY Anthropic blog + preprint: Claude discovered ART (array-associated reverse transcriptases) in phage DNA; RT + partner gene + CRISPR-like tandem repeats; 21.5 hours / ~949 agents / ~216M tokens screening ~1.9B protein clusters; ~200k RT clusters; array expressed as distinct short RNAs; function unknown; enzyme itself previously noted without array. Quote Feng Zhang (MIT/Broad) only as Anthropic published. Lab: BSL-1/2, no human pathogens; humans do wet lab. Do NOT claim programmable gene editing or CRISPR replacement. Pair anthropic-opus-55 / nvidia-hf context only if needed. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Anthropic said Wednesday that Claude discovered a previously undescribed enzyme system in bacteriophage DNA that sits beside a long array of CRISPR-like repeats, the first public result from a new molecular biology group and Bay Area lab the company formed in spring 2026.",
+        "The company calls the find array-associated reverse transcriptases, or ART: a reverse transcriptase, a neighboring partner gene, and an evenly spaced DNA repeat array. Anthropic released a blog post and an unreviewed preprint. Lab work so far shows the array is expressed as distinct short RNAs, but the team has not shown the enzyme is active on those RNAs or determined the system's biological function.",
+        "Agents running Claude Mythos 5 ran for about 21.5 hours across roughly 950 sessions and more than 200 million tokens on a brief to mine reverse transcriptases from about 1.9 billion protein clusters, Anthropic and The Next Web reported. One agent reading raw DNA beside an unusual RT spotted the tandem repeats \"by eye.\" CRISPR pioneer Feng Zhang of MIT and the Broad Institute, commenting on the preprint as published by Anthropic, called the RNA-repeat association with reverse transcriptases \"genuinely intriguing\" and said it merits further investigation."
+      ]
+    },
+    {
+      "id": "altman-amodei-un",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Geopolitics",
+      "hed": "Altman and Amodei brief UN Security Council on AI risks; push coordination after Trump rebuke",
+      "dek": "CNBC Sep 23 ~3:53 p.m. ET: OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei addressed the UNSC, urging international coordination on AI risks a day after Trump told the UNGA he would not rein in AI as a \"globalist scheme.\" Pair deepseek-un (Reuters Sep 22 invite plate). UN News live: Security Council briefed by top AI executives.",
+      "date": "Sept. 23, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
+      "also": [
+        {
+          "source": "UN News",
+          "url": "https://news.un.org/en/story/2026/09/1168414"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / geopolitics as Late Evening Sep 23 (No. 153) UPDATE/follow to deepseek-un (Sep 22 invite). PRIMARY CNBC Ashley Capoot: Altman and Amodei briefed UNSC Wednesday; called for international coordination; Altman cited past unilateral slowdowns; Amodei reiterated three-step slowdown plan incl. democratic-authoritarian coordination. PAIR UN News live briefing post. Color: Trump UNGA day-prior \"globalist scheme\" / will not rein in AI (CNBC). Keep deepseek-un on plate for DeepSeek/Moonshot invite color. Do NOT invent binding resolution or Liang attendance. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "OpenAI chief Sam Altman and Anthropic chief Dario Amodei addressed the United Nations Security Council on Wednesday and urged international coordination on AI risks, CNBC reported, one day after President Donald Trump told the UN General Assembly he would not rein in AI as a \"globalist scheme.\"",
+        "Altman said competing countries have still come together around powerful new technologies before and \"must\" do so again, and that OpenAI has slowed research unilaterally in the past and will again. Amodei reiterated his three-step plan to pace frontier development without sacrificing commercial or U.S. lead, including coordination between democratic and authoritarian governments, and said no leader, company, or nation can manage the risk alone.",
+        "UN News also covered the Security Council session as a live briefing by top AI executives amid warnings about systems beyond human control. The plate already carries deepseek-un (Reuters Sep 22) on DeepSeek and Moonshot invitations to the same Wednesday AI-and-security meeting."
+      ]
+    },
+    {
+      "id": "flutterwave-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "Flutterwave names ex-Access Holdings CFO Morounke Olufemi as global finance chief",
+      "dek": "TechEconomy / Nairametrics: Morounke Olufemi, Flutterwave EMEA CFO since June 2025, becomes Global CFO as Mitesh Popat steps down to co-found a venture. Prior Access Holdings Group CFO; led $300M AT1 raise (2023) and 2024 rights issue for CBN recap. CEO GB Agboola cites capital discipline and succession. No raise in the announcement.",
+      "date": "Sept. 23, 2026",
+      "source": "TechEconomy",
+      "url": "https://techeconomy.ng/flutterwave-names-former-access-holdings-cfo-morounke-olufemi-as-new-global-cfo",
+      "also": [
+        {
+          "source": "Nairametrics",
+          "url": "https://nairametrics.com/2026/09/23/flutterwave-appoints-former-access-holdings-executive-morounke-olufemi-as-global-cfo/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Late Evening Sep 23 (No. 153; TechEconomy Sep 22 / Nairametrics Sep 23 miss vs Nos. 145-152). PRIMARY company statement via TechEconomy and Nairametrics: Olufemi promoted from EMEA CFO to Global CFO; Popat departs to co-found; Access Holdings Group CFO background; $300M AT1 2023 and 2024 rights issue cited; Mono acquisition as recent strategic context. Stick to statement metrics (1B+ transactions / $40B+ TPV if used, label as Flutterwave June disclosure via Nairametrics). No raise or valuation. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Flutterwave appointed Morounke Olufemi as Global Chief Financial Officer, promoting her from the EMEA CFO role she has held since June 2025 as Mitesh Popat steps down to co-found a new venture, according to a company statement carried by TechEconomy and Nairametrics.",
+        "Olufemi previously served as Group CFO at Access Holdings Plc. Coverage cites her role raising $300 million of Additional Tier 1 capital in 2023 and leading a 2024 rights issuance tied to Central Bank of Nigeria recapitalization requirements, plus M&A work that helped form Nigeria's second-largest pension fund administrator.",
+        "Founder and CEO Olugbenga \"GB\" Agboola framed the move as succession for Flutterwave's next growth phase. Olufemi said the company will keep focusing on capital discipline, margin growth, and sustainable profitability. The announcement does not include a new funding round."
+      ]
+    },
+    {
+      "id": "digitec-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO",
+      "hed": "DIGITEC names Matthis Schneegass CFO and managing director for FX pricing scale-up",
+      "dek": "Liquidity Finder Sep 23: Hamburg-based DIGITEC (multi-asset FX swaps/NDF pricing, OMS, data) appointed Matthis Schneegass CFO and MD, reporting to CEO Peer Joost. Joins from PINKTUM (COO then CFO); prior Engel & Völkers Americas CFO and group finance/strategy with PE value-creation work. Joost: tenth 2026 hire; collaborate with EMH Partners. No raise disclosed.",
+      "date": "Sept. 23, 2026",
+      "source": "Liquidity Finder",
+      "url": "https://liquidityfinder.com/news/matthis-schneegass-joins-digitec-as-chief-financial-officer",
+      "also": [
+        {
+          "source": "TradeTech Eye / FF News",
+          "url": "https://tradetecheye.com/news/press-release-matthis-schneegass-joins-digitec-as-cfo-9ed08552"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO as Late Evening Sep 23 (No. 153). PRIMARY Liquidity Finder rewrite of DIGITEC announcement: Schneegass CFO+MD; PINKTUM then Engel & Völkers Americas CFO; Joost tenth hire 2026; EMH Partners collaboration named. Company color OK: market leader FX swaps/NDF; >50% Euromoney Top 50 FX firms among clients. No raise or valuation. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "DIGITEC, the Hamburg provider of multi-asset FX pricing and workflow automation, appointed Matthis Schneegass as chief financial officer and managing director, Liquidity Finder reported from the company announcement dated September 23.",
+        "Schneegass reports to CEO Peer Joost and is based in Hamburg. He joins from SaaS scale-up PINKTUM, where he served as COO and then CFO, after nine years at Engel & Völkers including CFO for the Americas and group finance and strategy roles that worked with a private equity investor on value creation.",
+        "Joost said Schneegass is DIGITEC's tenth hire of 2026 and will help the next growth phase alongside EMH Partners. DIGITEC says it is a leader in FX swaps and NDF technology with a client base that includes more than half of the Euromoney Top 50 FX trading firms. No financing was announced with the appointment."
+      ]
+    },
     {
       "id": "mistral-pimento",
       "lead": false,
