@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 145,
+  "number": 146,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~9:23 a.m. ET — cash still Tuesday session close (US cash pre-open). Session vs Monday close unchanged from No. 144: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields refreshed: ^TNX ~4.99%, ^TYX ~5.32%. Pre-open futures: ES ~7,821 / NQ ~30,958 (vs No. 144 Late Evening ES ~7,832 / NQ ~31,045).",
-    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.99% · 30-year ~5.32% · ES ~7,821 · NQ ~30,958 (pre-open)"
+    "updated": "Sep 23, ~10:35 a.m. ET — Wednesday cash open (Yahoo Finance). Session vs Tuesday close: S&P 7,725.27 (-0.51%), Dow 51,786.63 (-0.15%), Nasdaq 26,962.61 (-1.03%), SOX 12,441.50 (-1.96%), NVDA $226.00 (-1.25%), AMD $611.92 (-1.90%). Yields: ^TNX ~5.05%, ^TYX ~5.36%. Futures: ES ~7,779.50 / NQ ~30,652.",
+    "line": "S&P 7,725.27 (-0.51%) · Dow 51,786.63 (-0.15%) · Nasdaq 26,962.61 (-1.03%) · SOX 12,441.50 (-1.96%) · NVDA $226.00 (-1.25%) · AMD $611.92 (-1.90%) · 10-year ~5.05% · 30-year ~5.36% · ES ~7,780 · NQ ~30,652 (Wed session)"
   },
   "deskNote": {
-    "kicker": "OpenAI credit books into Morning",
-    "hed": "SoftBank OpenAI junk notes take orders; IPG to 9.875%.",
+    "kicker": "AI infra + China semis into Midday",
+    "hed": "Anthropic–Stream 1 GW talks; SASAC eyes Broadcom switches.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 145 Morning — ADD softbank-notes-ipg (MAJOR lead; Quill) + brahma-multiples (Quill) vs No. 144 Late Evening. SoftBank Wednesday Reuters term sheet: USD $10B IPG 8.75–8.875% / 9.375–9.5% / 9.75–9.875%; books noon NY Wed; settle Sep 29; Japan Times/Bloomberg >$20B early interest; price still Thu Sep 24. Brahma AI company PR $150M preferred led by Multiples $100M (+$100M interest); Prime Focus board/CNBC filing colors CCPS split. Cognex/RealSense already on plate as cgnx-realsense — skipped. Cash tape still Tuesday close (pre-open Wed); futures refreshed ES ~7,821 / NQ ~30,958. Lead flips from fomc-sep16 to softbank-notes-ipg. Open watches: SoftBank price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche; DeepSeek Yan Wentao CFO start still needs Reuters confirm of start; DOJ–Nvidia–Groq; CleanSpark notes ~Sep 25; Oura price next week. X API still unavailable (client-not-enrolled)."
+    "body": "Vol. 1 No. 146 Midday — ADD anthropic-stream-1gw (Quill) + china-broadcom-sasac (Quill) + trump-xi-ai-dialogue (Quill) vs No. 145 Morning. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg); books still noon NY Wed / price Thu Sep 24 — no final coupons yet. Anthropic: The Information via Finimize — early talks up to 1 GW Apollo-owned Stream lease; Google credit guarantee potential; TPU/GPU mix. China: FT via Finimize — SASAC surveying Broadcom switches (up to 90% at some state sites); informal domestic guidance may follow; no ban. Trump–Xi Thu scene-setter (CNBC AI dialogue). Wednesday cash tape refreshed (Yahoo): equities soft, semis harder, yields up. Open watches: SoftBank price Sep 24 / settle Sep 29; DeepSeek Yan Wentao; DOJ–Nvidia–Groq; CleanSpark notes ~Sep 25. X API still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 145 Morning + softbank-notes-ipg MAJOR (books noon NY Wed; price Thu Sep 24) + brahma-multiples. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Progress PRGS earnings Sep 30 5pm ET. Domo/Huckleberry HUCK ticker Sep 24. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B / CFO duty start, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close)."
+    "line": "No. 146 Midday + anthropic-stream-1gw + china-broadcom-sasac + trump-xi-ai-dialogue; softbank-notes-ipg still MAJOR (books noon NY Wed; price Thu Sep 24). Trump–Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,97 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-stream-1gw",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infrastructure",
+      "hed": "Anthropic in early talks for up to 1 GW Apollo-owned Stream lease; Google may backstop credit",
+      "dek": "The Information via Finimize Sep 23: Amazon-backed Anthropic discussing up to 1 gigawatt with Stream Data Centers (Apollo); sites could mix Google/Broadcom TPUs and Nvidia GPUs; Google credit guarantee still potential, not closed.",
+      "date": "Sept. 23, 2026",
+      "source": "Finimize (citing The Information)",
+      "url": "https://finimize.com/content/anthropic-eyes-a-massive-data-center-lease",
+      "also": [
+        {
+          "label": "The Information — Anthropic lease talks (Apollo Stream)",
+          "url": "https://www.theinformation.com/briefings/anthropic-talks-lease-apollo-owned-stream-data-centers"
+        },
+        {
+          "label": "The Information — Anthropic cementing DC control",
+          "url": "https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers"
+        },
+        {
+          "label": "Prior plate — ai-dc-small (CNBC Sep 18 20–30 MW hunt)",
+          "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Infrastructure as Midday Sep 23 (No. 146). PRIMARY: Finimize rewrite of The Information — Anthropic in early talks to lease up to 1 GW from Apollo-owned Stream Data Centers; Google may provide a credit guarantee; sites could run mix of Google/Broadcom TPUs and Nvidia GPUs. Pair TI briefing + longer TI article. Updates/complements ai-dc-small (smaller 20–30 MW hunt) — keep prior on plate. Do NOT invent lease economics, signed capacity, or Google guarantee as closed. NOT MAJOR — softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Amazon-backed Anthropic is in early talks to lease up to 1 gigawatt of data-center capacity from Apollo-owned Stream Data Centers, with Google potentially providing a credit guarantee, Finimize reported on Sept. 23, citing The Information.",
+        "The Information said the sites could run a mix of Google and Broadcom-built tensor processing units and Nvidia graphics processing units, underscoring Anthropic’s push for hardware flexibility rather than a single-vendor stack.",
+        "A Google credit backstop, if agreed, would shift long-lease payment risk toward a stronger balance sheet and could ease financing for Stream and Apollo; Finimize stressed the exact size and structure remain in flux and the talks are early.",
+        "The report sits above Anthropic’s still-unconfirmed hunt for smaller 20–30 megawatt deals (ai-dc-small, CNBC Sep 18) and does not by itself close any capacity package."
+      ]
+    },
+    {
+      "id": "china-broadcom-sasac",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Semiconductors / China",
+      "hed": "China’s SASAC surveys Broadcom switches in state data centers; FT says up to 90% at some sites",
+      "dek": "Finimize/FT Sep 23: SASAC checking Broadcom networking gear concentration; informal ‘domestic chips’ guidance may follow; no formal ban. Reuters could not immediately verify; Broadcom and SASAC not immediately reachable. AVGO soft in sympathy prints.",
+      "date": "Sept. 23, 2026",
+      "source": "Finimize (citing Financial Times); CoinCentral",
+      "url": "https://finimize.com/content/china-takes-a-close-look-at-broadcom-gear-in-state-data-centers",
+      "also": [
+        {
+          "label": "Financial Times — China reviews Broadcom switches",
+          "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1"
+        },
+        {
+          "label": "CoinCentral — AVGO slips on SASAC survey",
+          "url": "https://coincentral.com/broadcom-avgo-stock-slips-as-china-reviews-switch-use-in-state-data-centers/"
+        },
+        {
+          "label": "Prior plate — avgo-fq3 (Broadcom Q3 AI semis)",
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / Semiconductors as Midday Sep 23 (No. 146). PRIMARY Finimize citing FT: China’s SASAC surveying Broadcom networking-switch use in state-backed data centers; FT says Broadcom can be as much as 90% of switches at some sites; informal guidance to favor domestic gear may follow; no formal ban announced. PAIR CoinCentral market color (AVGO slipped on the report). Note Reuters could not immediately verify per Finimize. Do NOT invent ban, share loss %, or AVGO session print beyond sourced sympathy. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "China’s State-owned Assets Supervision and Administration Commission is surveying how dependent state-backed data centers are on Broadcom networking switches, Finimize reported on Sept. 23, citing the Financial Times, which said Broadcom gear can make up as much as 90% of the switches at some sites.",
+        "The FT report, as relayed by Finimize, said SASAC may follow with informal guidance urging state-run facilities to scale back Broadcom under a domestic-chips campaign; no formal ban has been announced.",
+        "Finimize noted Reuters said it could not immediately verify the FT reporting and that Broadcom and SASAC were not immediately reachable for comment outside regular hours.",
+        "Secondary market wrap CoinCentral said AVGO slipped as investors weighed networking demand risk at state-backed sites; Broadcom’s larger AI thesis remains tied mainly to custom accelerators and hyperscaler networking."
+      ]
+    },
+    {
+      "id": "trump-xi-ai-dialogue",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Geopolitics",
+      "hed": "Trump-Xi summit tees AI safety channel; Bessent floated national-security incident dialogue",
+      "dek": "CNBC Sep 23: Thu Trump-Xi meeting expected to touch AI safety and chips; weekend Bessent–He Lifeng talks floated U.S.–China AI dialogue for incidents up to national-security level; export controls and distillation remain sticking points. Slowdown deal ‘extremely unlikely.’",
+      "date": "Sept. 23, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "also": [
+        {
+          "label": "FT — How China and the US can work together on AI security",
+          "url": "https://www.ft.com/content/6558cf93-7e09-41fd-9da9-558bb80064ff"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Geopolitics as Midday Sep 23 (No. 146). PRIMARY CNBC: ahead of Thursday Trump–Xi meeting, AI safety dialogue is on the table after Treasury Scott Bessent discussed a U.S.–China AI channel with He’s Lifeng, including incidents up to national-security level; chip export controls and distillation accusations remain sticking points; analysts say a slowdown pact is extremely unlikely. Scene-setter only — do not invent summit deliverables. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "President Donald Trump and China’s Xi Jinping are expected to discuss artificial intelligence safety when they meet Thursday, CNBC reported on Sept. 23, as both governments weigh risks from increasingly autonomous models without wanting to slow the race.",
+        "CNBC said U.S. Treasury Secretary Scott Bessent discussed a possible U.S.–China AI dialogue with Chinese counterpart He Lifeng over the weekend, including a channel for incidents “up to a national security level.”",
+        "Export controls on advanced Nvidia chips and U.S. accusations that Chinese labs use “distillation” of Western model outputs remain major sticking points; CNBC cited analysts saying an agreement to slow development is extremely unlikely.",
+        "Likeliest near-term deliverable, per CNBC’s sources, would be modest common safety definitions or an emergency communications mechanism rather than hard caps on capability."
+      ]
+    },
     {
       "id": "softbank-notes-ipg",
       "lead": true,
