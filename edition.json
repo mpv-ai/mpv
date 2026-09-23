@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 144,
+  "number": 145,
   "city": "New York",
-  "date": "Tuesday, September 22, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Wednesday, September 23, 2026",
+  "editionLabel": "Morning",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 22, ~7:06 p.m. ET - cash identical to Evening/No. 143. Session vs Monday close unchanged: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields: ^TNX ~4.97%, ^TYX ~5.30%. AH futures: ES ~7,832 / NQ ~31,045 (vs No. 143 Late Evening ES ~7,828 / NQ ~31,002). Tape refresh with ADD prgs-domo-close.",
-    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.97% · 30-year ~5.30% · ES ~7,832 · NQ ~31,045 (late evening)"
+    "updated": "Sep 23, ~9:23 a.m. ET — cash still Tuesday session close (US cash pre-open). Session vs Monday close unchanged from No. 144: S&P 7,764.64 (−0.00%), Dow 51,863.69 (−0.36%), Nasdaq 27,244.28 (+0.45%), SOX 12,689.82 (+2.06%), NVDA $228.87 (+0.66%), AMD $623.77 (+1.34%). Yields refreshed: ^TNX ~4.99%, ^TYX ~5.32%. Pre-open futures: ES ~7,821 / NQ ~30,958 (vs No. 144 Late Evening ES ~7,832 / NQ ~31,045).",
+    "line": "S&P 7,764.64 (−0.00%) · Dow 51,863.69 (−0.36%) · Nasdaq 27,244.28 (+0.45%) · SOX 12,689.82 (+2.06%) · NVDA $228.87 (+0.66%) · AMD $623.77 (+1.34%) · 10-year ~4.99% · 30-year ~5.32% · ES ~7,821 · NQ ~30,958 (pre-open)"
   },
   "deskNote": {
-    "kicker": "M&A close into Late Evening",
-    "hed": "Progress closes $400M Domo AI/data platform buy.",
+    "kicker": "OpenAI credit books into Morning",
+    "hed": "SoftBank OpenAI junk notes take orders; IPG to 9.875%.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 144 Late Evening - ADD prgs-domo-close (Quill) vs No. 143 Late Evening. Progress Form 8-K (accepted ~12:09 p.m. ET) and Domo/Huckleberry.ai Form 8-K confirm Sep 22 close of previously announced $400M cash asset purchase; Domo renamed Huckleberry.ai, ticker HUCK from Sep 24; Domo received ~$221.0M cash after adjustments; credit facility terminated/liens released; ~$10.0M warrant repurchase. Cash tape identical; AH futures mild drift (ES ~7,832 / NQ ~31,045). Lead remains fomc-sep16. SoftBank notes still price Sep 24. DeepSeek Yan Wentao CFO duty still Chinese secondary (no Reuters confirm of start). DOJ-Nvidia-Groq unchanged. CoreWeave settle already on plate. X API still unavailable (client-not-enrolled). Skipped below bar: Venn/Zuma $50M, Host Digital Site II marketing, Hg Anthropic (already hg-anthropic-agentic), Snorkel PR follow (already snorkel-35)."
+    "body": "Vol. 1 No. 145 Morning — ADD softbank-notes-ipg (MAJOR lead; Quill) + brahma-multiples (Quill) vs No. 144 Late Evening. SoftBank Wednesday Reuters term sheet: USD $10B IPG 8.75–8.875% / 9.375–9.5% / 9.75–9.875%; books noon NY Wed; settle Sep 29; Japan Times/Bloomberg >$20B early interest; price still Thu Sep 24. Brahma AI company PR $150M preferred led by Multiples $100M (+$100M interest); Prime Focus board/CNBC filing colors CCPS split. Cognex/RealSense already on plate as cgnx-realsense — skipped. Cash tape still Tuesday close (pre-open Wed); futures refreshed ES ~7,821 / NQ ~30,958. Lead flips from fomc-sep16 to softbank-notes-ipg. Open watches: SoftBank price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche; DeepSeek Yan Wentao CFO start still needs Reuters confirm of start; DOJ–Nvidia–Groq; CleanSpark notes ~Sep 25; Oura price next week. X API still unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 144 Late Evening + prgs-domo-close (Progress $400M Domo AI/data close; HUCK Sep 24). SoftBank notes price Sep 24 / settle Sep 29 / ~Oct 1 OpenAI tranche. Progress PRGS earnings Sep 30 5pm ET (deal color). Oura price expected next week. Iambic pricing amendment TBD. CoreWeave Fully Connected Sep 30-Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74-75B / CFO duty start, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close), SoftBank notes Sep 24."
+    "line": "No. 145 Morning + softbank-notes-ipg MAJOR (books noon NY Wed; price Thu Sep 24) + brahma-multiples. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Progress PRGS earnings Sep 30 5pm ET. Domo/Huckleberry HUCK ticker Sep 24. Oura price expected next week. Iambic pricing amendment TBD. CoreWeave Fully Connected Sep 30–Oct 1. Accelevation ACCV expected price week of Sep 28 (Renaissance). Creatio Bank.AI digital event Sep 24; Chicago summit Oct 27. Still OPEN: Bloomberg >15%, Anthropic-Lambda $35B, Anthropic S-1/MatX, DeepSeek $74–75B / CFO duty start, DOJ-Nvidia-Groq, Vista-Finastra, GFL dual-bid, CleanSpark notes primary (~Sep 25 close)."
   },
   "sections": [
     "All",
@@ -28,6 +28,62 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "softbank-notes-ipg",
+      "lead": true,
+      "section": "Markets",
+      "kicker": "AI / Credit",
+      "hed": "SoftBank takes orders on ~$10B OpenAI junk bonds; IPG up to 9.875%, >$20B early interest",
+      "dek": "Reuters term sheet Wed: $1B 3.5y at 8.75–8.875%, $4.5B 5.5y at 9.375–9.5%, $4.5B 7.5y at 9.75–9.875%; books close noon NY Wed Sep 23; settle Sep 29. Japan Times/Bloomberg: >$20B preliminary demand; €1B euro sleeve; price still Thu Sep 24.",
+      "date": "Sept. 23, 2026",
+      "source": "Reuters (via South China Morning Post Standard); The Japan Times (Bloomberg)",
+      "url": "https://www.thestandard.com.hk/finance/article/343595/SoftBank-takes-orders-for-US10-billion-in-bonds-to-fund-OpenAI-investment-term-sheet-shows",
+      "also": [
+        {
+          "label": "Japan Times — >$20B early interest (Bloomberg)",
+          "url": "https://www.japantimes.co.jp/business/2026/09/23/companies/softbank-interest-junk-bond/"
+        },
+        {
+          "label": "Prior plate — softbank-openai-bonds (Reuters Sep 21 launch)",
+          "url": "https://www.reuters.com/technology/softbank-launches-11-billion-bonds-fund-openai-investment-2026-09-21/"
+        },
+        {
+          "label": "Newsquawk — IPG headline Sep 23",
+          "url": "https://www.newsquawk.com/headlines/softbank-9984-jt-takes-orders-for-usd-10bln-bond-sale-to-fund-openai-investment-with-guidance-for-35yr-bonds-at-875-8875-55yr-bonds-at-9375-95-75-year-bonds-at-975-9875"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI credit as Morning Sep 23 MAJOR lead (No. 145). PRIMARY IPG: Standard rewrite of Reuters-reviewed Wednesday term sheet — SoftBank taking orders on USD 10B (split $1B 3-1/2y, $4.5B 5-1/2y, $4.5B 7-1/2y) with IPG 8.75–8.875% / 9.375–9.5% / 9.75–9.875%; expected BB+ S&P and Fitch; books close noon New York Wednesday; settlement Sep 29; SoftBank no immediate comment. PAIR Japan Times Sep 23 (Bloomberg people-familiar): more than $20B preliminary/nonbinding early interest ahead of Thursday pricing; seeking >$11B equiv including $10B USD + €1B euro; no size cap / no final size decision. Updates softbank-openai-bonds (Sep 21 launch without IPG/book color) — keep prior story on plate. Do NOT invent final coupons, final size, or OpenAI valuation. MAJOR — set as lead over fomc-sep16. Owner Quill.",
+      "grafs": [
+        "SoftBank Group is taking investor orders for a $10 billion dollar-denominated high-yield bond package to help fund its OpenAI investments, according to a term sheet reviewed by Reuters on Wednesday, with price guidance of 8.75% to 8.875% on a $1 billion 3.5-year tranche, 9.375% to 9.5% on a $4.5 billion 5.5-year tranche, and 9.75% to 9.875% on a $4.5 billion 7.5-year tranche.",
+        "Books are set to close at noon New York time Wednesday, with settlement expected September 29, the term sheet showed. The notes are expected to be rated BB+ by S&P and Fitch. SoftBank did not immediately respond to a request for comment.",
+        "Separately, The Japan Times reported September 23, citing Bloomberg and people familiar with the matter, that SoftBank has drawn more than $20 billion of preliminary, nonbinding early interest ahead of Thursday pricing for a deal seeking the equivalent of more than $11 billion, including a $10 billion dollar portion and a €1 billion euro sleeve, with no size cap and no final size decision yet."
+      ]
+    },
+    {
+      "id": "brahma-multiples",
+      "lead": false,
+      "section": "PE",
+      "kicker": "AI / Growth Equity",
+      "hed": "Brahma AI raises $150M preferred round led by Multiples ($100M)",
+      "dek": "Company PR Sep 23: $150M preferred; Multiples Alternate Asset Management $100M; further $100M investor interest. CNBC/Prime Focus board: up to $150M; Multiples Gift Fund IV $54.35M + Fund IV $45.64M via CCPS; shareholder special resolution required.",
+      "date": "Sept. 23, 2026",
+      "source": "Brahma AI; CNBC-TV18 (Prime Focus board/exchange filing)",
+      "url": "https://www.brahma.io/news/brahma-ai-raises-150-million-round-led-by-multiples",
+      "also": [
+        {
+          "label": "CNBC-TV18 — Prime Focus board / Multiples CCPS split",
+          "url": "https://www.cnbctv18.com/market/prime-focus-share-price-unit-brahma-ai-100-million-dollar-fund-raise-multiples-pe-entities-voting-rights-change-19996258.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / AI growth as Morning Sep 23 plate (No. 145). PRIMARY company: Brahma AI Sep 23 PR — raised $150 million through preferred shares with $100 million from Multiples Alternate Asset Management; further $100 million of investor interest; Cantor Fitzgerald sole placement agent; use of proceeds framed as R&D, global GTM, Silicon Valley presence. PAIR CNBC-TV18 on Prime Focus Ltd. Wednesday board announcement — material subsidiaries Brahma AI Holdings and Brahma AI Services India raising up to $150M led by Multiples ($100M via CCPS: Gift Fund IV $54.35M, Fund IV $45.64M into Brahma India); subject to Prime Focus shareholder special resolution (SEBI LODR Reg 24(5)); voting-rights restructure caps Prime Focus indirect voting at ≤24.99% while economic stake stays >50% via DNEG. Stick to company + CNBC filing figures only. Do NOT invent pre-money valuation or ownership % beyond sourced. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Brahma AI, an AI-native operating system for enterprise audiovisual content, said September 23 it has raised $150 million through preferred shares, including a $100 million investment by Multiples Alternate Asset Management, and that it has received a further $100 million of investor interest.",
+        "The company said proceeds will accelerate R&D, global go-to-market, and a significant Silicon Valley presence. Cantor Fitzgerald & Co. served as sole placement agent.",
+        "CNBC-TV18 reported that Prime Focus Ltd.’s board the same day said material subsidiaries Brahma AI Holdings and Brahma AI Services India will raise up to $150 million led by Multiples, with Multiples Private Equity Gift Fund IV investing $54.35 million and Multiples Private Equity Fund IV subscribing to Brahma India shares worth $45.64 million via compulsorily convertible preference shares, subject to a Prime Focus shareholder special resolution."
+      ]
+    },
     {
       "id": "prgs-domo-close",
       "lead": false,
@@ -2114,7 +2170,7 @@
     },
     {
       "id": "fomc-sep16",
-      "lead": true,
+      "lead": false,
       "section": "Markets",
       "kicker": "Fed / Rates",
       "hed": "Fed hikes 25 bp to 3.75%–4.00%; SEP median year-end 4.1%",
