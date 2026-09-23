@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 148,
+  "number": 149,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Mid Afternoon",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~1:19 pm ET — Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,704.75 (−0.77%), Dow 51,559.28 (−0.59%), Nasdaq 26,909.46 (−1.23%), SOX 12,428.99 (−2.06%), NVDA $224.47 (−1.92%), AMD $612.38 (−1.83%). Yields: ^TNX ~5.13%, ^TYX ~5.40%. Futures: ES ~7,763 / NQ ~30,666.",
-    "line": "S&P 7,704.75 (−0.77%) · Dow 51,559.28 (−0.59%) · Nasdaq 26,909.46 (−1.23%) · SOX 12,428.99 (−2.06%) · NVDA $224.47 (−1.92%) · AMD $612.38 (−1.83%) · 10-year ~5.13% · 30-year ~5.40% · ES ~7,763 · NQ ~30,666 (Wed session)"
+    "updated": "Sep 23, ~2:16 pm ET - Wednesday cash session (Yahoo Finance). Session vs Tuesday close: S&P 7,713.47 (-0.66%), Dow 51,578.47 (-0.55%), Nasdaq 26,951.58 (-1.07%), SOX 12,517.27 (-1.36%), NVDA $225.44 (-1.50%), AMD $613.90 (-1.58%). Yields: ^TNX ~5.12%, ^TYX ~5.40%. Futures: ES ~7,778 / NQ ~30,743.",
+    "line": "S&P 7,713.47 (-0.66%) · Dow 51,578.47 (-0.55%) · Nasdaq 26,951.58 (-1.07%) · SOX 12,517.27 (-1.36%) · NVDA $225.44 (-1.50%) · AMD $613.90 (-1.58%) · 10-year ~5.12% · 30-year ~5.40% · ES ~7,778 · NQ ~30,743 (Wed session)"
   },
   "deskNote": {
-    "kicker": "AI capital stack into Late Afternoon",
-    "hed": "Bessemer $5.75B; Basecamp $140M; Numeral $100M; CVC–CDN77.",
+    "kicker": "AI capital stack into Mid Afternoon",
+    "hed": "Enveda $311M Series E; Hubble $200M at $1.6B.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 148 Late Afternoon — ADD basecamp-140, bessemer-575, numeral-100, cvc-cdn77, delinea-cfo (all Quill) vs No. 147 Afternoon. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~1:19 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Basecamp: PR Newswire — $140M Series C led by S32; Anthropic Anthology + NVIDIA in participant list; total $225M; no valuation in PR. Bessemer: BVP/Business Wire — $5.75B single close ($1.75B early / $4B growth). Numeral: company blog — $100M Series C Insight-led; total $157M. CVC–CDN77: Reuters — minority stake; source ~$1.9B EV. Delinea: GlobeNewswire — ex-Dropbox CFO Timothy Regan. Wednesday cash tape refreshed (Yahoo): still soft vs Tuesday; moves vs ~12:36 p.m. Afternoon plate are noise-only (S&P/Nasdaq a few tenths weaker). Open watches: SoftBank price Sep 24; DeepSeek Yan Wentao; DOJ–Nvidia–Groq; Anthropic–Lambda $35B; CleanSpark notes (~Sep 25); HUCK ticker Sep 24. X API still client-not-enrolled."
+    "body": "Vol. 1 No. 149 Mid Afternoon - ADD enveda-311, hubble-200 (both Quill) vs No. 148 Late Afternoon. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Books were due noon NY Wednesday; still no final size, oversubscription print, or coupons on primary wires as of ~2:16 p.m. ET. Price still Thursday Sep 24 / settle Sep 29. Enveda: Business Wire - $311M Series E led by Catalio; total >$845M; Petrocheilos to board; no valuation in PR. Hubble: company/GeekWire - $200M Series C at $1.6B; Smith Point lead; total $300M. Tape refresh only vs ~1:19 p.m. plate (modest bounce; still soft vs Tuesday)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 148 Late Afternoon + basecamp-140 + bessemer-575 + numeral-100 + cvc-cdn77 + delinea-cfo; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump–Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 149 Mid Afternoon + enveda-311 + hubble-200; softbank-notes-ipg still MAJOR (books were due noon NY Wed; no coupons yet; price Thu Sep 24). Trump-Xi Thu. SoftBank notes settle Sep 29 / ~Oct 1 OpenAI tranche. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,66 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "enveda-311",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Biotech",
+      "hed": "Enveda raises $311M Series E led by Catalio for AI drug discovery",
+      "dek": "Business Wire Sep 23: Catalio leads; Durable, ICONIQ, Lightspeed, Surveyor (Citadel), T. Rowe IM accounts, Digitalis, a sovereign wealth fund, Alderline join; existing Baillie Gifford, Premji, FPV, True, Kinnevik, Lux and others. Total capital >$845M. Petrocheilos to board. No valuation in PR.",
+      "date": "Sept. 23, 2026",
+      "source": "Business Wire (Enveda); BioSpace",
+      "url": "https://www.businesswire.com/news/home/20260923027166/en/Enveda-Raises-311-Million-From-Leading-AI-and-Biotech-Investors-to-Bring-Pharma-Into-the-21st-Century",
+      "also": [
+        {
+          "label": "FinancialContent Business Wire reprint",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-23-enveda-raises-311-million-from-leading-ai-and-biotech-investors-to-bring-pharma-into-the-21st-century"
+        },
+        {
+          "label": "BioSpace BW wire reprint",
+          "url": "https://www.biospace.com/press-releases/enveda-raises-311-million-from-leading-ai-and-biotech-investors-to-bring-pharma-into-the-21st-century"
+        },
+        {
+          "label": "BioSpace news feature (do not lift IPO speculation into grafs)",
+          "url": "https://www.biospace.com/business/ai-drug-hunter-enveda-raises-311m-for-late-stage-obesity-inflammatory-disease-push"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / biotech as Mid Afternoon Sep 23 (No. 149). Morning 8am ET Business Wire miss vs Nos. 145-148. PRIMARY BW / FinancialContent reprint: $311M Series E led by Catalio; total capital raised >$845M; George Petrocheilos joins board; proceeds for ENV-294/ENV-308 later-stage and new indications, ENV-6946 mid-phase, more clinical starts, scale PRISM. Do NOT invent valuation or IPO plan (feature copy only). NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Boulder clinical-stage biotech Enveda said September 23 it closed a $311 million Series E led by Catalio Capital Management, bringing total capital raised since inception to more than $845 million, according to a Business Wire release.",
+        "New investors named in the release include Durable Capital Partners, ICONIQ, Lightspeed, Surveyor Capital (a Citadel company), accounts advised by T. Rowe Price Investment Management, Digitalis Ventures, a notable sovereign wealth fund, and Alderline Group, alongside existing backers including Baillie Gifford, Premji Invest, FPV Ventures, True Ventures, Kinnevik, Dimension, Lifeforce Capital and Lux Capital. Catalio co-founder George Petrocheilos is joining the board.",
+        "Enveda said proceeds will advance ENV-294 and ENV-308 into later-stage trials and additional indications, push ENV-6946 through mid-phase development, bring more inflammatory and metabolic candidates into the clinic, and scale its PRISM AI platform for reading natural chemistry. The company cited 2026 early clinical readouts for ENV-294 (atopic dermatitis) and ENV-308 (metabolic health). Primary wires did not disclose a valuation."
+      ]
+    },
+    {
+      "id": "hubble-200",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "VC / Connectivity",
+      "hed": "Hubble Network raises $200M Series C at $1.6B for Bluetooth-to-satellite IoT",
+      "dek": "Company PR / GeekWire Sep 23: Smith Point Capital leads; Seraphim, Carthona, Earthshot, YC, RPM participate. Total funding $300M. 6 LEO sats now; aims for 60 by 2030 with Muon Space. Opens BLE coverage without new modem hardware.",
+      "date": "Sept. 23, 2026",
+      "source": "Hubble Network; GeekWire",
+      "url": "https://hubble.com/news/hubble-network-opens-satellite-coverage-to-all-bluetooth-devices-raises-200-million-series-c-at-1.6-billion-valuation",
+      "also": [
+        {
+          "label": "GeekWire $1.6B unicorn color",
+          "url": "https://www.geekwire.com/2026/hubble-network-raises-200m-to-reach-1-6b-valuation-as-startup-expands-satellite-bluetooth-network/"
+        },
+        {
+          "label": "FinancialContent Business Wire reprint",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-9-23-hubble-network-opens-satellite-coverage-to-all-bluetooth-devices-raises-200-million-series-c-at-16-billion-valuation"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / connectivity infra as Mid Afternoon Sep 23 (No. 149). Morning miss. Stick to company figures: $200M Series C, $1.6B valuation, $300M total, Smith Point lead, prior $70M Series B a year ago, 6 to 60 sats by 2030 with Muon Space. Not core model AI; infra/IoT capital stack. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Seattle startup Hubble Network said September 23 it raised a $200 million Series C led by Smith Point Capital at a $1.6 billion valuation, bringing total funding to $300 million, according to the company and GeekWire.",
+        "Participants named by the company include Seraphim, Carthona Capital, Earthshot Ventures, Y Combinator and RPM Ventures. Hubble said any Bluetooth LE device can reach its satellite network via SDK/firmware without a dedicated modem.",
+        "The firm said it operates six low-Earth-orbit satellites and plans a 60-satellite constellation by 2030 built with Muon Space, and cited pilot use including Samsara. GeekWire noted the round comes a year after a $70 million Series B."
+      ]
+    },
     {
       "id": "basecamp-140",
       "lead": false,
