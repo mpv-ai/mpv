@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 156,
+  "number": 157,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
-    "source": "Yahoo Finance (equities Wed cash; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 24, ~9:10 am ET - Pre-open: cash still Wed close on Yahoo; futures softer; long bond firmer (Yahoo). Cash vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.41%. Futures: ES ~7,736 / NQ ~30,493.50. (Reuters separately: 30y ~5.444% high since 2004 — see ust-30y-williams.)",
-    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.41% · ES ~7,736 · NQ ~30,493.50 (Wed cash / Thu pre-open futures; Yahoo)"
+    "source": "Yahoo Finance (cash Thu open session; ^TNX/^TYX; ES/NQ futures)",
+    "updated": "Sep 24, ~10:20 am ET - Cash live vs Wed close (Yahoo). Indices softer; SOX/NVDA weaker; AMD green; yields slightly off highs.",
+    "line": "S&P 7,688.00 (-0.23%) · Dow 51,358.53 (-0.30%) · Nasdaq 26,772.40 (-0.61%) · SOX 12,337.86 (-1.57%) · NVDA $222.12 (-1.50%) · AMD $615.85 (+0.20%) · 10-year ~5.09% · 30-year ~5.39% · ES ~7,754 · NQ ~30,601 (Thu cash / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Morning",
-    "hed": "SoftBank OpenAI junk notes PRICED ~$11.1B; 30y yields + Williams hike color.",
+    "kicker": "AI desk into Mid-Morning",
+    "hed": "Tape opens softer; HUCK live; PLACE buys Maxwell; CleanSpark notes priced ahead of Sep 25 settle.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 156 Morning - UPDATE softbank-notes-ipg to final coupons/size (MAJOR lead) + ADD ust-30y-williams (MAJOR) + island-400-series-f vs No. 155 Late Close. SoftBank IR Sep 24: ~USD 11.1B (USD 10B + EUR 1B); USD 8.625%/9.25%/9.75% due Apr 2030/32/34; EUR 7.125%/8.00% due Oct 2030/32; settle Sep 29; OpenAI $10B tranche expected Oct 1; bridge cancel. Reuters: 30y ~5.444% highest since 2004; Williams another 2026 hike \"reasonable\". Island: $400M Series F at $6.4B (Evolution Equity; CNBC/company). Tekever already on plate (tekever-580). Tape: pre-open Yahoo futures ES ~7,736 / NQ ~30,493; ^TYX ~5.41%."
+    "body": "Vol. 1 No. 157 Mid-Morning vs No. 156 Morning. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD huck-ticker-live (Huckleberry.ai Nasdaq HUCK ~$3.41 Yahoo) + place-maxwell (PLACE closes Maxwell AI mortgage buy; terms undisclosed). UPDATE clsk-meta-2227: PR Newswire Sep 18 priced $2.276B 7.875% notes due 2031 at 98.5%; settle Sep 25 (was proposed $2.227B). Tape: Yahoo Thu cash S&P 7,688 / Nasdaq 26,772 / SOX −1.57% / NVDA $222.12; ^TYX ~5.39%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 156 Morning: softbank-notes-ipg PRICED MAJOR lead + ust-30y-williams MAJOR + island-400-series-f. SoftBank settle Sep 29 / OpenAI Oct 1 tranche. Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 157 Mid-Morning: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD huck-ticker-live + place-maxwell; UPDATE clsk-meta-2227 priced (settle Sep 25). SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -114,6 +114,61 @@
         "Island, the Dallas-based enterprise browser and security company, raised $400 million in a Series F round that values it at $6.4 billion, CNBC reported Thursday, citing an exclusive interview with CEO and co-founder Mike Fey.",
         "Evolution Equity Partners led the round, with participation from existing investors including Prysm Capital, Sequoia Capital, Coatue Management, Cyberstarts, Insight Partners and J.P. Morgan Growth Equity Partners, according to Island's GlobeNewswire release and CNA. The company said the financing more than doubles its 2024 valuation and will fund R&D and expansion into Europe, Asia and the Middle East.",
         "Fey told CNBC the firm plans to grow from about 1,000 to 1,500 employees by the middle of next year as enterprises race to secure AI agents. SoftBank's priced OpenAI notes remain the plate lead."
+      ]
+    },
+    {
+      "id": "huck-ticker-live",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Markets / Ticker",
+      "hed": "Huckleberry.ai begins Nasdaq trading as HUCK after Domo asset sale",
+      "dek": "Business Wire Sep 22 set HUCK effective Sep 24; Yahoo mid-morning shows HUCK ~$3.41 vs prior DOMO close ~$3.55. Debt-free shell starts with ~$221M cash (~$4.46/sh) and >$900M NOLs after Progress $400M asset buy. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire (Huckleberry/Domo); Yahoo Finance",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-22-domo-completes-sale-to-progress-software-huckleberry-begins-the-next-chapter",
+      "also": [
+        {
+          "label": "Yahoo Finance — HUCK quote",
+          "url": "https://finance.yahoo.com/quote/HUCK/"
+        },
+        {
+          "label": "Prior plate — prgs-domo-close (Progress $400M / Sep 22 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/876167/000155278126000497/e26389_prgs-8k.htm"
+        },
+        {
+          "label": "Progress closing PR",
+          "url": "https://www.globenewswire.com/news-release/2026/09/22/3366879/0/en/progress-software-completes-acquisition-of-domo-s-ai-and-data-platform-business.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / ticker as Mid-Morning Sep 24 (No. 157; comingUp flagged HUCK Sep 24). PRIMARY Business Wire Sep 22: Domo completed Progress asset sale, renamed Huckleberry.ai, Inc.; common stock trades Nasdaq Global Market as HUCK (CUSIP 257554105) effective Sep 24; ~$221M cash (~$4.46/share) debt-free; >$900M NOL carryforwards retained; Josh James remains CEO; tax benefits preservation plan in effect. PAIR Yahoo Finance mid-morning Sep 24 print HUCK ~$3.41 (prior DOMO close context ~$3.55). Builds on prgs-domo-close. Do NOT invent first-trade VWAP or capital-return plan. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Huckleberry.ai, Inc., the renamed Domo shell that sold its AI and data platform to Progress Software for $400 million cash, began trading on the Nasdaq Global Market under the ticker HUCK on Sept. 24, according to the company's Sept. 22 Business Wire release setting the effective date.",
+        "Yahoo Finance showed HUCK near $3.41 in Thursday mid-morning trading. Huckleberry said it starts debt-free with about $221 million of cash after closing adjustments (about $4.46 per share) and retains more than $900 million of net operating loss carryforwards, with founder Josh James remaining CEO while the board evaluates uses of capital and tax attributes."
+      ]
+    },
+    {
+      "id": "place-maxwell",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Fintech / AI Mortgage",
+      "hed": "PLACE closes buy of Maxwell AI mortgage platform; terms undisclosed",
+      "dek": "PR Newswire Sep 24 8:00 a.m. ET: real-estate unicorn PLACE closed acquisition of Maxwell, AI-powered mortgage tech serving 400+ institutions / >$130B annual transactions; nearly 1 in 10 U.S. mortgage transactions in 2025. Price not disclosed. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "PLACE Inc. / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/place-acquires-fintech-maxwell-bolsters-its-platform-for-lenders-and-institutional-partners-302888469.html",
+      "also": [
+        {
+          "label": "PR Newswire — PLACE acquires Maxwell",
+          "url": "https://www.prnewswire.com/news-releases/place-acquires-fintech-maxwell-bolsters-its-platform-for-lenders-and-institutional-partners-302888469.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Finance / fintech AI as Mid-Morning Sep 24 (No. 157). PRIMARY PLACE Inc. PR Newswire Sep 24 8:00 a.m. ET: closed acquisition of Maxwell (AI mortgage POS, BI, fulfillment, diligence, private-label origination); Maxwell serves >400 financial institutions, facilitates >$130B annual transactions, touched nearly 1 in 10 mortgage originations in 2025 with ~20% 5-year CAGR. PLACE CEO Ben Kinney / Maxwell CEO John Paasonen quoted. Earlier 2026 PLACE bought Radian Real Estate Services. Do NOT invent purchase price, valuation, or earnout. Not MAJOR. Owner Quill.",
+      "grafs": [
+        "PLACE, a real-estate and homeownership technology platform, said on Sept. 24 it closed the acquisition of Maxwell, a provider of AI-powered mortgage technology and services, according to a PLACE PR Newswire release. Terms were not disclosed.",
+        "Maxwell serves more than 400 financial institutions and facilitates more than $130 billion in annual transactions, and in 2025 touched nearly one in 10 U.S. mortgage originations, PLACE said. The deal folds Maxwell's point-of-sale, business intelligence, fulfillment, diligence, and private-label origination tools into PLACE's ecosystem for lenders and agents.",
+        "PLACE said the combination follows its earlier 2026 purchase of Radian Group's Real Estate Services business and that Maxwell customers face no disruption to existing contracts."
       ]
     },
     {
@@ -2308,31 +2363,35 @@
       "lead": false,
       "section": "Finance",
       "kicker": "AI Infra / Debt",
-      "hed": "CleanSpark names Meta as Sandersville tenant; seeks $2.227B notes",
-      "dek": "SEC 8-K + Ex. 99.1 Sep 17. Anviran LLC = Meta sub; Meta guarantor. ~$6.6B NNN / 175 MW. Notes proposed, not priced. Not MAJOR.",
-      "date": "Sept. 17, 2026",
-      "source": "CleanSpark SEC 8-K; Exhibit 99.1",
-      "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-20260917.htm",
+      "hed": "CleanSpark prices $2.276B 7.875% Sandersville notes; Meta tenant; settle Sep 25",
+      "dek": "PR Newswire Sep 18: CSDC Finance I priced $2.276B 7.875% senior secured notes due 2031 at 98.5% of par; close expected Sep 25. Upsized vs Sep 17 proposed $2.227B. Proceeds for Sandersville build-out, equity reimbursement, DSRA. Meta sub Anviran tenant (~$6.6B NNN / 175 MW) from Sep 17 8-K. Not MAJOR.",
+      "date": "Sept. 18, 2026",
+      "source": "CleanSpark PR Newswire (pricing); SEC 8-K Sep 17 (Meta tenant)",
+      "url": "https://www.prnewswire.com/news-releases/cleanspark-inc-announces-pricing-of-2-276-billion-of-senior-secured-notes-302883634.html",
       "also": [
         {
-          "label": "SEC Exhibit 99.1 (investor materials)",
+          "label": "PR Newswire — pricing $2.276B 7.875% due 2031",
+          "url": "https://www.prnewswire.com/news-releases/cleanspark-inc-announces-pricing-of-2-276-billion-of-senior-secured-notes-302883634.html"
+        },
+        {
+          "label": "SEC 8-K Sep 17 — Meta/Anviran tenant + proposed notes",
+          "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-20260917.htm"
+        },
+        {
+          "label": "SEC Exhibit 99.1 investor materials",
           "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_1.htm"
         },
         {
-          "label": "SEC Exhibit 99.2 (notes PR)",
-          "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_2.htm"
-        },
-        {
-          "label": "PR Newswire notes PR",
+          "label": "Prior proposed offering PR ($2.227B)",
           "url": "https://www.prnewswire.com/news-releases/cleanspark-inc-announces-proposed-offering-of-2-227-billion-of-senior-secured-notes-302881360.html"
         }
       ],
       "owner": "QUILL",
-      "action": "ADD under Finance / AI DC debt as Early Afternoon catch-up (CleanSpark 8-K Sep 17; missed by No. 118 Midday). PRIMARY 8-K Acc. 0001193125-26-393758: proposes $2.227B senior secured notes due 2031 via CSDC Finance I for Sandersville build-out, equity reimbursement, debt-service reserves; completion guarantee from CleanSpark; subject to market conditions. PRIMARY tenant ID is Exhibit 99.1 investor materials furnished under Item 7.01: Tenant Anviran, LLC is a wholly owned subsidiary of Meta; Meta serves as guarantor of rent and operating expenses; ~$6.6B triple-net lease / 175 MW critical IT; Phase I rent targeted Q4 2027. Do NOT treat notes as priced/closed. July lease print previously unnamed the IG tech tenant - this closes the name. Not MAJOR. Owner Quill.",
+      "action": "UPDATE under Finance / AI DC debt as Mid-Morning Sep 24 (No. 157; plate still said proposed). PRIMARY PR Newswire Sep 18: CSDC Finance I priced $2.276 billion of 7.875% senior secured notes due 2031 at 98.500% of principal; Rule 144A/Reg S; expected close Sep 25 subject to customary conditions; use of proceeds Sandersville remaining build-out, reimburse prior equity contributions, fund debt-service reserves; guaranteed by CSRE Properties Sandersville; first-priority liens; CleanSpark completion guarantee. PAIR Sep 17 8-K/Ex. 99.1 for Meta tenant Anviran LLC (~$6.6B NNN / 175 MW). Do NOT invent book size, rating, or Meta lease economics beyond 8-K. Settle watch Sep 25. Not MAJOR. SoftBank remains lead. Owner Quill.",
       "grafs": [
-        "CleanSpark (Nasdaq: CLSK) on Sept. 17 filed an 8-K announcing that wholly owned subsidiary CSDC Finance I intends to offer, subject to market conditions, $2.227 billion of senior secured notes due 2031 to finance remaining Sandersville data-center build-out costs, reimburse prior equity contributions, and fund debt-service reserves, with CleanSpark providing a completion guarantee.",
-        "Investor materials furnished as Exhibit 99.1 identify the Sandersville tenant as Anviran, LLC, a wholly owned Meta subsidiary, and state that Meta is guarantor of rent and operating expenses on the roughly $6.6 billion, 20-year triple-net lease covering 175 MW of critical IT load, with Phase I rent targeted for the fourth quarter of 2027.",
-        "The notes offering has not closed and remains subject to market and other conditions. The Meta naming closes the previously anonymous “high-investment-grade global technology company” label from CleanSpark’s July lease announcement. Not MAJOR - fomc-sep16 remains the plate lead."
+        "CleanSpark's CSDC Finance I subsidiary priced $2.276 billion of 7.875% senior secured notes due 2031 at 98.5% of principal on Sept. 18, according to a CleanSpark PR Newswire release, upsizing the $2.227 billion size flagged in its Sept. 17 Form 8-K.",
+        "The Rule 144A/Regulation S notes are expected to close Sept. 25, 2026, subject to customary conditions, with proceeds earmarked for remaining Sandersville data-center build-out costs, reimbursement of prior equity contributions, and debt-service reserves. CSRE Properties Sandersville guarantees the notes, CleanSpark provides a completion guarantee, and first-priority liens secure the package, the company said.",
+        "Separately, CleanSpark's Sept. 17 investor materials identify Sandersville tenant Anviran, LLC as a wholly owned Meta subsidiary, with Meta guaranteeing rent and operating expenses on the roughly $6.6 billion, 20-year triple-net lease covering about 175 MW of critical IT load."
       ]
     },
     {
