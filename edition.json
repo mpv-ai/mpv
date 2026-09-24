@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 163,
+  "number": 164,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Late Close",
+  "editionLabel": "Early Evening",
   "tape": {
-    "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~4:00 pm ET cash close (Yahoo). Flat-to-soft close: S&P/Dow red, Nasdaq barely green; AMD +2.34% leader; SOX −0.33%; ORCL −3.5% on Jupiter FM; yields firm (^TNX 5.162% / ^TYX 5.461%).",
-    "line": "S&P 7,704.23 (−0.02%) · Dow 51,349.89 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · SOX 12,492.54 (−0.33%) · NVDA $224.59 (−0.41%) · AMD $629.01 (+2.34%) · ORCL $139.52 (−3.49%) · 10-year 5.162% · 30-year 5.461% · ES ~7,770.50 · NQ ~30,769.25 (Thu close / Yahoo)"
+    "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; AH quiet)",
+    "updated": "Sep 24, ~4:50 pm ET (Yahoo). Cash close confirmed vs Late Close; AH quiet (ORCL flat AH). S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47% close; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
+    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA n/a this pass · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH flat) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~4:50 pm ET)"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Close",
-    "hed": "Cash flat-soft; Oracle Jupiter force majeure; SoftBank puts $225M into ASI autonomy JV.",
+    "kicker": "AI desk into Early Evening",
+    "hed": "Cash close sticks; ARK tokenizes Venture Fund with OpenAI/Anthropic exposure; Blackstone shelves ~$3B Eclipse CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 163 Late Close vs No. 162 Afternoon Close. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD oracle-jupiter-fm (Reuters/Bloomberg Sep 24: Oracle force majeure notice to Blue Owl/Stack on Project Jupiter NM DC over power delays; ORCL −3.5% close) + softbank-asi-225 (Business Wire Sep 24: SoftBank $225M into ASI + JV for autonomous construction). Tape: Yahoo ~4:00 pm ET close S&P 7,704 / Nasdaq 26,939 / AMD +2.34% / ORCL $139.52; ^TNX 5.162% / ^TYX 5.461%."
+    "body": "Vol. 1 No. 164 Early Evening vs No. 163 Late Close. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD ark-securitize-venture (PR Newswire/CoinDesk Sep 24: ARK tokenizes ARKVX via Securitize; portfolio includes OpenAI, Anthropic, Stripe, Databricks) + bx-eclipse-cfo (PE Wire Sep 24 via Bloomberg: Blackstone shelves ~$3B Project Eclipse collateralised fund obligation). Tape: Yahoo ~4:50 pm ET confirms cash close; AH quiet."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 163 Late Close: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD oracle-jupiter-fm + softbank-asi-225. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 164 Early Evening: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD ark-securitize-venture + bx-eclipse-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,70 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "ark-securitize-venture",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Tokenization",
+      "hed": "ARK tokenizes Venture Fund (ARKVX) with Securitize; OpenAI and Anthropic in portfolio",
+      "dek": "PR Newswire Sep 24 (Securitize): ARK Invest tokenizes ARK Venture Fund (ARKVX) via Securitize (NYSE: SECZ). Actively managed closed-end interval fund; portfolio includes OpenAI, Anthropic, Stripe, Databricks among others (holdings subject to change). Tokenized ARKVX on Ethereum at release; Securitize handles onchain issuance/investor experience. Builds on ARK strategic investment in Securitize (Oct 2025). Do NOT invent ARKVX AUM, share price, or secondary-trading start. PAIR CoinDesk. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "PR Newswire (Securitize / ARK)",
+      "url": "https://www.prnewswire.com/news-releases/ark-invest-tokenizes-ark-venture-fund-arkvx-with-securitize-302888300.html",
+      "also": [
+        {
+          "label": "CoinDesk — ARK/Securitize OpenAI-Anthropic exposure onchain",
+          "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes"
+        },
+        {
+          "label": "Securitize — ARKVX investor page",
+          "url": "https://securitize.io/arkvx"
+        },
+        {
+          "label": "MPV — prior SEC Innovation Exemption (sec-tokenize)",
+          "url": "https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / Tokenization as Early Evening Sep 24 (No. 164 vs No. 163 Late Close). PRIMARY PR Newswire Sep 24 09:00 ET (Miami; SOURCE Securitize): ARK Invest and Securitize Corp. (NYSE: SECZ) announce tokenization of ARK Venture Fund (ARKVX); actively managed closed-end interval fund seeking long-term growth across private and public disruptive-innovation names; portfolio includes OpenAI, Anthropic, Stripe, Databricks among others (holdings subject to change); tokenized ARKVX available on Ethereum at release with Securitize providing onchain issuance and investor experience; Cathie Wood and Carlos Domingo quoted; builds on ARK strategic investment in Securitize announced Oct 2025. PAIR CoinDesk Sep 24 (SECZ jumped as much as 15% on news per CoinDesk; Domingo on CoinDesk TV: diversified pool if unsure OpenAI vs Anthropic winner; token is fund interest not direct co shares; daily NAV / onchain trading plans per Domingo). Do NOT invent ARKVX AUM (some secondary outlets cite ~$1.3B — not in PR), OpenAI/Anthropic stake sizes, or that secondary trading has begun. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "ARK Invest and Securitize Corp. (NYSE: SECZ) announced the tokenization of the ARK Venture Fund (ARKVX) through Securitize, according to a PR Newswire release dated Sept. 24, 2026.",
+        "ARKVX is an actively managed closed-end interval fund that invests across private and public companies tied to disruptive innovation. The release said the portfolio includes investments in OpenAI, Anthropic, Stripe, and Databricks, among others, with holdings subject to change.",
+        "Tokenized ARKVX is available on Ethereum at release, with Securitize providing the infrastructure for onchain issuance and the investor experience. Eligible investors can access the fund through Securitize.",
+        "The move builds on ARK's strategic investment in Securitize announced in October 2025. Cathie Wood, ARK founder, CEO and CIO, said tokenizing the fund puts the firm's conviction on capital-markets evolution into practice. Securitize co-founder and CEO Carlos Domingo said the collaboration advances institutional adoption of tokenized securities.",
+        "CoinDesk reported the same day that Securitize shares jumped as much as 15% after the news and quoted Domingo saying investors get both OpenAI and Anthropic in a diversified pool if they are unsure which wins the AI race. CoinDesk also stressed that tokenizing the fund does not put the underlying private companies onchain; investors receive a blockchain representation of their interest in the fund."
+      ]
+    },
+    {
+      "id": "bx-eclipse-cfo",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Secondaries Credit",
+      "hed": "Blackstone shelves ~$3B Project Eclipse CFO on ageing PE stakes",
+      "dek": "Private Equity Wire Sep 24 (Bloomberg report): Blackstone Strategic Partners shelved ~$3B collateralised fund obligation (CFO) Project Eclipse packaging ~700 PE fund interests as collateral for bonds + equity tranche. Investor pushback on leverage and asset age (~8% holdings 20+ years; another ~15% 15–20 years). Junior yields cited as much as 12%; senior ~7.5%. Jefferies marketed. Blackstone and Jefferies declined comment; redesigned deal may return. Do NOT invent BX share reaction or fund name beyond Eclipse. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Private Equity Wire (Bloomberg)",
+      "url": "https://www.privateequitywire.co.uk/blackstone-shelves-3bn-cfo-deal-amid-investor-concerns/",
+      "also": [
+        {
+          "label": "Private Equity Wire — earlier Aug weigh-abandoning coverage",
+          "url": "https://www.privateequitywire.co.uk/blackstone-weighs-abandoning-3bn-financing-plan-for-secondaries-fund/"
+        },
+        {
+          "label": "Yahoo/Investing.com carry — Aug 12 Bloomberg 'weighs scrapping' (prior status)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-weighs-scrapping-3bn-project-163207983.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / Secondaries credit as Early Evening Sep 24 (No. 164 vs No. 163 Late Close) — same-day miss from morning PE Wire. PRIMARY Private Equity Wire Sep 24 10:31 am: Blackstone shelved plans for roughly $3bn CFO (collateralised fund obligation) Project Eclipse to provide liquidity against ageing PE fund stakes, per Bloomberg report. Strategic Partners secondaries spent months on structure packaging stakes into pool as collateral for bonds and equity tranche; put on hold in current form after potential investors raised concerns over leverage and age of underlying assets. Yields as much as 12% on parts of junior debt; senior tranche marketed ~7.5%. Portfolio ~700 fund interests; ~8% holdings dating back at least 20 years and another ~15% aged 15–20 years. Difficulty finding equity-tranche investor; keeping equity / some junior debt would not work economically for Blackstone per sources. Blackstone and Jefferies (engaged to market) declined comment; shelving does not preclude modified return to market. PAIR prior Aug Bloomberg 'weighs' color as status history only. Do NOT invent fund vehicle legal name beyond Project Eclipse, BX stock move on Sep 24, or insurer buyer names. NOT MAJOR. Owner Quill. Note: CFO here means collateralised fund obligation, not chief financial officer.",
+      "grafs": [
+        "Blackstone has shelved plans for a roughly $3 billion collateralised fund obligation, known as Project Eclipse, that was meant to raise liquidity against a portfolio of ageing private equity fund stakes, Private Equity Wire reported on Sept. 24, 2026, citing Bloomberg.",
+        "The deal sat inside Blackstone's Strategic Partners secondaries business and would have packaged interests in private equity funds into a pool used as collateral for bonds and an equity tranche. Sources told Bloomberg the current structure was put on hold after potential investors objected to leverage and the age of the underlying assets.",
+        "Private Equity Wire said the portfolio contained around 700 fund interests, with about 8% of holdings dating back at least 20 years and another 15% aged between 15 and 20 years. Parts of the junior debt were marketed with yields of as much as 12%, while the senior tranche was marketed around 7.5%.",
+        "Finding an investor for the equity tranche was also difficult. Keeping the equity and potentially some junior debt might have eased buyer concerns, but the economics would not have worked for Blackstone under that approach, according to the sources.",
+        "Blackstone and Jefferies, which was engaged to market the transaction, declined to comment. Shelving the current structure does not stop Blackstone from redesigning the deal and returning to the market later."
+      ]
+    },
     {
       "id": "oracle-jupiter-fm",
       "lead": false,
