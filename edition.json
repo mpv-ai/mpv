@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 159,
+  "number": 160,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Mid-Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
     "source": "Yahoo Finance (cash Thu session; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~11:54 am ET - Cash live vs Wed close (Yahoo). Yields firm vs Midday (^TNX ~5.16% / ^TYX ~5.45%); SOX/NVDA bounce off lows; Dow softer.",
-    "line": "S&P 7,672.04 (−0.44%) · Dow 51,172.85 (−0.66%) · Nasdaq 26,761.18 (−0.65%) · SOX 12,340.49 (−1.55%) · NVDA $222.53 (−1.32%) · AMD $611.48 (−0.51%) · 10-year ~5.16% · 30-year ~5.45% · ES ~7,734.50 · NQ ~30,539.50 (Thu cash / Yahoo)"
+    "updated": "Sep 24, ~12:53 pm ET - Cash live vs Wed close (Yahoo). Bounce from Mid-Afternoon lows: S&P/Nasdaq flat-to-green; AMD leads AI names; yields still firm (^TNX ~5.14% / ^TYX ~5.43%).",
+    "line": "S&P 7,709.41 (+0.04%) · Dow 51,405.41 (−0.21%) · Nasdaq 26,928.35 (−0.03%) · SOX 12,471.43 (−0.50%) · NVDA $224.03 (−0.66%) · AMD $622.90 (+1.35%) · 10-year ~5.14% · 30-year ~5.43% · ES ~7,777.50 · NQ ~30,784.25 (Thu cash / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Mid-Afternoon",
-    "hed": "Yields firm; BlackRock/IFM exclusive on Stack APAC DCs; 73 Strings buys Callisto.",
+    "kicker": "AI desk into Afternoon",
+    "hed": "Tape bounces off Mid-Afternoon lows; Silk $45M Avenue facility; BigHat $75M C; Boomi CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 159 Mid-Afternoon vs No. 158 Midday. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD blackrock-stack-apac (Bloomberg via CNA/Reuters: BlackRock AIP + IFM exclusive talks for Stack Infrastructure APAC data centers; up to ~$25B; Blue Owl seller; diligence; talks can still fail) + 73strings-callisto (Business Wire: 73 Strings acquires Paris Callisto for agentic AI private-markets workflows; terms undisclosed). Tape: Yahoo ~11:54 am ET S&P 7,672 / Nasdaq 26,761 / SOX −1.55% / NVDA $222.53; ^TNX ~5.16% / ^TYX ~5.45%."
+    "body": "Vol. 1 No. 160 Afternoon vs No. 159 Mid-Afternoon. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD silk-45-avenue (Newswire Sep 23: Silk $45M Avenue-led growth facility for agentic AI data layer) + bighat-75-series-c (Business Wire Sep 24: BigHat $75M Series C co-led DFJ Growth/Premji; total $223M) + boomi-hickman-cfo (Business Wire Sep 24: Mike Hickman CFO from Proofpoint). Tape: Yahoo ~12:53 pm ET S&P 7,709 / Nasdaq 26,928 / SOX −0.50% / NVDA $224.03 / AMD $622.90; ^TNX ~5.14% / ^TYX ~5.43%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 159 Mid-Afternoon: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD blackrock-stack-apac + 73strings-callisto. SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 160 Afternoon: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD silk-45-avenue + bighat-75-series-c + boomi-hickman-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -86,6 +86,82 @@
         "The yield on the 30-year U.S. Treasury climbed more than 3 basis points to 5.444%, its highest since 2004, Reuters reported Thursday as the months-long global bond selloff gathered pace on strong growth and inflation signals.",
         "Separately, New York Fed President John Williams told a London conference organized by the National Institute of Economic and Social Research that market forecasts expecting another rate hike by year-end \"seem to me a reasonable way of thinking about it,\" while stressing the Fed will keep collecting data, Reuters reported. The Fed last week raised its policy rate to the 3.75%–4.00% range under Chair Kevin Warsh.",
         "SoftBank's newly priced ~$11.1B OpenAI junk notes remain the plate's MAJOR lead (softbank-notes-ipg)."
+      ]
+    },
+    {
+      "id": "silk-45-avenue",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infra Debt",
+      "hed": "Silk closes $45M Avenue-led growth facility for agentic AI data layer",
+      "dek": "Newswire Sep 23: Silk (Needham) closes $45M growth capital facility led by Avenue Capital Growth Lending; Sequoia, S Capital, Vintage, Ibex, West Coast Equity also in. Proceeds for engineering, neocloud/sovereign/inference GTM, and AWS/Azure/GCP footprint. Claims up to 10x perf / 69% lower cloud cost. Not MAJOR.",
+      "date": "Sept. 23, 2026",
+      "source": "Newswire (Silk)",
+      "url": "https://www.newswire.com/news/silk-closes-45-million-growth-capital-facility-to-scale-the-data-layer-for",
+      "also": [
+        {
+          "label": "Dealroom note — Avenue-led $45M facility",
+          "url": "https://app.dealroom.co/news/note/silk-lands-45m-debt-facility-to-build-the-data-layer-for-ai-agents"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra debt as Afternoon Sep 24 (No. 160 vs No. 159 Mid-Afternoon). PRIMARY Newswire Sep 23 18:27 UTC Silk PR: $45M growth capital facility led by Avenue Capital Group Growth Lending; participants Sequoia Capital, S Capital VC, Vintage Investment Partners, Ibex Investors, West Coast Equity Partners and others; use for engineering, neocloud/sovereign/inference cloud GTM, deepen AWS/Azure/GCP; CEO Dani Golan and Avenue SPM Tony Pandjiris quoted; CBDO Aaron Shoffa recently appointed; cites Cloudflare machine-traffic/AI-agent request growth; performance/cost claims are company 'up to' figures. Do NOT invent valuation, equity dilution, or ARR. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Silk, the Needham, Mass. data platform built for agentic AI workloads, closed a $45 million growth capital facility led by Avenue Capital Group's Growth Lending Strategy, the company said in a Newswire release dated Sept. 23, 2026.",
+        "Sequoia Capital, S Capital VC, Vintage Investment Partners, Ibex Investors, West Coast Equity Partners and others participated. Silk said it will put the capital into engineering, go-to-market coverage of neocloud, sovereign and inference cloud providers, and a deeper footprint across Amazon Web Services, Microsoft Azure and Google Cloud.",
+        "CEO Dani Golan framed the raise as balance-sheet capacity for agent-driven production demand; Avenue Senior Portfolio Manager Tony Pandjiris cited Silk's recurring enterprise revenue and data-layer bottleneck thesis. SoftBank's OpenAI notes remain the plate lead."
+      ]
+    },
+    {
+      "id": "bighat-75-series-c",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Biotech",
+      "hed": "BigHat Biosciences raises $75M Series C for AI-designed biologics, total $223M",
+      "dek": "Business Wire via FinancialContent Sep 24 7:00 a.m. ET: DFJ Growth and Premji Invest co-lead $75M Series C; total raised $223M. Proceeds for platform + clinical pipeline (BHB810 Phase 1 ADC; BHB299 T-cell engager toward 2027 trials). Participants incl. Catalio, LG Tech Ventures, a16z, Amgen Ventures, Lilly, Merck GHI. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire via FinancialContent; BioSpace",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-24-bighat-biosciences-announces-75-million-series-c-financing-to-advance-ai-designed-therapeutics-and-leading-agentic-data-platform-for-rapid-protein-design",
+      "also": [
+        {
+          "label": "BioSpace — full Series C press release",
+          "url": "https://www.biospace.com/press-releases/bighat-biosciences-announces-75-million-series-c-financing-to-advance-ai-designed-therapeutics-and-leading-agentic-data-platform-for-rapid-protein-design"
+        },
+        {
+          "label": "Axios Pro — BigHat $75M for AI drug development",
+          "url": "https://www.axios.com/pro/biotech-deals/2026/09/24/bighat-biosciences-75m-series-c"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / biotech as Afternoon Sep 24 (No. 160). PRIMARY Business Wire (FinancialContent / BioSpace Sep 24): $75M Series C co-led DFJ Growth & Premji Invest; total funding to date $223M; participants Catalio, LG Technology Ventures, Sigmas, 8VC, Alexandria, Amgen Ventures, a16z, Discovery, GRIDS, Intermountain, Lilly, Merck GHI, Quadrille, Section 32; supports platform + BHB810 (Phase 1 CDH17 ADC, first patient dosed) and BHB299 (CEACAM6 T-cell engager, human trials planned 2027); pharma collabs Amgen/Merck/J&J/AbbVie/Lilly cited; CSO Stefan Weigand (ex-Roche) June 2026. Do NOT invent post-money valuation or clinical efficacy data beyond PR. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "BigHat Biosciences, a San Mateo clinical-stage AI protein therapeutics company, completed a $75 million Series C co-led by DFJ Growth and Premji Invest, bringing total funding to $223 million, according to a Business Wire release dated Sept. 24, 2026.",
+        "New and existing investors in the round include Catalio Capital Management, LG Technology Ventures, Sigmas Group, 8VC, Alexandria Venture Investments, Amgen Ventures, Andreessen Horowitz, Discovery Ventures, GRIDS Capital, Intermountain Ventures, Eli Lilly and Company, Merck Global Health Innovation Fund, Quadrille Capital and Section 32, the release said.",
+        "Proceeds support BigHat's autonomous AI-and-experiment platform and clinical pipeline, including BHB810 (a CDH17-directed ADC now in Phase 1) and BHB299 (a CEACAM6 T-cell engager nearing completion of preclinical work, with human trials planned for 2027). SoftBank's OpenAI notes remain the plate lead."
+      ]
+    },
+    {
+      "id": "boomi-hickman-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Enterprise AI",
+      "hed": "Boomi names Mike Hickman CFO; ex-Proofpoint finance SVP joins AI data platform",
+      "dek": "Business Wire Sep 24 (Financial Post PMN): Boomi appoints Mike Hickman CFO under CEO Steve Lucas; remits FP&A, accounting, treasury, tax, reporting. Hickman: 7.5 yrs Proofpoint (incl. $12.3B take-private, $1.8B Hornetsecurity); prior Adobe, Marin Software (IPO FP&A), eBay, Vitria. Boomi cites 30k+ customers, 800+ partners, 2,200+ employees. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire via Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/boomi-appoints-mike-hickman-as-chief-financial-officer",
+      "also": [
+        {
+          "label": "ANSA Business Wire — Italian wire of same release",
+          "url": "https://www.ansa.it/sito/notizie/economia/business_wire/2026/09/24/boomi-nomina-mike-hickman-direttore-finanziario_745a1bee-cfba-49c0-b87f-a04ac3feadd7.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / enterprise AI as Afternoon Sep 24 (No. 160). PRIMARY Business Wire Sep 24 (Financial Post PMN / ANSA): Boomi appoints Mike Hickman CFO; reports to Chairman/CEO Steve Lucas; leads global finance (FP&A, accounting, treasury, tax, financial reporting); joins from Proofpoint SVP Finance (7.5 years; guided $12.3B take-private and $1.8B Hornetsecurity buy while topline scaled); earlier Adobe, built Marin Software FP&A ahead of IPO, eBay, Vitria. Boomi described as data activation company for AI / agentic enterprise platform; 30,000+ customers, 800+ partners, 2,200+ employees. Do NOT invent comp package, IPO timing, or revenue figures beyond release. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Boomi, the data-activation platform company positioning itself for agentic enterprise workloads, appointed Mike Hickman as chief financial officer, according to a Business Wire release dated Sept. 24, 2026.",
+        "Hickman will lead global finance and accounting, including FP&A, accounting, treasury, tax and financial reporting, and reports to Chairman and CEO Steve Lucas. He joins from Proofpoint, where he spent seven and a half years, most recently as SVP of Finance, and earlier held finance roles at Adobe, Marin Software (FP&A ahead of its IPO), eBay and Vitria Technology.",
+        "Lucas cited Boomi's scale (more than 30,000 customers, 800 partners and 2,200 employees) and framed Hickman's mandate as profitable scaling through the corporate lifecycle. SoftBank's OpenAI notes remain the plate lead."
       ]
     },
     {
