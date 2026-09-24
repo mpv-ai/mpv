@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 164,
+  "number": 165,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Early Evening",
+  "editionLabel": "Evening",
   "tape": {
     "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; AH quiet)",
-    "updated": "Sep 24, ~4:50 pm ET (Yahoo). Cash close confirmed vs Late Close; AH quiet (ORCL flat AH). S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47% close; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
-    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA n/a this pass · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH flat) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~4:50 pm ET)"
+    "updated": "Sep 24, ~5:52 pm ET (Yahoo query2). Cash close unchanged vs Early Evening; AH quiet (no post-market prints on NVDA/ORCL/AMD this pass). Added NVDA cash close to line. S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47%; NVDA −0.41%; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
+    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA $224.58 (−0.41%) · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH quiet) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~5:52 pm ET)"
   },
   "deskNote": {
-    "kicker": "AI desk into Early Evening",
-    "hed": "Cash close sticks; ARK tokenizes Venture Fund with OpenAI/Anthropic exposure; Blackstone shelves ~$3B Eclipse CFO.",
+    "kicker": "AI desk into Evening",
+    "hed": "Cash close holds; Ando seeds agent messaging; Harvey adds OTPP; Axya Series A.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 164 Early Evening vs No. 163 Late Close. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD ark-securitize-venture (PR Newswire/CoinDesk Sep 24: ARK tokenizes ARKVX via Securitize; portfolio includes OpenAI, Anthropic, Stripe, Databricks) + bx-eclipse-cfo (PE Wire Sep 24 via Bloomberg: Blackstone shelves ~$3B Project Eclipse collateralised fund obligation). Tape: Yahoo ~4:50 pm ET confirms cash close; AH quiet."
+    "body": "Vol. 1 No. 165 Evening vs No. 164 Early Evening. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD ando-20-seed (GlobeNewswire/TechCrunch Sep 24: Ando $20M Accel/Index/Emergence agent-native messaging) + harvey-otpp-50 (CNW Sep 24: Ontario Teachers' TVG US$50M; total raised US$600M) + axya-17-series-a (PR Newswire Sep 24: C$17M Series A McRock/Yamaha). Tape: Yahoo ~5:52 pm ET cash close unchanged; AH quiet; NVDA cash close now on line."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 164 Early Evening: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD ark-securitize-venture + bx-eclipse-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 165 Evening: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD ando-20-seed + harvey-otpp-50 + axya-17-series-a. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,90 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "ando-20-seed",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Agent Workspaces",
+      "hed": "Ando exits stealth with $20M seed for agent-native team messaging (Accel, Index, Emergence)",
+      "dek": "GlobeNewswire Sep 24 (Ando): $20M funding from Accel, Index Ventures, and Emergence Capital for messaging platform built so humans and AI agents work as first-class teammates. Agent-agnostic (Codex, Claude, Grokbot and others). Founder/CEO Sara Du (Alloy Automation; Thiel Fellow). PAIR TechCrunch Sep 24 (pre-seed/seed framing; Slack/Teams challenge). Do NOT invent valuation, ARR, or seat counts. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "GlobeNewswire (Ando)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html",
+      "also": [
+        {
+          "label": "TechCrunch — Ando eyes Slack for humans + agents",
+          "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
+        },
+        {
+          "label": "Ando — product site",
+          "url": "https://www.ando.so/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Agent workspaces as Evening Sep 24 (No. 165 vs No. 164 Early Evening). PRIMARY GlobeNewswire Sep 24 09:00 ET: Ando announces $20 million in funding from Accel, Index Ventures and Emergence Capital; exits stealth after nearly a year building team messaging for humans and AI agents as first-class members (identity, permissions, shared context across channels/threads/live Jams); agent-agnostic including Codex, Claude, Grokbot and others; founder/CEO Sara Du (Alloy Automation alum; Thiel Fellow); Accel partner Ivan Zhou and Index partner Sofia Dolfe quoted; early use across software, real estate, financial services (dozen+ countries per PR / TechCrunch says 15). PAIR TechCrunch Sep 24 7:31 AM PDT (calls round pre-seed and seed; Slack/Teams challenge; meat-proxy thesis). About block also lists Contrary Capital. Do NOT invent valuation, ARR, headcount, or that Slack replacement is live at scale. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Ando, a messaging platform built for teams working alongside AI agents, announced $20 million in funding from Accel, Index Ventures, and Emergence Capital, according to a GlobeNewswire release dated Sept. 24, 2026.",
+        "The San Francisco company said it is exiting stealth after nearly a year building a team messaging workspace where agents can participate across channels, threads, and live conversations with identity, permissions, and shared context. Ando said the platform is agent-agnostic so teams can bring cloud agents and harnesses they already use, including Codex, Claude, Grokbot, and others.",
+        "Founder and CEO Sara Du previously founded enterprise API platform Alloy Automation and is a Thiel Fellow. She told TechCrunch that Slack and Teams treat agents as installable apps even as agents become participants on the team, and that humans often become \"meat proxies\" relaying agent work.",
+        "Accel partner Ivan Zhou said agents are becoming participants in companies themselves and that Ando aims to define a new category of coordination software. Index Ventures partner Sofia Dolfe said Ando's structured context model could connect communication, tasks, and agent operations in ways legacy platforms cannot.",
+        "The company said early customers span software, real estate, and financial services across a dozen-plus countries, and that its own team has worked exclusively inside the platform since January. TechCrunch reported the capital will fund hiring and higher token spend. Do not invent valuation or revenue."
+      ]
+    },
+    {
+      "id": "harvey-otpp-50",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Legal Tech Funding",
+      "hed": "Harvey takes US$50M from Ontario Teachers' TVG; total raised now US$600M",
+      "dek": "CNW/PR Newswire Sep 24 (Harvey): Teachers' Venture Growth (Ontario Teachers' Pension Plan) completes US$50M investment as extension of Diffusion + Lightspeed-led round; brings total raised to US$600M. Canada push: 100+ Canadian law firms/legal teams; Toronto office; Maple Leafs legal AI partner; Erin Kanygin hired as Legal Innovation Partner. PAIR prior harvey-550 ($550M at $15.5B). Do NOT invent new valuation on this extension. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "PR Newswire / CNW (Harvey)",
+      "url": "https://www.newswire.ca/news-releases/harvey-announces-investment-from-ontario-teachers-pension-plan-and-deepens-its-commitment-to-canada-847400789.html",
+      "also": [
+        {
+          "label": "MPV — prior harvey-550 ($550M / $15.5B)",
+          "url": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Legal tech funding as Evening Sep 24 (No. 165 vs No. 164 Early Evening). PRIMARY CNW/PR Newswire Sep 24 08:00 ET (Toronto; SOURCE Harvey): Teachers' Venture Growth (TVG), late-stage venture/growth platform of Ontario Teachers' Pension Plan, completed a US$50 million investment; extension of recent round co-led by Diffusion and Lightspeed Venture Partners; brings total amount raised to US$600 million. Quotes Rick Prostko (TVG SMD) on Harvey Tenet / post-trained model, Winston Weinberg (CEO) on Canadian legal teams. Canada color: 100+ Canadian law firms and legal teams (Davies, Dentons Canada, Gowling WLG cited); new full-service / boutique / in-house customers named; Toronto office opened 2025; official legal AI partner of Toronto Maple Leafs; Canada team 30+; Erin Kanygin hired Legal Innovation Partner (ex-Stewart McKelvey). PAIR prior plate harvey-550. Do NOT invent a new post-money valuation for this $50M extension (harvey-550 remains the $15.5B print). NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Harvey announced that Teachers' Venture Growth, the late-stage venture and growth platform of Ontario Teachers' Pension Plan, completed a US$50 million investment in the company, according to a CNW/PR Newswire release dated Sept. 24, 2026.",
+        "Harvey said the investment is an extension of the recent funding round co-led by Diffusion and Lightspeed Venture Partners and brings the total amount raised to US$600 million. Do not treat this extension as a new headline valuation; the prior $550 million round at a $15.5 billion valuation remains the last full valuation print on the MPV plate (harvey-550).",
+        "Rick Prostko, senior managing director at Teachers' Venture Growth, said Harvey Tenet helps set the company apart because Harvey post-trained its own model. CEO Winston Weinberg said the partnership will expand efforts to serve Canadian legal teams.",
+        "Harvey said it works with more than 100 Canadian law firms and legal teams, opened its Toronto office in 2025, is the official legal AI partner of the Toronto Maple Leafs, and now has more than 30 employees in Canada. The company also said it hired Erin Kanygin as a Legal Innovation Partner from Stewart McKelvey in Halifax."
+      ]
+    },
+    {
+      "id": "axya-17-series-a",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Industrial Procurement",
+      "hed": "Axya raises C$17M Series A led by McRock for AI manufacturing procurement",
+      "dek": "PR Newswire Sep 24 (Axya): C$17M Series A led by McRock Capital with Yamaha Motor Ventures; existing BDC Industrial Innovation Venture Fund and Real Ventures also in. New CIBC banking relationship. AI procurement for aerospace/defense, custom machinery, natural resources; ERP hooks (Infor, Epicor, Oracle, SAP, Dynamics, Sage). Customers cited: MDA Space, GE Aerospace. Do NOT invent USD conversion, valuation, or ARR. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "PR Newswire (Axya)",
+      "url": "https://www.prnewswire.com/news-releases/axya-secures-17-million-cad-in-funding-to-help-manufacturers-modernize-procurement-with-ai-302888441.html",
+      "also": [
+        {
+          "label": "CNW — same Axya release",
+          "url": "https://www.newswire.ca/news-releases/axya-secures-17-million-cad-in-funding-to-help-manufacturers-modernize-procurement-with-ai-817292266.html"
+        },
+        {
+          "label": "Axya — company site",
+          "url": "https://www.axya.co"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Industrial procurement as Evening Sep 24 (No. 165 vs No. 164 Early Evening). PRIMARY PR Newswire Sep 24 09:30 ET (Montreal; SOURCE Axya): C$17 million Series A led by McRock Capital with participation from Yamaha Motor Ventures; existing shareholders BDC Industrial Innovation Venture Fund and Real Ventures also supported; new banking relationship with CIBC. Use of proceeds: deepen AI for risk detection/optimization/automated workflows; grow sales, CS, engineering; North America + international expansion; broaden ERP partnerships. Platform: AI procurement for aerospace and defense, custom machinery and vehicles, natural resources and processing; ERP integrations Infor, Epicor, Oracle, SAP, Microsoft Dynamics, Sage; human-in-the-loop. Customers named: MDA Space, GE Aerospace. CEO Felix Belisle-Dockrill quoted; McRock partner Udit Bhatnagar quoted. Do NOT invent USD equivalent, valuation, ARR, or headcount. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Axya, an AI-powered procurement platform for manufacturers, announced a C$17 million Series A funding round, according to a PR Newswire release dated Sept. 24, 2026.",
+        "McRock Capital led the round, with participation from Yamaha Motor Ventures. Existing shareholders including the Business Development Bank of Canada's Industrial Innovation Venture Fund and Real Ventures also supported the round. Axya said it established a new banking relationship with CIBC.",
+        "The Montreal company said proceeds will deepen AI capabilities for risk detection, optimization, and automated workflows and will fund sales, customer success, and engineering growth plus North American and international expansion.",
+        "Axya focuses on aerospace and defense, custom machinery and vehicles, and natural resources and processing, and said it helps manufacturers such as MDA Space and GE Aerospace. The platform integrates with ERP systems including Infor, Epicor, Oracle, SAP, Microsoft Dynamics, and Sage while keeping procurement teams in a human-in-the-loop workflow."
+      ]
+    },
     {
       "id": "ark-securitize-venture",
       "lead": false,
