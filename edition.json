@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 165,
+  "number": 166,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; AH quiet)",
-    "updated": "Sep 24, ~5:52 pm ET (Yahoo query2). Cash close unchanged vs Early Evening; AH quiet (no post-market prints on NVDA/ORCL/AMD this pass). Added NVDA cash close to line. S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47%; NVDA −0.41%; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
-    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA $224.58 (−0.41%) · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH quiet) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~5:52 pm ET)"
+    "updated": "Sep 24, ~6:48 pm ET (Yahoo chart). Cash close unchanged vs Evening No. 165; AH quiet (no post-market prints on NVDA/ORCL/AMD this pass). S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47%; NVDA −0.41%; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
+    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA $224.58 (−0.41%) · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH quiet) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~6:48 pm ET)"
   },
   "deskNote": {
-    "kicker": "AI desk into Evening",
-    "hed": "Cash close holds; Ando seeds agent messaging; Harvey adds OTPP; Axya Series A.",
+    "kicker": "AI desk into Late Evening",
+    "hed": "Cash close holds; OpenEvidence $15B surfaces; Lightning names Paduck CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 165 Evening vs No. 164 Early Evening. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD ando-20-seed (GlobeNewswire/TechCrunch Sep 24: Ando $20M Accel/Index/Emergence agent-native messaging) + harvey-otpp-50 (CNW Sep 24: Ontario Teachers' TVG US$50M; total raised US$600M) + axya-17-series-a (PR Newswire Sep 24: C$17M Series A McRock/Yamaha). Tape: Yahoo ~5:52 pm ET cash close unchanged; AH quiet; NVDA cash close now on line."
+    "body": "Vol. 1 No. 166 Late Evening vs No. 165 Evening. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD openevidence-15b (BI/Fierce Sep 24: OpenEvidence $250M at $15B; Byers/a16z per Forbes; Nadler confirmed to FH) + lightning-paduck-cfo (GNW Sep 24 via FinancialContent: Heather Paduck CFO ex-STACK; Junod CMO; Doherty CPO). Tape: Yahoo ~6:48 pm ET cash close unchanged; AH quiet."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 165 Evening: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD ando-20-seed + harvey-otpp-50 + axya-17-series-a. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 166 Late Evening: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD openevidence-15b + lightning-paduck-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,66 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "openevidence-15b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Health Tech",
+      "hed": "OpenEvidence hits $15B on quiet $250M round; Byers/a16z lead per Forbes; BI surfaces Sep 24",
+      "dek": "Business Insider Sep 24 (Roof): OpenEvidence raised $250M from hospital systems and Andreessen Horowitz at $15B (was $12B in January). Fierce Healthcare: Nadler confirmed; Forbes reported Byers Capital and a16z led in early September; MSK OncoKB partnership / drug-dev pivot color. Do NOT invent ARR, query counts, or M&A talks beyond sourced hedges. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Insider; Fierce Healthcare",
+      "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9",
+      "also": [
+        {
+          "label": "Fierce Healthcare — Nadler confirms $15B / Byers+a16z; MSK OncoKB",
+          "url": "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care"
+        },
+        {
+          "label": "Digital Health Wire — quiet raise + drug-dev pivot",
+          "url": "https://digitalhealthwire.com/openevidences-quiet-raise-and-loud-pivot/"
+        },
+        {
+          "label": "MSK — OpenEvidence precision oncology partnership release",
+          "url": "https://www.mskcc.org/news-releases/mskcc-msk-and-openevidence-partner-to-advance-precision-oncology-at-point-of-care"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Health tech as Late Evening Sep 24 (No. 166 vs No. 165 Evening). PRIMARY Business Insider Sep 24 ~1:35pm ET (Katie Roof): OpenEvidence raised $250 million from hospital systems and Andreessen Horowitz valuing it at $15 billion (January round at $12 billion); Miami-based; >$1B raised past year (Thrive, DST, GV, Kleiner, Sequoia cited); Nvidia investor; Anthropic partnership this week per BI; M&A openness hedge (unverified). PAIR Fierce Healthcare (updated MSK piece): Nadler confirmed the round to FH; Forbes reported Byers Capital and Andreessen Horowitz led in early September; MSK OncoKB integration + Epic workflow; Darwin MedQA claim and model family color stay in FH not invent. Digital Health Wire Sep 24 summarizes quiet raise vs January press tour. Investor-framing differs BI (hospital systems + a16z) vs FH/Forbes (Byers + a16z) — cite both, do not invent a single lead list. Do NOT invent valuation comps, ARR, physician share %, or that a sale is underway. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "OpenEvidence, the AI clinical search company often described as a ChatGPT for doctors, was valued at $15 billion after a $250 million funding round, Business Insider reported on Sept. 24, 2026, citing people familiar with the matter.",
+        "Business Insider said the round included hospital systems and Andreessen Horowitz, and that the company was valued at $12 billion after a January raise. Fierce Healthcare reported that CEO Daniel Nadler confirmed the $15 billion valuation and that Forbes said Byers Capital and Andreessen Horowitz led the early-September round.",
+        "Coverage ties the raise to OpenEvidence's oncology push, including a Memorial Sloan Kettering partnership to surface OncoKB precision-oncology annotations inside OpenEvidence and Epic workflows, and Nadler's comments to Forbes about building an oncology therapy pipeline. Investor lists differ across outlets; the desk is not inventing a reconciled lead syndicate beyond what BI and Fierce/Forbes each state."
+      ]
+    },
+    {
+      "id": "lightning-paduck-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / AI Cloud",
+      "hed": "Lightning AI names Heather Paduck CFO (ex-STACK Infra); Junod CMO, Doherty CPO",
+      "dek": "GlobeNewswire Sep 24 via FinancialContent/Manila Times: Lightning AI (post Voltage Park merger) appoints Heather Paduck CFO to lead finance/treasury/capital for GPU and DC scale; Betty Junod CMO; Jarlath Doherty CPO. >40k NVIDIA GPUs across nine U.S. DCs; customers include Cursor, Reflection AI, Black Forest Labs. Do NOT invent valuation or ARR. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "GlobeNewswire (Lightning AI via FinancialContent)",
+      "url": "https://www.financialcontent.com/article/gnwcq-2026-9-24-lightning-ai-expands-executive-team-with-key-finance-marketing-and-people-leader-appointments",
+      "also": [
+        {
+          "label": "Manila Times — same GlobeNewswire wire",
+          "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/lightning-ai-expands-executive-team-with-key-finance-marketing-and-people-leader-appointments/2432348"
+        },
+        {
+          "label": "Lightning AI — company site",
+          "url": "https://lightning.ai"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / AI cloud as Late Evening Sep 24 (No. 166 vs No. 165 Evening). PRIMARY GlobeNewswire Sep 24 9:00 AM ET (NEW YORK) as mirrored on FinancialContent: Lightning AI appoints Heather Paduck CFO, Betty Junod CMO, Jarlath Doherty CPO. Paduck: >25 years data-center/real-estate finance; prior CFO STACK Infrastructure, Northwood Investors, Pembroke Real Estate (Fidelity). Mandate: global financial strategy including planning, accounting, treasury and capital strategy to scale GPU and data-center capacity. Executive Chairman Sam Yagan cites January 2026 Voltage Park merger; full-stack AI cloud. Company says >40,000 NVIDIA GPUs across nine U.S. data centers; customers include Cursor, Reflection AI, Black Forest Labs. PAIR Manila Times GNW reprint. Direct globenewswire.com fetch timed out from desk; FinancialContent explicitly labels via GlobeNewswire. Do NOT invent valuation, ARR, headcount, or raise size. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Lightning AI, the vertically integrated AI cloud company behind PyTorch Lightning, appointed Heather Paduck as chief financial officer, according to a Sept. 24, 2026 GlobeNewswire release distributed via FinancialContent.",
+        "Paduck will lead global financial strategy, including planning, accounting, treasury, and capital strategy to scale GPU and data-center capacity. She previously served as CFO of STACK Infrastructure and held finance roles at Northwood Investors and Pembroke Real Estate, a Fidelity Investments subsidiary.",
+        "The company also named Betty Junod chief marketing officer and Jarlath Doherty chief people officer. Lightning said the appointments follow its January 2026 merger with Voltage Park and that it operates more than 40,000 NVIDIA GPUs across nine U.S. data centers, serving enterprises and AI-native customers including Cursor, Reflection AI, and Black Forest Labs."
+      ]
+    },
     {
       "id": "ando-20-seed",
       "lead": false,
