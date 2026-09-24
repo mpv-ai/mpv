@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 158,
+  "number": 159,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Mid-Afternoon",
   "tape": {
-    "source": "Yahoo Finance (cash Thu open session; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~11:05 am ET - Cash live vs Wed close (Yahoo). Indices softer vs Mid-Morning; SOX/NVDA still weak; AMD near flat; yields ~5.13%/5.42%.",
-    "line": "S&P 7,673.86 (-0.42%) · Dow 51,210.38 (-0.58%) · Nasdaq 26,747.29 (-0.70%) · SOX 12,312.12 (-1.77%) · NVDA $221.76 (-1.66%) · AMD $613.09 (-0.25%) · 10-year ~5.13% · 30-year ~5.42% · ES ~7,740.50 · NQ ~30,552 (Thu cash / Yahoo)"
+    "source": "Yahoo Finance (cash Thu session; ^TNX/^TYX; ES/NQ futures)",
+    "updated": "Sep 24, ~11:54 am ET - Cash live vs Wed close (Yahoo). Yields firm vs Midday (^TNX ~5.16% / ^TYX ~5.45%); SOX/NVDA bounce off lows; Dow softer.",
+    "line": "S&P 7,672.04 (−0.44%) · Dow 51,172.85 (−0.66%) · Nasdaq 26,761.18 (−0.65%) · SOX 12,340.49 (−1.55%) · NVDA $222.53 (−1.32%) · AMD $611.48 (−0.51%) · 10-year ~5.16% · 30-year ~5.45% · ES ~7,734.50 · NQ ~30,539.50 (Thu cash / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Midday",
-    "hed": "Tape softens further; Databricks buys Row Zero for Genie; claims 197k; Bamboo IPO slips.",
+    "kicker": "AI desk into Mid-Afternoon",
+    "hed": "Yields firm; BlackRock/IFM exclusive on Stack APAC DCs; 73 Strings buys Callisto.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 158 Midday vs No. 157 Mid-Morning. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD databricks-rowzero-genie (Databricks PR Sep 24 acquires Row Zero for Genie spreadsheet UI; terms undisclosed) + jobless-claims-197k (Reuters: 197k vs 201k consensus) + bamboo-ipo-delay (CVC-backed Bamboo postpones IPO; Holtec earlier). Tape: Yahoo ~11:05 am ET S&P 7,674 / Nasdaq 26,747 / SOX -1.77% / NVDA $221.76; ^TNX ~5.13% / ^TYX ~5.42%."
+    "body": "Vol. 1 No. 159 Mid-Afternoon vs No. 158 Midday. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD blackrock-stack-apac (Bloomberg via CNA/Reuters: BlackRock AIP + IFM exclusive talks for Stack Infrastructure APAC data centers; up to ~$25B; Blue Owl seller; diligence; talks can still fail) + 73strings-callisto (Business Wire: 73 Strings acquires Paris Callisto for agentic AI private-markets workflows; terms undisclosed). Tape: Yahoo ~11:54 am ET S&P 7,672 / Nasdaq 26,761 / SOX −1.55% / NVDA $222.53; ^TNX ~5.16% / ^TYX ~5.45%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 158 Midday: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD databricks-rowzero-genie + jobless-claims-197k + bamboo-ipo-delay. SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 159 Mid-Afternoon: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD blackrock-stack-apac + 73strings-callisto. SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -86,6 +86,58 @@
         "The yield on the 30-year U.S. Treasury climbed more than 3 basis points to 5.444%, its highest since 2004, Reuters reported Thursday as the months-long global bond selloff gathered pace on strong growth and inflation signals.",
         "Separately, New York Fed President John Williams told a London conference organized by the National Institute of Economic and Social Research that market forecasts expecting another rate hike by year-end \"seem to me a reasonable way of thinking about it,\" while stressing the Fed will keep collecting data, Reuters reported. The Fed last week raised its policy rate to the 3.75%–4.00% range under Chair Kevin Warsh.",
         "SoftBank's newly priced ~$11.1B OpenAI junk notes remain the plate's MAJOR lead (softbank-notes-ipg)."
+      ]
+    },
+    {
+      "id": "blackrock-stack-apac",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI Infra",
+      "hed": "BlackRock AIP and IFM in exclusive talks for Stack APAC data centers, up to ~$25B",
+      "dek": "Bloomberg Sep 24 (via CNA/Reuters): BlackRock-backed Artificial Intelligence Infrastructure Partnership and IFM Investors enter exclusive talks to buy Stack Infrastructure’s Asia-Pacific portfolio from Blue Owl Capital; diligence underway; portfolio could value ~$20–25B (Blue Owl earlier sought >$30B). Sites incl. Tokyo, Osaka, Sydney, Melbourne; talks can still fail. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Bloomberg via CNA; Reuters",
+      "url": "https://www.channelnewsasia.com/business/blackrock-ifm-close-in-25-billion-stack-data-center-deal-bloomberg-news-reports-6407641",
+      "also": [
+        {
+          "label": "Reuters wire — Bloomberg exclusive talks report",
+          "url": "https://kfgo.com/2026/09/24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg-news-reports/"
+        },
+        {
+          "label": "The Edge Malaysia — Bloomberg $20–25B range / Johor Bahru sites",
+          "url": "https://theedgemalaysia.com/node/819204"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / AI infra as Mid-Afternoon Sep 24 (No. 159 vs No. 158 Midday). PRIMARY Bloomberg via CNA: BlackRock + IFM exclusive talks for Stack Infrastructure Asia-Pacific data centers; up to $25B; includes AIP; diligence; Blue Owl owner; hope agreement soon; May >$30B sale option; June IFM/AIP among bidders; Tokyo/Osaka/Sydney/Melbourne; talks may prolong or fail; Reuters could not verify; companies no comment. PAIR Edge Malaysia for $20–25B range and Johor Bahru, and Reuters/KFGO wire. AIP investors cited by CNA incl. Nvidia, xAI, Microsoft, MGX. Do NOT invent EV/EBITDA, signed SPA, or capacity GW. NOT MAJOR — softbank-notes-ipg remains lead; ust-30y-williams also MAJOR. Owner Quill.",
+      "grafs": [
+        "A consortium backed by BlackRock and IFM Investors has entered exclusive talks to acquire Stack Infrastructure’s Asia-Pacific data-center portfolio in a deal that could value the assets at up to about $25 billion, Bloomberg News reported Thursday, according to Channel NewsAsia and a Reuters wire.",
+        "The investor group includes the BlackRock-backed Artificial Intelligence Infrastructure Partnership (AIP) and IFM and is preparing due diligence, with hopes of reaching an agreement soon with Stack’s owner, Blue Owl Capital, the reports said. Bloomberg had previously reported Blue Owl sought more than $30 billion for the Asia assets; The Edge Malaysia, citing Bloomberg, put the current talks in a roughly $20 billion to $25 billion range.",
+        "Denver-based Stack’s APAC sites include Tokyo, Osaka, Sydney and Melbourne, with The Edge also naming Johor Bahru. Deliberations remain open and could fail, the reports stressed. SoftBank’s priced OpenAI notes remain the plate’s MAJOR lead."
+      ]
+    },
+    {
+      "id": "73strings-callisto",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Fintech AI",
+      "hed": "73 Strings acquires Callisto to push agentic AI into private-markets workflows",
+      "dek": "Business Wire Sep 24: 73 Strings buys Paris-based Callisto (DD/data-room/DDQ automation for PE/credit). Callisto founders Farhat & Profit named co-heads of AI product; MCP-addressable valuation/extraction/monitoring; terms undisclosed. 73 Strings cites clients ~$20T AUM; Series B $55M Goldman-led (2025). Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire (73 Strings)",
+      "url": "https://www.businesswire.com/news/home/20260924152014/en/",
+      "also": [
+        {
+          "label": "FinanzNachrichten — full Business Wire text",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69668426-73-strings-acquires-callisto-accelerating-investment-into-agentic-ai-for-private-markets-004.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / fintech AI as Mid-Afternoon Sep 24 (No. 159). PRIMARY Business Wire Sep 24: 73 Strings acquires Callisto; Paris fintech AI for DD, data rooms, investment docs, DDQ automation; founders Charles Farhat and William Profit Co-Heads of AI Product under CPO Matt Storey; MCP agent-addressable Valuation/Extraction/Monitoring; simulation into 73 Intelligence; Callisto clients >$200B AUM; 73 Strings clients representing $20T AUM incl. 9 of 10 largest private-capital firms; Goldman Sachs Alternatives MD Jade Mandel quote; prior $55M Series B Feb 2025 Goldman-led with Blackstone Innovations, Golub, Hamilton Lane, Broadhaven, 7RIDGE; terms undisclosed. Do NOT invent purchase price or ARR. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "73 Strings, the AI valuation and portfolio-intelligence platform for alternative asset managers, acquired Paris-based fintech Callisto to accelerate agentic AI across private-markets due diligence, data-room analysis, investment documentation and DDQ automation, the company said in a Business Wire release dated Sept. 24, 2026.",
+        "Callisto co-founders Charles Farhat and William Profit join as co-heads of AI product, reporting to chief product officer Matt Storey, and will push 73 Strings’ Valuation, Extraction and Monitoring platforms toward Model Context Protocol (MCP) agent-addressable workflows with auditable, deterministic valuation cores, the release said. Terms were not disclosed.",
+        "73 Strings said it serves clients representing about $20 trillion in AUM, including nine of the ten largest private-capital firms, and closed a $55 million Series B in February 2025 led by Growth Equity at Goldman Sachs Alternatives. SoftBank’s OpenAI notes remain the plate lead."
       ]
     },
     {
