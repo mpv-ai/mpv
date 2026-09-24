@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 166,
+  "number": 167,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Late Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; AH quiet)",
-    "updated": "Sep 24, ~6:48 pm ET (Yahoo chart). Cash close unchanged vs Evening No. 165; AH quiet (no post-market prints on NVDA/ORCL/AMD this pass). S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47%; NVDA −0.41%; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
-    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA $224.58 (−0.41%) · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH quiet) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~6:48 pm ET)"
+    "updated": "Sep 24, ~7:53 pm ET (Yahoo chart). Cash close unchanged vs Late Evening No. 166; AH still quiet (no post-market prints on NVDA/ORCL/AMD). S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47%; NVDA −0.41%; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
+    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA $224.58 (−0.41%) · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH quiet) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~7:53 pm ET)"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Evening",
-    "hed": "Cash close holds; OpenEvidence $15B surfaces; Lightning names Paduck CFO.",
+    "kicker": "AI desk into Night",
+    "hed": "Cash close holds into the last hourly; Basalt $20M and Flatkey/Realset $10M added.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 166 Late Evening vs No. 165 Evening. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD openevidence-15b (BI/Fierce Sep 24: OpenEvidence $250M at $15B; Byers/a16z per Forbes; Nadler confirmed to FH) + lightning-paduck-cfo (GNW Sep 24 via FinancialContent: Heather Paduck CFO ex-STACK; Junod CMO; Doherty CPO). Tape: Yahoo ~6:48 pm ET cash close unchanged; AH quiet."
+    "body": "Vol. 1 No. 167 Night vs No. 166 Late Evening. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD basalt-20-series-a (Business Wire Sep 24 via FinancialContent: Basalt Health $20M Series A led by NEA; Frist Cressey + 25m Health; ~$24.5M total) + flatkey-realset-10 (PR Newswire Sep 23: Flatkey/Realset joint $10M Series A; investors unnamed — do not invent). Tape: Yahoo ~7:53 pm ET cash close unchanged; AH quiet."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 166 Late Evening: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD openevidence-15b + lightning-paduck-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 167 Night: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD basalt-20-series-a + flatkey-realset-10. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,66 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "basalt-20-series-a",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Healthtech",
+      "hed": "Basalt Health raises $20M Series A led by NEA for AI post-acute admissions",
+      "dek": "Business Wire Sep 24 via FinancialContent: Basalt Health closes $20M Series A led by NEA with Frist Cressey Ventures and 25m Health; total raised ~$24.5M. AI reads referrals (fax/portal/EMR) vs facility clinical criteria; Lifepoint median processing 8.5→1.2 min (−86%); scaling to 62 ScionHealth + 49 Lifepoint markets by end-2026. Do NOT invent valuation. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire (Basalt Health via FinancialContent)",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-24-basalt-health-raises-20m-series-a-led-by-nea-to-speed-post-acute-admissions",
+      "also": [
+        {
+          "label": "Basalt Health — company site",
+          "url": "https://www.basalt.health"
+        },
+        {
+          "label": "NEA — firm site",
+          "url": "https://www.nea.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / healthtech as Night Sep 24 (No. 167 vs No. 166 Late Evening). PRIMARY Business Wire Sep 24 8:00 AM EDT as mirrored on FinancialContent: Basalt Health $20M Series A led by return investor NEA; Frist Cressey Ventures and 25m Health participate; total capital ~$24.5M. Platform AI for post-acute referral processing; Lifepoint live since seed (2025) with median chart processing 8.5→1.2 minutes (−86%); scaling across 111 markets (62 ScionHealth, 49 Lifepoint) by end-2026. Use proceeds for discharge/payer workflows plus go-to-market and engineering. Founder/CEO Ben Hackett; Blake Wu (NEA) on board. Do NOT invent valuation or ARR. NOT MAJOR.",
+      "grafs": [
+        "Basalt Health, an AI platform for post-acute care admissions, raised $20 million in Series A financing led by return investor NEA, with participation from Frist Cressey Ventures and 25m Health, according to a Sept. 24, 2026 Business Wire release carried on FinancialContent. The company said the round brings total capital raised to about $24.5 million.",
+        "Basalt said its software reads referrals as they arrive by fax, portal, or EMR integration, checks them against a facility’s clinical criteria, and supports admissions, benefits checks, and prior authorizations. At Lifepoint Health, where Basalt has been live since its 2025 seed round, median chart processing time fell from 8.5 minutes to 1.2 minutes, an 86% reduction, the release said.",
+        "The company said it is scaling across 49 additional Lifepoint markets and 62 ScionHealth hospitals by the end of 2026, and will use the new capital to expand from admissions into discharge and payer workflows and to grow sales, marketing, implementation, and engineering. Founder and CEO Ben Hackett and NEA partner Blake Wu, a Basalt board member, were quoted in the release. Do not invent a post-money valuation; none was disclosed."
+      ]
+    },
+    {
+      "id": "flatkey-realset-10",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infra + Data",
+      "hed": "Flatkey and Realset AI raise $10M Series A; 10k developers on one-key model/tool API",
+      "dek": "PR Newswire Sep 23: Flatkey (San Jose) and Realset AI jointly raise $10M Series A. Flatkey: one API key/balance for 100+ official models and 1,000+ tools; >10k developers in two months since July 2026 launch; routes to official endpoints; list prices often ~60–90%. Realset: real-world training data (Body/Field/Judge) for frontier and embodied agents; Household Manipulation Bench due Q4 2026. Investors NOT named in either wire — do NOT invent. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 23, 2026",
+      "source": "PR Newswire (Flatkey / Realset AI)",
+      "url": "https://www.prnewswire.com/news-releases/flatkey-raises-10m-series-a-after-surpassing-10-000-developers-in-two-months-302887820.html",
+      "also": [
+        {
+          "label": "PR Newswire — Realset AI companion release",
+          "url": "https://www.prnewswire.com/news-releases/realset-ai-and-flatkey-raise-10m-series-a-to-build-real-world-training-data-for-frontier-models-and-embodied-agents-302887825.html"
+        },
+        {
+          "label": "Flatkey — company site",
+          "url": "https://flatkey.ai"
+        },
+        {
+          "label": "Realset AI — company site",
+          "url": "https://realset.ai"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra as Night Sep 24 (No. 167 vs No. 166 Late Evening; wire dated Sep 23). PRIMARY PR Newswire Sep 23 1:30 PM ET: Flatkey and Realset AI jointly raise $10M Series A. Flatkey claims >10,000 developers in two months since July 2026 launch; one key/one balance for 100+ official models and 1,000+ tools; official-endpoint routing; pricing often 60–90% of list. Realset companion wire: expand capture network, expert demonstrators, open Household Manipulation Bench Q4 2026. Founder Hunter Guo quoted on both. Investor names NOT disclosed in either PR — do NOT invent lead or participants. NOT MAJOR.",
+      "grafs": [
+        "Flatkey and Realset AI said in twin Sept. 23, 2026 PR Newswire releases that the two San Jose companies have raised $10 million in Series A funding. Flatkey’s release said more than 10,000 developers adopted the platform in the two months since its July 2026 launch.",
+        "Flatkey describes itself as AI infrastructure that puts more than 100 official models and more than 1,000 tools behind one API key and one balance, routing calls to providers’ official endpoints and pricing most models at about 60% to 90% of official list prices. Founder Hunter Guo said the company is building for teams that combine models, tools, and data rather than picking a single model.",
+        "Realset AI’s companion release said the same $10 million Series A will expand its real-world capture network, expert demonstrator pool, and open benchmarks for embodied and agent policies, with a Household Manipulation Bench expected in the fourth quarter of 2026. Neither wire named investors; do not invent them."
+      ]
+    },
     {
       "id": "openevidence-15b",
       "lead": false,
