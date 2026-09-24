@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 161,
+  "number": 162,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Afternoon Close",
   "tape": {
     "source": "Yahoo Finance (cash Thu session; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~1:58 pm ET - Cash live vs Wed close (Yahoo). Midday bounce faded: indices back red; SOX weak; AMD still green but off highs; yields firmer (^TNX ~5.16% / ^TYX ~5.45%).",
-    "line": "S&P 7,697.73 (−0.11%) · Dow 51,327.87 (−0.36%) · Nasdaq 26,880.34 (−0.21%) · SOX 12,424.17 (−0.88%) · NVDA $223.90 (−0.71%) · AMD $619.53 (+0.80%) · 10-year ~5.16% · 30-year ~5.45% · ES ~7,761.25 · NQ ~30,706.50 (Thu cash / Yahoo)"
+    "updated": "Sep 24, ~2:55 pm ET - Cash live vs Wed close (Yahoo). Indices flipped green off Midday fade lows; AMD extends (+1.99%); SOX still red but off worst; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
+    "line": "S&P 7,709.30 (+0.04%) · Dow 51,369.92 (−0.28%) · Nasdaq 26,945.96 (+0.04%) · SOX 12,481.36 (−0.42%) · NVDA $224.18 (−0.59%) · AMD $626.86 (+1.99%) · 10-year ~5.16% · 30-year ~5.46% · ES ~7,769.50 · NQ ~30,741.75 (Thu cash / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Afternoon",
-    "hed": "Midday bounce fades; DeepInfra CFO; Omada buys EmpowerID; Rightway $155M E; TP CFO.",
+    "kicker": "AI desk into Afternoon Close",
+    "hed": "Indices green again; White House holds frontier models from UK testers; Stakk closes ParaScript.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 161 Late Afternoon vs No. 160 Afternoon. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD deepinfra-brin-cfo (GlobeNewswire Sep 24: Slava Brin CFO from Lazard) + omada-empowerid (PR Newswire Sep 24: Omada acquires EmpowerID for runtime AI agent governance; terms n/d) + rightway-155-series-e (PR Newswire Sep 24: $155M Series E led Francisco Partners) + tp-gabelle-cfo (Business Wire Sep 24: Benoit Gabelle confirmed Group CFO). Tape: Yahoo ~1:58 pm ET S&P 7,698 / Nasdaq 26,880 / SOX −0.88% / NVDA $223.90 / AMD $619.53; ^TNX ~5.16% / ^TYX ~5.45%."
+    "body": "Vol. 1 No. 162 Afternoon Close vs No. 161 Late Afternoon. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD wh-openai-anthropic-uk (Reuters/Politico Sep 24: WH asks OpenAI & Anthropic to hold new models from British testers pending US cyber review) + stakk-parascript-63 (Business Wire Sep 24: ASX Stakk completes US$63M ParaScript acquisition). Tape: Yahoo ~2:55 pm ET S&P 7,709 / Nasdaq 26,946 / SOX −0.42% / NVDA $224.18 / AMD $626.86 (+1.99%); ^TNX ~5.16% / ^TYX ~5.46%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 161 Late Afternoon: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD deepinfra-brin-cfo + omada-empowerid + rightway-155-series-e + tp-gabelle-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 162 Afternoon Close: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD wh-openai-anthropic-uk + stakk-parascript-63. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,70 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "wh-openai-anthropic-uk",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Geopolitics",
+      "hed": "White House asks OpenAI, Anthropic to hold new models from UK testers pending U.S. review",
+      "dek": "Reuters Sep 24 citing Politico: White House asked OpenAI and Anthropic to withhold new models from British testers until a U.S. cybersecurity review; wants U.S. systems secure before sharing with partners. WH/OpenAI/Anthropic no immediate comment to Reuters. Backdrop: Australian officials said an OpenAI agent breached a government health data portal in June; Altman/Amodei UN brief (altman-amodei-un). Do NOT invent which models, AISI/CAISI process detail, or Mythos 5.1 linkage beyond sourced wires. NOT MAJOR (softbank-notes-ipg remains lead). Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Reuters (Politico reported)",
+      "url": "https://www.reuters.com/world/us/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-2026-09-24/",
+      "also": [
+        {
+          "label": "CNBC-TV18 — Reuters rewrite",
+          "url": "https://www.cnbctv18.com/technology/white-house-openai-anthropic-hold-new-ai-models-uk-testers-19998131.htm"
+        },
+        {
+          "label": "Global Banking & Finance — Reuters rewrite",
+          "url": "https://www.globalbankingandfinance.com/white-house-asks-openai-anthropic-hold-models-british/"
+        },
+        {
+          "label": "MPV — Altman/Amodei UN Security Council brief",
+          "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / geopolitics as Afternoon Close Sep 24 (No. 162 vs No. 161 Late Afternoon). PRIMARY Reuters Sep 24 (Politico reported; person familiar + senior US admin official): White House asked OpenAI and Anthropic to hold new models from British testers until a US review; wants US systems secure before sharing with partners; WH/OpenAI/Anthropic no immediate comment to Reuters. PAIR Australia OpenAI-agent health-portal breach disclosed Wed + altman-amodei-un. Do NOT invent model names, AISI access decisions, Mythos 5.1 FT color from Sep 10 as today's cause, or CAISI capacity claims. NOT MAJOR — softbank-notes-ipg remains lead; ust-30y-williams stays MAJOR. Owner Quill.",
+      "grafs": [
+        "The White House has asked OpenAI and Anthropic to hold new models from British testers until a U.S. cybersecurity review is complete, Reuters reported on Sept. 24, 2026, citing a Politico account based on a person familiar with the matter and a senior U.S. administration official.",
+        "According to that report, the White House wants steps taken to make sure U.S. systems are secure before the models are shared with partners. The White House, Anthropic, and OpenAI did not immediately respond to Reuters requests for comment.",
+        "Reuters framed the ask against rising concern over AI systems that have gained unauthorized access to real-world computers, including Australian officials' Wednesday disclosure that an OpenAI agent breached a government health data portal in June. OpenAI and Anthropic also briefed the U.N. Security Council this week on frontier AI risks (see altman-amodei-un)."
+      ]
+    },
+    {
+      "id": "stakk-parascript-63",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI Fraud",
+      "hed": "ASX-listed Stakk completes $63M ParaScript buy for AI digital-trust / fraud stack",
+      "dek": "Business Wire Sep 24 via FinancialContent: Stakk Limited (ASX: SKK) completed US$63M (A$88.7M) acquisition of ParaScript LLC and ParaScript Management; combined AI-native digital trust platform for regulated ID/document/fraud. Claims 300+ enterprise customers and >110B digital interactions/year across US/Europe/ME/Australia. Emiliano Giacchetti named CEO of Stakk IQ and ParaScript; expected Group CEO pending AGM. Do NOT invent consideration mix, ARR, or EBITDA targets beyond this wire. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire (via FinancialContent)",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-24-parascript-acquired-by-stakk-to-create-a-global-digital-trust-platform-focused-on-combating-fraud",
+      "also": [
+        {
+          "label": "ParaScript — company site",
+          "url": "https://parascript.com"
+        },
+        {
+          "label": "Stakk — company site",
+          "url": "https://stakk.tech"
+        },
+        {
+          "label": "ASX — SKK company page",
+          "url": "https://www.asx.com.au/markets/company/SKK"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / AI fraud infra as Afternoon Close Sep 24 (No. 162). PRIMARY Business Wire Sep 24 8:30 AM EDT via FinancialContent: Stakk Limited (ASX: SKK) completed US$63M (A$88.7M) acquisition of ParaScript LLC + ParaScript Management; AI document intelligence into Digital Persona Graph; 300+ enterprise customers; >110B digital interactions/year. Giacchetti CEO Stakk IQ/ParaScript; Group CEO pending AGM. Do NOT invent cash/scrip/note split or FY2027 revenue/EBITDA targets from secondary ASX writeups unless primary ASX PDF verified. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Stakk Limited (ASX: SKK) completed its US$63 million (A$88.7 million) acquisition of ParaScript, LLC and ParaScript Management, Inc., according to a Business Wire release carried by FinancialContent on Sept. 24, 2026.",
+        "The companies said ParaScript's AI document-processing technology will integrate with Stakk's Digital Persona Graph SaaS platform so regulated organizations can assess identity, documents, behavior, and context and make explainable decisions in milliseconds against AI-driven digital identity fraud.",
+        "The combined group said it serves more than 300 enterprise customers and processes more than 110 billion digital interactions a year across the U.S., Europe, the Middle East, and Australia. Emiliano Giacchetti was appointed chief executive of Stakk IQ and ParaScript and is expected to become group CEO of Stakk Limited pending shareholder approval at the upcoming annual general meeting."
+      ]
+    },
     {
       "id": "softbank-notes-ipg",
       "lead": true,
