@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 157,
+  "number": 158,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Midday",
   "tape": {
     "source": "Yahoo Finance (cash Thu open session; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~10:20 am ET - Cash live vs Wed close (Yahoo). Indices softer; SOX/NVDA weaker; AMD green; yields slightly off highs.",
-    "line": "S&P 7,688.00 (-0.23%) · Dow 51,358.53 (-0.30%) · Nasdaq 26,772.40 (-0.61%) · SOX 12,337.86 (-1.57%) · NVDA $222.12 (-1.50%) · AMD $615.85 (+0.20%) · 10-year ~5.09% · 30-year ~5.39% · ES ~7,754 · NQ ~30,601 (Thu cash / Yahoo)"
+    "updated": "Sep 24, ~11:05 am ET - Cash live vs Wed close (Yahoo). Indices softer vs Mid-Morning; SOX/NVDA still weak; AMD near flat; yields ~5.13%/5.42%.",
+    "line": "S&P 7,673.86 (-0.42%) · Dow 51,210.38 (-0.58%) · Nasdaq 26,747.29 (-0.70%) · SOX 12,312.12 (-1.77%) · NVDA $221.76 (-1.66%) · AMD $613.09 (-0.25%) · 10-year ~5.13% · 30-year ~5.42% · ES ~7,740.50 · NQ ~30,552 (Thu cash / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Mid-Morning",
-    "hed": "Tape opens softer; HUCK live; PLACE buys Maxwell; CleanSpark notes priced ahead of Sep 25 settle.",
+    "kicker": "AI desk into Midday",
+    "hed": "Tape softens further; Databricks buys Row Zero for Genie; claims 197k; Bamboo IPO slips.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 157 Mid-Morning vs No. 156 Morning. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD huck-ticker-live (Huckleberry.ai Nasdaq HUCK ~$3.41 Yahoo) + place-maxwell (PLACE closes Maxwell AI mortgage buy; terms undisclosed). UPDATE clsk-meta-2227: PR Newswire Sep 18 priced $2.276B 7.875% notes due 2031 at 98.5%; settle Sep 25 (was proposed $2.227B). Tape: Yahoo Thu cash S&P 7,688 / Nasdaq 26,772 / SOX −1.57% / NVDA $222.12; ^TYX ~5.39%."
+    "body": "Vol. 1 No. 158 Midday vs No. 157 Mid-Morning. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD databricks-rowzero-genie (Databricks PR Sep 24 acquires Row Zero for Genie spreadsheet UI; terms undisclosed) + jobless-claims-197k (Reuters: 197k vs 201k consensus) + bamboo-ipo-delay (CVC-backed Bamboo postpones IPO; Holtec earlier). Tape: Yahoo ~11:05 am ET S&P 7,674 / Nasdaq 26,747 / SOX -1.77% / NVDA $221.76; ^TNX ~5.13% / ^TYX ~5.42%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 157 Mid-Morning: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD huck-ticker-live + place-maxwell; UPDATE clsk-meta-2227 priced (settle Sep 25). SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 158 Midday: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD databricks-rowzero-genie + jobless-claims-197k + bamboo-ipo-delay. SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -169,6 +169,82 @@
         "PLACE, a real-estate and homeownership technology platform, said on Sept. 24 it closed the acquisition of Maxwell, a provider of AI-powered mortgage technology and services, according to a PLACE PR Newswire release. Terms were not disclosed.",
         "Maxwell serves more than 400 financial institutions and facilitates more than $130 billion in annual transactions, and in 2025 touched nearly one in 10 U.S. mortgage originations, PLACE said. The deal folds Maxwell's point-of-sale, business intelligence, fulfillment, diligence, and private-label origination tools into PLACE's ecosystem for lenders and agents.",
         "PLACE said the combination follows its earlier 2026 purchase of Radian Group's Real Estate Services business and that Maxwell customers face no disruption to existing contracts."
+      ]
+    },
+    {
+      "id": "databricks-rowzero-genie",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise",
+      "hed": "Databricks acquires Row Zero to put governed spreadsheets inside Genie",
+      "dek": "Databricks PR Sep 24: buys Row Zero (cloud spreadsheet for humans and agents) to add a native, governed spreadsheet experience to Genie on Genie Ontology, Unity Catalog, and Unity Gateway. Terms undisclosed. Row Zero team (ex-AWS/Tableau) joins; product stays multi-cloud and multi-source. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Databricks",
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets",
+      "also": [
+        {
+          "label": "Axios Pro — Databricks buys Row Zero for Genie",
+          "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Enterprise as Midday Sep 24 (No. 158; missed Mid-Morning plate vs No. 157). PRIMARY Databricks newsroom Sep 24: acquired Row Zero to expand Genie with live governed spreadsheet UI for finance/ops/sales/marketing; integration with Genie Ontology, Unity Catalog, Unity Gateway; Excel/Sheets-compatible formulas; live governed sources; billions of rows; founder/CEO Breck Fresen and Patrick Wendell (Databricks co-founder/VP Eng) quoted. Do NOT invent purchase price, valuation, or ARR. Distinct from older databricks-genie (Sep 2 Agent mode). Not MAJOR. Owner Quill.",
+      "grafs": [
+        "Databricks said on Sept. 24 it acquired Row Zero, a spreadsheet built for humans and agents to work together with data, to expand Genie, its AI coworker for business teams, according to a Databricks newsroom release. Terms were not disclosed.",
+        "The company said Genie will gain a native, fully governed spreadsheet experience so finance, operations, sales, and marketing teams can explore data, model scenarios, and collaborate on the same business context powered by Genie Ontology, Unity Catalog, and Unity Gateway, reducing ungoverned spreadsheet exports as agents spread.",
+        "Row Zero, founded by former AWS and Tableau engineers, is joining Databricks. Databricks said the product will be available to Databricks customers across major clouds and will continue to support data sources beyond Databricks."
+      ]
+    },
+    {
+      "id": "jobless-claims-197k",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Labor",
+      "hed": "Jobless claims slip to 197,000, near multi-decade lows vs 201k forecast",
+      "dek": "Reuters Sep 24: initial claims -1,000 to seasonally adjusted 197,000 for week ended Sep 19 (vs 201,000 consensus); near levels last seen in 1969. Continuing claims +2,000 to 1.719M (week ended Sep 12). Four-week average 202,250. Labor stability feeds Fed hike odds; CME FedWatch ~64.2% chance of another hike next month per Reuters. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Reuters; U.S. Labor Department",
+      "url": "https://www.reuters.com/world/us/us-weekly-jobless-claims-decrease-labor-market-regains-footing-2026-09-24/",
+      "also": [
+        {
+          "label": "WTOP — 197k lowest since mid-July writeup",
+          "url": "https://wtop.com/national/2026/09/claims-for-unemployment-benefits-drop-to-197000-the-lowest-since-mid-july-as-layoffs-remain-rare/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / Labor as Midday Sep 24 (No. 158; recommended Mid-Morning but absent from No. 157 plate). PRIMARY Reuters (Mutikani): DOL initial claims 197k week ended Sep 19 (-1k; near 1969)/vs 201k poll; continuing 1.719M (+2k) week ended Sep 12 near 2023 lows; 4-week avg 202,250 (-1,750); Chicago Fed sees Sep jobless rate steady 4.1%; Fed last week to 3.75%-4.00%; FedWatch ~64.2% chance another hike next month. Color on AI capex vs energy/Iran war. Do NOT invent NFP or revise claims beyond source. Not MAJOR (softbank-notes-ipg lead; ust-30y-williams also MAJOR). Owner Quill.",
+      "grafs": [
+        "Initial U.S. jobless claims slipped 1,000 to a seasonally adjusted 197,000 for the week ended Sept. 19, below the 201,000 economists polled by Reuters had forecast, the Labor Department said Thursday, with claims near levels last seen in 1969, Reuters reported.",
+        "Continuing claims rose 2,000 to a seasonally adjusted 1.719 million in the week ended Sept. 12, still near levels last seen in 2023, and the four-week moving average of initial claims fell 1,750 to 202,250, Reuters said, framing the report as evidence the labor market has regained footing after a soft summer even as hiring stays cautious.",
+        "Reuters noted the stability supports market expectations the Fed could hike again before year-end after last week's move to the 3.75%-4.00% range, with CME FedWatch showing about a 64.2% chance of another increase next month."
+      ]
+    },
+    {
+      "id": "bamboo-ipo-delay",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / IPO",
+      "hed": "CVC-backed Bamboo Insurance postpones IPO; Holtec delay adds PE exit caution",
+      "dek": "Insurance Journal / Bloomberg Sep 23: Bamboo Insurance Services (CVC controlling stake; valued $1.75B at buy from White Mountains) postponed NYSE BMB IPO citing market conditions; JPMorgan/Morgan Stanley were leads. Follows Holtec Nuclear's earlier IPO suspend (Reuters/Bloomberg Sep 16). Star/Bloomberg Sep 24 packages quieter September IPO tape ahead of Anthropic wait. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Insurance Journal (Bloomberg); The Star (Bloomberg)",
+      "url": "https://www.insurancejournal.com/news/national/2026/09/23/886476.htm",
+      "also": [
+        {
+          "label": "The Star — IPO delays fuel market caution (Bloomberg)",
+          "url": "https://www.thestar.com.my/business/business-news/2026/09/24/ipo-delays-fuel-market-caution-wall-street-fears"
+        },
+        {
+          "label": "Reuters — Holtec suspends US IPO plan (Bloomberg)",
+          "url": "https://www.reuters.com/business/holtec-nuclear-suspends-us-ipo-plan-bloomberg-news-reports-2026-09-16/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / IPO as Midday Sep 24 (No. 158). PRIMARY Insurance Journal (Lipschultz/Hughes, Bloomberg) Sep 23: CVC-backed Bamboo postponed IPO on market conditions; Midvale UT home insurer; $1.75B valuation when CVC took control from White Mountains; JPM/MS leads; expected NYSE BMB; may revive later. PAIR The Star Bloomberg Sep 24 roundup (Holtec + Bamboo within days; quiet Sept IPO calendar; Anthropic filing wait; Oura/Accelevation still marketing) and Reuters Sep 16 Holtec suspend. Do NOT invent Bamboo raise size or Holtec price range beyond what sources state in linked pieces. Not MAJOR. Owner Quill (Guide if PE sponsors want outreach).",
+      "grafs": [
+        "Bamboo Insurance Services Inc., the Midvale, Utah home insurer controlled by CVC Capital Partners, postponed its planned IPO citing market conditions, people familiar with the matter told Insurance Journal in a Sept. 23 Bloomberg-sourced report, saying the listing could be revived later.",
+        "JPMorgan Chase and Morgan Stanley were leading the offering, which had been expected to trade on the New York Stock Exchange under the symbol BMB. Bamboo was valued at $1.75 billion when CVC-advised funds bought a controlling stake from White Mountains Insurance Group last year, the report said.",
+        "The delay follows Holtec Nuclear Corp.'s earlier decision to suspend its U.S. IPO plans, also citing market conditions (Reuters, citing Bloomberg, Sept. 16). A Sept. 24 Bloomberg-sourced Star writeup framed the pair of postponements as a caution signal for PE-backed exits while Anthropic's public filing remains awaited and Oura and Accelevation still market."
       ]
     },
     {
