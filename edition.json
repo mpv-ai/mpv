@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 162,
+  "number": 163,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Afternoon Close",
+  "editionLabel": "Late Close",
   "tape": {
-    "source": "Yahoo Finance (cash Thu session; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~2:55 pm ET - Cash live vs Wed close (Yahoo). Indices flipped green off Midday fade lows; AMD extends (+1.99%); SOX still red but off worst; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
-    "line": "S&P 7,709.30 (+0.04%) · Dow 51,369.92 (−0.28%) · Nasdaq 26,945.96 (+0.04%) · SOX 12,481.36 (−0.42%) · NVDA $224.18 (−0.59%) · AMD $626.86 (+1.99%) · 10-year ~5.16% · 30-year ~5.46% · ES ~7,769.50 · NQ ~30,741.75 (Thu cash / Yahoo)"
+    "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; ES/NQ futures)",
+    "updated": "Sep 24, ~4:00 pm ET cash close (Yahoo). Flat-to-soft close: S&P/Dow red, Nasdaq barely green; AMD +2.34% leader; SOX −0.33%; ORCL −3.5% on Jupiter FM; yields firm (^TNX 5.162% / ^TYX 5.461%).",
+    "line": "S&P 7,704.23 (−0.02%) · Dow 51,349.89 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · SOX 12,492.54 (−0.33%) · NVDA $224.59 (−0.41%) · AMD $629.01 (+2.34%) · ORCL $139.52 (−3.49%) · 10-year 5.162% · 30-year 5.461% · ES ~7,770.50 · NQ ~30,769.25 (Thu close / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Afternoon Close",
-    "hed": "Indices green again; White House holds frontier models from UK testers; Stakk closes ParaScript.",
+    "kicker": "AI desk into Late Close",
+    "hed": "Cash flat-soft; Oracle Jupiter force majeure; SoftBank puts $225M into ASI autonomy JV.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 162 Afternoon Close vs No. 161 Late Afternoon. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD wh-openai-anthropic-uk (Reuters/Politico Sep 24: WH asks OpenAI & Anthropic to hold new models from British testers pending US cyber review) + stakk-parascript-63 (Business Wire Sep 24: ASX Stakk completes US$63M ParaScript acquisition). Tape: Yahoo ~2:55 pm ET S&P 7,709 / Nasdaq 26,946 / SOX −0.42% / NVDA $224.18 / AMD $626.86 (+1.99%); ^TNX ~5.16% / ^TYX ~5.46%."
+    "body": "Vol. 1 No. 163 Late Close vs No. 162 Afternoon Close. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD oracle-jupiter-fm (Reuters/Bloomberg Sep 24: Oracle force majeure notice to Blue Owl/Stack on Project Jupiter NM DC over power delays; ORCL −3.5% close) + softbank-asi-225 (Business Wire Sep 24: SoftBank $225M into ASI + JV for autonomous construction). Tape: Yahoo ~4:00 pm ET close S&P 7,704 / Nasdaq 26,939 / AMD +2.34% / ORCL $139.52; ^TNX 5.162% / ^TYX 5.461%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 162 Afternoon Close: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD wh-openai-anthropic-uk + stakk-parascript-63. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 163 Late Close: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD oracle-jupiter-fm + softbank-asi-225. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,70 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "oracle-jupiter-fm",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI / Infra Credit",
+      "hed": "Oracle issues force majeure on Project Jupiter NM DC over power delays",
+      "dek": "Reuters Sep 24 (Bloomberg first): Oracle sent force majeure notice to Blue Owl unit (Stack Infrastructure) on Project Jupiter New Mexico data center, citing potential delays securing power (Oracle's responsibility under contract, per person familiar). Aims to delay payments if 2028 online slips, not exit lease. Blue Owl ~$3B equity; Oracle pays debt costs. Oracle: project remains on planned schedule. Blue Owl: notice does not change multi-year financial commitments. ORCL −3.5% cash close Yahoo. Part of Stargate / OpenAI capacity. PAIR prior oracle-jupiter-18. Do NOT invent GW figures, pipeline dates, or loan syndicate beyond sourced wires. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Reuters (Bloomberg first)",
+      "url": "https://www.reuters.com/business/oracle-cites-force-majeure-shield-itself-controversial-data-center-bloomberg-2026-09-24/",
+      "also": [
+        {
+          "label": "TechCrunch — Stargate NM force majeure (Bloomberg first)",
+          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+        },
+        {
+          "label": "Albuquerque Journal — Oracle says still on track",
+          "url": "https://www.abqjournal.com/business/oracle-invokes-force-majeure-on-project-jupiter-but-says-data-center-still-on-track/3127907"
+        },
+        {
+          "label": "MPV — prior oracle-jupiter-18 (loans stressed)",
+          "url": "https://www.reuters.com/business/oracle-cites-force-majeure-shield-itself-controversial-data-center-bloomberg-2026-09-24/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / AI infra credit as Late Close Sep 24 (No. 163 vs No. 162 Afternoon Close). PRIMARY Reuters Sep 24 (person familiar; Bloomberg first): Oracle issued force majeure notice to Blue Owl unit developing Project Jupiter NM DC citing potential power delays; seeks to delay payments if 2028 slip, cannot terminate lease; Blue Owl ~$3B equity, Oracle pays debt costs; development-stage yield 9%, levered ~11% on completion per source. Oracle: remains on planned schedule. Blue Owl: notice does not change financial commitments. PAIR TechCrunch/ABQ Journal + prior plate oracle-jupiter-18. Cash ORCL −3.5% Yahoo close. Do NOT invent 2.45 GW / Bloom / Energy Transfer dates unless citing TechCrunch separately as also. NOT MAJOR — softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Oracle issued a force majeure notice to a Blue Owl Capital unit developing the Project Jupiter data-center campus in New Mexico, citing potential delays in securing power for the site, a person familiar with the matter told Reuters on Sept. 24, 2026. Bloomberg News first reported the development.",
+        "Rather than exiting as the main tenant, Oracle is seeking to delay payments if the campus fails to come online in 2028 as planned, Bloomberg reported and Reuters' source corroborated. The source said securing power is Oracle's responsibility under the contract and that Oracle cannot terminate the lease. Blue Owl has about $3 billion of equity in the project, with Oracle responsible for debt costs, the source said.",
+        "Oracle said Project Jupiter remains on its planned schedule. Blue Owl, which owns data-center developer Stack Infrastructure, said the notice does not change financial commitments to the multi-year project. Oracle shares closed down about 3.5% on Thursday (Yahoo Finance). The campus is part of the Stargate AI infrastructure initiative involving OpenAI, SoftBank Group, and Oracle."
+      ]
+    },
+    {
+      "id": "softbank-asi-225",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / SoftBank",
+      "hed": "SoftBank puts $225M into ASI, forms JV for autonomous construction fleets",
+      "dek": "Business Wire Sep 24: Autonomous Solutions Inc. (ASI / Mobius) forms JV with SoftBank Group to develop and commercialize OEM-agnostic autonomous construction equipment for large infrastructure. SoftBank also invested $225M in ASI to grow commercial ops. ASI CEO Mel Torrie: mixed-fleet haul trucks, dozers, loaders, compactors. Do NOT invent JV ownership split, valuation, or revenue. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire (ASI)",
+      "url": "https://www.businesswire.com/news/home/20260924920006/en/",
+      "also": [
+        {
+          "label": "Yahoo Finance — Business Wire carry",
+          "url": "https://finance.yahoo.com/technology/articles/asi-softbank-group-form-joint-180000514.html"
+        },
+        {
+          "label": "ASI — company site",
+          "url": "https://asirobots.com"
+        },
+        {
+          "label": "MPV — SoftBank OpenAI notes lead (softbank-notes-ipg)",
+          "url": "https://group.softbank/en/news/press/20260924"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / SoftBank as Late Close Sep 24 (No. 163). PRIMARY Business Wire Sep 24 (Mendon, Utah): ASI forms JV with SoftBank Group Corp. (TSE: 9984) for development/commercialization of autonomous construction equipment for large infrastructure; SoftBank capitalized JV for meaningful scale; SoftBank separately invested $225M in ASI for broader construction-market commercial growth. Mobius IAFO / OEM-agnostic mixed fleets (haul trucks, dozers, loaders, compactors). Do NOT invent JV equity split, post-money valuation, or customer names beyond Fortune 500 framing in wire. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Autonomous Solutions, Inc. (ASI), the industrial vehicle automation company behind the Mobius fleet-orchestration platform, formed a joint venture with SoftBank Group focused on autonomous construction equipment for large infrastructure projects, according to a Business Wire release dated Sept. 24, 2026.",
+        "SoftBank Group capitalized the joint venture for scale across construction use cases and separately invested $225 million in ASI to grow commercial operations across the broader construction market, the companies said.",
+        "ASI CEO Mel Torrie said the JV aims to offer OEM-agnostic mixed-fleet autonomy spanning haul trucks, dozers, loaders, compactors, and adjacent civil-construction and material-handling tasks. The release did not disclose the JV ownership split or a valuation for the $225 million ASI investment."
+      ]
+    },
     {
       "id": "wh-openai-anthropic-uk",
       "lead": false,
