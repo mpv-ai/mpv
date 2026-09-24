@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 160,
+  "number": 161,
   "city": "New York",
   "date": "Thursday, September 24, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
     "source": "Yahoo Finance (cash Thu session; ^TNX/^TYX; ES/NQ futures)",
-    "updated": "Sep 24, ~12:53 pm ET - Cash live vs Wed close (Yahoo). Bounce from Mid-Afternoon lows: S&P/Nasdaq flat-to-green; AMD leads AI names; yields still firm (^TNX ~5.14% / ^TYX ~5.43%).",
-    "line": "S&P 7,709.41 (+0.04%) · Dow 51,405.41 (−0.21%) · Nasdaq 26,928.35 (−0.03%) · SOX 12,471.43 (−0.50%) · NVDA $224.03 (−0.66%) · AMD $622.90 (+1.35%) · 10-year ~5.14% · 30-year ~5.43% · ES ~7,777.50 · NQ ~30,784.25 (Thu cash / Yahoo)"
+    "updated": "Sep 24, ~1:58 pm ET - Cash live vs Wed close (Yahoo). Midday bounce faded: indices back red; SOX weak; AMD still green but off highs; yields firmer (^TNX ~5.16% / ^TYX ~5.45%).",
+    "line": "S&P 7,697.73 (−0.11%) · Dow 51,327.87 (−0.36%) · Nasdaq 26,880.34 (−0.21%) · SOX 12,424.17 (−0.88%) · NVDA $223.90 (−0.71%) · AMD $619.53 (+0.80%) · 10-year ~5.16% · 30-year ~5.45% · ES ~7,761.25 · NQ ~30,706.50 (Thu cash / Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Afternoon",
-    "hed": "Tape bounces off Mid-Afternoon lows; Silk $45M Avenue facility; BigHat $75M C; Boomi CFO.",
+    "kicker": "AI desk into Late Afternoon",
+    "hed": "Midday bounce fades; DeepInfra CFO; Omada buys EmpowerID; Rightway $155M E; TP CFO.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 160 Afternoon vs No. 159 Mid-Afternoon. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD silk-45-avenue (Newswire Sep 23: Silk $45M Avenue-led growth facility for agentic AI data layer) + bighat-75-series-c (Business Wire Sep 24: BigHat $75M Series C co-led DFJ Growth/Premji; total $223M) + boomi-hickman-cfo (Business Wire Sep 24: Mike Hickman CFO from Proofpoint). Tape: Yahoo ~12:53 pm ET S&P 7,709 / Nasdaq 26,928 / SOX −0.50% / NVDA $224.03 / AMD $622.90; ^TNX ~5.14% / ^TYX ~5.43%."
+    "body": "Vol. 1 No. 161 Late Afternoon vs No. 160 Afternoon. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD deepinfra-brin-cfo (GlobeNewswire Sep 24: Slava Brin CFO from Lazard) + omada-empowerid (PR Newswire Sep 24: Omada acquires EmpowerID for runtime AI agent governance; terms n/d) + rightway-155-series-e (PR Newswire Sep 24: $155M Series E led Francisco Partners) + tp-gabelle-cfo (Business Wire Sep 24: Benoit Gabelle confirmed Group CFO). Tape: Yahoo ~1:58 pm ET S&P 7,698 / Nasdaq 26,880 / SOX −0.88% / NVDA $223.90 / AMD $619.53; ^TNX ~5.16% / ^TYX ~5.45%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 160 Afternoon: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD silk-45-avenue + bighat-75-series-c + boomi-hickman-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Trump-Xi Thu. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital today. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 161 Late Afternoon: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD deepinfra-brin-cfo + omada-empowerid + rightway-155-series-e + tp-gabelle-cfo. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -86,6 +86,110 @@
         "The yield on the 30-year U.S. Treasury climbed more than 3 basis points to 5.444%, its highest since 2004, Reuters reported Thursday as the months-long global bond selloff gathered pace on strong growth and inflation signals.",
         "Separately, New York Fed President John Williams told a London conference organized by the National Institute of Economic and Social Research that market forecasts expecting another rate hike by year-end \"seem to me a reasonable way of thinking about it,\" while stressing the Fed will keep collecting data, Reuters reported. The Fed last week raised its policy rate to the 3.75%–4.00% range under Chair Kevin Warsh.",
         "SoftBank's newly priced ~$11.1B OpenAI junk notes remain the plate's MAJOR lead (softbank-notes-ipg)."
+      ]
+    },
+    {
+      "id": "deepinfra-brin-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / AI Infra",
+      "hed": "DeepInfra names Slava Brin CFO; Lazard digital-infra MD joins AI inference cloud",
+      "dek": "GlobeNewswire Sep 24: DeepInfra (high-throughput AI inference cloud) appoints Slava Brin CFO to oversee financial ops and capital strategy. Brin joins from Lazard MD Telecom & Digital Infrastructure; prior Truist Communications/Internet Infrastructure M&A head, Evercore, American Capital, Rothschild, J.P. Morgan. Co cites Toronto DC, humans& DeepCluster (>1,000 NVIDIA B300 GPUs, >2 MW), 200+ open-source models. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "GlobeNewswire (DeepInfra)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/24/3368329/0/en/deepinfra-appoints-slava-brin-as-chief-financial-officer.html",
+      "also": [
+        {
+          "label": "Mangalore Mirror — GlobeNewswire wire rewrite",
+          "url": "https://www.mangaloremirror.com/strategic-spotlight-deepinfra-appoints-slava-brin-as-chief-financial-officer-wmhrf/"
+        },
+        {
+          "label": "DeepInfra — About / company site",
+          "url": "https://deepinfra.com/about"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / AI infra as Late Afternoon Sep 24 (No. 161). PRIMARY GlobeNewswire Sep 24: DeepInfra appoints Slava Brin CFO (financial operations + capital strategy); joins from Lazard MD Telecom & Digital Infrastructure; earlier Truist Securities MD/head Communications & Internet Infrastructure M&A; senior roles Evercore, American Capital, Rothschild, J.P. Morgan Securities. Company framing: purpose-built cloud for high-throughput AI inference; recent Toronto international data center; dedicated DeepCluster for frontier lab humans& with >1,000 NVIDIA B300 GPUs and >2 MW; 200+ open-source models on serverless/dedicated. Do NOT invent valuation, ARR, or raise size. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "DeepInfra, the purpose-built cloud platform for high-throughput AI inference, appointed Slava Brin as chief financial officer, according to a GlobeNewswire release dated Sept. 24, 2026.",
+        "Brin will oversee financial operations and capital strategy. He joins from Lazard, where he was a managing director in Telecom & Digital Infrastructure, and previously built Communications and Internet Infrastructure M&A as a managing director at Truist Securities, with earlier senior roles at Evercore, American Capital, Rothschild and J.P. Morgan Securities.",
+        "DeepInfra said the hire comes amid international expansion, citing its first non-U.S. data center in Toronto and a dedicated DeepCluster for frontier AI lab humans& with more than 1,000 NVIDIA B300 GPUs and over two megawatts of power, plus support for more than 200 open-source models across serverless and dedicated offerings. SoftBank's OpenAI notes remain the plate lead."
+      ]
+    },
+    {
+      "id": "omada-empowerid",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Identity M&A",
+      "hed": "Omada acquires EmpowerID to add runtime AI agent governance to IGA stack",
+      "dek": "PR Newswire Sep 24 9:00 a.m. ET: Danish IGA vendor Omada A/S buys EmpowerID (AI agent governance pioneer). Combined platform: lifecycle, single identity view, runtime authorization, agent discovery-to-control, continuous compliance evidence. EmpowerID CEO Patrick Parker joins Omada as chief innovation officer. Stephens advised Omada. Terms undisclosed. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "PR Newswire (Omada)",
+      "url": "https://www.prnewswire.com/news-releases/omada-acquires-empowerid-to-close-the-ai-agent-security-gap-302888544.html",
+      "also": [
+        {
+          "label": "Omada — company site",
+          "url": "https://www.omadaidentity.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / identity M&A as Late Afternoon Sep 24 (No. 161). PRIMARY PR Newswire Sep 24 09:00 ET Omada: acquires EmpowerID to close AI agent security gap; brings runtime agent governance into Omada IGA; deliverables listed as governance for human/app/workload/agent identities, single view of identities/entitlements, runtime authorization, agentic governance discovery-to-control, continuous compliance evidence; follows June Agent Governance solution; EmpowerID CEO/co-founder Patrick Parker joins as chief innovation officer; Stephens advised Omada/shareholders. Do NOT invent purchase price, multiple, or ARR. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Omada A/S, the Copenhagen identity governance and administration vendor, acquired EmpowerID to fold runtime AI agent governance into its IGA platform, according to a PR Newswire release dated Sept. 24, 2026.",
+        "Omada said the combined stack will govern human, application, workload and AI agent identities through one lifecycle, maintain a single view of entitlements, make access decisions at request time, and record continuous compliance evidence. The deal follows Omada's June Agent Governance launch.",
+        "EmpowerID CEO and co-founder Patrick Parker will join Omada as chief innovation officer. Stephens provided strategic advice to Omada and its shareholders. Transaction terms were not disclosed."
+      ]
+    },
+    {
+      "id": "rightway-155-series-e",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Health Tech",
+      "hed": "Rightway raises $155M Series E led by Francisco Partners for AI-backed PBM model",
+      "dek": "PR Newswire Sep 24 7:05 a.m. ET: Pharmacy benefits + care navigation firm Rightway closes $155M Series E led by Francisco Partners; Thrive Capital and Khosla Ventures participate. Cites ~10% of Fortune 500 / 45 F500 clients; SureSpend Precision Pricing Guarantee + Zero-Markup Wrap (GLP-1s). Proceeds to expand AI capabilities and PBM tech. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "PR Newswire (Rightway)",
+      "url": "https://www.prnewswire.com/news-releases/rightway-raises-155-million-as-it-leads-the-next-generation-of-pharmacy-benefits-302888382.html",
+      "also": [
+        {
+          "label": "Rightway — company site",
+          "url": "https://www.rightwayhealthcare.com"
+        },
+        {
+          "label": "Francisco Partners — firm site",
+          "url": "https://www.franciscopartners.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / health tech as Late Afternoon Sep 24 (No. 161). PRIMARY PR Newswire Sep 24 07:05 ET Rightway: $155M Series E led by Francisco Partners with Thrive Capital and Khosla Ventures; supports growth as employers seek pharmacy spend accountability; claims nearly 10% of Fortune 500 / 45 F500 clients; SureSpend model with Precision Pricing Guarantee and Zero-Markup Wrap (incl. GLP-1s / rare drugs at true net cost, 100% rebate pass-through); CEO Jordan Feldman and FP Co-President Ezra Perlman quoted; use of proceeds includes expanding AI capabilities behind PBM tech. Do NOT invent post-money valuation or ARR. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Rightway, the New York pharmacy benefit management and care navigation company, raised $155 million in Series E financing led by Francisco Partners, with participation from existing investors Thrive Capital and Khosla Ventures, according to a PR Newswire release dated Sept. 24, 2026.",
+        "Rightway said nearly 10% of the Fortune 500, or 45 Fortune 500 companies, use its aligned PBM model, including a SureSpend Precision Pricing Guarantee and a Zero-Markup Wrap covering categories such as GLP-1s at true net cost with 100% rebate pass-through.",
+        "CEO Jordan Feldman said proceeds will expand AI capabilities and the technology behind the pharmacy benefits model. Francisco Partners Co-President Ezra Perlman framed the firm as a healthcare technology partner for the next growth phase. SoftBank's OpenAI notes remain the plate lead."
+      ]
+    },
+    {
+      "id": "tp-gabelle-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Digital Services",
+      "hed": "TP confirms Benoit Gabelle as Group CFO after interim stint; AI in process mix",
+      "dek": "Business Wire Sep 24: Teleperformance (TP, Paris:TEP) appoints Benoit Gabelle Group CFO effective immediately; interim since March 2026 when Jorge Amar became CEO. Joined as Group Deputy CFO 2022 (reporting, accounting, tax, finance transformation); prior KPMG/EY tax partner. Priorities: transformation value, ops support, finance modernization, IR/financing. Not MAJOR.",
+      "date": "Sept. 24, 2026",
+      "source": "Business Wire (TP / Teleperformance)",
+      "url": "https://www.businesswire.com/news/home/20260924259659/en/",
+      "also": [
+        {
+          "label": "Finanznachrichten — German wire of same Business Wire",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69670391-teleperformance-tp-appoints-benoit-gabelle-as-group-chief-financial-officer-004.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / digital services as Late Afternoon Sep 24 (No. 161). PRIMARY Business Wire Sep 24 TP: Benoit Gabelle appointed Group CFO effective immediately; interim Group CFO since March 2026 (Amar CEO appointment); joined 2022 as Group Deputy CFO (Financial Reporting Consolidation, Corporate Accounting, Tax, Finance Transformation); supported Majorel integration, refinancing, efficiency program; prior 17 years KPMG then EY partner (intl tax/transfer pricing, France/HK). Four priorities listed. CEO Amar quotes AI integration within processes. Do NOT invent comp or guidance. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "TP (Teleperformance SE, Paris: TEP), the global digital business services group, appointed Benoit Gabelle as Group chief financial officer effective immediately, according to a Business Wire release dated Sept. 24, 2026.",
+        "Gabelle had served as interim Group CFO since March 2026, when Jorge Amar became CEO. He joined TP in 2022 as Group Deputy CFO covering financial reporting consolidation, corporate accounting, tax and finance transformation, and earlier spent 17 years at KPMG and EY, including as an EY partner focused on international taxation and transfer pricing.",
+        "Amar framed the permanent appointment as recognition of leadership through TP's transformation and AI integration in processes. SoftBank's OpenAI notes remain the plate lead."
       ]
     },
     {
