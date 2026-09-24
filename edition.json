@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 154,
+  "number": 155,
   "city": "New York",
   "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Evening Close",
+  "editionLabel": "Late Close",
   "tape": {
     "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~7:10 pm ET - Wednesday cash close held; AH futures refresh (Yahoo Finance chart). Session vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,775.00 / NQ ~30,793.50.",
-    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,775.00 · NQ ~30,793.50 (Wed cash close / AH futures)"
+    "updated": "Sep 23, ~8:10 pm ET - Wednesday cash close held; AH futures drift lower vs Evening Close (Yahoo Finance chart). Session vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,768.50 / NQ ~30,758.25.",
+    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,768.50 · NQ ~30,758.25 (Wed cash close / AH futures)"
   },
   "deskNote": {
-    "kicker": "AI desk into Evening Close",
-    "hed": "Teamshares $225M preferred; Diageo picks Wilson as CFO.",
+    "kicker": "AI desk into Late Close",
+    "hed": "Brookfield exclusive on NICE Actimize ~$2B; Synechron PE talks.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 154 Evening Close - ADD teamshares-225, diageo-cfo (both Quill) vs No. 153 Late Evening. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final coupons/size on primary wires as of ~7:10 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Teamshares: GlobeNewswire 4:15 p.m. ET miss - $225M TRPIM preferred for SME M&A (16% cash div; +$75M capacity). Diageo: Reuters - WPP CFO Joanne Wilson succeeds Jhangiani in 2027. Tape: cash prints flat vs Late Evening; AH NQ ~30,793.50 (was ~30,800.50); ES ~7,775 held."
+    "body": "Vol. 1 No. 155 Late Close - ADD brookfield-actimize, synechron-pe, adyen-neglen-cfo, cellpoint-zenith-34 (all Quill) vs No. 154 Evening Close. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final coupons/size on primary wires as of ~8:10 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Actimize: Sky News via Ctech/Globes/Newsquawk - Brookfield financial-infra exclusivity ~$2B, not signed. Synechron: Mint early EQT/CVC/Apax talks with company denial. Adyen/CellPoint: Sep 22 catch-ups. Tape: cash prints flat vs Evening Close; AH ES ~7,768.50 (was ~7,775) / NQ ~30,758.25 (was ~30,793.50)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 154 Evening Close + teamshares-225 + diageo-cfo; softbank-notes-ipg still MAJOR (no final coupons; price Thu Sep 24 / settle Sep 29). Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 155 Late Close + brookfield-actimize + synechron-pe + adyen-neglen-cfo + cellpoint-zenith-34; softbank-notes-ipg still MAJOR (no final coupons; price Thu Sep 24 / settle Sep 29). Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,105 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "brookfield-actimize",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Fintech",
+      "hed": "Brookfield in exclusive talks for NICE Actimize at about $2B, Sky News says",
+      "dek": "Ctech/Globes Sep 23 citing Sky News: Brookfield financial-infrastructure arm secured exclusivity for NICE (Nasdaq:NICE) financial-crime unit Actimize at ~$2B; deal not final and could still collapse. Prior auction color: Advent/New Mountain/Veritas/Stone Point/SymphonyAI; nonbinding offers ~$2.5B. Actimize 2024 rev $453.5M / op. profit $158.3M (Ctech). Nice bought Actimize 2007 for $280M.",
+      "date": "Sept. 23, 2026",
+      "source": "Ctech (Sky News); Globes; Newsquawk",
+      "url": "https://www.calcalistech.com/ctechnews/article/iazqvedg2",
+      "also": [
+        {
+          "label": "Globes — Sky News $2B talks",
+          "url": "https://en.globes.co.il/en/article-brookfield-in-talks-to-buy-nices-actimize-for-2b-report-1001557182"
+        },
+        {
+          "label": "Newsquawk — BN/NICE headline",
+          "url": "https://www.newsquawk.com/headlines/brookfield-is-in-talks-to-purchase-actimize-from-nice-nice-for-usd-2bln-sky-news-reports-citing-sources"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / Fintech as Late Close Sep 23 (No. 155; Sky News miss via Ctech/Globes/Newsquawk vs No. 154). PRIMARY Ctech: Brookfield financial infrastructure arm in exclusive talks for NICE Actimize ~$2B; not finalized / can still fall apart; auction history (GS/JPM; $1.5-2B ask; May shortlist Advent/New Mountain/Veritas/Stone Point/SymphonyAI; ~$2.5B nonbinding). PAIR Globes market-cap/NICE quote color and Newsquawk wire. Cite Actimize 2024 $453.5M rev / $158.3M op. profit and 2007 $280M Nice buy only as Ctech. Do NOT invent signed SPA, EV multiple, or close timing. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Brookfield is in exclusive talks to acquire Actimize, the financial-crime and compliance business of Nasdaq-listed Nice, for approximately $2 billion, Sky News reported Wednesday, according to Ctech and Globes.",
+        "Sources told Sky News that Brookfield's financial-infrastructure arm has exclusivity with Nice, though the deal is not finalized and could still collapse, the reports said. Ctech noted Nice put Actimize up for sale in late 2025 with Goldman Sachs and J.P. Morgan advising, and that earlier nonbinding offers were around $2.5 billion after a shortlist that included Advent International, New Mountain Capital, Veritas Capital, Stone Point Capital and SymphonyAI.",
+        "Actimize, bought by Nice for $280 million in 2007, generated $453.5 million of revenue and $158.3 million of operating profit in 2024, or about 16.6% of Nice revenue and nearly 29% of operating profit, Ctech reported. SoftBank OpenAI junk notes (softbank-notes-ipg) remain the plate lead pending final coupons and size."
+      ]
+    },
+    {
+      "id": "synechron-pe",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / IT services",
+      "hed": "Synechron opens early PE stake-sale talks with EQT, CVC, Apax; seeks ~$3-3.5B",
+      "dek": "Mint Sep 23: bootstrapped NY-HQ IT/AI services firm (>$1B revenue; 16k staff) in early discussions with EQT, CVC and Apax on minority-to-majority stake; share-swap structure also evaluated; valuation talks still evolving. Company spokesperson: plans to remain private/independent; no strategic transactions on the horizon.",
+      "date": "Sept. 23, 2026",
+      "source": "Mint (Livemint)",
+      "url": "https://www.livemint.com/companies/news/synechron-stake-sale-private-equity-eqt-cvc-apax-valuation-11790138307096.html",
+      "also": [
+        {
+          "label": "TradingView — Mint syndication",
+          "url": "https://www.tradingview.com/news/moodys:ee7a878bc1578:0-synechron-initiates-stake-sale-talks-with-pe-investors-valuation-talks-still-evolving/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / IT services as Late Close Sep 23 (No. 155; Mint process miss vs No. 154). PRIMARY Mint (Verma/Shah): early PE stake-sale talks with EQT/CVC/Apax; minority-to-significant majority possible; share-swap under review; $3.0-3.5B+ valuation seek; revenue multiples 1.5-2.5x color from sources; >$1B rev / 16k emp / 200+ FS clients. INCLUDE company denial (remain private/independent; no strategic deals on horizon). Do NOT invent LOI, exclusivity, or committed valuation. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Synechron, the New York-headquartered IT and digital-transformation firm founded by Faisal Husain, has started early discussions with private-equity investors including EQT, CVC and Apax Partners about a possible stake sale, Mint reported September 23, citing two people familiar with the matter.",
+        "The proposed deal could range from a minority stake to a significant majority, and the company is also evaluating a share-swap structure; people said Synechron, which has crossed $1 billion in annual revenue, could seek a valuation of $3.0 billion to $3.5 billion or more, though structure and size remain undetermined, Mint wrote.",
+        "A Synechron spokesperson told Mint the firm plans to remain private and independent for the foreseeable future and that no strategic transactions are on the horizon. SoftBank OpenAI junk notes remain the plate's MAJOR lead."
+      ]
+    },
+    {
+      "id": "adyen-neglen-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Payments",
+      "hed": "Adyen nominates Klarna CFO Niclas Neglen as finance chief effective Feb 2027",
+      "dek": "Adyen company PR Sep 22: Neglen nominated CFO and statutory Management Board member from Feb 1, 2027, subject to DNB/shareholder approval; interim CFO Hwa Tsao stays through transition then returns as SVP Group Finance. Prior: Klarna CFO; HSBC Private Bank EMEA CFO/COO; 13 years GE. Klarna Aug 18 had flagged planned CFO transition.",
+      "date": "Sept. 22, 2026",
+      "source": "Adyen (company PR); PYMNTS",
+      "url": "https://www.adyen.com/press-and-media/niclas-neglen-to-join-adyen-as-new-chief-financial-officer",
+      "also": [
+        {
+          "label": "PYMNTS — Neglen hire writeup",
+          "url": "https://www.pymnts.com/personnel/2026/adyen-names-klarna-cfo-niclas-neglen-new-finance-chief/"
+        },
+        {
+          "label": "Klarna — planned CFO/CMO transitions",
+          "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Announces-Planned-CFO-and-CMO-Transitions/default.aspx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under CFO / Payments as Late Close Sep 23 catch-up (No. 155; Adyen Sep 22 PR miss vs Nos. 152-154). PRIMARY Adyen PR: Neglen from Klarna; MB nomination Feb 1 2027 pending DNB + EGM; Tsao interim through transition. PAIR PYMNTS and Klarna IR transition notice. Do NOT invent compensation or Adyen guidance changes (PR: no change to standing financial objectives). NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "Adyen nominated Klarna chief financial officer Niclas Neglen as its next CFO and a member of the statutory Management Board, effective February 1, 2027, subject to Dutch Central Bank and shareholder approval, the Amsterdam payments company said in a September 22 press release.",
+        "Neglen previously served as CFO and COO for EMEA at HSBC Private Bank and spent 13 years in senior finance roles at General Electric. Adyen said interim CFO Hwa Tsao will remain through the transition before returning to lead finance operations as senior vice president of group finance, and confirmed no changes to standing financial objectives.",
+        "Klarna had separately announced planned CFO and CMO transitions earlier, with Neglen expected to leave in early 2027. SoftBank OpenAI junk notes remain MAJOR lead on the plate."
+      ]
+    },
+    {
+      "id": "cellpoint-zenith-34",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI payments",
+      "hed": "Toscafund/Penta put $34M into CellPoint Zenith AI payments platform; new CEO",
+      "dek": "FinTech Global Sep 22: CellPoint (airline/hospitality payments) secured $34M from Toscafund via Penta Capital; launches Zenith AI decisioning layer above orchestrators; Kevin Murphy named group CEO, Michael Kelly chairman; Patrick Uckermark CPTO; funds ~50 hires across product/data/AI/sales.",
+      "date": "Sept. 22, 2026",
+      "source": "FinTech Global",
+      "url": "https://fintech.global/2026/09/22/toscafund-backs-cellpoints-zenith-with-34m-investment/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under Finance / AI payments as Late Close Sep 23 catch-up (No. 155; FinTech Global Sep 22 miss vs Nos. 152-154). PRIMARY FinTech Global: $34M Toscafund via Penta; Zenith AI decisioning; Murphy CEO / Kelly chair / Uckermark CPTO; 50-role hiring plan. Cite Murphy quotes only as published. Do NOT invent valuation, ownership %, or ARR. NOT MAJOR - softbank-notes-ipg remains lead. Owner Quill.",
+      "grafs": [
+        "CellPoint, a payments technology provider for airlines and hospitality, secured $34 million from Toscafund through private-equity affiliate Penta Capital to launch Zenith, an AI decisioning platform meant to sit above existing payment orchestrators, FinTech Global reported September 22.",
+        "Penta named Kevin Murphy group CEO and Michael Kelly chairman, and Patrick Uckermark joined as chief product and technology officer; the financing is also slated to fund about 50 roles across product, data, AI, sales and partnerships in Europe, the Americas and Asia, the report said.",
+        "Murphy said Zenith is intended to raise approval rates, cut payment costs and give CFOs a live view of payment-stack performance without forcing customers to rip out incumbent orchestrators. SoftBank OpenAI junk notes remain the plate lead."
+      ]
+    },
     {
       "id": "teamshares-225",
       "lead": false,
