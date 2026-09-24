@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 155,
+  "number": 156,
   "city": "New York",
-  "date": "Wednesday, September 23, 2026",
-  "editionLabel": "Late Close",
+  "date": "Thursday, September 24, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance (equities; ^TNX/^TYX yields; ES/NQ futures)",
-    "updated": "Sep 23, ~8:10 pm ET - Wednesday cash close held; AH futures drift lower vs Evening Close (Yahoo Finance chart). Session vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.40%. Futures: ES ~7,768.50 / NQ ~30,758.25.",
-    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.40% · ES ~7,768.50 · NQ ~30,758.25 (Wed cash close / AH futures)"
+    "source": "Yahoo Finance (equities Wed cash; ^TNX/^TYX yields; ES/NQ futures)",
+    "updated": "Sep 24, ~9:10 am ET - Pre-open: cash still Wed close on Yahoo; futures softer; long bond firmer (Yahoo). Cash vs prior close: S&P 7,706.03 (-0.75%), Dow 51,511.59 (-0.68%), Nasdaq 26,936.04 (-1.13%), SOX 12,534.27 (-1.23%), NVDA $225.51 (-1.47%), AMD $614.61 (-1.47%). Yields: ^TNX ~5.11%, ^TYX ~5.41%. Futures: ES ~7,736 / NQ ~30,493.50. (Reuters separately: 30y ~5.444% high since 2004 — see ust-30y-williams.)",
+    "line": "S&P 7,706.03 (-0.75%) · Dow 51,511.59 (-0.68%) · Nasdaq 26,936.04 (-1.13%) · SOX 12,534.27 (-1.23%) · NVDA $225.51 (-1.47%) · AMD $614.61 (-1.47%) · 10-year ~5.11% · 30-year ~5.41% · ES ~7,736 · NQ ~30,493.50 (Wed cash / Thu pre-open futures; Yahoo)"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Close",
-    "hed": "Brookfield exclusive on NICE Actimize ~$2B; Synechron PE talks.",
+    "kicker": "AI desk into Morning",
+    "hed": "SoftBank OpenAI junk notes PRICED ~$11.1B; 30y yields + Williams hike color.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 155 Late Close - ADD brookfield-actimize, synechron-pe, adyen-neglen-cfo, cellpoint-zenith-34 (all Quill) vs No. 154 Evening Close. SoftBank OpenAI junk notes remain MAJOR lead (softbank-notes-ipg). Still no final coupons/size on primary wires as of ~8:10 p.m. ET; price still Thursday Sep 24 / settle Sep 29. Actimize: Sky News via Ctech/Globes/Newsquawk - Brookfield financial-infra exclusivity ~$2B, not signed. Synechron: Mint early EQT/CVC/Apax talks with company denial. Adyen/CellPoint: Sep 22 catch-ups. Tape: cash prints flat vs Evening Close; AH ES ~7,768.50 (was ~7,775) / NQ ~30,758.25 (was ~30,793.50)."
+    "body": "Vol. 1 No. 156 Morning - UPDATE softbank-notes-ipg to final coupons/size (MAJOR lead) + ADD ust-30y-williams (MAJOR) + island-400-series-f vs No. 155 Late Close. SoftBank IR Sep 24: ~USD 11.1B (USD 10B + EUR 1B); USD 8.625%/9.25%/9.75% due Apr 2030/32/34; EUR 7.125%/8.00% due Oct 2030/32; settle Sep 29; OpenAI $10B tranche expected Oct 1; bridge cancel. Reuters: 30y ~5.444% highest since 2004; Williams another 2026 hike \"reasonable\". Island: $400M Series F at $6.4B (Evolution Equity; CNBC/company). Tekever already on plate (tekever-580). Tape: pre-open Yahoo futures ES ~7,736 / NQ ~30,493; ^TYX ~5.41%."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 155 Late Close + brookfield-actimize + synechron-pe + adyen-neglen-cfo + cellpoint-zenith-34; softbank-notes-ipg still MAJOR (no final coupons; price Thu Sep 24 / settle Sep 29). Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
+    "line": "No. 156 Morning: softbank-notes-ipg PRICED MAJOR lead + ust-30y-williams MAJOR + island-400-series-f. SoftBank settle Sep 29 / OpenAI Oct 1 tranche. Trump-Xi Thu. Domo/Huckleberry HUCK ticker Sep 24. Progress PRGS earnings Sep 30 5pm ET. Creatio Bank.AI digital Sep 24. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, CleanSpark notes (~Sep 25), Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,94 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "softbank-notes-ipg",
+      "lead": true,
+      "section": "Markets",
+      "kicker": "AI / Credit",
+      "hed": "SoftBank prices ~$11.1B OpenAI junk notes; USD up to 9.75%, EUR to 8%",
+      "dek": "SoftBank IR Sep 24: ~USD 11.1B equiv (USD 10B + EUR 1B). USD: $1B 8.625% due Apr 1 2030 / $4.5B 9.25% Apr 1 2032 / $4.5B 9.75% Apr 1 2034. EUR: €500M 7.125% Oct 1 2030 / €500M 8.00% Oct 1 2032. Issue Sep 29; OpenAI $10B third tranche expected Oct 1; cancel remaining $10B undrawn of $40B March bridge. BB+ S&P/Fitch; SGX list.",
+      "date": "Sept. 24, 2026",
+      "source": "SoftBank Group IR; Reuters",
+      "url": "https://group.softbank/en/news/press/20260924",
+      "also": [
+        {
+          "label": "Reuters — $11.1B HY sale / OpenAI push",
+          "url": "https://www.reuters.com/business/media-telecom/softbank-issues-111-billion-bonds-openai-financing-push-2026-09-24/"
+        },
+        {
+          "label": "CNBC — shares jump on bond for OpenAI bet",
+          "url": "https://www.cnbc.com/2026/09/24/softbank-shares-bond-issuance-openai.html"
+        },
+        {
+          "label": "Prior plate — softbank-openai-bonds (Sep 21 launch)",
+          "url": "https://www.reuters.com/technology/softbank-launches-11-billion-bonds-fund-openai-investment-2026-09-21/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "UPDATE under Markets / AI credit as Morning Sep 24 MAJOR lead (No. 156; SoftBank IR final coupons/size vs No. 155 Late Close IPG/pending). PRIMARY SoftBank Group IR Sep 24: aggregate ~USD 11.1B (USD 10B + EUR 1B at EUR1=USD1.1383); USD $1B 8.625% Apr 1 2030 / $4.5B 9.250% Apr 1 2032 / $4.5B 9.750% Apr 1 2034; EUR €500M 7.125% Oct 1 2030 / €500M 8.000% Oct 1 2032; issue price 100%; expected issue Sep 29; use for USD 10B OpenAI third/final tranche of USD 30B follow-on (close expected Oct 1) + general corporate; cancel remaining USD 10B undrawn under USD 40B March bridge; BB+ S&P Japan / Fitch Japan; SGX. PAIR Reuters (largest HY corporate on record per LSEG; coupons match IR) and CNBC share reaction. Replaces pending-IPG color from softbank-notes-ipg Sep 23; keep softbank-openai-bonds on plate as launch history. Do NOT invent book size final demand, OpenAI valuation, or Arm loan figures beyond IR. MAJOR — keep as lead. Owner Quill.",
+      "grafs": [
+        "SoftBank Group priced approximately $11.1 billion of dollar- and euro-denominated senior notes on Thursday to help fund the final $10 billion tranche of its $30 billion follow-on OpenAI investment, according to a SoftBank Group IR release setting final terms.",
+        "The package is $10 billion of USD notes ($1 billion at 8.625% due April 1, 2030; $4.5 billion at 9.25% due April 1, 2032; $4.5 billion at 9.75% due April 1, 2034) plus €1 billion of EUR notes (€500 million at 7.125% due October 1, 2030; €500 million at 8.00% due October 1, 2032), all at 100% of principal, SoftBank said. Expected issue date is September 29, 2026. SoftBank said it expects to cancel the remaining $10 billion of undrawn capacity under its $40 billion March 2026 bridge as the OpenAI third tranche closes around October 1.",
+        "Reuters reported the sale as the largest high-yield corporate bond issuance on record globally, with coupons matching the IR. The notes are expected to be rated BB+ by S&P and Fitch and listed on the Singapore Exchange, SoftBank said."
+      ]
+    },
+    {
+      "id": "ust-30y-williams",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Fed",
+      "hed": "UST 30-year ~5.44%, highest since 2004; Williams says another 2026 hike \"reasonable\"",
+      "dek": "Reuters Sep 24: 30-year yield climbed >3 bp to 5.444%, highest since 2004, as global bond selloff deepened on growth/inflation bets. Separately, NY Fed President John Williams told a London conference it is \"reasonable\" to think another rate hike may be appropriate by year-end; data-dependent; Fed last week lifted to 3.75%–4.00%.",
+      "date": "Sept. 24, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-30-year-bond-yield-rises-highest-since-2004-selloff-deepens-2026-09-24/",
+      "also": [
+        {
+          "label": "Reuters — Williams another hike \"reasonable\"",
+          "url": "https://www.reuters.com/business/feds-williams-says-it-is-reasonable-see-another-us-rate-hike-this-year-2026-09-24/"
+        },
+        {
+          "label": "CNBC — Treasury yields continue to rise",
+          "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / Fed as Morning Sep 24 MAJOR (No. 156; Reuters 30y high + Williams London remarks vs No. 155). PRIMARY Reuters 30y: climbed more than 3 bp to 5.444%, highest since 2004; mortgage rates ~7%; PMI/growth/energy/debt-supply color. PAIR Reuters Williams: another hike by year-end \"reasonable\" per market forecasts; data-dependent; FOMC vice chair; policy at 3.75%–4.00% after last week. Cite CNBC for early session 10y/30y tape color only as published. Do NOT invent FedWatch odds beyond what sources state. MAJOR with softbank-notes-ipg (SoftBank remains lead). Owner Quill.",
+      "grafs": [
+        "The yield on the 30-year U.S. Treasury climbed more than 3 basis points to 5.444%, its highest since 2004, Reuters reported Thursday as the months-long global bond selloff gathered pace on strong growth and inflation signals.",
+        "Separately, New York Fed President John Williams told a London conference organized by the National Institute of Economic and Social Research that market forecasts expecting another rate hike by year-end \"seem to me a reasonable way of thinking about it,\" while stressing the Fed will keep collecting data, Reuters reported. The Fed last week raised its policy rate to the 3.75%–4.00% range under Chair Kevin Warsh.",
+        "SoftBank's newly priced ~$11.1B OpenAI junk notes remain the plate's MAJOR lead (softbank-notes-ipg)."
+      ]
+    },
+    {
+      "id": "island-400-series-f",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Cyber",
+      "hed": "Island raises $400M Series F at $6.4B; Evolution Equity leads agentic browser control plane",
+      "dek": "CNBC + company wires Sep 24: Dallas enterprise browser/security startup Island closed $400M Series F at $6.4B valuation, more than double 2024 level. Led by Evolution Equity Partners; existing backers incl. Sequoia, Coatue, Insight, Cyberstarts, J.P. Morgan Growth Equity, Prysm. CEO Fey: scale headcount ~1,000→1,500 by mid-2027; expand EU/Asia/ME.",
+      "date": "Sept. 24, 2026",
+      "source": "CNBC; GlobeNewswire (Island)",
+      "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+      "also": [
+        {
+          "label": "GlobeNewswire — Island $400M Series F PR",
+          "url": "https://www.globenewswire.com/news-release/2026/09/24/3368154/0/en/island-announces-400-million-series-f-bringing-valuation-to-6-4-billion.html"
+        },
+        {
+          "label": "CNA — $6.4B valuation writeup",
+          "url": "https://www.channelnewsasia.com/business/ai-startup-island-valued-64-billion-in-latest-funding-round-6408211"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / Cyber as Morning Sep 24 (No. 156; CNBC/company miss vs No. 155). PRIMARY CNBC (Subin): $400M at $6.4B; Evolution Equity led; Fey quotes on AI-agent security demand; headcount 1,000 to 1,500 by mid-next year; EU/Asia/ME expansion; customers incl. Pfizer/Chipotle/American Airlines/banks. PAIR GlobeNewswire company PR (valuation more than double since 2024; Evolution Equity; existing Prysm/Sequoia/Coatue/Cyberstarts/Insight/J.P. Morgan Growth Equity) and CNA. Do NOT invent ARR, revenue, or ownership %. NOT MAJOR - softbank-notes-ipg remains lead; ust-30y-williams also MAJOR. Owner Quill.",
+      "grafs": [
+        "Island, the Dallas-based enterprise browser and security company, raised $400 million in a Series F round that values it at $6.4 billion, CNBC reported Thursday, citing an exclusive interview with CEO and co-founder Mike Fey.",
+        "Evolution Equity Partners led the round, with participation from existing investors including Prysm Capital, Sequoia Capital, Coatue Management, Cyberstarts, Insight Partners and J.P. Morgan Growth Equity Partners, according to Island's GlobeNewswire release and CNA. The company said the financing more than doubles its 2024 valuation and will fund R&D and expansion into Europe, Asia and the Middle East.",
+        "Fey told CNBC the firm plans to grow from about 1,000 to 1,500 employees by the middle of next year as enterprises race to secure AI agents. SoftBank's priced OpenAI notes remain the plate lead."
+      ]
+    },
     {
       "id": "brookfield-actimize",
       "lead": false,
@@ -789,38 +877,6 @@
         "CNBC said U.S. Treasury Secretary Scott Bessent discussed a possible U.S.–China AI dialogue with Chinese counterpart He Lifeng over the weekend, including a channel for incidents “up to a national security level.”",
         "Export controls on advanced Nvidia chips and U.S. accusations that Chinese labs use “distillation” of Western model outputs remain major sticking points; CNBC cited analysts saying an agreement to slow development is extremely unlikely.",
         "Likeliest near-term deliverable, per CNBC’s sources, would be modest common safety definitions or an emergency communications mechanism rather than hard caps on capability."
-      ]
-    },
-    {
-      "id": "softbank-notes-ipg",
-      "lead": true,
-      "section": "Markets",
-      "kicker": "AI / Credit",
-      "hed": "SoftBank takes orders on ~$10B OpenAI junk bonds; IPG up to 9.875%, >$20B early interest",
-      "dek": "Reuters term sheet Wed: $1B 3.5y at 8.75–8.875%, $4.5B 5.5y at 9.375–9.5%, $4.5B 7.5y at 9.75–9.875%; books close noon NY Wed Sep 23; settle Sep 29. Japan Times/Bloomberg: >$20B preliminary demand; €1B euro sleeve; price still Thu Sep 24.",
-      "date": "Sept. 23, 2026",
-      "source": "Reuters (via South China Morning Post Standard); The Japan Times (Bloomberg)",
-      "url": "https://www.thestandard.com.hk/finance/article/343595/SoftBank-takes-orders-for-US10-billion-in-bonds-to-fund-OpenAI-investment-term-sheet-shows",
-      "also": [
-        {
-          "label": "Japan Times — >$20B early interest (Bloomberg)",
-          "url": "https://www.japantimes.co.jp/business/2026/09/23/companies/softbank-interest-junk-bond/"
-        },
-        {
-          "label": "Prior plate — softbank-openai-bonds (Reuters Sep 21 launch)",
-          "url": "https://www.reuters.com/technology/softbank-launches-11-billion-bonds-fund-openai-investment-2026-09-21/"
-        },
-        {
-          "label": "Newsquawk — IPG headline Sep 23",
-          "url": "https://www.newsquawk.com/headlines/softbank-9984-jt-takes-orders-for-usd-10bln-bond-sale-to-fund-openai-investment-with-guidance-for-35yr-bonds-at-875-8875-55yr-bonds-at-9375-95-75-year-bonds-at-975-9875"
-        }
-      ],
-      "owner": "QUILL",
-      "action": "ADD under Markets / AI credit as Morning Sep 23 MAJOR lead (No. 145). PRIMARY IPG: Standard rewrite of Reuters-reviewed Wednesday term sheet — SoftBank taking orders on USD 10B (split $1B 3-1/2y, $4.5B 5-1/2y, $4.5B 7-1/2y) with IPG 8.75–8.875% / 9.375–9.5% / 9.75–9.875%; expected BB+ S&P and Fitch; books close noon New York Wednesday; settlement Sep 29; SoftBank no immediate comment. PAIR Japan Times Sep 23 (Bloomberg people-familiar): more than $20B preliminary/nonbinding early interest ahead of Thursday pricing; seeking >$11B equiv including $10B USD + €1B euro; no size cap / no final size decision. Updates softbank-openai-bonds (Sep 21 launch without IPG/book color) — keep prior story on plate. Do NOT invent final coupons, final size, or OpenAI valuation. MAJOR — set as lead over fomc-sep16. Owner Quill.",
-      "grafs": [
-        "SoftBank Group is taking investor orders for a $10 billion dollar-denominated high-yield bond package to help fund its OpenAI investments, according to a term sheet reviewed by Reuters on Wednesday, with price guidance of 8.75% to 8.875% on a $1 billion 3.5-year tranche, 9.375% to 9.5% on a $4.5 billion 5.5-year tranche, and 9.75% to 9.875% on a $4.5 billion 7.5-year tranche.",
-        "Books are set to close at noon New York time Wednesday, with settlement expected September 29, the term sheet showed. The notes are expected to be rated BB+ by S&P and Fitch. SoftBank did not immediately respond to a request for comment.",
-        "Separately, The Japan Times reported September 23, citing Bloomberg and people familiar with the matter, that SoftBank has drawn more than $20 billion of preliminary, nonbinding early interest ahead of Thursday pricing for a deal seeking the equivalent of more than $11 billion, including a $10 billion dollar portion and a €1 billion euro sleeve, with no size cap and no final size decision yet."
       ]
     },
     {
