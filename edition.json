@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 169,
+  "number": 170,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Mid-Morning",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Yahoo Finance (Fri ~9:57 am ET live cash session + yields/futures)",
-    "updated": "Sep 25, ~9:57 am ET (Yahoo chart). First live U.S. cash print vs No. 168 Morning pre-open/Thu close plate. Session vs Thu close: S&P 7,731.55 (+0.36%), Dow 51,599.87 (+0.49%), Nasdaq 27,064.98 (+0.47%), SOX 12,675.50 (+1.46%), NVDA $225.45 (+0.39%), AMD $635.78 (+1.04%), AKAM $118.48 (+7.31%; Anthropic CIS lead color). Yields: ^TNX 5.181% / ^TYX 5.483%. Futures: ES 7,785.25 (+0.23%), NQ 30,872.00 (+0.34%). SoftBank Tokyo 9984.T still 6,150 (−3.2% Thu Tokyo close).",
-    "line": "LIVE Fri ~9:57 am ET · S&P 7,731.55 (+0.36%) · Dow 51,599.87 (+0.49%) · Nasdaq 27,064.98 (+0.47%) · SOX 12,675.50 (+1.46%) · NVDA $225.45 (+0.39%) · AMD $635.78 (+1.04%) · AKAM $118.48 (+7.31%) · 10-year 5.181% · 30-year 5.483% · ES 7,785 / NQ 30,872"
+    "source": "Yahoo Finance (Fri ~10:58 am ET live cash session + yields/futures)",
+    "updated": "Sep 25, ~10:58 am ET (Yahoo chart). Late Morning cash vs No. 169 Mid-Morning ~9:57 am plate. Session vs Thu close: S&P 7,714.16 (+0.13%), Dow 51,472.12 (+0.24%), Nasdaq 26,987.71 (+0.18%), SOX 12,643.82 (+1.21%), NVDA $224.38 (-0.09%), AMD $633.15 (+0.62%), AKAM $120.11 (+8.78%; Anthropic CIS lead color). Yields: ^TNX 5.225% / ^TYX 5.527%. Futures: ES 7,767.00 (+0.00%), NQ 30,764.25 (-0.01%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close).",
+    "line": "LIVE Fri ~10:58 am ET · S&P 7,714.16 (+0.13%) · Dow 51,472.12 (+0.24%) · Nasdaq 26,987.71 (+0.18%) · SOX 12,643.82 (+1.21%) · NVDA $224.38 (-0.09%) · AMD $633.15 (+0.62%) · AKAM $120.11 (+8.78%) · 10-y 5.225% · 30-y 5.527%"
   },
   "deskNote": {
-    "kicker": "AI desk into Mid-Morning",
-    "hed": "First live cash print; Akamai–Anthropic stays MAJOR lead; AKAM +7% on the CIS.",
+    "kicker": "AI desk into Late Morning",
+    "hed": "Nscale $3.36B pre-IPO convertibles ADD; Akamai-Anthropic stays MAJOR lead; AKAM still hot.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 169 Mid-Morning vs No. 168 Morning. TAPE ONLY — no new story adds. First live U.S. cash session after Morning pre-open/Thu-close plate: S&P/Dow/Nasdaq modestly green; SOX +1.5%; AMD +1%; AKAM $118.48 (+7.31%) on the akamai-anthropic-116 MAJOR lead (GlobeNewswire Sep 24). softbank-notes-ipg remains MAJOR credit color (priced; settle Sep 29); ust-30y-williams MAJOR. Declined / already plated: Anthropic Institute pace-of-development metrics post (Sep 25) restates anthropic-rd-lead-26 (Sep 17); NetApp intent to acquire PEAK:AIO (Business Wire via StockTitan ~9:00 am ET) — terms undisclosed; Lumen NYSE→Nasdaq listing move (Reuters) — venue only; Factory $5B Forbes feature already factory-200. Open watches unchanged."
+    "body": "Vol. 1 No. 170 Late Morning vs No. 169 Mid-Morning. ADD nscale-336-cln (PR Newswire Sep 25 09:00 ET): $3.36bn convertible loan notes led by Third Point; initial $2.36bn + $1bn NVIDIA mid-Nov; auto-convert on IPO; >$103bn TCV. NOT MAJOR; akamai-anthropic-116 remains MAJOR lead. softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~10:58 am ET: indices modestly green vs Thu close; SOX +~1%; AKAM still +high-single/low-double on CIS. Declined / already plated: Verda €163M Evertiq feature = verda-189; Numeral $100M = numeral-100; Factory $5B Forbes = factory-200; Lightning Paduck CFO = lightning-paduck-cfo; AMD-Anthropic 2GW Helios = July 22 AMD newsroom (stale); NetApp/PEAK:AIO terms still undisclosed; Anthropic Institute metrics restates anthropic-rd-lead-26. X news MCP forbidden (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 169 Mid-Morning tape-only after No. 168 Morning. Lead remains akamai-anthropic-116 MAJOR; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ–Nvidia–Groq, Anthropic–Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 170 Late Morning after No. 169 Mid-Morning. Lead remains akamai-anthropic-116 MAJOR; ADD nscale-336-cln (NOT MAJOR) for Quill. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ–Nvidia–Groq, Anthropic–Lambda $35B, Anthropic S-1/MatX, Oura price next week, Nscale NYSE NSCL price range."
   },
   "sections": [
     "All",
@@ -59,6 +59,34 @@
         "The multi-year CIS deal is meant to support Anthropic's accelerating CPU workloads on Akamai Cloud's distributed infrastructure. The companies also left room to expand the relationship by up to an additional $9 billion, which Akamai said would bring total potential commitment to about $20 billion. The release said the deal adds to more than $2.8 billion in multi-year CIS commitments Akamai had already announced across its customer base this year.",
         "As part of the expanded alignment, Akamai issued Anthropic a warrant to purchase non-voting convertible Series B preferred stock representing about 7.7 million Akamai common shares on an as-converted basis, or up to approximately 5% of shares outstanding, at an exercise price of $111.33 per share. About 2% is expected to vest with the initial $11.6 billion commitment; the remaining roughly 3% would vest as the commitment expands by up to another $9 billion over the warrant's seven-year term, with each additional $3 billion of cloud services (on mutually agreed terms) vesting about 1%.",
         "Akamai estimated total capital expenditures related to the $11.6 billion commitment at about $5.5 billion, including an increase of approximately $1.7 billion in 2026 capex to secure and pre-purchase critical supply-chain components such as memory, and said it anticipates no impact to 2026 revenue guidance. Reuters (via U.S. News and CNA) reported Akamai shares jumped about 15% to 16% in Thursday extended trading. An 8-K summary circulating via StockTitan frames the economics as Project Plan 2 and Project Plan 3 under the existing May 5, 2026 Anthropic MSA, subject to termination rights and delivery / service-availability conditions."
+      ]
+    },
+    {
+      "id": "nscale-336-cln",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infra Finance",
+      "hed": "Nscale raises $3.36B pre-IPO convertibles led by Third Point; NVIDIA adds $1B mid-Nov tranche",
+      "dek": "PR Newswire Sep 25 09:00 ET (Nscale): $3.36bn via convertible loan notes led by Third Point; also NVIDIA, Apollo-managed funds, Citadel, Hudson Bay, Abu Dhabi Investment Council, 8090 Industries, plus Davidson Kempner, QRT, Context, Longaeva, Wellington, Castleknight, Ghisallo, LionTree, Javelin, Irving. Initial $2.36bn at closing + additional $1bn NVIDIA commitment expected mid-November 2026. Notes convert to ordinary shares (NVIDIA: non-voting) automatically on IPO completion. Cites >$103bn TCV. Goldman Sachs placement agent. Pairs prior nscale-s1 (NYSE NSCL S-1 Sep 18). NOT MAJOR (akamai-anthropic-116 stays lead). Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "PR Newswire (Nscale)",
+      "url": "https://www.prnewswire.com/news-releases/nscale-raises-3-36b-in-pre-ipo-convertible-financing-302890199.html",
+      "also": [
+        {
+          "label": "TechCrunch Sep 4 — Nscale seeking ~$3.5B pre-IPO financing (prior)",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+        },
+        {
+          "label": "Prior plate — nscale-s1 (SEC S-1 Sep 18; $103.4B TCV)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / infra finance as Late Morning Sep 25 (No. 170 vs No. 169 Mid-Morning). PRIMARY PR Newswire Sep 25 09:00 ET: Nscale Limited announces $3.36bn convertible loan notes led by Third Point; supporters include NVIDIA, funds managed by Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Council, 8090 Industries, and others named in the wire. Structure: initial $2.36bn tranche at closing + additional $1bn NVIDIA commitment expected mid-November 2026; notes convert automatically into ordinary shares on IPO (NVIDIA into non-voting shares). Company cites over $103bn TCV; proceeds to accelerate vertically integrated AI cloud (power through GPU clusters). Goldman Sachs & Co. LLC placement agent. Do NOT invent valuation or price range (S-1 still blank per prior nscale-s1). NOT MAJOR; keep akamai-anthropic-116 as lead. Owner Quill.",
+      "grafs": [
+        "Nscale Limited, the London-based full-stack AI cloud platform, announced a $3.36 billion raise via convertible loan notes led by Third Point, according to a PR Newswire release dated Sept. 25, 2026 at 9:00 a.m. ET.",
+        "The convertible round was also supported by new and existing investors including NVIDIA, funds managed by Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Council, and 8090 Industries, the company said. Other named participants include Davidson Kempner Capital Management, Qube Research & Technologies (QRT), Context Capital Management, Longaeva Partners L.P., Wellington Management, Castleknight, Ghisallo Capital Management, LionTree Investment Fund, L.P., Javelin Venture Partners, and Irving Investors.",
+        "The financing consists of an initial $2.36 billion tranche at closing and an additional $1 billion commitment from NVIDIA with funding expected in mid-November 2026. The loan notes convert into ordinary shares (or non-voting shares in NVIDIA's case) automatically upon completion of Nscale's IPO. Nscale cited over $103 billion in total contracted value (TCV). Goldman Sachs & Co. LLC acted as placement agent."
       ]
     },
     {
