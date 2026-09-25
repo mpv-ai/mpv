@@ -3,21 +3,21 @@
   "number": 174,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Near Close",
+  "editionLabel": "Close",
   "tape": {
-    "source": "Yahoo Finance (Fri ~3:55 pm ET live cash session + yields/futures)",
-    "updated": "Yahoo Finance (Fri ~3:55 pm ET live cash session + yields/futures). Near Close cash vs No. 173 Late Afternoon ~2:55 pm plate. Session vs Thu close: S&P 7,744.55 (+0.52%), Dow 51,821.62 (+0.92%), Nasdaq 27,077.01 (+0.51%), SOX 12,681.89 (+1.52%), NVDA $225.27 (+0.31%), AMD $631.44 (+0.35%), AKAM $113.93 (+3.19%; Anthropic CIS bid cooled from ~$116 Late Afternoon), MSFT $516.49 (+3.73%; Copilot color). Yields: ^TNX 5.184% / ^TYX 5.504%. Futures: ES 7,809.50 (+0.55%), NQ 30,909.25 (+0.46%). SoftBank Tokyo 9984.T still 6,150.0 (−3.18% Thu Tokyo close). ADDs: anthropic-nine-loops, anthropic-project-swap, fed-bank-thresholds.",
-    "line": "LIVE Fri ~3:55 pm ET · S&P 7,744.55 (+0.52%) · Dow 51,821.62 (+0.92%) · Nasdaq 27,077.01 (+0.51%) · SOX 12,681.89 (+1.52%) · NVDA $225.27 (+0.31%) · AMD $631.44 (+0.35%) · AKAM $113.93 (+3.19%) · MSFT $516.49 (+3.73%) · 10-y 5.184% · 30-y 5.504%"
+    "source": "Yahoo Finance (Fri cash close + yields/futures ~4:50 pm ET)",
+    "updated": "Yahoo Finance Fri cash close (names ~4:00 pm ET; S&P close stamp ~4:40 pm; Nasdaq/SOX ~4:50 pm) vs No. 174 Near Close ~3:55 pm live plate. Session vs Thu close: S&P 7,743.41 (+0.51%), Dow 51,828.62 (+0.93%), Nasdaq 27,068.72 (+0.48%), SOX 12,668.93 (+1.41%), NVDA $225.07 (+0.22%), AMD $630.63 (+0.22%), AKAM $113.94 (+3.20%; Anthropic CIS), MSFT $516.17 (+3.66%; Copilot). Yields: ^TNX 5.184% / ^TYX 5.504%. Futures ~4:50 pm ET: ES 7,805.00 (+0.49%), NQ 30,911.25 (+0.47%). SoftBank Tokyo 9984.T 6,150.0 (−3.18% vs prior Tokyo close). No new beat ADDs vs Near Close; MAJOR lead unchanged akamai-anthropic-116.",
+    "line": "CLOSE Fri · S&P 7,743.41 (+0.51%) · Dow 51,828.62 (+0.93%) · Nasdaq 27,068.72 (+0.48%) · SOX 12,668.93 (+1.41%) · NVDA $225.07 (+0.22%) · AMD $630.63 (+0.22%) · AKAM $113.94 (+3.20%) · MSFT $516.17 (+3.66%) · 10-y 5.184% · 30-y 5.504%"
   },
   "deskNote": {
-    "kicker": "AI desk into Near Close",
-    "hed": "Three ADDs (Claude nine-loops, Project Swap, Fed thresholds). Akamai stays MAJOR lead.",
+    "kicker": "AI desk into Close",
+    "hed": "Tape-only Close refresh. Akamai stays MAJOR lead. No new ADDs.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 174 Near Close vs No. 173 Late Afternoon ~2:55 pm plate. New inbound: anthropic-nine-loops (Anthropic Research Sep 25 — Claude Science / Fable 5.1 nine-loop N=4 SYM; Dixon validates; NOT MAJOR), anthropic-project-swap (Anthropic Research Sep 24 — 201-employee agent book market; missed earlier plates; NOT MAJOR), fed-bank-thresholds (PYMNTS Sep 25 citing Reuters — Fed considering $100B→~$150B and $700B→~$1T oversight thresholds; NOT MAJOR). Skipped ADARx IPO debut and a fresh Anthropic “pace of AI development” headline pending durable non-redirect source URLs; skipped WSJ Blackstone PE-exec exclusive (paywall, no usable primary). akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. Route all three ADDs to Quill."
+    "body": "Vol. 1 No. 174 Close vs Near Close ~3:55 pm live plate. Official Yahoo cash close prints locked; no new inbound beat ADDs since Near Close (anthropic-nine-loops / anthropic-project-swap / fed-bank-thresholds already on plate; anthropic-501-vote / dayone-ipo-nov / sb-energy-ipo-delay / softbank-notes-ipg already covered). Skipped Huang/Ezra Klein secondary wrap (Sep 23 interview; TechSpot Sep 25) and Reuters DC-IPO wrap that mainly restates DayOne / SB Energy color. akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 174 Near Close ADDs anthropic-nine-loops, anthropic-project-swap, fed-bank-thresholds (all NOT MAJOR) for Quill. Lead remains akamai-anthropic-116 MAJOR. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
+    "line": "No. 174 Close is tape-only; no new ADDs. Lead remains akamai-anthropic-116 MAJOR. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
