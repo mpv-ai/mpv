@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 171,
+  "number": 172,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Early Afternoon",
   "tape": {
-    "source": "Yahoo Finance (Fri ~11:57 am ET live cash session + yields/futures)",
-    "updated": "Yahoo Finance (Fri ~11:57 am ET live cash session + yields/futures). Midday cash vs No. 170 Late Morning ~10:58 am plate. Session vs Thu close: S&P 7,719.95 (+0.21%), Dow 51,588.66 (+0.46%), Nasdaq 27,002.01 (+0.23%), SOX 12,624.68 (+1.06%), NVDA $224.69 (+0.05%), AMD $627.00 (-0.36%), AKAM $117.02 (+5.99%; Anthropic CIS lead color, cooled from Late Morning highs). Yields: ^TNX 5.202% / ^TYX 5.516%. Futures: ES 7,771.25 (+0.05%), NQ 30,766.50 (-0.00%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close).",
-    "line": "LIVE Fri ~11:57 am ET · S&P 7,719.95 (+0.21%) · Dow 51,588.66 (+0.46%) · Nasdaq 27,002.01 (+0.23%) · SOX 12,624.68 (+1.06%) · NVDA $224.69 (+0.05%) · AMD $627.00 (-0.36%) · AKAM $117.02 (+5.99%) · 10-y 5.202% · 30-y 5.516%"
+    "source": "Yahoo Finance (Fri ~12:55 pm ET live cash session + yields/futures)",
+    "updated": "Yahoo Finance (Fri ~12:55 pm ET live cash session + yields/futures). Early Afternoon cash vs No. 171 Midday ~11:57 am plate. Session vs Thu close: S&P 7,737.72 (+0.44%), Dow 51,753.16 (+0.79%), Nasdaq 27,075.69 (+0.51%), SOX 12,703.83 (+1.69%), NVDA $224.85 (+0.12%), AMD $627.54 (-0.27%), AKAM $115.91 (+4.98%; Anthropic CIS lead color, further cooled from Midday $117), MSFT $519.00 (+4.23%; Copilot Home/Code/Autopilot ADD color). Yields: ^TNX 5.184% / ^TYX 5.502%. Futures: ES 7,803.75 (+0.47%), NQ 30,914.25 (+0.48%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close).",
+    "line": "LIVE Fri ~12:55 pm ET · S&P 7,737.72 (+0.44%) · Dow 51,753.16 (+0.79%) · Nasdaq 27,075.69 (+0.51%) · SOX 12,703.83 (+1.69%) · NVDA $224.85 (+0.12%) · AMD $627.54 (-0.27%) · AKAM $115.91 (+4.98%) · MSFT $519.00 (+4.23%) · 10-y 5.184% · 30-y 5.502%"
   },
   "deskNote": {
-    "kicker": "AI desk into Midday",
-    "hed": "D.C. Circuit Anthropic DoD ADD; NetApp PEAK:AIO intent; founder 50.1% vote; Lightspeed India $250M. Akamai stays MAJOR lead.",
+    "kicker": "AI desk into Early Afternoon",
+    "hed": "Solidigm IPO sources ADD; Microsoft Copilot Home/Code/Autopilot ADD. Akamai stays MAJOR lead.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 171 Midday vs No. 170 Late Morning. ADD anthropic-dod-appeals (Reuters ~11:20 AM ET; NOT MAJOR), netapp-peak-aio (Business Wire intent / price undisclosed; NOT MAJOR), anthropic-501-vote (CNA/The Information; NOT MAJOR), lightspeed-india-250 (TechCrunch Sep 24 overnight; targeting; NOT MAJOR). akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~11:57 am ET: indices modestly green vs Thu close; SOX +~1%; AKAM still +high-single on CIS but off Late Morning spike. Prior Late Morning ADD nscale-336-cln kept. Declined / already plated: Nscale Breakingviews recirculation; Schmid TBTF Aug print."
+    "body": "Vol. 1 No. 172 Early Afternoon vs No. 171 Midday. ADD solidigm-ipo-150 (Reuters exclusive ~12:47 PM ET; sources up to $150B / ~$15B raise; early-stage; NOT MAJOR), msft-copilot-hca (Microsoft Blog Sep 25 Home/Code/Autopilot + Office-in-Copilot; missed Midday; NOT MAJOR). akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~12:55 pm ET: indices firmer vs Midday (S&P/Nasdaq/Dow green; SOX +~1.7%); AKAM still +high-single but off Midday; MSFT +~4% on Copilot. Prior Midday ADDs anthropic-dod-appeals, netapp-peak-aio, anthropic-501-vote, lightspeed-india-250 kept. Declined / already plated: SoftBank $11.1B HY bonds recirculation; Akamai CIS rehash; Anthropic DoD appeals follow-ons; FAA ATC AI (Sep 17–21 vintage)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 171 Midday after No. 170 Late Morning. Lead remains akamai-anthropic-116 MAJOR; ADDs anthropic-dod-appeals, netapp-peak-aio, anthropic-501-vote, lightspeed-india-250 (all NOT MAJOR) for Quill. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
+    "line": "No. 172 Early Afternoon after No. 171 Midday. Lead remains akamai-anthropic-116 MAJOR; ADDs solidigm-ipo-150, msft-copilot-hca (both NOT MAJOR) for Quill. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
@@ -59,6 +59,58 @@
         "The multi-year CIS deal is meant to support Anthropic's accelerating CPU workloads on Akamai Cloud's distributed infrastructure. The companies also left room to expand the relationship by up to an additional $9 billion, which Akamai said would bring total potential commitment to about $20 billion. The release said the deal adds to more than $2.8 billion in multi-year CIS commitments Akamai had already announced across its customer base this year.",
         "As part of the expanded alignment, Akamai issued Anthropic a warrant to purchase non-voting convertible Series B preferred stock representing about 7.7 million Akamai common shares on an as-converted basis, or up to approximately 5% of shares outstanding, at an exercise price of $111.33 per share. About 2% is expected to vest with the initial $11.6 billion commitment; the remaining roughly 3% would vest as the commitment expands by up to another $9 billion over the warrant's seven-year term, with each additional $3 billion of cloud services (on mutually agreed terms) vesting about 1%.",
         "Akamai estimated total capital expenditures related to the $11.6 billion commitment at about $5.5 billion, including an increase of approximately $1.7 billion in 2026 capex to secure and pre-purchase critical supply-chain components such as memory, and said it anticipates no impact to 2026 revenue guidance. Reuters (via U.S. News and CNA) reported Akamai shares jumped about 15% to 16% in Thursday extended trading. An 8-K summary circulating via StockTitan frames the economics as Project Plan 2 and Project Plan 3 under the existing May 5, 2026 Anthropic MSA, subject to termination rights and delivery / service-availability conditions."
+      ]
+    },
+    {
+      "id": "solidigm-ipo-150",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Semis IPO",
+      "hed": "Solidigm weighs IPO as early as next year; sources float up to $150B value / ~$15B raise",
+      "dek": "Reuters exclusive Sep 25 ~12:47 PM ET (Milana Vinn / Echo Wang, New York): SK Hynix's U.S. NAND/SSD unit Solidigm considering IPO as early as next year that could value the unit at up to $150B and raise ~$15B; bake-off pitch meetings this week. Plans early-stage and could change. Solidigm declined comment; SK Hynix no immediate response. Separate from solidigm-nand-us fab color. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/",
+      "also": [
+        {
+          "label": "Prior plate — solidigm-nand-us (Reuters Sep 18 fab weigh)",
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under Markets / semis IPO as Early Afternoon Sep 25 (No. 172 vs No. 171 Midday). PRIMARY Reuters exclusive Sep 25 ~4:47 PM UTC (~12:47 PM ET): three people familiar say SK Hynix (000660.KS) Solidigm considering IPO as early as next year that could value the U.S. subsidiary at up to $150 billion; company could raise $15 billion; bake-off pitch meetings this week with banks. Plans including size and timing remain early-stage and could change with markets. Solidigm declined to comment; SK Hynix did not immediately respond. Context: SK Hynix acquired Intel NAND/SSD for about $9B (announced 2020); Solidigm launched standalone 2021; Rancho Cordova, Calif.; enterprise SSD for servers/cloud/AI storage. Reuters compares to Arm ~$54B 2023 debut and Cerebras ~$56B fully diluted 2026 IPO. Do NOT invent bookrunners, price range, or filing date. Pair prior solidigm-nand-us (U.S. fab weigh Sep 18). NOT MAJOR; keep akamai-anthropic-116 as lead. Owner Quill.",
+      "grafs": [
+        "SK Hynix's U.S. NAND flash and solid-state drive unit Solidigm is considering an initial public offering as early as next year that could value the subsidiary at up to $150 billion, Reuters reported exclusively Friday from New York, citing three people familiar with the matter.",
+        "Solidigm held pitch meetings this week with investment banks competing for IPO roles in a bake-off process, one of those people and a fourth person said. The company could raise $15 billion in the offering, the three people said, speaking on condition of anonymity. Reuters stressed the plans, including deal size and timing, remain at an early stage and could change depending on market conditions.",
+        "Solidigm declined to comment. SK Hynix did not immediately respond to a request for comment. Solidigm, based in Rancho Cordova, California, is the NAND and SSD subsidiary SK Hynix formed after acquiring Intel's NAND memory and SSD business for about $9 billion in a deal announced in 2020. Reuters noted a valuation of up to $150 billion would far exceed recent semiconductor IPOs including Arm's roughly $54 billion valuation at its 2023 debut and Cerebras Systems' approximately $56 billion fully diluted valuation in its 2026 IPO."
+      ]
+    },
+    {
+      "id": "msft-copilot-hca",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise Software",
+      "hed": "Microsoft retools Copilot with Home, Code, Autopilot; embeds Office inside the app",
+      "dek": "Microsoft Official Blog Sep 25 (Jared Spataro, CMO AI at Work): new Copilot centered on Home (Chat+Cowork), Code (natural-language apps on GitHub Copilot tech), Autopilot (persistent agent, formerly Scout). Office in Copilot brings Word/Excel/PowerPoint into the experience. Home/Code roll out via Frontier coming weeks; Autopilot private preview end of month. Reuters: MSFT +~3% early Fri. FinOps/USL vs UBB spend split also unveiled. Missed Midday. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "Microsoft Official Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "also": [
+        {
+          "label": "Reuters Sep 25 — Copilot Code + Autopilot; MSFT +~3% early",
+          "url": "https://www.reuters.com/technology/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-2026-09-25/"
+        },
+        {
+          "label": "Microsoft Source EMEA — Home / Code / Autopilot summary",
+          "url": "https://news.microsoft.com/source/emea/2026/09/new-microsoft-copilot-brings-home-code-and-autopilot-together/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / enterprise software as Early Afternoon Sep 25 (No. 172 vs No. 171 Midday; missed Midday). PRIMARY Microsoft Official Blog Sep 25 (Jared Spataro): Copilot app adds Home, Code, Autopilot. Home joins Chat and Cowork; Office in Copilot embeds full Word, Excel, PowerPoint. Code lets users build apps/dashboards/automations in natural language on same underlying tech as GitHub Copilot; sandboxed / tenant-hosted via Copilot Managed Runtime. Autopilot (previously Scout) is persistent proactive agent with own identity/memory/workspace on Microsoft IQ. Rollout: Home and Code start in Frontier in coming weeks; Autopilot expands to private preview end of September. Also FinOps for AI; USL for everyday Chat/Office vs usage-based billing for Cowork/Code/Autopilot and frontier models. SECONDARY Reuters Sep 25: shares rose about 3% in early trading; Annie Pearl CVP Copilot Product on enterprise governance. Do NOT invent ARR, seat counts, or pricing dollars. NOT MAJOR; keep akamai-anthropic-116 as lead. Owner Quill.",
+      "grafs": [
+        "Microsoft on Friday introduced a retooled Copilot app organized around Home, Code, and Autopilot, according to an Official Microsoft Blog post by Jared Spataro, chief marketing officer for AI at Work.",
+        "Home combines Chat and Cowork as the new starting point and brings Word, Excel, and PowerPoint into Copilot so users can create and edit real Office files without leaving the assistant. Code lets users describe apps, trackers, dashboards, or workflows in natural language and is powered by the same underlying technology as GitHub Copilot, running in a sandboxed environment that can be hosted in the tenant via Microsoft Copilot Managed Runtime. Autopilot, previously called Scout, is framed as a persistent digital teammate with its own identity, memory, computer, and workspace that keeps working without constant prompting.",
+        "Microsoft said Home and Code will start rolling out in the Frontier program in the coming weeks, with Autopilot expanding to private preview at the end of the month. The company also highlighted FinOps for AI tools and a spend split between fixed user-subscription licenses for everyday Copilot use and usage-based billing for longer-running agentic work. Reuters reported Microsoft shares rose about 3% in early Friday trading."
       ]
     },
     {
