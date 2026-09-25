@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 174,
+  "number": 175,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Close",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance (Fri cash close + yields/futures ~4:50 pm ET)",
-    "updated": "Yahoo Finance Fri cash close (names ~4:00 pm ET; S&P close stamp ~4:40 pm; Nasdaq/SOX ~4:50 pm) vs No. 174 Near Close ~3:55 pm live plate. Session vs Thu close: S&P 7,743.41 (+0.51%), Dow 51,828.62 (+0.93%), Nasdaq 27,068.72 (+0.48%), SOX 12,668.93 (+1.41%), NVDA $225.07 (+0.22%), AMD $630.63 (+0.22%), AKAM $113.94 (+3.20%; Anthropic CIS), MSFT $516.17 (+3.66%; Copilot). Yields: ^TNX 5.184% / ^TYX 5.504%. Futures ~4:50 pm ET: ES 7,805.00 (+0.49%), NQ 30,911.25 (+0.47%). SoftBank Tokyo 9984.T 6,150.0 (−3.18% vs prior Tokyo close). No new beat ADDs vs Near Close; MAJOR lead unchanged akamai-anthropic-116.",
+    "source": "Yahoo Finance (Fri cash close locked at Close; Evening ~6:55 pm ET recheck)",
+    "updated": "Yahoo Finance Evening recheck ~6:55 pm ET vs No. 174 Close. Cash identical: S&P 7,743.41 (+0.51%), Dow 51,828.62 (+0.93%), Nasdaq 27,068.72 (+0.48%), SOX 12,668.93 (+1.41%), NVDA $225.07 (+0.22%), AMD $630.63 (+0.22%), AKAM $113.94 (+3.20%), MSFT $516.17 (+3.66%). Yields: ^TNX 5.184% / ^TYX 5.504%. Futures noise-only vs Close: ES 7,805.75 (+0.50%) vs Close ES 7,805.00; NQ 30,921.75 (+0.50%) vs Close NQ 30,911.25. SoftBank Tokyo 9984.T 6,150.0 (−3.18%) unchanged. ADD bx-baratta-exit. MAJOR lead unchanged akamai-anthropic-116.",
     "line": "CLOSE Fri · S&P 7,743.41 (+0.51%) · Dow 51,828.62 (+0.93%) · Nasdaq 27,068.72 (+0.48%) · SOX 12,668.93 (+1.41%) · NVDA $225.07 (+0.22%) · AMD $630.63 (+0.22%) · AKAM $113.94 (+3.20%) · MSFT $516.17 (+3.66%) · 10-y 5.184% · 30-y 5.504%"
   },
   "deskNote": {
-    "kicker": "AI desk into Close",
-    "hed": "Tape-only Close refresh. Akamai stays MAJOR lead. No new ADDs.",
+    "kicker": "AI desk into Evening",
+    "hed": "Baratta exit ADD. Akamai stays MAJOR lead. Tape cash unchanged.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 174 Close vs Near Close ~3:55 pm live plate. Official Yahoo cash close prints locked; no new inbound beat ADDs since Near Close (anthropic-nine-loops / anthropic-project-swap / fed-bank-thresholds already on plate; anthropic-501-vote / dayone-ipo-nov / sb-energy-ipo-delay / softbank-notes-ipg already covered). Skipped Huang/Ezra Klein secondary wrap (Sep 23 interview; TechSpot Sep 25) and Reuters DC-IPO wrap that mainly restates DayOne / SB Energy color. akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
+    "body": "Vol. 1 No. 175 Evening vs No. 174 Close ~4:50 pm live plate. ADD bx-baratta-exit (Bloomberg Law Sep 25 9:05 PM UTC / spokesperson confirm; PE leadership; NOT MAJOR). Yahoo cash close prints identical to Close; AH futures ES/NQ noise-only. Skipped: Huang/Ezra Klein secondary wrap (already passed at Close); SoftBank/Lightspeed/73 Strings/DayOne-SB Energy already on plate; Webull agentic-trading TrustFinance wrap is secondary to Aug product launch; morning Lipper US equity inflow ($37.6B) available since ~7 am ET and left off prior plates as routine weekly flow. akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 174 Close is tape-only; no new ADDs. Lead remains akamai-anthropic-116 MAJOR. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
+    "line": "No. 175 Evening adds bx-baratta-exit. Lead remains akamai-anthropic-116 MAJOR. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
@@ -59,6 +59,26 @@
         "The multi-year CIS deal is meant to support Anthropic's accelerating CPU workloads on Akamai Cloud's distributed infrastructure. The companies also left room to expand the relationship by up to an additional $9 billion, which Akamai said would bring total potential commitment to about $20 billion. The release said the deal adds to more than $2.8 billion in multi-year CIS commitments Akamai had already announced across its customer base this year.",
         "As part of the expanded alignment, Akamai issued Anthropic a warrant to purchase non-voting convertible Series B preferred stock representing about 7.7 million Akamai common shares on an as-converted basis, or up to approximately 5% of shares outstanding, at an exercise price of $111.33 per share. About 2% is expected to vest with the initial $11.6 billion commitment; the remaining roughly 3% would vest as the commitment expands by up to another $9 billion over the warrant's seven-year term, with each additional $3 billion of cloud services (on mutually agreed terms) vesting about 1%.",
         "Akamai estimated total capital expenditures related to the $11.6 billion commitment at about $5.5 billion, including an increase of approximately $1.7 billion in 2026 capex to secure and pre-purchase critical supply-chain components such as memory, and said it anticipates no impact to 2026 revenue guidance. Reuters (via U.S. News and CNA) reported Akamai shares jumped about 15% to 16% in Thursday extended trading. An 8-K summary circulating via StockTitan frames the economics as Project Plan 2 and Project Plan 3 under the existing May 5, 2026 Anthropic MSA, subject to termination rights and delivery / service-availability conditions."
+      ]
+    },
+    {
+      "id": "bx-baratta-exit",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Leadership",
+      "hed": "Blackstone PE chief Joe Baratta leaving by year-end after 28 years; role not filled",
+      "dek": "Bloomberg Law Sep 25 9:05 PM UTC (Preeti Singh / Dawn Lim): Blackstone spokesperson confirms Baratta departure by year-end after 28 years. Shifted last year to oversee PE strategies across the unit (~$450B AUM). Current role will not be filled per internal memo Friday. NOT MAJOR (akamai-anthropic-116 stays lead). Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/private-equity/blackstones-private-equity-chief-joe-baratta-in-talks-to-exit",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD as PE / leadership plate (No. 175 Evening). PRIMARY Bloomberg Law Sep 25 9:05 PM UTC: Joe Baratta, longtime face of Blackstone's signature buyout fund, leaving by year-end after 28 years. After more than a decade leading PE, shifted last year to oversee strategies across the PE unit (~$450B). Blackstone spokesperson confirmed; internal memo Friday says current role will not be filled. NOT MAJOR vs akamai-anthropic-116. Route Quill.",
+      "grafs": [
+        "Bloomberg Law reported Friday evening that Joe Baratta, the Blackstone Inc. executive long associated with the firm's signature buyout fund, is leaving the alternative asset manager by year-end after 28 years.",
+        "After more than a decade leading Blackstone's private equity business, Baratta shifted last year to oversee strategies across the private equity unit, which now manages roughly $450 billion, the report said.",
+        "A Blackstone spokesperson confirmed the departure. An internal memo sent to employees Friday said his current role will not be filled.",
+        "The story landed after No. 174 Close (~4:50 pm ET). It is PE leadership color for the Evening plate, not a change to the MAJOR lead (akamai-anthropic-116)."
       ]
     },
     {
