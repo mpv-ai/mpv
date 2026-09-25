@@ -3,21 +3,21 @@
   "number": 173,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance (Fri ~1:55 pm ET live cash session + yields/futures)",
-    "updated": "Yahoo Finance (Fri ~1:55 pm ET live cash session + yields/futures). Afternoon cash vs No. 172 Early Afternoon ~12:55 pm plate. Session vs Thu close: S&P 7,738.42 (+0.45%), Dow 51,738.42 (+0.76%), Nasdaq 27,068.97 (+0.48%), SOX 12,691.97 (+1.60%), NVDA $224.68 (+0.04%), AMD $629.48 (+0.03%), AKAM $116.51 (+5.52%; Anthropic CIS lead color), MSFT $516.57 (+3.74%; Copilot color still bid). Yields: ^TNX 5.204% / ^TYX 5.519%. Futures: ES 7,801.75 (+0.45%), NQ 30,914.25 (+0.48%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close).",
-    "line": "LIVE Fri ~1:55 pm ET · S&P 7,738.42 (+0.45%) · Dow 51,738.42 (+0.76%) · Nasdaq 27,068.97 (+0.48%) · SOX 12,691.97 (+1.60%) · NVDA $224.68 (+0.04%) · AMD $629.48 (+0.03%) · AKAM $116.51 (+5.52%) · MSFT $516.57 (+3.74%) · 10-y 5.204% · 30-y 5.519%"
+    "source": "Yahoo Finance (Fri ~2:55 pm ET live cash session + yields/futures)",
+    "updated": "Yahoo Finance (Fri ~2:55 pm ET live cash session + yields/futures). Late Afternoon cash vs No. 173 Afternoon ~1:55 pm plate. Session vs Thu close: S&P 7,736.72 (+0.42%), Dow 51,776.56 (+0.83%), Nasdaq 27,051.75 (+0.42%), SOX 12,670.83 (+1.43%), NVDA $224.05 (-0.24%), AMD $629.51 (+0.04%), AKAM $116.02 (+5.08%; Anthropic CIS still bid), MSFT $516.38 (+3.71%; Copilot color). Yields: ^TNX 5.194% / ^TYX 5.510%. Futures: ES 7,801.75 (+0.45%), NQ 30,888.00 (+0.39%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close). No new beat ADDs vs Afternoon plate.",
+    "line": "LIVE Fri ~2:55 pm ET · S&P 7,736.72 (+0.42%) · Dow 51,776.56 (+0.83%) · Nasdaq 27,051.75 (+0.42%) · SOX 12,670.83 (+1.43%) · NVDA $224.05 (-0.24%) · AMD $629.51 (+0.04%) · AKAM $116.02 (+5.08%) · MSFT $516.38 (+3.71%) · 10-y 5.194% · 30-y 5.510%"
   },
   "deskNote": {
-    "kicker": "AI desk into Afternoon",
-    "hed": "DayOne November IPO path ADD; SB Energy marketing delay ADD. Akamai stays MAJOR lead.",
+    "kicker": "AI desk into Late Afternoon",
+    "hed": "Tape refresh only. No new beat ADDs. Akamai stays MAJOR lead.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 173 Afternoon vs No. 172 Early Afternoon. ADD dayone-ipo-nov (Reuters Sep 25: mid-Oct public SEC filing / Nov list; up to $5B / ~$20B; Coatue/Hillhouse; NOT MAJOR), sb-energy-ipo-delay (same Reuters wrap: SoftBank SB Energy postpones formal marketing this week on SEC questions + OpenAI concentration; ~$60B talks; NOT MAJOR). akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. Prior Early Afternoon ADDs solidigm-ipo-150, msft-copilot-hca kept. Tape refreshed ~1:55 pm ET: indices still green vs Thu; AKAM +~5.5% on CIS; MSFT +~3.7% on Copilot; yields ^TNX 5.204% / ^TYX 5.519%."
+    "body": "Vol. 1 No. 173 Late Afternoon vs Afternoon ~1:55 pm plate. No new inbound stories since Afternoon ADDs (dayone-ipo-nov, sb-energy-ipo-delay); duplicate/stale wires (UiPath CFO Sep 3; Switch confidential Aug; Hg–Anthropic Sep 21 already on plate as hg-anthropic-agentic) skipped. akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~2:55 pm ET: indices still green vs Thu; NVDA flipped slightly red (-0.24%); AKAM +~5.1% on CIS; MSFT +~3.7% on Copilot; yields ^TNX 5.194% / ^TYX 5.510% (off Afternoon highs)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 173 Afternoon after No. 172 Early Afternoon. Lead remains akamai-anthropic-116 MAJOR; ADDs dayone-ipo-nov, sb-energy-ipo-delay (both NOT MAJOR) for Quill. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
+    "line": "No. 173 Late Afternoon tape refresh after Afternoon ADDs. Lead remains akamai-anthropic-116 MAJOR; prior ADDs dayone-ipo-nov, sb-energy-ipo-delay (both NOT MAJOR) for Quill still on plate. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
