@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 170,
+  "number": 171,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance (Fri ~10:58 am ET live cash session + yields/futures)",
-    "updated": "Sep 25, ~10:58 am ET (Yahoo chart). Late Morning cash vs No. 169 Mid-Morning ~9:57 am plate. Session vs Thu close: S&P 7,714.16 (+0.13%), Dow 51,472.12 (+0.24%), Nasdaq 26,987.71 (+0.18%), SOX 12,643.82 (+1.21%), NVDA $224.38 (-0.09%), AMD $633.15 (+0.62%), AKAM $120.11 (+8.78%; Anthropic CIS lead color). Yields: ^TNX 5.225% / ^TYX 5.527%. Futures: ES 7,767.00 (+0.00%), NQ 30,764.25 (-0.01%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close).",
-    "line": "LIVE Fri ~10:58 am ET · S&P 7,714.16 (+0.13%) · Dow 51,472.12 (+0.24%) · Nasdaq 26,987.71 (+0.18%) · SOX 12,643.82 (+1.21%) · NVDA $224.38 (-0.09%) · AMD $633.15 (+0.62%) · AKAM $120.11 (+8.78%) · 10-y 5.225% · 30-y 5.527%"
+    "source": "Yahoo Finance (Fri ~11:57 am ET live cash session + yields/futures)",
+    "updated": "Yahoo Finance (Fri ~11:57 am ET live cash session + yields/futures). Midday cash vs No. 170 Late Morning ~10:58 am plate. Session vs Thu close: S&P 7,719.95 (+0.21%), Dow 51,588.66 (+0.46%), Nasdaq 27,002.01 (+0.23%), SOX 12,624.68 (+1.06%), NVDA $224.69 (+0.05%), AMD $627.00 (-0.36%), AKAM $117.02 (+5.99%; Anthropic CIS lead color, cooled from Late Morning highs). Yields: ^TNX 5.202% / ^TYX 5.516%. Futures: ES 7,771.25 (+0.05%), NQ 30,766.50 (-0.00%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close).",
+    "line": "LIVE Fri ~11:57 am ET · S&P 7,719.95 (+0.21%) · Dow 51,588.66 (+0.46%) · Nasdaq 27,002.01 (+0.23%) · SOX 12,624.68 (+1.06%) · NVDA $224.69 (+0.05%) · AMD $627.00 (-0.36%) · AKAM $117.02 (+5.99%) · 10-y 5.202% · 30-y 5.516%"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Morning",
-    "hed": "Nscale $3.36B pre-IPO convertibles ADD; Akamai-Anthropic stays MAJOR lead; AKAM still hot.",
+    "kicker": "AI desk into Midday",
+    "hed": "D.C. Circuit Anthropic DoD ADD; NetApp PEAK:AIO intent; founder 50.1% vote; Lightspeed India $250M. Akamai stays MAJOR lead.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 170 Late Morning vs No. 169 Mid-Morning. ADD nscale-336-cln (PR Newswire Sep 25 09:00 ET): $3.36bn convertible loan notes led by Third Point; initial $2.36bn + $1bn NVIDIA mid-Nov; auto-convert on IPO; >$103bn TCV. NOT MAJOR; akamai-anthropic-116 remains MAJOR lead. softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~10:58 am ET: indices modestly green vs Thu close; SOX +~1%; AKAM still +high-single/low-double on CIS. Declined / already plated: Verda €163M Evertiq feature = verda-189; Numeral $100M = numeral-100; Factory $5B Forbes = factory-200; Lightning Paduck CFO = lightning-paduck-cfo; AMD-Anthropic 2GW Helios = July 22 AMD newsroom (stale); NetApp/PEAK:AIO terms still undisclosed; Anthropic Institute metrics restates anthropic-rd-lead-26. X news MCP forbidden (client-not-enrolled)."
+    "body": "Vol. 1 No. 171 Midday vs No. 170 Late Morning. ADD anthropic-dod-appeals (Reuters ~11:20 AM ET; NOT MAJOR), netapp-peak-aio (Business Wire intent / price undisclosed; NOT MAJOR), anthropic-501-vote (CNA/The Information; NOT MAJOR), lightspeed-india-250 (TechCrunch Sep 24 overnight; targeting; NOT MAJOR). akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~11:57 am ET: indices modestly green vs Thu close; SOX +~1%; AKAM still +high-single on CIS but off Late Morning spike. Prior Late Morning ADD nscale-336-cln kept. Declined / already plated: Nscale Breakingviews recirculation; Schmid TBTF Aug print."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 170 Late Morning after No. 169 Mid-Morning. Lead remains akamai-anthropic-116 MAJOR; ADD nscale-336-cln (NOT MAJOR) for Quill. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ–Nvidia–Groq, Anthropic–Lambda $35B, Anthropic S-1/MatX, Oura price next week, Nscale NYSE NSCL price range."
+    "line": "No. 171 Midday after No. 170 Late Morning. Lead remains akamai-anthropic-116 MAJOR; ADDs anthropic-dod-appeals, netapp-peak-aio, anthropic-501-vote, lightspeed-india-250 (all NOT MAJOR) for Quill. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
@@ -59,6 +59,91 @@
         "The multi-year CIS deal is meant to support Anthropic's accelerating CPU workloads on Akamai Cloud's distributed infrastructure. The companies also left room to expand the relationship by up to an additional $9 billion, which Akamai said would bring total potential commitment to about $20 billion. The release said the deal adds to more than $2.8 billion in multi-year CIS commitments Akamai had already announced across its customer base this year.",
         "As part of the expanded alignment, Akamai issued Anthropic a warrant to purchase non-voting convertible Series B preferred stock representing about 7.7 million Akamai common shares on an as-converted basis, or up to approximately 5% of shares outstanding, at an exercise price of $111.33 per share. About 2% is expected to vest with the initial $11.6 billion commitment; the remaining roughly 3% would vest as the commitment expands by up to another $9 billion over the warrant's seven-year term, with each additional $3 billion of cloud services (on mutually agreed terms) vesting about 1%.",
         "Akamai estimated total capital expenditures related to the $11.6 billion commitment at about $5.5 billion, including an increase of approximately $1.7 billion in 2026 capex to secure and pre-purchase critical supply-chain components such as memory, and said it anticipates no impact to 2026 revenue guidance. Reuters (via U.S. News and CNA) reported Akamai shares jumped about 15% to 16% in Thursday extended trading. An 8-K summary circulating via StockTitan frames the economics as Project Plan 2 and Project Plan 3 under the existing May 5, 2026 Anthropic MSA, subject to termination rights and delivery / service-availability conditions."
+      ]
+    },
+    {
+      "id": "anthropic-dod-appeals",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Defense",
+      "hed": "D.C. Circuit declines to block Pentagon blacklist of Anthropic as supply-chain risk",
+      "dek": "Reuters Sep 25 ~11:20 AM ET: U.S. Court of Appeals for the D.C. Circuit leaves DoD national-security supply-chain designation in place; Anthropic says the flag has cost billions and damaged IPO reputation. Separate California federal block of the designation remains. NOT MAJOR; akamai-anthropic-116 stays lead. Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / defense as Midday Sep 25 (No. 171 vs No. 170 Late Morning). PRIMARY Reuters Sep 25 (Jack Queen / New York; ~3:20 PM UTC / ~11:20 AM ET): D.C. Circuit declined to block DoD order blacklisting Anthropic from government contracts and designating it a national security supply-chain risk. Company says designation cost billions in lost business and damaged reputation ahead of IPO. Note California federal judge has separately blocked the designation. NOT MAJOR; keep akamai-anthropic-116 as lead. Pair with anthropic-501-vote if space. Owner Quill.",
+      "grafs": [
+        "A federal appeals court on Friday declined to block a Defense Department order blacklisting Anthropic from government contracts and deeming the AI startup a national security risk, Reuters reported from New York.",
+        "The ruling from the U.S. Court of Appeals for the District of Columbia Circuit came in Anthropic's lawsuit challenging its Pentagon designation as a national security supply chain risk. Anthropic says the designation has cost it billions of dollars in lost business and damaged its reputation ahead of a highly anticipated IPO.",
+        "Reuters noted the designation has been blocked by a judge overseeing a separate legal challenge in California federal court. Reporting by Jack Queen in New York; editing by Franklin Paul."
+      ]
+    },
+    {
+      "id": "netapp-peak-aio",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Storage M&A",
+      "hed": "NetApp intends to acquire PEAK:AIO for AI metadata and parallel file scale",
+      "dek": "Business Wire Sep 25 (via FinanzNachrichten reprint; sty 20260925256928): NTAP intent-stage tuck-in of Manchester UK AI storage firm for metadata / parallel file tech on ONTAP; price undisclosed; customary closes. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "Business Wire (NetApp via FinanzNachrichten)",
+      "url": "https://www.businesswire.com/news/home/20260925256928/en/",
+      "also": [
+        {
+          "label": "FinanzNachrichten reprint — Business Wire body",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69679070-netapp-announces-intent-to-acquire-peak-aio-to-advance-scalable-ai-infrastructure-architecture-004.htm"
+        },
+        {
+          "label": "Financial News — tuck-in write-up",
+          "url": "https://www.financial-news.co.uk/netapp-to-buy-peakaio-in-tuck-in-ai-storage-acquisition/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under AI / storage M&A as Midday Sep 25. PRIMARY Business Wire Sep 25 (sty 20260925256928; FinanzNachrichten carried full BW title/lede). NetApp (NASDAQ: NTAP) announces intent to acquire PEAK:AIO (Manchester UK software-defined AI storage) to add metadata innovation and parallel file architecture for GPU-cluster shared storage alongside ONTAP. Price undisclosed; subject to customary closing conditions and regulatory approvals. Do NOT invent EV or multiple. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "NetApp (NASDAQ: NTAP) on Friday announced its intent to acquire PEAK:AIO, a Manchester, U.K. software-defined AI storage firm focused on next-generation metadata architecture and high-performance parallel file systems, according to a Business Wire release (sty 20260925256928) carried on FinanzNachrichten.",
+        "NetApp said the planned acquisition is meant to strengthen its position in AI infrastructure by bringing differentiated metadata innovation and parallel file architecture designed for AI, combining PEAK:AIO technology with NetApp ONTAP so AI clouds can scale shared storage alongside growing GPU clusters.",
+        "The transaction remains subject to customary closing conditions and regulatory approvals. No purchase price was disclosed."
+      ]
+    },
+    {
+      "id": "anthropic-501-vote",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / IPO Governance",
+      "hed": "Anthropic seeks 50.1% voting control for Amodei and six co-founders ahead of IPO",
+      "dek": "CNA Sep 25 citing The Information Sep 24: Palantir-style special shares for seven co-founders on most matters if three keep minimum stakes; board elections carved out; employee special stock as tie-breakers. Anthropic no immediate Reuters comment. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "CNA (citing The Information)",
+      "url": "https://www.channelnewsasia.com/business/anthropic-seeks-501-voting-control-co-founders-ahead-ipo-information-reports-6409566",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under AI / IPO governance as Midday Sep 25. Attribute The Information via CNA; note Anthropic did not immediately respond to Reuters request for comment. Structure: CEO Dario Amodei + six co-founders combined 50.1% voting power via special share class on most matters while three of seven retain minimum stakes; board election exception (seven seats, one vacant); employee special stock as tie-breakers. Cite May raise $65B at $965B post-money and possible IPO after Nov midterms only as CNA/Reuters prior color — do not invent timing. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Anthropic is asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six co-founders a combined 50.1 percent of voting power, CNA reported Sept. 25, citing The Information from Sept. 24 and people familiar with the planning.",
+        "The arrangement, which emulates a founder-control structure at Palantir, would give co-founders a special class of shares for collective voting control in most corporate matters as long as three of the seven retain a minimum number of shares. One significant exception is election of Anthropic's board (seven seats, one currently vacant). The company is also planning employee special stock as tie-breakers on some issues.",
+        "Anthropic did not immediately respond to a Reuters request for comment. CNA noted the Claude maker raised $65 billion at a $965 billion post-money valuation in May and could push its IPO past the November U.S. midterms."
+      ]
+    },
+    {
+      "id": "lightspeed-india-250",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Venture / India AI",
+      "hed": "Lightspeed targets $250M India Partners V fund, AI-only early-stage thesis",
+      "dek": "TechCrunch Sep 24 ~10:00 PM PDT (investor letter seen by TC): ~80% of $250M target committed; half prior $500M 2022 vehicle; invest within ~2 months; India/SEA AI focus; spokesperson declined comment. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD under PE / venture as Midday Sep 25 plate (overnight Sep 24 print). Targeting/not closed. Attribute Thursday investor letter seen by TechCrunch; Lightspeed declined comment. Do not invent close date or LP names. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Lightspeed is targeting $250 million for Lightspeed India Partners V, an early-stage vehicle focused on AI startups in India and Southeast Asia, TechCrunch reported Sept. 24 after seeing a Thursday investor letter. The firm said it has secured commitments for about 80% of the target.",
+        "The new fund is half the size of its $500 million 2022 predecessor. Lightspeed plans to begin investing within two months on a roughly 2.5-year investment period, and is aligning India fund timing with its global cycle for the first time. A spokesperson declined to comment.",
+        "TechCrunch noted Lightspeed's global AI bets include Anthropic, xAI, and Databricks, and India backing of Sarvam AI."
       ]
     },
     {
