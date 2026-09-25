@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 168,
+  "number": 169,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
-    "source": "Yahoo Finance (Fri ~8:47 am ET pre-open; Thu cash close + live yields/Tokyo/futures)",
-    "updated": "Sep 25, ~8:47 am ET (Yahoo chart). U.S. cash not open yet (9:30 am ET); indices/NVDA/AMD/ORCL show Thu close. Live: ^TNX 5.184 / ^TYX 5.477; SoftBank 9984.T 6,150 (−3.18% vs prior 6,352); ES=F 7,786.75 (+0.25%), NQ=F 30,893.5 (+0.41%), YM=F 51,863 (+0.28%).",
-    "line": "PRE-OPEN Fri ~8:47 am ET · S&P 7,704.13 (−0.02% Thu) · Dow 51,349.98 (−0.31% Thu) · Nasdaq 26,939.37 (+0.01% Thu) · NVDA $224.58 (−0.41% Thu) · AMD $629.26 (+2.38% Thu) · ORCL $139.54 (−3.47% Thu) · 10-year 5.184% · 30-year 5.477% (Yahoo live) · SoftBank Tokyo 6,150 (−3.2%) · ES 7,786.75 / NQ 30,893.5 futures"
+    "source": "Yahoo Finance (Fri ~9:57 am ET live cash session + yields/futures)",
+    "updated": "Sep 25, ~9:57 am ET (Yahoo chart). First live U.S. cash print vs No. 168 Morning pre-open/Thu close plate. Session vs Thu close: S&P 7,731.55 (+0.36%), Dow 51,599.87 (+0.49%), Nasdaq 27,064.98 (+0.47%), SOX 12,675.50 (+1.46%), NVDA $225.45 (+0.39%), AMD $635.78 (+1.04%), AKAM $118.48 (+7.31%; Anthropic CIS lead color). Yields: ^TNX 5.181% / ^TYX 5.483%. Futures: ES 7,785.25 (+0.23%), NQ 30,872.00 (+0.34%). SoftBank Tokyo 9984.T still 6,150 (−3.2% Thu Tokyo close).",
+    "line": "LIVE Fri ~9:57 am ET · S&P 7,731.55 (+0.36%) · Dow 51,599.87 (+0.49%) · Nasdaq 27,064.98 (+0.47%) · SOX 12,675.50 (+1.46%) · NVDA $225.45 (+0.39%) · AMD $635.78 (+1.04%) · AKAM $118.48 (+7.31%) · 10-year 5.181% · 30-year 5.483% · ES 7,785 / NQ 30,872"
   },
   "deskNote": {
-    "kicker": "AI desk into Morning",
-    "hed": "Akamai–Anthropic ~$11.6B CIS is the new MAJOR lead; SoftBank notes stay on plate.",
+    "kicker": "AI desk into Mid-Morning",
+    "hed": "First live cash print; Akamai–Anthropic stays MAJOR lead; AKAM +7% on the CIS.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 168 Morning vs No. 167 Night. CLEAR MAJOR ADD akamai-anthropic-116 (GlobeNewswire Sep 24 16:01 ET: Akamai–Anthropic ~$11.6B / 7yr CIS; optional +$9B to ~$20B; warrant up to ~5% AKAM; missed after-hours on Night). SoftBank softbank-notes-ipg demoted from lead but remains MAJOR credit color; ust-30y-williams stays MAJOR. ADD precision-250-series-d (GlobeNewswire Sep 24 08:00 ET: Precision Neuroscience $250M Series D co-led Pershing Square / Ackman Oxman; total $430M; NOT MAJOR). Tape: Fri ~8:47 am ET pre-open; Yahoo cash still Thu close; live ^TNX/~5.18% ^TYX/~5.48%; SoftBank Tokyo 9984.T 6,150 (−3.2%); ES/NQ futures firm."
+    "body": "Vol. 1 No. 169 Mid-Morning vs No. 168 Morning. TAPE ONLY — no new story adds. First live U.S. cash session after Morning pre-open/Thu-close plate: S&P/Dow/Nasdaq modestly green; SOX +1.5%; AMD +1%; AKAM $118.48 (+7.31%) on the akamai-anthropic-116 MAJOR lead (GlobeNewswire Sep 24). softbank-notes-ipg remains MAJOR credit color (priced; settle Sep 29); ust-30y-williams MAJOR. Declined / already plated: Anthropic Institute pace-of-development metrics post (Sep 25) restates anthropic-rd-lead-26 (Sep 17); NetApp intent to acquire PEAK:AIO (Business Wire via StockTitan ~9:00 am ET) — terms undisclosed; Lumen NYSE→Nasdaq listing move (Reuters) — venue only; Factory $5B Forbes feature already factory-200. Open watches unchanged."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 168 Morning: akamai-anthropic-116 MAJOR lead (missed Night AH); softbank-notes-ipg prior lead still MAJOR; ust-30y-williams MAJOR; ADD precision-250-series-d. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 169 Mid-Morning tape-only after No. 168 Morning. Lead remains akamai-anthropic-116 MAJOR; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30–Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ–Nvidia–Groq, Anthropic–Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
