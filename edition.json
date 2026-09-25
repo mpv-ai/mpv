@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 167,
+  "number": 168,
   "city": "New York",
-  "date": "Thursday, September 24, 2026",
-  "editionLabel": "Night",
+  "date": "Friday, September 25, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance (Thu cash close; ^TNX/^TYX; AH quiet)",
-    "updated": "Sep 24, ~7:53 pm ET (Yahoo chart). Cash close unchanged vs Late Evening No. 166; AH still quiet (no post-market prints on NVDA/ORCL/AMD). S&P/Dow soft, Nasdaq flat; AMD +2.38%; ORCL −3.47%; NVDA −0.41%; yields firm (^TNX ~5.16% / ^TYX ~5.46%).",
-    "line": "S&P 7,704.13 (−0.02%) · Dow 51,349.98 (−0.31%) · Nasdaq 26,939.37 (+0.01%) · NVDA $224.58 (−0.41%) · AMD $629.26 (+2.38%) · ORCL $139.54 (−3.47%; AH quiet) · 10-year ~5.16% · 30-year ~5.46% (Thu close / Yahoo ~7:53 pm ET)"
+    "source": "Yahoo Finance (Fri ~8:47 am ET pre-open; Thu cash close + live yields/Tokyo/futures)",
+    "updated": "Sep 25, ~8:47 am ET (Yahoo chart). U.S. cash not open yet (9:30 am ET); indices/NVDA/AMD/ORCL show Thu close. Live: ^TNX 5.184 / ^TYX 5.477; SoftBank 9984.T 6,150 (−3.18% vs prior 6,352); ES=F 7,786.75 (+0.25%), NQ=F 30,893.5 (+0.41%), YM=F 51,863 (+0.28%).",
+    "line": "PRE-OPEN Fri ~8:47 am ET · S&P 7,704.13 (−0.02% Thu) · Dow 51,349.98 (−0.31% Thu) · Nasdaq 26,939.37 (+0.01% Thu) · NVDA $224.58 (−0.41% Thu) · AMD $629.26 (+2.38% Thu) · ORCL $139.54 (−3.47% Thu) · 10-year 5.184% · 30-year 5.477% (Yahoo live) · SoftBank Tokyo 6,150 (−3.2%) · ES 7,786.75 / NQ 30,893.5 futures"
   },
   "deskNote": {
-    "kicker": "AI desk into Night",
-    "hed": "Cash close holds into the last hourly; Basalt $20M and Flatkey/Realset $10M added.",
+    "kicker": "AI desk into Morning",
+    "hed": "Akamai–Anthropic ~$11.6B CIS is the new MAJOR lead; SoftBank notes stay on plate.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 167 Night vs No. 166 Late Evening. SoftBank OpenAI notes (softbank-notes-ipg) remain MAJOR lead; ust-30y-williams stays MAJOR. ADD basalt-20-series-a (Business Wire Sep 24 via FinancialContent: Basalt Health $20M Series A led by NEA; Frist Cressey + 25m Health; ~$24.5M total) + flatkey-realset-10 (PR Newswire Sep 23: Flatkey/Realset joint $10M Series A; investors unnamed — do not invent). Tape: Yahoo ~7:53 pm ET cash close unchanged; AH quiet."
+    "body": "Vol. 1 No. 168 Morning vs No. 167 Night. CLEAR MAJOR ADD akamai-anthropic-116 (GlobeNewswire Sep 24 16:01 ET: Akamai–Anthropic ~$11.6B / 7yr CIS; optional +$9B to ~$20B; warrant up to ~5% AKAM; missed after-hours on Night). SoftBank softbank-notes-ipg demoted from lead but remains MAJOR credit color; ust-30y-williams stays MAJOR. ADD precision-250-series-d (GlobeNewswire Sep 24 08:00 ET: Precision Neuroscience $250M Series D co-led Pershing Square / Ackman Oxman; total $430M; NOT MAJOR). Tape: Fri ~8:47 am ET pre-open; Yahoo cash still Thu close; live ^TNX/~5.18% ^TYX/~5.48%; SoftBank Tokyo 9984.T 6,150 (−3.2%); ES/NQ futures firm."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 167 Night: softbank-notes-ipg MAJOR lead + ust-30y-williams MAJOR; ADD basalt-20-series-a + flatkey-realset-10. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
+    "line": "No. 168 Morning: akamai-anthropic-116 MAJOR lead (missed Night AH); softbank-notes-ipg prior lead still MAJOR; ust-30y-williams MAJOR; ADD precision-250-series-d. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. CoreWeave Fully Connected Sep 30-Oct 1. Still OPEN: DeepSeek Yan Wentao / CFO start, DOJ-Nvidia-Groq, Anthropic-Lambda $35B, Anthropic S-1/MatX, Oura price next week."
   },
   "sections": [
     "All",
@@ -28,6 +28,67 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "akamai-anthropic-116",
+      "lead": true,
+      "section": "AI",
+      "kicker": "AI / Cloud Infra",
+      "hed": "Akamai signs ~$11.6B / 7yr CIS with Anthropic; optional +$9B to ~$20B; warrant up to ~5%",
+      "dek": "GlobeNewswire Sep 24 16:01 ET (Akamai): $11.6B contractual CIS commitment over seven years for Anthropic CPU workloads on Akamai Cloud; potential expansion up to +$9B (~$20B total). Warrant for non-voting Series B convertible into ~7.7M shares (~up to 5% outstanding) at $111.33; ~2% expected to vest on initial commitment, remaining ~3% on expansion ($3B steps ≈1%). Related capex ~$5.5B; +~$1.7B 2026 capex for supply (incl. memory); no 2026 revenue-guidance impact. Adds to >$2.8B multi-year CIS commitments announced YTD. Missed on Night No. 167. MAJOR / Morning lead. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "GlobeNewswire (Akamai Technologies)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/24/3368729/0/en/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand.html",
+      "also": [
+        {
+          "label": "Reuters via U.S. News — $11.6B / +$9B option; AKAM +15% AH",
+          "url": "https://money.usnews.com/investing/news/articles/2026-09-24/akamai-anthropic-sign-11-6-billion-cloud-services-deal"
+        },
+        {
+          "label": "StockTitan — AKAM 8-K Project Plans 2/3 under May 5, 2026 MSA",
+          "url": "https://www.stocktitan.net/sec-filings/AKAM/8-k-akamai-technologies-inc-reports-material-event-20bbed6a2ce7.html"
+        },
+        {
+          "label": "CNA/Reuters — warrant up to ~5%; ~$5.5B related capex",
+          "url": "https://www.channelnewsasia.com/business/anthropic-signs-116-billion-cloud-deal-akamai-gets-warrant-up-5-stake-6409301"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as MAJOR Morning lead (No. 168 vs No. 167 Night). PRIMARY GlobeNewswire Sep 24 16:01 ET (Akamai): ~$11.6B / 7yr Cloud Infrastructure Services commitment with Anthropic for CPU workloads; optional expansion up to +$9B for ~$20B total potential. Warrant: non-voting convertible Series B for ~7.7M shares as-converted (up to ~5% outstanding) at $111.33; ~2% expected to vest with initial commitment; remaining ~3% vest with expansion (each +$3B ≈ +1%). Related capex ~$5.5B; +~$1.7B 2026 capex for critical supply (incl. memory); no impact to 2026 revenue guidance. Deal adds to >$2.8B multi-year CIS commitments announced across Akamai customer base this year. PAIR Reuters (via U.S. News / CNA): AKAM jumped ~15–16% in extended trading Thu. 8-K color (StockTitan): Project Plan 2 and 3 under existing Anthropic MSA dated May 5, 2026; subject to termination / delivery / service-availability. Missed on Night plate (after-hours wire). Do NOT invent AH print beyond sourced % move. MAJOR / lead candidate for Morning. Owner Quill.",
+      "grafs": [
+        "Akamai Technologies announced a roughly $11.6 billion, seven-year Cloud Infrastructure Services commitment with Anthropic on Sept. 24, 2026, in a GlobeNewswire release timed at 4:01 p.m. ET, after the U.S. cash close and after Vol. 1 No. 167 Night locked.",
+        "The multi-year CIS deal is meant to support Anthropic's accelerating CPU workloads on Akamai Cloud's distributed infrastructure. The companies also left room to expand the relationship by up to an additional $9 billion, which Akamai said would bring total potential commitment to about $20 billion. The release said the deal adds to more than $2.8 billion in multi-year CIS commitments Akamai had already announced across its customer base this year.",
+        "As part of the expanded alignment, Akamai issued Anthropic a warrant to purchase non-voting convertible Series B preferred stock representing about 7.7 million Akamai common shares on an as-converted basis, or up to approximately 5% of shares outstanding, at an exercise price of $111.33 per share. About 2% is expected to vest with the initial $11.6 billion commitment; the remaining roughly 3% would vest as the commitment expands by up to another $9 billion over the warrant's seven-year term, with each additional $3 billion of cloud services (on mutually agreed terms) vesting about 1%.",
+        "Akamai estimated total capital expenditures related to the $11.6 billion commitment at about $5.5 billion, including an increase of approximately $1.7 billion in 2026 capex to secure and pre-purchase critical supply-chain components such as memory, and said it anticipates no impact to 2026 revenue guidance. Reuters (via U.S. News and CNA) reported Akamai shares jumped about 15% to 16% in Thursday extended trading. An 8-K summary circulating via StockTitan frames the economics as Project Plan 2 and Project Plan 3 under the existing May 5, 2026 Anthropic MSA, subject to termination rights and delivery / service-availability conditions."
+      ]
+    },
+    {
+      "id": "precision-250-series-d",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Neurotech",
+      "hed": "Precision Neuroscience closes $250M Series D co-led Pershing Square / Ackman Oxman; total $430M",
+      "dek": "GlobeNewswire Sep 24 08:00 ET: oversubscribed $250M Series D co-led by Pershing Square Inc., the Ackman Oxman Institute, and an undisclosed leading life-sciences fund; total capital raised $430M. Participants include Duquesne Family Office, B Capital, ARK Invest, Invus, Mubadala Capital, Mirae Asset Capital, Korea Investment Partners, Hitachi Ventures, JSL Health Capital, others. BCI Layer 7 cortical interface; >100 patient procedures / 18 institutions; Medtronic partnership; Texas MEMS fab. Use of proceeds: clinical expansion, next FDA stages, commercialization infra. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "GlobeNewswire (Precision Neuroscience)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/24/3368254/0/en/precision-neuroscience-closes-oversubscribed-250m-series-d-led-by-pershing-square-inc-the-ackman-oxman-institute-and-a-leading-life-sciences-investment-fund.html",
+      "also": [
+        {
+          "label": "BioSpace — same GlobeNewswire wire",
+          "url": "https://www.biospace.com/press-releases/precision-neuroscience-closes-oversubscribed-250m-series-d-led-by-pershing-square-inc-the-ackman-oxman-institute-and-a-leading-life-sciences-investment-fund"
+        },
+        {
+          "label": "Precision Neuroscience — company site",
+          "url": "https://www.precisionneuro.io"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD under PE / neurotech as Morning Sep 25 (No. 168 vs No. 167 Night; wire dated Sep 24 08:00 ET, missed overnight). PRIMARY GlobeNewswire: Precision Neuroscience closes oversubscribed $250M Series D co-led by Pershing Square Inc., the Ackman Oxman Institute, and an undisclosed leading life sciences investment fund; total capital raised $430M since 2021 founding. Named participants: Duquesne Family Office, B Capital, ARK Invest, Invus, Mubadala Capital, Mirae Asset Capital, Korea Investment Partners, Hitachi Ventures, JSL Health Capital, others. Clinical footprint: >100 patient procedures across 18 institutions; FDA clearance for Layer 7 cortical interface; Medtronic commercial partnership; wholly-owned MEMS fab in Texas. Proceeds: expand clinical program, advance Layer 7 through next FDA stages, build commercialization infrastructure. Bill Ackman (Pershing / Ackman Oxman) and CEO Michael Mager quoted in wire. Do NOT invent valuation or ownership %. BCI-adjacent to AI beat. NOT MAJOR. Owner Quill.",
+      "grafs": [
+        "Precision Neuroscience, a brain-computer interface company, closed an oversubscribed $250 million Series D on Sept. 24, 2026, co-led by Pershing Square Inc., the Ackman Oxman Institute, and an undisclosed leading life-sciences investment fund, according to a GlobeNewswire release timed at 8:00 a.m. ET.",
+        "The round brings Precision's total capital raised to $430 million. Additional participants named in the wire include the Duquesne Family Office, B Capital, ARK Invest, Invus, Mubadala Capital, Mirae Asset Capital, Korea Investment Partners, Hitachi Ventures, JSL Health Capital, and others.",
+        "Since its 2021 founding, Precision said it has completed more than 100 patient procedures across 18 medical institutions, secured FDA clearance for its Layer 7 cortical interface, signed a commercial partnership with Medtronic, and built a wholly owned MEMS manufacturing facility in Texas. Proceeds are earmarked for clinical expansion, the next stages of FDA review for Layer 7, and commercialization infrastructure. Bill Ackman, CEO of Pershing Square and co-founder of the Ackman Oxman Institute, and Precision co-founder and CEO Michael Mager are quoted in the release."
+      ]
+    },
     {
       "id": "basalt-20-series-a",
       "lead": false,
@@ -426,7 +487,7 @@
     },
     {
       "id": "softbank-notes-ipg",
-      "lead": true,
+      "lead": false,
       "section": "Markets",
       "kicker": "AI / Credit",
       "hed": "SoftBank prices ~$11.1B OpenAI junk notes; USD up to 9.75%, EUR to 8%",
@@ -449,7 +510,7 @@
         }
       ],
       "owner": "QUILL",
-      "action": "UPDATE under Markets / AI credit as Morning Sep 24 MAJOR lead (No. 156; SoftBank IR final coupons/size vs No. 155 Late Close IPG/pending). PRIMARY SoftBank Group IR Sep 24: aggregate ~USD 11.1B (USD 10B + EUR 1B at EUR1=USD1.1383); USD $1B 8.625% Apr 1 2030 / $4.5B 9.250% Apr 1 2032 / $4.5B 9.750% Apr 1 2034; EUR €500M 7.125% Oct 1 2030 / €500M 8.000% Oct 1 2032; issue price 100%; expected issue Sep 29; use for USD 10B OpenAI third/final tranche of USD 30B follow-on (close expected Oct 1) + general corporate; cancel remaining USD 10B undrawn under USD 40B March bridge; BB+ S&P Japan / Fitch Japan; SGX. PAIR Reuters (largest HY corporate on record per LSEG; coupons match IR) and CNBC share reaction. Replaces pending-IPG color from softbank-notes-ipg Sep 23; keep softbank-openai-bonds on plate as launch history. Do NOT invent book size final demand, OpenAI valuation, or Arm loan figures beyond IR. MAJOR — keep as lead. Owner Quill.",
+      "action": "PRIOR LEAD (still MAJOR credit color; demoted for Morning No. 168 behind akamai-anthropic-116). UPDATE under Markets / AI credit as Morning Sep 24 MAJOR lead (No. 156; SoftBank IR final coupons/size vs No. 155 Late Close IPG/pending). PRIMARY SoftBank Group IR Sep 24: aggregate ~USD 11.1B (USD 10B + EUR 1B at EUR1=USD1.1383); USD $1B 8.625% Apr 1 2030 / $4.5B 9.250% Apr 1 2032 / $4.5B 9.750% Apr 1 2034; EUR €500M 7.125% Oct 1 2030 / €500M 8.000% Oct 1 2032; issue price 100%; expected issue Sep 29; use for USD 10B OpenAI third/final tranche of USD 30B follow-on (close expected Oct 1) + general corporate; cancel remaining USD 10B undrawn under USD 40B March bridge; BB+ S&P Japan / Fitch Japan; SGX. PAIR Reuters (largest HY corporate on record per LSEG; coupons match IR) and CNBC share reaction. Replaces pending-IPG color from softbank-notes-ipg Sep 23; keep softbank-openai-bonds on plate as launch history. Do NOT invent book size final demand, OpenAI valuation, or Arm loan figures beyond IR. MAJOR — keep as lead. Owner Quill.",
       "grafs": [
         "SoftBank Group priced approximately $11.1 billion of dollar- and euro-denominated senior notes on Thursday to help fund the final $10 billion tranche of its $30 billion follow-on OpenAI investment, according to a SoftBank Group IR release setting final terms.",
         "The package is $10 billion of USD notes ($1 billion at 8.625% due April 1, 2030; $4.5 billion at 9.25% due April 1, 2032; $4.5 billion at 9.75% due April 1, 2034) plus €1 billion of EUR notes (€500 million at 7.125% due October 1, 2030; €500 million at 8.00% due October 1, 2032), all at 100% of principal, SoftBank said. Expected issue date is September 29, 2026. SoftBank said it expects to cancel the remaining $10 billion of undrawn capacity under its $40 billion March 2026 bridge as the OpenAI third tranche closes around October 1.",
