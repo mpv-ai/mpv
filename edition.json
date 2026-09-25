@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 173,
+  "number": 174,
   "city": "New York",
   "date": "Friday, September 25, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Near Close",
   "tape": {
-    "source": "Yahoo Finance (Fri ~2:55 pm ET live cash session + yields/futures)",
-    "updated": "Yahoo Finance (Fri ~2:55 pm ET live cash session + yields/futures). Late Afternoon cash vs No. 173 Afternoon ~1:55 pm plate. Session vs Thu close: S&P 7,736.72 (+0.42%), Dow 51,776.56 (+0.83%), Nasdaq 27,051.75 (+0.42%), SOX 12,670.83 (+1.43%), NVDA $224.05 (-0.24%), AMD $629.51 (+0.04%), AKAM $116.02 (+5.08%; Anthropic CIS still bid), MSFT $516.38 (+3.71%; Copilot color). Yields: ^TNX 5.194% / ^TYX 5.510%. Futures: ES 7,801.75 (+0.45%), NQ 30,888.00 (+0.39%). SoftBank Tokyo 9984.T still 6,150.0 (-3.18% Thu Tokyo close). No new beat ADDs vs Afternoon plate.",
-    "line": "LIVE Fri ~2:55 pm ET · S&P 7,736.72 (+0.42%) · Dow 51,776.56 (+0.83%) · Nasdaq 27,051.75 (+0.42%) · SOX 12,670.83 (+1.43%) · NVDA $224.05 (-0.24%) · AMD $629.51 (+0.04%) · AKAM $116.02 (+5.08%) · MSFT $516.38 (+3.71%) · 10-y 5.194% · 30-y 5.510%"
+    "source": "Yahoo Finance (Fri ~3:55 pm ET live cash session + yields/futures)",
+    "updated": "Yahoo Finance (Fri ~3:55 pm ET live cash session + yields/futures). Near Close cash vs No. 173 Late Afternoon ~2:55 pm plate. Session vs Thu close: S&P 7,744.55 (+0.52%), Dow 51,821.62 (+0.92%), Nasdaq 27,077.01 (+0.51%), SOX 12,681.89 (+1.52%), NVDA $225.27 (+0.31%), AMD $631.44 (+0.35%), AKAM $113.93 (+3.19%; Anthropic CIS bid cooled from ~$116 Late Afternoon), MSFT $516.49 (+3.73%; Copilot color). Yields: ^TNX 5.184% / ^TYX 5.504%. Futures: ES 7,809.50 (+0.55%), NQ 30,909.25 (+0.46%). SoftBank Tokyo 9984.T still 6,150.0 (−3.18% Thu Tokyo close). ADDs: anthropic-nine-loops, anthropic-project-swap, fed-bank-thresholds.",
+    "line": "LIVE Fri ~3:55 pm ET · S&P 7,744.55 (+0.52%) · Dow 51,821.62 (+0.92%) · Nasdaq 27,077.01 (+0.51%) · SOX 12,681.89 (+1.52%) · NVDA $225.27 (+0.31%) · AMD $631.44 (+0.35%) · AKAM $113.93 (+3.19%) · MSFT $516.49 (+3.73%) · 10-y 5.184% · 30-y 5.504%"
   },
   "deskNote": {
-    "kicker": "AI desk into Late Afternoon",
-    "hed": "Tape refresh only. No new beat ADDs. Akamai stays MAJOR lead.",
+    "kicker": "AI desk into Near Close",
+    "hed": "Three ADDs (Claude nine-loops, Project Swap, Fed thresholds). Akamai stays MAJOR lead.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 173 Late Afternoon vs Afternoon ~1:55 pm plate. No new inbound stories since Afternoon ADDs (dayone-ipo-nov, sb-energy-ipo-delay); duplicate/stale wires (UiPath CFO Sep 3; Switch confidential Aug; Hg–Anthropic Sep 21 already on plate as hg-anthropic-agentic) skipped. akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. Tape refreshed ~2:55 pm ET: indices still green vs Thu; NVDA flipped slightly red (-0.24%); AKAM +~5.1% on CIS; MSFT +~3.7% on Copilot; yields ^TNX 5.194% / ^TYX 5.510% (off Afternoon highs)."
+    "body": "Vol. 1 No. 174 Near Close vs No. 173 Late Afternoon ~2:55 pm plate. New inbound: anthropic-nine-loops (Anthropic Research Sep 25 — Claude Science / Fable 5.1 nine-loop N=4 SYM; Dixon validates; NOT MAJOR), anthropic-project-swap (Anthropic Research Sep 24 — 201-employee agent book market; missed earlier plates; NOT MAJOR), fed-bank-thresholds (PYMNTS Sep 25 citing Reuters — Fed considering $100B→~$150B and $700B→~$1T oversight thresholds; NOT MAJOR). Skipped ADARx IPO debut and a fresh Anthropic “pace of AI development” headline pending durable non-redirect source URLs; skipped WSJ Blackstone PE-exec exclusive (paywall, no usable primary). akamai-anthropic-116 remains MAJOR lead; softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET. Route all three ADDs to Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 173 Late Afternoon tape refresh after Afternoon ADDs. Lead remains akamai-anthropic-116 MAJOR; prior ADDs dayone-ipo-nov, sb-energy-ipo-delay (both NOT MAJOR) for Quill still on plate. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
+    "line": "No. 174 Near Close ADDs anthropic-nine-loops, anthropic-project-swap, fed-bank-thresholds (all NOT MAJOR) for Quill. Lead remains akamai-anthropic-116 MAJOR. softbank-notes-ipg + ust-30y-williams MAJOR. SoftBank settle Sep 29 / OpenAI Oct 1. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
@@ -59,6 +59,73 @@
         "The multi-year CIS deal is meant to support Anthropic's accelerating CPU workloads on Akamai Cloud's distributed infrastructure. The companies also left room to expand the relationship by up to an additional $9 billion, which Akamai said would bring total potential commitment to about $20 billion. The release said the deal adds to more than $2.8 billion in multi-year CIS commitments Akamai had already announced across its customer base this year.",
         "As part of the expanded alignment, Akamai issued Anthropic a warrant to purchase non-voting convertible Series B preferred stock representing about 7.7 million Akamai common shares on an as-converted basis, or up to approximately 5% of shares outstanding, at an exercise price of $111.33 per share. About 2% is expected to vest with the initial $11.6 billion commitment; the remaining roughly 3% would vest as the commitment expands by up to another $9 billion over the warrant's seven-year term, with each additional $3 billion of cloud services (on mutually agreed terms) vesting about 1%.",
         "Akamai estimated total capital expenditures related to the $11.6 billion commitment at about $5.5 billion, including an increase of approximately $1.7 billion in 2026 capex to secure and pre-purchase critical supply-chain components such as memory, and said it anticipates no impact to 2026 revenue guidance. Reuters (via U.S. News and CNA) reported Akamai shares jumped about 15% to 16% in Thursday extended trading. An 8-K summary circulating via StockTitan frames the economics as Project Plan 2 and Project Plan 3 under the existing May 5, 2026 Anthropic MSA, subject to termination rights and delivery / service-availability conditions."
+      ]
+    },
+    {
+      "id": "anthropic-nine-loops",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Science",
+      "hed": "Claude Science computes nine-loop N=4 SYM amplitude; SLAC’s Dixon validates",
+      "dek": "Anthropic Research Sep 25 (guest Matt von Hippel): Claude Science / Fable 5.1 solved six-particle planar N=4 super Yang-Mills at nine loops after a blog challenge; ~$1–2k end-user cost, ~$100 SymPy/96-CPU-week bootstrap budget. SLAC/Stanford’s Lance Dixon independently validated. Song He (CAS) group also reached majority of result with GPT-6 assist, less autonomous. Capability signal for science harnesses; NOT MAJOR (akamai-anthropic-116 stays lead). Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "Anthropic Research",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "also": [
+        {
+          "label": "Anthropic Research — Project Swap (agent markets, Sep 24)",
+          "url": "https://www.anthropic.com/research/project-swap"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as AI capability / science-harness plate (No. 174 Near Close). PRIMARY Anthropic Research Sep 25 guest post by Matt von Hippel: Claude Science (Fable 5.1) computed the six-particle (hexagon) amplitude in planar N=4 SYM at nine loops after von Hippel’s public challenge. Anthropic physicists Liam Fitzpatrick and Siddharth Mishra-Sharma ran the harness with minimal oversight (\"keep going\"); end-user cost ~$1–2k; bootstrap path ~$100 compute (96 CPUs / week, SymPy). SLAC/Stanford Lance Dixon independently validated (addendum). Concurrent: Song He / Jirong Jing / Xiang Li (Chinese Academy of Sciences) computed majority of result with GPT-6 assistance, not one-shot autonomous. von Hippel takeaway: low-hanging fruit + reliable autonomous frontier calc on academic-scale budget; not yet novel physical principles. NOT MAJOR vs akamai-anthropic-116. Route Quill.",
+      "grafs": [
+        "Anthropic published a Sept. 25, 2026 research guest post by physicist and science writer Matt von Hippel describing how Claude Science, running Fable 5.1, computed the six-particle planar N=4 super Yang-Mills amplitude at nine loops after von Hippel challenged AI labs to clear that frontier problem on academic-scale compute.",
+        "Anthropic physicists Liam Fitzpatrick and Siddharth Mishra-Sharma prompted the science harness and largely let it continue overnight; von Hippel cites roughly $1,000 to $2,000 in end-user Claude cost, with about $100 of that tied to a SymPy bootstrap run on 96 CPUs for a week. SLAC and Stanford’s Lance Dixon independently validated the result and wrote an addendum saying Claude executed a fragile, fully documented-from-scratch recipe he had thought too hard to run directly.",
+        "Days later, Song He’s group at the Chinese Academy of Sciences reported they had already obtained most of the nine-loop result with GPT-6 assistance inside a human framework, so the field was scooped by both a largely autonomous harness and a human-plus-AI team within two weeks. The post is a clear capability signal for science agents, not a commercial deal, so it stays NOT MAJOR behind the Akamai–Anthropic CIS lead."
+      ]
+    },
+    {
+      "id": "anthropic-project-swap",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Agent Markets",
+      "hed": "Anthropic Project Swap: 201 employee Claudes barter books; model beats instructions",
+      "dek": "Anthropic Research Sep 24 (Hitzig et al.): controlled sequel to Project Deal. 201 employees across six offices sent Claude agents onto a book barter floor after a short preference chat (61% pairwise ranking agreement). Stronger models drove more efficient floors than ruthless vs prosocial instructions; preference representation, not bargaining, explained most of the shortfall from optimum. Avg participant would hand Claude ~30% of yearly book budget. Missed Afternoon/Late Afternoon plates. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 24, 2026",
+      "source": "Anthropic Research",
+      "url": "https://www.anthropic.com/research/project-swap",
+      "also": [
+        {
+          "label": "Anthropic Features — Project Deal (prior Claude marketplace)",
+          "url": "https://www.anthropic.com/features/project-deal"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as AI agent-markets research (No. 174 Near Close). PRIMARY Anthropic Research Sep 24 Project Swap: 201 Anthropic employees; agents traded books on decentralized floors after short intake; Claude rankings matched human pairwise prefs 61%. Efficiency shortfall mostly from preference representation (~85%), not market design. Model choice (Haiku→Opus) moved Claude-rank efficiency more than ruthless/prosocial prompts. Endline: ~30% of book budget would be delegated to an agent vs ~40% to a well-read friend. Governance notes on fiduciary fit, observability, rate limits, agent IDs. Missed prior Sep 24/25 plates. NOT MAJOR. Route Quill.",
+      "grafs": [
+        "Anthropic’s Sept. 24, 2026 Project Swap paper reports a controlled agent marketplace in which 201 employees across six offices each brought a book, told Claude their reading tastes in a short chat, and sent a Claude-powered agent onto a digital trading floor to barter for a summer read.",
+        "From a median intake of about 216 words, agents’ book rankings agreed with participants’ own pairwise rankings 61% of the time. Once trading started, most of the gap versus the utilitarian optimum came from noisy preference representation rather than how agents bargained, and floors powered by stronger models were more efficient than weaker ones; ruthless versus prosocial instructions moved outcomes only slightly.",
+        "In a three-week follow-up, average satisfaction was 7.2 out of 10 among respondents, and participants said they would hand an agent about 30% of their yearly book budget versus about 40% to a well-read friend. The authors frame the study as an early look at fiduciary fit, observability, and marketplace rules for agent economies. Missed the Afternoon and Late Afternoon plates; NOT MAJOR."
+      ]
+    },
+    {
+      "id": "fed-bank-thresholds",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Bank Regulation",
+      "hed": "Fed plans to lift big-bank oversight thresholds to ~$150B and ~$1T, sources tell Reuters",
+      "dek": "PYMNTS Sep 25 citing Reuters sources: Fed considering raising lower enhanced-oversight asset threshold from $100B to around $150B and highest from $700B to around $1T, reindexing for inflation/growth since 2019 thresholds. Would ease stress-test/liquidity/capital/compliance burden for some banks; proposal possible later this year. Fed declined comment; Bowman had flagged reindexing in January. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 25, 2026",
+      "source": "PYMNTS (citing Reuters)",
+      "url": "https://www.pymnts.com/legal/bank-regulation/2026/fed-prepares-to-lift-thresholds-that-trigger-stricter-bank-oversight/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD as Finance / bank-regulation plate (No. 174 Near Close). PRIMARY PYMNTS Sep 25 summarizing Reuters unnamed sources: Fed considering lift of lower enhanced-oversight threshold $100B→~$150B and highest $700B→~$1T to reflect inflation and growth since 2019; proposal could come later this year. Thresholds gate stress tests, liquidity, capital, and heavy compliance spend. Fed declined comment; Vice Chair for Supervision Bowman flagged reindexing in January. NOT MAJOR. Route Quill.",
+      "grafs": [
+        "PYMNTS reported Friday that the Federal Reserve plans to raise the asset thresholds that trigger stricter oversight of large banks, citing a Reuters story that relied on unnamed sources.",
+        "According to that report, the Fed is considering lifting the lower threshold for some requirements from $100 billion in assets to around $150 billion and the highest threshold from $700 billion to around $1 trillion, a reindexing meant to reflect inflation and economic growth since the current cutoffs were set in 2019.",
+        "Higher thresholds would free some banks from enhanced stress testing, liquidity and capital rules, and the tens of millions of dollars a year those regimes require in compliance and risk systems. Reuters said a proposal could come later this year; the Fed declined to comment, while Vice Chair for Supervision Michelle Bowman had said in January the Fed would consider reindexing. NOT MAJOR."
       ]
     },
     {
