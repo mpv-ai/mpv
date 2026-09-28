@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 176,
+  "number": 177,
   "city": "New York",
   "date": "Monday, September 28, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Mid-Morning",
   "tape": {
-    "source": "Yahoo Finance (Fri cash close locked; Mon ~9:00 am ET premkt/futures recheck)",
-    "updated": "Yahoo Finance Mon ~9:00 am ET vs No. 175 Evening. US cash still Fri lock (pre-open): S&P 7,743.41 (+0.51%), Dow 51,828.62 (+0.93%), Nasdaq 27,068.72 (+0.48%), SOX 12,668.93 (+1.41%), NVDA $225.07 (+0.22%), AMD $630.63 (+0.22%), AKAM $113.94 (+3.20%), MSFT $516.17 (+3.66%). Futures softer vs Fri AH: ES 7,777.00 (-0.34% vs prev 7,803.75), NQ 30,726.75 (-0.53% vs prev 30,889.25). Yields: ^TNX 5.213% / ^TYX 5.526%. WTI CL=F $94.20 (+1.94%); Yahoo BZ=F $99.07 (+1.67%) — do not conflate with Al Jazeera Asia Brent ~$107 prints on hormuz-oil-surge. SoftBank Tokyo 9984.T 6,244 (+1.53% vs Fri 6,150). MAJOR lead → openai-training-pause-2.",
-    "line": "PREMARKET Mon · Fri cash S&P 7,743.41 (+0.51%) · Dow 51,828.62 (+0.93%) · Nasdaq 27,068.72 (+0.48%) · SOX 12,668.93 (+1.41%) · NVDA $225.07 (+0.22%) · ES 7,777 (-0.34%) · NQ 30,726.75 (-0.53%) · 10-y 5.213% · 30-y 5.526% · WTI $94.20 (+1.94%) · SoftBank 6,244 (+1.53%)"
+    "source": "Yahoo Finance (Mon ~10:03 am ET live cash session + yields/futures/oil)",
+    "updated": "Sep 28, ~10:03 am ET (Yahoo chart). First live U.S. cash print vs No. 176 Morning Fri-lock/premkt plate. Session vs Fri close: S&P 7,711.70 (-0.41%), Dow 51,580.66 (-0.48%), Nasdaq 26,912.95 (-0.57%), SOX 12,497.04 (-1.36%), NVDA $231.56 (+2.88%; buyback color), AMD $613.24 (-2.76%), AKAM $113.33 (-0.53%), MSFT $508.75 (-1.44%). Yields: ^TNX 5.217% / ^TYX 5.535%. VIX 15.97 (+7.39%). Futures: ES 7,771.25 (-0.42%), NQ 30,630.75 (-0.84%). WTI CL=F $94.06 (+1.79%); Yahoo BZ=F $98.85 (+1.45%) — do not conflate with Al Jazeera Asia Brent ~$107 prints on hormuz-oil-surge. SoftBank Tokyo 9984.T 6,244.0 (+1.53% vs Fri 6,150.0). MAJOR lead unchanged openai-training-pause-2.",
+    "line": "LIVE Mon ~10:03 am ET · S&P 7,711.70 (-0.41%) · Dow 51,580.66 (-0.48%) · Nasdaq 26,912.95 (-0.57%) · SOX 12,497.04 (-1.36%) · NVDA $231.56 (+2.88%) · AMD $613.24 (-2.76%) · 10-y 5.217% · 30-y 5.535% · VIX 15.97 · WTI $94.06 (+1.79%) · SoftBank 6,244.0 (+1.53%)"
   },
   "deskNote": {
-    "kicker": "AI desk into Monday Morning",
-    "hed": "OpenAI pause is MAJOR lead. Six ADDs after weekend gap.",
+    "kicker": "AI desk into Mid-Morning",
+    "hed": "First live cash print; OpenAI pause stays MAJOR; NVDA bid on +$150B buyback.",
     "signed": "The Markets desk",
-    "body": "Vol. 1 No. 176 Morning vs No. 175 Evening (Fri Sep 25). Weekend + Mon morning scan. ADD MAJOR openai-training-pause-2 (OpenAI Alignment DNS sandbox escape Sep 20 / pause still on; Fortune second halt in ~3 months; Guardian/AP + Verge). ADD nvda-150b-buyback (NVIDIA +$150B auth, $235B remaining through FY2028). ADD nvidia-open-agent-safety (OpenShell + BlueField-4 Sentry). ADD jpm-ai-trade-revive (Reuters/Matejka). ADD cvc-bodycote-veritas (CVC Rule 2.8; Veritas path). ADD hormuz-oil-surge (Trump rejects Iran Hormuz reopen plan; Al Jazeera/CNBC Africa). Prior akamai-anthropic-116 demoted from lead but kept on plate. Yahoo: Fri cash locked; ES/NQ softer; yields up; SoftBank Tokyo +1.53%. X MCP search_news still client-not-enrolled. SoftBank notes settle Sep 29 / OpenAI tranche Oct 1. ust-30y-williams + doj-nvda-groq watches open."
+    "body": "Vol. 1 No. 177 Mid-Morning vs No. 176 Morning. TAPE ONLY — no new story adds. First live U.S. cash session after Morning Fri-lock/premkt plate: indices soft (S&P/Dow/Nasdaq ~−0.4% to −0.5%; SOX ~−1.4%); NVDA $231.56 (+2.88%) on nvda-150b-buyback; AMD/MSFT red; VIX 15.97; yields ^TNX 5.217% / ^TYX 5.535%; WTI $94.06. MAJOR lead unchanged openai-training-pause-2; akamai-anthropic-116 still demoted but on plate. Declined / already plated: Warburg Pincus AI-thesis-for-every-deal (Crowdfund Insider / DealStreetAsia summit color, available pre-Morning); Nvidia–Anthropic “>$180B contracted value” (CryptoBriefing/secondary, no primary Nvidia disclosure); Anthropic ETF-inclusion speculation; Hormuz Iran “won’t soften” follow (incremental to hormuz-oil-surge). X MCP search_news still client-not-enrolled. SoftBank notes settle Sep 29 / OpenAI tranche Oct 1. ust-30y-williams + doj-nvda-groq watches open."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 176 Morning: MAJOR openai-training-pause-2. SoftBank settle Sep 29 / OpenAI tranche Oct 1. ust-30y-williams + doj-nvda-groq open. Progress PRGS earnings Sep 30 5pm ET."
+    "line": "No. 177 Mid-Morning tape-only after No. 176 Morning. Lead remains openai-training-pause-2 MAJOR. SoftBank settle Sep 29 / OpenAI tranche Oct 1. ust-30y-williams + doj-nvda-groq open. Progress PRGS earnings Sep 30 5pm ET."
   },
   "sections": [
     "All",
