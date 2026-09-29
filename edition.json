@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 193,
+  "number": 194,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~1:54 PM cash; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~1:54 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL; ^VIX/^TNX/^TYX; 9984.T Tokyo. Afternoon No. 193 vs Afternoon No. 192.",
-    "line": "AFTERNOON Tue · S&P 7,657.41 (−0.34%) · Dow 51,209.27 (−0.53%) · Nasdaq 26,739.65 (−0.30%) · NVDA $228.19 (−0.29%) · AMD $609.12 (+0.20%) · ES 7,722.00 (−0.32%) · NQ 30,560.75 (−0.02%) · YM 51,573 (−0.51%) · WTI $90.28 (−2.50%) · 10-y 5.281% · 30-y 5.607% · VIX 16.27 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~2:52 PM cash; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~2:52 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL ~2:42; ^VIX/^TNX/^TYX ~2:37; 9984.T Tokyo. Afternoon No. 194 vs Afternoon No. 193.",
+    "line": "AFTERNOON Tue · S&P 7,676.45 (−0.09%) · Dow 51,334.55 (−0.29%) · Nasdaq 26,831.59 (+0.04%) · NVDA $228.31 (−0.24%) · AMD $610.45 (+0.42%) · ES 7,738.25 (−0.11%) · NQ 30,644.50 (+0.26%) · YM 51,702 (−0.26%) · WTI $89.51 (−3.34%) · 10-y 5.266% · 30-y 5.599% · VIX 16.14 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "MAJOR LEAD CHANGE: OpenAI DevDay keynote (Dots, GPT-6.1 Sol, Ultrafast, Pro 500, Private Intelligence). ADD Bain/Nucleus process. Tape still soft ~1:54 pm.",
+    "hed": "ADD OpenAI ~$30B early funding talks + White House AI lunch aftermath. MAJOR lead unchanged (DevDay keynote). Tape: indices off lows; WTI −3.34%.",
     "signed": "Scout",
-    "body": "Afternoon No. 193 refreshes after Afternoon No. 192 as Altman's DevDay keynote lands. New MAJOR lead openai-devday-keynote from OpenAI recap + Introducing dots / GPT-6.1 Sol (CNBC live corroborates). Prior lead openai-training-pause-2 stays on plate, demoted. PE add: AFR Bain ahead of IQVIA into Friday bids for Blackstone's ~$1B Nucleus Network. Cash tape still soft (S&P −0.34%, Dow −0.53%, Nasdaq −0.30%); WTI ~$90.28 (−2.50%); 10-y 5.281%. Watch Friar on CNBC 3:15 pm ET; SoftBank notes settle / OpenAI tranche Oct 1; Micron earnings Sep 30."
+    "body": "Afternoon No. 194 refreshes after Afternoon No. 193. Keep openai-devday-keynote as MAJOR lead. New Quill adds: CNBC Capoot early talks for a potential OpenAI funding round that could raise ~$30B (no term sheet; Bloomberg first per CNBC); CNBC Subin post-lunch Trump self-regulation/data-center color with Truth Social seating chart. Cash bounced from ~1:54 soft prints; WTI extended lower. X MCP search_news unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 193 Afternoon after No. 192 Afternoon. NEW MAJOR lead openai-devday-keynote (was openai-training-pause-2). Watch: Friar CNBC 3:15 pm ET; SoftBank notes expected settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 194 Afternoon after No. 193 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Friar CNBC 3:15 pm ET; SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,62 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "openai-funding-30b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Fundraising",
+      "hed": "CNBC: OpenAI in early talks for new funding round that could raise ~$30B; no term sheet yet",
+      "dek": "CNBC DevDay live (Capoot, page updated Tue ~2:13 pm ET): OpenAI is in early-stage discussions with investors about a potential new funding round. A source familiar (not authorized) said the company could raise around $30 billion, though that figure could change; talks are investor-demand driven and no term sheet has been finalized. Bloomberg first reported the potential round. Context: March $122B round at $852B valuation; confidential IPO prospectus filed in June. NOT MAJOR (process; DevDay keynote remains lead). Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "CNBC (DevDay live updates; Capoot); Bloomberg (first report, per CNBC)",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "also": [
+        {
+          "label": "Prior plate - openai-devday (~$68B ARR path source color)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        },
+        {
+          "label": "Prior plate - openai-devday-keynote (product lead)",
+          "url": "https://openai.com/index/devday-2026-recap/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 194 Afternoon). PRIMARY CNBC Capoot item on DevDay live page (~2:13 pm ET update): early investor discussions; source says could raise around $30B but figure could change; investor demand; no term sheet. Bloomberg first per CNBC. Do NOT invent valuation for the new round, lead investors, or close timing. March $122B / $852B and June confidential IPO filing are CNBC context only. Owner Quill.",
+      "grafs": [
+        "CNBC's DevDay live blog, updated Tuesday, Sept. 29, 2026 around 2:13 p.m. ET, reported that OpenAI is engaging in early-stage discussions with investors about a potential new funding round, with CNBC confirming the talks on Tuesday.",
+        "A source familiar with the talks who was not authorized to speak publicly said the company could raise around $30 billion, though that figure could change. CNBC said the round is being driven by investor demand and that no term sheet has been finalized yet. Bloomberg was first to report the potential round, per CNBC.",
+        "CNBC noted OpenAI closed a $122 billion funding round at an $852 billion valuation in March and confidentially filed an IPO prospectus with regulators in June. The item is early process color and is not treated as a MAJOR lead while the DevDay keynote product package remains the plate lead. Owner Quill for any term-sheet or valuation print."
+      ]
+    },
+    {
+      "id": "wh-ai-lunch-aftermath",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Washington",
+      "hed": "Trump after White House AI lunch: keep the lead, touts data centers and AI self-regulation",
+      "dek": "CNBC Subin (published ~1:08 pm ET, updated afternoon): Trump told reporters after East Room lunch that attendees are 'the most brilliant people in the world,' that the U.S. has 'a very big lead' it will keep, and framed the moment as 'a very positive thing.' Seating chart on Truth Social: Trump beside Nvidia's Huang and Tesla/SpaceX's Musk, then Meta's Zuckerberg and Google's Pichai; Vance opposite between Bezos and Speaker Johnson. Also listed: Nadella, Amodei, Anthropic's Tom Brown, OpenAI's Brockman, Treasury's Bessent. Apple's John Ternus not on list. Coincided with America.gov AI chatbot unveil (already on plate). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "CNBC (Samantha Subin)",
+      "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "also": [
+        {
+          "label": "Prior plate - white-house-ai-lunch (preview)",
+          "url": "https://www.cbsnews.com/news/trump-johnson-ai-executives-meeting-anthropic-openai/"
+        },
+        {
+          "label": "Prior plate - america-gov-ai-portal",
+          "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 194 Afternoon). PRIMARY CNBC Subin post-lunch piece: Trump quotes on lead/self-regulation/data centers; Truth Social seating chart attendees as listed. Do NOT invent policy outcomes, commitments, or private-dinner substance beyond what CNBC prints. Preview remains white-house-ai-lunch. Owner Quill.",
+      "grafs": [
+        "CNBC reported Tuesday, Sept. 29, 2026 that President Donald Trump, after a White House AI luncheon with major tech leaders hosted with House Speaker Mike Johnson, talked up data centers and called for artificial intelligence self-regulation.",
+        "Trump told reporters the attendees are 'the most brilliant people in the world,' that the United States has 'a very big lead' it will keep, and that 'it's a very positive thing.' A seating chart posted to Trump's Truth Social account showed the president seated next to Nvidia CEO Jensen Huang and Tesla and SpaceX CEO Elon Musk, followed by Meta's Mark Zuckerberg and Google's Sundar Pichai, with Vice President JD Vance opposite between Amazon founder Jeff Bezos and Speaker Johnson.",
+        "CNBC said other attendees included Microsoft's Satya Nadella, Anthropic's Dario Amodei and Tom Brown, OpenAI president Greg Brockman, and Treasury Secretary Scott Bessent. Apple's new CEO John Ternus did not appear on the list. The lunch coincided with the administration's unveil of an AI-powered chatbot for government websites (America.gov portal already on plate). Owner Quill."
       ]
     },
     {
