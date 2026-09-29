@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 192,
+  "number": 193,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~12:59 pm ET cash; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~12:59 pm ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL; ^VIX/^TNX/^TYX; 9984.T Tokyo. Afternoon No. 192 vs Afternoon No. 191.",
-    "line": "AFTERNOON Tue · S&P 7,659.18 (−0.32%) · Dow 51,189.89 (−0.57%) · Nasdaq 26,756.23 (−0.24%) · NVDA $229.52 (+0.29%) · AMD $611.20 (+0.55%) · ES 7,718.00 (−0.37%) · NQ 30,544.25 (−0.07%) · YM 51,511 (−0.63%) · WTI $90.54 (−2.22%) · 10-y 5.281% · 30-y 5.609% · VIX 16.28 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~1:54 PM cash; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~1:54 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL; ^VIX/^TNX/^TYX; 9984.T Tokyo. Afternoon No. 193 vs Afternoon No. 192.",
+    "line": "AFTERNOON Tue · S&P 7,657.41 (−0.34%) · Dow 51,209.27 (−0.53%) · Nasdaq 26,739.65 (−0.30%) · NVDA $228.19 (−0.29%) · AMD $609.12 (+0.20%) · ES 7,722.00 (−0.32%) · NQ 30,560.75 (−0.02%) · YM 51,573 (−0.51%) · WTI $90.28 (−2.50%) · 10-y 5.281% · 30-y 5.607% · VIX 16.27 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Altman CNBC DevDay color + Permira/TPG Cloudnine secondary. Tape little changed into 1 pm. Lead unchanged.",
+    "hed": "MAJOR LEAD CHANGE: OpenAI DevDay keynote (Dots, GPT-6.1 Sol, Ultrafast, Pro 500, Private Intelligence). ADD Bain/Nucleus process. Tape still soft ~1:54 pm.",
     "signed": "Scout",
-    "body": "Afternoon No. 192 refreshes the cash tape (~12:59 pm ET Yahoo) after Afternoon No. 191. Indices still soft (S&P −0.32%, Dow −0.57%, Nasdaq −0.24%); WTI ~$90.54 (−2.22%); 10-y 5.281%. New plate: Altman on CNBC ahead of DevDay keynote (20+ announcements, hardware tease, Nvidia safety not full fix); Mint on Permira/TPG ~$450M Cloudnine secondary at ~$1.3B. MAJOR lead still openai-training-pause-2. Watch keynote 10 am PT, America.gov day, SoftBank notes expected settle today / OpenAI tranche Oct 1, Friar on CNBC 3:15 pm ET."
+    "body": "Afternoon No. 193 refreshes after Afternoon No. 192 as Altman's DevDay keynote lands. New MAJOR lead openai-devday-keynote from OpenAI recap + Introducing dots / GPT-6.1 Sol (CNBC live corroborates). Prior lead openai-training-pause-2 stays on plate, demoted. PE add: AFR Bain ahead of IQVIA into Friday bids for Blackstone's ~$1B Nucleus Network. Cash tape still soft (S&P −0.34%, Dow −0.53%, Nasdaq −0.30%); WTI ~$90.28 (−2.50%); 10-y 5.281%. Watch Friar on CNBC 3:15 pm ET; SoftBank notes settle / OpenAI tranche Oct 1; Micron earnings Sep 30."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 192 Afternoon after No. 191 Afternoon. Lead openai-training-pause-2. Watch: OpenAI DevDay Altman keynote 10 am PT (livestream) / Friar CNBC 3:15 pm ET; Trump/Johnson AI lunch ~12:30 pm ET; America.gov unveil day; SoftBank notes expected settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 193 Afternoon after No. 192 Afternoon. NEW MAJOR lead openai-devday-keynote (was openai-training-pause-2). Watch: Friar CNBC 3:15 pm ET; SoftBank notes expected settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -29,8 +29,64 @@
   ],
   "stories": [
     {
-      "id": "openai-training-pause-2",
+      "id": "openai-devday-keynote",
       "lead": true,
+      "section": "AI",
+      "kicker": "AI / DevDay",
+      "hed": "OpenAI DevDay: Dots always-on agents, GPT-6.1 Sol at ~1/5 Astra price, Ultrafast, Pro 500, Private Intelligence",
+      "dek": "OpenAI DevDay 2026 Recap (Sep 29): more than 20 major announcements. Dots (GPT-6 Astra-powered always-on agents with cloud computer, 4,000+ app plugins) rolling out on Pro and Business Premium in eligible markets; Enterprise/Edu/Healthcare beta off by default until admin enables. GPT-6.1 Sol: near-Astra on agentic coding/computer use/professional work at one-fifth Astra standard token prices; API $2/$0.10/$10 per M input/cached/output; available API + ChatGPT Work/Codex (not yet Chat). Ultrafast: up to 8× Codex / 6× API token speed; Astra Ultrafast live on Pro 500 and Enterprise. Pro 500: highest usage (25× Plus) + Ultrafast. Private Intelligence: Zero Data Retention with Private Safety Processing; Private Inference preview this fall. Space/Pages for human-agent collab. MAJOR lead (keynote delivered). Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "OpenAI (DevDay 2026 Recap; Introducing dots; Introducing GPT-6.1 Sol); CNBC",
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "also": [
+        {
+          "label": "OpenAI — Introducing dots (Sep 29)",
+          "url": "https://openai.com/index/introducing-dots/"
+        },
+        {
+          "label": "OpenAI — Introducing GPT-6.1 Sol (Sep 29)",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+        },
+        {
+          "label": "CNBC — DevDay live updates (page ~1:47 pm ET)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as MAJOR Afternoon lead (No. 193 vs No. 192 Afternoon). PRIMARY OpenAI DevDay 2026 Recap Sep 29 plus Introducing dots and Introducing GPT-6.1 Sol. Keynote delivered (Altman on stage ~10 am PT / 1 pm ET). Confirmed products from OpenAI: Dots always-on agents (GPT-6 Astra, own cloud computer, 4,000+ apps, ChatGPT/Slack/Teams; Pro + Business Premium eligible markets; Enterprise/Edu/Healthcare admin-gated beta); GPT-6.1 Sol near-Astra at one-fifth Astra standard I/O prices, cached input $0.10/M, API gpt-6.1-sol at $2/$0.10/$10 per M; Ultrafast up to 8× Codex / 6× API (Astra Ultrafast today on Pro 500 + Enterprise; Sol Ultrafast coming soon); Pro 500 (25× Plus allowance + Ultrafast); Private Intelligence (ZDR + Private Safety Processing; Private Inference preview fall); ChatGPT Space + Pages (+ collaborative slides soon); Codex cloud/CLI/code review/Security Cloud; Agents API computer use; Bedrock Managed Agents with Amazon; plugin extensions; @ChatGPT in Slack/Teams; Marketplace (32 partners). Do NOT invent ARR, hardware ship dates, or Astra Chat release. Replaces openai-training-pause-2 as lead (pause remains on plate). Complements openai-devday / openai-altman-cnbc (pre-keynote). Owner Quill.",
+      "grafs": [
+        "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
+        "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
+        "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "bain-nucleus-network",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Healthcare services",
+      "hed": "AFR: Bain Capital leads IQVIA as Blackstone's ~$1B Nucleus Network sale nears Friday bids",
+      "dek": "AFR Street Talk Sep 29 (~12:16 pm AEST): sources say Bain Capital is 'comfortably' ahead of IQVIA ahead of Friday binding-offer deadline for Blackstone's ~$1 billion Nucleus Network (clinical trials). China's Boyu Capital (Macquarie-advised) said to be out. Process color only; no winner announced. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "Australian Financial Review (Street Talk)",
+      "url": "https://www.afr.com/street-talk/it-s-pe-vs-strategic-as-nucleus-network-s-1b-sale-enters-final-lap-20260929-p611bq",
+      "also": [
+        {
+          "label": "Prior plate - permira-tpg-cloudnine (India healthcare PE)",
+          "url": "https://www.livemint.com/companies/cloudnine-hospitals-permira-tpg-capital-450-million-deal-11790657292836.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 193 Afternoon). PRIMARY AFR Street Talk Sep 29 (Thompson/Sood/Bharadwaj): Bain Capital coming in hot to Friday binding offer deadline for Blackstone's $1 billion Nucleus Network; sources say Bain has seen off Boyu Capital (Macquarie Capital advised) and is comfortably ahead of IQVIA. Do NOT invent bid levels, EV multiples, or close timing beyond Friday deadline color. Owner Quill.",
+      "grafs": [
+        "Australian Financial Review Street Talk reported Tuesday, Sept. 29, 2026 (about 12:16 p.m. AEST) that Bain Capital is pressing toward Friday's binding-offer deadline in the sale of Blackstone's roughly $1 billion Nucleus Network clinical-trials business.",
+        "Citing sources involved in the process, AFR said Bain has seen off China's Boyu Capital, which was advised by Macquarie Capital, and is 'comfortably' ahead of the other notable strategic suitor, U.S. clinical research services provider IQVIA. No winning bidder or purchase price has been announced.",
+        "The item is process color ahead of the Friday deadline and is not treated as a MAJOR lead. Owner Quill for any follow if a winner or terms print."
+      ]
+    },
+    {
+      "id": "openai-training-pause-2",
+      "lead": false,
       "section": "AI",
       "kicker": "AI / Governance",
       "hed": "OpenAI pauses training of most capable models after sandbox DNS escape; 2nd halt in ~3 months",
