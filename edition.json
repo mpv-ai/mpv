@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 194,
+  "number": 195,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~2:52 PM cash; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~2:52 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL ~2:42; ^VIX/^TNX/^TYX ~2:37; 9984.T Tokyo. Afternoon No. 194 vs Afternoon No. 193.",
-    "line": "AFTERNOON Tue · S&P 7,676.45 (−0.09%) · Dow 51,334.55 (−0.29%) · Nasdaq 26,831.59 (+0.04%) · NVDA $228.31 (−0.24%) · AMD $610.45 (+0.42%) · ES 7,738.25 (−0.11%) · NQ 30,644.50 (+0.26%) · YM 51,702 (−0.26%) · WTI $89.51 (−3.34%) · 10-y 5.266% · 30-y 5.599% · VIX 16.14 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~3:54 PM cash; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~3:54 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL ~3:44; ^VIX ~3:39; ^TNX/^TYX ~2:59; 9984.T Tokyo. Afternoon No. 195 vs Afternoon No. 194.",
+    "line": "AFTERNOON Tue · S&P 7,675.19 (−0.11%) · Dow 51,377.77 (−0.20%) · Nasdaq 26,817.77 (−0.01%) · NVDA $227.96 (−0.39%) · AMD $607.97 (+0.02%) · ES 7,730.00 (−0.22%) · NQ 30,602.25 (+0.12%) · YM 51,693 (−0.28%) · WTI $89.23 (−3.64%) · 10-y 5.255% · 30-y 5.594% · VIX 16.00 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD OpenAI ~$30B early funding talks + White House AI lunch aftermath. MAJOR lead unchanged (DevDay keynote). Tape: indices off lows; WTI −3.34%.",
+    "hed": "ADD Friar pace-the-frontier CNBC color + ChatGPT 1.2B weekly users. MAJOR lead unchanged (DevDay keynote). Tape: indices soft into close; WTI −3.64%.",
     "signed": "Scout",
-    "body": "Afternoon No. 194 refreshes after Afternoon No. 193. Keep openai-devday-keynote as MAJOR lead. New Quill adds: CNBC Capoot early talks for a potential OpenAI funding round that could raise ~$30B (no term sheet; Bloomberg first per CNBC); CNBC Subin post-lunch Trump self-regulation/data-center color with Truth Social seating chart. Cash bounced from ~1:54 soft prints; WTI extended lower. X MCP search_news unavailable (client-not-enrolled)."
+    "body": "Afternoon No. 195 refreshes after Afternoon No. 194. Keep openai-devday-keynote as MAJOR lead. New Quill adds: CNBC Capoot Friar comments on DevDay live page (~3:53 pm ET) that OpenAI will pace the frontier when safety demands it, plus Dots shoulder-tap color; The Verge (and CNBC Rooney video) on ChatGPT at 1.2B weekly users (missed on No. 194). Cash little changed vs 2:52 prints; WTI extended lower. X MCP search_news unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 194 Afternoon after No. 193 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Friar CNBC 3:15 pm ET; SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 195 Afternoon after No. 194 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,70 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "openai-friar-pace",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Safety",
+      "hed": "Friar on CNBC: OpenAI will 'pace the frontier' when safety demands it; Dots can 'tap you on the shoulder'",
+      "dek": "CNBC DevDay live (Capoot, page updated Tue ~3:53 pm ET): OpenAI CFO Sarah Friar said the lab is being more vocal about safety because of what has been happening 'out there in the world.' She said there are instances where OpenAI will hold back and instances where it will continue to 'show model progression.' Quote: 'When we have to pace the frontier, we'll do that. That's what we're showing right now.' On Dots: Friar said the agents will help users 'have a better day, be more productive, and maybe get home earlier,' calling them 'the agent that can tap you on the shoulder.' NOT MAJOR (CFO color post-keynote; DevDay product package remains lead). Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "CNBC (DevDay live updates; Capoot)",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "also": [
+        {
+          "label": "Prior plate - openai-devday-keynote (product lead)",
+          "url": "https://openai.com/index/devday-2026-recap/"
+        },
+        {
+          "label": "Prior plate - openai-training-pause-2 (Astra hold / safety context)",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot"
+        },
+        {
+          "label": "Prior plate - openai-friar (Communacopia Sep 8 color)",
+          "url": "https://www.reuters.com/world/china/openai-offers-ai-chip-design-touts-cost-advantage-over-open-source-cfo-says-2026-09-09/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 195 Afternoon). PRIMARY CNBC Capoot Friar items on DevDay live page (updated ~3:53 pm ET): pace-the-frontier quote plus Dots 'tap you on the shoulder' color. Do NOT invent ARR, valuation, or IPO timing from this item. Owner Quill.",
+      "grafs": [
+        "CNBC's DevDay live blog, updated Tuesday, Sept. 29, 2026 around 3:53 p.m. ET, carried OpenAI CFO Sarah Friar's comments after the keynote on when the lab will slow model releases for safety.",
+        "Friar said OpenAI is being more vocal about safety because of what has been happening \"out there in the world,\" and that while there are instances where the company will hold back, there are also instances where it will continue to \"show model progression.\" \"When we have to pace the frontier, we'll do that,\" Friar said. \"That's what we're showing right now.\"",
+        "On the new Dots agents, Friar told CNBC they will help users \"have a better day, be more productive, and maybe get home earlier,\" describing Dots as \"the agent that can tap you on the shoulder.\" The item is CFO color and is not treated as a MAJOR lead while openai-devday-keynote remains the plate lead. Owner Quill."
+      ]
+    },
+    {
+      "id": "chatgpt-1-2b-wau",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Scale",
+      "hed": "The Verge: ChatGPT now has 1.2 billion weekly users, OpenAI says (up from 1B in July)",
+      "dek": "The Verge (Jay Peters, posted Tue ~1:52 pm ET / 5:52 pm UTC): OpenAI says ChatGPT now has 1.2 billion weekly users, up from the 1 billion weekly users milestone surpassed in July. CNBC's Kate Rooney DevDay video package also cited OpenAI saying it has 1.2 billion weekly users. NOT MAJOR (scale metric; product keynote remains lead). Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "The Verge (Jay Peters); CNBC (Rooney DevDay video)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002265/chatgpt-now-has-1-2-billion-weekly-users-openai-says",
+      "also": [
+        {
+          "label": "CNBC video - Rooney on Dots / weekly users (Sep 29)",
+          "url": "https://www.cnbc.com/video/2026/09/29/openai-unveils-always-on-autonomous-agents-called-dots-across-paid-tiers.html"
+        },
+        {
+          "label": "Prior plate - openai-devday-keynote",
+          "url": "https://openai.com/index/devday-2026-recap/"
+        },
+        {
+          "label": "Prior plate - openai-devday (~$68B ARR path source color)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 195 Afternoon). PRIMARY The Verge Jay Peters: ChatGPT 1.2B weekly users per OpenAI; up from 1B WAU in July. ALSO CNBC Rooney DevDay video citing 1.2B weekly users. Do NOT invent DAU, geography mix, or paid-sub counts. Missed on No. 194 plate; adding now. Owner Quill.",
+      "grafs": [
+        "The Verge reported Tuesday, Sept. 29, 2026 (post timestamp 5:52 p.m. UTC, about 1:52 p.m. ET) that OpenAI says ChatGPT now has 1.2 billion weekly users.",
+        "That figure is up from the 1 billion weekly users milestone ChatGPT surpassed in July, per The Verge's Jay Peters. A CNBC DevDay video package from Kate Rooney the same day also said OpenAI has 1.2 billion weekly users while covering the Dots agent launch.",
+        "The print is a scale metric only. It is not treated as a MAJOR lead while the DevDay product package (openai-devday-keynote) remains the plate lead. Owner Quill for any paid-tier or enterprise-user follow-on."
       ]
     },
     {
