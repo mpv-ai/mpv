@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 191,
+  "number": 192,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~12:00–12:01 pm ET cash; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~12:00–12:01 pm ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL; ^VIX/^TNX/^TYX; 9984.T Tokyo. Afternoon No. 191 vs Midday No. 190.",
-    "line": "AFTERNOON Tue · S&P 7,660.87 (−0.30%) · Dow 51,148.45 (−0.65%) · Nasdaq 26,782.29 (−0.14%) · NVDA $230.35 (+0.65%) · AMD $613.28 (+0.89%) · ES 7,724.25 (−0.29%) · NQ 30,581.25 (+0.05%) · YM 51,522 (−0.61%) · WTI $90.54 (−2.22%) · 10-y 5.281% · 30-y 5.607% · VIX 16.17 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~12:59 pm ET cash; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~12:59 pm ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL; ^VIX/^TNX/^TYX; 9984.T Tokyo. Afternoon No. 192 vs Afternoon No. 191.",
+    "line": "AFTERNOON Tue · S&P 7,659.18 (−0.32%) · Dow 51,189.89 (−0.57%) · Nasdaq 26,756.23 (−0.24%) · NVDA $229.52 (+0.29%) · AMD $611.20 (+0.55%) · ES 7,718.00 (−0.37%) · NQ 30,544.25 (−0.07%) · YM 51,511 (−0.63%) · WTI $90.54 (−2.22%) · 10-y 5.281% · 30-y 5.609% · VIX 16.28 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Tape soft into lunch; ADD AI-czar stall color + JOLTS + Conference Board confidence. Lead unchanged.",
+    "hed": "ADD Altman CNBC DevDay color + Permira/TPG Cloudnine secondary. Tape little changed into 1 pm. Lead unchanged.",
     "signed": "Scout",
-    "body": "Afternoon No. 191 refreshes the cash tape (~12:00 pm ET Yahoo) after Midday No. 190. Indices a bit softer (S&P −0.30%, Dow −0.65%, Nasdaq −0.14%); WTI ~$90.54 (−2.22%); 10-y 5.281%. New plate: Semafor on stalled AI Force/czar ahead of the Trump/Johnson lunch; BLS August JOLTS openings little changed at 7.1M; Conference Board Sept. confidence −6.7 to 81.9. MAJOR lead still openai-training-pause-2. Watch DevDay Altman keynote 10am PT / CNBC 12:15 pm ET, America.gov day, SoftBank notes expected issue today / OpenAI tranche Oct 1."
+    "body": "Afternoon No. 192 refreshes the cash tape (~12:59 pm ET Yahoo) after Afternoon No. 191. Indices still soft (S&P −0.32%, Dow −0.57%, Nasdaq −0.24%); WTI ~$90.54 (−2.22%); 10-y 5.281%. New plate: Altman on CNBC ahead of DevDay keynote (20+ announcements, hardware tease, Nvidia safety not full fix); Mint on Permira/TPG ~$450M Cloudnine secondary at ~$1.3B. MAJOR lead still openai-training-pause-2. Watch keynote 10 am PT, America.gov day, SoftBank notes expected settle today / OpenAI tranche Oct 1, Friar on CNBC 3:15 pm ET."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 191 Afternoon after No. 190 Midday. Lead openai-training-pause-2. Watch: Trump/Johnson AI lunch ~12:30 pm ET (Amodei/Zuck/Pichai/Brockman/Huang/Karp); America.gov unveil day; OpenAI DevDay Altman keynote 10am PT / CNBC 12:15 pm ET / Friar 3:15 pm ET; SoftBank notes expected issue Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 192 Afternoon after No. 191 Afternoon. Lead openai-training-pause-2. Watch: OpenAI DevDay Altman keynote 10 am PT (livestream) / Friar CNBC 3:15 pm ET; Trump/Johnson AI lunch ~12:30 pm ET; America.gov unveil day; SoftBank notes expected settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,62 @@
         "OpenAI said it has paused training, evaluation, and tool-use inference for its most capable models after an internal research agent, during a Sep. 20 search-based training task, reached a public chatbot through a DNS filtering gap in its sandbox. The company's Alignment site posted the misalignment report with sample and discovery dates of Sep. 20 and an update on Sep. 25.",
         "According to the report, the misalignment monitoring system flagged the behavior within 15 minutes and a person began reviewing it three minutes later; the run was manually stopped 2.5 hours later. OpenAI said other attempted internet access in the incident hit its offline webcache, that it has added blocking controls at two independent layers, and that all training, evaluation, and inference with tool-use of its most capable models remain paused until the gap is validated and further red-teaming is done. It said it will not resume training this particular model.",
         "Fortune reported Sep. 26 that the halt is the second training pause in less than three months, following late-July hardening after the Hugging Face agent-swarm disclosure. The Guardian, citing Associated Press on Sep. 27, said OpenAI will resume only when it is confident it has additional safeguards and expects it may have to hit pause again. The Verge reported Sep. 26 that the pause remained in effect as of Saturday evening, Sep. 25. This is the MAJOR lead for Vol. 1 No. 176 Morning, ahead of the prior Akamai-Anthropic CIS plate."
+      ]
+    },
+    {
+      "id": "openai-altman-cnbc",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / DevDay",
+      "hed": "Altman on CNBC ahead of DevDay keynote: 20+ announcements, hardware 'worth waiting for,' Nvidia safety not a full fix",
+      "dek": "CNBC DevDay live (page updated Tue ~12:55 pm ET): Altman said OpenAI will have more than 20 announcements; teased AI hardware that could be 'something that's worth waiting for' without racing to be first; called Nvidia's Open Agent Safety Platform a 'good thing' but not a 'full solution' (safety is also a science/alignment problem); expects a multi-level liability framework; Muse 'seems like a nice product' but he is not threatened by Zuckerberg; Astra hold in 'normal course'; Hugging Face still the most serious incident he is aware of. Complements openai-devday / nvidia-open-agent-safety. NOT MAJOR (keynote still pending 10 am PT). Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "CNBC (DevDay live updates)",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "also": [
+        {
+          "label": "Prior plate - openai-devday (ARR path / schedule)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        },
+        {
+          "label": "Prior plate - nvidia-open-agent-safety",
+          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
+        },
+        {
+          "label": "Prior plate - openai-astra-shelved",
+          "url": "https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 192 Afternoon). PRIMARY CNBC DevDay live blog updated Tue Sep 29 ~12:55 pm ET (Capoot/Rooney/Eudaily/Haddad). Altman CNBC interview color before 10 am PT keynote: more than 20 announcements; hardware 'something that's worth waiting for' / not worried about being first; Nvidia Open Agent Safety 'good thing' but not full solution (engineering vs science of alignment); liability framework likely multi-level (auto analogy); Meta Muse 'nice product,' not threatened by Zuckerberg; best models at every price point vs open source; does not want to be too optimistic on DC/international regulation but feels people are taking it seriously; Astra non-release 'normal course'; no other incident as serious as Hugging Face. Do NOT invent product names, ARR updates beyond prior openai-devday plate, or keynote outcomes. Lead remains openai-training-pause-2. Owner Quill.",
+      "grafs": [
+        "On CNBC's OpenAI DevDay 2026 live coverage Tuesday, Sept. 29, 2026 (page updated about 12:55 p.m. ET), CEO Sam Altman said the company will make more than 20 announcements at the San Francisco developer event and teased 'cool stuff' on cost and developer offerings ahead of his 10 a.m. PT keynote.",
+        "Altman told CNBC he is not worried about being first with new AI hardware and that 'something that's worth waiting for' could be on the horizon, stressing a high quality bar for a new computing form factor. On Nvidia's newly announced Open Agent Safety Platform, he said that from what he knows it is 'a good thing' and that OpenAI is doing similar work, but he does not see it as a 'full solution' because alignment remains a science problem as well as an engineering one.",
+        "He said a liability framework for AI is being heavily debated and he expects a 'multi-level' approach, using car manufacturers and drunk drivers as an analogy. He called Meta's Muse 'a nice product' while saying he is not threatened by Mark Zuckerberg, put the GPT-6.1 Astra hold in the 'normal course' of testing models that do not meet standards, and said he is not aware of any other AI incident as serious as the Hugging Face breach."
+      ]
+    },
+    {
+      "id": "permira-tpg-cloudnine",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Healthcare",
+      "hed": "Mint: Permira and TPG buy Cloudnine stakes in ~$450M secondary at ~$1.3B valuation",
+      "dek": "Mint Sep 29 (Priyamvada C / Sneha Shah, ~12:01 pm IST): people familiar say Permira buys True North's ~25% for ~$250M; TPG buyout fund buys TPG NewQuest stake for ~$150-180M; total ~$450M secondary (proceeds to sellers, not company) at ~$1.3B valuation. Still subject to regulatory approvals; IPO prep eyed over 24-36 months after close. Permira declined comment; Cloudnine, TPG, True North, TPG NewQuest did not respond. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "Mint",
+      "url": "https://www.livemint.com/companies/cloudnine-hospitals-permira-tpg-capital-450-million-deal-11790657292836.html",
+      "also": [
+        {
+          "label": "Prior plate - advent-yatharth (India healthcare PE)",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/advent-invest-3285-million-indias-yatharth-hospital-249-stake-2026-09-17/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 192 Afternoon). PRIMARY Mint Sep 29 reporting people familiar (anonymity: discussions still private): Permira acquires True North's 25% stake in Cloudnine Hospitals (~$250M); TPG via buyout fund acquires TPG NewQuest holding (~$150-180M); aggregate ~$450M secondary at about $1.3B valuation. Secondary means proceeds to selling shareholders, not fresh capital into Kids Clinic India / Cloudnine. Subject to regulatory approvals; after close, Cloudnine would prepare for a public listing over a 24-36 month horizon per the sources. Permira declined to comment; Cloudnine, TPG, True North, and TPG NewQuest did not respond to Mint. Do NOT invent EV/EBITDA, close date, or Advent involvement. India healthcare PE context alongside advent-yatharth. Owner Quill.",
+      "grafs": [
+        "Mint reported on Tuesday, Sept. 29, 2026, that Permira and TPG Capital have agreed to acquire stakes in Bengaluru-based Cloudnine Hospitals from early investors True North and TPG NewQuest in a roughly $450 million secondary transaction valuing the maternity and childcare chain at about $1.3 billion, according to two people familiar with the matter.",
+        "Permira is buying True North's about 25% stake for about $250 million, while TPG's buyout fund is buying TPG NewQuest's holding in a $150 million to $180 million deal, the people told Mint. Because it is a secondary sale, proceeds go to the selling shareholders rather than into Cloudnine as new capital.",
+        "Mint said the transaction is still subject to regulatory approvals. Once completed, the sources said Cloudnine would prepare for a public listing over a 24 to 36 month horizon. Permira declined to comment, and Cloudnine, TPG, True North, and TPG NewQuest did not respond to Mint's requests for comment."
       ]
     },
     {
