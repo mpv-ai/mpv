@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 197,
+  "number": 198,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~4:00-5:15 PM ET cash/futures; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~4:00 PM ET NVDA/AMD close; ^GSPC/^DJI ~4:38; ^IXIC ~5:15; ES/NQ/YM/CL ~4:59; ^VIX ~4:15; ^TNX/^TYX ~2:59; 9984.T Tokyo. Afternoon No. 197 vs Afternoon No. 196.",
-    "line": "AFTERNOON Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,738.25 (+0.08%) · NQ 30,652.75 (+0.13%) · YM 51,755 (+0.10%) · WTI $88.94 (−0.49%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~4:00-5:15 PM ET cash; ES/NQ/YM/CL ~6:44 PM ET; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~4:00 PM ET NVDA/AMD close; ^GSPC/^DJI ~4:38; ^IXIC ~5:15; ES/NQ/YM/CL ~6:44; ^VIX ~4:15; ^TNX/^TYX ~2:59; 9984.T Tokyo. Evening No. 198 vs Afternoon No. 197.",
+    "line": "EVENING Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,742.50 (+0.14%) · NQ 30,666.25 (+0.17%) · YM 51,775 (+0.14%) · WTI $89.41 (+0.03%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Pro 500/$200 usage cut (OpenAI Help + Engadget/BI) + SiMa.ai $150M/$1.45B Series C catch-up. MAJOR lead unchanged (DevDay keynote). Tape: cash flat vs 4:54; futures soft; WTI session −0.49%.",
+    "hed": "ADD PGIM/Allstate $500M CLO 15% AI debt cap (Bloomberg/SA ~5:04 PM ET) + American Infrastructure Alliance catch-up (OpenAI/Blackstone/SoftBank + unions). MAJOR lead unchanged (DevDay keynote). Tape: cash flat vs 5:59; ES/NQ/YM firmer AH; WTI ~$89.41.",
     "signed": "Scout",
-    "body": "Afternoon No. 197 refreshes after Afternoon No. 196. Keep openai-devday-keynote as MAJOR lead. New Quill adds: OpenAI Pro 500 at $500/mo with Ultrafast and Pro 200 reopened at lower usage (grandfather through Oct 29 per Help Center; Engadget/BI detail 20×→10× and 200→100 GPT-6 Pro messages); SiMa.ai Sep 28 $150M Series C at $1.45B (Fidelity/Amplify) missed earlier today. Cash indexes unchanged vs No. 196; ES/NQ/YM and WTI refreshed off Yahoo previousClose. X MCP search_news unavailable (client-not-enrolled)."
+    "body": "Evening No. 198 refreshes after Afternoon No. 197. Keep openai-devday-keynote as MAJOR lead. New Quill adds: PGIM anchors Allstate $500M CLO (BNPP) with first explicit 15% AI-linked debt cap (Bloomberg Sep 29; SA ~5:04 PM ET); American Infrastructure Alliance Sep 28 launch (PR Newswire) with OpenAI, Blackstone, SoftBank, QTS, CoreWeave and building-trades unions for state data-center guardrails (missed earlier today). Cash indexes unchanged vs No. 197; ES/NQ/YM and WTI refreshed off Yahoo ~6:44 PM ET. SoftBank notes still watch for Sep 29 issue / OpenAI tranche Oct 1 (no separate settle confirmation beyond expected issue date). X MCP search_news unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 197 Afternoon after No. 196 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 198 Evening after No. 197 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes expected issue Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,76 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "pgim-clo-ai-15",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / CLOs",
+      "hed": "PGIM anchors Allstate $500M CLO with first explicit 15% cap on AI-linked debt",
+      "dek": "Bloomberg (Sep 29, via Seeking Alpha/Traders Union/CryptoBriefing): Prudential's PGIM anchored a recent $500 million Allstate Corp. CLO arranged by BNP Paribas that includes a novel 15% ceiling on AI-related debt, described as the first CLO with an explicit AI-linked collateral restriction. PGIM research cited in CryptoBriefing puts near-term AI-disruption exposure around 11% of US CLO portfolios and ~7% in Europe; JPMorgan has estimated up to $150B of US CLO-held leveraged loans sit in AI-exposed sectors. Seeking Alpha timestamped the PRU note ~5:04 PM ET Tue. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "Bloomberg (via Seeking Alpha Liz Kiesche; Traders Union); CryptoBriefing (Diego Almada Lopez)",
+      "url": "https://seekingalpha.com/news/4648254-prudentials-pgim-seeks-ai-limits-in-clos-to-restrict-exposure---report",
+      "also": [
+        {
+          "label": "Bloomberg - PGIM pushes for AI limits in CLOs (Sep 29)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/pgim-pushes-for-ai-limits-in-clos-to-avoid-too-much-exposure"
+        },
+        {
+          "label": "Traders Union - Allstate $500M CLO, BNP Paribas, 15% AI cap",
+          "url": "https://tradersunion.com/news/financial-news/show/3572902-pgim-clo-ai-debt-cap/"
+        },
+        {
+          "label": "CryptoBriefing - PGIM 15% AI CLO cap; JPM $150B figure",
+          "url": "https://cryptobriefing.com/pgim-caps-ai-debt-exposure-clos/"
+        },
+        {
+          "label": "PGIM - AI disruption and CLO dispersion (firm research)",
+          "url": "https://www.pgim.com/global/en/institutional/insights/more-insights/long-story-short-blog/ai-disruption-clo-dispersion"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 198 Evening). PRIMARY Bloomberg Sep 29 (paywalled; SA ~5:04 PM ET / Traders Union / CryptoBriefing corroborate): PGIM anchors Allstate $500M CLO arranged by BNP Paribas with first explicit 15% AI-linked debt cap. Cite PGIM ~11% US / ~7% EU near-term AI disruption exposure and JPMorgan up to $150B CLO loan figure only as reported. Do NOT invent tranche pricing, manager names beyond PGIM/Allstate/BNPP, or that the cap is market-wide. Owner Quill.",
+      "grafs": [
+        "Prudential Financial's asset management arm PGIM anchored a recent collateralized loan obligation that includes a hard 15% cap on AI-related debt, Seeking Alpha reported Tuesday afternoon citing a Bloomberg media report, with the note timestamped about 5:04 PM ET on Sept. 29, 2026.",
+        "Traders Union, citing Bloomberg, says the $500 million CLO was issued last week by Allstate Corp., arranged by BNP Paribas, and is described as the first CLO transaction to set a formal restriction limiting collateral tied to artificial intelligence to 15%.",
+        "CryptoBriefing's Sep 29 write-up says PGIM analysts estimate roughly 11% of US CLO portfolios and about 7% of European CLO portfolios currently carry exposure to sectors facing near-term AI disruption, and it relays a JPMorgan estimate that up to $150 billion of US CLO-held leveraged loans sit in sectors with meaningful AI disruption risk.",
+        "The print is structured-credit risk color for the AI lending wave, not a MAJOR front-page lead while OpenAI DevDay remains the plate lead. Owner Quill for any follow on whether other CLO managers copy the AI cap language."
+      ]
+    },
+    {
+      "id": "aia-data-centers",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Data centers",
+      "hed": "OpenAI, Blackstone, SoftBank join unions in American Infrastructure Alliance on data center guardrails",
+      "dek": "PR Newswire (Sep 28, 6:24 PM ET): American Infrastructure Alliance launches as a nationwide labor-business coalition for enforceable state/local data center guardrails. Inaugural members include IBEW, Iron Workers, UA, SMART, HFIAW, QTS, SoftBank, SB Energy, OpenAI, Blackstone, CoreWeave, Prologis, Skybox, Rowan, AREP/PowerHouse, Related Digital, and Digital Realty. Key states: Texas, Georgia, Ohio, Iowa, Pennsylvania, Indiana, South Carolina, aiming into 2027 sessions. Axios (Hans Nichols) and The Next Web add multimillion / high-eight-figure campaign framing and Ohio poll color (18% favorable / 67% unfavorable flipping when cost/jobs/tax pledges are attached). Missed on earlier Sep 29 plates. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 28-29, 2026",
+      "source": "American Infrastructure Alliance via PR Newswire; Axios (Hans Nichols, via The Next Web)",
+      "url": "https://www.prnewswire.com/news-releases/american-infrastructure-alliance-launches-first-nationwide-partnership-between-labor--business-to-advance-responsible-data-center-infrastructure-growth-302892027.html",
+      "also": [
+        {
+          "label": "Axios - AI industry, unions join forces on data centers (Sep 28)",
+          "url": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers"
+        },
+        {
+          "label": "The Next Web - OpenAI, Blackstone, SoftBank + unions (Sep 29)",
+          "url": "https://thenextweb.com/news/american-infrastructure-alliance-openai-unions-data-centres"
+        },
+        {
+          "label": "Prior plate - samsung-helix (AI infra capital context)",
+          "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 198 Evening). PRIMARY PR Newswire Sep 28 AIA launch: member roster (OpenAI, Blackstone, SoftBank, QTS, CoreWeave, named unions) and seven key states. ALSO Axios/TNW for campaign-size and Ohio poll color. Do NOT invent dollar spend beyond sourced multimillion/high-eight-figure framing, or claim federal legislation. Missed on earlier Sep 29 plates. Owner Quill.",
+      "grafs": [
+        "The American Infrastructure Alliance said in a Sept. 28, 2026 PR Newswire release that it launched as a nationwide labor-business coalition to establish responsible, enforceable guardrails for data center development at the state and local level.",
+        "Inaugural members named in the release include IBEW, the Iron Workers, UA plumbers and pipefitters, SMART, HFIAW, Ohio building trades groups, QTS, SoftBank, SB Energy, OpenAI, Blackstone, CoreWeave, Prologis, Skybox, Rowan, AREP and PowerHouse Data Centers, Related Digital, and Digital Realty.",
+        "AIA says it will work toward clear frameworks ahead of and through 2027 state legislative sessions in Texas, Georgia, Ohio, Iowa, Pennsylvania, Indiana, and South Carolina, with principles that include water stewardship, developers paying for their own energy and infrastructure, skilled jobs, local benefits, and operator accountability. QTS Co-CEO Tag Greason said the group will release a set of principles in the coming weeks.",
+        "Axios coverage, as relayed by The Next Web on Sept. 29, frames the effort as a multimillion-dollar coalition (a spokesperson told the Daily Caller News Foundation it is a high eight-figure campaign) aimed at heading off construction moratoriums, and cites AIA Ohio polling of deep unfavorability that improves when cost, jobs, and tax pledges are attached. Catch-up missed on earlier Sept. 29 Afternoon plates. Not a MAJOR lead. Owner Quill."
       ]
     },
     {
