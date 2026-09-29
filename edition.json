@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 198,
+  "number": 199,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Close",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~4:00-5:15 PM ET cash; ES/NQ/YM/CL ~6:44 PM ET; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~4:00 PM ET NVDA/AMD close; ^GSPC/^DJI ~4:38; ^IXIC ~5:15; ES/NQ/YM/CL ~6:44; ^VIX ~4:15; ^TNX/^TYX ~2:59; 9984.T Tokyo. Evening No. 198 vs Afternoon No. 197.",
-    "line": "EVENING Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,742.50 (+0.14%) · NQ 30,666.25 (+0.17%) · YM 51,775 (+0.14%) · WTI $89.41 (+0.03%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue cash close; ES/NQ/YM/CL ~7:47 PM ET; SoftBank Tokyo settle)",
+    "updated": "Sep 29 cash unchanged vs Evening No. 198; ES/NQ/YM/CL refreshed ~7:47 PM ET Close No. 199. SoftBank Tokyo settle unchanged.",
+    "line": "CLOSE Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,748.25 (+0.21%) · NQ 30,699.50 (+0.28%) · YM 51,822 (+0.23%) · WTI $89.19 (−0.21%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD PGIM/Allstate $500M CLO 15% AI debt cap (Bloomberg/SA ~5:04 PM ET) + American Infrastructure Alliance catch-up (OpenAI/Blackstone/SoftBank + unions). MAJOR lead unchanged (DevDay keynote). Tape: cash flat vs 5:59; ES/NQ/YM firmer AH; WTI ~$89.41.",
+    "hed": "ADD Bloomberg OpenAI ~$30B at ~$1.4T pre-money (via CNA/QZ/TC). MAJOR lead unchanged (DevDay keynote). Tape: cash flat vs Evening; ES/NQ/YM firmer; WTI softer AH.",
     "signed": "Scout",
-    "body": "Evening No. 198 refreshes after Afternoon No. 197. Keep openai-devday-keynote as MAJOR lead. New Quill adds: PGIM anchors Allstate $500M CLO (BNPP) with first explicit 15% AI-linked debt cap (Bloomberg Sep 29; SA ~5:04 PM ET); American Infrastructure Alliance Sep 28 launch (PR Newswire) with OpenAI, Blackstone, SoftBank, QTS, CoreWeave and building-trades unions for state data-center guardrails (missed earlier today). Cash indexes unchanged vs No. 197; ES/NQ/YM and WTI refreshed off Yahoo ~6:44 PM ET. SoftBank notes still watch for Sep 29 issue / OpenAI tranche Oct 1 (no separate settle confirmation beyond expected issue date). X MCP search_news unavailable (client-not-enrolled)."
+    "body": "Close No. 199 refreshes after Evening No. 198. Keep openai-devday-keynote as MAJOR lead. New Quill add: Bloomberg (via CNA/QZ/TechCrunch) says OpenAI seeks at least $30B at about $1.4T valuation not including money raised; early talks; investor demand; bridge in place of IPO. Distinct from openai-funding-30b (CNBC amount-only, no valuation). Cash indexes unchanged vs No. 198; ES/NQ/YM and WTI refreshed off Yahoo ~7:47 PM ET. SoftBank notes still watch for Sep 29 expected issue / OpenAI tranche Oct 1 (no separate settle confirmation beyond expected issue date). X MCP search_news unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 198 Evening after No. 197 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes expected issue Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 199 Close after No. 198 Evening (last weekday hourly). MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes expected issue Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,42 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "openai-funding-14t",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Fundraising",
+      "hed": "Bloomberg: OpenAI seeks ~$30B at ~$1.4T pre-money as IPO bridge; early talks, terms can change",
+      "dek": "Bloomberg (via CNA/QZ/TechCrunch, Sep 29): OpenAI aims to raise at least $30 billion seeking a valuation of about $1.4 trillion not including the money raised. Discussions early-stage; investor demand; terms could change; framed as bridge financing in place of an IPO after Altman ruled out a 2026 listing on safety grounds. Context: March $122B at $852B. Complements openai-funding-30b (CNBC ~$30B, no valuation). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "Bloomberg (via Channel News Asia; Quartz; TechCrunch Marina Temkin)",
+      "url": "https://www.channelnewsasia.com/business/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-6419526",
+      "also": [
+        {
+          "label": "Quartz - $30B at $1.4T excluding money raised (Sep 29)",
+          "url": "https://qz.com/openai-funding-round-30-billion-valuation-092926"
+        },
+        {
+          "label": "TechCrunch - Bloomberg $30B / $1.4T talks (Sep 29 ~12:52 PM PDT)",
+          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+        },
+        {
+          "label": "Prior plate - openai-funding-30b (CNBC ~$30B, no valuation)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        },
+        {
+          "label": "Prior plate - openai-friar-ipo-q3 (Friar declines fundraising comment)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 199 Close). PRIMARY Bloomberg Sep 29 via CNA/QZ: at least $30B; ~$1.4T valuation not including money raised (pre-money); early stage; investor-led demand; terms can change; bridge in place of IPO. TechCrunch corroborates Bloomberg attribution. Do NOT invent lead investors, term sheet, close date, or post-money figure. Distinct from openai-funding-30b (CNBC amount-only). Owner Quill.",
+      "grafs": [
+        "Bloomberg News reported Tuesday, Sept. 29, 2026, that OpenAI aims to raise at least $30 billion in a new funding round and is seeking a valuation of about $1.4 trillion, not including the money raised, citing people familiar with the matter, Channel News Asia and Quartz said.",
+        "The fundraising discussions are at an early stage and terms could change, Bloomberg said, with demand for the round led by investors. The proposed round would serve as bridge financing to provide capital in place of an IPO, per the same account.",
+        "OpenAI closed a March round with $122 billion in committed capital at an $852 billion valuation. CEO Sam Altman has said the company would not go public in 2026, citing AI safety concerns. OpenAI did not immediately respond to a Reuters request for comment, CNA noted. The plate already carries CNBC's earlier ~$30 billion amount-only item (openai-funding-30b) without a valuation print."
       ]
     },
     {
