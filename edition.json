@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 195,
+  "number": 196,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~3:54 PM cash; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~3:54 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC/NVDA/AMD) + futures ES/NQ/YM/CL ~3:44; ^VIX ~3:39; ^TNX/^TYX ~2:59; 9984.T Tokyo. Afternoon No. 195 vs Afternoon No. 194.",
-    "line": "AFTERNOON Tue · S&P 7,675.19 (−0.11%) · Dow 51,377.77 (−0.20%) · Nasdaq 26,817.77 (−0.01%) · NVDA $227.96 (−0.39%) · AMD $607.97 (+0.02%) · ES 7,730.00 (−0.22%) · NQ 30,602.25 (+0.12%) · YM 51,693 (−0.28%) · WTI $89.23 (−3.64%) · 10-y 5.255% · 30-y 5.594% · VIX 16.00 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~4:38–4:42 PM ET cash/futures; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~4:38 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC) + NVDA/AMD cash close ~4:00; ES/NQ/YM/CL ~4:42; ^VIX ~4:15; ^TNX/^TYX ~2:59; 9984.T Tokyo. Afternoon No. 196 vs Afternoon No. 195.",
+    "line": "AFTERNOON Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,740.25 (−0.08%) · NQ 30,670.00 (+0.34%) · YM 51,757 (−0.15%) · WTI $88.91 (−3.98%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Friar pace-the-frontier CNBC color + ChatGPT 1.2B weekly users. MAJOR lead unchanged (DevDay keynote). Tape: indices soft into close; WTI −3.64%.",
+    "hed": "ADD Friar IPO/Q3 CNBC color + EliseAI $350M/$4B + General Intuition $220M/$6.2B. MAJOR lead unchanged (DevDay keynote). Tape: soft close; NVDA −0.72%; WTI −3.98%.",
     "signed": "Scout",
-    "body": "Afternoon No. 195 refreshes after Afternoon No. 194. Keep openai-devday-keynote as MAJOR lead. New Quill adds: CNBC Capoot Friar comments on DevDay live page (~3:53 pm ET) that OpenAI will pace the frontier when safety demands it, plus Dots shoulder-tap color; The Verge (and CNBC Rooney video) on ChatGPT at 1.2B weekly users (missed on No. 194). Cash little changed vs 2:52 prints; WTI extended lower. X MCP search_news unavailable (client-not-enrolled)."
+    "body": "Afternoon No. 196 refreshes after Afternoon No. 195. Keep openai-devday-keynote as MAJOR lead. New Quill adds: CNBC Capoot/Haddad Friar items on DevDay live page (~4:21 pm ET) on IPO timing, declined fundraising comment, confirmed 70% QoQ / enterprise doubled since July; Reuters EliseAI $350M at $4B (a16z/Bessemer); GamesBeat General Intuition $220M at $6.2B. Cash softer vs 3:54 prints; NVDA and WTI extended lower. X MCP search_news unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 195 Afternoon after No. 194 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 196 Afternoon after No. 195 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,94 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "openai-friar-ipo-q3",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / CFO",
+      "hed": "Friar to CNBC: IPO when 'time is right'; confirms 'incredible' Q3 (70% QoQ, enterprise doubled since July); declines fundraising comment",
+      "dek": "CNBC DevDay live (Capoot/Haddad, page updated Tue ~4:21 pm ET): OpenAI CFO Sarah Friar said the company wants to IPO when the time is right for the business, calling an IPO a milestone and another type of fundraising, not a destination, and echoing Altman that it does not want to get distracted as a newly public company while focused on safety and alignment. She declined to comment on CNBC's earlier report of early fundraising talks, stressed the March $122B raise, and said OpenAI is very well capitalized. Separately she said OpenAI had an incredible third quarter, confirmed CNBC's earlier reporting of 70% quarter-over-quarter growth and that the enterprise business has doubled since July, and noted consumer strength from better models, images, voice, and back-to-school/work. On pricing, she said people thought OpenAI had lost its minds on the $200 SKU, but users are moving toward more consumption, not just seat-based pricing. NOT MAJOR (CFO color post-keynote; complements openai-friar-pace and openai-funding-30b). Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "CNBC (DevDay live updates; Capoot, Haddad)",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "also": [
+        {
+          "label": "Prior plate - openai-friar-pace (pace-the-frontier / Dots tap)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        },
+        {
+          "label": "Prior plate - openai-funding-30b (early talks / no term sheet)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        },
+        {
+          "label": "Prior plate - openai-altman-cnbc (Altman IPO timeline color)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        },
+        {
+          "label": "Prior plate - openai-devday-keynote",
+          "url": "https://openai.com/index/devday-2026-recap/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 196 Afternoon). PRIMARY CNBC Capoot/Haddad Friar items on DevDay live page (updated ~4:21 pm ET after No. 195's ~3:53 Friar pace/Dots items): IPO when time is right / milestone not destination / safety focus; declines comment on early fundraising talks; very well capitalized after March $122B; incredible Q3 with confirmed 70% QoQ growth and enterprise doubled since July; $200 SKU consumption color. Do NOT invent valuation for a new round, IPO date, or ARR figures beyond the confirmed QoQ/enterprise color CNBC attributes to Friar. Owner Quill.",
+      "grafs": [
+        "CNBC's DevDay live blog, updated Tuesday, Sept. 29, 2026 around 4:21 p.m. ET, carried fresh OpenAI CFO Sarah Friar comments after the earlier pace-the-frontier items already on the plate.",
+        "Friar said OpenAI wants to IPO when the time is right for its business, describing an IPO as a milestone and another type of fundraising rather than a destination, and saying the company does not want to get distracted by suddenly being public while driving focus on safety and alignment.",
+        "She declined to comment on whether OpenAI is in early-stage fundraising discussions (as CNBC reported earlier Tuesday), emphasized the March $122 billion raise, and said the company is very well capitalized. She also said OpenAI had an incredible third quarter, confirmed 70% quarter-over-quarter growth and that enterprise has doubled since July, and said people thought OpenAI had lost its minds on the $200 monthly SKU even as users move toward more consumption."
+      ]
+    },
+    {
+      "id": "eliseai-350-4b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Fundraising",
+      "hed": "Reuters: EliseAI raises $350M at $4B valuation; a16z and Bessemer lead housing and healthcare ops AI",
+      "dek": "Reuters (Prakhar Srivastava, Sep 29 ~11:18 AM UTC): EliseAI said it raised $350 million in a round that valued the housing- and healthcare-focused AI company at $4 billion, nearly double its $2.2 billion Series E valuation in 2025. Round led by Andreessen Horowitz and Bessemer Venture Partners, with Ontario Teachers' Pension Plan, Sapphire Ventures, and Navitas Capital. Company automates leasing/maintenance/renewals for housing and patient intake/scheduling/insurance/referrals/follow-ups for physician groups; said in June it had surpassed $200M ARR. Plans to expand engineering, deployment, and sales and establish San Francisco as a second engineering hub beside New York. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "Reuters (Prakhar Srivastava); EliseAI / GlobeNewswire release",
+      "url": "https://www.reuters.com/technology/ai-firm-eliseai-valued-4-billion-latest-funding-round-2026-09-29/",
+      "also": [
+        {
+          "label": "EliseAI / GlobeNewswire release (Sep 29)",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3370681/0/en/eliseai-raises-350-million-at-4-billion-valuation-to-bring-ai-deeper-into-housing-and-healthcare-operations.html"
+        },
+        {
+          "label": "Prior plate - cognition-e (a16z-led mega round context)",
+          "url": "https://www.reuters.com/technology/ai-firm-eliseai-valued-4-billion-latest-funding-round-2026-09-29/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 196 Afternoon). PRIMARY Reuters Sep 29: $350M round at $4B (vs $2.2B Series E in 2025); a16z + Bessemer lead; OTPP, Sapphire, Navitas participate; housing + healthcare workflow automation; June >$200M ARR claim; SF second eng hub. Do NOT invent revenue multiples, growth rates beyond Reuters, or close timing. Owner Quill.",
+      "grafs": [
+        "Reuters reported Tuesday, Sept. 29, 2026 that EliseAI raised $350 million in a funding round valuing the company at $4 billion, nearly double the $2.2 billion valuation from its 2025 Series E.",
+        "Andreessen Horowitz and Bessemer Venture Partners led the round, with participation from Ontario Teachers' Pension Plan, Sapphire Ventures, and Navitas Capital, Reuters said.",
+        "EliseAI automates housing workflows such as leasing, maintenance, and renewals, and healthcare workflows such as patient intake, scheduling, insurance checks, referrals, and follow-ups. Reuters said the company planned to expand teams and establish San Francisco as a second engineering hub beside New York, and noted EliseAI said in June it had surpassed $200 million in annual recurring revenue."
+      ]
+    },
+    {
+      "id": "general-intuition-220",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Fundraising",
+      "hed": "GamesBeat: General Intuition raises $220M at $6.2B to train action/world models on gameplay data",
+      "dek": "GamesBeat (Dean Takahashi, Sep 29): General Intuition raised another $220 million at a $6.2 billion valuation as it starts making models available for training. Investors named: Valor Equity Partners, Atreides, 776, Point72, Khosla Ventures, and General Catalyst; company says it has now raised more than $650 million after a June $320 million round. Models trained on billions of action-labeled videos from sister company Medal (gameplay clips); waitlist for partner early access; plans to scale team in New York and Europe. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "GamesBeat (Dean Takahashi); General Intuition / CEO Pim de Witte comments via GamesBeat",
+      "url": "https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/",
+      "also": [
+        {
+          "label": "Prior plate - samsung-helix (AI infra capital)",
+          "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 196 Afternoon). PRIMARY GamesBeat Sep 29: $220M at $6.2B; Valor, Atreides, 776, Point72, Khosla, General Catalyst; >$650M total after June $320M; action/world models on Medal gameplay data; NY/Europe hiring; partner waitlist. Do NOT invent revenue, customer names, or model benchmarks beyond GamesBeat. Owner Quill.",
+      "grafs": [
+        "GamesBeat reported Tuesday, Sept. 29, 2026 that General Intuition raised another $220 million at a $6.2 billion valuation as it begins making models available for training partners.",
+        "The outlet named Valor Equity Partners, Atreides, 776, Point72, Khosla Ventures, and General Catalyst among backers, and said the company has now raised more than $650 million after a June round of $320 million.",
+        "CEO Pim de Witte, cited via GamesBeat, described foundation models trained on billions of action-labeled videos from sister company Medal, with plans to scale the team in New York and Europe and a waitlist for partner early access."
       ]
     },
     {
