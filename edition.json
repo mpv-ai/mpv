@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 196,
+  "number": 197,
   "city": "New York",
   "date": "Tuesday, September 29, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue ~4:38–4:42 PM ET cash/futures; SoftBank Tokyo settle)",
-    "updated": "Sep 29 ~4:38 PM ET cash (Yahoo ^GSPC/^DJI/^IXIC) + NVDA/AMD cash close ~4:00; ES/NQ/YM/CL ~4:42; ^VIX ~4:15; ^TNX/^TYX ~2:59; 9984.T Tokyo. Afternoon No. 196 vs Afternoon No. 195.",
-    "line": "AFTERNOON Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,740.25 (−0.08%) · NQ 30,670.00 (+0.34%) · YM 51,757 (−0.15%) · WTI $88.91 (−3.98%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue ~4:00-5:15 PM ET cash/futures; SoftBank Tokyo settle)",
+    "updated": "Sep 29 ~4:00 PM ET NVDA/AMD close; ^GSPC/^DJI ~4:38; ^IXIC ~5:15; ES/NQ/YM/CL ~4:59; ^VIX ~4:15; ^TNX/^TYX ~2:59; 9984.T Tokyo. Afternoon No. 197 vs Afternoon No. 196.",
+    "line": "AFTERNOON Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,738.25 (+0.08%) · NQ 30,652.75 (+0.13%) · YM 51,755 (+0.10%) · WTI $88.94 (−0.49%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Friar IPO/Q3 CNBC color + EliseAI $350M/$4B + General Intuition $220M/$6.2B. MAJOR lead unchanged (DevDay keynote). Tape: soft close; NVDA −0.72%; WTI −3.98%.",
+    "hed": "ADD Pro 500/$200 usage cut (OpenAI Help + Engadget/BI) + SiMa.ai $150M/$1.45B Series C catch-up. MAJOR lead unchanged (DevDay keynote). Tape: cash flat vs 4:54; futures soft; WTI session −0.49%.",
     "signed": "Scout",
-    "body": "Afternoon No. 196 refreshes after Afternoon No. 195. Keep openai-devday-keynote as MAJOR lead. New Quill adds: CNBC Capoot/Haddad Friar items on DevDay live page (~4:21 pm ET) on IPO timing, declined fundraising comment, confirmed 70% QoQ / enterprise doubled since July; Reuters EliseAI $350M at $4B (a16z/Bessemer); GamesBeat General Intuition $220M at $6.2B. Cash softer vs 3:54 prints; NVDA and WTI extended lower. X MCP search_news unavailable (client-not-enrolled)."
+    "body": "Afternoon No. 197 refreshes after Afternoon No. 196. Keep openai-devday-keynote as MAJOR lead. New Quill adds: OpenAI Pro 500 at $500/mo with Ultrafast and Pro 200 reopened at lower usage (grandfather through Oct 29 per Help Center; Engadget/BI detail 20×→10× and 200→100 GPT-6 Pro messages); SiMa.ai Sep 28 $150M Series C at $1.45B (Fidelity/Amplify) missed earlier today. Cash indexes unchanged vs No. 196; ES/NQ/YM and WTI refreshed off Yahoo previousClose. X MCP search_news unavailable (client-not-enrolled)."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 196 Afternoon after No. 195 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 197 Afternoon after No. 196 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes settle Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,76 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "openai-pro-500-200",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Pricing",
+      "hed": "OpenAI launches Pro 500 at $500/mo with Ultrafast; reopens Pro 200 at lower usage (grandfather through Oct 29)",
+      "dek": "OpenAI Help Center (About ChatGPT Pro tiers) and DevDay 2026 Recap: new Pro 500 plan is $500/month with the highest Pro usage allowance (recap: 25× ChatGPT Plus) and Astra Ultrafast in ChatGPT Work and Codex (Ultrafast only on Pro 500 among Pro plans). Pro 200 is open to new subscribers again at $200/month with a lower included usage allowance than prior Pro 200; eligible existing Pro 200 subscribers keep prior allowance through Oct 29, 2026, then move to the lower allowance at the same $200 price. Engadget (Bonifacic) and Business Insider (Chandonnet) report the cut as Work/Codex usage from 20× to 10× Plus and GPT-6 Pro chat messages from 200 to 100 per week; TNW cites a one-time transition credit figure. Complements openai-devday-keynote (Pro 500 named) and openai-friar-ipo-q3 (Friar on $200 SKU / consumption). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "OpenAI Help Center (About ChatGPT Pro tiers); OpenAI DevDay 2026 Recap; Engadget (Igor Bonifacic); Business Insider (Henry Chandonnet)",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "also": [
+        {
+          "label": "OpenAI  -  DevDay 2026 Recap (Pro 500 / Ultrafast)",
+          "url": "https://openai.com/index/devday-2026-recap/"
+        },
+        {
+          "label": "Engadget  -  Pro 500 and Pro 200 usage cut (Bonifacic, Sep 29)",
+          "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/"
+        },
+        {
+          "label": "Business Insider  -  ChatGPT Pro 500 $500/mo (Chandonnet, Sep 29)",
+          "url": "https://www.businessinsider.com/chatgpt-new-plan-pro-500-cost-compute-allowance-2026-9"
+        },
+        {
+          "label": "Prior plate - openai-devday-keynote",
+          "url": "https://openai.com/index/devday-2026-recap/"
+        },
+        {
+          "label": "Prior plate - openai-friar-ipo-q3 (Friar $200 SKU color)",
+          "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 197 Afternoon). PRIMARY OpenAI Help About ChatGPT Pro tiers: Pro 500 $500/mo with Astra Ultrafast; Pro 200 reopened with lower usage for non-grandfathered; existing Pro 200 keep prior allowance through Oct 29, 2026 then step down at $200. ALSO DevDay Recap: Pro 500 highest usage at 25× Plus + Ultrafast. ALSO Engadget/BI for 20×→10× Plus Work/Codex and 200→100 GPT-6 Pro weekly messages (not spelled in Help FAQ excerpt). Do NOT invent ARR, conversion rates, or credit dollar amounts unless citing TNW separately. Owner Quill.",
+      "grafs": [
+        "OpenAI's Help Center article on ChatGPT Pro tiers, checked Tuesday, Sept. 29, 2026, says ChatGPT Pro now offers Pro 500, a new $500/month plan that includes Astra Ultrafast, and that Pro 200 is available for new subscriptions again at $200/month with a lower included usage allowance than previously offered.",
+        "The OpenAI DevDay 2026 Recap says the new Pro 500 plan offers the highest usage allowance at 25 times the ChatGPT Plus allowance and includes Ultrafast. Help Center FAQ language says that among Pro plans, Ultrafast is available only on Pro 500, and that buying credits on Pro 100 or Pro 200 does not unlock Ultrafast at launch.",
+        "On grandfathering, Help Center says eligible existing Pro 200 subscribers keep their previous included usage allowance through Oct 29, 2026 while they have an active Pro 200 subscription, then move to the lower allowance with the price staying $200/month. Engadget's Igor Bonifacic and Business Insider's Henry Chandonnet report the step-down as ChatGPT Work and Codex usage falling from 20× to 10× the Plus allowance, and GPT-6 Pro chat messages falling from 200 to 100 per week.",
+        "This is pricing and packaging color under the DevDay umbrella, not a new MAJOR lead. The product keynote package (openai-devday-keynote) stays lead. Owner Quill for any consumer-pricing or CFO follow-on tied to Friar's $200 SKU comments."
+      ]
+    },
+    {
+      "id": "simaai-150-series-c",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Fundraising",
+      "hed": "SiMa.ai raises $150M Series C at $1.45B valuation; Fidelity and Amplify co-lead Physical AI chip round",
+      "dek": "SiMa.ai press release (Sept. 28, 2026): $150 million Series C co-led by Fidelity Management & Research Company and Amplify, valuing the Physical AI company at $1.45 billion and bringing total capital raised to $500 million. New investors include AllianceBernstein, Baron Capital, J.P. Morgan, and the State of Michigan; other participants named include Alter Venture Partners, Dell Technologies Capital, Maverick Capital, +ND Capital, Point72, and StepStone Group. Company says proceeds scale Palette Neat agentic software and fund next-gen hardware targeting 1,000 dense TOPS in H1 2028 for drones, humanoids, automotive ADAS, and AI cockpits. Missed on earlier Sep 29 plates; adding now. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 28-29, 2026",
+      "source": "SiMa.ai press release; The Hindu; Times of India",
+      "url": "https://sima.ai/press-release/sima-ai-reaches-1-45b-valuation-with-500-million-in-total-funding-to-scale-physical-ai-in-humanoids-automotive-and-drones/",
+      "also": [
+        {
+          "label": "The Hindu  -  SiMa.ai $150M (Sep 2026 coverage)",
+          "url": "https://www.thehindu.com/business/bengaluru-founded-simaai-raises-150-million/article71522840.ece"
+        },
+        {
+          "label": "Prior plate - samsung-helix (AI infra capital context)",
+          "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 197 Afternoon). PRIMARY SiMa.ai Sep 28 release: $150M Series C at $1.45B; total raised $500M; Fidelity + Amplify co-lead; named new LPs. Do NOT invent revenue dollars beyond company's YoY growth claim without a sourced figure, or ship dates beyond H1 2028 hardware target. Missed on No. 196 and earlier Sep 29 plates. Owner Quill.",
+      "grafs": [
+        "SiMa.ai said in a Sept. 28, 2026 press release that it raised $150 million in Series C financing at a $1.45 billion valuation, bringing total capital raised to $500 million.",
+        "Fidelity Management & Research Company and Amplify co-led the round. The company named AllianceBernstein, Baron Capital, J.P. Morgan, and the State of Michigan as new investors, with Alter Venture Partners, Dell Technologies Capital, Maverick Capital, +ND Capital, Point72, and StepStone Group among other participants.",
+        "SiMa.ai describes a full-stack Physical AI platform of purpose-built silicon and software for robotics, automotive, and drones. It said the raise will scale Palette Neat, its agentic software environment, and fund next-generation hardware aimed at 1,000 dense TOPS of compute, slated for the first half of 2028.",
+        "The print is a fundraising catch-up missed on earlier Sept. 29 Afternoon plates. It is not a MAJOR lead while OpenAI DevDay remains the plate lead. Owner Quill."
       ]
     },
     {
