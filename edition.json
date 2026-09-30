@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 207,
+  "number": 208,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash session ~3:52 PM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle)",
-    "updated": "Sep 30 ~3:52 PM ET Afternoon No. 207. Cash faded further from No. 206 ~2:58 pm prints; Nasdaq/S&P still barely green vs Tue close; Dow deeper red; NVDA/AMD still green; SoftBank Tokyo settle unchanged at 6,430.",
-    "line": "OPEN Wed · S&P 7,674.07 (+0.04%) · Dow 51,012.41 (-0.66%) · Nasdaq 26,963.00 (+0.62%) · NVDA $230.01 (+1.23%) · AMD $612.36 (+0.79%) · ES 7,744.75 (+0.16%) · NQ 30,826.75 (+0.70%) · YM 51,404 (-0.58%) · WTI $90.51 (+1.26%) · 10-y 5.293% · 30-y 5.638% · VIX 16.04 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash close ~5:00 PM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle)",
+    "updated": "Sep 30 ~5:00 PM ET Afternoon No. 208. Cash session closed: Dow deeper red, S&P modestly red, Nasdaq green vs Tue; NVDA/AMD still green; SoftBank Tokyo Wed settle unchanged at 6,430.",
+    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,719.50 (−0.16%) · NQ 30,715.75 (+0.33%) · YM 51,303 (−0.77%) · WTI $90.34 (+1.07%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Altman/Hawley hearing skip and LASST Hugging Face suit (neither MAJOR). DevDay lead unchanged. Tape refreshed ~3:52 pm ET.",
+    "hed": "ADD OpenAI/Moonshot distillation and Micron FY26 Q4 (neither MAJOR). DevDay lead unchanged. Tape refreshed to Wed cash close.",
     "signed": "Scout",
-    "body": "Afternoon No. 207 after Afternoon No. 206. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: altman-hawley-skip (CNBC ~3:34 pm ET / NBC ~3:05 pm ET; Altman declines Wed Senate Homeland Security subcommittee rogue-AI hearing; written answers). New Quill NOT MAJOR: openai-lasst-suit (CNBC ~6:15 am ET morning miss; LASST SF Superior Court suit over July Hugging Face agent hack; OpenAI \"without merit\"). Declined: ZoomInfo/DoubleO (terms undisclosed; prior Nos. 203/206), Miter $40M Series B Battery (modest construction payroll AI), Maven Robotics UAE follow (Sep 10 Series A rehash), OuterSignal $22M / Kanu / Beltic (size), CoVetAI/IDEXX exit (terms undisclosed), NYT FTC writeup (duplicate of ftc-openai-anthropic-probe). Tape: further fade vs No. 206; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
+    "body": "Afternoon No. 208 after Afternoon No. 207. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: openai-moonshot-distill (OpenAI blog Sep 30; Moonshot AI core-cluster attribution on protected-reasoning extraction; TNW/Verge/Bloomberg Law). New Quill NOT MAJOR: micron-fy26-q4 (GlobeNewswire ~4:01 pm ET; $54.23B Q4 / $133.19B FY26; FQ1-27 $61.5B ± $1.5B). Declined: ZoomInfo/DoubleO (terms undisclosed; already declined Nos. 203/206/207), MITTR Mark Chen interview (Hugging Face fallout color; overlaps openai-lasst-suit / ftc / hawley plates), CoVetAI/IDEXX (terms undisclosed), Forvis/PitchBook H1 SaaS survey (macro note, no single deal), L40 SaaS multiples note (same). Tape: Wed cash close vs No. 207 ~3:52 pm intraday. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 207 Afternoon after No. 206 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum Dallas Oct 1; SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 208 Afternoon after No. 207 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron AH reaction / call replay; Bret Taylor at CNBC AI Forum Dallas Oct 1; SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,78 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "openai-moonshot-distill",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Distillation",
+      "hed": "OpenAI says it disrupted Moonshot-linked campaign to extract protected model reasoning",
+      "dek": "OpenAI blog (Sep 30): disrupted a coordinated adversarial-distillation campaign that tried to extract protected reasoning from its models. Activity from July 1; July 24-25 spike of 16,000 extraction-pattern requests from over 4,000 users; related prompt patterns across more than 15,000 users; fully disrupted by July 28. Attributes a core cluster to individuals associated with Moonshot AI (Kimi); does not claim every operator was one actor. Method: copy encrypted reasoning across conversations and ask a model to transcribe it (no encryption break or database breach, OpenAI says). Shared via Frontier Model Forum and government channels. First OpenAI public Moonshot accusation (Bloomberg/TNW). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "OpenAI; The Next Web; The Verge; Bloomberg Law",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
+      "also": [
+        {
+          "label": "The Next Web - Moonshot-linked users / 16,000-request peak (Sep 30)",
+          "url": "https://thenextweb.com/news/openai-moonshot-distillation-campaign-hidden-reasoning"
+        },
+        {
+          "label": "The Verge - OpenAI claims Moonshot extracted data (Sep 30)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002854/openai-claims-moonshot-extracted-its-data-to-train-ai-models"
+        },
+        {
+          "label": "Bloomberg Law - OpenAI blames Moonshot for mass data extraction (Sep 30)",
+          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/openai-blames-moonshot-for-mass-data-extraction-on-its-ai-models"
+        },
+        {
+          "label": "Prior plate - moonshot-hk-ipo (Moonshot files confidentially for a Hong Kong IPO,)",
+          "url": "https://www.channelnewsasia.com/business/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-6359846"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 208 Afternoon; OpenAI blog + wire afternoon miss vs No. 207 ~3:53 pm ET plate). PRIMARY OpenAI Sep 30 blog: adversarial distillation / protected reasoning; July timeline and 16k/4k/15k figures; Moonshot AI core-cluster attribution; mitigations + Frontier Model Forum share. PAIR TNW/Verge/Bloomberg Law for first-accusation and Anthropic-prior color. Do NOT invent Moonshot admission, dollar damages, or proof that Kimi was trained on extracted reasoning. Keep openai-devday-keynote as MAJOR lead. Complements ftc-openai-anthropic-probe and altman-hawley-skip. Owner Quill.",
+      "grafs": [
+        "OpenAI said Wednesday, Sept. 30, 2026, that it identified and disrupted a coordinated campaign designed to extract protected reasoning from its models, activity it called consistent with adversarial distillation, the unauthorized use of one model's outputs or reasoning to help train or reproduce another.",
+        "The company said the earliest observed activity was in the first week of July, with high-volume spikes on July 24 and 25 of 16,000 requests using a relevant extraction pattern from over 4,000 users, and related prompt-pattern activity across a cluster of more than 15,000 users that it fully disrupted by July 28. Those figures describe attempted, not necessarily successful, extractions, OpenAI footnoted.",
+        "OpenAI said operators did not break its encryption or access stored user conversations. Instead, it said, they manipulated model interactions so protected reasoning could be reproduced in forms visible to the requester, including by copying encrypted reasoning from one conversation and asking a model in another conversation to decrypt and transcribe it.",
+        "The company said it is unclear whether all operators came from a single actor, but it attributes a core cluster of the activity to individuals associated with Moonshot AI, the developer of Kimi. Coverage from The Next Web, The Verge, and Bloomberg Law framed the post as OpenAI's first public accusation of Moonshot, following a similar Anthropic claim last month.",
+        "OpenAI said it banned or restricted fraudulent accounts, strengthened signup and infrastructure controls, closed a pathway that allowed replay of another user's encrypted reasoning, and shared findings through the Frontier Model Forum and government channels. Worth following for PE and AI diligence on China-lab distillation risk and frontier IP controls. Route to Quill."
+      ]
+    },
+    {
+      "id": "micron-fy26-q4",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI memory",
+      "hed": "Micron posts record FY26 Q4: $54.23B revenue, guides Q1 FY27 to $61.5B ± $1.5B on AI memory",
+      "dek": "Micron (Nasdaq: MU) via GlobeNewswire ~4:01 pm ET Sep 30: fiscal Q4 (ended Sep 3) revenue $54.23B vs $41.46B prior quarter and $11.32B year-ago; GAAP NI $37.70B / $32.87 diluted EPS; non-GAAP NI $38.40B / $33.42. FY26 revenue $133.19B (vs $37.38B FY25); GAAP NI $84.97B / $74.33. Core Data Center BU $18.0B (90% gross margin); Cloud Memory $16.3B. FQ1-27 outlook: revenue $61.5B ± $1.5B; non-GAAP diluted EPS $38.15 ± $1.00. Cash and investments $73.48B; dividend $0.15 payable Oct 29. AI memory print for chip/PE tape. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "Micron Technology via GlobeNewswire (FinancialContent); Quartz",
+      "url": "https://markets.financialcontent.com/stocks/article/gnwcq-2026-9-30-micron-technology-inc-reports-record-fiscal-fourth-quarter-and-full-year-2026-results",
+      "also": [
+        {
+          "label": "Quartz - $54.2B Q4 / AI memory demand / Q1 guide (Sep 30)",
+          "url": "https://qz.com/micron-q4-2026-earnings-revenue-ai-memory-093026"
+        },
+        {
+          "label": "Micron IR - Q4 FY26 financial call event page",
+          "url": "https://investors.micron.com/events-and-presentations/event-details/2026/Microns-Fourth-Quarter-2026-Financial-Call/default.aspx"
+        },
+        {
+          "label": "Prior plate - china-hbm-ai-hikes (China AI chipmakers lift prices as HBM shortage bi)",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 208 Afternoon; after-bell print ~4:01 pm ET post No. 207 ~3:53 pm ET cutoff). PRIMARY Micron GlobeNewswire release: Q4/FY26 records and FQ1-27 guide. PAIR Quartz for LSEG consensus context ($51.07B rev / $31.61 adj EPS expected). Do NOT invent AH share move, HBM unit mix beyond release, or capex guidance not in the release. Keep openai-devday-keynote as MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Micron Technology (Nasdaq: MU) on Wednesday, Sept. 30, 2026, after the cash close, reported record fiscal fourth-quarter and full-year 2026 results for the period ended Sept. 3, citing AI-linked memory demand, according to its GlobeNewswire release carried on FinancialContent about 4:01 p.m. ET.",
+        "Fiscal Q4 revenue was $54.23 billion, versus $41.46 billion in the prior quarter and $11.32 billion a year earlier. GAAP net income was $37.70 billion, or $32.87 per diluted share; non-GAAP net income was $38.40 billion, or $33.42 per diluted share. Operating cash flow was $43.97 billion for the quarter.",
+        "For full fiscal 2026, Micron reported revenue of $133.19 billion, up from $37.38 billion in fiscal 2025, and GAAP net income of $84.97 billion, or $74.33 per diluted share. Core Data Center was the top quarterly business-unit contributor at $18.0 billion revenue with a 90% gross margin; Cloud Memory posted $16.3 billion.",
+        "Looking ahead, Micron guided first-quarter fiscal 2027 revenue to $61.5 billion, plus or minus $1.5 billion, with non-GAAP diluted EPS of $38.15, plus or minus $1.00. Quartz, citing LSEG consensus via TheStreet, said analysts had expected about $51.07 billion in quarterly revenue and $31.61 in adjusted EPS for the quarter just reported, and about $57.02 billion / $35.14 for the upcoming quarter.",
+        "Micron ended the year with $73.48 billion in cash, marketable investments, and restricted cash, and declared a $0.15 quarterly dividend payable Oct. 29. CEO Sanjay Mehrotra said the company expects an even stronger fiscal 2027 as AI becomes \"Super Intelligence\" and memory enhances customer platforms. Worth following for AI infra capex, memory pricing power, and semiconductor exposure in PE portfolios. Route to Quill."
       ]
     },
     {
