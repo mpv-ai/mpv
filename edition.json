@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 200,
+  "number": 201,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Midmorning",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue cash close unchanged; ES/NQ/YM/CL/TNX/TYX/VIX ~8:52 AM ET; SoftBank Tokyo Wed settle)",
-    "updated": "Sep 30 ~8:52 AM ET Morning No. 200. Cash indexes unchanged vs Close No. 199; futures/yields/VIX/SoftBank refreshed premarket.",
-    "line": "PREMARKET Wed · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,760.25 (+0.37%) · NQ 30,716.00 (+0.34%) · YM 51,862 (+0.31%) · WTI $90.60 (+1.36%) · 10-y 5.230% · 30-y 5.577% · VIX 15.83 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash open ~9:56 AM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
+    "updated": "Sep 30 ~9:56 AM ET Midmorning No. 201. Cash open after cool PCE; futures/yields/VIX refreshed; SoftBank Tokyo settle unchanged vs Morning.",
+    "line": "OPEN Wed · S&P 7,702.97 (+0.42%) · Dow 51,385.52 (+0.07%) · Nasdaq 26,985.66 (+0.70%) · NVDA $230.58 (+1.48%) · AMD $603.22 (−0.72%) · ES 7,749.00 (+0.22%) · NQ 30,724.00 (+0.36%) · YM 51,646 (−0.11%) · WTI $91.10 (+1.92%) · 10-y 5.243% · 30-y 5.606% · VIX 15.76 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD White House SI frontier accord (MAJOR) + Bain/Koch Edged >$15B bid process (MAJOR). DevDay lead unchanged. EliseAI already on plate.",
+    "hed": "ADD Ives IVAI $200M private-AI CEF + cool August PCE. DevDay lead unchanged. Tape to cash open.",
     "signed": "Scout",
-    "body": "Morning No. 200 after Close No. 199. Keep openai-devday-keynote as MAJOR lead. New Quill MAJORs: (1) white-house-si-accord, Washington Examiner full text of voluntary Joint Commitment on Frontier Responsibilities (four control/audit layers; Trump says morally binding per CNBC); (2) bain-edged-15b, Bloomberg via PE Wire/DCD that Bain is among bidders for Koch Edged US data centers, could top $15B, no deal signed. Skip eliseai re-add (already eliseai-350-4b on plate). Tape: Tue cash unchanged; ES/NQ/YM firmer overnight; WTI firmer; SoftBank Tokyo +6.55% vs Tue. X MCP search_news still client-not-enrolled."
+    "body": "Midmorning No. 201 after Morning No. 200. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): (1) ives-ivai-200m, PR Newswire/CNBC pricing of $200M IVAI CEF for private late-stage AI, NYSE debut; (2) pce-august-cool, CNBC on BEA August PCE core 3.0%/headline 3.4% below consensus. Skip BAG Ventures $11.3M (too small). Skip Anthropic/Burry rehash (already on plate). Tape: cash open firmer after cool PCE; NVDA green; AMD soft; WTI firmer; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 200 Morning after No. 199 Close. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); SoftBank notes / OpenAI tranche Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 201 Midmorning after No. 200 Morning. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,68 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "ives-ivai-200m",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI access",
+      "hed": "Dan Ives prices $200M IVAI closed-end fund for private late-stage AI; NYSE debut today",
+      "dek": "PR Newswire Sep 30 6:00 am ET / CNBC (Alex Harring, ~6:21 am ET): Ives Ultra AI Opportunities Inc. priced 20M shares at $10 for $200M gross proceeds; claims first publicly listed CEF dedicated to private AI companies; expected to trade NYSE as IVAI Sep 30; close targeted Oct 1; Cohen & Company sole bookrunner; N-2 effective Sep 29. Mandate: ~80% net assets in AI-centered cos with emphasis on US private late-stage AI infra/applied AI; up to 15% in private funds; CNBC cites 3.1% total annual expenses on gross assets. Ives is Chairman of Board of Managers of adviser Ives Ultra Capital Management (not portfolio manager / not on Investment Committee per release). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "PR Newswire (IVAI); CNBC (Alex Harring)",
+      "url": "https://www.prnewswire.com/news-releases/ives-ultra-ai-opportunities-inc-nyse-ivai-announces-pricing-of-200-million-initial-public-offering-302893842.html",
+      "also": [
+        {
+          "label": "CNBC - Ives private AI CEF / IVAI pricing (Sep 30 ~6:21 am ET)",
+          "url": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html"
+        },
+        {
+          "label": "Prior plate - openai-funding-14t (private AI capital / IPO bridge context)",
+          "url": "https://www.channelnewsasia.com/business/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-6419526"
+        },
+        {
+          "label": "Prior plate - anthropic-ipo-prospectus (public AI listing path contrast)",
+          "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 201 Midmorning; Morning No. 200 miss / pre-cutoff pricing). PRIMARY PR Newswire Sep 30: 20M shares @ $10 = $200M; first public CEF for private AI; NYSE IVAI; close Oct 1; Ives chair of adviser BOM, not PM. PAIR CNBC for 3.1% expense and 80%/15% mandate color. Do NOT invent portfolio holdings, NAV, or tender terms beyond release. Distinct from openai-funding-14t / anthropic-ipo-prospectus. Owner Quill.",
+      "grafs": [
+        "Ives Ultra AI Opportunities Inc. on Wednesday, Sept. 30, 2026, priced an initial public offering of 20 million shares of common stock at $10.00 per share for $200 million in gross proceeds, according to a company release on PR Newswire.",
+        "The firm said it is the first publicly listed closed-end investment fund dedicated to giving public-market investors access to private AI companies, with shares expected to begin trading on the New York Stock Exchange under ticker IVAI on Sept. 30 and the offering expected to close Oct. 1, subject to customary conditions. Cohen & Company Capital Markets acted as sole bookrunner; the Form N-2 was declared effective Sept. 29, the release said.",
+        "CNBC, citing Yorkville Ives & Co., reported the same $200 million pricing and said the fund will charge total annual expenses of 3.1% on gross assets, with about 80% of net assets earmarked for AI-centered companies (emphasis on private late-stage U.S. AI names) and as much as 15% allowable in private funds.",
+        "Dan Ives is Chairman of the Board of Managers of adviser Ives Ultra Capital Management LLC; the release states he is not IVAI's portfolio manager and does not serve on the Investment Committee. NOT MAJOR for Quill; DevDay remains the lead."
+      ]
+    },
+    {
+      "id": "pce-august-cool",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Fed",
+      "hed": "August PCE cooler than expected: headline +3.4% y/y, core +3.0%; spending firm, Oct hike odds fade",
+      "dek": "CNBC (Jeff Cox, Sep 30 ~8:32 am ET): Commerce/BEA August PCE +0.3% m/m / +3.4% y/y (vs ~3.7% y/y expected); core +0.2% m/m / +3.0% y/y (vs ~3.3% y/y). Personal income +0.2%, spending +0.9%. BEA methodology tweaks (legal services, software/computer accessories, portfolio management) noted as putting downward pressure. Q2 GDP final revised to 2.2% annualized from 1.5%. Markets cut October hike odds after print; Williams Tue said 'no need for urgency.' NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "CNBC (Jeff Cox); Commerce Department / BEA via CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "also": [
+        {
+          "label": "Yahoo Finance live - stocks bounce as PCE cools (updated midmorning)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html"
+        },
+        {
+          "label": "Trading Economics - US PCE less than expected (Aug)",
+          "url": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/588260"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 201 Midmorning). PRIMARY CNBC Cox Sep 30 ~8:32 am ET on BEA August PCE: headline 0.3%/3.4%, core 0.2%/3.0%, both below DJ consensus; income 0.2%, spending 0.9%; BEA methodology note; Q2 GDP final 2.2% vs 1.5% prior. Pair Yahoo live for open-tape reaction. Do NOT invent Fed decision or claim target met (still above 2%). Owner Quill.",
+      "grafs": [
+        "The Commerce Department's August personal consumption expenditures price index rose 0.3% month over month and 3.4% year over year, while core PCE excluding food and energy rose 0.2% and 3.0%, respectively, CNBC reported Wednesday, Sept. 30, 2026, citing figures lighter than Dow Jones consensus looks for about 3.7% headline and 3.3% core on a year-over-year basis.",
+        "The same report showed personal income up 0.2% and consumer spending up 0.9% for August. CNBC noted the Bureau of Economic Analysis adjusted how it measures prices for legal services, software and computer accessories, and portfolio management, which economists expected would put downward pressure on the gauge.",
+        "Separately, second-quarter GDP was revised up to a 2.2% annualized rate from the prior 1.5% estimate, CNBC said. Futures and cash equities firmed after the print as traders further dialed back October Fed hike odds, following New York Fed President John Williams's Tuesday remark that there was \"no need for urgency\" after the September move.",
+        "Levels remain above the Fed's 2% inflation target. NOT MAJOR for Quill; tape refreshed on Midmorning No. 201."
       ]
     },
     {
