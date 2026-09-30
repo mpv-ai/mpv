@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 202,
+  "number": 203,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash session ~10:53 AM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
-    "updated": "Sep 30 ~10:53 AM ET Midday No. 202. Cash firmer into late morning after cool PCE; futures/yields/VIX refreshed; SoftBank Tokyo settle unchanged vs Midmorning.",
-    "line": "OPEN Wed · S&P 7,718.61 (+0.62%) · Dow 51,431.95 (+0.16%) · Nasdaq 27,067.75 (+1.01%) · NVDA $230.70 (+1.53%) · AMD $603.76 (−0.63%) · ES 7,768.00 (+0.47%) · NQ 30,802.25 (+0.62%) · YM 51,708 (+0.01%) · WTI $91.27 (+2.11%) · 10-y 5.272% · 30-y 5.626% · VIX 15.93 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash session ~11:50 AM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
+    "updated": "Sep 30 ~11:50 AM ET Afternoon No. 203. Cash still firmer after cool PCE; Nasdaq/NVDA bid vs Midday; Dow near flat; SoftBank Tokyo settle unchanged.",
+    "line": "OPEN Wed · S&P 7,717.03 (+0.60%) · Dow 51,336.02 (−0.03%) · Nasdaq 27,087.78 (+1.08%) · NVDA $231.03 (+1.68%) · AMD $602.49 (−0.84%) · ES 7,774.00 (+0.54%) · NQ 30,863.75 (+0.82%) · YM 51,679 (−0.04%) · WTI $91.34 (+2.19%) · 10-y 5.272% · 30-y 5.631% · VIX 15.87 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD CScale $145M optical Series C (NVIDIA/Intel Capital). DevDay lead unchanged. Tape refreshed late morning.",
+    "hed": "ADD Flow Engineering $50M Series B at $750M (Valor/Atreides). DevDay lead unchanged. Tape refreshed midday.",
     "signed": "Scout",
-    "body": "Midday No. 202 after Midmorning No. 201. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): cscale-145-series-c, company press/BW via Yahoo on $145M Series C for AI optical interconnect, NVIDIA and Intel Capital as first strategics, total funding $188M (BW ~9:00 am ET Midmorning miss). Skip Ascerta $18M / Relay $36M (too small vs BAG skip rule). Tape: cash firmer (S&P/Nasdaq up vs Midmorning prints); yields up a touch; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
+    "body": "Afternoon No. 203 after Midday No. 202. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): flow-engineering-50-series-b, PR Newswire ~11:00 am ET on $50M Series B at $750M co-led by Valor (Gracias) and Atreides (Baker); Sequoia participates; Botha joins board; agentic hardware systems engineering (Midday miss / post-cutoff). Declined: Restate $20M Series A (below Ascerta/Relay size skip), BAG Ventures $11.3M fund close (small), ZoomInfo/DoubleO.ai (undisclosed terms), MSCI AI value-chain indexes (late Aug, not today). Tape: Nasdaq/NVDA firmer vs Midday; Dow flat; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 202 Midday after No. 201 Midmorning. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 203 Afternoon after No. 202 Midday. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,38 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "flow-engineering-50-series-b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Agentic hardware",
+      "hed": "Flow Engineering raises $50M Series B at $750M; Valor and Atreides co-lead agentic hardware platform",
+      "dek": "PR Newswire (Sep 30 ~11:00 am ET / 15:00 GMT): Flow Engineering (San Francisco) announces $50M Series B at $750M valuation co-led by Antonio Gracias (Valor Equity Partners) and Gavin Baker (Atreides Management); Sequoia (Series A lead) participates with Human Capital, Evantic, SV Angel, Odyssey, EQT; Hugging Face co-founder Thomas Wolf, Mercedes-Benz CIO Jonas von Malottki, and F1 champion Nico Rosberg contribute; Roelof Botha joins board as independent director and invests personally. Agentic systems-engineering platform (requirements/CAD/sim/code/test); customers include Rivian, Anduril, Joby, Astranis, GM PPU, RV Tech, Stoke Space, Intuitive Machines, Pacific Fusion. Rivian users 40→1,500 in 7 months (company claim). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "PR Newswire (Flow Engineering); Unite.AI",
+      "url": "https://www.prnewswire.com/news-releases/flow-engineering-raises-50m-series-b-at-750m-valuation-to-make-hardware-iteration-as-fast-as-software-302893613.html",
+      "also": [
+        {
+          "label": "Unite.AI — Flow $50M Series B / $750M (Sep 30)",
+          "url": "https://www.unite.ai/flow-engineering-lands-50m-series-b-at-750m-valuation-for-agentic-hardware-platform/"
+        },
+        {
+          "label": "Prior plate — cscale-145-series-c (Valor/Atreides also on CScale Series C same day)",
+          "url": "https://www.cscale.ai/press/cscale-exits-stealth"
+        },
+        {
+          "label": "Company — Flow Engineering",
+          "url": "https://www.flowengineering.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 203 Afternoon; Midday No. 202 miss / PRN ~11:00 am ET post-cutoff). PRIMARY PR Newswire Sep 30: $50M Series B at $750M; co-leads Valor (Gracias) + Atreides (Baker); Sequoia participates; Botha joins board. PAIR Unite.AI for corroboration. Do NOT invent ARR, revenue, or close timing. Customer and Rivian 40→1,500 user figures are company claims in release. Distinct from cscale-145-series-c (same-day Valor/Atreides optical deal). Owner Quill.",
+      "grafs": [
+        "Flow Engineering, a San Francisco agentic platform for hardware development, on Wednesday, Sept. 30, 2026, announced a $50 million Series B at a $750 million valuation, according to a PR Newswire release timed about 11:00 a.m. ET (15:00 GMT).",
+        "The round was co-led by Antonio Gracias, founder of Valor Equity Partners, and Gavin Baker, Managing Partner at Atreides Management. Sequoia Capital, which led Flow's Series A, participated alongside Human Capital, Evantic, SV Angel, Odyssey, and EQT, with contributions from Hugging Face co-founder Thomas Wolf, Mercedes-Benz CIO Jonas von Malottki, and Formula 1 world champion Nico Rosberg. Roelof Botha joined the board as an independent director and invested personally.",
+        "Flow said it is building a living system of record that connects requirements, CAD, simulation, code, and test, with AI agents that analyze engineering changes and verify results. The company listed customers including Rivian, Anduril, Joby Aviation, Astranis, Radiant Industries, General Motors PPU, Rivian-Volkswagen joint venture RV Tech, Stoke Space, Intuitive Machines, and Pacific Fusion, and said Rivian adoption grew from 40 to 1,500 users in seven months. Valor and Atreides also appear on the same-day CScale optical Series C already on the plate (cscale-145-series-c)."
       ]
     },
     {
