@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 203,
+  "number": 204,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash session ~11:50 AM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
-    "updated": "Sep 30 ~11:50 AM ET Afternoon No. 203. Cash still firmer after cool PCE; Nasdaq/NVDA bid vs Midday; Dow near flat; SoftBank Tokyo settle unchanged.",
-    "line": "OPEN Wed · S&P 7,717.03 (+0.60%) · Dow 51,336.02 (−0.03%) · Nasdaq 27,087.78 (+1.08%) · NVDA $231.03 (+1.68%) · AMD $602.49 (−0.84%) · ES 7,774.00 (+0.54%) · NQ 30,863.75 (+0.82%) · YM 51,679 (−0.04%) · WTI $91.34 (+2.19%) · 10-y 5.272% · 30-y 5.631% · VIX 15.87 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash session ~12:52 PM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
+    "updated": "Sep 30 ~12:52 PM ET Afternoon No. 204. Cash off late-morning highs; Nasdaq/NVDA still green vs Tue close; Dow soft; yields up vs Afternoon No. 203; SoftBank Tokyo settle unchanged.",
+    "line": "OPEN Wed · S&P 7,709.73 (+0.51%) · Dow 51,301.30 (−0.09%) · Nasdaq 27,057.45 (+0.97%) · NVDA $230.31 (+1.36%) · AMD $603.84 (−0.61%) · ES 7,767.75 (+0.46%) · NQ 30,846.50 (+0.76%) · YM 51,627 (−0.15%) · WTI $91.44 (+2.30%) · 10-y 5.291% · 30-y 5.641% · VIX 15.91 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Flow Engineering $50M Series B at $750M (Valor/Atreides). DevDay lead unchanged. Tape refreshed midday.",
+    "hed": "ADD Clio acquires Learned Hand (judiciary AI; terms undisclosed). DevDay lead unchanged. Tape refreshed off midday highs.",
     "signed": "Scout",
-    "body": "Afternoon No. 203 after Midday No. 202. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): flow-engineering-50-series-b, PR Newswire ~11:00 am ET on $50M Series B at $750M co-led by Valor (Gracias) and Atreides (Baker); Sequoia participates; Botha joins board; agentic hardware systems engineering (Midday miss / post-cutoff). Declined: Restate $20M Series A (below Ascerta/Relay size skip), BAG Ventures $11.3M fund close (small), ZoomInfo/DoubleO.ai (undisclosed terms), MSCI AI value-chain indexes (late Aug, not today). Tape: Nasdaq/NVDA firmer vs Midday; Dow flat; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
+    "body": "Afternoon No. 204 after Afternoon No. 203. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): clio-learned-hand, PR Newswire ~9:00 am ET plus Business Insider on Clio acquiring Learned Hand for judiciary AI; terms undisclosed; BI cites Clio last at $5B and Learned Hand ~$5M raised; LA Superior Court named among users (Afternoon No. 203 miss while Flow Engineering prioritized). Declined: Kanu AI $11.7M (below size bar with Restate/BAG), Destro AI $8M seed (size), CoVetAI/IDEXX exit (undisclosed niche vet AI), ZoomInfo/DoubleO and BAG Ventures still declined as prior hour. Tape: S&P/Nasdaq off ~11:50 highs; 10-y/30-y up; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 203 Afternoon after No. 202 Midday. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 204 Afternoon after No. 203 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,38 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "clio-learned-hand",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Legal tech",
+      "hed": "Clio acquires Learned Hand to build judiciary AI; terms undisclosed, LA Superior Court already a user",
+      "dek": "PR Newswire (Sep 30 ~9:00 am ET) and Business Insider: Clio (legal AI platform, last valued at $5B per BI) acquires Learned Hand, an AI workspace for judges and clerks. Financial terms not disclosed. Learned Hand founder Shlomo Klapper had raised about $5M (BI). Product used by U.S. courts including Superior Court of Los Angeles County (PRN). Clio's first direct judiciary expansion; Pablo Arredondo (SVP Judiciary, joined Aug) and former Michigan Supreme Court Chief Justice Bridget Mary McCormack (GM Judiciary) already on judiciary build-out. Clio bought vLex for $1B in 2025 (BI). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "PR Newswire (Clio); Business Insider (Melia Robinson)",
+      "url": "https://www.prnewswire.com/news-releases/clio-acquires-learned-hand-302893566.html",
+      "also": [
+        {
+          "label": "Business Insider - Clio buys Learned Hand / $5B Clio / ~$5M Learned Hand raise (Sep 30)",
+          "url": "https://www.businessinsider.com/clio-buys-learned-hand-legal-ai-for-courts-judges-2026-9"
+        },
+        {
+          "label": "Learned Hand - company site",
+          "url": "https://www.learned-hand.ai"
+        },
+        {
+          "label": "Clio - company site",
+          "url": "https://www.clio.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 204 Afternoon; PRN ~9:00 am ET / BI morning, Afternoon No. 203 miss while Flow Engineering prioritized). PRIMARY PR Newswire Sep 30: Clio acquires Learned Hand for judiciary AI; LA Superior Court named among court users; Arredondo SVP Judiciary and McCormack GM Judiciary context. PAIR Business Insider for Clio $5B last valuation, Learned Hand ~$5M raised, terms undisclosed, and vLex $1B 2025 color. Do NOT invent purchase price or close timing. Distinct from ZoomInfo/DoubleO (undisclosed GTM agent deal declined No. 203). Owner Quill.",
+      "grafs": [
+        "Clio, the legal AI company last valued at $5 billion, on Wednesday, Sept. 30, 2026, announced it has acquired Learned Hand, a startup building AI tools for judges and court staff, according to a Clio PR Newswire release timed about 9:00 a.m. ET and a Business Insider report the same morning. Financial terms were not disclosed.",
+        "Learned Hand's AI workspace is designed for judges and clerks, connecting to court case management systems to help review filings, research, and prepare bench memoranda and draft orders. The PR Newswire release says the technology is already used by U.S. courts, including the Superior Court of Los Angeles County, the nation's largest trial court. Business Insider reported founder Shlomo Klapper had raised about $5 million before the sale.",
+        "Clio framed the deal as its first direct expansion into the judiciary, arguing AI is speeding lawyer and self-represented work while courts remain a bottleneck. The company said Pablo Arredondo joined as senior vice president, judiciary, in August, and former Michigan Supreme Court Chief Justice Bridget Mary McCormack is joining as general manager, judiciary. Business Insider noted Clio's 2025 purchase of vLex for $1 billion as part of a broader push beyond small-firm practice management into legal data and court-adjacent workflows."
       ]
     },
     {
