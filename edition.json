@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 205,
+  "number": 206,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash session ~1:50 PM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
-    "updated": "Sep 30 ~1:50 PM ET Afternoon No. 205. Cash still green on Nasdaq/S&P vs Tue close; Dow soft; WTI off Afternoon No. 204 highs; 10-y/30-y up vs No. 204; SoftBank Tokyo settle unchanged.",
-    "line": "OPEN Wed · S&P 7,708.11 (+0.49%) · Dow 51,270.83 (-0.15%) · Nasdaq 27,061.61 (+0.99%) · NVDA $230.57 (+1.48%) · AMD $605.56 (-0.33%) · ES 7,762.00 (+0.39%) · NQ 30,823.75 (+0.69%) · YM 51,583 (-0.23%) · WTI $90.83 (+1.62%) · 10-y 5.302% · 30-y 5.647% · VIX 15.93 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash session ~2:58 PM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
+    "updated": "Sep 30 ~2:58 PM ET Afternoon No. 206. Cash still green on Nasdaq/S&P vs Tue close but off No. 205 highs; Dow softer; AMD flipped green; WTI/futures eased; SoftBank Tokyo settle unchanged.",
+    "line": "OPEN Wed · S&P 7,694.84 (+0.31%) · Dow 51,139.60 (-0.41%) · Nasdaq 27,020.96 (+0.83%) · NVDA $230.38 (+1.39%) · AMD $610.41 (+0.47%) · ES 7,750.50 (+0.24%) · NQ 30,803.50 (+0.62%) · YM 51,463 (-0.46%) · WTI $90.64 (+1.41%) · 10-y 5.295% · 30-y 5.644% · VIX 15.95 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD FTC industry probe of OpenAI/Anthropic (MAJOR). DevDay lead unchanged. Tape refreshed ~1:50 pm ET.",
+    "hed": "ADD ElevenLabs $22B tender and Kahua/Bain >$1B (neither MAJOR). DevDay lead unchanged. Tape refreshed ~2:58 pm ET.",
     "signed": "Scout",
-    "body": "Afternoon No. 205 after Afternoon No. 204. Keep openai-devday-keynote as MAJOR lead. New Quill MAJOR: ftc-openai-anthropic-probe (NY Post ~9:26 am ET exclusive; CNBC confirmation ~11:27 am ET; Reuters senior FTC official on industry-wide probe, CIDs, executive testimony, METR; Afternoon No. 204 miss). Declined: BAG Ventures $11.3M (size, prior decline), Kanu $11.7M (size, prior), Beltic $7.3M seed (size), Miter $40M Battery Series B construction workforce (vertical SaaS, 9:00 am ET wire, below PE/data-center bar vs Bain/Edged and Flow/CScale). Complements white-house-si-accord with enforcement track. Tape: Nasdaq/S&P still green vs Tue; Dow soft; WTI and futures off No. 204 highs; 10-y 5.302% / 30-y 5.647%; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
+    "body": "Afternoon No. 206 after Afternoon No. 205. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: elevenlabs-22b-tender (TechCrunch ~2:23 pm ET / Reuters ~12:29 pm ET; $300M employee tender at $22B, 2x February $11B Series D; Wellington/T. Rowe co-lead). New Quill NOT MAJOR: kahua-bain-1b (Sep 29 PR missed earlier; Bain Tech Opportunities minority growth at valuation above $1B; Kahua cites $100M ARR). Declined: ZoomInfo/DoubleO (terms undisclosed; already declined No. 203), BAG Ventures $11.3M (size, prior), Solari Capital stealth/$350M deployed (VC firm launch, not a company raise), Maven Robotics UAE follow on Sep 10 $100M Series A (rehash). Tape: Nasdaq/S&P still green vs Tue but off No. 205 highs; Dow -0.41%; AMD +0.47% (was red at No. 205); SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 205 Afternoon after No. 204 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 206 Afternoon after No. 205 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,74 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "elevenlabs-22b-tender",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Voice agents",
+      "hed": "ElevenLabs doubles to $22B via $300M employee tender led by Wellington and T. Rowe Price",
+      "dek": "TechCrunch (Sep 30 ~2:23 pm ET / 11:23 am PDT) and Reuters (via MarketScreener ~12:29 pm ET): ElevenLabs completed a $300M employee tender valuing the voice AI company at $22B, double the $11B mark after its February $500M Series D. Tender co-led by Wellington and T. Rowe Price; Reuters notes new money includes EQT and Goldman Sachs alongside existing a16z and Lightspeed. Secondary liquidity (not a primary raise). Complements elevenlabs-scaleup (EQT talks) and elevenlabs-cfo plates. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "TechCrunch (Marina Temkin); Reuters (via MarketScreener)",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "also": [
+        {
+          "label": "Reuters via MarketScreener - $22B tender / Wellington / T. Rowe (~12:29 pm ET Sep 30)",
+          "url": "https://ca.marketscreener.com/news/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand-ce785ad3d98ef622"
+        },
+        {
+          "label": "Tech.eu - $300M employee tender / $22B (Sep 30)",
+          "url": "https://tech.eu/2026/09/30/elelvenlabs-doubles-valuation-to-22bn-with-300m-employee-tender-offer/"
+        },
+        {
+          "label": "Prior plate - elevenlabs-scaleup (EQT Scaleup Europe Fund talks, Sep 17)",
+          "url": "https://thenextweb.com/news/elevenlabs-funding-scaleup-europe-fund-talks"
+        },
+        {
+          "label": "Prior plate - elevenlabs-cfo (Ethan Tandowsky, Sep 8)",
+          "url": "https://elevenlabs.io/blog/cfo"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 206 Afternoon; post No. 205 ~1:50 pm ET cutoff; TechCrunch ~2:23 pm ET / Reuters wire ~12:29 pm ET). PRIMARY TechCrunch Sep 30: $300M employee tender at $22B (2x February $11B / $500M Series D); co-leads Wellington and T. Rowe Price. PAIR Reuters/MarketScreener for EQT, Goldman Sachs, a16z, Lightspeed participation color and agent adoption context. Do NOT invent primary proceeds, ARR, or IPO timing. Distinct from elevenlabs-scaleup (unconfirmed EQT talks) and elevenlabs-cfo. Owner Quill.",
+      "grafs": [
+        "ElevenLabs on Wednesday, Sept. 30, 2026, said it completed a $300 million employee tender offer valuing the voice AI startup at $22 billion, according to TechCrunch (about 2:23 p.m. ET) and a Reuters report carried by MarketScreener (about 12:29 p.m. ET).",
+        "The valuation is double the $11 billion mark ElevenLabs reached when it raised $500 million in a Series D in February 2026, TechCrunch and Reuters both reported. TechCrunch said Wellington and T. Rowe Price co-led the tender; Reuters said participants included existing backers Andreessen Horowitz and Lightspeed plus new investors including EQT and Goldman Sachs. Unlike a primary round, a tender lets employees and existing holders sell shares to investors.",
+        "TechCrunch framed the deal as the company's second employee liquidity event after a $100 million tender at $6.6 billion in September 2025. The plate already carries elevenlabs-scaleup (EQT Scaleup Europe Fund talks, Sep 17, unconfirmed) and elevenlabs-cfo (Ethan Tandowsky named Sep 8). This is NOT MAJOR: secondary tender, not a new primary raise or regulatory franchise hit."
+      ]
+    },
+    {
+      "id": "kahua-bain-1b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Construction AI",
+      "hed": "Bain Capital Tech Opportunities takes minority stake in Kahua at valuation above $1B",
+      "dek": "PR Newswire / Bain Capital / Kahua (Sep 29): Kahua, an AI enterprise construction platform for complex capital programs, announced a minority growth investment from Bain Capital Tech Opportunities at a valuation above $1 billion. Company cites $100M annualized revenue, 2,500+ customers, and more than $400B in capital programs on the platform. Use of proceeds: AI/product, go-to-market, customer success, talent. Complements bain-edged-15b (same-day Bain data-center bid color). Dollar size of Bain check not in the PR; do not invent. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "PR Newswire (Kahua); Bain Capital; Kahua Newsroom",
+      "url": "https://www.prnewswire.com/news-releases/kahua-secures-strategic-growth-investment-from-bain-capital-at-a-valuation-above-1-billion-302892470.html",
+      "also": [
+        {
+          "label": "Bain Capital - Kahua minority growth investment / >$1B valuation (Sep 29)",
+          "url": "https://www.baincapital.com/news/kahua-secures-strategic-growth-investment-bain-capital-valuation-above-1-billion"
+        },
+        {
+          "label": "Kahua Newsroom - same announcement",
+          "url": "https://kahua.com/news/kahua-secures-strategic-growth-investment-from-bain-capital-at-a-valuation-above-1-billion/"
+        },
+        {
+          "label": "Prior plate - bain-edged-15b (Bain among bidders for Koch Edged)",
+          "url": "https://www.privateequitywire.co.uk/bain-capital-weighs-15bn-plus-edged-deal-in-us-data-centre-push/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 206 Afternoon; Sep 29 PR missed through Afternoon No. 205 while FTC probe and same-day Flow/Clio prioritized). PRIMARY PR Newswire Sep 29: Bain Capital Tech Opportunities minority growth investment; valuation above $1B; Kahua $100M annualized revenue claim; 2,500+ customers; $400B+ capital programs on platform. PAIR Bain Capital newsroom and Kahua site. Do NOT invent Bain check size or close timing (PR silent on dollars invested). Distinct from bain-edged-15b (unsolicited data-center process color). Owner Quill.",
+      "grafs": [
+        "Kahua, an Alpharetta, Ga., AI enterprise construction platform for complex capital programs, on Monday, Sept. 29, 2026, announced a minority growth investment from Bain Capital Tech Opportunities at a valuation above $1 billion, according to a PR Newswire release also posted on Bain Capital's and Kahua's sites.",
+        "Kahua said it has reached $100 million in annualized revenue, serves more than 2,500 customers, and supports more than $400 billion in capital programs on its platform. The company said proceeds will fund AI and product innovation, go-to-market, customer success, and talent. Philip Meicler, Partner at Bain Capital Tech Opportunities, is quoted in the release on Kahua as a system of record across the asset lifecycle.",
+        "The PR does not disclose the dollar size of Bain's check or a close date. The plate already carries bain-edged-15b (Bain among PE bidders for Koch's Edged US data-center platform). This is NOT MAJOR: minority growth stake in vertical construction software, below the franchise bar set by DevDay and the FTC probe."
       ]
     },
     {
