@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 209,
+  "number": 210,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash close levels; ES/NQ/YM refresh ~5:52 PM ET; CL/TNX/TYX/VIX/SoftBank Tokyo Wed settle)",
-    "updated": "Sep 30 ~5:52 PM ET Afternoon No. 209. Cash session still closed at No. 208 prints; futures nudged (ES/NQ up a touch, YM slightly softer). SoftBank Tokyo Wed settle unchanged at 6,430.",
-    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,721.50 (−0.14%) · NQ 30,725.75 (+0.37%) · YM 51,295 (−0.79%) · WTI $90.34 (+1.07%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash close levels unchanged; ES/NQ/YM/CL refresh ~6:51 PM ET; TNX/TYX/VIX/SoftBank Tokyo Wed settle)",
+    "updated": "Sep 30 ~6:51 PM ET Evening No. 210. Cash session still at No. 208/209 close prints; ES/NQ/YM firmer vs No. 209 futures; WTI softer. SoftBank Tokyo Wed settle unchanged at 6,430.",
+    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,735.25 (+0.26%) · NQ 30,789.50 (+0.30%) · YM 51,371 (+0.18%) · WTI $90.09 (−0.36%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Harrison Street/Vicinity $2.92B and Reuters AI junk-credit $88B (neither MAJOR). DevDay lead unchanged. Futures tape nudge.",
+    "hed": "ADD SEC private-market retailization package (NOT MAJOR). DevDay lead unchanged. Futures/WTI tape refresh.",
     "signed": "Scout",
-    "body": "Afternoon No. 209 after Afternoon No. 208. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: harrison-vicinity-292 (GlobeNewswire ~6:08 am ET; Harrison Street majority in Vicinity Energy from Antin at $2.92B TEV; Kenon JV; close targeted 1H 2027). New Quill NOT MAJOR: ai-hy-credit-88b (Reuters Sep 30 analysis via ET/CNBC-TV18/CNA; Goldman $88B AI low-rated YTD; BNP $40B AI infra HY; Zenith Arc color; pairs softbank-notes-ipg / pgim-clo-ai-15). Declined: EQT/Acuon (sale to Hanwha Life/Centroid; price undisclosed), Bertram/GTCR Tactacam (terms undisclosed), H.I.G./Arco (terms undisclosed), KKR CTK/CTT to Bain/Integral (size not disclosed; Chosun estimates only), Apollo/NSG completion (Sep 29 industrial glass), Micron AH reaction wires (already have micron-fy26-q4; AH % conflicting). Tape: Wed cash close unchanged vs No. 208; ES/NQ/YM refreshed ~5:52 pm ET. X MCP search_news still client-not-enrolled."
+    "body": "Evening No. 210 after Afternoon No. 209. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: sec-private-retail (SEC.gov PR 2026-96 Sept. 30; performance fees for advisers to regulated funds, interval-fund modernization, closed-end multi-share-class rules; comment on FINRA accredited exam plus CPA/CFA/CFP/Series 79/86-87 paths; Atkins ties to Trump alts/401(k) EO; Reuters MFA vs Better Markets). Complements ives-ivai-200m. Declined re-adds: Dan Ives IVAI (already ives-ivai-200m), FTC OpenAI/Anthropic probe (already ftc-openai-anthropic-probe), OpenAI $30B/$1.4T (already openai-funding-14t), Anthropic IPO prospectus wires (already anthropic-ipo-prospectus), AI junk-credit $88B and Harrison/Vicinity (No. 209). L40 SaaS multiples press wire skipped (thin primary; mid-market comps already covered thematically). Tape: Wed cash close unchanged; ES/NQ/YM/CL refreshed ~6:51 pm ET. X MCP search_news still client-not-enrolled; used WebSearch/WebFetch."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 209 Afternoon after No. 208 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron AH/call replay; Bret Taylor at CNBC AI Forum Dallas Oct 1; SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 210 Evening after No. 209 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: IVAI offering close Oct 1; SoftBank notes / OpenAI tranche Oct 1; Bret Taylor at CNBC AI Forum Dallas Oct 1; Micron AH/call replay; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -58,6 +58,39 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "sec-private-retail",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / SEC",
+      "hed": "SEC proposes private-market retailization: performance fees, interval funds, wider accredited paths",
+      "dek": "SEC press release 2026-96 (Sept. 30): Commission voted to propose amendments expanding retail access to private markets (PE, private credit, real estate, VC strategies via regulated funds) while seeking comment on new accredited-investor paths. Proposals: broaden registered-adviser performance-based compensation from certain clients including regulated funds; amend forms for performance-fee disclosure; modernize interval-fund repurchase scheduling; replace closed-end multi-share-class exemptive orders with rules. Separate comment requests: FINRA-developed accredited-investor exam; professional credentials (CPA, CFA, CFP, Series 79, Series 86/87). Chair Atkins ties effort to Trump EO on democratizing alts for 401(k) investors. 60-day Federal Register comment. Reuters: MFA welcomed; Better Markets warned retail left to fend for themselves. Complements ives-ivai-200m. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "U.S. Securities and Exchange Commission (PR 2026-96); Reuters",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+      "also": [
+        {
+          "label": "Reuters - SEC retail private-assets proposals (Sep 30)",
+          "url": "https://www.reuters.com/legal/government/wall-st-regulator-unveil-new-retail-investor-proposals-private-assets-2026-09-30/"
+        },
+        {
+          "label": "SEC - Atkins open-meeting statement (Sep 30)",
+          "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-open-meeting-093026"
+        },
+        {
+          "label": "Prior plate - ives-ivai-200m (retail private AI CEF)",
+          "url": "https://www.prnewswire.com/news-releases/ives-ultra-ai-opportunities-inc-nyse-ivai-announces-pricing-of-200-million-initial-public-offering-302893842.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 210 Evening after No. 209 Afternoon). PRIMARY SEC.gov PR 2026-96 Sept. 30 on responsible retailization of private markets plus accredited-investor comment requests. SECONDARY Reuters Gillison/McGee. Pair with ives-ivai-200m (retail private AI access vehicle). Route Quill for PE/alts access framing. Do not treat as MAJOR lead (rule proposals, comment period; DevDay lead stands).",
+      "grafs": [
+        "The U.S. Securities and Exchange Commission on Wednesday, Sept. 30, 2026, voted to propose rule amendments aimed at expanding retail investor access to private-market strategies through regulated fund structures, according to SEC press release 2026-96.",
+        "The proposals would broaden when registered investment advisers may take performance-based compensation from certain clients, including regulated funds; require related disclosure on registration and reporting forms; modernize the interval-fund repurchase calendar so buybacks can better match portfolio liquidity; and replace case-by-case exemptive orders with a rules framework for closed-end funds to issue multiple share classes.",
+        "Separately, the Commission sought public comment on new ways to qualify as an accredited investor, including a FINRA-developed exam and professional credentials such as CPA, CFA, CFP, the Series 79 investment-banking license, and the Series 86/87 research-analyst licenses. Comment periods run 60 days after Federal Register publication.",
+        "Chairman Paul S. Atkins framed the package as expanding post-tax, pre-retirement access to private markets while protecting investors from bad actors, and said it complements a Trump executive order on democratizing alternative assets for 401(k) investors. Reuters reported Managed Funds Association support and a Better Markets warning that retail savers could face higher risk with fewer protections."
       ]
     },
     {
