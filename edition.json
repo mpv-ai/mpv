@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 199,
+  "number": 200,
   "city": "New York",
-  "date": "Tuesday, September 29, 2026",
-  "editionLabel": "Close",
+  "date": "Wednesday, September 30, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue cash close; ES/NQ/YM/CL ~7:47 PM ET; SoftBank Tokyo settle)",
-    "updated": "Sep 29 cash unchanged vs Evening No. 198; ES/NQ/YM/CL refreshed ~7:47 PM ET Close No. 199. SoftBank Tokyo settle unchanged.",
-    "line": "CLOSE Tue · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,748.25 (+0.21%) · NQ 30,699.50 (+0.28%) · YM 51,822 (+0.23%) · WTI $89.19 (−0.21%) · 10-y 5.255% · 30-y 5.594% · VIX 16.04 · SoftBank 6,035 (−3.27%)"
+    "source": "Yahoo Finance chart API (Tue cash close unchanged; ES/NQ/YM/CL/TNX/TYX/VIX ~8:52 AM ET; SoftBank Tokyo Wed settle)",
+    "updated": "Sep 30 ~8:52 AM ET Morning No. 200. Cash indexes unchanged vs Close No. 199; futures/yields/VIX/SoftBank refreshed premarket.",
+    "line": "PREMARKET Wed · S&P 7,670.84 (−0.17%) · Dow 51,349.92 (−0.26%) · Nasdaq 26,797.54 (−0.09%) · NVDA $227.21 (−0.72%) · AMD $607.57 (−0.05%) · ES 7,760.25 (+0.37%) · NQ 30,716.00 (+0.34%) · YM 51,862 (+0.31%) · WTI $90.60 (+1.36%) · 10-y 5.230% · 30-y 5.577% · VIX 15.83 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Bloomberg OpenAI ~$30B at ~$1.4T pre-money (via CNA/QZ/TC). MAJOR lead unchanged (DevDay keynote). Tape: cash flat vs Evening; ES/NQ/YM firmer; WTI softer AH.",
+    "hed": "ADD White House SI frontier accord (MAJOR) + Bain/Koch Edged >$15B bid process (MAJOR). DevDay lead unchanged. EliseAI already on plate.",
     "signed": "Scout",
-    "body": "Close No. 199 refreshes after Evening No. 198. Keep openai-devday-keynote as MAJOR lead. New Quill add: Bloomberg (via CNA/QZ/TechCrunch) says OpenAI seeks at least $30B at about $1.4T valuation not including money raised; early talks; investor demand; bridge in place of IPO. Distinct from openai-funding-30b (CNBC amount-only, no valuation). Cash indexes unchanged vs No. 198; ES/NQ/YM and WTI refreshed off Yahoo ~7:47 PM ET. SoftBank notes still watch for Sep 29 expected issue / OpenAI tranche Oct 1 (no separate settle confirmation beyond expected issue date). X MCP search_news unavailable (client-not-enrolled)."
+    "body": "Morning No. 200 after Close No. 199. Keep openai-devday-keynote as MAJOR lead. New Quill MAJORs: (1) white-house-si-accord, Washington Examiner full text of voluntary Joint Commitment on Frontier Responsibilities (four control/audit layers; Trump says morally binding per CNBC); (2) bain-edged-15b, Bloomberg via PE Wire/DCD that Bain is among bidders for Koch Edged US data centers, could top $15B, no deal signed. Skip eliseai re-add (already eliseai-350-4b on plate). Tape: Tue cash unchanged; ES/NQ/YM firmer overnight; WTI firmer; SoftBank Tokyo +6.55% vs Tue. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 199 Close after No. 198 Evening (last weekday hourly). MAJOR lead unchanged openai-devday-keynote. Watch: SoftBank notes expected issue Sep 29 / OpenAI tranche Oct 1; Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 200 Morning after No. 199 Close. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings Sep 30; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); SoftBank notes / OpenAI tranche Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,80 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "white-house-si-accord",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Washington",
+      "hed": "Six frontier labs sign White House Joint Commitment on Frontier Responsibilities; Trump calls it morally binding",
+      "dek": "Washington Examiner full text Sep 29 ~6:44 pm ET: White House Accord on Super Intelligence / Joint Commitment on Frontier Responsibilities signed by Amodei (Anthropic), Brockman (OpenAI), Pichai (Google), Zuckerberg (Meta), Musk (xAI), Huang (Nvidia). Four voluntary layers: robust internal controls (cyber/bio/chem + unintended system access), internal oversight team, independent external auditor/evaluator, independent board committee. Companies to meet regularly on standards; text says it may later make sense to codify into law. CNBC Sep 30: Trump told reporters the rules are 'morally binding.' Distinct from white-house-ai-lunch / wh-ai-lunch-aftermath (meeting color). MAJOR. Owner Quill.",
+      "date": "Sept. 29-30, 2026",
+      "source": "Washington Examiner (full text); CNBC (Ari Levy)",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4747747/full-trump-white-house-accord-ai-super-intelligence/",
+      "also": [
+        {
+          "label": "CNBC - Trump lunch aftermath; morally binding (Sep 30 ~7:00 am ET)",
+          "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html"
+        },
+        {
+          "label": "Al Jazeera - voluntary pact / six signatories (Sep 29)",
+          "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development"
+        },
+        {
+          "label": "Prior plate - white-house-ai-lunch (pre-meeting)",
+          "url": "https://www.cbsnews.com/news/trump-johnson-ai-executives-meeting-anthropic-openai/"
+        },
+        {
+          "label": "Prior plate - wh-ai-lunch-aftermath (post-lunch color)",
+          "url": "https://www.cnbc.com/2026/09/29/trump-ai-tech-lunch.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as MAJOR (No. 200 Morning; radar-briefed ~8:00-8:06 am ET). PRIMARY Washington Examiner Sep 29 ~6:44 pm ET full text of White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities. Signatories: Amodei, Brockman, Pichai, Zuckerberg, Musk, Huang. Four layers as in text. PAIR CNBC Sep 30 Levy: Trump says morally binding; self-regulation framing. Do NOT invent enforcement, auditor identity, or statutory effect. Keep openai-devday-keynote as MAJOR lead. Distinct from lunch preview/aftermath plates. Owner Quill.",
+      "grafs": [
+        "President Trump on Tuesday, Sept. 29, 2026, released a voluntary White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities after a White House meeting with AI executives, the Washington Examiner published in full at about 6:44 p.m. ET.",
+        "Signatories named by the Examiner are Anthropic CEO Dario Amodei, OpenAI president Greg Brockman, Google CEO Sundar Pichai, Meta CEO Mark Zuckerberg, xAI's Elon Musk, and Nvidia CEO Jensen Huang.",
+        "The text commits each company training and deploying frontier models to four layers: robust internal controls on capabilities and alignment during training and deployment (including cybersecurity, biosecurity, chemical threats, and unintended system access); an internal team to ensure controls and monitoring work and issues are remediated; an independent external auditor or evaluator; and an independent board committee to oversee reports and remediation. Participating companies also say they will meet regularly on standards and best practices.",
+        "The accord states that over time it may make sense to codify the steps into laws or regulations. CNBC's Ari Levy reported Wednesday morning that when asked if the rules are binding, Trump said they are 'morally binding.' This plate item covers the signed accord text; prior white-house-ai-lunch and wh-ai-lunch-aftermath cover meeting logistics and post-lunch color. MAJOR for Quill; DevDay remains the lead."
+      ]
+    },
+    {
+      "id": "bain-edged-15b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Data centers",
+      "hed": "Bloomberg: Bain Capital among bidders for Koch Edged US data-center platform; deal could top $15B",
+      "dek": "Private Equity Wire Sep 30 (~9:38 am UK) citing Bloomberg: Bain Capital is among PE firms bidding for Edged, Koch's US data-center developer/operator, in a deal that could value the business at more than $15B. Koch Real Estate Investments running process with Goldman Sachs and Newmark advising; founded by Koch and Jakob Carnemark; no transaction agreed, talks could end without a deal. PE Wire: seven US sites including 169 MW Atlanta campus, more under development. CryptoBriefing (Bloomberg lineage): waterless cooling, PUE ~1.15, >388 MW operational across Atlanta/Chicago/Dallas/Kansas City/Phoenix. DCD corroborates Bain talks / ~$15B process. MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "Bloomberg (via Private Equity Wire; Data Center Dynamics; CryptoBriefing)",
+      "url": "https://www.privateequitywire.co.uk/bain-capital-weighs-15bn-plus-edged-deal-in-us-data-centre-push/",
+      "also": [
+        {
+          "label": "DCD - Bain interested in Edged US (Sep 30)",
+          "url": "https://www.datacenterdynamics.com/en/news/bain-interested-in-buying-edged-us-report/"
+        },
+        {
+          "label": "CryptoBriefing - >388 MW, PUE ~1.15, waterless (Sep 29-30)",
+          "url": "https://cryptobriefing.com/bain-capital-koch-edged-data-center-acquisition/"
+        },
+        {
+          "label": "GuruFocus - Bain pursues Edged / AI infra context (Sep 30)",
+          "url": "https://www.gurufocus.com/news/9102523/bain-capital-pursues-edged-acquisition-amid-ai-infrastructure-boom"
+        },
+        {
+          "label": "Prior plate - aia-data-centers (data-center capital/policy context)",
+          "url": "https://www.prnewswire.com/news-releases/american-infrastructure-alliance-launches-first-nationwide-partnership-between-labor--business-to-advance-responsible-data-center-infrastructure-growth-302892027.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as MAJOR (No. 200 Morning; radar-briefed ~8:00-8:06 am ET). PRIMARY PE Wire Sep 30 citing Bloomberg: Bain among bidders; could value Edged >$15B; Koch REI + Goldman/Newmark; Carnemark co-founder; no deal agreed. PAIR DCD (Bain talks / ~$15B) and CryptoBriefing for capacity/PUE/waterless color. Do NOT invent bid levels, exclusivity, close timing, or signed SPA. Keep openai-devday-keynote as MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Private Equity Wire reported Wednesday, Sept. 30, 2026, citing Bloomberg, that Bain Capital is among private equity firms bidding for Edged, the US data-center developer and operator owned by Koch, in a transaction that could value the business at more than $15 billion.",
+        "Koch Real Estate Investments is running the sale with Goldman Sachs and Newmark advising, PE Wire said. Edged was founded by Koch and entrepreneur Jakob Carnemark. No transaction has been agreed, and discussions could still end without a deal, people familiar with the matter told Bloomberg, per PE Wire.",
+        "PE Wire said Edged operates seven data centers in the US, including a 169-megawatt campus in Atlanta, with additional facilities under development. CryptoBriefing, also citing the Bloomberg-line reporting, said operational capacity across Atlanta, Chicago, Dallas, Kansas City, and Phoenix exceeds 388 megawatts, with a waterless cooling pitch and power usage effectiveness around 1.15.",
+        "Data Center Dynamics separately reported Bain's interest and the roughly $15 billion process, noting Bain's existing DC Blox (US) and Hscale (EMEA) data-center holdings. Process color only; not a signed deal. MAJOR for Quill; DevDay remains the lead."
       ]
     },
     {
