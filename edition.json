@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 208,
+  "number": 209,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash close ~5:00 PM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle)",
-    "updated": "Sep 30 ~5:00 PM ET Afternoon No. 208. Cash session closed: Dow deeper red, S&P modestly red, Nasdaq green vs Tue; NVDA/AMD still green; SoftBank Tokyo Wed settle unchanged at 6,430.",
-    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,719.50 (−0.16%) · NQ 30,715.75 (+0.33%) · YM 51,303 (−0.77%) · WTI $90.34 (+1.07%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash close levels; ES/NQ/YM refresh ~5:52 PM ET; CL/TNX/TYX/VIX/SoftBank Tokyo Wed settle)",
+    "updated": "Sep 30 ~5:52 PM ET Afternoon No. 209. Cash session still closed at No. 208 prints; futures nudged (ES/NQ up a touch, YM slightly softer). SoftBank Tokyo Wed settle unchanged at 6,430.",
+    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,721.50 (−0.14%) · NQ 30,725.75 (+0.37%) · YM 51,295 (−0.79%) · WTI $90.34 (+1.07%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD OpenAI/Moonshot distillation and Micron FY26 Q4 (neither MAJOR). DevDay lead unchanged. Tape refreshed to Wed cash close.",
+    "hed": "ADD Harrison Street/Vicinity $2.92B and Reuters AI junk-credit $88B (neither MAJOR). DevDay lead unchanged. Futures tape nudge.",
     "signed": "Scout",
-    "body": "Afternoon No. 208 after Afternoon No. 207. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: openai-moonshot-distill (OpenAI blog Sep 30; Moonshot AI core-cluster attribution on protected-reasoning extraction; TNW/Verge/Bloomberg Law). New Quill NOT MAJOR: micron-fy26-q4 (GlobeNewswire ~4:01 pm ET; $54.23B Q4 / $133.19B FY26; FQ1-27 $61.5B ± $1.5B). Declined: ZoomInfo/DoubleO (terms undisclosed; already declined Nos. 203/206/207), MITTR Mark Chen interview (Hugging Face fallout color; overlaps openai-lasst-suit / ftc / hawley plates), CoVetAI/IDEXX (terms undisclosed), Forvis/PitchBook H1 SaaS survey (macro note, no single deal), L40 SaaS multiples note (same). Tape: Wed cash close vs No. 207 ~3:52 pm intraday. X MCP search_news still client-not-enrolled."
+    "body": "Afternoon No. 209 after Afternoon No. 208. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: harrison-vicinity-292 (GlobeNewswire ~6:08 am ET; Harrison Street majority in Vicinity Energy from Antin at $2.92B TEV; Kenon JV; close targeted 1H 2027). New Quill NOT MAJOR: ai-hy-credit-88b (Reuters Sep 30 analysis via ET/CNBC-TV18/CNA; Goldman $88B AI low-rated YTD; BNP $40B AI infra HY; Zenith Arc color; pairs softbank-notes-ipg / pgim-clo-ai-15). Declined: EQT/Acuon (sale to Hanwha Life/Centroid; price undisclosed), Bertram/GTCR Tactacam (terms undisclosed), H.I.G./Arco (terms undisclosed), KKR CTK/CTT to Bain/Integral (size not disclosed; Chosun estimates only), Apollo/NSG completion (Sep 29 industrial glass), Micron AH reaction wires (already have micron-fy26-q4; AH % conflicting). Tape: Wed cash close unchanged vs No. 208; ES/NQ/YM refreshed ~5:52 pm ET. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 208 Afternoon after No. 207 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron AH reaction / call replay; Bret Taylor at CNBC AI Forum Dallas Oct 1; SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 209 Afternoon after No. 208 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: Micron AH/call replay; Bret Taylor at CNBC AI Forum Dallas Oct 1; SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,66 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "ai-hy-credit-88b",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI credit",
+      "hed": "Reuters: AI junk-credit issuance hits $88B YTD as lenders demand proof of cash flow",
+      "dek": "Reuters analysis (Sep 30; Economic Times / CNBC-TV18 / CNA reprints): Goldman Sachs says AI-related issuance by low-rated firms totaled $88B this year (mostly U.S.), vs about $20B of AI-related leveraged-finance issuance in the first 11 months of 2025 (Neuberger Berman). BNP: AI infrastructure supply in high yield $40B YTD vs $12B for all of 2025. BB+ names ~9% to 10% yields; weaker credits could face 14% to 15%. SoftBank BB+ coupon stack cited (8.625% / 9.25% / 9.75%). Zenith Arc $2.25B five-year notes (Oklahoma DC leased to Jane Street) priced 99.50 at 8.875%, then slid (96.75 early; Pender said >7 points below issue by late August). Complements softbank-notes-ipg and pgim-clo-ai-15. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "Reuters (via Economic Times; CNBC-TV18; CNA)",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-borrowers-face-tough-sell-in-risky-corners-of-us-credit-market/articleshow/134597379.cms",
+      "also": [
+        {
+          "label": "CNBC-TV18 - same Reuters analysis (Sep 30)",
+          "url": "https://www.cnbctv18.com/technology/ai-borrowers-face-tough-sell-in-risky-corners-of-us-credit-market-20002400.htm"
+        },
+        {
+          "label": "CNA - same Reuters analysis (Sep 30)",
+          "url": "https://www.channelnewsasia.com/business/analysisai-borrowers-face-tough-sell-in-risky-corners-us-credit-market-6422016"
+        },
+        {
+          "label": "Prior plate - softbank-notes-ipg (SoftBank OpenAI junk notes)",
+          "url": "https://group.softbank/en/news/press/20260924"
+        },
+        {
+          "label": "Prior plate - pgim-clo-ai-15 (PGIM 15% AI CLO cap)",
+          "url": "https://seekingalpha.com/news/4648254-prudentials-pgim-seeks-ai-limits-in-clos-to-restrict-exposure---report"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 209 Afternoon; Reuters Sep 30 analysis miss through Afternoon No. 208). PRIMARY Reuters via Economic Times / CNBC-TV18 / CNA: Goldman $88B AI low-rated issuance YTD; Neuberger $20B AI lev-fin in first 11 months 2025; BNP $40B AI infra HY YTD vs $12B 2025; BB+ ~9-10% / weaker 14-15%; Zenith Arc $2.25B color. Distinct from softbank-notes-ipg (issuer print) and pgim-clo-ai-15 (CLO collateral cap). Do not invent new prices beyond wire. Owner Quill.",
+      "grafs": [
+        "A Reuters analysis published Wednesday, Sept. 30, 2026 (carried by Economic Times, CNBC-TV18, and CNA) says AI-related issuance by low-rated firms has reached $88 billion this year, citing Goldman Sachs, with most of the borrowing from U.S. issuers, versus about $20 billion of AI-related leveraged-finance issuance in the first 11 months of 2025 per Neuberger Berman data cited in the same piece.",
+        "Lenders are pressing harder on revenue visibility, collateral, and sustainable leverage as Treasury yields rise, the report says. BNP Paribas leveraged-finance head Erin Brown is quoted saying data-center supply is carrying an otherwise flat high-yield market, with AI infrastructure high-yield supply at $40 billion year to date versus $12 billion for all of 2025. Analysts cited in the piece put near-IG BB+ AI-linked yields around 9% to 10%, with weaker credits potentially facing 14% to 15%. SoftBank Group's recent BB+ notes (8.625%, 9.25%, and 9.75% coupons) are used as an example already on the plate via softbank-notes-ipg.",
+        "The wire also flags Zenith Arc's $2.25 billion five-year senior secured notes sold in August for an Oklahoma data center leased to Jane Street, priced at 99.50 with an 8.875% coupon, then weaker in the aftermarket (about 96.75 soon after; Pender Fund Management later said the bonds were more than seven points below issue). This is NOT MAJOR: market-structure color that extends softbank-notes-ipg and pgim-clo-ai-15 rather than a new franchise lead."
+      ]
+    },
+    {
+      "id": "harrison-vicinity-292",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Infrastructure",
+      "hed": "Harrison Street to take majority of Vicinity Energy at $2.92B EV from Antin",
+      "dek": "GlobeNewswire / Harrison Street Asset Management (Sep 30 ~6:08 am ET): agreed to acquire a majority equity position in Vicinity Energy, the largest U.S. district energy provider, from Antin Infrastructure Partners at a $2.92 billion total enterprise value. Boston-based Vicinity serves 12 cities (including Boston and Philadelphia), 700+ customers, ~1,000 buildings, ~250M sq ft via 140+ miles of underground piping. Deal via JV with Kenon Holdings; customary regulatory approvals; expected close 1H 2027. NBC Capital Markets advised Harrison Street/Kenon; Sidley Austin counsel. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "GlobeNewswire (Harrison Street Asset Management)",
+      "url": "https://www.globenewswire.com/news-release/2026/09/30/3371678/0/en/harrison-street-asset-management-to-acquire-majority-stake-in-vicinity-energy-largest-u-s-provider-of-district-energy-solutions.html",
+      "also": [
+        {
+          "label": "Harrison Street - firm site",
+          "url": "https://www.harrisonst.com/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 209 Afternoon; morning GlobeNewswire ~6:08 am ET miss through Afternoon No. 208 while Moonshot/Micron prioritized). PRIMARY GlobeNewswire Sep 30: Harrison Street majority equity in Vicinity from Antin at $2.92B TEV; JV with Kenon; close targeted 1H 2027 subject to regulatory approvals. District energy / essential infra PE print with disclosed EV. Distinct from bain-edged-15b (data-center process color). Owner Quill.",
+      "grafs": [
+        "Harrison Street Asset Management on Wednesday, Sept. 30, 2026, said it agreed to acquire a majority equity position in Vicinity Energy from Antin Infrastructure Partners in a transaction that values Vicinity at a $2.92 billion total enterprise value, according to a GlobeNewswire release timed about 6:08 a.m. ET.",
+        "Vicinity, headquartered in Boston, is described as the largest U.S. district energy provider, supplying steam, hot water, and chilled water across 12 major cities including Boston and Philadelphia. The release says the platform serves more than 700 customers across about 1,000 buildings and roughly 250 million square feet through more than 140 miles of underground piping, with in-house commercial, operating, engineering, and asset management capabilities.",
+        "Harrison Street plans to complete the acquisition through a joint venture with Kenon Holdings. The deal remains subject to customary regulatory approvals and is expected to close in the first half of 2027. National Bank of Canada Capital Markets advised Harrison Street and Kenon; Sidley Austin LLP served as legal counsel. This is NOT MAJOR: disclosed PE infra print below the DevDay / FTC franchise bar."
       ]
     },
     {
