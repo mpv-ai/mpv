@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 201,
+  "number": 202,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
-  "editionLabel": "Midmorning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash open ~9:56 AM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
-    "updated": "Sep 30 ~9:56 AM ET Midmorning No. 201. Cash open after cool PCE; futures/yields/VIX refreshed; SoftBank Tokyo settle unchanged vs Morning.",
-    "line": "OPEN Wed · S&P 7,702.97 (+0.42%) · Dow 51,385.52 (+0.07%) · Nasdaq 26,985.66 (+0.70%) · NVDA $230.58 (+1.48%) · AMD $603.22 (−0.72%) · ES 7,749.00 (+0.22%) · NQ 30,724.00 (+0.36%) · YM 51,646 (−0.11%) · WTI $91.10 (+1.92%) · 10-y 5.243% · 30-y 5.606% · VIX 15.76 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash session ~10:53 AM ET; ES/NQ/YM/CL/TNX/TYX/VIX; SoftBank Tokyo Wed settle unchanged)",
+    "updated": "Sep 30 ~10:53 AM ET Midday No. 202. Cash firmer into late morning after cool PCE; futures/yields/VIX refreshed; SoftBank Tokyo settle unchanged vs Midmorning.",
+    "line": "OPEN Wed · S&P 7,718.61 (+0.62%) · Dow 51,431.95 (+0.16%) · Nasdaq 27,067.75 (+1.01%) · NVDA $230.70 (+1.53%) · AMD $603.76 (−0.63%) · ES 7,768.00 (+0.47%) · NQ 30,802.25 (+0.62%) · YM 51,708 (+0.01%) · WTI $91.27 (+2.11%) · 10-y 5.272% · 30-y 5.626% · VIX 15.93 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD Ives IVAI $200M private-AI CEF + cool August PCE. DevDay lead unchanged. Tape to cash open.",
+    "hed": "ADD CScale $145M optical Series C (NVIDIA/Intel Capital). DevDay lead unchanged. Tape refreshed late morning.",
     "signed": "Scout",
-    "body": "Midmorning No. 201 after Morning No. 200. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): (1) ives-ivai-200m, PR Newswire/CNBC pricing of $200M IVAI CEF for private late-stage AI, NYSE debut; (2) pce-august-cool, CNBC on BEA August PCE core 3.0%/headline 3.4% below consensus. Skip BAG Ventures $11.3M (too small). Skip Anthropic/Burry rehash (already on plate). Tape: cash open firmer after cool PCE; NVDA green; AMD soft; WTI firmer; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
+    "body": "Midday No. 202 after Midmorning No. 201. Keep openai-devday-keynote as MAJOR lead. New Quill (not MAJOR): cscale-145-series-c, company press/BW via Yahoo on $145M Series C for AI optical interconnect, NVIDIA and Intel Capital as first strategics, total funding $188M (BW ~9:00 am ET Midmorning miss). Skip Ascerta $18M / Relay $36M (too small vs BAG skip rule). Tape: cash firmer (S&P/Nasdaq up vs Midmorning prints); yields up a touch; SoftBank Tokyo settle unchanged. X MCP search_news still client-not-enrolled."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 201 Midmorning after No. 200 Morning. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 202 Midday after No. 201 Midmorning. MAJOR lead unchanged openai-devday-keynote. Watch: Micron earnings after bell; Bret Taylor at CNBC AI Forum (Wed ~3 pm ET per CNBC live / event page Oct 1 Dallas listing also in circulation); SoftBank notes / OpenAI tranche Oct 1; IVAI offering close Oct 1; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -58,6 +58,38 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "cscale-145-series-c",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Optical interconnect",
+      "hed": "CScale exits stealth with $145M Series C for gigawatt-scale AI optical interconnect; NVIDIA and Intel Capital join",
+      "dek": "Company press / Business Wire via Yahoo (Sep 30 ~9:00 am ET): CScale (Palo Alto) announces $145M Series C co-led by Atreides Management, Valor Equity Partners, and Premji Invest; Sutter Hill and Maverick Silicon continue; NVIDIA and Intel Capital are first strategic investors; total funding $188M. Building integrated light engine / optical interconnect for AI scale-up meant to contain optical failures without interrupting compute. CEO Martin Lund (ex-Cisco Common Hardware / Broadcom switching); founder-CTO Sanjai Kohli. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "CScale (press); Business Wire via Yahoo Finance; Tech Funding News",
+      "url": "https://www.cscale.ai/press/cscale-exits-stealth",
+      "also": [
+        {
+          "label": "Yahoo Finance — Business Wire wire (Sep 30 ~9:00 am ET)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/cscale-exits-stealth-145-million-130000976.html"
+        },
+        {
+          "label": "Tech Funding News — CScale $145M stealth exit (Sep 30)",
+          "url": "https://techfundingnews.com/optical-ai-chip-startup-cscale-emerges-from-stealth-with-145m-funding/"
+        },
+        {
+          "label": "Data Center Dynamics — NVIDIA/Intel Capital color (Sep 30)",
+          "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 202 Midday; Midmorning No. 201 miss / BW ~9:00 am ET pre-cutoff). PRIMARY CScale press Sep 30: $145M Series C, total $188M; co-leads Atreides/Valor/Premji; NVIDIA + Intel Capital first strategics. PAIR Yahoo BW wire and TFN/DCD for corroboration. Do NOT invent valuation, revenue, or ship dates (commercialization timeline not in primary release). Distinct from simaai-150-series-c / ayar-e-ext optical peers. Owner Quill.",
+      "grafs": [
+        "CScale, a Palo Alto optical-interconnect startup, on Wednesday, Sept. 30, 2026, exited stealth and announced $145 million in Series C funding to accelerate development and commercialization of optical interconnect for AI scale-up, according to the company press page and a Business Wire release carried on Yahoo Finance.",
+        "The round was co-led by Atreides Management, Valor Equity Partners, and Premji Invest, with continued support from Sutter Hill Ventures and existing investor Maverick Silicon. NVIDIA and Intel Capital joined as CScale's first strategic investors. The company said the round brings total funding to $188 million.",
+        "CScale said it is building an integrated light engine for high-bandwidth, ultra-low-latency optical links that let accelerators work together across racks, with an architecture meant to contain optical failures without interrupting compute. CEO Martin Lund previously led Cisco's Common Hardware Group and built Broadcom's switching business; founder and CTO Sanjai Kohli co-founded SiRF and later founded Inovi (acquired by Facebook). NOT MAJOR for Quill; DevDay remains the plate lead."
       ]
     },
     {
