@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 210,
+  "number": 211,
   "city": "New York",
   "date": "Wednesday, September 30, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash close levels unchanged; ES/NQ/YM/CL refresh ~6:51 PM ET; TNX/TYX/VIX/SoftBank Tokyo Wed settle)",
-    "updated": "Sep 30 ~6:51 PM ET Evening No. 210. Cash session still at No. 208/209 close prints; ES/NQ/YM firmer vs No. 209 futures; WTI softer. SoftBank Tokyo Wed settle unchanged at 6,430.",
-    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,735.25 (+0.26%) · NQ 30,789.50 (+0.30%) · YM 51,371 (+0.18%) · WTI $90.09 (−0.36%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (Wed cash close levels unchanged; ES/NQ/YM/CL refresh ~7:49 PM ET; TNX/TYX/VIX/SoftBank Tokyo Wed settle)",
+    "updated": "Sep 30 ~7:49 PM ET Late Evening No. 211. Cash session still at No. 208/209/210 close prints; ES/NQ/YM firmer vs No. 210 futures; WTI softer. SoftBank Tokyo Wed settle unchanged at 6,430.",
+    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,743.00 (+0.36%) · NQ 30,822.00 (+0.40%) · YM 51,427 (+0.29%) · WTI $90.02 (−0.44%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD SEC private-market retailization package (NOT MAJOR). DevDay lead unchanged. Futures/WTI tape refresh.",
+    "hed": "ADD KKR AI compute/credit concentration note (NOT MAJOR). DevDay lead unchanged. Futures/WTI tape refresh.",
     "signed": "Scout",
-    "body": "Evening No. 210 after Afternoon No. 209. Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: sec-private-retail (SEC.gov PR 2026-96 Sept. 30; performance fees for advisers to regulated funds, interval-fund modernization, closed-end multi-share-class rules; comment on FINRA accredited exam plus CPA/CFA/CFP/Series 79/86-87 paths; Atkins ties to Trump alts/401(k) EO; Reuters MFA vs Better Markets). Complements ives-ivai-200m. Declined re-adds: Dan Ives IVAI (already ives-ivai-200m), FTC OpenAI/Anthropic probe (already ftc-openai-anthropic-probe), OpenAI $30B/$1.4T (already openai-funding-14t), Anthropic IPO prospectus wires (already anthropic-ipo-prospectus), AI junk-credit $88B and Harrison/Vicinity (No. 209). L40 SaaS multiples press wire skipped (thin primary; mid-market comps already covered thematically). Tape: Wed cash close unchanged; ES/NQ/YM/CL refreshed ~6:51 pm ET. X MCP search_news still client-not-enrolled; used WebSearch/WebFetch."
+    "body": "Late Evening No. 211 after Evening No. 210 (last weekday hourly slot). Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: kkr-ai-compute (KKR Credit & Markets “Let There Be Compute!” Sheldon/Reback Sept. 2026; ~$7.6-8T AI infra capex through 2030; ~$600B / 6.3% AI-linked IG debt vs 2.6% historical peak; ~$1.7T public IG capacity leaves ~$6.3T gap; path toward ~20% IG index). Complements ai-hy-credit-88b and pgim-clo-ai-15. Declined re-adds: Dan Ives IVAI (already ives-ivai-200m), SEC private-market retailization (already sec-private-retail), AI junk-credit $88B (already ai-hy-credit-88b), L40 SaaS multiples press wire (thin primary), ZoomInfo/DoubleO and Yext/Flamel (no clean primary fetch this hour). Tape: Wed cash close unchanged; ES/NQ/YM/CL refreshed ~7:49 pm ET. X MCP search_news still client-not-enrolled; used WebSearch/WebFetch/KKR PDF."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 210 Evening after No. 209 Afternoon. MAJOR lead unchanged openai-devday-keynote. Watch: IVAI offering close Oct 1; SoftBank notes / OpenAI tranche Oct 1; Bret Taylor at CNBC AI Forum Dallas Oct 1; Micron AH/call replay; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 211 Late Evening closes the Wed hourly window after No. 210 Evening. MAJOR lead unchanged openai-devday-keynote. Watch: IVAI offering close Oct 1; SoftBank notes / OpenAI tranche Oct 1; Bret Taylor at CNBC AI Forum Dallas Oct 1; Micron AH/call replay; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -58,6 +58,38 @@
         "At DevDay 2026 in San Francisco on Tuesday, Sept. 29, OpenAI published a recap saying the event includes more than 20 major announcements across ChatGPT, Codex, models, and new ways of working with AI. CEO Sam Altman delivered the opening keynote at 10 a.m. PT, after teasing the slate on CNBC earlier in the day.",
         "OpenAI introduced Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, learning from feedback, and plugins connecting to more than 4,000 apps via ChatGPT, Slack, and Teams. The company said it is beginning to roll out Dots on Pro and Business Premium in eligible markets, with Enterprise, Edu, and Healthcare users able to try a beta when a workspace admin enables it (off by default). It also unveiled GPT-6.1 Sol, describing near-Astra intelligence on agentic coding, computer use, and professional work at one-fifth of Astra's standard input and output token prices, with cached input at $0.10 per million tokens and API prices of $2 / $0.10 / $10 per million input / cached input / output tokens; availability covers the API plus ChatGPT Work and Codex for Plus through Edu plans, but not yet Chat.",
         "Other headline launches in the recap include Ultrafast (up to 8× faster token generation in Codex and up to 6× in the API; GPT-6 Astra Ultrafast available today in the API and in ChatGPT Work/Codex on Pro 500 and Enterprise), a new Pro 500 plan with the highest usage allowance (25× ChatGPT Plus) plus Ultrafast access, and OpenAI Private Intelligence (Zero Data Retention with Private Safety Processing; Private Inference preview coming this fall). OpenAI also launched ChatGPT Space and Pages for team and agent collaboration, plus Codex cloud/CLI and security tools, Agents API computer use, and Amazon Bedrock Managed Agents powered by OpenAI. This is the MAJOR lead for Vol. 1 No. 193 Afternoon, ahead of the prior openai-training-pause-2 plate."
+      ]
+    },
+    {
+      "id": "kkr-ai-compute",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / PE credit",
+      "hed": "KKR Credit: AI capex ~$7.6-8T through 2030; AI-linked IG debt ~$600B (6.3%) vs 2.6% historical peak",
+      "dek": "KKR Credit & Markets note “Let There Be Compute!” (Christopher A. Sheldon, Tal Reback; September 2026) frames AI infrastructure as an unusually concentrated investment cycle. Capex projections ~$7.6-8T through 2030; traditional U.S. public IG capacity for largest hyperscalers before ~3% single-name max weight ~$1.7T, leaving a ~$6.3T gap. AI-linked debt outstanding ~$600B, or 6.3% of the U.S. IG market, vs 29-year average peak single-name IG exposure of 2.6%. AI-linked exposure could ultimately approach 20% of the IG index. Complements ai-hy-credit-88b and pgim-clo-ai-15. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "KKR Credit & Markets (Let There Be Compute!)",
+      "url": "https://www.kkr.com/insights/let-there-be-compute",
+      "also": [
+        {
+          "label": "KKR PDF - Let There Be Compute! (Sept 2026)",
+          "url": "https://www.kkr.com/content/dam/kkr/insights/pdf/let-there-be-compute.pdf"
+        },
+        {
+          "label": "Prior plate - ai-hy-credit-88b (Reuters AI junk $88B)",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-borrowers-face-tough-sell-in-risky-corners-of-us-credit-market/articleshow/134597379.cms"
+        },
+        {
+          "label": "Prior plate - pgim-clo-ai-15",
+          "url": "https://seekingalpha.com/news/4648254-prudentials-pgim-seeks-ai-limits-in-clos-to-restrict-exposure---report"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 211 Late Evening after No. 210 Evening). PRIMARY KKR.com insight + PDF Sept. 2026 (Sheldon/Reback). Stick to note figures: ~$7.6-8T AI infra capex through 2030; ~$1.7T public IG capacity at ~3% issuer max; ~$6.3T gap; ~$600B / 6.3% AI-linked IG debt vs 2.6% historical peak; path toward ~20% IG index. Pair with ai-hy-credit-88b and pgim-clo-ai-15. Do not treat as MAJOR (research note, not a transaction). Route Quill for PE/credit concentration framing.",
+      "grafs": [
+        "KKR Credit & Markets published “Let There Be Compute!” in September 2026, authored by Christopher A. Sheldon and Tal Reback, arguing that AI infrastructure is producing an unusually concentrated investment cycle across public and private credit.",
+        "The note cites AI infrastructure capital expenditure projections of roughly $7.6 trillion to $8 trillion through 2030. Traditional U.S. public investment-grade capacity, measured by how much the largest hyperscalers could issue before approaching a 3% single-name issuer maximum index weight, is roughly $1.7 trillion, leaving a difference of about $6.3 trillion that KKR does not treat as a simple private-financing forecast.",
+        "AI-linked debt outstanding today is approximately $600 billion, or 6.3% of the U.S. investment-grade market, against a 29-year average for the highest issuer exposure in the IG index of 2.6%. KKR says AI-linked exposure could ultimately approach 20% of the investment-grade index as concentration and cross-channel linkages grow. The front-page story is how much compute gets built; the credit story is who gets paid if expectations change."
       ]
     },
     {
