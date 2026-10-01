@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 215,
+  "number": 216,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Midafternoon",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~11:50 AM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~11:50 AM ET Midafternoon No. 215. Cash softens vs Midday; yields off highs; SoftBank Tokyo settle still +4.21%.",
-    "line": "CASH Thu · S&P 7,623.75 (−0.36%) · Dow 50,646.98 (−0.51%) · Nasdaq 26,742.48 (−0.44%) · NVDA $229.12 (+0.32%) · AMD $610.38 (−0.23%) · MU $1,047.30 (−1.67%) · MSFT $513.00 (+0.02%) · VIX 17.35 · 10-y 5.253% · 30-y 5.616% · WTI $92.54 (+2.34%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.66 (+2.99%)"
+    "source": "Yahoo Finance chart API (~12:56 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~12:56 PM ET Afternoon No. 216. Dow deeper (−1.13%); NVDA +1.27%; yields ease; SoftBank Tokyo settle still +4.21%.",
+    "line": "CASH Thu · S&P 7,634.45 (−0.47%) · Dow 50,770.74 (−1.13%) · Nasdaq 26,758.92 (−0.14%) · NVDA $230.10 (+1.27%) · AMD $609.92 (+0.39%) · MU $1,056.06 (−0.85%) · MSFT $512.46 (+0.69%) · VIX 16.80 · 10-y 5.234% · 30-y 5.595% · WTI $91.89 (+1.63%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.58 (+0.59%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Midafternoon soft. SoftBank T3 still MAJOR. ADD AVGO-Anthropic $42B, NVDA GPU finance, Investcorp NAPE II.",
+    "hed": "Afternoon: SoftBank T3 still MAJOR. ADD Bloomberg-Canoe, Halluminate $30M, Armadin $255M, Sovos-Flowie.",
     "signed": "Scout",
-    "body": "Midafternoon No. 215 after Midday No. 214. Cash ~11:50 ET: S&P −0.36%, Nasdaq −0.44%, Dow −0.51%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Broadcom up to $42B convertible lend to Anthropic (Reuters exclusive Oct 1 on IPO filing; missed at Midday); Nvidia $500B chip-backed financing lender pushback (Reuters Focus Oct 1); Investcorp NAPE Fund II $1.22B final close (Oct 1). Declined Carlyle Thomas rewrite again (primary Sept 15; themes on kkr-ai-compute/boe-fpc). X MCP still client-not-enrolled. Owners: Quill x3."
+    "body": "Afternoon No. 216 after Midafternoon No. 215. Cash ~12:56 ET: S&P −0.47%, Nasdaq −0.14%, Dow −1.13%; NVDA +1.27%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Bloomberg completes Canoe Intelligence acquisition (PR Newswire Oct 1); Halluminate $30M Series A Oak HC/FT for finance AI training envs (Fortune exclusive); Armadin $255.5M Series B at >$2.5B (Reuters; Mandia); Sovos acquires Flowie for agentic compliant finance (Business Wire 1:00 PM ET). Declined Carlyle concentration rewrite again (Bloomberg Oct 1 recap of Sept 15 Thomas theme; already on kkr-ai-compute/boe-fpc). Declined Metaview $60M / Kanu $11.7M as below hourly bar. PaleBlueDot $600M credit seek (Sept 30 Bloomberg) watched, not closed. Owners: Quill x4."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 215 Midafternoon after No. 214 Midday. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 216 Afternoon after No. 215 Midafternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,110 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "bloomberg-canoe",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Data infra",
+      "hed": "Bloomberg completes acquisition of Canoe Intelligence for AI private-markets data workflows",
+      "dek": "Bloomberg LP (PR Newswire Oct 1, 10:30 ET): completed acquisition of Canoe Intelligence, an AI-powered platform for automating private-markets data collection, validation, and delivery into systems such as Bloomberg PORT Enterprise. Deal advances Bloomberg's public-private Total Portfolio View and ASKB agentic interface. Canoe CEO Jason Eiswerth remains; Bloomberg CEO Vlad Kliatchko welcomed the team. Definitive agreement was announced July 29, 2026; FTC early termination granted Sept 1 (notice 20262020). Terms not disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Bloomberg LP (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/bloomberg-completes-canoe-intelligence-acquisition-advancing-strategy-to-transform-private-markets-investing-302894795.html",
+      "also": [
+        {
+          "label": "Unite.AI - Bloomberg closes Canoe",
+          "url": "https://www.unite.ai/bloomberg-closes-acquisition-of-ai-private-markets-platform-canoe/"
+        },
+        {
+          "label": "Bloomberg company press - to acquire Canoe (July 29, 2026)",
+          "url": "https://www.bloomberg.com/company/press/bloomberg-to-acquire-canoe-intelligence-taking-a-defining-step-in-its-mission-to-transform-private-markets-investing/"
+        },
+        {
+          "label": "FTC early termination 20262020 (Sept 1, 2026)",
+          "url": "https://www.ftc.gov/legal-library/browse/early-termination-notices/20262020"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 216 Afternoon after No. 215 Midafternoon). PRIMARY Bloomberg/PR Newswire Oct 1 close of Canoe Intelligence acquisition. Stick to disclosed workflow/integration points; no price (undisclosed). Owner Quill.",
+      "grafs": [
+        "Bloomberg announced on October 1, 2026 that it completed its acquisition of Canoe Intelligence, an AI-powered data management and intelligence platform that automates private-markets data collection, validation, and delivery.",
+        "Canoe functions as a translation layer for unstructured private fund information and already integrates with Bloomberg PORT Enterprise so permissioned, validated private fund data can support a Total Portfolio View across public and private assets.",
+        "Bloomberg said the combination also feeds ASKB, its agentic AI conversational interface, and that Canoe clients keep dedicated service with increased platform investment. Terms were not disclosed. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "halluminate-30",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Finance training",
+      "hed": "Halluminate raises $30M Series A (Oak HC/FT) for finance-specialized AI training environments",
+      "dek": "Fortune exclusive (Oct 1, 11:00 AM ET): nine-person San Francisco startup Halluminate raised $30M Series A led by Oak HC/FT, bringing total funding to $38.5M. Builds verticalized AI training environments and benchmarks for financial work (PE diligence, IB workflows). Aug benchmark: 88 anonymized PE due-diligence tasks; highest frontier-model average score 51%. CEO Jerry Wu: four of top five closed-source U.S. AI labs are paying customers; mid-eight-figure ARR run-rate and profitable (per Wu). Existing: YC, Orange Collective, Heavybit; individuals from Anthropic, OpenAI, Meta. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Fortune (exclusive)",
+      "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/",
+      "also": [
+        {
+          "label": "Fortune - Halluminate $30M Series A (Oct 1)",
+          "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 216 Afternoon). PRIMARY Fortune exclusive Oct 1: Halluminate $30M Series A Oak HC/FT; finance RL environments; PE diligence benchmark 51% top score. Attribute ARR/profitability to CEO Wu. Owner Quill.",
+      "grafs": [
+        "Halluminate, a nine-person San Francisco startup building AI training environments for financial work, raised $30 million in a Series A led by Oak HC/FT, bringing total funding to $38.5 million, Fortune reported exclusively on October 1, 2026.",
+        "The company benchmarks frontier models on financial tasks and builds simulated environments from failure modes. An August benchmark of 88 tasks based on anonymized private-equity due-diligence work saw a highest average score of 51% across seven frontier models.",
+        "CEO Jerry Wu told Fortune that four of the top five closed-source U.S. AI labs are paying customers, that Halluminate has crossed a mid-eight-figure annualized revenue run rate on delivered and paid work, and that the company is profitable. SoftBank OpenAI T3 remains MAJOR."
+      ]
+    },
+    {
+      "id": "armadin-255",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Cybersecurity",
+      "hed": "Armadin (Kevin Mandia) raises $255.5M Series B at >$2.5B valuation for AI agent security",
+      "dek": "Reuters (Oct 1): Armadin raised $255.5M Series B valuing the AI cybersecurity company at more than $2.5B. Andreessen Horowitz and Accel co-led; new investors Bain Capital Ventures and Redpoint; existing include Google Ventures, Kleiner Perkins, Menlo Ventures, In-Q-Tel. Total funding now $445M. Platform uses a swarm of AI agents that act like hackers to find weaknesses. Founded by CEO Kevin Mandia (Mandiant founder; sold to Google). Proceeds for platform, research, training, go-to-market. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/ai-cybersecurity-startup-armadin-valued-over-25-billion-after-new-funding-round-2026-10-01/",
+      "also": [
+        {
+          "label": "Reuters - Armadin $255.5M Series B (Oct 1)",
+          "url": "https://www.reuters.com/legal/transactional/ai-cybersecurity-startup-armadin-valued-over-25-billion-after-new-funding-round-2026-10-01/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 216 Afternoon). PRIMARY Reuters Oct 1: Armadin $255.5M Series B at >$2.5B; a16z/Accel co-lead; Mandia. Stick to disclosed round math ($445M cumulative). Owner Quill.",
+      "grafs": [
+        "Armadin said on October 1, 2026 that it raised $255.5 million in a Series B funding round that values the AI cybersecurity company at more than $2.5 billion, Reuters reported.",
+        "Andreessen Horowitz and Accel co-led the round, joined by new investors Bain Capital Ventures and Redpoint as well as existing backers including Google Ventures, Kleiner Perkins, Menlo Ventures and In-Q-Tel. Total funding rose to $445 million.",
+        "The company, founded by CEO Kevin Mandia (who founded Mandiant and later sold it to Google), uses a swarm of AI agents that act like hackers to find weaknesses and said proceeds will fund platform scale, research, training and go-to-market. SoftBank OpenAI T3 remains MAJOR."
+      ]
+    },
+    {
+      "id": "sovos-flowie",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Agentic finance",
+      "hed": "Sovos acquires Flowie to pair agentic finance/procurement agents with global tax compliance data",
+      "dek": "Business Wire (Oct 1, 1:00 PM ET via Morningstar): Sovos (agentic tax compliance) acquired Flowie (agentic finance orchestration). Flowie agents run AP, P2P, contracts, invoicing, collections, onboarding on top of ERP; will draw Sovos tax/regulatory data for compliant-by-design transactions. CEOs: Kevin Akeroyd (Sovos), Yann Ravel-Sibillot (Flowie). Sovos: >70B transactions/year, 150+ countries, >100,000 customers incl. half of Fortune 500. Deal terms not disclosed. Positions as Compliant Finance Platform (CFP) plus Sovos Graph. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Business Wire (via Morningstar)",
+      "url": "https://www.morningstar.com/news/business-wire/20261001375595/sovos-acquires-flowie-launching-the-industrys-first-agentic-compliant-finance-orchestration-platform",
+      "also": [
+        {
+          "label": "Business Wire wire id 20261001375595 (Morningstar)",
+          "url": "https://www.morningstar.com/news/business-wire/20261001375595/sovos-acquires-flowie-launching-the-industrys-first-agentic-compliant-finance-orchestration-platform"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 216 Afternoon). PRIMARY Business Wire Oct 1 1:00 PM ET: Sovos acquires Flowie for agentic compliant finance. No price disclosed. CFO desk relevance. Owner Quill.",
+      "grafs": [
+        "Sovos announced on October 1, 2026 the acquisition of Flowie, pairing Flowie's autonomous finance and procurement agents with Sovos' global tax compliance and regulatory data for what the companies call a Compliant Finance Platform.",
+        "Flowie's AI-native agents run processes including accounts payable, procure-to-pay, contracts, invoicing, collections, and vendor/customer onboarding on top of ERP systems. Combined agents will use Sovos compliance data so transactions are compliant by design across jurisdictions.",
+        "Sovos said it processes more than 70 billion transactions per year across 150-plus countries for more than 100,000 customers, including half the Fortune 500. Financial terms were not disclosed. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
