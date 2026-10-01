@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 218,
+  "number": 219,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
   "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~2:55 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~2:55 PM ET Late Afternoon No. 218. Indices mixed vs No. 217 Afternoon greens (Dow flirts flat/red); NVDA +1.68%; WTI +2.81%; SoftBank Tokyo settle still +4.21%; SFTBY +3.44%.",
-    "line": "CASH Thu · S&P 7,675.49 (+0.31%) · Dow 50,899.35 (-0.01%) · Nasdaq 26,948.84 (+0.33%) · NVDA $232.23 (+1.68%) · AMD $617.75 (+0.98%) · MU $1,088.73 (+2.22%) · MSFT $516.10 (+0.62%) · VIX 16.45 · 10-y 5.239% · 30-y 5.606% · WTI $92.96 (+2.81%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.75 (+3.44%)"
+    "source": "Yahoo Finance chart API (~3:50 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~3:50 PM ET Late Afternoon No. 219. Indices all green vs No. 218 Late Afternoon (Dow flipped from flat/red); NVDA +1.58%; MU +2.75%; WTI +3.03%; SoftBank Tokyo settle still +4.21%; SFTBY +3.44%.",
+    "line": "CASH Thu · S&P 7,684.31 (+0.43%) · Dow 51,033.41 (+0.25%) · Nasdaq 26,947.41 (+0.32%) · NVDA $231.99 (+1.58%) · AMD $618.19 (+1.05%) · MU $1,094.37 (+2.75%) · MSFT $515.37 (+0.48%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $93.16 (+3.03%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.75 (+3.44%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Afternoon: SoftBank T3 still MAJOR. ADD GMI Cloud $668M, Metaview $60M Series C.",
+    "hed": "Late Afternoon: SoftBank T3 still MAJOR. ADD Advent-CONTPAQi, Restate $20M, Nebius-Inferize.",
     "signed": "Scout",
-    "body": "Late Afternoon No. 218 after Afternoon No. 217. Cash ~2:55 ET: S&P +0.31%, Nasdaq +0.33%, Dow -0.01%; NVDA +1.68%; MU +2.22%; WTI +2.81%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +3.44%. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: GMI Cloud $668M ($223M Series B ARCHIV/NVIDIA + $445M CTBC credit; PR Newswire + TNW); Metaview $60M Series C Insight-led to $110M total (company blog + Insight Partners). Declined a16z-Atlas Foundry Management again (WSJ Pro paywall, no usable secondary). Declined Kanu $11.7M seed and Yarken product launch as below hourly bar. X news search failed (client-not-enrolled). Owners: Quill x2."
+    "body": "Late Afternoon No. 219 after Late Afternoon No. 218. Cash ~3:50 ET: S&P +0.43%, Dow +0.25% (flipped green), Nasdaq +0.32%; NVDA +1.58%; MU +2.75%; WTI +3.03%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +3.44%. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Advent majority stake in CONTPAQi (Mexico SMB software; cloud/AI plan; terms undisclosed; Advent release); Restate $20M Series A Singular-led for durable agent execution (company blog + TechCrunch; TNW total $27M); Nebius acquires Inferize into Token Factory (terms undisclosed; Nebius release). Declined Kanu $11.7M seed (prior hourly bar) and Parakeet Health $10M Series A as below bar. X news search skipped. Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 218 Late Afternoon after No. 217 Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (sessions underway; Bret Taylor/Wells); Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 219 Late Afternoon after No. 218 Late Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,77 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "advent-contpaqi",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Software",
+      "hed": "Advent to acquire majority stake in Mexico SMB software CONTPAQi; cloud and AI growth plan; terms undisclosed",
+      "dek": "Advent International (Oct 1, 2026): signed definitive agreement to acquire a majority stake in CONTPAQi, a Mexican provider of modular business software for accounting, payroll, administration, and electronic invoicing. Co-founder/Chairman René Torres retains a significant minority stake; Marlene García remains CEO. Advent cites support for cloud and AI capabilities, distributor network (>6,000), and reach (>1.2 million SMBs; >7 million employee monthly payrolls managed). Transaction subject to customary closing conditions and regulatory approvals. Financial terms not disclosed. Advent notes prior software investments (Siesa, SkyOne, Sapiens, Prometheus, Volue, Syspro) and AI company investments including Anthropic, Reflection AI, Mistral, and The OpenAI Deployment Company. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Advent International",
+      "url": "https://www.adventinternational.com/news/contpaqi-partners-with-advent-to-accelerate-next-phase-of-growth/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 219 Late Afternoon after No. 218 Late Afternoon). PRIMARY Advent Oct 1: majority stake CONTPAQi (Mexico SMB accounting/payroll/e-invoicing software); Torres minority; García CEO; cloud/AI capability plan; >1.2M SMBs; >6k distributors. Terms not disclosed. Stick to Advent release; do not invent price or EV. Owner Quill.",
+      "grafs": [
+        "Advent announced on October 1, 2026 that it signed a definitive agreement to acquire a majority stake in CONTPAQi, a Mexican provider of modular business software covering accounting, payroll, administration, and electronic invoicing for small and medium-sized businesses.",
+        "CONTPAQi co-founder and Chairman René Torres will retain a significant minority stake and remain on the board; Marlene García continues as CEO. Advent said the partnership will help strengthen CONTPAQi's cloud and AI capabilities and extend its reach through a network of more than 6,000 distributors serving over 1.2 million SMBs and managing more than seven million employee monthly payrolls.",
+        "Financial terms were not disclosed. The deal is subject to customary closing conditions and regulatory approvals. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "restate-20",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Agent infra",
+      "hed": "Restate raises $20M Series A (Singular) for durable execution behind AI agents; Redpoint and Capital One Ventures join",
+      "dek": "Restate company blog and TechCrunch (Sep 30, 2026): Berlin durable-execution startup founded by Apache Flink creators raised a $20 million Series A led by Singular, with Redpoint Ventures and Capital One Ventures. Platform records progress so AI agents and backend workflows recover through crashes, restarts, and dropped connections; customers named include Replit (Replit Agent), DOSS, and Fortune 500 firms. Proceeds for go-to-market hiring, engineers, and a San Francisco commercial hub. TNW (Oct 1 ~3:06 pm) reports total funding now $27 million. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Restate (company blog) / TechCrunch",
+      "url": "https://restate.dev/blog/announcing-series-a",
+      "also": [
+        {
+          "label": "TechCrunch - Restate $20M Series A",
+          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+        },
+        {
+          "label": "The Next Web - Restate $20M durable execution",
+          "url": "https://thenextweb.com/news/restate-20m-series-a-singular-durable-execution-ai-agents"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 219 Late Afternoon after No. 218 Late Afternoon). PRIMARY Restate blog + TechCrunch Sep 30: $20M Series A Singular-led; Redpoint + Capital One Ventures; durable execution for agents/backends; Replit named. TNW Oct 1 for $27M total. Do not invent valuation. Owner Quill.",
+      "grafs": [
+        "Restate, a Berlin company building durable-execution infrastructure for AI agents and backends, announced a $20 million Series A led by Singular with participation from Redpoint Ventures and Capital One Ventures, according to its company blog and TechCrunch coverage dated September 30, 2026.",
+        "The software records what a program has already done so work can continue correctly after a crash, restart, or dropped connection. Restate said customers include Replit, which moved Replit Agent onto the platform, as well as DOSS and Fortune 500 firms; founders include Apache Flink co-creator Stephan Ewen.",
+        "Proceeds will fund go-to-market hiring, more engineers, and a San Francisco commercial hub. The Next Web reported on October 1 that total funding is now $27 million. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "nebius-inferize",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Inference M&A",
+      "hed": "Nebius acquires Inferize to cut AI model cold-start idle GPU tax inside Token Factory; terms undisclosed",
+      "dek": "Nebius (Nasdaq: NBIS) corporate release Oct 1, 2026: acquired Inferize, an inference-optimization company whose technology shortens time to launch and scale large AI models and improves capacity utilization and token economics by cutting cold-start idle GPU capacity. Inferize technology and team join Nebius Token Factory (managed production inference). Founded January 2026. Terms of the transaction were not disclosed. Prior Token Factory additions cited: Eigen AI optimizations and Clarifai core team/licensed technology. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Nebius (corporate release)",
+      "url": "https://www.eqs-news.com/news/corporate/nebius-acquires-inferize-to-strengthen-nebius-token-factorys-production-inference-stack/f17d6c50-11a1-4f87-b8d8-89c91afc33d6",
+      "also": [
+        {
+          "label": "Ctech - Nebius acquires Inferize (est. range; not official)",
+          "url": "https://www.calcalistech.com/ctechnews/article/byzggtiqgx"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 219 Late Afternoon after No. 218 Late Afternoon). PRIMARY Nebius Oct 1 release: acquires Inferize into Token Factory; cold-start/idle GPU optimization; terms not disclosed. Do not treat Ctech $100-150M estimate as confirmed. Owner Quill.",
+      "grafs": [
+        "Nebius (Nasdaq: NBIS) announced on October 1, 2026 that it acquired Inferize, an inference-optimization company, to strengthen Nebius Token Factory, its managed platform for production AI inference.",
+        "Nebius said Inferize's technology shortens the time needed to launch and scale large models by cutting cold-start idle GPU capacity, improving utilization and token economics; Inferize's technology and team have joined Token Factory. The company was founded in January 2026.",
+        "Terms of the transaction were not disclosed in the Nebius release. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
