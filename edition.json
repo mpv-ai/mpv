@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 216,
+  "number": 217,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
   "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~12:56 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~12:56 PM ET Afternoon No. 216. Dow deeper (−1.13%); NVDA +1.27%; yields ease; SoftBank Tokyo settle still +4.21%.",
-    "line": "CASH Thu · S&P 7,634.45 (−0.47%) · Dow 50,770.74 (−1.13%) · Nasdaq 26,758.92 (−0.14%) · NVDA $230.10 (+1.27%) · AMD $609.92 (+0.39%) · MU $1,056.06 (−0.85%) · MSFT $512.46 (+0.69%) · VIX 16.80 · 10-y 5.234% · 30-y 5.595% · WTI $91.89 (+1.63%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.58 (+0.59%)"
+    "source": "Yahoo Finance chart API (~1:52 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~1:52 PM ET Afternoon No. 217. Indices green vs No. 216 Afternoon reds; MU +2.35%; SFTBY +4.19%; SoftBank Tokyo settle still +4.21%.",
+    "line": "CASH Thu · S&P 7,673.65 (+0.29%) · Dow 50,929.13 (+0.05%) · Nasdaq 26,953.04 (+0.34%) · NVDA $231.29 (+1.28%) · AMD $617.51 (+0.94%) · MU $1,090.12 (+2.35%) · MSFT $515.80 (+0.56%) · VIX 16.45 · 10-y 5.215% · 30-y 5.583% · WTI $91.70 (+1.42%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.90 (+4.19%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Afternoon: SoftBank T3 still MAJOR. ADD Bloomberg-Canoe, Halluminate $30M, Armadin $255M, Sovos-Flowie.",
+    "hed": "Afternoon: SoftBank T3 still MAJOR. ADD Sharon AI $356M GPU debt, Volantis $88M, Analysys Mason-Modulai.",
     "signed": "Scout",
-    "body": "Afternoon No. 216 after Midafternoon No. 215. Cash ~12:56 ET: S&P −0.47%, Nasdaq −0.14%, Dow −1.13%; NVDA +1.27%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Bloomberg completes Canoe Intelligence acquisition (PR Newswire Oct 1); Halluminate $30M Series A Oak HC/FT for finance AI training envs (Fortune exclusive); Armadin $255.5M Series B at >$2.5B (Reuters; Mandia); Sovos acquires Flowie for agentic compliant finance (Business Wire 1:00 PM ET). Declined Carlyle concentration rewrite again (Bloomberg Oct 1 recap of Sept 15 Thomas theme; already on kkr-ai-compute/boe-fpc). Declined Metaview $60M / Kanu $11.7M as below hourly bar. PaleBlueDot $600M credit seek (Sept 30 Bloomberg) watched, not closed. Owners: Quill x4."
+    "body": "Afternoon No. 217 after Afternoon No. 216. Cash ~1:52 ET: S&P +0.29%, Nasdaq +0.34%, Dow +0.05% (reversal from No. 216 reds); NVDA +1.28%; MU +2.35%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +4.19%. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Sharon AI US$356m GPU-backed SPV at 9.95% (PR Newswire; Goldman/private credit; >68k NVIDIA GPUs mid-2027); Volantis $88M Series A photonic inference (PR Newswire; Lachy Groom/Abstract); Bridgepoint-backed Analysys Mason acquires Modulai (~35 AI/ML engineers; company PR + PE Hub). Declined a16z-Atlas Foundry Management (WSJ Pro paywall, no usable secondary). Declined Restate $20M / Parakeet $10M as below hourly bar. X news search failed (client-not-enrolled). Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 216 Afternoon after No. 215 Midafternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 217 Afternoon after No. 216 Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,90 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "sharon-ai-356",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI infra debt",
+      "hed": "Sharon AI closes $356M GPU-backed SPV debt at 9.95% fixed for Asia-Pacific AI factories",
+      "dek": "SharonAI Holdings (NASDAQ: SHAZ) PR Newswire Oct 1, 7:00 ET: inaugural US$356m committed senior secured GPU-backed SPV debt facility at a fixed 9.95% (excluding fees), secured against GPUs and associated cash flows for contract-backed compute. Investors include Goldman Sachs and select large private credit funds. First in an expected series supporting build-out of over 68,000 NVIDIA GPUs by mid-2027. Company says over US$2.6bn institutional debt and equity raised in past 10 months; customer offtake TCV over US$8.8bn. Jarden Australia sole FA/arranger. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "SharonAI Holdings Inc. (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/sharon-ai-enters-into-gpu-backed-debt-facility-expanding-funding-flexibility-for-ai-factory-deployments-302895839.html",
+      "also": [
+        {
+          "label": "Stock Titan - Sharon AI $356M GPU facility",
+          "url": "https://www.stocktitan.net/news/SHAZ/sharon-ai-enters-into-gpu-backed-debt-facility-expanding-funding-7z6v035o28qr.html"
+        },
+        {
+          "label": "Prior plate - nvidia-gpu-finance (Reuters lender guarantees)",
+          "url": "https://www.reuters.com/legal/transactional/nvidias-bet-that-its-chips-can-finance-ai-boom-gets-wall-street-reality-check-2026-10-01/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 217 Afternoon after No. 216 Afternoon). PRIMARY SharonAI/PR Newswire Oct 1 7:00 ET: US$356m senior secured GPU-backed SPV at 9.95% fixed; Goldman Sachs + private credit; >68k NVIDIA GPUs mid-2027; >US$2.6bn capital 10 months; TCV >US$8.8bn. Stick to disclosed facility math. Owner Quill.",
+      "grafs": [
+        "SharonAI Holdings Inc. (NASDAQ: SHAZ) announced on October 1, 2026 that it entered into an inaugural US$356 million committed senior secured, GPU-backed SPV debt facility priced at a fixed rate of 9.95%, excluding fees.",
+        "The facility is secured against GPUs and associated cash flows, with proceeds supporting compute infrastructure dedicated to customer contracts. Participants include Goldman Sachs and select large private credit funds, with Jarden Australia as sole financial advisor and arranger.",
+        "Sharon AI said the facility is the first in an expected series of GPU financings for a scheduled build-out of over 68,000 NVIDIA GPUs by mid-2027, and that the company has secured over US$2.6 billion of institutional debt and equity capital over the past 10 months against customer offtake TCV of over US$8.8 billion. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "volantis-88",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Photonic infra",
+      "hed": "Volantis raises $88M Series A (Lachy Groom/Abstract) for photonic AI inference past the memory wall",
+      "dek": "Volantis (PR Newswire Oct 1, 9:00 ET): $88 million Series A co-led by Lachy Groom and Abstract Ventures, with John Doerr, VXI Capital, Triatomic, Susa Ventures, plus angels Dwarkesh Patel, Naveen Rao, and Sholto Douglas. Building A-1 photonic compute-to-memory interconnect targeting models exceeding 20 trillion parameters at up to 10,000 tokens/sec per user; first integrated engines planned for customers in 2027. Founders/alumni from NVIDIA, AMD, Broadcom, Ayar Labs. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Volantis (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/volantis-raises-88m-series-a-to-demolish-the-ai-memory-wall-with-photonics-302895940.html",
+      "also": [
+        {
+          "label": "Unite.AI - Volantis $88M Series A",
+          "url": "https://www.unite.ai/volantis-raises-88m-series-a-to-build-photonic-ai-inference-system/"
+        },
+        {
+          "label": "Volantis company site",
+          "url": "https://volantissemi.ai/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 217 Afternoon after No. 216 Afternoon). PRIMARY Volantis/PR Newswire Oct 1 9:00 ET: $88M Series A co-led Lachy Groom/Abstract; A-1 photonic inference; >20T params / up to 10k tok/s/user; customer engines 2027. Stick to PR figures; do not invent valuation. Owner Quill.",
+      "grafs": [
+        "Volantis, a San Francisco semiconductor company building a photonic AI inference system, announced an $88 million Series A on October 1, 2026, co-led by Lachy Groom and Abstract Ventures, with participation from John Doerr, VXI Capital, Triatomic, and Susa Ventures, plus angels Dwarkesh Patel, Naveen Rao, and Sholto Douglas.",
+        "The company said its first system, A-1, is being designed to run models exceeding 20 trillion parameters at up to 10,000 tokens per second per user by using a photonic interconnect that pools memory capacity and bandwidth together, rather than forcing the usual SRAM versus HBM tradeoff.",
+        "Volantis plans to deliver its first integrated inference engines to customers in 2027 and will use the round to expand engineering and move A-1 toward commercial deployments. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "analysys-mason-modulai",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI services",
+      "hed": "Bridgepoint-backed Analysys Mason acquires Sweden AI/ML consultancy Modulai (~35 engineers)",
+      "dek": "Analysys Mason press release Oct 1, 2026: completed acquisition of Modulai, a Sweden-based Northern European AI and machine-learning consultancy founded in 2018 with about 35 engineers building custom ML and agentic solutions for startups, scale-ups, PE portfolio companies, and Fortune 1000s. Deal adds AI due diligence and implementation capacity across telecoms, software, financial services, manufacturing, and life sciences. Bridgepoint (partner since 2022 via BDC) supported; PE Hub same-day. Terms not disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Analysys Mason (press release)",
+      "url": "https://www.analysysmason.com/press/analysys-mason-acquires-modulai/",
+      "also": [
+        {
+          "label": "Bridgepoint - Analysys Mason acquires Modulai",
+          "url": "https://www.bridgepointgroup.com/about-us/news-and-insights/press-releases/2026/analysys-mason-acquires-modulai-a-sweden-based-leading-northern-european-ai-and-ml-consultancy"
+        },
+        {
+          "label": "PE Hub - Bridgepoint-backed Analysys Mason buys Modulai",
+          "url": "https://www.pehub.com/bridgepoint-backed-analysys-mason-picks-up-swedish-ai-consultancy-modulai/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 217 Afternoon after No. 216 Afternoon). PRIMARY Analysys Mason Oct 1 press: acquires Modulai (~35 engineers); Bridgepoint-backed. No price. PE/AI services desk. Owner Quill.",
+      "grafs": [
+        "Analysys Mason announced on October 1, 2026 that it acquired Modulai, a Sweden-based AI and machine-learning consultancy, to add specialist technical AI, ML, and agentic-solutions capability alongside its strategy, transformation, and transaction advisory work.",
+        "Founded in 2018, Modulai has a team of around 35 engineers delivering customised ML and agentic systems for start-ups, scale-ups, private-equity portfolio companies, and Fortune 1000 organisations across generative AI, computer vision, NLP, recommenders, and robotics.",
+        "Bridgepoint, Analysys Mason's investment partner since 2022 via Bridgepoint Development Capital, supported the transaction. Terms were not disclosed. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
