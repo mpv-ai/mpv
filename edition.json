@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 220,
+  "number": 221,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (~4:55 PM ET Thu). US cash close prints. SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~4:55 PM ET Evening No. 220. Cash closed softer vs No. 219 Late Afternoon intraday: S&P +0.19% (was +0.43%); Dow +0.04%; Nasdaq +0.04%; NVDA +1.09%; MU +3.03%; MSFT flat/-0.02%; WTI +2.80%; SoftBank Tokyo settle still +4.21%; SFTBY +3.74%. NKE cash $35.15 (-0.71%) into AH earnings.",
+    "source": "Yahoo Finance chart API (~5:52 PM ET Thu). US cash close prints unchanged vs No. 220 Evening. SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash. Nike AH softer after Q1/guide (Street Insider ~-3% near 5pm ET; AskTraders later AH ~$33.20 / -5.55%).",
+    "updated": "Oct 1 ~5:52 PM ET Late Evening No. 221. Cash tape unchanged vs Evening No. 220 (session closed): S&P 7,666.45 (+0.19%); Dow 50,926.56 (+0.04%); Nasdaq 26,871.60 (+0.04%); NVDA +1.09%; MU +3.03%; MSFT -0.02%; WTI ~$92.9; SoftBank Tokyo settle +4.21%; SFTBY +3.74%. NKE cash $35.15 (-0.71%); AH softer on guide.",
     "line": "CASH CLOSE Thu · S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $92.99 (+2.80%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.81 (+3.74%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Evening: SoftBank T3 still MAJOR. ADD Diversis-Tideworks, Nike Q1 FY27. Cash closed softer.",
+    "hed": "Late Evening: SoftBank T3 still MAJOR. ADD onsemi-Synaptics, TransPerfect-Synterex. Cash tape unchanged.",
     "signed": "Scout",
-    "body": "Evening No. 220 after Late Afternoon No. 219. Cash close ~4:55 ET: S&P +0.19%, Dow +0.04%, Nasdaq +0.04%; NVDA +1.09%; MU +3.03%; MSFT -0.02%; WTI +2.80%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +3.74%; NKE $35.15 (-0.71%). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Diversis majority of Tideworks TOS software from Blackstone-backed Carrix (terms undisclosed; PR Newswire 3:00 PM ET); Nike Q1 FY27 AH ($11.2B rev -4%; EPS $0.48; Pace ~$2.5B savings thru FY31; FY27 high-single-digit rev decline; adj EPS $1.15-$1.35). Declined Kanu $11.7M (prior bar), recycled InPost/ADIA-Sapiens/Nxtra/Graphwise as not new today. X news search client-not-enrolled. Owners: Quill x2."
+    "body": "Late Evening No. 221 after Evening No. 220. Cash close prints unchanged (Yahoo). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: onsemi revises Synaptics to $123/sh all-cash ~$5.7B (from ~$7B) after unsolicited competing proposal; mid-2027 close; FTC approved; GlobeNewswire Oct 1 ~4:34 PM ET; TransPerfect acquires Synterex for AI-assisted clinical/regulatory writing (terms undisclosed; PR Newswire). Nike AH softer after Q1/FY27 guide already on plate (Street Insider ~-3% near 5pm ET). Declined: a16z/Atlas Foundry (WSJ paywalled, insufficient primary), Carlyle AI datacenter crowding (Bloomberg-paywalled secondaries only), Alight-Abett (benefits HR tech, below bar), Audax DLS III (Sept 30 wire, not new today), recycled SaaS multiples/Armadin/Bloomberg-Canoe/Sovos-Flowie already on plate. X news search client-not-enrolled. Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 220 Evening after No. 219 Late Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: Nike AH reaction / call; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 221 Late Evening after No. 220 Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: Nike AH/call follow-through; onsemi/Synaptics shareholder and remaining regulatory path; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,62 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "onsemi-synaptics",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Semiconductors",
+      "hed": "onsemi revises Synaptics deal to $123/share all-cash (~$5.7B) after rival bid; mid-2027 close still eyed",
+      "dek": "GlobeNewswire (Oct 1, 2026 via Financial Post / MarketScreener): onsemi (ON) and Synaptics (SYNA) amended their June 25, 2026 merger agreement after an unsolicited third-party competing proposal. Revised terms: $123 per Synaptics share in cash, aggregate value ~$5.7B vs ~$7B prior structure. Expected immediately accretive to onsemi non-GAAP EPS. Cash on hand + fully committed Morgan Stanley debt; no financing closing condition. Still targets mid-2027 close (Synaptics shareholder vote + remaining regs); U.S. FTC already approved. onsemi cites AI data-center complement plus HMI/sensing cash flows; keeps prior $200M annual run-rate synergies and flags incremental revenue/insourcing benefits after first 18 months post-close. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "GlobeNewswire (via Financial Post / MarketScreener)",
+      "url": "https://financialpost.com/globe-newswire/onsemi-and-synaptics-announce-revised-merger-agreement",
+      "also": [
+        {
+          "label": "MarketScreener - GlobeNewswire full text",
+          "url": "https://hk.marketscreener.com/news/onsemi-and-synaptics-announce-revised-merger-agreement-ce785ddadb80f22c"
+        },
+        {
+          "label": "StockTitan - ON revised merger summary / AH tape note",
+          "url": "https://www.stocktitan.net/news/ON/onsemi-and-synaptics-announce-revised-merger-ad7hqu6fpmpy.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 221 Late Evening after No. 220 Evening). PRIMARY GlobeNewswire Oct 1: onsemi-Synaptics amended to $123/sh all-cash ~$5.7B (from ~$7B) after unsolicited competing proposal; mid-2027 close; FTC approved; Morgan Stanley committed debt. SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "onsemi and Synaptics announced on October 1, 2026 that they amended their June 25, 2026 merger agreement after receiving an unsolicited competing proposal from a third party.",
+        "Under the revised agreement, onsemi will acquire Synaptics for $123 per share in cash, an aggregate value of approximately $5.7 billion, compared with approximately $7 billion under the prior agreement. The companies said the transaction is expected to be immediately accretive to onsemi non-GAAP earnings per share and provides value certainty for Synaptics shareholders.",
+        "Financing is cash on hand plus fully committed debt financing from Morgan Stanley, with no financing-related closing condition. Closing remains expected by mid-2027, subject to Synaptics shareholder approval, remaining regulatory approvals, and customary conditions. The U.S. Federal Trade Commission has approved the transaction; other jurisdictions are still reviewing. onsemi reiterated previously announced $200 million of annual run-rate synergies and said it has identified incremental revenue synergies and production-insourcing benefits expected after the first 18 months post-close, while noting Synaptics complements growth in its AI data center business."
+      ]
+    },
+    {
+      "id": "transperfect-synterex",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Life sciences content",
+      "hed": "TransPerfect acquires Synterex for AI-assisted clinical and regulatory medical writing; terms undisclosed",
+      "dek": "TransPerfect (PR Newswire Oct 1, 2026, 9:02 ET): acquired Synterex (Dedham, MA), a disability-owned and woman-owned clinical/regulatory writing and technology firm for biotech and pharma. Synterex pairs writing expertise with AgileWriter, an AI-assisted authoring platform for regulated content. Terms not disclosed. Synterex will operate as a division of TransPerfect Life Sciences; founder/president Jeanette Towles and team remain. Advisers: Silverwood Partners and Mintz (Synterex); DLA Piper (TransPerfect). Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "TransPerfect (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/transperfect-acquires-synterex-to-expand-medical-writing-expertise-and-ai-enabled-regulatory-solutions-302895024.html",
+      "also": [
+        {
+          "label": "Synterex company site",
+          "url": "https://synterex.com"
+        },
+        {
+          "label": "TransPerfect Life Sciences",
+          "url": "https://lifesciences.transperfect.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 221 Late Evening after No. 220 Evening). PRIMARY TransPerfect/PR Newswire Oct 1: acquires Synterex for AI-assisted regulated medical writing; terms undisclosed. SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "TransPerfect announced on October 1, 2026 that it acquired Synterex, a Dedham, Massachusetts-based disability-owned and woman-owned consulting firm that provides clinical and regulatory writing, development, and technology-enabled solutions for biotech and pharmaceutical companies. Financial terms were not disclosed.",
+        "Synterex combines clinical and regulatory writing expertise with AgileWriter, an AI-assisted authoring platform designed to accelerate regulated content while keeping governance, traceability, and human oversight. TransPerfect said the deal creates an integrated workflow from authoring through submission and expands its medical writing capabilities across document types and therapeutic areas.",
+        "Synterex will operate as a division of TransPerfect Life Sciences. Founder and President Jeanette Towles and the Synterex team will remain. Synterex was advised by Silverwood Partners and Mintz; TransPerfect was advised by DLA Piper LLP."
       ]
     },
     {
