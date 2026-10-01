@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 213,
+  "number": 214,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Midmorning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart API (~9:58 AM ET Thu). US cash session open (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~9:58 AM ET Midmorning No. 213. Cash open: S&P/Nasdaq green, Dow soft; NVDA/MSFT bid, MU/AMD softer; SoftBank Tokyo settle still +4.21%.",
-    "line": "CASH Thu · S&P 7,658.25 (+0.09%) · Dow 50,831.06 (−0.15%) · Nasdaq 26,925.09 (+0.24%) · NVDA $230.73 (+1.03%) · AMD $609.15 (−0.43%) · MU $1,048.20 (−1.59%) · MSFT $518.49 (+1.09%) · VIX 16.74 · 10-y 5.323% · 30-y 5.681% · WTI $91.26 (+0.93%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.77 (+3.54%)"
+    "source": "Yahoo Finance chart API (~10:51 AM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~10:51 AM ET Midday No. 214. Cash mid-session: indexes soft vs Midmorning; NVDA still bid, MU/AMD softer; SoftBank Tokyo settle still +4.21%.",
+    "line": "CASH Thu · S&P 7,640.34 (−0.15%) · Dow 50,722.59 (−0.36%) · Nasdaq 26,840.56 (−0.08%) · NVDA $230.10 (+0.75%) · AMD $608.69 (−0.50%) · MU $1,047.37 (−1.67%) · MSFT $514.40 (+0.29%) · VIX 17.09 · 10-y 5.306% · 30-y 5.659% · WTI $91.96 (+1.70%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.75 (+3.44%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Midmorning cash open. SoftBank T3 still MAJOR. ADD dig-ventures-120, lg-cns-ga, saas-pe-multiples.",
+    "hed": "Midday cash soft. SoftBank T3 still MAJOR. ADD boe-fpc-ai-debt.",
     "signed": "Scout",
-    "body": "Midmorning No. 213 after Morning No. 212. Cash session open ~9:58 ET: S&P +0.09%, Nasdaq +0.24%, Dow −0.15%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADDs NOT MAJOR: DIG Ventures $120M Fund III (TNW); LG CNS–General Atlantic enterprise SW/AI co-invest (SED/Korea Times/BusinessKorea); Forvis Mazars/PitchBook SaaS PE multiples 11.7x vs 20.4x (AltAssets). Declined CNBC AI Forum Dallas (welcome only; main program ~3pm ET) and re-adding samsung-helix (already on plate). X MCP still client-not-enrolled. Owners: Quill ×3."
+    "body": "Midday No. 214 after Midmorning No. 213. Cash ~10:51 ET: S&P −0.15%, Nasdaq −0.08%, Dow −0.36%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: BoE FPC Sept Record (pub Sept 30) on AI-related debt ~$450B / interconnected risks (miss through Midmorning). Declined Instinct $1B Series C (Sept 28 consumer agent; off core PE/finance plate) and Carlyle Thomas rewrite (primary Sept 15; themes already on kkr-ai-compute). X MCP still client-not-enrolled. Owners: Quill ×1."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 213 Midmorning after No. 212 Morning. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (live blog up; main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH context; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 214 Midday after No. 213 Midmorning. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,50 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "boe-fpc-ai-debt",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI debt",
+      "hed": "BoE FPC: AI-related debt (~$450B by early Sept) broadens capital-market exposure; interconnected risks more likely to crystallise",
+      "dek": "Bank of England Financial Policy Committee Record (meeting 25 Sept; published 30 Sept 2026): likelihood that interconnected vulnerabilities crystallise has risen. Cites rapid AI-related debt issuance (Morgan Stanley ~$450B global by early Sept, more than double all of 2025; JPM ~$4.1T AI capex debt-financed 2026-2030; MS ~$700B data-centre capex via private credit 2026-2028). Flags opacity/circular financing, frontier-AI cyber/ops risk, private credit SWES underway. CCyB held at 2%. Complements kkr-ai-compute, ai-hy-credit-88b, pgim-clo-ai-15. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "Bank of England (FPC Record – September 2026); Reuters",
+      "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+      "also": [
+        {
+          "label": "BoE FPC Record PDF – September 2026",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026.pdf"
+        },
+        {
+          "label": "Reuters – BoE sees growing risk AI and debt dangers materialise (Sep 30)",
+          "url": "https://www.investing.com/news/stock-market-news/bank-of-england-sees-growing-risk-that-dangers-from-ai-and-debt-will-materialise-4924457"
+        },
+        {
+          "label": "Guardian – Bailey on right to intervene in AI (Sep 30)",
+          "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss"
+        },
+        {
+          "label": "Prior plate - kkr-ai-compute (AI credit concentration)",
+          "url": "https://www.kkr.com/insights/let-there-be-compute"
+        },
+        {
+          "label": "Prior plate - ai-hy-credit-88b (AI junk $88B)",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-borrowers-face-tough-sell-in-risky-corners-of-us-credit-market/articleshow/134597379.cms"
+        },
+        {
+          "label": "Prior plate - fsb-bailey (FSB Chair AI cyber letter)",
+          "url": "https://www.fsb.org/uploads/P310826.pdf"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 214 Midday after No. 213 Midmorning). PRIMARY BoE FPC Record Sept 2026 (published Sept 30; meeting Sept 25). Stick to disclosed figures and judgements: interconnected risks more likely to crystallise; MS ~$450B AI-related debt by early Sept (more than double 2025); JPM ~$4.1T AI capex debt-financed 2026-2030; MS ~$700B data-centre capex via private credit 2026-2028; GBP hyperscaler bonds 47% of sterling corporate issuance YTD; CCyB held at 2%; PM SWES underway. Pair Bailey Guardian/Reuters companion on intervention/testing (do not invent Bailey quotes beyond those sources). SoftBank T3 remains MAJOR lead. Route Quill for financial-stability / AI-debt framing.",
+      "grafs": [
+        "The Bank of England Financial Policy Committee, in its September 2026 Record of the 25 September meeting published 30 September, said the likelihood that interconnected vulnerabilities in the financial system crystallise has risen since July, citing Middle East conflict and energy-price shocks alongside a rapid increase in artificial intelligence-related debt issuance that broadens capital markets' exposure to AI developments.",
+        "The Record cites Morgan Stanley estimates that global AI-related debt issuance totalled around $450 billion as of early September 2026, more than double total issuance in all of 2025, and JPMorgan estimates that AI-related capital expenditure financed through debt could total around $4.1 trillion between 2026 and 2030. Morgan Stanley analysts also estimated that $700 billion of data centre capital expenditure between 2026 and 2028 would be financed by private credit. Although sterling AI hyperscaler issuance remained smaller than in the US and euro area, it had accounted for 47% of GBP corporate bond issuance so far in 2026.",
+        "The FPC warned that increasing AI-firm indebtedness combined with opacity and, at times, circular financing arrangements could complicate risk assessment and amplify losses if expectations disappoint, and reiterated that frontier AI advances raise cyber and operational risks. It maintained the UK countercyclical capital buffer at its neutral 2% setting and noted the private markets System-Wide Exploratory Scenario exercise underway to fill data gaps on private credit in stress."
       ]
     },
     {
