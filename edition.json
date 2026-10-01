@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 219,
+  "number": 220,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (~3:50 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~3:50 PM ET Late Afternoon No. 219. Indices all green vs No. 218 Late Afternoon (Dow flipped from flat/red); NVDA +1.58%; MU +2.75%; WTI +3.03%; SoftBank Tokyo settle still +4.21%; SFTBY +3.44%.",
-    "line": "CASH Thu · S&P 7,684.31 (+0.43%) · Dow 51,033.41 (+0.25%) · Nasdaq 26,947.41 (+0.32%) · NVDA $231.99 (+1.58%) · AMD $618.19 (+1.05%) · MU $1,094.37 (+2.75%) · MSFT $515.37 (+0.48%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $93.16 (+3.03%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.75 (+3.44%)"
+    "source": "Yahoo Finance chart API (~4:55 PM ET Thu). US cash close prints. SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~4:55 PM ET Evening No. 220. Cash closed softer vs No. 219 Late Afternoon intraday: S&P +0.19% (was +0.43%); Dow +0.04%; Nasdaq +0.04%; NVDA +1.09%; MU +3.03%; MSFT flat/-0.02%; WTI +2.80%; SoftBank Tokyo settle still +4.21%; SFTBY +3.74%. NKE cash $35.15 (-0.71%) into AH earnings.",
+    "line": "CASH CLOSE Thu · S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $92.99 (+2.80%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.81 (+3.74%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Afternoon: SoftBank T3 still MAJOR. ADD Advent-CONTPAQi, Restate $20M, Nebius-Inferize.",
+    "hed": "Evening: SoftBank T3 still MAJOR. ADD Diversis-Tideworks, Nike Q1 FY27. Cash closed softer.",
     "signed": "Scout",
-    "body": "Late Afternoon No. 219 after Late Afternoon No. 218. Cash ~3:50 ET: S&P +0.43%, Dow +0.25% (flipped green), Nasdaq +0.32%; NVDA +1.58%; MU +2.75%; WTI +3.03%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +3.44%. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Advent majority stake in CONTPAQi (Mexico SMB software; cloud/AI plan; terms undisclosed; Advent release); Restate $20M Series A Singular-led for durable agent execution (company blog + TechCrunch; TNW total $27M); Nebius acquires Inferize into Token Factory (terms undisclosed; Nebius release). Declined Kanu $11.7M seed (prior hourly bar) and Parakeet Health $10M Series A as below bar. X news search skipped. Owners: Quill x3."
+    "body": "Evening No. 220 after Late Afternoon No. 219. Cash close ~4:55 ET: S&P +0.19%, Dow +0.04%, Nasdaq +0.04%; NVDA +1.09%; MU +3.03%; MSFT -0.02%; WTI +2.80%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +3.74%; NKE $35.15 (-0.71%). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Diversis majority of Tideworks TOS software from Blackstone-backed Carrix (terms undisclosed; PR Newswire 3:00 PM ET); Nike Q1 FY27 AH ($11.2B rev -4%; EPS $0.48; Pace ~$2.5B savings thru FY31; FY27 high-single-digit rev decline; adj EPS $1.15-$1.35). Declined Kanu $11.7M (prior bar), recycled InPost/ADIA-Sapiens/Nxtra/Graphwise as not new today. X news search client-not-enrolled. Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 219 Late Afternoon after No. 218 Late Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 220 Evening after No. 219 Late Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: Nike AH reaction / call; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,54 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "diversis-tideworks",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Vertical software",
+      "hed": "Diversis takes majority of Tideworks TOS software from Blackstone-backed Carrix; terms undisclosed",
+      "dek": "Diversis Capital (PR Newswire Oct 1, 2026, 3:00 PM ET): acquired majority ownership of Tideworks Technology from Carrix, Inc., which is majority owned by Blackstone Infrastructure Partners. Tideworks provides terminal operating system (TOS) software for marine and intermodal rail terminals, serving more than 130 facilities worldwide (flagship Mainsail 10 TOS, Intermodal PRO). Founded 1999 as Carrix technology division; HQ Seattle. Diversis plans product innovation, GTM expansion, and standalone software growth. CEO quotes from Carrix (Uffe Ostergaard), Tideworks (Subbu Bhat), Diversis (Kevin Ma). Financial terms not disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Diversis Capital (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/diversis-capital-acquires-majority-ownership-of-tideworks-technology-from-carrix-302896434.html",
+      "also": [
+        {
+          "label": "Tideworks company site",
+          "url": "https://www.tideworks.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 220 Evening after No. 219 Late Afternoon). PRIMARY Diversis/PR Newswire Oct 1 3:00 PM ET: majority of Tideworks TOS from Carrix (Blackstone Infrastructure majority). >130 facilities; terms not disclosed. Stick to release; do not invent price or EV. Owner Quill.",
+      "grafs": [
+        "Diversis Capital announced on October 1, 2026 that it acquired majority ownership of Tideworks Technology from Carrix, Inc., which is majority owned by Blackstone Infrastructure Partners.",
+        "Tideworks is a terminal operating system software provider for marine and intermodal rail terminals, serving more than 130 facilities worldwide with products including Mainsail 10 TOS and Intermodal PRO. Diversis said it will invest in product innovation, go-to-market capacity, and Tideworks' next phase as a standalone software business.",
+        "Financial terms were not disclosed. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "nike-fy27-q1",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Earnings",
+      "hed": "Nike Q1 FY27: revenue $11.2B (-4%); EPS $0.48; FY27 outlook high-single-digit revenue decline; launches Pace savings plan",
+      "dek": "NIKE, Inc. IR (Oct 1, 2026 after close): fiscal Q1 ended Aug 31, 2026. Revenues $11.2B, down 4% reported / 5% currency-neutral. Gross margin 42.8% (+60 bps). Diluted EPS $0.48. Net income $0.7B (-2%). NIKE Brand $11.0B (-4%); Converse $263M (-28%). Announces Pace operating-model transformation targeting ~$2.5B cumulative savings through FY2031 with ~$1.0B pre-tax charges through FY2031 (plus ~$0.3B FY26 severance already recognized); ~$0.3B expected in FY27. FY27 outlook: revenues decline high-single digits; adjusted diluted EPS $1.15-$1.35 excluding ~$0.15 Pace restructuring. Cash close NKE $35.15 (-0.71% vs $35.40 prior). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "NIKE, Inc. Investor Relations",
+      "url": "https://investors.nike.com/investors/news-events-and-reports/investor-news-details/2026/NIKE-Inc--Reports-Fiscal-2027-First-Quarter-Results/default.aspx",
+      "also": [
+        {
+          "label": "Business Wire syndication (FinancialContent)",
+          "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-1-nike-inc-reports-fiscal-2027-first-quarter-results"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 220 Evening after No. 219 Late Afternoon). PRIMARY Nike IR Oct 1 AH: Q1 FY27 rev $11.2B (-4%/-5% CN); EPS $0.48; GM 42.8% (+60 bps); Pace ~$2.5B savings thru FY31; FY27 rev high-single-digit decline; adj EPS $1.15-$1.35 excl ~$0.15 Pace. Cash NKE $35.15. Stick to IR; do not invent beat/miss vs Street. Owner Quill.",
+      "grafs": [
+        "NIKE, Inc. reported fiscal 2027 first-quarter results after the close on October 1, 2026 for the quarter ended August 31, 2026: revenues of $11.2 billion, down 4 percent reported and 5 percent currency-neutral, with diluted EPS of $0.48 and gross margin of 42.8 percent, up 60 basis points.",
+        "Net income was $0.7 billion, down 2 percent. NIKE Brand revenues were $11.0 billion (-4 percent); Converse was $263 million (-28 percent). Management introduced Pace, an operating-model transformation expected to deliver about $2.5 billion in cumulative savings through fiscal 2031, with about $1.0 billion of pre-tax charges through fiscal 2031 and about $0.3 billion expected in fiscal 2027.",
+        "Fiscal 2027 outlook calls for high-single-digit revenue decline and adjusted diluted EPS of $1.15 to $1.35, excluding about $0.15 of Pace restructuring. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
