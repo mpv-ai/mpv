@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 211,
+  "number": 212,
   "city": "New York",
-  "date": "Wednesday, September 30, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Thursday, October 1, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed cash close levels unchanged; ES/NQ/YM/CL refresh ~7:49 PM ET; TNX/TYX/VIX/SoftBank Tokyo Wed settle)",
-    "updated": "Sep 30 ~7:49 PM ET Late Evening No. 211. Cash session still at No. 208/209/210 close prints; ES/NQ/YM firmer vs No. 210 futures; WTI softer. SoftBank Tokyo Wed settle unchanged at 6,430.",
-    "line": "CLOSE Wed · S&P 7,651.54 (−0.25%) · Dow 50,906.05 (−0.86%) · Nasdaq 26,861.06 (+0.24%) · NVDA $228.38 (+0.51%) · AMD $611.76 (+0.69%) · ES 7,743.00 (+0.36%) · NQ 30,822.00 (+0.40%) · YM 51,427 (+0.29%) · WTI $90.02 (−0.44%) · 10-y 5.293% · 30-y 5.638% · VIX 16.34 · SoftBank 6,430 (+6.55%)"
+    "source": "Yahoo Finance chart API (~8:52 AM ET Thu). US cash still Wed close (pre-open). ES/NQ/YM/CL/TNX/TYX/VIX refresh; SoftBank Tokyo Oct 1 settle from Yahoo daily chart.",
+    "updated": "Oct 1 ~8:52 AM ET Morning No. 212. Cash session still at Wed close; NQ futures firmer, YM softer, WTI softer vs Late Evening. SoftBank Tokyo Oct 1 settle 6,701 (+4.21% vs Wed 6,430).",
+    "line": "PRE Thu · CLOSE Wed S&P 7,651.54 · Dow 50,906.05 · Nasdaq 26,861.06 · NVDA $228.38 · AMD $611.76 · ES 7,742.75 (−0.05%) · NQ 30,853.50 (+0.94%) · YM 51,463 (−0.72%) · WTI $91.48 (−1.21%) · 10-y 5.281% · 30-y 5.636% · VIX 16.24 · SoftBank Tokyo 6,701 (+4.21%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "ADD KKR AI compute/credit concentration note (NOT MAJOR). DevDay lead unchanged. Futures/WTI tape refresh.",
+    "hed": "MAJOR SoftBank OpenAI T3 ($10B final tranche). New Morning lead. Tape: futures/WTI/Tokyo SoftBank.",
     "signed": "Scout",
-    "body": "Late Evening No. 211 after Evening No. 210 (last weekday hourly slot). Keep openai-devday-keynote as MAJOR lead. New Quill NOT MAJOR: kkr-ai-compute (KKR Credit & Markets “Let There Be Compute!” Sheldon/Reback Sept. 2026; ~$7.6-8T AI infra capex through 2030; ~$600B / 6.3% AI-linked IG debt vs 2.6% historical peak; ~$1.7T public IG capacity leaves ~$6.3T gap; path toward ~20% IG index). Complements ai-hy-credit-88b and pgim-clo-ai-15. Declined re-adds: Dan Ives IVAI (already ives-ivai-200m), SEC private-market retailization (already sec-private-retail), AI junk-credit $88B (already ai-hy-credit-88b), L40 SaaS multiples press wire (thin primary), ZoomInfo/DoubleO and Yext/Flamel (no clean primary fetch this hour). Tape: Wed cash close unchanged; ES/NQ/YM/CL refreshed ~7:49 pm ET. X MCP search_news still client-not-enrolled; used WebSearch/WebFetch/KKR PDF."
+    "body": "Morning No. 212 opens Thursday after Late Evening No. 211. SoftBank Group IR (Oct 1 Japan) executed the third/final USD 10.0B OpenAI follow-on via Vision Fund 2, completing the USD 30.0B program; cumulative USD 64.6B / ~13% ownership; funded by Sep 24 FX notes; Mar USD 40B bridge fully cleared after Sep 30 cancel of remaining USD 10B undrawn. Set softbank-openai-t3 as MAJOR lead; openai-devday-keynote demoted. Declined thin PE hire wires (VSS AI MD) without enough beat weight. Micron FY26 Q4 already on plate (micron-fy26-q4). X MCP still client-not-enrolled. Owner Quill for SoftBank T3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 211 Late Evening closes the Wed hourly window after No. 210 Evening. MAJOR lead unchanged openai-devday-keynote. Watch: IVAI offering close Oct 1; SoftBank notes / OpenAI tranche Oct 1; Bret Taylor at CNBC AI Forum Dallas Oct 1; Micron AH/call replay; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 212 Morning after No. 211 Late Evening. SoftBank OpenAI T3 is the new MAJOR lead. Watch: cash open ~9:30 ET; Nike earnings AH context; Bret Taylor CNBC AI Forum Dallas Oct 1; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -29,8 +29,41 @@
   ],
   "stories": [
     {
-      "id": "openai-devday-keynote",
+      "id": "softbank-openai-t3",
       "lead": true,
+      "section": "AI",
+      "kicker": "AI / SoftBank",
+      "hed": "SoftBank executes $10B OpenAI third tranche; $30B follow-on done; ~13% stake / $64.6B cumulative",
+      "dek": "SoftBank Group IR (Oct 1, 2026 Japan time): executed the third and final USD 10.0B (JPY 1,579.6B at USD/JPY 157.96) follow-on tranche in OpenAI Group PBC via SoftBank Vision Fund 2, completing the USD 30.0B follow-on announced Feb 27, 2026. Cumulative OpenAI investment now USD 64.6B with ~13% ownership. Funded by proceeds of the Sep 24 FX senior notes. Effective Sep 30, canceled remaining USD 10.0B undrawn under the Mar 27 USD 40.0B bridge; after the Sep 9 early repayment, facility fully cleared (no undrawn commitments). MAJOR Morning lead. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "SoftBank Group Corp. IR (Execution of Follow-on Investment (Third Tranche) in OpenAI)",
+      "url": "https://group.softbank/en/news/press/20261001",
+      "also": [
+        {
+          "label": "SoftBank IR - Follow-on Investments in OpenAI (Feb 27, 2026)",
+          "url": "https://group.softbank/en/news/press/20260227"
+        },
+        {
+          "label": "SoftBank IR - Issuance of FX Senior Notes (Sep 24, 2026)",
+          "url": "https://group.softbank/en/news/press/20260924"
+        },
+        {
+          "label": "MarketScreener / Dow Jones - SoftBank adds $10B OpenAI",
+          "url": "https://www.marketscreener.com/news/softbank-group-invests-additional-10-billion-in-openai-ce785ad3dc81f025"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD as MAJOR Morning lead (No. 212 vs No. 211 Late Evening). PRIMARY SoftBank Group IR Oct 1 Japan: Third Tranche Investment USD 10.0B via Vision Fund 2; completes USD 30.0B follow-on; cumulative USD 64.6B / ~13% ownership; funded by Sep 24 FX senior notes; canceled remaining USD 10.0B undrawn of Mar USD 40.0B bridge effective Sep 30 so facility fully cleared. Demote openai-devday-keynote lead:false. Owner Quill.",
+      "grafs": [
+        "SoftBank Group Corp. announced that on October 1, 2026 (Japan time) it executed the third and final tranche of its follow-on investment in OpenAI Group PBC via SoftBank Vision Fund 2, in the amount of USD 10.0 billion (JPY 1,579.6 billion, converted at USD = JPY 157.96).",
+        "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
+        "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
+        "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "openai-devday-keynote",
+      "lead": false,
       "section": "AI",
       "kicker": "AI / DevDay",
       "hed": "OpenAI DevDay: Dots always-on agents, GPT-6.1 Sol at ~1/5 Astra price, Ultrafast, Pro 500, Private Intelligence",
