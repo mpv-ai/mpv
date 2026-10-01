@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 222,
+  "number": 223,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
   "editionLabel": "Late Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (~6:52 PM ET Thu). US cash close prints unchanged vs No. 221 Late Evening (session closed). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash. ES/NQ futures soft green; WTI ~$93.1. Nike AH quote unavailable via Yahoo postMarket fields this hour (cash $35.15 still on tape).",
-    "updated": "Oct 1 ~6:52 PM ET Late Evening No. 222. Cash tape unchanged vs Late Evening No. 221: S&P 7,666.45 (+0.19%); Dow 50,926.56 (+0.04%); Nasdaq 26,871.60 (+0.04%); NVDA +1.09%; MU +3.03%; MSFT -0.02%; WTI ~$93.1; SoftBank Tokyo settle +4.21%; SFTBY +3.74%. NKE cash $35.15 (-0.71%). Futures ~6:52 PM ET: ES ~7,727; NQ ~30,800.",
-    "line": "CASH CLOSE Thu · S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $93.07 (+~2.9% vs prior settle) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.81 (+3.74%) · ES fut ~7,727 · NQ fut ~30,800"
+    "source": "Yahoo Finance chart API (~7:50 PM ET Thu). US cash close prints unchanged vs No. 222 Late Evening (session closed). SoftBank Tokyo Oct 1 settle from Yahoo daily chart (6,701 vs Sep 30 6,430 = +4.21%); SFTBY ADR cash. ES/NQ futures soft; WTI ~$93.0. Nike AH quote still unavailable via Yahoo postMarket fields (cash $35.15 on tape).",
+    "updated": "Oct 1 ~7:50 PM ET Late Evening No. 223. Cash tape unchanged vs Late Evening No. 222: S&P 7,666.45 (+0.19%); Dow 50,926.56 (+0.04%); Nasdaq 26,871.60 (+0.04%); NVDA +1.09%; MU +3.03%; MSFT -0.02%; WTI ~$93.0; SoftBank Tokyo settle +4.21%; SFTBY +3.74% (prior tape ADR day %). NKE cash $35.15 (-0.71%). Futures ~7:50 PM ET: ES ~7,730; NQ ~30,816.",
+    "line": "CASH CLOSE Thu · S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $92.99 · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.81 (+3.74%) · ES fut ~7,730 · NQ fut ~30,816"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Evening: SoftBank T3 still MAJOR. ADD PaleBlueDot $200M C, Blackstone Falcata, TR-KKR print close. Cash tape unchanged.",
+    "hed": "Late Evening: SoftBank T3 still MAJOR. ADD Dynatrace-Arize close, Mynt IPO price (Reuters sources). Cash tape unchanged.",
     "signed": "Scout",
-    "body": "Late Evening No. 222 after Late Evening No. 221. Cash close prints unchanged (Yahoo); futures soft green; WTI ~$93.1. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: PaleBlueDot AI $200M Series C led by ComputeCore at $3.2B valuation (PR Newswire Oct 1 ~4:41 PM ET; >$5B customer contracts EOM Sep; separate from watched $600M private-credit chip facility sought/not closed); Blackstone launches Falcata defense platform combining TSC and ASEI (Blackstone IR Oct 1; Yahoo/Bloomberg cite >$1B debt+equity commitment); Thomson Reuters closes majority sale of Global Print to KKR as Westbridge Print (PR Newswire Oct 1; terms not in close release). Declined: Satlyt $8M seed (below bar), EQT-Acuon (Sep 30 wire), Montagu-BMC Helix (June), Graphwise/Oakley (August), recycled Armadin/Volantis/Halluminate/Bloomberg-Canoe/Analysys-Modulai already on plate. X news search client-not-enrolled. Owners: Quill x3."
+    "body": "Late Evening No. 223 after Late Evening No. 222. Cash close prints unchanged (Yahoo); futures ES ~7,730 / NQ ~30,816; WTI ~$93.0. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Dynatrace completes Arize acquisition (Dynatrace IR Oct 1 4:05 PM ET; $915M structure from Aug 13 IR); Mynt/GCash IPO priced at 6.60 pesos/share per Reuters sources (~53B pesos raise; company declined to confirm; Oct 20 debut). Declined: Parakeet Health $10M Series A (near Satlyt below-bar), SoundThinking-Transom (Sep 29), ThreatBook-CyberStrikeAI (undisclosed terms), recycled Graphwise/Oakley (August), Willow Tree CV (August). X API client-not-enrolled. Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 222 Late Evening after No. 221 Late Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: PaleBlueDot $600M private-credit chip facility (sought, not closed; separate from Series C); Nike AH/call follow-through; onsemi/Synaptics shareholder and remaining regulatory path; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 223 Late Evening after No. 222 Late Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: Mynt official IPO price disclosure vs Reuters sources; PaleBlueDot $600M private-credit chip facility (sought, not closed); Nike AH/call follow-through; onsemi/Synaptics path; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock."
   },
   "sections": [
     "All",
@@ -59,6 +59,62 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "dynatrace-arize",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Observability",
+      "hed": "Dynatrace completes $915M Arize acquisition, tying AI evaluation to production observability",
+      "dek": "Dynatrace IR (Oct 1, 2026, 4:05 PM ET): completed acquisition of Arize, an AI observability and evaluation platform for agents. August 13 IR set deal value at $915M (~$815M cash plus replacement equity awards for joining employees), funded with cash and/or existing credit facility. Arize keeps Phoenix (open source) and AX (enterprise) while capabilities integrate into Dynatrace over time. Founders Jason Lopatecki and Aparna Dhinakaran were slated to join at close per Aug release. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Dynatrace, Inc. IR (Business Wire)",
+      "url": "https://ir.dynatrace.com/news-events/press-releases/detail/439/dynatrace-completes-acquisition-of-arize-extending-ai-observability-across-the-full-development-lifecycle",
+      "also": [
+        {
+          "label": "Dynatrace IR - to acquire Arize at $915M (Aug 13, 2026)",
+          "url": "https://ir.dynatrace.com/news-events/press-releases/detail/435/dynatrace-to-acquire-ai-observability-leader-arize"
+        },
+        {
+          "label": "StockTitan - Dynatrace completes Arize (Oct 1)",
+          "url": "https://www.stocktitan.net/news/DT/dynatrace-completes-acquisition-of-arize-extending-ai-observability-vcjgt6uak96y.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 223 Late Evening after No. 222 Late Evening). PRIMARY Dynatrace IR Oct 1 4:05 PM ET close of Arize; cite Aug 13 IR for $915M / ~$815M cash structure. SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "Dynatrace (NYSE: DT) said on October 1, 2026 that it completed its acquisition of Arize, an AI observability and evaluation platform focused on continual learning for agents, according to a company IR release timed 4:05 PM ET.",
+        "When the deal was announced on August 13, Dynatrace valued the cash-and-stock transaction at $915 million, consisting of approximately $815 million in cash plus replacement equity awards for Arize employees joining Dynatrace, and said it planned to fund the purchase with cash on hand and/or its existing credit facility.",
+        "Arize will continue to support Phoenix (open source) and AX (enterprise) while capabilities are integrated into Dynatrace over time. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "mynt-ipo",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / IPO",
+      "hed": "Reuters: Mynt (GCash) prices Philippine IPO at 6.60 pesos/share; ~53B pesos raise, debut Oct 20",
+      "dek": "Reuters (Oct 1, Manila): two sources said Mynt priced its IPO at 6.60 pesos per share, raising about 53 billion pesos on up to 8.03 billion shares; full overallotment (up to 1.2 billion shares) could lift proceeds to about 60.9 billion pesos (Reuters calc). Mynt told Reuters it was unable to comment on market speculation and pointed to official announcements. Preliminary prospectus (Sep 22): cornerstone investors committed 36.5 billion pesos (Capital Research, Citadel, FIL, HSBC GAM, IFC, Lazard, plus domestic). Trading debut scheduled Oct 20. FX note in Reuters: $1 = 62.7020 pesos. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/gcash-owner-mynt-prices-philippine-ipo-66-pesos-per-share-sources-say-2026-10-01/",
+      "also": [
+        {
+          "label": "Entrepreneur Asia Pacific - Mynt P6.60 / ~$7B market value (sources)",
+          "url": "https://apac.entrepreneur.com/business-news/gcash-parent-mynt-prices-ipo-at-p6-60-a-share-implying-7-bn-valuation-sources-say"
+        },
+        {
+          "label": "Philstar - GCash IPO price set at P6.6/share",
+          "url": "https://www.philstar.com/business/2026/10/02/2560300/gcash-ipo-price-set-p66share"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 223 Late Evening). PRIMARY Reuters Oct 1 sources for 6.60 pesos price and ~53B/60.9B pesos proceeds math; company declined to confirm. Stick to prospectus cornerstone 36.5B pesos and Oct 20 debut. SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "Mynt, parent of Philippine mobile wallet GCash, priced its initial public offering at 6.60 pesos per share, two people familiar with the matter told Reuters on October 1, 2026, in a deal that would raise about 53 billion pesos.",
+        "Mynt plans to sell up to 8.03 billion shares. If an overallotment option of up to 1.2 billion additional shares is fully exercised, total proceeds could reach about 60.9 billion pesos, Reuters calculated. Asked to confirm the price, Mynt said it was unable to comment on market speculation and directed stakeholders to official announcements.",
+        "A preliminary prospectus dated September 22 showed cornerstone investors committing 36.5 billion pesos of shares, and the trading debut is scheduled for October 20. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
