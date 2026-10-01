@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 212,
+  "number": 213,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Midmorning",
   "tape": {
-    "source": "Yahoo Finance chart API (~8:52 AM ET Thu). US cash still Wed close (pre-open). ES/NQ/YM/CL/TNX/TYX/VIX refresh; SoftBank Tokyo Oct 1 settle from Yahoo daily chart.",
-    "updated": "Oct 1 ~8:52 AM ET Morning No. 212. Cash session still at Wed close; NQ futures firmer, YM softer, WTI softer vs Late Evening. SoftBank Tokyo Oct 1 settle 6,701 (+4.21% vs Wed 6,430).",
-    "line": "PRE Thu · CLOSE Wed S&P 7,651.54 · Dow 50,906.05 · Nasdaq 26,861.06 · NVDA $228.38 · AMD $611.76 · ES 7,742.75 (−0.05%) · NQ 30,853.50 (+0.94%) · YM 51,463 (−0.72%) · WTI $91.48 (−1.21%) · 10-y 5.281% · 30-y 5.636% · VIX 16.24 · SoftBank Tokyo 6,701 (+4.21%)"
+    "source": "Yahoo Finance chart API (~9:58 AM ET Thu). US cash session open (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~9:58 AM ET Midmorning No. 213. Cash open: S&P/Nasdaq green, Dow soft; NVDA/MSFT bid, MU/AMD softer; SoftBank Tokyo settle still +4.21%.",
+    "line": "CASH Thu · S&P 7,658.25 (+0.09%) · Dow 50,831.06 (−0.15%) · Nasdaq 26,925.09 (+0.24%) · NVDA $230.73 (+1.03%) · AMD $609.15 (−0.43%) · MU $1,048.20 (−1.59%) · MSFT $518.49 (+1.09%) · VIX 16.74 · 10-y 5.323% · 30-y 5.681% · WTI $91.26 (+0.93%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.77 (+3.54%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "MAJOR SoftBank OpenAI T3 ($10B final tranche). New Morning lead. Tape: futures/WTI/Tokyo SoftBank.",
+    "hed": "Midmorning cash open. SoftBank T3 still MAJOR. ADD dig-ventures-120, lg-cns-ga, saas-pe-multiples.",
     "signed": "Scout",
-    "body": "Morning No. 212 opens Thursday after Late Evening No. 211. SoftBank Group IR (Oct 1 Japan) executed the third/final USD 10.0B OpenAI follow-on via Vision Fund 2, completing the USD 30.0B program; cumulative USD 64.6B / ~13% ownership; funded by Sep 24 FX notes; Mar USD 40B bridge fully cleared after Sep 30 cancel of remaining USD 10B undrawn. Set softbank-openai-t3 as MAJOR lead; openai-devday-keynote demoted. Declined thin PE hire wires (VSS AI MD) without enough beat weight. Micron FY26 Q4 already on plate (micron-fy26-q4). X MCP still client-not-enrolled. Owner Quill for SoftBank T3."
+    "body": "Midmorning No. 213 after Morning No. 212. Cash session open ~9:58 ET: S&P +0.09%, Nasdaq +0.24%, Dow −0.15%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADDs NOT MAJOR: DIG Ventures $120M Fund III (TNW); LG CNS–General Atlantic enterprise SW/AI co-invest (SED/Korea Times/BusinessKorea); Forvis Mazars/PitchBook SaaS PE multiples 11.7x vs 20.4x (AltAssets). Declined CNBC AI Forum Dallas (welcome only; main program ~3pm ET) and re-adding samsung-helix (already on plate). X MCP still client-not-enrolled. Owners: Quill ×3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 212 Morning after No. 211 Late Evening. SoftBank OpenAI T3 is the new MAJOR lead. Watch: cash open ~9:30 ET; Nike earnings AH context; Bret Taylor CNBC AI Forum Dallas Oct 1; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 213 Midmorning after No. 212 Morning. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (live blog up; main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH context; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,94 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "dig-ventures-120",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI infra VC",
+      "hed": "DIG Ventures (MuleSoft's Ross Mason) closes $120M Fund III for European AI software infrastructure",
+      "dek": "The Next Web Oct 1 (~8:09 am UTC): London-based DIG Ventures closed Fund III at $120M to back ~30 European pre-seed/seed startups building software infrastructure for AI (data, identity, compliance, orchestration \"control points\"). Plans to lead most rounds; already investing. LPs include Horsley Bridge, Sofina, Granite, and an unnamed US university endowment, plus founders of Slack, Datadog, Nord Security, Cast AI, Supercell, Dash0. Thesis: as AI cheapens app code, durable value shifts to infra underneath. Prior Fund II: Dash0 ($1B val / $110M Series B Mar) and Taktile ($110M Series C led by Goldman Sachs Alternatives in June). NOT MAJOR vs SoftBank OpenAI T3. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "The Next Web (DIG Ventures Fund III)",
+      "url": "https://thenextweb.com/news/dig-ventures-120m-fund-iii-ai-infrastructure",
+      "also": [
+        {
+          "label": "Context - SoftBank OpenAI T3 MAJOR lead",
+          "url": "https://group.softbank/en/news/press/20261001"
+        },
+        {
+          "label": "Prior plate - kkr-ai-compute (AI infra credit cycle)",
+          "url": "https://www.kkr.com/insights/let-there-be-compute"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 213 Midmorning after No. 212 Morning). PRIMARY TNW Oct 1 on DIG Ventures Fund III $120M close (Ross Mason / Melissa Klinger / Rytis Vitkauskas). Stick to disclosed: ~30 EU pre-seed/seed AI software-infra startups; control-point thesis; named institutional and founder LPs; Fund II Dash0 and Taktile outcomes as DIG cited. Do not invent ownership %, DPI, or round sizes beyond article. Route Quill for PE/VC AI-infra framing. SoftBank T3 remains MAJOR lead.",
+      "grafs": [
+        "DIG Ventures, the London firm led by MuleSoft founder Ross Mason with partners Melissa Klinger and Rytis Vitkauskas, closed its third fund at $120 million on a mandate to back about 30 European pre-seed and seed startups that build software infrastructure for AI, The Next Web reported October 1, 2026.",
+        "Fund III targets what DIG calls control points (data, identity, compliance, and orchestration layers other software depends on). The firm plans to lead most rounds and has already started investing. Institutional backers named include Horsley Bridge, Sofina, Granite, and an unnamed US university endowment; founder LPs include those behind Slack, Datadog, Nord Security, Cast AI, Supercell, and Dash0.",
+        "Mason's thesis, per TNW: AI makes application code cheaper and faster to write, so lasting value migrates to the infrastructure underneath. DIG said Fund II ranked in the top 10% of funds of its age and size on Carta data, and cited prior portfolio outcomes including observability startup Dash0 ($1 billion valuation on a $110 million Series B in March) and Taktile ($110 million Series C led by Goldman Sachs Alternatives in June)."
+      ]
+    },
+    {
+      "id": "lg-cns-ga",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Korea SI",
+      "hed": "LG CNS teams with General Atlantic to co-invest in enterprise software and AI companies",
+      "dek": "Seoul Economic Daily / Korea Times / BusinessKorea Oct 1: LG CNS said it signed a co-investment partnership with General Atlantic at GA's New York HQ on Sept. 24 (Hyun Shin-kyun; Martin Escobari). Mandate: identify and co-invest in enterprise software and AI companies; size and terms disclosed once targets confirmed. GA AUM $130B as of end-June. SED: ~390 billion won of IPO M&A proceeds expected to be deployed; LG CNS seeks software licenses/recurring revenue and North America customer expansion. Industry context: Samsung SDS/KKR path and Samsung affiliates' $1B Helix (already on plate as samsung-helix). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Seoul Economic Daily; The Korea Times; BusinessKorea",
+      "url": "https://en.sedaily.com/technology/2026/10/01/lg-cns-teams-with-general-atlantic-to-hunt-ai-software",
+      "also": [
+        {
+          "label": "Korea Times - LG CNS / General Atlantic (Oct 1)",
+          "url": "https://www.koreatimes.co.kr/business/companies/20261001/lg-cns-partners-with-general-atlantic-to-invest-in-enterprise-tech-firms"
+        },
+        {
+          "label": "BusinessKorea - LG CNS co-investment pact (Oct 1)",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277995"
+        },
+        {
+          "label": "Prior plate - samsung-helix ($1B KKR Helix)",
+          "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 213 Midmorning). PRIMARY Seoul Economic Daily Oct 1 English plus Korea Times and BusinessKorea confirming Sept. 24 New York signing and Oct 1 disclosure. Stick to: co-invest mandate in enterprise SW/AI; terms TBD per target; GA $130B AUM end-June; SED's ~390B won IPO M&A proceeds figure. Pair with samsung-helix for Korea SI/PE AI race context. Do not invent check sizes or named targets. SoftBank T3 remains lead. Route Quill.",
+      "grafs": [
+        "LG CNS said on October 1, 2026 that it signed a co-investment partnership with U.S. growth-equity firm General Atlantic at GA's New York headquarters on September 24, with LG CNS President Hyun Shin-kyun and GA co-president Martin Escobari attending, per Seoul Economic Daily, The Korea Times, and BusinessKorea.",
+        "Under the agreement the firms will jointly identify and invest in enterprise software and artificial intelligence companies. LG CNS said investment size and terms will be disclosed once targets are confirmed. General Atlantic managed $130 billion of assets as of the end of June, the Korean reports said.",
+        "Seoul Economic Daily reported that about 390 billion won secured for mergers and acquisitions through LG CNS's IPO is expected to be deployed, with LG CNS aiming for software licenses, recurring revenue, and North American customer expansion. Coverage also framed the move alongside Samsung SDS's KKR cooperation and Samsung affiliates' combined $1 billion Helix Digital Infrastructure commitment (already on the MPV plate as samsung-helix)."
+      ]
+    },
+    {
+      "id": "saas-pe-multiples",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / SaaS valuations",
+      "hed": "PE SaaS buyout multiples fall to 11.7x EV/EBITDA from 20.4x as H1 sponsor deals hit $58.8B",
+      "dek": "AltAssets Oct 1 citing Forvis Mazars and PitchBook: median EV-to-EBITDA on private-equity SaaS deals dropped to 11.7x in H1 2026 from 20.4x amid AI disruption risk, higher financing costs, and a profitability-over-growth screen. PE completed 702 SaaS transactions worth $58.8B in H1 (pullback; fewer billion-dollar deals). Broader global SaaS M&A value hit a decade-high $439.7B on AI-driven strategic deals. Exits: 1,458 global SaaS PE/VC exits in H1 2026 vs 1,652 across all of 2025. Dry powder ~$4.4T; PE fundraising on course for a third annual decline; only 23 SaaS IPOs in H1. Report flags non-GAAP stripping of AI spend. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "AltAssets (Forvis Mazars / PitchBook research)",
+      "url": "https://www.altassets.net/featured/saas-buyout-multiples-collapse-from-20-4x-to-11-7x-as-pe-investment-falls-to-58-8bn.html",
+      "also": [
+        {
+          "label": "Prior plate - kkr-ai-compute (AI credit concentration)",
+          "url": "https://www.kkr.com/insights/let-there-be-compute"
+        },
+        {
+          "label": "Prior plate - sec-private-retail (retail private-market access)",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 213 Midmorning). PRIMARY AltAssets Oct 1 write-up of Forvis Mazars / PitchBook H1 2026 SaaS PE research. Stick to disclosed medians and totals: 11.7x vs 20.4x EV/EBITDA; 702 deals / $58.8B PE SaaS; $439.7B total SaaS M&A; 1,458 H1 exits vs 1,652 full-year 2025; ~$4.4T dry powder; 23 SaaS IPOs H1; AI-spend non-GAAP scrutiny. Do not invent sample deals or attribution beyond the article. Route Quill for PE valuation / AI-disruption framing. SoftBank T3 remains MAJOR lead.",
+      "grafs": [
+        "Median enterprise value-to-EBITDA multiples on private equity SaaS buyouts fell to 11.7x in the first half of 2026 from 20.4x, according to Forvis Mazars and PitchBook research summarized by AltAssets on October 1, 2026, as sponsors weighed AI disruption risk, higher financing costs, and a sharper focus on profitability versus growth.",
+        "Private equity investors completed 702 SaaS transactions worth $58.8 billion in the first half, with researchers pointing to a pullback in sponsor activity and fewer billion-dollar deals. By contrast, total global SaaS M&A value reached a decade-high $439.7 billion, driven by AI-related strategic acquisitions concentrated in a relatively small number of very large deals.",
+        "The same research estimated 1,458 global SaaS private equity and venture capital exits in H1 2026 versus 1,652 across all of 2025, put industry dry powder around $4.4 trillion, and counted only 23 SaaS IPOs in the first half. Forvis Mazars technology leader Ricardo Martinez flagged increased use of non-GAAP metrics that remove AI-related spending from core operating measures."
       ]
     },
     {
