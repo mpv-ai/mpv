@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 217,
+  "number": 218,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~1:52 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~1:52 PM ET Afternoon No. 217. Indices green vs No. 216 Afternoon reds; MU +2.35%; SFTBY +4.19%; SoftBank Tokyo settle still +4.21%.",
-    "line": "CASH Thu · S&P 7,673.65 (+0.29%) · Dow 50,929.13 (+0.05%) · Nasdaq 26,953.04 (+0.34%) · NVDA $231.29 (+1.28%) · AMD $617.51 (+0.94%) · MU $1,090.12 (+2.35%) · MSFT $515.80 (+0.56%) · VIX 16.45 · 10-y 5.215% · 30-y 5.583% · WTI $91.70 (+1.42%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.90 (+4.19%)"
+    "source": "Yahoo Finance chart API (~2:55 PM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~2:55 PM ET Late Afternoon No. 218. Indices mixed vs No. 217 Afternoon greens (Dow flirts flat/red); NVDA +1.68%; WTI +2.81%; SoftBank Tokyo settle still +4.21%; SFTBY +3.44%.",
+    "line": "CASH Thu · S&P 7,675.49 (+0.31%) · Dow 50,899.35 (-0.01%) · Nasdaq 26,948.84 (+0.33%) · NVDA $232.23 (+1.68%) · AMD $617.75 (+0.98%) · MU $1,088.73 (+2.22%) · MSFT $516.10 (+0.62%) · VIX 16.45 · 10-y 5.239% · 30-y 5.606% · WTI $92.96 (+2.81%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.75 (+3.44%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Afternoon: SoftBank T3 still MAJOR. ADD Sharon AI $356M GPU debt, Volantis $88M, Analysys Mason-Modulai.",
+    "hed": "Late Afternoon: SoftBank T3 still MAJOR. ADD GMI Cloud $668M, Metaview $60M Series C.",
     "signed": "Scout",
-    "body": "Afternoon No. 217 after Afternoon No. 216. Cash ~1:52 ET: S&P +0.29%, Nasdaq +0.34%, Dow +0.05% (reversal from No. 216 reds); NVDA +1.28%; MU +2.35%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +4.19%. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Sharon AI US$356m GPU-backed SPV at 9.95% (PR Newswire; Goldman/private credit; >68k NVIDIA GPUs mid-2027); Volantis $88M Series A photonic inference (PR Newswire; Lachy Groom/Abstract); Bridgepoint-backed Analysys Mason acquires Modulai (~35 AI/ML engineers; company PR + PE Hub). Declined a16z-Atlas Foundry Management (WSJ Pro paywall, no usable secondary). Declined Restate $20M / Parakeet $10M as below hourly bar. X news search failed (client-not-enrolled). Owners: Quill x3."
+    "body": "Late Afternoon No. 218 after Afternoon No. 217. Cash ~2:55 ET: S&P +0.31%, Nasdaq +0.33%, Dow -0.01%; NVDA +1.68%; MU +2.22%; WTI +2.81%; SoftBank Tokyo settle 6,701 (+4.21%); SFTBY +3.44%. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: GMI Cloud $668M ($223M Series B ARCHIV/NVIDIA + $445M CTBC credit; PR Newswire + TNW); Metaview $60M Series C Insight-led to $110M total (company blog + Insight Partners). Declined a16z-Atlas Foundry Management again (WSJ Pro paywall, no usable secondary). Declined Kanu $11.7M seed and Yarken product launch as below hourly bar. X news search failed (client-not-enrolled). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 217 Afternoon after No. 216 Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 218 Late Afternoon after No. 217 Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (sessions underway; Bret Taylor/Wells); Nike earnings AH; PaleBlueDot $600M private-credit chip facility (sought, not closed); IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,66 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "gmi-cloud-668",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / GPU cloud",
+      "hed": "GMI Cloud raises $668M ($223M Series B + $445M CTBC credit) with ARCHIV lead and NVIDIA",
+      "dek": "GMI Cloud (PR Newswire Oct 1): $668 million in new financing, comprising $223 million Series B equity led by ARCHIV (AI and robotics) with NVIDIA participation, plus a $445 million credit facility led by CTBC. Asia-Pacific participants include DSC Investment, Trend Micro, KB Investment, Kyobo Life, and KT Corporation. Proceeds expand GPU capacity in the U.S., Taiwan, and Southeast Asia. Company says contracted ARR tops $600 million (more than 9x year-end 2025) and its inference platform processes about 4 trillion tokens per week. Customers named include Fireworks, OpenRouter, and Trend Micro. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "GMI Cloud (PR Newswire)",
+      "url": "https://www.prnewswire.com/apac/news-releases/gmi-cloud-raises-over-660-million-to-accelerate-global-ai-infrastructure-expansion-302894628.html",
+      "also": [
+        {
+          "label": "The Next Web - Nvidia-backed GMI Cloud $668M",
+          "url": "https://thenextweb.com/news/gmi-cloud-668m-series-b-nvidia-archiv-ctbc"
+        },
+        {
+          "label": "MarketWatch - GMI Cloud Series B + CTBC credit",
+          "url": "https://www.marketwatch.com/story/gmi-cloud-closes-223m-series-b-funding-round-adds-445m-credit-facility-47d8dea1"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 218 Late Afternoon after No. 217 Afternoon). PRIMARY GMI Cloud/PR Newswire Oct 1: $668M total ($223M Series B ARCHIV-led + NVIDIA; $445M CTBC credit). Contracted ARR >$600M; ~4T tokens/week inference. Stick to disclosed equity/credit split; do not invent valuation. Owner Quill.",
+      "grafs": [
+        "GMI Cloud, an AI-native GPU cloud based in Mountain View, announced on October 1, 2026 that it raised $668 million in new financing: a $223 million Series B led by ARCHIV with participation from NVIDIA, and a $445 million credit facility led by CTBC.",
+        "Other Series B participants named in the release include Asia-Pacific investors DSC Investment, Trend Micro, KB Investment, Kyobo Life, and KT Corporation. Proceeds will expand GPU capacity across the United States, Taiwan, and Southeast Asia and support inference-services growth and hiring.",
+        "GMI Cloud said contracted annual recurring revenue has reached more than $600 million, more than nine times its year-end 2025 level, with its inference platform processing about 4 trillion tokens per week. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "metaview-60",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Recruiting",
+      "hed": "Metaview raises $60M Series C led by Insight Partners for agentic recruiting; total funding $110M",
+      "dek": "Metaview company blog (Sep 30, 2026): $60 million Series C led by Insight Partners, with GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, and Garuda Ventures. Brings total funding to $110 million. Platform expands from interview capture into end-to-end agentic recruiting (sourcing, application review, structured screens, interview intelligence); >7,000 companies hire with Metaview. Plans include New York office and headcount growth toward 250 by end of next year. Insight Partners investment note corroborates lead. NOT MAJOR. Owner Quill.",
+      "date": "Sep. 30, 2026",
+      "source": "Metaview (company blog) / Insight Partners",
+      "url": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting",
+      "also": [
+        {
+          "label": "Insight Partners - Behind the investment: Metaview",
+          "url": "https://www.insightpartners.com/ideas/behind-the-investment-metaview/"
+        },
+        {
+          "label": "Axios Pro - Metaview $60M Insight-led",
+          "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/30/agentic-recruiting-metaview-60m"
+        },
+        {
+          "label": "The Next Web - Metaview $60M Series C",
+          "url": "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 218 Late Afternoon after No. 217 Afternoon). PRIMARY Metaview blog Sep 30: $60M Series C Insight-led; total $110M; agentic recruiting platform; >7k companies. Secondary Insight Partners note + Axios Pro/TNW. Stick to disclosed round size; do not invent valuation. Owner Quill.",
+      "grafs": [
+        "Metaview announced on September 30, 2026 that it raised a $60 million Series C led by Insight Partners, with participation from GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, and Garuda Ventures, bringing total funding to $110 million.",
+        "The company said more than 7,000 companies now hire with Metaview and that it is expanding from capturing hiring conversations into an end-to-end agentic recruiting platform covering sourcing, application review, structured screening, and interview intelligence, with people retaining final hiring decisions.",
+        "Proceeds will fund platform expansion (including AI screening agents and the fillmore autonomous recruiting coworker), a New York office alongside London and San Francisco, and headcount growth from about 80 toward 250 by the end of next year. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
