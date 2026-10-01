@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 214,
+  "number": 215,
   "city": "New York",
   "date": "Thursday, October 1, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Midafternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~10:51 AM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
-    "updated": "Oct 1 ~10:51 AM ET Midday No. 214. Cash mid-session: indexes soft vs Midmorning; NVDA still bid, MU/AMD softer; SoftBank Tokyo settle still +4.21%.",
-    "line": "CASH Thu · S&P 7,640.34 (−0.15%) · Dow 50,722.59 (−0.36%) · Nasdaq 26,840.56 (−0.08%) · NVDA $230.10 (+0.75%) · AMD $608.69 (−0.50%) · MU $1,047.37 (−1.67%) · MSFT $514.40 (+0.29%) · VIX 17.09 · 10-y 5.306% · 30-y 5.659% · WTI $91.96 (+1.70%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.75 (+3.44%)"
+    "source": "Yahoo Finance chart API (~11:50 AM ET Thu). US cash session (regular prints). SoftBank Tokyo Oct 1 settle from Yahoo daily chart; SFTBY ADR cash.",
+    "updated": "Oct 1 ~11:50 AM ET Midafternoon No. 215. Cash softens vs Midday; yields off highs; SoftBank Tokyo settle still +4.21%.",
+    "line": "CASH Thu · S&P 7,623.75 (−0.36%) · Dow 50,646.98 (−0.51%) · Nasdaq 26,742.48 (−0.44%) · NVDA $229.12 (+0.32%) · AMD $610.38 (−0.23%) · MU $1,047.30 (−1.67%) · MSFT $513.00 (+0.02%) · VIX 17.35 · 10-y 5.253% · 30-y 5.616% · WTI $92.54 (+2.34%) · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.66 (+2.99%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Midday cash soft. SoftBank T3 still MAJOR. ADD boe-fpc-ai-debt.",
+    "hed": "Midafternoon soft. SoftBank T3 still MAJOR. ADD AVGO-Anthropic $42B, NVDA GPU finance, Investcorp NAPE II.",
     "signed": "Scout",
-    "body": "Midday No. 214 after Midmorning No. 213. Cash ~10:51 ET: S&P −0.15%, Nasdaq −0.08%, Dow −0.36%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: BoE FPC Sept Record (pub Sept 30) on AI-related debt ~$450B / interconnected risks (miss through Midmorning). Declined Instinct $1B Series C (Sept 28 consumer agent; off core PE/finance plate) and Carlyle Thomas rewrite (primary Sept 15; themes already on kkr-ai-compute). X MCP still client-not-enrolled. Owners: Quill ×1."
+    "body": "Midafternoon No. 215 after Midday No. 214. Cash ~11:50 ET: S&P −0.36%, Nasdaq −0.44%, Dow −0.51%; SoftBank Tokyo settle 6,701 (+4.21%) still the lead ticker. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Broadcom up to $42B convertible lend to Anthropic (Reuters exclusive Oct 1 on IPO filing; missed at Midday); Nvidia $500B chip-backed financing lender pushback (Reuters Focus Oct 1); Investcorp NAPE Fund II $1.22B final close (Oct 1). Declined Carlyle Thomas rewrite again (primary Sept 15; themes on kkr-ai-compute/boe-fpc). X MCP still client-not-enrolled. Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 214 Midday after No. 213 Midmorning. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
+    "line": "No. 215 Midafternoon after No. 214 Midday. SoftBank OpenAI T3 remains MAJOR lead. Watch: CNBC AI Forum Dallas (main sessions ~3pm ET, Bret Taylor/Wells); Nike earnings AH; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock after Federal Register."
   },
   "sections": [
     "All",
@@ -59,6 +59,108 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "broadcom-anthropic-42",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI infra",
+      "hed": "Broadcom to lend Anthropic up to $42B (convertible) for TPU lease infra, IPO filing shows",
+      "dek": "Reuters exclusive (Oct 1, via CNBC/CNA): Anthropic IPO prospectus discloses Broadcom agreed to lend up to $42B to finance infrastructure spending. Convertible notes could convert into Anthropic shares; Broadcom may designate a financing partner; Anthropic does not expect notes sold before IPO. Facility could fund about one-third of Anthropic's $125.2B five-year TPU lease commitment (Google/Broadcom TPUs; multi-GW capacity from 2027). Anthropic expected to become Broadcom's largest compute customer in 2027; Broadcom projects AI semis ~$115B FY27 / ~$230B FY28. Filing flags potential conflicts of interest (supplier + financier). Complements anthropic-ipo-prospectus, broadcom ($60B+ shop), nvidia-gpu-finance. NOT MAJOR (SoftBank T3 remains lead). Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Reuters exclusive via CNBC; Channel NewsAsia",
+      "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html",
+      "also": [
+        {
+          "label": "Reuters - Broadcom lend Anthropic up to $42B (Oct 1)",
+          "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/"
+        },
+        {
+          "label": "CNA - Exclusive Broadcom Anthropic $42B",
+          "url": "https://www.channelnewsasia.com/business/exclusive-broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-6424136"
+        },
+        {
+          "label": "Prior plate - anthropic-ipo-prospectus",
+          "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+        },
+        {
+          "label": "Prior plate - broadcom ($60B+ AI chip financing shop)",
+          "url": "https://www.reuters.com/technology/broadcom-seeks-more-than-60-billion-latest-ai-debt-deal-bloomberg-news-reports-2026-08-20/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 215 Midafternoon after No. 214 Midday). PRIMARY Reuters exclusive Oct 1 on Anthropic IPO filing: Broadcom up to $42B lend for infra / TPU leases; convertible; ~1/3 of $125.2B five-year TPU lease; largest Broadcom compute customer 2027. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Reuters reported exclusively on October 1, 2026 that Anthropic's IPO prospectus shows Broadcom has agreed to lend Anthropic up to $42 billion to finance infrastructure spending tied to chip leasing.",
+        "Under the arrangement, Broadcom could designate a financing partner, and the debt instruments could be converted into Anthropic shares. Anthropic said in the filing it does not expect any notes to be sold before it completes its IPO.",
+        "The convertible note could finance about one-third of Anthropic's $125.2 billion commitment for a five-year lease of TPU computing capacity. Google and Broadcom collaborate on TPU generations; Anthropic's April expansion with Broadcom and Google targets multiple gigawatts of next-generation TPU capacity beginning in 2027.",
+        "Anthropic is expected to become Broadcom's largest compute customer in 2027. Broadcom projects AI semiconductor revenue of about $115 billion in fiscal 2027 and $230 billion in fiscal 2028.",
+        "The prospectus flags potential conflicts of interest from Broadcom acting as both hardware supplier and financing partner. Broadcom did not comment; Anthropic declined to comment."
+      ]
+    },
+    {
+      "id": "nvidia-gpu-finance",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Nvidia",
+      "hed": "Reuters: lenders want stronger guarantees on Nvidia's $500B chip-backed financing plan",
+      "dek": "Reuters Focus (Oct 1): Wall Street more cautious than Nvidia on treating GPUs as long-term collateral for the ~$500B financing initiative announced with Blackstone, Apollo and KKR in August. Banking sources say Nvidia may need guarantees on deals or IG customer revenue streams; pipeline deals likely to carry stronger guarantees/contracts. Nvidia spokesperson: AI compute is productive, durable and fungible; partners assess customer commitments, cash flow and residual value; structures will vary. Context: CoreWeave $8.5B A3 GPU-backed loan (Meta contracts); Broadcom backstopped >80% of a $35B Anthropic-related structure. Complements boe-fpc-ai-debt, kkr-ai-compute, broadcom-anthropic-42. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Reuters (via Street Insider)",
+      "url": "https://www.reuters.com/legal/transactional/nvidias-bet-that-its-chips-can-finance-ai-boom-gets-wall-street-reality-check-2026-10-01/",
+      "also": [
+        {
+          "label": "Street Insider syndicated Reuters text",
+          "url": "https://www.streetinsider.com/Reuters/Nvidias+bet+that+its+chips+can+finance+the+AI+boom+gets+a+Wall+Street+reality+check/27130704.html"
+        },
+        {
+          "label": "Prior plate - kkr-ai-compute",
+          "url": "https://www.kkr.com/insights/let-there-be-compute"
+        },
+        {
+          "label": "Prior plate - boe-fpc-ai-debt",
+          "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026"
+        },
+        {
+          "label": "Prior plate - broadcom-anthropic-42",
+          "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 215 Midafternoon after No. 214 Midday). PRIMARY Reuters Oct 1 Focus on lender pushback vs Nvidia $500B chip-backed financing (limited residual-value guarantee frame). Stick to on-record quotes and disclosed structure points. Owner Quill.",
+      "grafs": [
+        "Reuters reported on October 1, 2026 that lenders and credit managers are pushing Nvidia for higher guarantees than originally outlined under its roughly $500 billion chip-backed financing plan, questioning how long GPU compute can support debt as long-term collateral.",
+        "The plan, announced in August with financiers including Blackstone, Apollo and KKR, envisioned using chips as collateral with limited guarantee (Nvidia has said some deals could have no more than a 25% residual value guarantee) to open institutional capital for AI developers, analogous in ambition to aircraft leasing markets.",
+        "Three banking sources familiar with the matter told Reuters Nvidia may need to offer guarantees on all deals, or back them with revenue streams from investment-grade technology customers. Sources said tens of billions of dollars of pipeline loans are likely to carry stronger guarantees and contracts.",
+        "An Nvidia spokesperson said AI compute is a productive, durable and fungible asset that can support long-term financing, that partners independently assess customer commitments, expected cash flow and residual value, and that financing structures will vary as the market develops.",
+        "Comparables cited by Reuters include CoreWeave's $8.5 billion A3-rated GPU-backed facility (supported by Meta contractual payments) and Broadcom backstopping more than 80% of a $35 billion financing structure tied to Anthropic compute."
+      ]
+    },
+    {
+      "id": "investcorp-nape-ii",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Fundraising",
+      "hed": "Investcorp closes NAPE Fund II at $1.22B (above $1.1B target) for mid-market services; AI value-creation push",
+      "dek": "Investcorp (Oct 1): final close of North American Private Equity Fund II at $1.22B, exceeding $1.1B target and up vs Fund I, in a difficult fundraising environment. Focus: business/professional and commercial services; targets $10-$50M EBITDA companies. Current Fund II holdings: Guardian Fire Services (Nashville; Dec 2025) and Berger Financial Group (Plymouth, MN RIA; July 2026). Co-Heads Steve Miller and Nicky McGrane; Dale O'Connell named Head of IR/Fundraising (from Palladium). McGrane: plan to embed AI capabilities in portfolio incumbents. NAPE history: 40+ years, 75+ investments, >$25B transaction value. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Investcorp",
+      "url": "https://www.investcorp.com/investcorp-raises-1-22-billion-for-second-north-american-private-equity-fund-exceeding-1-1-billion-target/",
+      "also": [
+        {
+          "label": "Investcorp - NAPE Fund II close (Oct 1, 2026)",
+          "url": "https://www.investcorp.com/investcorp-raises-1-22-billion-for-second-north-american-private-equity-fund-exceeding-1-1-billion-target/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 215 Midafternoon after No. 214 Midday). PRIMARY Investcorp Oct 1 press: NAPE Fund II $1.22B final close above $1.1B target; mid-market services; AI embedding for value creation. Owner Quill.",
+      "grafs": [
+        "Investcorp announced on October 1, 2026 the final closing of its North American Private Equity Fund II at $1.22 billion, exceeding its $1.1 billion target and increasing versus Fund I despite a difficult fundraising environment.",
+        "Fund II focuses on growing middle-market business, professional and commercial services companies, targeting businesses with between $10 million and $50 million of EBITDA in fragmented sub-sectors with stable demand.",
+        "Current Fund II investments are Guardian Fire Services (Nashville; invested December 2025) and Berger Financial Group (Plymouth, Minnesota fee-only RIA; invested July 2026).",
+        "Co-Head Nicky McGrane said Investcorp plans to expand value-creation resources and bring artificial intelligence capabilities to portfolio companies, pairing established incumbents with AI embedding.",
+        "Investcorp's North American Private Equity group has completed more than 75 middle-market investments and deployed more than $25 billion in transaction value since inception."
       ]
     },
     {
