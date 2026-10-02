@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 226,
+  "number": 227,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart API (~10:50 AM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = -5.83%).",
-    "updated": "Oct 2 ~10:50 AM ET Late Morning No. 226. Cash Fri session: S&P 7,748.93 (+1.08%); Dow 51,252.12 (+0.64%); Nasdaq 27,323.11 (+1.68%); NVDA +2.71%; AMD +3.99%; MU -0.89%; MSFT +0.75%; NKE -5.16%; AVGO +3.44%; VIX 15.44; 10-y 5.214%; 30-y 5.575%; WTI $88.74. SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.73. ES ~7,804.5; NQ ~31,253.5.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,748.93 (+1.08%) · Dow 51,252.12 (+0.64%) · Nasdaq 27,323.11 (+1.68%) · NVDA $237.12 (+2.71%) · AMD $640.29 (+3.99%) · MU $1,087.61 (−0.89%) · MSFT $516.63 (+0.75%) · NKE $33.34 (−5.16%) · AVGO $355.46 (+3.44%) · VIX 15.44 · 10-y 5.214% · 30-y 5.575% · WTI $88.74 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.73 · ES fut ~7,804.5 · NQ fut ~31,253.5"
+    "source": "Yahoo Finance chart API (~12:00 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
+    "updated": "Oct 2 ~12:00 PM ET Midday No. 227. Cash Fri session: S&P 7,726.76 (+0.79%); Dow 51,131.52 (+0.40%); Nasdaq 27,219.29 (+1.29%); NVDA +2.14%; AMD +3.05%; MU −1.45%; MSFT +0.41%; NKE −5.45%; AVGO +3.36%; VIX 15.55; 10-y 5.256%; 30-y 5.615%; WTI $90.94. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.80. ES ~7,773.5; NQ ~31,090.8.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,726.76 (+0.79%) · Dow 51,131.52 (+0.40%) · Nasdaq 27,219.29 (+1.29%) · NVDA $235.79 (+2.14%) · AMD $634.54 (+3.05%) · MU $1,081.45 (−1.45%) · MSFT $514.91 (+0.41%) · NKE $33.23 (−5.45%) · AVGO $355.19 (+3.36%) · VIX 15.55 · 10-y 5.256% · 30-y 5.615% · WTI $90.94 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.80 · ES fut ~7,773.5 · NQ fut ~31,090.8"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Morning: SoftBank T3 still MAJOR. ADD Apollo–JERA–RHAELM Chiba >$15B AI campus (intent) and Supabase $150M + Turso.",
+    "hed": "Midday: SoftBank T3 still MAJOR. ADD Jolt-Mirova PE arm and arXiv shared-models order-flow.",
     "signed": "Scout",
-    "body": "Late Morning No. 226 after Midmorning No. 225. US cash ~10:50 AM ET: S&P +1.08% / Nasdaq +1.68%; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: JERA Oct 1 MoU with Dell/RHAELM; Apollo intends as strategic investment/financing partner for RHAELM on Chiba behind-the-meter AI campus (> $15B, up to 400 MW, ops ~2028); Supabase Oct 2 $150M led by GIC (+ CapitalG) and Turso acquisition for agentic databases. Declined: Long Lake–Amex GBT close (Sep 29, stale for hourly), Allianz Scaleup (already declined), GMI Cloud $668M (already plated), PaleBlueDot $200M (already plated). Owners: Quill x2."
+    "body": "Midday No. 227 after Late Morning No. 226. US cash ~12:00 PM ET: gains off highs vs Late Morning tape (S&P now +0.79% / Nasdaq +1.29%; SoftBank Tokyo settle still 6,310 (−5.83%)). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Jolt Capital Oct 2 acquires Mirova PE business (MEAC + MILE funds/teams/portfolios; early-growth EUR 3-10M; Jolt.Ninja AI); arXiv:2610.01897 Shared Models, Selective Trading, and Order Flow (installed vs active LLM representation). Declined: Allianz Scaleup (already declined), Long Lake-Amex GBT (stale Sep 29 close), Samsung Helix / Halluminate / Flow / DIG Fund III / Bloomberg Canoe / Supabase (already plated). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 226 Late Morning after No. 225 Midmorning. SoftBank OpenAI T3 remains MAJOR lead. Watch: Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Supabase Turso close terms; Mynt official IPO price; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 227 Midday after No. 226 Late Morning. SoftBank OpenAI T3 remains MAJOR lead. Watch: Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Jolt-Mirova AUM/close terms; Supabase Turso close terms; Mynt official IPO price; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -59,6 +59,65 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "jolt-mirova",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Europe deeptech",
+      "hed": "Jolt Capital acquires Mirova PE arm (MEAC and MILE); extends into early-growth tech",
+      "dek": "EIN Presswire / Jolt Capital (Oct 2, 2026, 07:23 GMT): Jolt Capital announces acquisition of Mirova's private equity business, including Mirova Environment Acceleration Capital (MEAC) and Mirova Impact Life Essentials (MILE) funds, dedicated teams, and full portfolios. Upon transfer completion Jolt assumes fund management. Expands platform upstream to European advanced-tech companies with EUR 3M-10M revenue (adjacent to existing growth funds above EUR 10M). MEAC tickets EUR 5M-30M environmental early-growth; MILE French/European growth with tech-driven social solutions. Jolt.Ninja AI platform cited for sourcing/analysis/monitoring; Ambrym Advisory advised Jolt. Deal value undisclosed. NewsAssetPro (Oct 2) frames as completed transfer from Natixis IM affiliate. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "EIN Presswire (Jolt Capital)",
+      "url": "https://www.einpresswire.com/article/946866916/jolt-capital-expands-its-investment-platform-into-early-growth-with-the-acquisition-of-mirova-s-private-equity-business",
+      "also": [
+        {
+          "label": "NewsAssetPro - Jolt completes Mirova PE arm acquisition (Oct 2, 2026)",
+          "url": "https://www.newsassetpro.com/en/jolt-capital-completes-acquisition-of-mirovas-private-equity-arm/016950949"
+        },
+        {
+          "label": "EIN News mirror (same Jolt release)",
+          "url": "https://www.einnews.com/pr_news/946866916/jolt-capital-expands-its-investment-platform-into-early-growth-with-the-acquisition-of-mirova-s-private-equity-business"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 227 Midday after No. 226 Late Morning). PRIMARY Jolt Capital via EIN Presswire Oct 2: acquires Mirova PE business (MEAC + MILE funds, teams, portfolios); early-growth EUR 3-10M revenue adjacency; Jolt.Ninja AI cited. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Jolt Capital, a private equity firm focused on European technology scale-ups, announced on October 2, 2026 that it is acquiring Mirova's private equity business, according to a company release on EIN Presswire timed 07:23 GMT.",
+        "The transaction includes the Mirova Environment Acceleration Capital (MEAC) and Mirova Impact Life Essentials (MILE) funds. Dedicated teams join Jolt Capital and the funds' entire investment portfolios transfer with them. Upon completion of the transfer, Jolt Capital will assume responsibility for managing the funds. NewsAssetPro (Oct 2) described the move as a completed acquisition of Mirova's PE arm from the Natixis Investment Managers affiliate.",
+        "The deal extends Jolt's platform into early-growth European advanced technology companies generating between EUR 3 million and EUR 10 million in revenue, adjacent to Jolt's existing growth funds that target deeptech scale-ups above EUR 10 million. MEAC invests across Europe with tickets of EUR 5 million to EUR 30 million in environmental early-growth businesses; MILE backs unlisted French and European growth companies using technology-driven solutions for social challenges. Strategies and impact objectives of the incoming funds are intended to remain unchanged.",
+        "Jolt said incoming teams will use its value-creation partner network (more than 20 experts across the US, Canada, Europe, Japan, China and Korea), its Investor Relations capabilities strengthened via Jolt Capital V fundraising, and Jolt.Ninja, its proprietary AI platform for investment sourcing, analysis and portfolio monitoring. Ambrym Advisory advised Jolt. Transaction consideration was not disclosed.",
+        "Why it matters for Marcelo: European PE platform M&A into early-growth deeptech with an explicit AI operating system (Jolt.Ninja), adjacent to Advent-relevant growth/tech scale-up themes. Next owner Quill for a short plate note; watch for AUM figures and close confirmation beyond the press release framing."
+      ]
+    },
+    {
+      "id": "arxiv-shared-models-orderflow",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Quant AI",
+      "hed": "arXiv: shared LLM models, selective trading, and order-flow representation",
+      "dek": "arXiv:2610.01897 Shared Models, Selective Trading, and Order Flow (Li/Bandyopadhyay, Sept. 30, 2026): in synthetic markets with a fixed mix of three LLM families, news presentation changes which families submit orders. Financing event: Qwen's share of submitted orders shifts 48 pp with little change in net order counts; layoff event: Mistral share shifts ~40 pp and net counts reverse sign. Homogeneous populations remove opposing flow when active decisions share a direction. Analytical decomposition: selection can improve or worsen price accuracy even at unchanged aggregate demand sensitivity. Evidence is presentation bundles and submitted flow; Study 2 / known-value validation specified prospectively. Distinct from plated llm-capability-paradox (2609.04373). NOT MAJOR. Owner Quill.",
+      "date": "Sept. 30, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.01897",
+      "also": [
+        {
+          "label": "arXiv HTML - Shared Models, Selective Trading, and Order Flow",
+          "url": "https://arxiv.org/html/2610.01897"
+        },
+        {
+          "label": "Prior plate - Why Better Models Can Create Riskier Systems (arXiv:2609.04373)",
+          "url": "https://arxiv.org/abs/2609.04373"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 227 Midday). PRIMARY arXiv:2610.01897: installed vs active LLM representation in synthetic announcement markets; large family-share shifts; selection vs aggregate flow and price-accuracy identity. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "arXiv:2610.01897 (Li and Bandyopadhyay, September 30, 2026) studies whether model diversity survives selection into trading when markets are populated by language-model agents from three families (Llama 3.1 8B, Qwen 2.5 7B, Mistral 7B) in fixed one-third shares.",
+        "Matched experiments vary news presentation of financing and workforce-reduction announcements. At the announcement round, Qwen's share of submitted orders shifts by 48 percentage points in the financing event with little change in net order counts. In the workforce-reduction event, Mistral's share shifts by about 40 percentage points while net counts reverse sign. Homogeneous all-Mistral or all-Qwen populations remove opposing flow when their active decisions share a direction.",
+        "An analytical decomposition separates fixed demand-weight diversification from selection into demand, showing why selection can improve or worsen price accuracy even when aggregate demand sensitivity is unchanged. The authors stress that the evidence concerns presentation bundles and submitted flow, with cleaner replication and a known-value validation specified prospectively (Study 2). The paper is distinct from the plated llm-capability-paradox note on arXiv:2609.04373.",
+        "Why it matters for Marcelo: direct AI-markets research on how LLM agent composition translates (or fails to translate) into order flow and pricing risk, relevant to Advent/finance AI diligence. Next owner Quill for a short research brief."
       ]
     },
     {
