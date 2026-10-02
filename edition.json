@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 223,
+  "number": 224,
   "city": "New York",
-  "date": "Thursday, October 1, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Friday, October 2, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (~7:50 PM ET Thu). US cash close prints unchanged vs No. 222 Late Evening (session closed). SoftBank Tokyo Oct 1 settle from Yahoo daily chart (6,701 vs Sep 30 6,430 = +4.21%); SFTBY ADR cash. ES/NQ futures soft; WTI ~$93.0. Nike AH quote still unavailable via Yahoo postMarket fields (cash $35.15 on tape).",
-    "updated": "Oct 1 ~7:50 PM ET Late Evening No. 223. Cash tape unchanged vs Late Evening No. 222: S&P 7,666.45 (+0.19%); Dow 50,926.56 (+0.04%); Nasdaq 26,871.60 (+0.04%); NVDA +1.09%; MU +3.03%; MSFT -0.02%; WTI ~$93.0; SoftBank Tokyo settle +4.21%; SFTBY +3.74% (prior tape ADR day %). NKE cash $35.15 (-0.71%). Futures ~7:50 PM ET: ES ~7,730; NQ ~30,816.",
-    "line": "CASH CLOSE Thu · S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI $92.99 · SoftBank Tokyo 6,701 (+4.21%) · SFTBY $20.81 (+3.74%) · ES fut ~7,730 · NQ fut ~30,816"
+    "source": "Yahoo Finance chart API (~8:55 AM ET Fri). US cash still Thu Oct 1 close (pre-open). SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = -5.83%). SFTBY ADR still Thu cash close. ES/NQ and WTI futures refreshed pre-cash open.",
+    "updated": "Oct 2 ~8:55 AM ET Morning No. 224. Cash Thu close unchanged: S&P 7,666.45 (+0.19%); Dow 50,926.56 (+0.04%); Nasdaq 26,871.60 (+0.04%); NVDA +1.09%; MU +3.03%; MSFT -0.02%; NKE -0.71%; VIX 16.39; 10-y 5.237%; 30-y 5.603%; WTI futures ~$89.4 (overnight). SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). Futures ~8:55 AM ET: ES ~7,785; NQ ~31,094.",
+    "line": "PRE-OPEN Fri · Cash CLOSE Thu: S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI fut ~$89.4 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.76 (Thu) · ES fut ~7,785 · NQ fut ~31,094"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Evening: SoftBank T3 still MAJOR. ADD Dynatrace-Arize close, Mynt IPO price (Reuters sources). Cash tape unchanged.",
+    "hed": "Morning: SoftBank T3 still MAJOR. ADD Salesforce-Listen DA, BIS AI circular bulletin, Carlyle AI credit note. SoftBank Tokyo -5.83%.",
     "signed": "Scout",
-    "body": "Late Evening No. 223 after Late Evening No. 222. Cash close prints unchanged (Yahoo); futures ES ~7,730 / NQ ~30,816; WTI ~$93.0. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Dynatrace completes Arize acquisition (Dynatrace IR Oct 1 4:05 PM ET; $915M structure from Aug 13 IR); Mynt/GCash IPO priced at 6.60 pesos/share per Reuters sources (~53B pesos raise; company declined to confirm; Oct 20 debut). Declined: Parakeet Health $10M Series A (near Satlyt below-bar), SoundThinking-Transom (Sep 29), ThreatBook-CyberStrikeAI (undisclosed terms), recycled Graphwise/Oakley (August), Willow Tree CV (August). X API client-not-enrolled. Owners: Quill x2."
+    "body": "Morning No. 224 after Late Evening No. 223. US cash still Thu close (pre-open); SoftBank Tokyo Oct 2 settle 6,310 (-5.83% vs Oct 1 6,701); ES ~7,785 / NQ ~31,094; WTI fut ~$89.4. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Salesforce signs definitive agreement to acquire Listen Labs (Salesforce newsroom Sep 29; Listen Labs blog; terms undisclosed; close eyed Q4 FY27; BI ~$2B was talks only); BIS Bulletin Oct 1 on AI circular investment (28.7%/55.2%/46.4% takeaways); Carlyle Oct 1 Financing AI without a SaaS repeat (~$1T private-credit estimate). Declined: Replit-Atta (Sep 25, stale), SequenceHash Trail of Bits (crypto, off-beat), PIMCO Stracke TV clip without primary transcript, PitchBook Francisco/PSG Q3 wrap (mostly July/Sep already plated). X API client-not-enrolled. Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 223 Late Evening after No. 222 Late Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: Mynt official IPO price disclosure vs Reuters sources; PaleBlueDot $600M private-credit chip facility (sought, not closed); Nike AH/call follow-through; onsemi/Synaptics path; IVAI offering close; Nucleus Network binding bids Friday; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock."
+    "line": "No. 224 Morning after No. 223 Late Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: US cash open; SoftBank Tokyo follow-through; Salesforce-Listen regulatory path and any term disclosure; Mynt official IPO price vs Reuters sources; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock."
   },
   "sections": [
     "All",
@@ -59,6 +59,81 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "salesforce-listen-da",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / M&A",
+      "hed": "Salesforce signs definitive agreement to acquire Listen Labs; terms undisclosed; close eyed Q4 FY27",
+      "dek": "Salesforce newsroom Sep 29, 2026: signed definitive agreement to acquire Listen Labs (AI customer-research and human-simulation). Close expected Q4 Salesforce FY27 subject to customary conditions and regulatory clearance. Terms not disclosed. Listen Labs blog same day: joining Salesforce AI Labs; CEO Alfred Wahlforss and CTO Florian stay. Plate still had Sept 9 BI ~$2B talks. NOT MAJOR. Owner Quill.",
+      "date": "Sept. 29, 2026",
+      "source": "Salesforce",
+      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/",
+      "also": [
+        {
+          "label": "Listen Labs blog - joining Salesforce (Sep 29, 2026)",
+          "url": "https://listenlabs.ai/blog/listen-labs-is-joining-salesforce"
+        },
+        {
+          "label": "StreetInsider - Salesforce agrees to acquire Listen Labs (Sep 29)",
+          "url": "https://www.streetinsider.com/Corporate+News/Salesforce+agrees+to+acquire+AI+research+platform+Listen+Labs/27122914.html"
+        },
+        {
+          "label": "Prior plate - BI talks ~$2B (Sept. 9)",
+          "url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 224 Morning after No. 223 Late Evening). PRIMARY Salesforce newsroom Sep 29 DA; Listen Labs blog confirms joining Salesforce AI Labs with founders staying. Terms undisclosed. Close expected Q4 Salesforce FY27 subject to regulatory clearance. BI ~$2B was Sept 9 talks context only (salesforce-listen remains on plate). SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "Salesforce said on September 29, 2026 that it signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform, according to a company newsroom release.",
+        "The transaction is expected to close in the fourth quarter of Salesforce's fiscal year 2027, subject to customary closing conditions including required regulatory clearance. Financial terms were not disclosed.",
+        "Listen Labs said the same day that it is joining Salesforce, with CEO Alfred Wahlforss and CTO Florian staying and the team continuing to build inside Salesforce AI Labs. The September 9 Business Insider report of talks around $2 billion remains context only; this plate item is the signed DA, not a confirmed purchase price. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "bis-ai-circular",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Central banks / AI",
+      "hed": "BIS: AI-to-AI deals were 28.7% of AI firms' investment value; circular ties raise macro opacity risks",
+      "dek": "BIS Bulletin (Oct 1, 2026), Circular relationships among AI firms: 2021-2025, 28.7% of AI firms' investment deals by value targeted other AI firms; 55.2% of inbound AI-firm investment came from AI firms. Of AI-to-AI deals, 16.1% by count and 46.4% by value also had commercial supply-chain links. Flags macroeconomic risks and opacity. Distinct from Sept 10 bis-ai-stability. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Bank for International Settlements",
+      "url": "https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms",
+      "also": [
+        {
+          "label": "Yonhap Infomax - BIS warns on AI circular transactions",
+          "url": "https://en.infomaxai.com/news/articleView.html?idxno=141728"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 224 Morning after No. 223 Late Evening). PRIMARY BIS Bulletin Oct 1 key takeaways only. Do not invent SPV/private-credit figures beyond bulletin takeaways plus secondary color. Distinct from bis-ai-stability (Sept 10). SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "The Bank for International Settlements published a bulletin dated October 1, 2026 on circular relationships among AI firms, finding that between 2021 and 2025, 28.7% of AI firms' investment deals by deal value involved a target that was also an AI firm, while 55.2% of incoming investments in AI firms came from other AI firms.",
+        "Of all AI-to-AI investment deals in that period, 16.1% by deal count and 46.4% by deal value also involved commercial supply-chain relationships between the investor and target firms, the BIS said.",
+        "The bulletin argues circular investment relationships can reflect the need to secure critical inputs and information asymmetries, yet they entail macroeconomic risks and increase opacity. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "carlyle-ai-saas-credit",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Private credit / AI",
+      "hed": "Carlyle: AI compute may need ~$1T private credit; SaaS credit playbook is the wrong template",
+      "dek": "Carlyle Global Insights (Oct 1, 2026), Jason Thomas and Mark Jenkins: Financing AI without a SaaS repeat. Bank analysts estimate ~$1T private credit for AI compute buildout (more than half industry AUM). AI credit more speculative and macro-correlated than SaaS. Lesson: set concentration limits before buildout accelerates. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Carlyle",
+      "url": "https://www.carlyle.com/global-insights/research/financing-ai-without-a-saas-repeat",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 224 Morning after No. 223 Late Evening). PRIMARY Carlyle Oct 1 whitepaper by Jason Thomas and Mark Jenkins. Stick to published bullets: ~$1T private-credit need (bank-analyst estimate; >half industry AUM); AI credit more speculative/correlated than SaaS; set concentration limits early. SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "Carlyle published Financing AI without a SaaS repeat on October 1, 2026, by Jason Thomas (Head of Global Research and Investment Strategy) and Mark Jenkins (Co-President and Head of Global Credit and Insurance).",
+        "The note says bank analysts estimate private credit will finance roughly $1 trillion of the AI compute buildout, more than half of the industry's current assets under management, through largely untested, bespoke structures.",
+        "Thomas and Jenkins argue AI-related credit risk looks more speculative, and more correlated with the broader economy, than SaaS lending ever was, and that the clearest lesson is to set concentration limits before the buildout accelerates further. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
