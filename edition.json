@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 224,
+  "number": 225,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Midmorning",
   "tape": {
-    "source": "Yahoo Finance chart API (~8:55 AM ET Fri). US cash still Thu Oct 1 close (pre-open). SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = -5.83%). SFTBY ADR still Thu cash close. ES/NQ and WTI futures refreshed pre-cash open.",
-    "updated": "Oct 2 ~8:55 AM ET Morning No. 224. Cash Thu close unchanged: S&P 7,666.45 (+0.19%); Dow 50,926.56 (+0.04%); Nasdaq 26,871.60 (+0.04%); NVDA +1.09%; MU +3.03%; MSFT -0.02%; NKE -0.71%; VIX 16.39; 10-y 5.237%; 30-y 5.603%; WTI futures ~$89.4 (overnight). SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). Futures ~8:55 AM ET: ES ~7,785; NQ ~31,094.",
-    "line": "PRE-OPEN Fri · Cash CLOSE Thu: S&P 7,666.45 (+0.19%) · Dow 50,926.56 (+0.04%) · Nasdaq 26,871.60 (+0.04%) · NVDA $230.86 (+1.09%) · AMD $615.73 (+0.65%) · MU $1,097.39 (+3.03%) · MSFT $512.80 (-0.02%) · NKE $35.15 (-0.71%) · VIX 16.39 · 10-y 5.237% · 30-y 5.603% · WTI fut ~$89.4 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.76 (Thu) · ES fut ~7,785 · NQ fut ~31,094"
+    "source": "Yahoo Finance chart API (~9:51 AM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = -5.83%).",
+    "updated": "Oct 2 ~9:51 AM ET Midmorning No. 225. Cash Fri session: S&P 7,745.06 (+1.03%); Dow 51,311.94 (+0.76%); Nasdaq 27,271.61 (+1.49%); NVDA +2.78%; AMD +3.51%; MU -0.62%; MSFT +0.61%; NKE -5.75%; AVGO +2.81%; VIX 15.69; 10-y 5.209%; 30-y 5.592%; WTI $89.26. SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.44. ES ~7,788; NQ ~31,122.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,745.06 (+1.03%) · Dow 51,311.94 (+0.76%) · Nasdaq 27,271.61 (+1.49%) · NVDA $237.27 (+2.78%) · AMD $637.37 (+3.51%) · MU $1,090.60 (-0.62%) · MSFT $515.92 (+0.61%) · NKE $33.13 (-5.75%) · AVGO $353.31 (+2.81%) · VIX 15.69 · 10-y 5.209% · 30-y 5.592% · WTI $89.26 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.44 · ES fut ~7,788 · NQ fut ~31,122"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Morning: SoftBank T3 still MAJOR. ADD Salesforce-Listen DA, BIS AI circular bulletin, Carlyle AI credit note. SoftBank Tokyo -5.83%.",
+    "hed": "Midmorning: SoftBank T3 still MAJOR. ADD Broadcom-Blackstone $60B chip debt talks, Sep payrolls +29k, Lambda $1.008B IG fixed facility.",
     "signed": "Scout",
-    "body": "Morning No. 224 after Late Evening No. 223. US cash still Thu close (pre-open); SoftBank Tokyo Oct 2 settle 6,310 (-5.83% vs Oct 1 6,701); ES ~7,785 / NQ ~31,094; WTI fut ~$89.4. SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Salesforce signs definitive agreement to acquire Listen Labs (Salesforce newsroom Sep 29; Listen Labs blog; terms undisclosed; close eyed Q4 FY27; BI ~$2B was talks only); BIS Bulletin Oct 1 on AI circular investment (28.7%/55.2%/46.4% takeaways); Carlyle Oct 1 Financing AI without a SaaS repeat (~$1T private-credit estimate). Declined: Replit-Atta (Sep 25, stale), SequenceHash Trail of Bits (crypto, off-beat), PIMCO Stracke TV clip without primary transcript, PitchBook Francisco/PSG Q3 wrap (mostly July/Sep already plated). X API client-not-enrolled. Owners: Quill x3."
+    "body": "Midmorning No. 225 after Morning No. 224. US cash open post Sep jobs: S&P +1.03% / Nasdaq +1.49%; SoftBank Tokyo settle 6,310 (-5.83%). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Bloomberg Law Oct 2 Blackstone/banks amassing $60B Broadcom AI chip package ($42B Class A + $18B Blackstone Class B; unannounced; distinct from plated $42B convertible); BLS Sep payrolls +29k / U-rate 4.2% / July-Aug revisions -60k; Lambda Oct 1 closes $1.008B IG fixed-rate delayed-draw GPU facility (distinct from Aug $926M TLB). Declined: Allianz Scaleup Europe Fund (Sep 17 stale), Superhuman-GPTZero (June announce rehash), Nebius-Inferize/Sharon AI already plated. X API client-not-enrolled. Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 224 Morning after No. 223 Late Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: US cash open; SoftBank Tokyo follow-through; Salesforce-Listen regulatory path and any term disclosure; Mynt official IPO price vs Reuters sources; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6; SEC private-markets comment clock."
+    "line": "No. 225 Midmorning after No. 224 Morning. SoftBank OpenAI T3 remains MAJOR lead. Watch: Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Mynt official IPO price; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -59,6 +59,82 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "broadcom-bx-60",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI infra",
+      "hed": "Blackstone, banks amass $60B for Broadcom AI chip financing aimed at Anthropic",
+      "dek": "Bloomberg Law (Oct 2, 2026, 11:34 AM UTC), Preeti Singh: Broadcom Wall Street syndicate starting to gather $60B fresh AI chip financing to benefit Anthropic and others; deal yet to be announced. Banks poised to send syndication letters for $42B Class A senior-secured tranche; Blackstone leading $18B Class B junior, committing $9B from various funds and syndicating the rest. Distinct from plated broadcom-anthropic-42 (Reuters Oct 1 IPO-filing convertible lend up to $42B). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/tech-and-telecom-law/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
+      "also": [
+        {
+          "label": "Bloomberg via Moneycontrol (same Oct 2 report)",
+          "url": "https://www.moneycontrol.com/news/business/broadcom-seeks-60-billion-for-ai-chips-as-anthropic-races-to-expand-computing-power-14043293.html"
+        },
+        {
+          "label": "Prior plate - Reuters Broadcom up-to-$42B convertible (Oct 1 IPO filing)",
+          "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 225 Midmorning after No. 224 Morning). PRIMARY Bloomberg Law Oct 2: $60B package taking shape ($42B Class A senior syndication letters; Blackstone $18B Class B with $9B fund commit). Unannounced, people-familiar. SoftBank OpenAI T3 remains MAJOR lead. Distinct from broadcom-anthropic-42. Owner Quill.",
+      "grafs": [
+        "Bloomberg Law reported on October 2, 2026 that Broadcom's Wall Street syndicate is starting to gather about $60 billion of fresh AI chip financing to benefit Anthropic and other companies, according to people with knowledge of the matter. The deal has yet to be announced.",
+        "Banks involved are poised to send out syndication letters for a $42 billion Class A senior-secured tranche, the people said. Blackstone is leading an $18 billion Class B junior tranche, committing $9 billion from various funds with plans to syndicate the rest. A Broadcom representative declined to comment in the Bloomberg account.",
+        "The package is distinct from the plated Reuters exclusive on Anthropic's IPO filing, which said Broadcom agreed to lend Anthropic up to $42 billion on convertible terms for infrastructure. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "payrolls-sep",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Labor",
+      "hed": "September payrolls +29,000; unemployment 4.2%; July/August revised down 60,000",
+      "dek": "BLS Employment Situation (USDL-26-1549, Oct 2, 8:30 AM ET): nonfarm payrolls +29,000 in September; unemployment rate 4.2%; unemployed 7.1 million. AHE +0.1% m/m to $37.81 (+3.0% y/y). Workweek 34.4 hours. July revised +21,000 to -10,000; August +162,000 to +133,000 (combined -60,000). CNBC: Dow Jones consensus had been +84,000 and 4.1% jobless. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "also": [
+        {
+          "label": "CNBC - Jeff Cox jobs report wrap (Oct 2)",
+          "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 225 Midmorning after No. 224 Morning). PRIMARY BLS Sep Employment Situation: +29k NFP, U-rate 4.2%, AHE +0.1%/+3.0% y/y, July/Aug revisions net -60k. Soft print vs ~84k consensus (CNBC). SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "The U.S. Bureau of Labor Statistics said on October 2, 2026 that nonfarm payroll employment rose by 29,000 in September and the unemployment rate was 4.2 percent, with 7.1 million people unemployed (USDL-26-1549).",
+        "Average hourly earnings edged up 0.1 percent to $37.81 (+3.0 percent over 12 months). The average workweek for all private nonfarm employees remained at 34.4 hours. July payrolls were revised from +21,000 to -10,000 and August from +162,000 to +133,000, a combined 60,000 lower than previously reported.",
+        "CNBC cited a Dow Jones consensus that had expected about 84,000 jobs and a 4.1 percent unemployment rate. SoftBank OpenAI T3 remains the MAJOR lead on this plate."
+      ]
+    },
+    {
+      "id": "lambda-1b-ig",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI infra",
+      "hed": "Lambda closes $1.008B investment-grade fixed-rate delayed-draw GPU facility",
+      "dek": "Lambda corporate blog (Oct 1, 2026): closed $1.008 billion delayed-draw term loan marketed to insurance and fixed-income investors to fund GPU infrastructure for three committed customer deployments with two investment-grade offtakers. First U.S. fixed-rate financing and first $1B-plus institutional debt raise; A (low) Morningstar DBRS and Baa1 Moody's; 6.78% fixed semi-annual coupon; final maturity May 30, 2033; fully amortizing; secured by GPU servers and contracted cash flows. J.P. Morgan sole coordinating lead. Distinct from plated lambda-debt (Aug 27 $926M TLB). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Lambda",
+      "url": "https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-fixed-rate-financing",
+      "also": [
+        {
+          "label": "Prior plate - Lambda $926M IG TLB (Aug 27)",
+          "url": "https://lambda.ai/blog/lambda-closes-926-million-senior-secured-term-loan-b-facility"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 225 Midmorning after No. 224 Morning). PRIMARY Lambda Oct 1 blog: $1.008B IG fixed-rate delayed-draw facility (DBRS A low / Moody's Baa1; 6.78%; maturity May 30, 2033). Distinct from lambda-debt Aug TLB. SoftBank OpenAI T3 remains MAJOR. Owner Quill.",
+      "grafs": [
+        "Lambda said on October 1, 2026 that it closed a $1.008 billion investment-grade delayed-draw term loan marketed to insurance companies and fixed-income investors to fund GPU infrastructure supporting three committed customer deployments with two investment-grade offtakers across multiple data centers.",
+        "The facility is Lambda's first U.S. fixed-rate financing and first $1 billion-plus institutional debt raise. It received an A (low) rating from Morningstar DBRS and Baa1 from Moody's, priced at a 6.78 percent fixed rate on a semi-annual coupon basis, matures May 30, 2033 on a fully amortizing profile, and is secured by the funded GPU servers and related contracted cash flows. J.P. Morgan was sole coordinating lead arranger, structuring agent, and bookrunner.",
+        "The close is separate from Lambda's August 27, 2026 $926 million senior secured Term Loan B already on the plate. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
