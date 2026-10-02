@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 228,
+  "number": 229,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid-Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~12:55 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
-    "updated": "Oct 2 ~12:55 PM ET Afternoon No. 228. Cash Fri session: S&P 7,723.08 (+0.74%); Dow 51,159.26 (+0.46%); Nasdaq 27,195.41 (+1.21%); NVDA +1.92%; AMD +2.42%; MU −1.71%; MSFT +0.24%; NKE −5.21%; AVGO +3.22%; VIX 15.65; 10-y 5.269%; 30-y 5.622%; WTI $91.46. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.72. ES ~7,771.75; NQ ~31,056.5.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,723.08 (+0.74%) · Dow 51,159.26 (+0.46%) · Nasdaq 27,195.41 (+1.21%) · NVDA $235.29 (+1.92%) · AMD $630.62 (+2.42%) · MU $1,078.65 (−1.71%) · MSFT $514.05 (+0.24%) · NKE $33.32 (−5.21%) · AVGO $354.71 (+3.22%) · VIX 15.65 · 10-y 5.269% · 30-y 5.622% · WTI $91.46 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.72 · ES fut ~7,771.75 · NQ fut ~31,056.5"
+    "source": "Yahoo Finance chart API (~1:55 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
+    "updated": "Oct 2 ~1:55 PM ET Mid-Afternoon No. 229. Cash Fri session: S&P 7,720.69 (+0.71%); Dow 51,164.09 (+0.47%); Nasdaq 27,182.10 (+1.16%); NVDA +1.65%; AMD +2.62%; MU −1.74%; MSFT +0.39%; NKE −4.57%; AVGO +2.79%; VIX 15.82; 10-y 5.285%; 30-y 5.637%; WTI $91.40. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.63. ES ~7,774.25; NQ ~31,036.75.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,720.69 (+0.71%) · Dow 51,164.09 (+0.47%) · Nasdaq 27,182.10 (+1.16%) · NVDA $234.68 (+1.65%) · AMD $631.86 (+2.62%) · MU $1,078.26 (−1.74%) · MSFT $514.83 (+0.39%) · NKE $33.55 (−4.57%) · AVGO $353.23 (+2.79%) · VIX 15.82 · 10-y 5.285% · 30-y 5.637% · WTI $91.40 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.63 · ES fut ~7,774.25 · NQ fut ~31,036.75"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Afternoon: SoftBank T3 still MAJOR. ADD Applied Digital Polaris +75 MW and Montagu Helix carve-out.",
+    "hed": "Mid-Afternoon: SoftBank T3 still MAJOR. ADD Fortress/H.I.G. Torque credit and arXiv DRL execution-collusion.",
     "signed": "Scout",
-    "body": "Afternoon No. 228 after Midday No. 227. US cash ~12:55 PM ET: modest drift vs Midday (S&P +0.74% / Nasdaq +1.21%; SoftBank Tokyo settle still 6,310 (−5.83%)). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Applied Digital IR Oct 2 +75 MW RFS at Polaris Forge 1 (campus 250 MW operational / 400 MW contracted); Montagu completes majority Helix carve-out from BMC (agentic AI ServiceOps; KKR keeps BMC + minority Helix; distinct from samsung-helix). Declined: Samsung Helix / Supabase-Turso / Halluminate / Broadcom-BX $60B / Replit-Atta (stale Sep) / CharliAI-Profitual (thin partnership PR) / Finsider product launch. X MCP client-not-enrolled (skipped). Owners: Quill x2."
+    "body": "Mid-Afternoon No. 229 after Afternoon No. 228. US cash ~1:55 PM ET: modest drift vs Afternoon (S&P +0.71% / Nasdaq +1.16%; SoftBank Tokyo settle still 6,310 (−5.83%)). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Fortress Oct 2 senior secured credit facility supporting H.I.G. acquisition of UK fulfilment specialist Torque Holdings (size undisclosed; Fortress sole lead arranger); arXiv:2610.00619 DRL liquidation agents learn punitive responses sustaining supra-competitive execution (collusion evidence; distinct from arxiv-shared-models-orderflow). Declined: Allianz/Scaleup Europe recirculation without primary Oct 2 Allianz IR; Hyperscale Data askROI strategic-alternatives (preliminary, thin); Neysa/Blackstone and Samsung Helix (stale / already plated); Omnes/Maritime Robotics (Sep 28–29). X MCP client-not-enrolled (skipped). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 228 Afternoon after No. 227 Midday. SoftBank OpenAI T3 remains MAJOR lead. Watch: Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Montagu-Helix post-carve integration; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Jolt-Mirova AUM/close terms; Supabase Turso close terms; Mynt official IPO price; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 229 Mid-Afternoon after No. 228 Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Montagu-Helix post-carve integration; Fed Oct hold odds after soft payrolls; Salesforce-Listen close path; H.I.G.–Torque close/integration and any disclosed facility size."
   },
   "sections": [
     "All",
@@ -59,6 +59,64 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "fortress-hig-torque",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Private credit",
+      "hed": "Fortress leads senior secured credit for H.I.G.'s acquisition of UK fulfilment specialist Torque",
+      "dek": "Fortress Investment Group (Oct 2, 2026): funds managed by Fortress affiliates provided a senior secured credit facility to Torque Holdings Ltd supporting its acquisition by funds managed by H.I.G. Capital affiliates. Fortress sole lead arranger; facility comprises a fully funded senior secured term loan plus a committed acquisition facility for growth including bolt-on M&A. H.I.G. PR Newswire (Sep 29, 2026) said an affiliate completed the Torque acquisition in partnership with management (Stewart Firth remains CEO); H.I.G. cites $75B capital under management. Torque (founded 1991, UK) provides omni-channel fulfilment/freight forwarding for premium consumer brands. Fortress AUM $55B as of June 30, 2026. Facility size and purchase price undisclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Fortress Investment Group",
+      "url": "https://www.fortress.com/news/2026-10-02-fortress-investment-group-leads-senior-secured-credit-facility-supporting-hig-capitals-acquisition-of-torque-holdings-ltd",
+      "also": [
+        {
+          "label": "H.I.G. Capital - Completes Acquisition of Torque (PR Newswire, Sep 29, 2026)",
+          "url": "https://www.prnewswire.com/news-releases/hig-capital-completes-acquisition-of-torque-302891996.html"
+        },
+        {
+          "label": "Torque Holdings (company site)",
+          "url": "https://torque.eu/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 229 Mid-Afternoon). PRIMARY Fortress Oct 2 financing print supporting H.I.G. Torque buyout (H.I.G. said completed Sep 29); size undisclosed; Fortress sole lead arranger. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Fortress Investment Group said on October 2, 2026 that funds managed by its affiliates provided a senior secured credit facility to Torque Holdings Ltd in support of Torque's acquisition by funds managed by affiliates of H.I.G. Capital.",
+        "Fortress served as sole lead arranger. The facility comprises a fully funded senior secured term loan and a committed acquisition facility intended to support Torque's continued growth, including bolt-on M&A. Facility size and purchase price were not disclosed.",
+        "Separately, H.I.G. Capital said via PR Newswire on September 29, 2026 that one of its affiliates had completed the acquisition of Torque Holdings Limited in partnership with management, with CEO Stewart Firth continuing to lead the business. H.I.G. cited $75 billion of capital under management.",
+        "Torque, founded in 1991 and headquartered in the United Kingdom, provides outsourced fulfilment and supply-chain services including warehousing, inventory and returns management, and international freight forwarding to premium and high-growth consumer brands. Fortress stated assets under management of $55 billion as of June 30, 2026. Why it matters for Marcelo: same-day private-credit print on a just-closed European PE buyout; next owner Quill for a short deal brief."
+      ]
+    },
+    {
+      "id": "arxiv-drl-execution-collusion",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Quant AI",
+      "hed": "arXiv: DRL liquidation agents show punitive responses that sustain supra-competitive execution",
+      "dek": "arXiv:2610.00619 Beyond Supra-Competitive Outcomes: Collusive Behaviour in Deep Reinforcement Learning for Optimal Execution Games (Koulouris/Campajola, Fri Oct 2, 2026 submissions): two independent PPO agents in a finite-horizon Almgren–Chriss liquidation game achieve costs below the Nash benchmark without communication or shared reward. Training against a fixed mean learned schedule identifies a profitable unilateral deviation; imposing its first trade elicits opponent acceleration of liquidation that more than offsets the gain while leaving the punisher's average payoff materially unchanged. Incentive and timing (total-variation) checks pass in all ten runs and both player roles. Distinct from plated arxiv-shared-models-orderflow (2610.01897). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.00619",
+      "also": [
+        {
+          "label": "arXiv HTML - Beyond Supra-Competitive Outcomes (2610.00619)",
+          "url": "https://arxiv.org/html/2610.00619"
+        },
+        {
+          "label": "Prior plate - Shared Models, Selective Trading, and Order Flow (2610.01897)",
+          "url": "https://arxiv.org/abs/2610.01897"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 229 Mid-Afternoon). PRIMARY arXiv:2610.00619: independent PPO liquidation agents learn punitive responses supporting supra-competitive (putatively collusive) execution outcomes; deviation and incentive checks. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "arXiv:2610.00619 (Koulouris and Campajola; listed among Friday, October 2, 2026 quantitative-finance submissions) studies whether deep reinforcement-learning agents in a two-player Almgren–Chriss liquidation game learn behaviours that sustain supra-competitive execution costs.",
+        "Independent proximal policy optimisation agents with within-episode price and action histories achieve implementation shortfall below a closed-loop Nash benchmark across ten trained pairs, without explicit communication or a shared reward. Training a new agent against a fixed mean learned liquidation schedule identifies a profitable unilateral deviation.",
+        "When that deviation's first trade is imposed on one of the original agents, the opponent accelerates liquidation. Across all runs and both player roles, the resulting loss more than offsets the deviation gain, while the punisher's average payoff remains materially unchanged versus not punishing under the same deviation. Formal incentive and execution-timing checks both hold.",
+        "Why it matters for Marcelo: AI-markets research linking multi-agent RL execution to algorithmic-collusion evidence (punishment that deters deviations), relevant to market-structure and trading-system diligence. Distinct from plated arxiv-shared-models-orderflow. Next owner Quill for a short research brief."
       ]
     },
     {
