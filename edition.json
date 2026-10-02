@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 232,
+  "number": 233,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Close",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (~4:57 PM ET Fri close). US cash CLOSE Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%). Close prints cross-check WTOP/MarketScreener (S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86).",
-    "updated": "Oct 2 ~4:57 PM ET Close No. 232. Cash Fri close: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU −2.05%; MSFT +0.92%; NKE −3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI $91.32. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.58 (−1.11%). ES ~7,776.25; NQ ~31,046.75.",
-    "line": "CLOSE Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (−2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (−3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI $91.32 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.58 (−1.11%) · ES fut ~7,776.25 · NQ fut ~31,046.75"
+    "source": "Yahoo Finance chart API (~5:53 PM ET Fri evening). US cash CLOSE unchanged vs Close No. 232 (cross-check WTOP/AP: S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86). SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%). Futures/WTI lightly refreshed post-close.",
+    "updated": "Oct 2 ~5:53 PM ET Evening No. 233. Cash Fri close unchanged: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU −2.05%; MSFT +0.92%; NKE −3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI ~$91.26 (Yahoo). SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.58 (−1.11%). ES ~7,776.50; NQ ~31,049.00.",
+    "line": "EVENING Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (−2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (−3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI ~$91.26 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.58 (−1.11%) · ES fut ~7,776.50 · NQ fut ~31,049.00"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Close: SoftBank T3 still MAJOR. ADD PIMCO Stracke AI-yields, emnify Herrmann CFO.",
+    "hed": "Evening: SoftBank T3 still MAJOR. ADD Monzo PE (CVC/Advent) after Nubank.",
     "signed": "Scout",
-    "body": "Close No. 232 after Near Close No. 231. US cash close ~4:57 PM ET: S&P +0.73% to 7,722.72 / Nasdaq +1.19% to 27,190.86; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: PIMCO President Christian Stracke on Bloomberg TV (AI/hyperscaler capital demand lifting real rates, not inflation; TIPS break-evens ~2.3%; Micron capex cited); emnify Sacha Herrmann CFO + Christian Friis CRO (Business Wire Oct 2). Declined: Neysa/Blackstone (Feb recirculation); BlackRock arXiv valuation-peer paper (2608 Aug id, not same-day); CoinShares/Aegean/Photon/Duke CFO prints (thin vs beat or already off-plate); X MCP client-not-enrolled (skipped). Owners: Quill x2."
+    "body": "Evening No. 233 after Close No. 232. US cash close unchanged (~5:53 PM ET Yahoo confirm): S&P 7,722.72 / Nasdaq 27,190.86; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: Monzo early PE talks with CVC and Advent International for up to 15% after Nubank walked on ~£10B valuation (FT via PE Wire/Investing/FStech Oct 2). Declined: Neysa/Blackstone recirculation; Nvidia-Anthropic $10B IPO talk (Sep 11 Reuters, not new); ThetaRay CFO (Sep 29 BW); SaaS multiples/Broadcom $60B already plated; X MCP client-not-enrolled (skipped). Owners: Quill x1."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 232 Close after No. 231 Near Close. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; Anthropic Academy cohort scale; ReliaQuest Oct 5 CFO start; Fed Oct hold odds after soft payrolls; Stracke AI-capex vs yields tape into next week."
+    "line": "No. 233 Evening after No. 232 Close. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; Monzo PE process (CVC/Advent and other funds); FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; ReliaQuest Oct 5 CFO start; Fed Oct hold odds after soft payrolls."
   },
   "sections": [
     "All",
@@ -59,6 +59,38 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "monzo-pe-nubank",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Fintech",
+      "hed": "Monzo courts CVC and Advent for up to 15% stake after Nubank walks on ~£10B talks",
+      "dek": "Financial Times (Oct 2, 2026), via Private Equity Wire / Investing.com / FStech: UK digital bank Monzo is in early-stage talks with CVC and Advent International about selling as much as 15% of the business after Brazilian fintech Nubank ended takeover talks over valuation (reports had cited up to ~£10B). PE is now Monzo's preferred growth-capital path vs a conventional VC round; advisers expected to engage more fund managers. Monzo, Nubank, Advent, and CVC declined to comment per PE Wire. Nubank said Wednesday it is not in active takeover talks. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Financial Times (via Private Equity Wire)",
+      "url": "https://www.privateequitywire.co.uk/monzo-turns-to-pe-after-nubank-ends-takeover-talks/",
+      "also": [
+        {
+          "label": "Financial Times - Monzo courts private equity after Nubank walks away",
+          "url": "https://www.ft.com/content/57de6604-70a9-413a-a381-9ba82ec202ec"
+        },
+        {
+          "label": "Investing.com - Monzo explores PE options after Nubank (FT)",
+          "url": "https://www.investing.com/news/stock-market-news/monzo-explores-private-equity-options-after-nubank-deal-falls-through-ft-93CH-4928886"
+        },
+        {
+          "label": "FStech - Monzo looks to PE after Nubank collapses",
+          "url": "https://fstech.co.uk/fst/Monzo_looks_to_private_equity_after_Nubank_deal_collapses.php"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 233 Evening after No. 232 Close). PRIMARY FT Oct 2 (paywalled) corroborated by Private Equity Wire Oct 2 ~9:53 am, Investing.com, FStech: early talks with CVC and Advent International for up to 15% stake after Nubank walked on valuation (~£10B cited in prior reports). SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "UK digital bank Monzo is stepping up discussions with private equity firms over a potential sale of a significant minority stake after Brazilian fintech Nubank abandoned acquisition talks that reports had linked to a valuation as high as about £10 billion, according to the Financial Times as relayed by Private Equity Wire on October 2, 2026.",
+        "Monzo has held early-stage discussions with CVC and Advent International about selling as much as 15% of the business, people familiar with the matter told the FT. With the Nubank path closed after the sides could not agree on valuation, Monzo is said to view a private equity investment as its preferred route to raising additional growth capital, and advisers are expected to engage more fund managers. A conventional venture round remains a fallback if a sponsor deal does not materialize.",
+        "Monzo, Nubank, Advent, and CVC declined to comment, according to Private Equity Wire. Nubank said midweek it is not in active conversations with Monzo on a takeover. SoftBank OpenAI T3 remains the MAJOR lead on this plate."
       ]
     },
     {
