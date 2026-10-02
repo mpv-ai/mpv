@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 225,
+  "number": 226,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Midmorning",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (~9:51 AM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = -5.83%).",
-    "updated": "Oct 2 ~9:51 AM ET Midmorning No. 225. Cash Fri session: S&P 7,745.06 (+1.03%); Dow 51,311.94 (+0.76%); Nasdaq 27,271.61 (+1.49%); NVDA +2.78%; AMD +3.51%; MU -0.62%; MSFT +0.61%; NKE -5.75%; AVGO +2.81%; VIX 15.69; 10-y 5.209%; 30-y 5.592%; WTI $89.26. SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.44. ES ~7,788; NQ ~31,122.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,745.06 (+1.03%) · Dow 51,311.94 (+0.76%) · Nasdaq 27,271.61 (+1.49%) · NVDA $237.27 (+2.78%) · AMD $637.37 (+3.51%) · MU $1,090.60 (-0.62%) · MSFT $515.92 (+0.61%) · NKE $33.13 (-5.75%) · AVGO $353.31 (+2.81%) · VIX 15.69 · 10-y 5.209% · 30-y 5.592% · WTI $89.26 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.44 · ES fut ~7,788 · NQ fut ~31,122"
+    "source": "Yahoo Finance chart API (~10:50 AM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = -5.83%).",
+    "updated": "Oct 2 ~10:50 AM ET Late Morning No. 226. Cash Fri session: S&P 7,748.93 (+1.08%); Dow 51,252.12 (+0.64%); Nasdaq 27,323.11 (+1.68%); NVDA +2.71%; AMD +3.99%; MU -0.89%; MSFT +0.75%; NKE -5.16%; AVGO +3.44%; VIX 15.44; 10-y 5.214%; 30-y 5.575%; WTI $88.74. SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.73. ES ~7,804.5; NQ ~31,253.5.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,748.93 (+1.08%) · Dow 51,252.12 (+0.64%) · Nasdaq 27,323.11 (+1.68%) · NVDA $237.12 (+2.71%) · AMD $640.29 (+3.99%) · MU $1,087.61 (−0.89%) · MSFT $516.63 (+0.75%) · NKE $33.34 (−5.16%) · AVGO $355.46 (+3.44%) · VIX 15.44 · 10-y 5.214% · 30-y 5.575% · WTI $88.74 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.73 · ES fut ~7,804.5 · NQ fut ~31,253.5"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Midmorning: SoftBank T3 still MAJOR. ADD Broadcom-Blackstone $60B chip debt talks, Sep payrolls +29k, Lambda $1.008B IG fixed facility.",
+    "hed": "Late Morning: SoftBank T3 still MAJOR. ADD Apollo–JERA–RHAELM Chiba >$15B AI campus (intent) and Supabase $150M + Turso.",
     "signed": "Scout",
-    "body": "Midmorning No. 225 after Morning No. 224. US cash open post Sep jobs: S&P +1.03% / Nasdaq +1.49%; SoftBank Tokyo settle 6,310 (-5.83%). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Bloomberg Law Oct 2 Blackstone/banks amassing $60B Broadcom AI chip package ($42B Class A + $18B Blackstone Class B; unannounced; distinct from plated $42B convertible); BLS Sep payrolls +29k / U-rate 4.2% / July-Aug revisions -60k; Lambda Oct 1 closes $1.008B IG fixed-rate delayed-draw GPU facility (distinct from Aug $926M TLB). Declined: Allianz Scaleup Europe Fund (Sep 17 stale), Superhuman-GPTZero (June announce rehash), Nebius-Inferize/Sharon AI already plated. X API client-not-enrolled. Owners: Quill x3."
+    "body": "Late Morning No. 226 after Midmorning No. 225. US cash ~10:50 AM ET: S&P +1.08% / Nasdaq +1.68%; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: JERA Oct 1 MoU with Dell/RHAELM; Apollo intends as strategic investment/financing partner for RHAELM on Chiba behind-the-meter AI campus (> $15B, up to 400 MW, ops ~2028); Supabase Oct 2 $150M led by GIC (+ CapitalG) and Turso acquisition for agentic databases. Declined: Long Lake–Amex GBT close (Sep 29, stale for hourly), Allianz Scaleup (already declined), GMI Cloud $668M (already plated), PaleBlueDot $200M (already plated). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 225 Midmorning after No. 224 Morning. SoftBank OpenAI T3 remains MAJOR lead. Watch: Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Mynt official IPO price; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 226 Late Morning after No. 225 Midmorning. SoftBank OpenAI T3 remains MAJOR lead. Watch: Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Supabase Turso close terms; Mynt official IPO price; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -59,6 +59,60 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "apollo-jera-chiba",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI infra",
+      "hed": "Apollo to back JERA–Dell–RHAELM Chiba AI campus; >$15B / up to 400 MW, ops ~2028",
+      "dek": "JERA IR (Oct 1, 2026) + RHAELM: MoU with Dell Technologies and RHAELM for a standardized Japan AI-infrastructure model. First project at JERA Chiba Thermal Power Station; Apollo Global Management intends to serve as strategic investment and financing partner for RHAELM. Capex expected to exceed $15B (¥2.3T) across land, power, construction and AI compute; behind-the-meter up to 400 MW; ops targeted ~2028; multi-GW ambition in the 2030s. Japan Times/Bloomberg Oct 2 amplifies Apollo angle. MoU/intent, not a closed commit. NOT MAJOR (SoftBank OpenAI T3 remains lead). Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "JERA Co., Inc. (press release)",
+      "url": "https://www.jera.co.jp/en/news/information/20261001_2535",
+      "also": [
+        {
+          "label": "RHAELM - JERA, Dell, RHAELM MoU (Oct 1, 2026)",
+          "url": "https://rhaelm.com/news/jera-dell-rhaelm-mou-japan"
+        },
+        {
+          "label": "Japan Times / Bloomberg - Apollo to back $15B Japan AI project (Oct 2)",
+          "url": "https://www.japantimes.co.jp/business/2026/10/02/companies/apollo-japan-ai/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 226 Late Morning after No. 225 Midmorning). PRIMARY JERA Oct 1 MoU: JERA + Dell + RHAELM; Apollo intends as strategic investment/financing partner for RHAELM on Chiba behind-the-meter AI campus (> $15B, up to 400 MW, ops ~2028). SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "JERA Co., Inc., Dell Technologies and RHAELM Holdings Ltd. signed a Memorandum of Understanding on October 1, 2026 to develop a standardized framework for national-scale AI infrastructure in Japan, with the first project planned at JERA's Chiba Thermal Power Station.",
+        "Apollo Global Management Inc. intends to serve as a strategic investment and financing partner for RHAELM on the Chiba project, according to the JERA and RHAELM releases. Total capital deployment is expected to exceed US $15 billion (2.3 trillion yen) across land, power infrastructure, facility construction and AI compute, supported by behind-the-meter power capacity of up to 400 MW from JERA's operating generation asset, with operations targeted around 2028.",
+        "At that scale the parties describe Chiba as the largest single-site AI infrastructure deployment in Japan and one of the largest in Asia today. JERA and RHAELM also intend to explore the model at other JERA sites toward multi-gigawatt AI capacity in the 2030s. Dell supplies standardized rack-scale AI Factory compute. Japan Times, citing Bloomberg (Oct 2), amplified Apollo's financing role; the package remains MoU and stated intent rather than a closed financing.",
+        "Why it matters for Marcelo: Advent/PE-relevant Apollo capital partnering a sovereign Japan Watt-Bit AI campus with JERA power and Dell compute. Next owner Quill for a short plate note; watch for definitive financing terms."
+      ]
+    },
+    {
+      "id": "supabase-150-turso",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / infra",
+      "hed": "Supabase raises $150M led by GIC; acquires Turso for agentic databases",
+      "dek": "PR Newswire (Oct 2, 2026, 9:00 ET): Supabase announced $150M new funding led by GIC, with CapitalG (Alphabet), IronArc and SquarePeg participating, four months after a $500M Series F. Also acquiring Turso for low-cost on-demand per-agent databases (public cloud and BYOC). Claims >1M users and 4M databases added per month; ~70% of new databases from agents/AI tools; >13M developers. Terms of Turso deal and post-money valuation undisclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "PR Newswire (Supabase)",
+      "url": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+      "also": [
+        {
+          "label": "Supabase blog - prior Series F ($500M, Jun 4, 2026)",
+          "url": "https://supabase.com/blog/series-f"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 226 Late Morning). PRIMARY PR Newswire Oct 2 9:00 ET: $150M led by GIC (+ CapitalG, IronArc, SquarePeg) and Turso acquisition for agentic DB workloads. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Supabase announced on October 2, 2026 that it raised $150 million in new funding led by GIC, with Alphabet's independent growth fund CapitalG, IronArc and SquarePeg also participating, according to a company release on PR Newswire timed 9:00 ET.",
+        "The round comes about four months after Supabase's $500 million Series F (company blog, June 4, 2026). Supabase also said it is acquiring Turso, whose architecture provisions on-demand per-agent databases in public cloud and BYOC for customers including Superhuman, Sauna.ai, CTO.new and Mastra. Turso's platform will continue operating with a graduation path into Supabase; Glauber Costa will join as Head of Agentic Services with co-founder Pekka Enberg and the Turso team.",
+        "Supabase said it is now adding more than 1 million users and 4 million databases per month, with about 70% of new databases created by agents or AI-driven tools, and that more than 13 million developers use the platform. The release said the round will also provide employee liquidity. Turso purchase terms and a post-money valuation for the $150 million raise were not disclosed.",
+        "Why it matters for Marcelo: agentic-infra financing and M&A in the Postgres/dev-tools stack after a large Series F. Next owner Quill for a brief note."
       ]
     },
     {
