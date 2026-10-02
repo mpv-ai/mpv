@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 234,
+  "number": 235,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Late Evening",
+  "editionLabel": "Night",
   "tape": {
-    "source": "Yahoo Finance chart API (~6:52 PM ET Fri Late Evening). US cash CLOSE unchanged vs Evening No. 233 / Close No. 232 (S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86). SoftBank Tokyo Oct 2 settle unchanged (6,310, -5.83%). Futures/WTI confirm flat vs Evening tape.",
-    "updated": "Oct 2 ~6:52 PM ET Late Evening No. 234. Cash Fri close unchanged: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU -2.05%; MSFT +0.92%; NKE -3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI ~$91.26 (Yahoo). SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.58 (-1.11%). ES ~7,776.50; NQ ~31,049.00.",
-    "line": "LATE EVENING Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (-2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (-3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI ~$91.26 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.58 (-1.11%) · ES fut ~7,776.50 · NQ fut ~31,049.00"
+    "source": "Yahoo Finance chart API (~7:52 PM ET Fri Night). US cash CLOSE unchanged vs Late Evening No. 234 (S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86). SoftBank Tokyo Oct 2 settle unchanged (6,310, -5.83%). Futures/WTI/VIX/yields flat vs Late Evening tape.",
+    "updated": "Oct 2 ~7:52 PM ET Night No. 235. Cash Fri close confirmed unchanged: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU -2.05%; MSFT +0.92%; NKE -3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI ~$91.26 (Yahoo). SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.58 (-1.11%). ES ~7,776.50; NQ ~31,049.00.",
+    "line": "NIGHT Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (-2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (-3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI ~$91.26 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.58 (-1.11%) · ES fut ~7,776.50 · NQ fut ~31,049.00"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Evening: SoftBank T3 still MAJOR. ADD Myriad360/OEP + Kawneer Apollo CFO.",
+    "hed": "Night: SoftBank T3 still MAJOR. ADD Awayday/Warburg + Long Lake Amex GBT catch-up.",
     "signed": "Scout",
-    "body": "Late Evening No. 234 after Evening No. 233. US cash close and futures/WTI unchanged vs Evening (~6:52 PM ET Yahoo confirm): S&P 7,722.72 / Nasdaq 27,190.86; SoftBank Tokyo settle still 6,310 (-5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: (1) One Equity majority in Myriad360 AI/cloud SI (GlobeNewswire Oct 1; size undisclosed); (2) Apollo-owned Kawneer names Anderson CEO and Montz CFO ahead of 2027 independence (citybiz Oct 1). Declined: Neysa/Blackstone recirculation (Evening already passed); Japan Times Apollo-Chiba recirculation of apollo-jera-chiba; Anthropic mid-Nov IPO recirculation; StudyStash/Kortext edtech M&A (undisclosed, off-core); Photon Energy CFO; X MCP client-not-enrolled (skipped). Owners: Quill x2."
+    "body": "Night No. 235 after Late Evening No. 234. US cash close and futures/WTI/VIX/yields unchanged vs Late Evening (~7:52 PM ET Yahoo confirm): S&P 7,722.72 / Nasdaq 27,190.86; SoftBank Tokyo settle still 6,310 (-5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: (1) Warburg Capital Solutions Founders Fund strategic investment in Awayday; Ares and LightBay remain controlling; size undisclosed (PR Newswire Oct 2 3:02 PM ET); (2) catch-up Long Lake $6.3B all-cash take-private of Amex GBT closed Sep 29 (Amex GBT FAQ; Business Travel Mag Sep 30). Declined: Aptitude Paqvalen CFO (effective Sep 21, recirculation); Kao Data Claassen CFO (Sep 29); VSS Ciotau AI hire (thin); CUBE3 Form D without clean company PR; Helix/Halluminate/Supabase/Armadin/Jolt/FieldAI/Monzo already on plate; X MCP client-not-enrolled (skipped). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 234 Late Evening after No. 233 Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; Monzo PE process (CVC/Advent); FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive Chiba financing; Broadcom $60B syndication; ReliaQuest Oct 5 CFO start; Myriad360/OEP follow-on M&A; Kawneer separation path to 2027."
+    "line": "No. 235 Night after No. 234 Late Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; Monzo PE process (CVC/Advent); FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive Chiba financing; Broadcom $60B syndication; ReliaQuest Oct 5 CFO start; Awayday capital-solutions follow-ons; Long Lake/Amex GBT AI integration milestones; Myriad360/OEP follow-on M&A."
   },
   "sections": [
     "All",
@@ -59,6 +59,64 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "awayday-warburg",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Capital solutions",
+      "hed": "Warburg Capital Solutions Founders Fund invests in Awayday; Ares and LightBay stay controlling",
+      "dek": "PR Newswire / Warburg Pincus (Oct 2, 2026, 3:02 PM ET): Awayday, a US vacation rental manager with more than 18,000 properties and 1,800+ team members, closed a significant investment from the Warburg Pincus Capital Solutions Founders Fund (fund closed Sep 2024 with over $4B commitments). An Ares Private Equity fund and LightBay Capital remain controlling shareholders. Terms undisclosed. Proceeds return capital to existing equity investors (including Ares, LightBay, and rollover partners) and to local operators/team members. Capital Solutions mandate covers balance-sheet optimization, shareholder liquidity, M&A, or growth. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Warburg Pincus (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/awayday-announces-strategic-investment-from-warburg-pincus-302897412.html",
+      "also": [
+        {
+          "label": "citybiz - Warburg Pincus makes strategic investment in Awayday",
+          "url": "https://www.citybiz.co/article/913549/warburg-pincus-makes-strategic-investment-in-awayday/"
+        },
+        {
+          "label": "Warburg Pincus",
+          "url": "https://www.warburgpincus.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 235 Night after No. 234 Late Evening). PRIMARY Warburg/PR Newswire Oct 2 3:02 PM ET: WPCS FF strategic investment in Awayday; Ares and LightBay remain controlling; size undisclosed; liquidity to sponsors and local operators. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Warburg Pincus said on October 2, 2026 that Awayday closed a significant investment from the Warburg Pincus Capital Solutions Founders Fund. Terms were not disclosed.",
+        "Awayday manages more than 18,000 US vacation rental properties through local brands and employs more than 1,800 people. An Ares Private Equity fund and LightBay Capital remain the controlling shareholders.",
+        "Proceeds will return capital to existing equity investors, including Ares, LightBay, and rollover equity partners, and will also go to leading local operators and supporting team members. The Capital Solutions Founders Fund closed in September 2024 with over $4 billion in commitments and can support liquidity, balance-sheet optimization, M&A, or growth.",
+        "CEO Jakob Dwyer framed the check as a vote of confidence in Awayday's ownership-mentality culture. Warburg Managing Director Lee Becker and Principal Claire Branch cited national scale paired with local operators and an active M&A playbook."
+      ]
+    },
+    {
+      "id": "longlake-amex-gbt",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI take-private",
+      "hed": "Long Lake closes $6.3B all-cash take-private of Amex GBT; calls it first AI take-private",
+      "dek": "Amex GBT customer FAQ (posted Sep 29 / updated Oct 1, 2026) and Business Travel Mag (Sep 30): Long Lake Management completed its all-cash acquisition of American Express Global Business Travel at about $6.3B. Stockholders received $9.50/share (65.1% premium to 30-day VWAP before the May 4, 2026 announcement); stock delisted from NYSE; company now private. Long Lake (permanent-capital AI holding company; backed by General Catalyst, Alpha Wave, Elad Gil and others) says Amex GBT is its 35th acquisition, first global expansion, and largest investment; Nexus AI platform to power agentic travel/expense tools. Financing: Long Lake equity investors plus Koch Equity Development and committed debt. Catch-up miss (close Sep 29). NOT MAJOR vs SoftBank OpenAI T3. Owner Quill.",
+      "date": "Sep. 29, 2026",
+      "source": "Amex GBT (company FAQ)",
+      "url": "https://www.amexglobalbusinesstravel.com/uk/resources/blog/long-lake-amex-gbt-acquisition-faq/",
+      "also": [
+        {
+          "label": "Business Travel Mag - Amex GBT completes $6.3B Long Lake deal",
+          "url": "https://thebusinesstravelmag.com/amex-gbt-completes-6-3-billion-acquisition-by-long-lake/"
+        },
+        {
+          "label": "Business Wire - May 4 announce (Long Lake agrees to acquire Amex GBT)",
+          "url": "https://www.businesswire.com/news/home/20260504231235/en/Long-Lake-Agrees-to-Acquire-American-Express-Global-Business-Travel-the-Worlds-Largest-Corporate-Travel-Platform-for-%246.3-Billion-With-Support-From-General-Catalyst-and-Alpha-Wave"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 235 Night catch-up after No. 234 Late Evening). PRIMARY Amex GBT FAQ (close confirmation) + Business Travel Mag Sep 30: Long Lake $6.3B all-cash take-private; $9.50/share; delisted; AI holding-company thesis. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "American Express Global Business Travel said Long Lake has completed its acquisition of the company in an all-cash transaction valued at about $6.3 billion, which Amex GBT describes as the world's first AI take-private deal.",
+        "Stockholders received $9.50 per share in cash, a 65.1% premium to the 30-day volume-weighted average price before the May 4, 2026 announcement. Amex GBT common stock has ceased trading on the NYSE and the company is now privately held.",
+        "Long Lake is a permanent-capital holding company focused on applying AI across services businesses. It is backed by General Catalyst, Alpha Wave, Elad Gil and others. Amex GBT says it is Long Lake's 35th acquisition, its first global expansion, and its largest investment to date.",
+        "Business Travel Mag (Sep 30) reported the close is financed with equity from Long Lake's existing investors and Koch Equity Development, alongside committed debt financing. CEO Paul Abbott and Long Lake co-founder/CEO Alex Taubman both framed the deal around agentic AI across managed travel and expense."
       ]
     },
     {
