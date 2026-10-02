@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 227,
+  "number": 228,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~12:00 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
-    "updated": "Oct 2 ~12:00 PM ET Midday No. 227. Cash Fri session: S&P 7,726.76 (+0.79%); Dow 51,131.52 (+0.40%); Nasdaq 27,219.29 (+1.29%); NVDA +2.14%; AMD +3.05%; MU −1.45%; MSFT +0.41%; NKE −5.45%; AVGO +3.36%; VIX 15.55; 10-y 5.256%; 30-y 5.615%; WTI $90.94. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.80. ES ~7,773.5; NQ ~31,090.8.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,726.76 (+0.79%) · Dow 51,131.52 (+0.40%) · Nasdaq 27,219.29 (+1.29%) · NVDA $235.79 (+2.14%) · AMD $634.54 (+3.05%) · MU $1,081.45 (−1.45%) · MSFT $514.91 (+0.41%) · NKE $33.23 (−5.45%) · AVGO $355.19 (+3.36%) · VIX 15.55 · 10-y 5.256% · 30-y 5.615% · WTI $90.94 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.80 · ES fut ~7,773.5 · NQ fut ~31,090.8"
+    "source": "Yahoo Finance chart API (~12:55 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
+    "updated": "Oct 2 ~12:55 PM ET Afternoon No. 228. Cash Fri session: S&P 7,723.08 (+0.74%); Dow 51,159.26 (+0.46%); Nasdaq 27,195.41 (+1.21%); NVDA +1.92%; AMD +2.42%; MU −1.71%; MSFT +0.24%; NKE −5.21%; AVGO +3.22%; VIX 15.65; 10-y 5.269%; 30-y 5.622%; WTI $91.46. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.72. ES ~7,771.75; NQ ~31,056.5.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,723.08 (+0.74%) · Dow 51,159.26 (+0.46%) · Nasdaq 27,195.41 (+1.21%) · NVDA $235.29 (+1.92%) · AMD $630.62 (+2.42%) · MU $1,078.65 (−1.71%) · MSFT $514.05 (+0.24%) · NKE $33.32 (−5.21%) · AVGO $354.71 (+3.22%) · VIX 15.65 · 10-y 5.269% · 30-y 5.622% · WTI $91.46 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.72 · ES fut ~7,771.75 · NQ fut ~31,056.5"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Midday: SoftBank T3 still MAJOR. ADD Jolt-Mirova PE arm and arXiv shared-models order-flow.",
+    "hed": "Afternoon: SoftBank T3 still MAJOR. ADD Applied Digital Polaris +75 MW and Montagu Helix carve-out.",
     "signed": "Scout",
-    "body": "Midday No. 227 after Late Morning No. 226. US cash ~12:00 PM ET: gains off highs vs Late Morning tape (S&P now +0.79% / Nasdaq +1.29%; SoftBank Tokyo settle still 6,310 (−5.83%)). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Jolt Capital Oct 2 acquires Mirova PE business (MEAC + MILE funds/teams/portfolios; early-growth EUR 3-10M; Jolt.Ninja AI); arXiv:2610.01897 Shared Models, Selective Trading, and Order Flow (installed vs active LLM representation). Declined: Allianz Scaleup (already declined), Long Lake-Amex GBT (stale Sep 29 close), Samsung Helix / Halluminate / Flow / DIG Fund III / Bloomberg Canoe / Supabase (already plated). Owners: Quill x2."
+    "body": "Afternoon No. 228 after Midday No. 227. US cash ~12:55 PM ET: modest drift vs Midday (S&P +0.74% / Nasdaq +1.21%; SoftBank Tokyo settle still 6,310 (−5.83%)). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Applied Digital IR Oct 2 +75 MW RFS at Polaris Forge 1 (campus 250 MW operational / 400 MW contracted); Montagu completes majority Helix carve-out from BMC (agentic AI ServiceOps; KKR keeps BMC + minority Helix; distinct from samsung-helix). Declined: Samsung Helix / Supabase-Turso / Halluminate / Broadcom-BX $60B / Replit-Atta (stale Sep) / CharliAI-Profitual (thin partnership PR) / Finsider product launch. X MCP client-not-enrolled (skipped). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 227 Midday after No. 226 Late Morning. SoftBank OpenAI T3 remains MAJOR lead. Watch: Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Jolt-Mirova AUM/close terms; Supabase Turso close terms; Mynt official IPO price; PaleBlueDot $600M private-credit chip facility (sought, not closed); NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
+    "line": "No. 228 Afternoon after No. 227 Midday. SoftBank OpenAI T3 remains MAJOR lead. Watch: Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Montagu-Helix post-carve integration; Fed Oct hold odds after soft payrolls; Salesforce-Listen regulatory path; Jolt-Mirova AUM/close terms; Supabase Turso close terms; Mynt official IPO price; NYC Council AI Oct 5; Jason Kwon Australia Joint Select Oct 6."
   },
   "sections": [
     "All",
@@ -59,6 +59,62 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "apld-polaris-75",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI infra",
+      "hed": "Applied Digital: +75 MW Ready for Service at Polaris Forge 1; campus at 250 MW operational",
+      "dek": "Applied Digital IR (Oct 2, 2026, 8:00 AM ET): achieved Ready for Service for the second phase of Building 2 at Polaris Forge 1 (Ellendale, ND), delivering an additional 75 MW of critical IT load across three 25 MW data halls. Completes Building 2's full 150 MW and brings fully operational critical IT load at Polaris Forge 1 to 250 MW. Fully leased AI Factory Campus contracted for 400 MW at full buildout. Follows first 100 MW building and initial 75 MW phase of Building 2. CEO Wes Cummins frames as turning secured power into usable AI capacity. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Applied Digital Corporation (IR / GlobeNewswire)",
+      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/161/applied-digital-brings-an-additional-75-mw-of-ai",
+      "also": [
+        {
+          "label": "GlobeNewswire mirror (same release)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/02/3373779/0/en/applied-digital-brings-an-additional-75-mw-of-ai-infrastructure-online-at-polaris-forge-1.html"
+        },
+        {
+          "label": "StreetInsider - Applied Digital brings 250 MW online",
+          "url": "https://www.streetinsider.com/Corporate+News/Applied+Digital+brings+250+MW+online+at+Polaris+Forge+1+campus/27139019.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 228 Afternoon after No. 227 Midday). PRIMARY Applied Digital IR Oct 2: +75 MW RFS Building 2 phase 2 at Polaris Forge 1; campus operational critical IT load 250 MW; contracted 400 MW full buildout. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Applied Digital Corporation (Nasdaq: APLD) said on October 2, 2026 that it achieved Ready for Service for the second phase of Building 2 at its Polaris Forge 1 campus in Ellendale, North Dakota, adding 75 megawatts of critical IT load across three 25 MW data halls.",
+        "The delivery completes Building 2's full 150 MW of critical IT load and lifts fully operational critical IT load at Polaris Forge 1 to 250 MW. The campus is fully leased and contracted to deliver 400 MW of critical IT load at full buildout, after an earlier 100 MW first building and the initial 75 MW phase of Building 2.",
+        "Chairman and CEO Wes Cummins said the milestone shows the company can turn large-scale power into operational AI infrastructure, beyond merely securing megawatts. The release is a capacity RFS update, not a new lease or financing announcement."
+      ]
+    },
+    {
+      "id": "montagu-helix-carveout",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Agentic AI software",
+      "hed": "Montagu completes majority Helix carve-out from BMC; KKR keeps BMC and minority Helix",
+      "dek": "BMC Helix / GlobeNewswire (Oct 2, 2026, 10:00 ET): Montagu completed its acquisition of a majority stake in Helix via carve-out from BMC Software, first announced June 2026. Helix is now a fully independent company focused on agentic AI ServiceOps for blue-chip IT organizations (financial services, insurance, retail among sectors cited). Funds managed by KKR maintain ownership of BMC and retain a minority stake in Helix. Helix CEO Ali Siddiqui cites independence to invest in customers, innovation, and growth; Montagu cites nearly 40 carve-outs since 2002 and $16bn AUM. Distinct from plated samsung-helix (KKR Helix Digital Infrastructure). Deal value undisclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "BMC Helix, Inc. (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/02/3373866/0/en/helix-to-advance-serviceops-and-help-enterprises-create-measurable-business-value-as-it-completes-carve-out-from-bmc-under-montagu.html",
+      "also": [
+        {
+          "label": "Helix (helixops.ai) company site",
+          "url": "https://www.helixops.ai"
+        },
+        {
+          "label": "Montagu",
+          "url": "https://www.montagu.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 228 Afternoon after No. 227 Midday). PRIMARY Helix/GlobeNewswire Oct 2: Montagu majority carve-out of Helix from BMC complete; Helix independent agentic AI ServiceOps; KKR keeps BMC + minority Helix. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Montagu completed its acquisition of a majority stake in Helix through a carve-out from BMC Software, Helix said on October 2, 2026 via GlobeNewswire, following a June 2026 announcement. Helix is now a fully independent company.",
+        "Funds managed by KKR will maintain ownership of BMC and retain a minority stake in Helix. Helix describes itself as a provider of agentic AI ServiceOps solutions used by thousands of blue-chip organizations, including in financial services, insurance, and retail.",
+        "CEO Ali Siddiqui said independence gives Helix focus and flexibility to invest in customers, innovation, and growth, arguing many enterprises still struggle to show meaningful business results from AI spend. Montagu said it has supported nearly 40 carve-outs since 2002 and manages $16 billion of assets. Financial terms were not disclosed. This Helix is unrelated to the plated Samsung/KKR Helix Digital Infrastructure commitment."
       ]
     },
     {
