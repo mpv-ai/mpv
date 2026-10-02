@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 229,
+  "number": 230,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Mid-Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~1:55 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
-    "updated": "Oct 2 ~1:55 PM ET Mid-Afternoon No. 229. Cash Fri session: S&P 7,720.69 (+0.71%); Dow 51,164.09 (+0.47%); Nasdaq 27,182.10 (+1.16%); NVDA +1.65%; AMD +2.62%; MU −1.74%; MSFT +0.39%; NKE −4.57%; AVGO +2.79%; VIX 15.82; 10-y 5.285%; 30-y 5.637%; WTI $91.40. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.63. ES ~7,774.25; NQ ~31,036.75.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,720.69 (+0.71%) · Dow 51,164.09 (+0.47%) · Nasdaq 27,182.10 (+1.16%) · NVDA $234.68 (+1.65%) · AMD $631.86 (+2.62%) · MU $1,078.26 (−1.74%) · MSFT $514.83 (+0.39%) · NKE $33.55 (−4.57%) · AVGO $353.23 (+2.79%) · VIX 15.82 · 10-y 5.285% · 30-y 5.637% · WTI $91.40 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.63 · ES fut ~7,774.25 · NQ fut ~31,036.75"
+    "source": "Yahoo Finance chart API (~2:50 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
+    "updated": "Oct 2 ~2:50 PM ET Late Afternoon No. 230. Cash Fri session: S&P 7,720.38 (+0.70%); Dow 51,145.19 (+0.43%); Nasdaq 27,176.49 (+1.13%); NVDA +1.55%; AMD +2.65%; MU −1.90%; MSFT +0.41%; NKE −3.80%; AVGO +3.52%; VIX 15.57; 10-y 5.285%; 30-y 5.637%; WTI $91.19. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.56. ES ~7,771.75; NQ ~31,024.75.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,720.38 (+0.70%) · Dow 51,145.19 (+0.43%) · Nasdaq 27,176.49 (+1.13%) · NVDA $234.44 (+1.55%) · AMD $632.02 (+2.65%) · MU $1,076.59 (−1.90%) · MSFT $514.91 (+0.41%) · NKE $33.82 (−3.80%) · AVGO $355.74 (+3.52%) · VIX 15.57 · 10-y 5.285% · 30-y 5.637% · WTI $91.19 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.56 · ES fut ~7,771.75 · NQ fut ~31,024.75"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Mid-Afternoon: SoftBank T3 still MAJOR. ADD Fortress/H.I.G. Torque credit and arXiv DRL execution-collusion.",
+    "hed": "Late Afternoon: SoftBank T3 still MAJOR. ADD FieldAI $10B term sheet, Antin HP Helicopters, Samfara/Olesen, GitHub Dynamic Workflows.",
     "signed": "Scout",
-    "body": "Mid-Afternoon No. 229 after Afternoon No. 228. US cash ~1:55 PM ET: modest drift vs Afternoon (S&P +0.71% / Nasdaq +1.16%; SoftBank Tokyo settle still 6,310 (−5.83%)). SoftBank OpenAI T3 remains MAJOR lead (no bigger hit). ADD NOT MAJOR: Fortress Oct 2 senior secured credit facility supporting H.I.G. acquisition of UK fulfilment specialist Torque Holdings (size undisclosed; Fortress sole lead arranger); arXiv:2610.00619 DRL liquidation agents learn punitive responses sustaining supra-competitive execution (collusion evidence; distinct from arxiv-shared-models-orderflow). Declined: Allianz/Scaleup Europe recirculation without primary Oct 2 Allianz IR; Hyperscale Data askROI strategic-alternatives (preliminary, thin); Neysa/Blackstone and Samsung Helix (stale / already plated); Omnes/Maritime Robotics (Sep 28–29). X MCP client-not-enrolled (skipped). Owners: Quill x2."
+    "body": "Late Afternoon No. 230 after Mid-Afternoon No. 229. US cash ~2:50 PM ET: indexes little changed vs Mid-Afternoon (S&P +0.70% / Nasdaq +1.13%); AVGO extended to +3.52%; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead (FieldAI term sheet not closed). ADD NOT MAJOR: FieldAI $700M at $10B per BI (term sheet); Antin NextGen majority HP Helicopters (Oct 1 miss; AI grid/wildfire heavy-lift); Samfara completes Chr. Olesen Synthesis API buyout; GitHub Copilot Dynamic Workflows (+ computer use) public preview (Forge). Declined: Neysa/Blackstone IBJ reprint (Feb deal); Samsung Helix / CONTPAQi / Tideworks / Kahua already plated; Crescent/Infravadis (Latham Sep 9); ECB SAFE AI-financing box (July SAFE round recirculation); Hyperscale Data askROI (preliminary/thin); DexCare-Mila (aggregator, terms thin). X MCP client-not-enrolled (skipped). Owners: Quill x3, Forge x1."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 229 Mid-Afternoon after No. 228 Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters vs prior $42B convertible filing; SoftBank Tokyo follow-through; Montagu-Helix post-carve integration; Fed Oct hold odds after soft payrolls; Salesforce-Listen close path; H.I.G.–Torque close/integration and any disclosed facility size."
+    "line": "No. 230 Late Afternoon after No. 229 Mid-Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; SoftBank Tokyo follow-through; AVGO chip-financing tape; Fed Oct hold odds after soft payrolls; Antin HP Helicopters fleet/contract updates; GitHub Dynamic Workflows preview feedback."
   },
   "sections": [
     "All",
@@ -59,6 +59,118 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "fieldai-700-10b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Robotics",
+      "hed": "FieldAI said to raise $700M at $10B valuation for universal robot brain (term sheet)",
+      "dek": "Business Insider (Oct 2, 2026, ~11:39 AM ET / 15:39 UTC): FieldAI raising $700M at $10B valuation per person familiar; signed term sheet, not yet closed; lead undisclosed. Prior ~$2B after >$400M in 2025 (Bezos family office, Emerson Collective, Khosla). Founded 2023; universal general-purpose brain across humanoids, robot dogs, drones, industrial rovers. Since June +$35M revenue/contracts to >$135M; >30 customers incl. construction, data center, defense. Competes vs Physical Intelligence (~$11B) and Skild AI (>$14B). Company did not comment. NOT MAJOR (unsigned close). Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+      "also": [
+        {
+          "label": "AVenture mirror of BI FieldAI $10B raise report (Oct 2, 2026)",
+          "url": "https://aventure.vc/news/2026-10-02-robotics-startup-fieldai-set-to-raise-new-funding-round-at-10-billion-valuation"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 230 Late Afternoon). PRIMARY Business Insider Oct 2: FieldAI $700M at $10B term sheet (not closed; lead undisclosed); physical-AI peer to PI/Skild. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Business Insider reported on October 2, 2026 that robotics startup FieldAI is raising $700 million at a $10 billion valuation, according to a person familiar with the deal, with a signed term sheet but no formal close yet and no disclosed lead investor.",
+        "The report said FieldAI was previously valued at about $2 billion after raising more than $400 million in 2025 from investors including Jeff Bezos's family office, Laurene Powell Jobs's Emerson Collective, and Khosla Ventures. Founded in 2023, the company is building a universal general-purpose brain intended to run across humanoids, robot dogs, drones, and industrial rovers in unstructured environments.",
+        "Business Insider said FieldAI has added at least $35 million in revenue and customer contracts since June, bringing the total above $135 million across more than 30 customers spanning construction, data-center operators, and defense. The piece framed the round against peers Physical Intelligence (about $11 billion) and Skild AI (more than $14 billion). FieldAI did not respond to a request for comment.",
+        "Why it matters for Marcelo: physical-AI financing at unicorn scale with data-center and defense demand, still pre-close so size/lead can change. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "antin-hp-heli",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Infrastructure",
+      "hed": "Antin NextGen takes majority of HP Helicopters; AI grid and wildfire heavy-lift thesis",
+      "dek": "Antin Infrastructure Partners (Oct 1, 2026): NextGen Infrastructure Fund I (€1.2B) acquires significant majority of High Performance Helicopters (Redlands, CA; founded 2005 by Brad/Tracey Bauder). Brad Bauder retains minority; eighth NextGen investment. Fleet for aerial firefighting and critical utility infrastructure across 10 Western US states; customers include state/federal agencies, utilities, EPC, aerospace/defense. Antin cites climate-driven wildfire response plus heavy-lift for aging-grid modernization and electrification/AI power buildout. Santiago Crespo named CFO. Terms undisclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Antin Infrastructure Partners",
+      "url": "https://www.antin-ip.com/media/our-news/antin-acquires-hp-helicopters-a-leading-us-specialty-helicopter-company",
+      "also": [
+        {
+          "label": "IPE Real Assets - Antin NextGen majority in US helicopter operator",
+          "url": "https://realassets.ipe.com/news/antin-nextgen-fund-acquires-majority-stake-in-us-helicopter-operator/10138751.article"
+        },
+        {
+          "label": "HP Helicopters (company site)",
+          "url": "https://www.hphelicopters.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 230 Late Afternoon; Oct 1 miss). PRIMARY Antin IR Oct 1: NextGen Fund I majority HP Helicopters; AI/electrification grid heavy-lift + wildfire thesis. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Antin Infrastructure Partners said on October 1, 2026 that its €1.2 billion NextGen Infrastructure Fund I acquired a significant majority stake in High Performance Helicopters Corp, a US specialty helicopter operator based in Redlands, California.",
+        "Founded in 2005 by Brad and Tracey Bauder, HP Helicopters focuses on aerial firefighting and critical utility, construction, and aerospace support across 10 Western US states. Antin said Brad Bauder retains a minority holding and that the deal is the fund's eighth investment. Santiago Crespo was appointed CFO.",
+        "Antin framed demand around two trends: climate-driven wildfire emergency response and rising heavy-lift helicopter needs to modernize aging utility infrastructure and support electrification and grid expansion for AI. Financial terms were not disclosed. Antin cites more than €33 billion AUM across Flagship, Mid Cap, and NextGen strategies.",
+        "Why it matters for Marcelo: NextGen infra PE explicitly tying specialty aviation to AI power/grid buildout and climate resilience. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "samfara-olesen",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Life sciences",
+      "hed": "Samfara completes majority buyout of Chr. Olesen Synthesis (controlled-substance APIs)",
+      "dek": "PR Newswire / Samfara (Oct 2, 2026, 02:00 ET): London life-sciences PE firm Samfara completes acquisition of Chr. Olesen Synthesis from Chr. Olesen and Signet Healthcare Partners funds; CEO Thomas Moestrup invests alongside. First Samfara investment; backed by European and North American institutional investors and family offices. Danish cGMP API maker (Hvidovre) specializes in controlled substances for opioid-use disorder (buprenorphine) and ADHD (lisdexamfetamine); supplies Europe, North America, Middle East. Jean-François Hilaire (ex-Unither/Recipharm) joins as Chair. Terms undisclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "PR Newswire (Samfara)",
+      "url": "https://www.prnewswire.com/news-releases/samfara-completes-acquisition-of-chr-olesen-synthesis-danish-manufacturer-of-controlled-substance-apis-302896309.html",
+      "also": [
+        {
+          "label": "Samfara (firm site)",
+          "url": "https://www.samfara.com"
+        },
+        {
+          "label": "Chr. Olesen Synthesis (company site)",
+          "url": "https://www.cosynthesis.dk"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 230 Late Afternoon). PRIMARY Samfara via PR Newswire Oct 2: first fund investment, majority of Danish controlled-substance API manufacturer; terms undisclosed. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Samfara LLP, a London-based private equity firm focused on European life-sciences majority buyouts, said on October 2, 2026 via PR Newswire that it completed the acquisition of Chr. Olesen Synthesis from Chr. Olesen and funds managed by Signet Healthcare Partners.",
+        "Chief Executive Thomas Moestrup is investing alongside Samfara. The firm said this is its first investment and is backed by a syndicate of European and North American institutional investors and family offices. Jean-François Hilaire, former CEO of Unither and former EVP at Recipharm, will join the board as Chair.",
+        "Chr. Olesen Synthesis develops and manufactures APIs and advanced intermediates near Copenhagen, specializing in controlled substances used to treat opioid use disorder (buprenorphine) and ADHD (lisdexamfetamine). Its cGMP plant has been in commercial production since 2015 and supplies pharmaceutical customers across Europe, North America, and the Middle East. Financial terms were not disclosed.",
+        "Why it matters for Marcelo: lower mid-market European life-sciences PE with Signet exit; niche controlled-substance API manufacturing. SoftBank OpenAI T3 remains the MAJOR lead."
+      ]
+    },
+    {
+      "id": "github-copilot-dynamic",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Developer tools",
+      "hed": "GitHub: Copilot Dynamic Workflows public preview (code-defined multi-agent orchestration)",
+      "dek": "GitHub Changelog (Oct 1, 2026): Dynamic workflows now in Copilot CLI, Copilot app, and Copilot SDK. Code-defined orchestration (sequential/parallel steps, tools/services, structured handoffs, subagent cross-checks, human checkpoints) inside Copilot extensions; distinct from /fleet (model invents plan each run). All Copilot plans; CLI needs --experimental or /experimental on. Same-day companion: computer use public preview in Copilot CLI and app (macOS/Windows) for GUI automation with per-app approval. Public preview, subject to change. NOT MAJOR. Owner Forge.",
+      "date": "Oct. 1, 2026",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app/",
+      "also": [
+        {
+          "label": "GitHub Docs - Dynamic workflows (concepts)",
+          "url": "https://docs.github.com/en/copilot/concepts/agents/dynamic-workflows"
+        },
+        {
+          "label": "GitHub Changelog - Copilot computer use public preview (Oct 1, 2026)",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps/"
+        }
+      ],
+      "owner": "FORGE",
+      "action": "ADD NOT MAJOR (No. 230 Late Afternoon; Oct 1 miss). PRIMARY GitHub Changelog Oct 1: Dynamic Workflows public preview + computer use. SoftBank OpenAI T3 remains MAJOR lead. Owner Forge.",
+      "grafs": [
+        "GitHub said on October 1, 2026 that Dynamic workflows are available in public preview across Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK, letting developers define multi-agent orchestration in code rather than relying on the model to invent a plan each run.",
+        "Per the changelog, a dynamic workflow is a program inside a Copilot extension that combines automated steps with one or more agents, supporting sequential and parallel execution, tools and services, structured handoffs, subagent cross-checks, and human checkpoints. GitHub contrasted this with /fleet, where Copilot delegates and coordinates without a fixed coded process.",
+        "Dynamic workflows are available on all Copilot plans; Copilot CLI requires experimental mode (--experimental or /experimental on). The same day, GitHub also put computer use in public preview for Copilot CLI and the Copilot app on macOS and Windows, with per-app approval before controlling desktop GUIs. Both features are public preview and subject to change.",
+        "Why it matters for Marcelo: agentic developer-tooling productization at GitHub scale; Forge should track Dynamic Workflows and computer-use implications for MPV/agent stack. SoftBank OpenAI T3 remains the MAJOR lead."
       ]
     },
     {
