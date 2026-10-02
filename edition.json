@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 233,
+  "number": 234,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (~5:53 PM ET Fri evening). US cash CLOSE unchanged vs Close No. 232 (cross-check WTOP/AP: S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86). SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%). Futures/WTI lightly refreshed post-close.",
-    "updated": "Oct 2 ~5:53 PM ET Evening No. 233. Cash Fri close unchanged: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU −2.05%; MSFT +0.92%; NKE −3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI ~$91.26 (Yahoo). SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.58 (−1.11%). ES ~7,776.50; NQ ~31,049.00.",
-    "line": "EVENING Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (−2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (−3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI ~$91.26 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.58 (−1.11%) · ES fut ~7,776.50 · NQ fut ~31,049.00"
+    "source": "Yahoo Finance chart API (~6:52 PM ET Fri Late Evening). US cash CLOSE unchanged vs Evening No. 233 / Close No. 232 (S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86). SoftBank Tokyo Oct 2 settle unchanged (6,310, -5.83%). Futures/WTI confirm flat vs Evening tape.",
+    "updated": "Oct 2 ~6:52 PM ET Late Evening No. 234. Cash Fri close unchanged: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU -2.05%; MSFT +0.92%; NKE -3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI ~$91.26 (Yahoo). SoftBank Tokyo Oct 2 settle 6,310 (-5.83%). SFTBY $20.58 (-1.11%). ES ~7,776.50; NQ ~31,049.00.",
+    "line": "LATE EVENING Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (-2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (-3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI ~$91.26 · SoftBank Tokyo 6,310 (-5.83%) · SFTBY $20.58 (-1.11%) · ES fut ~7,776.50 · NQ fut ~31,049.00"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Evening: SoftBank T3 still MAJOR. ADD Monzo PE (CVC/Advent) after Nubank.",
+    "hed": "Late Evening: SoftBank T3 still MAJOR. ADD Myriad360/OEP + Kawneer Apollo CFO.",
     "signed": "Scout",
-    "body": "Evening No. 233 after Close No. 232. US cash close unchanged (~5:53 PM ET Yahoo confirm): S&P 7,722.72 / Nasdaq 27,190.86; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: Monzo early PE talks with CVC and Advent International for up to 15% after Nubank walked on ~£10B valuation (FT via PE Wire/Investing/FStech Oct 2). Declined: Neysa/Blackstone recirculation; Nvidia-Anthropic $10B IPO talk (Sep 11 Reuters, not new); ThetaRay CFO (Sep 29 BW); SaaS multiples/Broadcom $60B already plated; X MCP client-not-enrolled (skipped). Owners: Quill x1."
+    "body": "Late Evening No. 234 after Evening No. 233. US cash close and futures/WTI unchanged vs Evening (~6:52 PM ET Yahoo confirm): S&P 7,722.72 / Nasdaq 27,190.86; SoftBank Tokyo settle still 6,310 (-5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: (1) One Equity majority in Myriad360 AI/cloud SI (GlobeNewswire Oct 1; size undisclosed); (2) Apollo-owned Kawneer names Anderson CEO and Montz CFO ahead of 2027 independence (citybiz Oct 1). Declined: Neysa/Blackstone recirculation (Evening already passed); Japan Times Apollo-Chiba recirculation of apollo-jera-chiba; Anthropic mid-Nov IPO recirculation; StudyStash/Kortext edtech M&A (undisclosed, off-core); Photon Energy CFO; X MCP client-not-enrolled (skipped). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 233 Evening after No. 232 Close. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; Monzo PE process (CVC/Advent and other funds); FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; ReliaQuest Oct 5 CFO start; Fed Oct hold odds after soft payrolls."
+    "line": "No. 234 Late Evening after No. 233 Evening. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; Monzo PE process (CVC/Advent); FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive Chiba financing; Broadcom $60B syndication; ReliaQuest Oct 5 CFO start; Myriad360/OEP follow-on M&A; Kawneer separation path to 2027."
   },
   "sections": [
     "All",
@@ -59,6 +59,53 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "myriad360-oep",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI services",
+      "hed": "One Equity takes majority of Myriad360, AI/cloud systems integrator; management keeps significant stake",
+      "dek": "Myriad360 via GlobeNewswire (Oct 1, 2026): middle-market PE firm One Equity Partners (OEP) made a majority investment in Myriad360, a services-led global systems integrator spanning AI, cloud, cybersecurity, networking, data-center modernization and managed services. Existing leadership continues to run the business and retains a significant ownership stake alongside OEP. Deal size undisclosed. Capital aimed at talent, services expansion and complementary acquisitions. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "Myriad360 (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/01/3373326/0/en/myriad360-announces-majority-investment-from-one-equity-partners-to-support-next-phase-of-growth.html",
+      "also": [
+        {
+          "label": "One Equity Partners",
+          "url": "https://www.oneequity.com"
+        },
+        {
+          "label": "Myriad360",
+          "url": "https://myriad360.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 234 Late Evening after No. 233 Evening). PRIMARY Myriad360/GlobeNewswire Oct 1: OEP majority; leadership retains significant stake; AI/cloud/cyber SI. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Myriad360 said on October 1, 2026 that One Equity Partners, a middle-market private equity firm, made a majority investment in the New York-based systems integrator as it enters its next growth phase.",
+        "The company said existing leadership will continue to run the business and retain a significant ownership position alongside OEP. Founded in 2003, Myriad360 combines advisory, technical delivery and managed services across AI, cloud, cybersecurity, networking and data-center modernization.",
+        "OEP partner Charlie Cole said enterprise technology is becoming more complex as infrastructure, cybersecurity, cloud and AI converge, and that Myriad360 has the depth to help clients execute. CEO and president Jay Miley said the partnership adds resources for talent, services and acquisitions while preserving culture. Deal size was not disclosed."
+      ]
+    },
+    {
+      "id": "kawneer-apollo-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / PE portfolio",
+      "hed": "Apollo-owned Kawneer names Kate Anderson CEO and Timothy Montz CFO ahead of 2027 independence",
+      "dek": "citybiz (Oct 1, 2026): Kawneer Company appointed Kate Anderson chief executive officer and Timothy Montz chief financial officer as the architectural aluminum systems maker prepares to become a fully independent company under continued ownership by funds managed by Apollo. Separation expected over the next year and completed by 2027. Anderson was Kawneer VP of sales/sales ops; Montz joins from Cox Communications (SVP finance and accounting). Apollo Funds remain owners through the transition. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co/article/912827/kawneer-names-kate-anderson-ceo-timothy-montz-cfo-ahead-of-independent-transition/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 234 Late Evening after No. 233 Evening). PRIMARY citybiz Oct 1: Apollo portfolio Kawneer CEO Anderson + CFO Montz (ex-Cox) ahead of standalone ops by 2027. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Kawneer Company appointed Kate Anderson as chief executive officer and Timothy Montz as chief financial officer, citybiz reported on October 1, 2026, as the architectural aluminum systems manufacturer prepares to transition into a fully independent company under continued ownership by funds managed by Apollo.",
+        "The leadership changes are part of a broader separation expected to take place over the next year and be completed by 2027. Kawneer plans to establish independent operating systems and supporting infrastructure while investing in manufacturing and customer experience.",
+        "Anderson most recently served as Kawneer's vice president of sales and sales operations. Montz joins with more than 20 years of finance experience and most recently was senior vice president of finance and accounting at Cox Communications. Apollo Funds will continue to own Kawneer through the transition. The company did not disclose the expected cost of building standalone systems."
       ]
     },
     {
