@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 231,
+  "number": 232,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Near Close",
+  "editionLabel": "Close",
   "tape": {
-    "source": "Yahoo Finance chart API (~3:55 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
-    "updated": "Oct 2 ~3:55 PM ET Near Close No. 231. Cash Fri session: S&P 7,723.94 (+0.75%); Dow 51,183.97 (+0.51%); Nasdaq 27,181.28 (+1.15%); NVDA +1.47%; AMD +3.09%; MU −2.03%; MSFT +0.74%; NKE −3.91%; AVGO +3.28%; VIX 15.41; 10-y 5.277%; 30-y 5.630%; WTI $91.45. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.62. ES ~7,778.75; NQ ~31,072.75.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,723.94 (+0.75%) · Dow 51,183.97 (+0.51%) · Nasdaq 27,181.28 (+1.15%) · NVDA $234.25 (+1.47%) · AMD $634.74 (+3.09%) · MU $1,075.09 (−2.03%) · MSFT $516.57 (+0.74%) · NKE $33.77 (−3.91%) · AVGO $354.92 (+3.28%) · VIX 15.41 · 10-y 5.277% · 30-y 5.630% · WTI $91.45 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.62 · ES fut ~7,778.75 · NQ fut ~31,072.75"
+    "source": "Yahoo Finance chart API (~4:57 PM ET Fri close). US cash CLOSE Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%). Close prints cross-check WTOP/MarketScreener (S&P 7,722.72 / Dow 51,176.96 / Nasdaq 27,190.86).",
+    "updated": "Oct 2 ~4:57 PM ET Close No. 232. Cash Fri close: S&P 7,722.72 (+0.73%); Dow 51,176.96 (+0.49%); Nasdaq 27,190.86 (+1.19%); NVDA +1.34%; AMD +2.95%; MU −2.05%; MSFT +0.92%; NKE −3.64%; AVGO +3.35%; VIX 15.31; 10-y 5.277%; 30-y 5.630%; WTI $91.32. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.58 (−1.11%). ES ~7,776.25; NQ ~31,046.75.",
+    "line": "CLOSE Fri · S&P 7,722.72 (+0.73%) · Dow 51,176.96 (+0.49%) · Nasdaq 27,190.86 (+1.19%) · NVDA $233.95 (+1.34%) · AMD $633.91 (+2.95%) · MU $1,074.89 (−2.05%) · MSFT $517.53 (+0.92%) · NKE $33.87 (−3.64%) · AVGO $355.14 (+3.35%) · VIX 15.31 · 10-y 5.277% · 30-y 5.630% · WTI $91.32 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.58 (−1.11%) · ES fut ~7,776.25 · NQ fut ~31,046.75"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Near Close: SoftBank T3 still MAJOR. ADD Anthropic Frontier Academy $100M, ReliaQuest CFO, Nova BMP/RB Medical.",
+    "hed": "Close: SoftBank T3 still MAJOR. ADD PIMCO Stracke AI-yields, emnify Herrmann CFO.",
     "signed": "Scout",
-    "body": "Near Close No. 231 after Late Afternoon No. 230. US cash ~3:55 PM ET: S&P +0.75% / Nasdaq +1.15%; AMD extended to +3.09%; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: Anthropic $100M Claude Frontier Academy (10,000 FDEs by end-2027; first cohorts incl. Morgan Stanley/McKinsey/Deloitte); ReliaQuest Krish Venkataraman CFO (Oct 1 miss; joins Oct 5); Nova Capital acquires BMP Group and RB Medical from Andrew Industries (terms undisclosed). Declined: Aptitude Paqvalen CFO (Aug RNS recirculation); ThetaRay Richmond CFO (Sep 29); Allianz Scaleup Europe (Sep reprint); Neysa/Blackstone (Feb); Supabase/FieldAI/Samsung Helix already plated; arXiv identity-assurance design paper (thin for plate). X MCP client-not-enrolled (skipped). Owners: Quill x3."
+    "body": "Close No. 232 after Near Close No. 231. US cash close ~4:57 PM ET: S&P +0.73% to 7,722.72 / Nasdaq +1.19% to 27,190.86; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: PIMCO President Christian Stracke on Bloomberg TV (AI/hyperscaler capital demand lifting real rates, not inflation; TIPS break-evens ~2.3%; Micron capex cited); emnify Sacha Herrmann CFO + Christian Friis CRO (Business Wire Oct 2). Declined: Neysa/Blackstone (Feb recirculation); BlackRock arXiv valuation-peer paper (2608 Aug id, not same-day); CoinShares/Aegean/Photon/Duke CFO prints (thin vs beat or already off-plate); X MCP client-not-enrolled (skipped). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 231 Near Close after No. 230 Late Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: cash close tape; FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; SoftBank Tokyo follow-through; Anthropic Academy cohort scale; ReliaQuest Oct 5 CFO start; Fed Oct hold odds after soft payrolls."
+    "line": "No. 232 Close after No. 231 Near Close. SoftBank OpenAI T3 remains MAJOR lead. Watch: weekend SoftBank Tokyo follow-through; FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; Anthropic Academy cohort scale; ReliaQuest Oct 5 CFO start; Fed Oct hold odds after soft payrolls; Stracke AI-capex vs yields tape into next week."
   },
   "sections": [
     "All",
@@ -59,6 +59,58 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "pimco-stracke-ai",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Rates",
+      "hed": "PIMCO's Stracke: AI hyperscaler capital demand, not inflation, lifting real rates",
+      "dek": "Bloomberg TV (Oct 2, 2026): PIMCO President Christian Stracke told Paul Allen that surging capital demand from hyperscalers and the AI ecosystem, not inflation fears, is pushing real rates and bond yields higher. He cited Micron's revised capex outlook as evidence of a once-in-a-generation tech disruption and said TIPS break-even inflation expectations have held near 2.3% all year. Also flagged deleveraging and European sovereign-spread risk (France 10-year yield up more than 1 percentage point since June). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Bloomberg Markets (via HeadlinesBriefing / Grafa)",
+      "url": "https://headlinesbriefing.com/market/bloomberg-markets/pimcos-stracke-ai-spending-drives-yields-81074ba9",
+      "also": [
+        {
+          "label": "Grafa - PIMCO Stracke on Bloomberg Insight (Oct 2)",
+          "url": "https://grafa.com/en/news/australia/pimco-s-stracke-on-credit-risks-yield-shock-ahead"
+        },
+        {
+          "label": "CryptoBriefing - Stracke AI demand vs inflation (Oct 2)",
+          "url": "https://cryptobriefing.com/pimco-stracke-ai-demand-rising-yields/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 232 Close after No. 231 Near Close). PRIMARY Bloomberg TV Oct 2 (Stracke/Allen): AI/hyperscaler capital demand lifting real rates and yields; TIPS break-evens ~2.3%; Micron capex cited. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "PIMCO President Christian Stracke said on Bloomberg TV on October 2, 2026 that capital demand from hyperscalers and the wider AI ecosystem, rather than inflation expectations, is pushing real rates and bond yields higher.",
+        "Speaking with Paul Allen, Stracke cited Micron Technology's revised capital-expenditure outlook as evidence of a once-in-a-generation technology disruption and noted that TIPS break-even inflation expectations have held near 2.3 percent through the year, which he framed as market confidence in Federal Reserve credibility.",
+        "Coverage of the interview also highlighted a broader deleveraging backdrop and European sovereign-spread risk, including that France's 10-year yield has risen more than one percentage point since June. SoftBank OpenAI T3 remains the MAJOR lead on this plate."
+      ]
+    },
+    {
+      "id": "emnify-herrmann-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / IoT",
+      "hed": "emnify names Sacha Herrmann CFO and Christian Friis CRO (effective immediately)",
+      "dek": "emnify via Business Wire (Oct 2, 2026): appoints Sacha Herrmann as Chief Financial Officer and Christian Friis as Chief Revenue Officer, effective immediately. Follows recent naming of Kenneth De Spiegeleire as CEO and Frank Stoecker as Executive Chairman. Herrmann: ex-CFO Soldo; scaled Nexthink (company said ~$3B valuation); CPA. Friis: ex-Dixa global GTM; senior roles at TDC and Nets. Berlin-based IoT connectivity (550+ networks, 200+ countries). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "emnify (Business Wire)",
+      "url": "https://www.businesswire.com/news/home/20261001902751/en/",
+      "also": [
+        {
+          "label": "FinancialContent syndication (Business Wire Oct 2)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-2-emnify-appoints-sacha-herrmann-as-chief-financial-officer-and-christian-friis-as-chief-revenue-officer"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 232 Close after No. 231 Near Close). PRIMARY emnify/Business Wire Oct 2: Herrmann CFO + Friis CRO effective immediately; Soldo/Nexthink finance background. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "emnify said on October 2, 2026 that it appointed Sacha Herrmann as Chief Financial Officer and Christian Friis as Chief Revenue Officer, both effective immediately.",
+        "The company said the appointments follow the recent naming of Kenneth De Spiegeleire as Chief Executive Officer and Frank Stoecker as Executive Chairman. Herrmann most recently served as CFO of Soldo and previously helped scale Nexthink, which emnify said was valued at approximately $3 billion; he is a CPA. Friis previously led global go-to-market at Dixa and held senior roles at TDC and Nets.",
+        "emnify, headquartered in Berlin, describes itself as an IoT connectivity provider with access to more than 550 mobile networks in more than 200 countries. SoftBank OpenAI T3 remains the MAJOR lead on this plate."
       ]
     },
     {
