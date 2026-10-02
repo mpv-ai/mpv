@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 230,
+  "number": 231,
   "city": "New York",
   "date": "Friday, October 2, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Near Close",
   "tape": {
-    "source": "Yahoo Finance chart API (~2:50 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
-    "updated": "Oct 2 ~2:50 PM ET Late Afternoon No. 230. Cash Fri session: S&P 7,720.38 (+0.70%); Dow 51,145.19 (+0.43%); Nasdaq 27,176.49 (+1.13%); NVDA +1.55%; AMD +2.65%; MU −1.90%; MSFT +0.41%; NKE −3.80%; AVGO +3.52%; VIX 15.57; 10-y 5.285%; 30-y 5.637%; WTI $91.19. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.56. ES ~7,771.75; NQ ~31,024.75.",
-    "line": "OPEN Fri (post-jobs) · S&P 7,720.38 (+0.70%) · Dow 51,145.19 (+0.43%) · Nasdaq 27,176.49 (+1.13%) · NVDA $234.44 (+1.55%) · AMD $632.02 (+2.65%) · MU $1,076.59 (−1.90%) · MSFT $514.91 (+0.41%) · NKE $33.82 (−3.80%) · AVGO $355.74 (+3.52%) · VIX 15.57 · 10-y 5.285% · 30-y 5.637% · WTI $91.19 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.56 · ES fut ~7,771.75 · NQ fut ~31,024.75"
+    "source": "Yahoo Finance chart API (~3:55 PM ET Fri). US cash OPEN Fri after Sep jobs. SoftBank Tokyo Oct 2 settle from Yahoo daily chart (6,310 vs Oct 1 6,701 = −5.83%).",
+    "updated": "Oct 2 ~3:55 PM ET Near Close No. 231. Cash Fri session: S&P 7,723.94 (+0.75%); Dow 51,183.97 (+0.51%); Nasdaq 27,181.28 (+1.15%); NVDA +1.47%; AMD +3.09%; MU −2.03%; MSFT +0.74%; NKE −3.91%; AVGO +3.28%; VIX 15.41; 10-y 5.277%; 30-y 5.630%; WTI $91.45. SoftBank Tokyo Oct 2 settle 6,310 (−5.83%). SFTBY $20.62. ES ~7,778.75; NQ ~31,072.75.",
+    "line": "OPEN Fri (post-jobs) · S&P 7,723.94 (+0.75%) · Dow 51,183.97 (+0.51%) · Nasdaq 27,181.28 (+1.15%) · NVDA $234.25 (+1.47%) · AMD $634.74 (+3.09%) · MU $1,075.09 (−2.03%) · MSFT $516.57 (+0.74%) · NKE $33.77 (−3.91%) · AVGO $354.92 (+3.28%) · VIX 15.41 · 10-y 5.277% · 30-y 5.630% · WTI $91.45 · SoftBank Tokyo 6,310 (−5.83%) · SFTBY $20.62 · ES fut ~7,778.75 · NQ fut ~31,072.75"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Afternoon: SoftBank T3 still MAJOR. ADD FieldAI $10B term sheet, Antin HP Helicopters, Samfara/Olesen, GitHub Dynamic Workflows.",
+    "hed": "Near Close: SoftBank T3 still MAJOR. ADD Anthropic Frontier Academy $100M, ReliaQuest CFO, Nova BMP/RB Medical.",
     "signed": "Scout",
-    "body": "Late Afternoon No. 230 after Mid-Afternoon No. 229. US cash ~2:50 PM ET: indexes little changed vs Mid-Afternoon (S&P +0.70% / Nasdaq +1.13%); AVGO extended to +3.52%; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead (FieldAI term sheet not closed). ADD NOT MAJOR: FieldAI $700M at $10B per BI (term sheet); Antin NextGen majority HP Helicopters (Oct 1 miss; AI grid/wildfire heavy-lift); Samfara completes Chr. Olesen Synthesis API buyout; GitHub Copilot Dynamic Workflows (+ computer use) public preview (Forge). Declined: Neysa/Blackstone IBJ reprint (Feb deal); Samsung Helix / CONTPAQi / Tideworks / Kahua already plated; Crescent/Infravadis (Latham Sep 9); ECB SAFE AI-financing box (July SAFE round recirculation); Hyperscale Data askROI (preliminary/thin); DexCare-Mila (aggregator, terms thin). X MCP client-not-enrolled (skipped). Owners: Quill x3, Forge x1."
+    "body": "Near Close No. 231 after Late Afternoon No. 230. US cash ~3:55 PM ET: S&P +0.75% / Nasdaq +1.15%; AMD extended to +3.09%; SoftBank Tokyo settle still 6,310 (−5.83%). SoftBank OpenAI T3 remains MAJOR lead. ADD NOT MAJOR: Anthropic $100M Claude Frontier Academy (10,000 FDEs by end-2027; first cohorts incl. Morgan Stanley/McKinsey/Deloitte); ReliaQuest Krish Venkataraman CFO (Oct 1 miss; joins Oct 5); Nova Capital acquires BMP Group and RB Medical from Andrew Industries (terms undisclosed). Declined: Aptitude Paqvalen CFO (Aug RNS recirculation); ThetaRay Richmond CFO (Sep 29); Allianz Scaleup Europe (Sep reprint); Neysa/Blackstone (Feb); Supabase/FieldAI/Samsung Helix already plated; arXiv identity-assurance design paper (thin for plate). X MCP client-not-enrolled (skipped). Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 230 Late Afternoon after No. 229 Mid-Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; SoftBank Tokyo follow-through; AVGO chip-financing tape; Fed Oct hold odds after soft payrolls; Antin HP Helicopters fleet/contract updates; GitHub Dynamic Workflows preview feedback."
+    "line": "No. 231 Near Close after No. 230 Late Afternoon. SoftBank OpenAI T3 remains MAJOR lead. Watch: cash close tape; FieldAI close/lead disclosure; Applied Digital FQ1 FY27 call Oct 7 5pm ET; Apollo/RHAELM definitive financing on Chiba; Broadcom $60B syndication letters; SoftBank Tokyo follow-through; Anthropic Academy cohort scale; ReliaQuest Oct 5 CFO start; Fed Oct hold odds after soft payrolls."
   },
   "sections": [
     "All",
@@ -59,6 +59,90 @@
         "The Third Tranche completes the USD 30.0 billion follow-on investments previously announced February 27, 2026. SoftBank's cumulative investment in OpenAI totals USD 64.6 billion, with ownership interest of approximately 13%.",
         "Funding came from proceeds of the foreign currency-denominated senior notes announced September 24, 2026.",
         "Effective September 30, 2026, SoftBank canceled the remaining USD 10.0 billion of undrawn capacity under the March 27, 2026 bridge facility (total facility USD 40.0 billion). Together with the early repayment announced September 9, 2026, all borrowings under the bridge have been repaid and no undrawn commitments remain."
+      ]
+    },
+    {
+      "id": "anthropic-frontier-academy",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise talent",
+      "hed": "Anthropic commits $100M to Claude Frontier Academy; aims to train 10,000 FDEs by end-2027",
+      "dek": "Anthropic (Oct 2, 2026): launches Claude Frontier Academy with a $100 million commitment to train 10,000 Frontier Deployed Engineers by end of 2027. First cohorts include Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk. Multi-day in-person then 12-week residency on a named Claude project; Claude Resident Engineer then Claude Frontier Deployed Engineer badges; first FDE badges expected early 2027. Cohorts in San Francisco, New York, London; nomination via Anthropic account teams. Builds on Partner Network (46,000 firms; >175,000 certifications). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "also": [
+        {
+          "label": "Anthropic newsroom",
+          "url": "https://www.anthropic.com/news"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 231 Near Close). PRIMARY Anthropic Oct 2: $100M Claude Frontier Academy; 10,000 FDEs by end-2027; enterprise/consulting first cohorts incl. Morgan Stanley, McKinsey, Deloitte. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Anthropic said on October 2, 2026 that it is launching Claude Frontier Academy with a $100 million commitment aimed at training 10,000 Frontier Deployed Engineers by the end of 2027.",
+        "The company said engineers from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley, and Novo Nordisk are in the first cohorts. The Frontier Deployed Engineer Residency starts with a multi-day in-person program with Anthropic engineers, then a 12-week residency leading a named Claude project at the nominating organization, with assessments for Claude Resident Engineer and Claude Frontier Deployed Engineer badges; the first FDE badges are expected in early 2027.",
+        "Cohorts are running in San Francisco, New York, and London, with participation by nomination through Anthropic account teams. Anthropic framed the Academy as building on its Claude Partner Network, where professionals across 46,000 firms have earned more than 175,000 Claude certifications."
+      ]
+    },
+    {
+      "id": "reliaquest-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Cybersecurity",
+      "hed": "ReliaQuest names Krish Venkataraman CFO (joins Oct 5); ex-KnowBe4/Solink finance chief",
+      "dek": "ReliaQuest via Business Wire (Oct 1, 2026, 9:30 AM ET): Krish Venkataraman joins as CFO on October 5, leading global finance and accounting. Ex Co-President/CFO of KnowBe4 (helped scale ~$10M to ~$300M ARR; Nasdaq IPO 2021); most recently CFO at Solink (AI); prior President of Dataiku and CFO of Socure. CEO Brian Murphy cites AI/cyber experience. GreyMatter positioned as agentic AI cybersecurity (Universal Translator, Detection at Source/Storage/Transit, Agentic Orchestration, AI Model Broker). NOT MAJOR (Oct 1 miss). Owner Quill.",
+      "date": "Oct. 1, 2026",
+      "source": "ReliaQuest (Business Wire)",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-1-reliaquest-names-krish-venkataraman-chief-financial-officer",
+      "also": [
+        {
+          "label": "StreetInsider Business Wire mirror (Oct 1, 2026 9:30 AM ET)",
+          "url": "https://www.streetinsider.com/Business+Wire/ReliaQuest+Names+Krish+Venkataraman+Chief+Financial+Officer/27132969.html"
+        },
+        {
+          "label": "CFO Tech UK write-up (Oct 2, 2026)",
+          "url": "https://cfotech.co.uk/story/reliaquest-appoints-krish-venkataraman-as-cfo"
+        },
+        {
+          "label": "ReliaQuest company site",
+          "url": "https://www.reliaquest.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 231 Near Close; Oct 1 miss). PRIMARY ReliaQuest/Business Wire Oct 1: Venkataraman CFO effective Oct 5; KnowBe4 IPO/scale background; Solink AI CFO. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "ReliaQuest announced via Business Wire on October 1, 2026 that Krish Venkataraman will join as Chief Financial Officer on October 5, leading the company's global finance and accounting organization.",
+        "The release said Venkataraman previously served as Co-President and CFO of KnowBe4, helping scale the business from about $10 million to about $300 million of ARR and supporting its 2021 Nasdaq IPO. He joins from Solink, an AI technology company where he was CFO, and earlier was President of Dataiku and CFO of Socure.",
+        "Founder and CEO Brian Murphy said Venkataraman understands the AI and cybersecurity problem ReliaQuest solves. ReliaQuest described its GreyMatter platform as agentic AI cybersecurity with capabilities including a Universal Translator for telemetry normalization, detection at source, storage, or in transit, and an AI Model Broker that selects models by speed, cost, and accuracy."
+      ]
+    },
+    {
+      "id": "nova-bmp-rb",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Industrials",
+      "hed": "Nova Capital acquires BMP Group and RB Medical from Andrew Industries; terms undisclosed",
+      "dek": "Nova Capital Management (GlobeNewswire Oct 2, 2026, 07:00 ET): acquired BMP Group of companies and RB Medical from Andrew Industries. Terms not disclosed. BMP: global maker of industrial consumable components/sub-assemblies (office automation, filtration, automotive, appliances, tree protection, renewables). RB Medical: specialized UK healthcare products. Omiros Millas (Partner) and Carl Francis (Operating Partner) to oversee for Nova; existing management retained. Advisors: Nova (Dentons, Cooper Parry, Grant Thornton, Fellwood); sellers (KPMG Corporate Finance, DLA Piper). Nova: >75 investments since 2002. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 2, 2026",
+      "source": "Nova Capital (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/02/3373741/0/en/nova-capital-management-acquires-bmp-group-of-companies-and-rb-medical-from-andrew-industries.html",
+      "also": [
+        {
+          "label": "ADVFN UK Regulatory mirror",
+          "url": "https://uk.advfn.com/stock-market/share-news/Nova-Capital-Management-Acquires-BMP-Group-of-Comp/99422524"
+        },
+        {
+          "label": "Nova Capital site",
+          "url": "https://www.nova-cap.com"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD NOT MAJOR (No. 231 Near Close). PRIMARY Nova/GlobeNewswire Oct 2: BMP Group + RB Medical from Andrew Industries; terms undisclosed. SoftBank OpenAI T3 remains MAJOR lead. Owner Quill.",
+      "grafs": [
+        "Nova Capital Management said on October 2, 2026 via GlobeNewswire that it acquired the BMP Group of companies and RB Medical from Andrew Industries. Financial terms were not disclosed.",
+        "Nova described BMP as a global manufacturer of industrial consumable components and sub-assemblies serving markets including office automation, filtration, automotive, domestic appliances, sustainable tree protection, and renewable energy. RB Medical is a specialized healthcare products business serving the UK medical sector.",
+        "Partner Omiros Millas and Operating Partner Carl Francis will jointly oversee the businesses for Nova while existing management structures continue. Nova said it has invested in more than 75 businesses since 2002. Advisors included Dentons, Cooper Parry, Grant Thornton, and Fellwood for Nova, and KPMG Corporate Finance and DLA Piper for the sellers."
       ]
     },
     {
