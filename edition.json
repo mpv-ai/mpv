@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 237,
+  "number": 238,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart API (~10:57 AM ET Mon Late Morning; index levels live intraday vs Fri close; VIX/yields ~10:42 AM, SFTBY ~10:40 AM, WTI/ES/NQ ~10:47 AM; SoftBank Tokyo Oct 5 close).",
-    "updated": "Oct 5 ~10:57 AM ET Late Morning No. 237. S&P 7,755.54 (+0.42%); Dow 51,100.07 (-0.15%); Nasdaq 27,391.06 (+0.74%); NVDA +1.37%; AMD -0.55%; MU -0.63%; MSFT +1.70%; NKE -2.91%; AVGO +1.81%; PTC $193.50 (+34.35% on Schneider $205 cash bid); VIX 15.55; 10-y 5.315%; 30-y 5.671%; WTI ~$90.41 (-0.77%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.28 (-1.46%). ES ~7,804.50; NQ ~31,220.00.",
-    "line": "LATE MORNING Mon · S&P 7,755.54 (+0.42%) · Dow 51,100.07 (-0.15%) · Nasdaq 27,391.06 (+0.74%) · NVDA $237.15 (+1.37%) · AMD $630.43 (-0.55%) · MU $1,068.14 (-0.63%) · MSFT $526.33 (+1.70%) · NKE $32.89 (-2.91%) · AVGO $361.57 (+1.81%) · PTC $193.50 (+34.35%) · VIX 15.55 · 10-y 5.315% · 30-y 5.671% · WTI ~$90.41 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.28 (-1.46%) · ES fut ~7,804.50 · NQ fut ~31,220.00"
+    "source": "Yahoo Finance chart API (~11:58 AM ET Mon Midday; index levels live intraday vs Fri close; VIX/yields/SFTBY ~11:42 AM, WTI/ES/NQ ~11:48 AM; SoftBank Tokyo Oct 5 close).",
+    "updated": "Oct 5 ~11:58 AM ET Midday No. 238. S&P 7,762.40 (+0.51%); Dow 51,164.80 (-0.02%); Nasdaq 27,401.77 (+0.78%); NVDA +1.24%; AMD -0.21%; MU -0.97%; MSFT +1.73%; NKE -1.42%; AVGO +1.79%; PTC $192.99 (+33.99% on Schneider $205 cash bid); VIX 15.56; 10-y 5.324%; 30-y 5.680%; WTI ~$90.72 (-0.43%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.18 (-1.94%). ES ~7,813.00; NQ ~31,234.25.",
+    "line": "MIDDAY Mon · S&P 7,762.40 (+0.51%) · Dow 51,164.80 (-0.02%) · Nasdaq 27,401.77 (+0.78%) · NVDA $236.85 (+1.24%) · AMD $632.55 (-0.21%) · MU $1,064.42 (-0.97%) · MSFT $526.47 (+1.73%) · NKE $33.39 (-1.42%) · AVGO $361.49 (+1.79%) · PTC $192.99 (+33.99%) · VIX 15.56 · 10-y 5.324% · 30-y 5.680% · WTI ~$90.72 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.18 (-1.94%) · ES fut ~7,813.00 · NQ fut ~31,234.25"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Morning Mon: Schneider-PTC stays the MAJOR lead. Five adds.",
+    "hed": "Midday Mon: Schneider-PTC stays the MAJOR lead. Two adds.",
     "signed": "Scout",
-    "body": "Late Morning No. 237 after Mid-Morning No. 236. Tape refreshed from Yahoo ~10:57 AM ET: S&P 7,755.54 (+0.42%), Nasdaq 27,391.06 (+0.74%), Dow -0.15%; 10-y 5.315%; WTI ~$90.41; PTC holding +34% near $193.50 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: OpenAI visual ad format test in ChatGPT image generation plus measurement and brand-safety partners; Instinct $1B Series C at $10B (Sequoia, Benchmark, Coatue); One Rock closes $470M EnviroServe sale to Clean Harbors; Altaris and Leidos close Analogic screening JV; Hammerson names AEW Boston's Gina Szymanski CFO. Declined: GPT-6 Astra Ultrafast and Sonnet 5.5 (already on plate); Mutares/Lapeyre (no price); single-source safety-chip and IPO claims from aggregator sites (not verified). Owners: Quill x5."
+    "body": "Midday No. 238 after Late Morning No. 237. Tape refreshed from Yahoo ~11:58 AM ET: S&P 7,762.40 (+0.51%), Nasdaq 27,401.77 (+0.78%), Dow roughly flat; 10-y 5.324%; WTI ~$90.72; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Intesa Sanpaolo's EUR 35B MPS bid wins Delfin's 17.6% stake and a EUR 800M cash sweetener tied to rejecting MPS's defence plan (Reuters); Clockwork.io raises $31M for GPU fault-tolerance software with LinkedIn and Together AI in production. Declined: SiMa.ai and EliseAI (already on plate); Shionogi-IntraBio $2B (pharma, off beat); small-cap CFO hires outside the beat. Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 237 Late Morning Mon after No. 236 Mid-Morning. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; ChatGPT visual ads US test later in October; C.H. Robinson/RXO terms; Monzo PE process (CVC/Advent); Applied Digital FQ1 FY27 call Oct 7 5pm ET; Fed Oct 28 hold odds after weak Sep payrolls."
+    "line": "No. 238 Midday Mon after No. 237 Late Morning. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; MPS shareholder vote on defence plan and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; Monzo PE process (CVC/Advent); Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -55,6 +55,49 @@
         "The price is a 42.3% premium to PTC's last close and 46.1% to its 30-trading-day volume-weighted average. Schneider expects EUR 250 million of annual run-rate cost synergies by Year 3 and about EUR 800 million of revenue synergies, and says the deal is low single-digit accretive to adjusted EPS (before purchase accounting) in the first full year.",
         "The roughly EUR 22 billion cash consideration is backed by a fully committed bridge from Morgan Stanley and Societe Generale, to be refinanced with an accelerated bookbuild equity offering of about EUR 5 to 6 billion and EUR 16 to 17 billion of new multi-currency debt. Schneider expects to keep Category A ratings and plans to pause buybacks in 2027 and 2028.",
         "Bloomberg called it Schneider's biggest acquisition to date and noted Schneider shares fell as much as 9.4% in Paris while PTC jumped. The deal adds CAD, PLM, ALM and SLM software to Schneider's AVEVA and pending Cognite assets, framed as an industrial AI data foundation. Boards of both companies approved it; closing is expected by Q3 2027, subject to PTC shareholder and regulatory approvals."
+      ]
+    },
+    {
+      "id": "intesa-mps-delfin",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Bank M&A",
+      "hed": "Intesa's EUR 35B bid for MPS wins backing of top investor Delfin; adds EUR 800M cash if holders reject defence plan",
+      "dek": "Reuters (Oct 5, 2026): Intesa Sanpaolo said Delfin, the largest Monte dei Paschi di Siena shareholder with a 17.6% stake, committed to tender into Intesa's cash-and-shares offer and vote against MPS CEO Luigi Lovaglio's defence plan at the Oct 29 meeting. Intesa offered a further EUR 800M in cash if MPS holders reject the defence, which Reuters says lifts the EUR 3B cash component by 25% and the overall offer by 2.3% on Friday's close. Mediobanca fell as much as 7%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/intesas-35-billion-bid-mps-wins-backing-top-investor-2026-10-05/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 238 Midday Mon after No. 237 Late Morning). NOT MAJOR. Reuters Oct 5: Delfin (17.6%) backs Intesa EUR 35B MPS bid; EUR 800M cash sweetener conditional on rejecting defence plan; MPS vote Oct 29. Watch: Oct 29 vote, Mediobanca minority buyout fate, Generali stake. Owner Quill.",
+      "grafs": [
+        "Intesa Sanpaolo, Italy's biggest bank, said late on Sunday that Delfin, the largest investor in Monte dei Paschi di Siena with a 17.6% stake, has committed to tender its shares under Intesa's cash-and-shares bid and to vote against MPS's defence scheme, Reuters reported on October 5, 2026. Reuters values the offer at EUR 35 billion ($39 billion).",
+        "MPS chief executive Luigi Lovaglio has asked shareholders to back his defence plan, along with a scheme to take Mediobanca private and merge with it, at a vote on October 29; the plans need two-thirds support. Intesa said it would add EUR 800 million in cash for MPS holders if they reject the defence, and would withdraw its offer if they approve it.",
+        "Reuters said the sweetener raises the bid's EUR 3 billion cash component by 25% but improves the overall offer by 2.3% based on Friday's MPS close. Intesa plans to keep only half of the MPS branch network for antitrust reasons while retaining the Mediobanca and Generali holdings. Mediobanca shares fell as much as 7% on Monday; MPS and Intesa edged higher."
+      ]
+    },
+    {
+      "id": "clockwork-31",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infrastructure",
+      "hed": "Clockwork.io raises $31M for software that keeps AI jobs running through GPU failures; LinkedIn and Together AI in production",
+      "dek": "Clockwork.io (Oct 5, 2026): $31M in new funding co-led by Premji Invest, Wing Venture Capital and Seligman Ventures, with NEA and e& Capital, bringing total raised to $73M. Production deployments at LinkedIn and Together AI and expanded use by WhiteFiber; new TorchPass multi-node snapshots and asynchronous checkpoints for training and reinforcement learning. Worth following as GPU goodput becomes a cost lever for AI fleets and lenders. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Clockwork.io (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/clockworkio-raises-31m-as-linkedin-together-ai-and-whitefiber-adopt-its-resilience-software-to-stop-wasting-gpu-hours-302897586.html",
+      "also": [
+        {
+          "label": "Tech Funding News - Clockwork.io lands $31M to eliminate wasted GPU-hours",
+          "url": "https://techfundingnews.com/clockwork-io-lands-31m-to-eliminate-wasted-gpu-hours-with-ai-infrastructure-fault-tolerance/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 238 Midday Mon after No. 237 Late Morning). NOT MAJOR. Clockwork.io Oct 5: $31M (Premji, Wing, Seligman; NEA, e& Capital), $73M total; LinkedIn and Together AI production, WhiteFiber expansion; TorchPass snapshots. Pairs with Lambda and Sharon AI GPU financing stories. Owner Quill.",
+      "grafs": [
+        "Clockwork.io, whose fault-tolerance software keeps AI training, reinforcement learning and inference workloads running through infrastructure failures, said on October 5, 2026 that it raised $31 million in new funding. Tech Funding News reported the round was co-led by Premji Invest, Wing Ventures and Seligman Ventures, with existing investors NEA and e& Capital, bringing total funding to $73 million.",
+        "The company announced production deployments at LinkedIn and Together AI and expanded adoption by WhiteFiber. Its LinkPass product reroutes traffic around a failed network link, and TorchPass moves work from a failing GPU to a healthy one so training continues instead of rolling back to a checkpoint.",
+        "Clockwork also added multi-node platform snapshots that save an entire running job without changes to training code, and fast asynchronous checkpoints that push updated weights to inference replicas during reinforcement learning. The release cites Meta's report of unexpected interruptions roughly every three hours during 54 days of Llama 3 training on 16,384 GPUs, and recovery times of up to 90 minutes."
       ]
     },
     {
