@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 241,
+  "number": 242,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Near Close",
   "tape": {
-    "source": "Yahoo Finance chart API (~2:50 PM ET Mon Late Afternoon; index levels live intraday vs Fri close; VIX/yields ~2:35 PM, WTI/ES/NQ ~2:40 PM, SFTBY ~2:29 PM; SoftBank Tokyo Oct 5 close).",
-    "updated": "Oct 5 ~2:50 PM ET Late Afternoon No. 241. S&P 7,779.56 (+0.74%); Dow 51,312.29 (+0.26%); Nasdaq 27,483.60 (+1.08%); NVDA +2.08%; AMD -0.55%; MU -1.25%; MSFT +1.84%; NKE -0.66%; AVGO +2.22%; PTC $192.55 (+33.69% on Schneider $205 cash bid); VIX 15.60; 10-y 5.332%; 30-y 5.684%; WTI ~$89.13 (-2.17%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.21 (-1.80%). ES ~7,832.75; NQ ~31,314.25.",
-    "line": "LATE AFTERNOON Mon · S&P 7,779.56 (+0.74%) · Dow 51,312.29 (+0.26%) · Nasdaq 27,483.60 (+1.08%) · NVDA $238.81 (+2.08%) · AMD $630.45 (-0.55%) · MU $1,061.50 (-1.25%) · MSFT $527.08 (+1.84%) · NKE $33.65 (-0.66%) · AVGO $363.04 (+2.22%) · PTC $192.55 (+33.69%) · VIX 15.60 · 10-y 5.332% · 30-y 5.684% · WTI ~$89.13 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.21 (-1.80%) · ES fut ~7,832.75 · NQ fut ~31,314.25"
+    "source": "Yahoo Finance chart API (~3:53 PM ET Mon Near Close; index and stock levels live intraday vs Fri close; VIX/SFTBY ~3:38 PM, WTI/ES/NQ ~3:43 PM, yields ~3:00 PM; SoftBank Tokyo Oct 5 close).",
+    "updated": "Oct 5 ~3:53 PM ET Near Close No. 242. S&P 7,772.87 (+0.65%); Dow 51,254.96 (+0.15%); Nasdaq 27,481.19 (+1.07%); NVDA +2.42%; AMD -0.38%; MU -1.19%; MSFT +1.76%; NKE -0.40%; AVGO +1.81%; PTC $192.45 (+33.61% on Schneider $205 cash bid); VIX 15.57; 10-y 5.311%; 30-y 5.665%; WTI ~$89.02 (-2.29%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.30 (-1.36%). ES ~7,837.50; NQ ~31,344.25.",
+    "line": "NEAR CLOSE Mon · S&P 7,772.87 (+0.65%) · Dow 51,254.96 (+0.15%) · Nasdaq 27,481.19 (+1.07%) · NVDA $239.61 (+2.42%) · AMD $631.52 (-0.38%) · MU $1,062.06 (-1.19%) · MSFT $526.66 (+1.76%) · NKE $33.74 (-0.40%) · AVGO $361.57 (+1.81%) · PTC $192.45 (+33.61%) · VIX 15.57 · 10-y 5.311% · 30-y 5.665% · WTI ~$89.02 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.30 (-1.36%) · ES fut ~7,837.50 · NQ fut ~31,344.25"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Afternoon Mon: Schneider-PTC stays the MAJOR lead. Nasdaq record, a take-private financing, a local-AI seed.",
+    "hed": "Near Close Mon: Schneider-PTC stays the MAJOR lead. Two AI power and cooling build-out reads.",
     "signed": "Scout",
-    "body": "Late Afternoon No. 241 after Afternoon No. 240. Tape refreshed from Yahoo ~2:50 PM ET: S&P 7,779.56 (+0.74%), Nasdaq 27,483.60 (+1.08%), Dow +0.26%; 10-y 5.332%; WTI ~$89.13; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Nasdaq record with Cerebras +9.4% on Altman's 'close partner' remark (Reuters); LKCM Headwater's $700M notes to fund its $35-a-share take-private of Distribution Solutions Group (Business Wire); a16z leads Ghost's $11M seed for a $3,499 local-agent computer (TechCrunch). Declined: Chinese AI 'agent fleet' on Amap (preliminary, thin); OneByZero $20M Series A and Photon $4.5M seed (small); Gaw HK real-estate debt fund filing (off beat). Owners: Quill x3."
+    "body": "Near Close No. 242 after Late Afternoon No. 241. Tape refreshed from Yahoo ~3:53 PM ET: S&P 7,772.87 (+0.65%), Nasdaq 27,481.19 (+1.07%), Dow +0.15%; 10-y 5.311%; WTI ~$89.02; PTC near $192 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: TeraWulf doubles contracted power at its Kentucky Muskie AI campus to 1 GW (company release); LG Electronics' 5 GW AI data-center chiller supply deal with AIR Control Concept (Herald Business). Declined: GE HealthCare-Sofie $945M (medtech, off beat); IES closing of DBM Global (industrial, previously announced); Safeworld seed (small); frontier-lab safety accord (already covered as the White House joint commitment). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 241 Late Afternoon Mon after No. 240 Afternoon. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; DSG notes pricing; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 242 Near Close Mon after No. 241 Late Afternoon. Schneider-PTC is MAJOR lead. Watch: cash close tape; PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; DSG notes pricing; TeraWulf Muskie PSC approval and tenant; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -28,6 +28,44 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "terawulf-muskie-1gw",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI infrastructure",
+      "hed": "TeraWulf doubles contracted power at its Kentucky Muskie AI campus to 1 GW and pulls the second phase into 2029",
+      "dek": "TeraWulf (Oct 5, 2026): an amended Kentucky Power (AEP) service agreement lifts contracted capacity at the Muskie Data Campus from 500 MW to 1 GW and moves the second 500 MW phase from 2030 to 2029, pending Kentucky PSC approval. The first phase still targets a 2028 ramp; the company is studying up to 2 GW. CEO Paul Prager cites strong customer interest. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "TeraWulf (GlobeNewswire press release)",
+      "url": "https://investors.terawulf.com/news-events/press-releases/detail/146/terawulf-expands-contracted-power-capacity-at-its-muskie-data-campus-to-1-gw",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 242 Near Close Mon after No. 241 Late Afternoon). NOT MAJOR. TeraWulf Oct 5: Muskie contracted power 500 MW to 1 GW via amended Kentucky Power ESA; phase 2 advanced to 2029; phase 1 ramp 2028; up to 2 GW under evaluation. Power, not chips, is the gating item for AI campuses. Watch: Kentucky PSC approval, a named Muskie tenant or lease. Owner Quill.",
+      "grafs": [
+        "TeraWulf (Nasdaq: WULF) said on October 5, 2026 that it signed an amended and restated electric service agreement with Kentucky Power, an American Electric Power company, raising contracted power capacity at its Muskie Data Campus in eastern Kentucky from 500 megawatts to 1 gigawatt.",
+        "The amendment moves planned delivery of Muskie's second 500 MW phase from 2030 to 2029, subject to Kentucky Public Service Commission approval and the utility's construction schedule. The first 500 MW phase remains targeted to begin ramping in 2028, and the company is evaluating whether the campus can support up to 2 GW over time.",
+        "'Customer interest in Muskie has been tremendous, and power availability is central to those conversations,' chief executive Paul Prager said. TeraWulf bought the site in May 2026 to develop it in phases as an AI and high-performance computing campus, and Kentucky Power is building a 765-kV / 345-kV substation to serve it. No Muskie tenant has been announced."
+      ]
+    },
+    {
+      "id": "lg-aircontrol-5gw-cooling",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Data-center supply chain",
+      "hed": "LG Electronics signs long-term deal to supply chillers for 5 GW of North American AI data centers",
+      "dek": "The Herald Business (Oct 5, 2026): LG Electronics' US unit agreed a long-term supply contract with AIR Control Concept to deliver high-efficiency chillers and other cooling gear for AI data centers totaling 5 GW. LG says first-half AI data-center cooling orders topped 600 billion won (about $441M), and it plans a roughly 150 billion won chiller plant in Virginia. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "The Herald Business (Herald Corp.)",
+      "url": "https://biz.heraldcorp.com/article/10893445",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 242 Near Close Mon after No. 241 Late Afternoon). NOT MAJOR. Herald Business Oct 5: LG Electronics USA long-term chiller supply deal with AIR Control Concept covering 5 GW of AI data centers; talks to add coolant distribution units; H1 AIDC cooling orders over 600B won; new Virginia chiller plant about 150B won. Read-through for the cooling and power-equipment trade. Owner Quill.",
+      "grafs": [
+        "LG Electronics' US subsidiary said on Monday that it signed a long-term supply agreement with AIR Control Concept, a US and Canadian infrastructure platform company, to provide chillers and other cooling solutions for AI data centers with a combined capacity of 5 gigawatts, The Herald Business reported. Deliveries will be made in sequence rather than bid project by project.",
+        "LG said its first-half orders for AI data-center cooling already exceeded 600 billion won ($441 million) and that it expects cumulative orders to reach the multi-trillion won range by year-end, which would pull forward its target of 1 trillion won in annual chiller sales originally set for the end of 2027. It is also in talks with AIR Control Concept to supply coolant distribution units for liquid cooling.",
+        "To meet demand, LG plans to invest about 150 billion won in a new chiller factory in Virginia and to expand lines at its Pyeongtaek and Changwon plants in Korea. The paper cited Omdia projections that global data-center power capacity will rise from 226 GW in 2026 to 334 GW in 2027."
+      ]
+    },
     {
       "id": "nasdaq-record-cerebras-altman",
       "lead": false,
