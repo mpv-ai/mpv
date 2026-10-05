@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 242,
+  "number": 243,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Near Close",
+  "editionLabel": "Close",
   "tape": {
-    "source": "Yahoo Finance chart API (~3:53 PM ET Mon Near Close; index and stock levels live intraday vs Fri close; VIX/SFTBY ~3:38 PM, WTI/ES/NQ ~3:43 PM, yields ~3:00 PM; SoftBank Tokyo Oct 5 close).",
-    "updated": "Oct 5 ~3:53 PM ET Near Close No. 242. S&P 7,772.87 (+0.65%); Dow 51,254.96 (+0.15%); Nasdaq 27,481.19 (+1.07%); NVDA +2.42%; AMD -0.38%; MU -1.19%; MSFT +1.76%; NKE -0.40%; AVGO +1.81%; PTC $192.45 (+33.61% on Schneider $205 cash bid); VIX 15.57; 10-y 5.311%; 30-y 5.665%; WTI ~$89.02 (-2.29%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.30 (-1.36%). ES ~7,837.50; NQ ~31,344.25.",
-    "line": "NEAR CLOSE Mon · S&P 7,772.87 (+0.65%) · Dow 51,254.96 (+0.15%) · Nasdaq 27,481.19 (+1.07%) · NVDA $239.61 (+2.42%) · AMD $631.52 (-0.38%) · MU $1,062.06 (-1.19%) · MSFT $526.66 (+1.76%) · NKE $33.74 (-0.40%) · AVGO $361.57 (+1.81%) · PTC $192.45 (+33.61%) · VIX 15.57 · 10-y 5.311% · 30-y 5.665% · WTI ~$89.02 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.30 (-1.36%) · ES fut ~7,837.50 · NQ fut ~31,344.25"
+    "source": "Yahoo Finance chart API (~4:50 PM ET Mon Close; index and stock closes vs Fri close; VIX 4:15 PM, WTI/ES/NQ ~4:45 PM, yields ~3:00 PM; SoftBank Tokyo Oct 5 close). Index closes match Reuters close wrap via LSE.",
+    "updated": "Oct 5 ~4:50 PM ET Close No. 243. S&P 7,773.95 (+0.66%); Dow 51,267.90 (+0.18%); Nasdaq 27,477.31 (+1.05%, record close); NVDA +2.12% (record close); AMD -0.34%; MU -1.02%; MSFT +1.48%; NKE +0.27%; AVGO +2.08%; PTC $192.26 (+33.49% on Schneider $205 cash bid); VIX 15.52; 10-y 5.311%; 30-y 5.665%; WTI ~$89.23 (-2.06%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.25 (-1.60%). ES ~7,829.00; NQ ~31,338.00.",
+    "line": "CLOSE Mon · S&P 7,773.95 (+0.66%) · Dow 51,267.90 (+0.18%) · Nasdaq 27,477.31 (+1.05%, record) · NVDA $238.90 (+2.12%) · AMD $631.75 (-0.34%) · MU $1,063.96 (-1.02%) · MSFT $525.18 (+1.48%) · NKE $33.96 (+0.27%) · AVGO $362.51 (+2.08%) · PTC $192.26 (+33.49%) · VIX 15.52 · 10-y 5.311% · 30-y 5.665% · WTI ~$89.23 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.25 (-1.60%) · ES fut ~7,829.00 · NQ fut ~31,338.00"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Near Close Mon: Schneider-PTC stays the MAJOR lead. Two AI power and cooling build-out reads.",
+    "hed": "Close Mon: Nasdaq record close, Schneider-PTC stays the MAJOR lead. A PE healthcare take-private and a CFO hire after the bell.",
     "signed": "Scout",
-    "body": "Near Close No. 242 after Late Afternoon No. 241. Tape refreshed from Yahoo ~3:53 PM ET: S&P 7,772.87 (+0.65%), Nasdaq 27,481.19 (+1.07%), Dow +0.15%; 10-y 5.311%; WTI ~$89.02; PTC near $192 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: TeraWulf doubles contracted power at its Kentucky Muskie AI campus to 1 GW (company release); LG Electronics' 5 GW AI data-center chiller supply deal with AIR Control Concept (Herald Business). Declined: GE HealthCare-Sofie $945M (medtech, off beat); IES closing of DBM Global (industrial, previously announced); Safeworld seed (small); frontier-lab safety accord (already covered as the White House joint commitment). Owners: Quill x2."
+    "body": "Close No. 243 after Near Close No. 242. Tape refreshed from Yahoo ~4:50 PM ET: S&P 7,773.95 (+0.66%), Nasdaq 27,477.31 (+1.05%, a record close per Reuters), Dow +0.18%; NVDA record close; 10-y 5.311%; WTI ~$89.23; PTC $192.26 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: McKesson and CD&R near a $5B-plus deal for Option Care Health (FT via Reuters, not confirmed); Pinterest names Amazon finance chief James Dibbo CFO (Business Wire). Declined: Zeta Global-Senso (small GEO tuck-in, terms undisclosed); Musk-TSMC Terafab talks (weekend report, discussions only); OneByZero $20M Series A and BioTissue/Avenzo CFO hires (small or off beat). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 242 Near Close Mon after No. 241 Late Afternoon. Schneider-PTC is MAJOR lead. Watch: cash close tape; PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; DSG notes pricing; TeraWulf Muskie PSC approval and tenant; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 243 Close Mon after No. 242 Near Close. Schneider-PTC is MAJOR lead. Watch: McKesson/CD&R-Option Care announcement as soon as Tuesday; PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; Pinterest Q3 print with Dibbo starting Oct 26; TeraWulf Muskie PSC approval and tenant; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -28,6 +28,53 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "mckesson-cdr-option-care",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Take-private (report)",
+      "hed": "McKesson and CD&R near a $5 billion-plus deal to buy home-infusion provider Option Care Health",
+      "dek": "Reuters, citing the Financial Times (Oct 5, 2026): drug distributor McKesson and private equity firm Clayton Dubilier & Rice are nearing a deal for Option Care Health valued at more than $5 billion including debt. It could be announced as soon as Tuesday, though talks could still fall apart. The companies did not immediately comment. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Reuters (citing Financial Times)",
+      "url": "https://www.reuters.com/legal/transactional/mckesson-cdr-near-5-billion-plus-deal-buy-option-care-ft-reports-2026-10-05/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 243 Close Mon after No. 242 Near Close). NOT MAJOR. Reuters 4:14 PM ET citing FT: McKesson plus CD&R near $5B-plus (incl. debt) deal for Option Care Health; possible announcement Tuesday; not confirmed. A strategic-plus-sponsor club structure for a take-private is worth tracking for PE deal design. Watch: signed terms, premium, how McKesson and CD&R split ownership. Owner Quill.",
+      "grafs": [
+        "McKesson and private equity firm Clayton Dubilier & Rice are nearing a deal to acquire infusion services provider Option Care Health in a transaction valued at more than $5 billion including debt, Reuters reported on October 5, 2026, citing a Financial Times report that relied on people familiar with the matter.",
+        "The deal could be announced as soon as Tuesday, although talks could still fall apart, according to the report. McKesson, CD&R and Option Care did not immediately respond to Reuters requests for comment.",
+        "Option Care provides infusion services that let patients receive intravenous medications at home or in other outpatient settings rather than in hospitals. The pairing of a strategic buyer with a sponsor is the angle to watch once terms are public."
+      ]
+    },
+    {
+      "id": "pinterest-dibbo-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Appointment",
+      "hed": "Pinterest names Amazon ads and entertainment finance chief James Dibbo as CFO",
+      "dek": "Pinterest (Business Wire, Oct 5, 2026): James Dibbo becomes CFO effective October 26, reporting to CEO Bill Ready. He was VP and CFO for Amazon Global Entertainment, Advertising and Corporate Development (Amazon Ads, Prime Video, MGM Studios, Twitch) and earlier CFO of Amazon Worldwide Consumer and North America Consumer. Succeeds Julia Brau Donnelly. 8-K: $650,000 base, 100% target bonus. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Pinterest (Business Wire via StockTitan)",
+      "url": "https://www.stocktitan.net/news/PINS/pinterest-appoints-james-dibbo-chief-financial-4xr3afuqzo4m.html",
+      "also": [
+        {
+          "label": "MarketWatch - Pinterest names Amazon exec James Dibbo as finance chief",
+          "url": "https://www.marketwatch.com/story/pinterest-names-amazon-exec-james-dibbo-as-finance-chief-4c59f447"
+        },
+        {
+          "label": "Pinterest Form 8-K (via StockTitan)",
+          "url": "https://www.stocktitan.net/sec-filings/PINS/8-k-pinterest-inc-reports-material-event-b43d200ad50c.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 243 Close Mon after No. 242 Near Close). NOT MAJOR. Pinterest Oct 5: Dibbo CFO eff. Oct 26 (PFO Oct 30); ex-Amazon Ads/entertainment CFO, ex-P.F. Chang's CFO; succeeds Donnelly. An ad-business finance hire from Amazon signals where Pinterest wants to take monetization. Watch: Q3 print and any guidance or capital-return shift under Dibbo. Owner Quill.",
+      "grafs": [
+        "Pinterest said on October 5, 2026 that James Dibbo will become chief financial officer on October 26, reporting to chief executive Bill Ready and leading finance, accounting, FP&A, investor relations, treasury, tax, corporate development and internal audit.",
+        "Dibbo joins from Amazon, where he was vice president and CFO for Global Entertainment, Advertising and Corporate Development, covering Amazon Ads, Prime Video, Amazon MGM Studios, Music, Audible and Twitch. Over a decade at Amazon he was also CFO of Worldwide Consumer and North America Consumer. Earlier he was CFO of P.F. Chang's and held finance roles at Tesco and BT Group.",
+        "He succeeds Julia Brau Donnelly, who resigned in August and stays as an adviser through October 30. Pinterest's 8-K sets his base salary at $650,000 with a cash bonus targeted at 100% of base."
+      ]
+    },
     {
       "id": "terawulf-muskie-1gw",
       "lead": false,
