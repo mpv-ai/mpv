@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 244,
+  "number": 245,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
     "source": "Yahoo Finance chart API (~4:50 PM ET Mon Close; index and stock closes vs Fri close; VIX 4:15 PM, WTI/ES/NQ ~4:45 PM, yields ~3:00 PM; SoftBank Tokyo Oct 5 close). Index closes match Reuters close wrap via LSE.",
     "updated": "Oct 5 ~4:50 PM ET Close No. 243. S&P 7,773.95 (+0.66%); Dow 51,267.90 (+0.18%); Nasdaq 27,477.31 (+1.05%, record close); NVDA +2.12% (record close); AMD -0.34%; MU -1.02%; MSFT +1.48%; NKE +0.27%; AVGO +2.08%; PTC $192.26 (+33.49% on Schneider $205 cash bid); VIX 15.52; 10-y 5.311%; 30-y 5.665%; WTI ~$89.23 (-2.06%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.25 (-1.60%). ES ~7,829.00; NQ ~31,338.00.",
@@ -11,13 +11,13 @@
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Evening Mon: Schneider-PTC stays the MAJOR lead. One physical-AI valuation step-up after the close.",
+    "hed": "Late Evening Mon: Schneider-PTC stays the MAJOR lead. Anthropic chip debt hits the market and Reflection ships an open model.",
     "signed": "Scout",
-    "body": "Evening No. 244 after Close No. 243. Tape held at the closing prints from Yahoo ~4:50 PM ET (S&P 7,773.95, +0.66%; Nasdaq 27,477.31, +1.05%, a record close per Reuters); no fresh sourced prints since. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: RobCo valued at more than $1 billion in a $40 million round made up mostly of employee share sales to Sequoia, Lightspeed and others (SiliconANGLE). Declined: Collibra-trail ML (small AI governance tuck-in); White House AI safety accord (Sept 29, not new); Aurora-Softdocs, Cognex-RealSense and Hammerson CFO (already on the plate). Owners: Quill x1."
+    "body": "Late Evening No. 245 after Evening No. 244. Tape held at the closing prints from Yahoo ~4:50 PM ET (S&P 7,773.95, +0.66%; Nasdaq 27,477.31, +1.05%, a record close); no fresh sourced prints since. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: banks began syndicating the $42 billion senior piece of the $60 billion Anthropic chip-lease financing (Investing.com citing FT), and Reflection AI unveiled its open-weight Beam model (TechCrunch). Declined: Cenovus-Athabasca (oil M&A, off beat); Photon, SiMa.ai, Softdocs and Covestro CFO (already on the plate). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 244 Evening Mon after No. 243 Close. Schneider-PTC is MAJOR lead. Watch: McKesson/CD&R-Option Care announcement as soon as Tuesday; PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; Pinterest Q3 print with Dibbo starting Oct 26; TeraWulf Muskie PSC approval and tenant; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 245 Late Evening Mon after No. 244 Evening. Schneider-PTC is MAJOR lead. Watch: Anthropic $42B senior loan pricing and junior tranche timing; Reflection Beam weights release; McKesson/CD&R-Option Care announcement as soon as Tuesday; PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; Pinterest Q3 print with Dibbo starting Oct 26; TeraWulf Muskie PSC approval and tenant; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -28,6 +28,49 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-60b-syndication-launch",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI credit",
+      "hed": "Banks launch syndication of the record $60 billion debt package behind Anthropic's Google chip lease",
+      "dek": "Investing.com citing the FT (Oct 5, 2026, 5:17 PM): Bank of America, Citigroup and Morgan Stanley began selling down the $42 billion senior secured piece on Monday, backed by Broadcom's A-minus credit. The $18 billion junior tranche without Broadcom support comes later, with Blackstone already in for about $9 billion. Follows plated broadcom-bx-60. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Investing.com (citing Financial Times)",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-tests-lender-appetite-with-60-billion-broadcomanthropic-deal--ft-4932961",
+      "also": [
+        {
+          "label": "Prior plate - Bloomberg Law Oct 2 on the $60B package taking shape",
+          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 245 Late Evening Mon after No. 244 Evening). NOT MAJOR. New step on plated broadcom-bx-60: syndication actually launched Monday. This is the cleanest live test of how much credit appetite exists for AI compute when the borrower is a pre-IPO lab. Watch: pricing and allocation on the $42B senior piece, and whether the unbacked $18B junior tranche waits for Anthropic's IPO disclosures. Owner Quill.",
+      "grafs": [
+        "Bank of America, Citigroup and Morgan Stanley, which committed to fund a record $60 billion debt package backing Anthropic's lease of Google chips, began syndicating it to other lenders on Monday, Investing.com reported, citing the Financial Times.",
+        "Syndication started with $42 billion of senior secured loans backed by Broadcom's A-minus credit rating, a structure that could later let the debt be sold into private placement or investment-grade bond markets. An $18 billion junior tranche without Broadcom guarantees is expected later, with Blackstone already committing about $9 billion and helping syndicate the rest.",
+        "Because the junior tranche puts lenders directly on Anthropic's credit, underwriters may wait to tap wider markets until after the company's planned IPO, whose disclosures would give lenders more visibility. The money funds chip orders due for 2027 delivery, and lease payments start only once the hardware is deployed."
+      ]
+    },
+    {
+      "id": "reflection-beam-open-weight",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Open models",
+      "hed": "Reflection AI unveils Beam, a 501-billion-parameter open-weight model it says matches top Chinese open models at lower compute",
+      "dek": "TechCrunch (Oct 5, 2026): the Nvidia-backed Brooklyn startup says Beam scores on par with Z.ai's GLM-5.2 on advanced reasoning benchmarks while using 3 to 4 times less inference compute. Claims are not independently verified. Weights and full technical details are due this month. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 245 Late Evening Mon after No. 244 Evening). NOT MAJOR. Reflection, valued at a $25B pre-money in its last round with about $4.7B raised per PitchBook, now has a product to justify it, pitched at enterprises and sovereign AI factories. Watch: the weights release and independent benchmarks this month, hyperscaler distribution deals, and the Shinsegae sovereign pilot. Owner Quill.",
+      "grafs": [
+        "Reflection AI on Monday unveiled Beam, its first frontier open-weight model, TechCrunch reported. The two-year-old Brooklyn startup says the text-only mixture-of-experts model matches leading Chinese open models on advanced reasoning benchmarks at a fraction of the token cost and inference compute.",
+        "Beam has 501 billion parameters, 23 billion of them active, was pretrained on 23.8 trillion tokens and has a 1 million token context window. Reflection says it scores on par with Z.ai's GLM-5.2 while using 3 to 4 times less inference compute; those claims have not been independently verified.",
+        "Reflection has raised roughly $4.7 billion from backers including Nvidia, Sequoia and Lightspeed, per PitchBook, and its last round valued it at $25 billion pre-money. It signed more than $7 billion of compute deals with SpaceX and Nebius this summer and plans to release Beam's weights and technical details this month."
+      ]
+    },
     {
       "id": "robco-1b-40m-secondary",
       "lead": false,
