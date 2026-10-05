@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 238,
+  "number": 239,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Early Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~11:58 AM ET Mon Midday; index levels live intraday vs Fri close; VIX/yields/SFTBY ~11:42 AM, WTI/ES/NQ ~11:48 AM; SoftBank Tokyo Oct 5 close).",
-    "updated": "Oct 5 ~11:58 AM ET Midday No. 238. S&P 7,762.40 (+0.51%); Dow 51,164.80 (-0.02%); Nasdaq 27,401.77 (+0.78%); NVDA +1.24%; AMD -0.21%; MU -0.97%; MSFT +1.73%; NKE -1.42%; AVGO +1.79%; PTC $192.99 (+33.99% on Schneider $205 cash bid); VIX 15.56; 10-y 5.324%; 30-y 5.680%; WTI ~$90.72 (-0.43%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.18 (-1.94%). ES ~7,813.00; NQ ~31,234.25.",
-    "line": "MIDDAY Mon · S&P 7,762.40 (+0.51%) · Dow 51,164.80 (-0.02%) · Nasdaq 27,401.77 (+0.78%) · NVDA $236.85 (+1.24%) · AMD $632.55 (-0.21%) · MU $1,064.42 (-0.97%) · MSFT $526.47 (+1.73%) · NKE $33.39 (-1.42%) · AVGO $361.49 (+1.79%) · PTC $192.99 (+33.99%) · VIX 15.56 · 10-y 5.324% · 30-y 5.680% · WTI ~$90.72 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.18 (-1.94%) · ES fut ~7,813.00 · NQ fut ~31,234.25"
+    "source": "Yahoo Finance chart API (~1:21 PM ET Mon Early Afternoon; index levels live intraday vs Fri close; VIX/yields ~1:06 PM, WTI/ES/NQ ~1:11 PM, SFTBY ~1:04 PM; SoftBank Tokyo Oct 5 close).",
+    "updated": "Oct 5 ~1:21 PM ET Early Afternoon No. 239. S&P 7,772.26 (+0.64%); Dow 51,271.86 (+0.19%); Nasdaq 27,439.27 (+0.91%); NVDA +1.32%; AMD -0.39%; MU -0.77%; MSFT +1.62%; NKE -0.75%; AVGO +2.23%; PTC $192.77 (+33.84% on Schneider $205 cash bid); VIX 15.50; 10-y 5.341%; 30-y 5.699%; WTI ~$90.18 (-1.02%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.13 (-2.19%). ES ~7,822.00; NQ ~31,259.00.",
+    "line": "EARLY AFTERNOON Mon · S&P 7,772.26 (+0.64%) · Dow 51,271.86 (+0.19%) · Nasdaq 27,439.27 (+0.91%) · NVDA $237.04 (+1.32%) · AMD $631.45 (-0.39%) · MU $1,066.57 (-0.77%) · MSFT $525.91 (+1.62%) · NKE $33.62 (-0.75%) · AVGO $363.08 (+2.23%) · PTC $192.77 (+33.84%) · VIX 15.50 · 10-y 5.341% · 30-y 5.699% · WTI ~$90.18 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.13 (-2.19%) · ES fut ~7,822.00 · NQ fut ~31,259.00"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Midday Mon: Schneider-PTC stays the MAJOR lead. Two adds.",
+    "hed": "Early Afternoon Mon: Schneider-PTC stays the MAJOR lead. Five adds.",
     "signed": "Scout",
-    "body": "Midday No. 238 after Late Morning No. 237. Tape refreshed from Yahoo ~11:58 AM ET: S&P 7,762.40 (+0.51%), Nasdaq 27,401.77 (+0.78%), Dow roughly flat; 10-y 5.324%; WTI ~$90.72; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Intesa Sanpaolo's EUR 35B MPS bid wins Delfin's 17.6% stake and a EUR 800M cash sweetener tied to rejecting MPS's defence plan (Reuters); Clockwork.io raises $31M for GPU fault-tolerance software with LinkedIn and Together AI in production. Declined: SiMa.ai and EliseAI (already on plate); Shionogi-IntraBio $2B (pharma, off beat); small-cap CFO hires outside the beat. Owners: Quill x2."
+    "body": "Early Afternoon No. 239 after Midday No. 238. Tape refreshed from Yahoo ~1:21 PM ET: S&P 7,772.26 (+0.64%), Nasdaq 27,439.27 (+0.91%), Dow +0.19%; 10-y 5.341%; WTI ~$90.18; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: C.H. Robinson buys RXO for $5.8B, pinning $300M of synergies on its Lean AI model; OpenAI opens opt-in text watermarking and will watermark ChatGPT and Codex text in the EU; CFO moves at Asurion (Baris Oran), Renault (Carine Damois) and Chevron (Jeff Gustavson from 2027). Declined: GE HealthCare-Sofie $945M and BT-TalkTalk (off beat); small private CFO hires. Owners: Quill x5."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 238 Midday Mon after No. 237 Late Morning. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; MPS shareholder vote on defence plan and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; Monzo PE process (CVC/Advent); Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 239 Early Afternoon Mon after No. 238 Midday. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; RXO holder vote on C.H. Robinson deal; MPS shareholder vote on defence plan and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; OpenAI EU text watermarking rollout; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -28,6 +28,99 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "chrw-rxo-58",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Logistics M&A",
+      "hed": "C.H. Robinson to buy RXO for $5.8B in stock and cash, betting its 'Lean AI' model can wring out $300M of synergies",
+      "dek": "C.H. Robinson press release (Oct 5, 2026): definitive agreement to acquire RXO for $17.25 cash plus 0.0856 CHRW shares per share, an implied $30.25 (29% premium to Friday's close, 27% to the 90-day VWAP), implied value $5.8B and a combined EV above $25B. About $300M of net run-rate cost synergies within two years from applying its Lean AI operating model. Bridge from Morgan Stanley; buybacks paused until leverage returns to 1.75x-2.25x. Close expected 1H 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "C.H. Robinson (press release)",
+      "url": "https://www.chrobinson.com/en-gb/about-us/newsroom/press-releases/2026/ch-robinson-to-acquire-rxo/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 239 Early Afternoon Mon after No. 238 Midday). NOT MAJOR. PRIMARY CHRW release Oct 5: $30.25/sh implied (57% cash / 43% stock), $5.8B, ~$300M synergies via Lean AI, MS bridge, MFN Partners (~17%) voting support, close 1H 2027. Watch: RXO holder vote, antitrust review, CHRW leverage path. Owner Quill.",
+      "grafs": [
+        "C.H. Robinson Worldwide said on October 5, 2026 it agreed to acquire RXO in a stock-and-cash deal with an implied value of $5.8 billion, creating a combined third-party logistics company with an enterprise value of more than $25 billion. RXO holders get $17.25 in cash and 0.0856 C.H. Robinson shares per share, an implied $30.25, a 29% premium to Friday's close and 27% to the 90-day volume-weighted average.",
+        "The company pitches the deal as an AI productivity play: by applying what it calls its Lean AI operating model to RXO, it expects about $300 million of net run-rate cost synergies within two years of closing, and says the larger dataset will sharpen its AI-driven sales, matching and procurement. It expects the deal to be accretive to adjusted EPS within nine months of closing and mid-teens accretive in 2028.",
+        "Cash will be funded with new debt under a fully underwritten Morgan Stanley bridge, and C.H. Robinson will pause buybacks until net leverage returns to 1.75x-2.25x adjusted EBITDA, targeted by end-2028. MFN Partners, with about 17% of RXO, agreed to vote in favor and Orbis, RXO's largest holder, said it supports the deal. Closing is expected in the first half of 2027."
+      ]
+    },
+    {
+      "id": "openai-textgrain-watermark",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Policy",
+      "hed": "OpenAI opens opt-in text watermarking to API customers and will watermark ChatGPT and Codex text in the EU",
+      "dek": "Unite.AI (Oct 5, 2026): OpenAI set out its EU AI Act approach to text watermarking. API customers worldwide can opt in for select models (off by default); eligible ChatGPT and Codex output in the EU gets invisible watermarks in the coming weeks; detector access limited to approved researchers. Its textGrain method detected watermarks in about 80% of 200-token and 95% of 400-token passages at a 1% false-positive target, falling sharply with synonym edits. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 239 Early Afternoon Mon after No. 238 Midday). NOT MAJOR. Unite.AI Oct 5: OpenAI opt-in API text watermarking globally, EU-only ChatGPT/Codex watermarking in coming weeks, textGrain technical report, detector restricted to approved researchers. Watch: open-source release, cloud-partner rollout, whether other labs follow under Article 50. Owner Quill.",
+      "grafs": [
+        "OpenAI on October 5, 2026 set out how it will meet the EU AI Act's requirement that AI-generated text be machine-identifiable, according to Unite.AI. API customers worldwide can now opt in to text watermarking for select models, with the setting off by default, and eligible ChatGPT and Codex text in the European Union will carry invisible watermarks over the coming weeks. OpenAI is not making watermarking a global default.",
+        "The technology, called textGrain, embeds a statistical signal in word choice. OpenAI reported that at a 1% false-positive target its detector caught watermarks in about 80% of 200-token passages and about 95% of 400-token passages for flexible content, with much lower rates for subjects like mathematics; swapping 25% of words for synonyms cut detection to 17%. It said benchmark scores were essentially unchanged with watermarking on.",
+        "Because of those limits, detector access starts with approved researchers and expert organizations only. OpenAI stressed a watermark does not identify the user, measure human contribution, or prove authorship, and said it plans to open-source the method. The Article 50 transparency obligations have applied since August 2, 2026."
+      ]
+    },
+    {
+      "id": "asurion-oran-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Appointment",
+      "hed": "Asurion names ex-Amrize and GXO finance chief Baris Oran as CFO",
+      "dek": "Asurion press release (Oct 5, 2026): Baris Oran becomes CFO effective October 15, 2026, joining the Executive Committee and reporting to CEO Guru Gowrappan. He was most recently CFO of Amrize and spent nearly five years as CFO of GXO Logistics after its spin from XPO; earlier CFO of Sabanci Group and Kordsa. Succeeds Andrea Magyera, who is stepping down after 17 years and becomes Senior Advisor. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Asurion (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/asurion-names-baris-oran-chief-financial-officer-302898420.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 239 Early Afternoon Mon after No. 238 Midday). NOT MAJOR. PRIMARY Asurion release Oct 5 12:00 ET: Oran CFO eff. Oct 15; ex-Amrize, GXO, Sabanci, Kordsa; succeeds Magyera (17 yrs). Watch: capital-structure or M&A moves at the private tech-care giant. Owner Quill.",
+      "grafs": [
+        "Asurion said on October 5, 2026 that Baris Oran will become chief financial officer on October 15, joining its Executive Committee and reporting to chief executive Guru Gowrappan.",
+        "Oran was most recently CFO of Amrize and before that spent nearly five years as CFO of GXO Logistics, where he built the finance function after the spin-off from XPO Logistics. He earlier served as CFO of Sabanci Group and Kordsa, and Asurion highlighted his experience in capital allocation, M&A and capital markets.",
+        "He succeeds Andrea Magyera, who announced in June she would step down after 17 years and will stay on as a senior advisor. Gowrappan credited her with executing key M&A and strengthening Asurion's capital structure."
+      ]
+    },
+    {
+      "id": "renault-damois-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Appointment",
+      "hed": "Renault taps Michelin deputy CFO Carine Damois as finance chief, replacing Duncan Minto",
+      "dek": "Renault Group press release (Oct 5, 2026, GlobeNewswire): Carine Damois, Deputy CFO of Michelin since 2021 with more than 20 years in finance leadership at global industrial groups, becomes Renault Group CFO effective November 14, 2026, reporting to CEO Francois Provost and joining the Leadership Team. She succeeds Duncan Minto, who is leaving to pursue opportunities outside the group. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Renault Group (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374805/0/en/renault-group-carine-damois-appointed-chief-financial-officer-of-renault-group.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 239 Early Afternoon Mon after No. 238 Midday). NOT MAJOR. PRIMARY Renault release Oct 5 11:45 ET: Damois CFO eff. Nov 14; ex-Michelin Deputy CFO; Minto departs. Watch: Renault guidance under new CFO. Owner Quill.",
+      "grafs": [
+        "Renault Group said on October 5, 2026 that Carine Damois will become chief financial officer on November 14, reporting to chief executive Francois Provost and joining the group's Leadership Team.",
+        "Damois has been Deputy CFO of Michelin since 2021 and has more than 20 years in finance leadership roles at global industrial groups, according to the release. She succeeds Duncan Minto, who has decided to pursue opportunities outside the group."
+      ]
+    },
+    {
+      "id": "chevron-gustavson-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Appointment",
+      "hed": "Chevron elects Jeff Gustavson CFO from 2027 as Eimear Bonner moves to run oil, products and gas",
+      "dek": "Chevron Form 8-K (filed Oct 5, 2026, via Stock Titan): on September 30 the board elected Jeff B. Gustavson CFO effective January 1, 2027, at a $1,000,000 base salary and 110% target bonus. Current CFO Eimear P. Bonner becomes President, Oil, Products & Gas; Mark A. Nelson stays Vice Chairman and adds Strategy and Business Development. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Chevron Form 8-K (via Stock Titan)",
+      "url": "https://www.stocktitan.net/sec-filings/CVX/8-k-chevron-corp-reports-material-event-dccd6daf4686.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 239 Early Afternoon Mon after No. 238 Midday). NOT MAJOR. Chevron 8-K Oct 5: Gustavson CFO eff. Jan 1 2027 ($1M base, 110% bonus target); Bonner to President OP&G; Nelson keeps Vice Chairman plus strategy/BD. Owner Quill.",
+      "grafs": [
+        "Chevron disclosed in a Form 8-K filed on October 5, 2026 that its board on September 30 elected Jeff B. Gustavson chief financial officer, effective January 1, 2027. He will serve as principal financial officer with a $1,000,000 base salary and a 110% target bonus.",
+        "Eimear P. Bonner, the current CFO, will become President, Oil, Products & Gas on the same date, and Mark A. Nelson will remain Vice Chairman while giving up that operating role and taking on strategy and business development."
+      ]
+    },
     {
       "id": "schneider-ptc-226",
       "lead": true,
