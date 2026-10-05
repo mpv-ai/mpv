@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 240,
+  "number": 241,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~1:51 PM ET Mon Afternoon; index levels live intraday vs Fri close; VIX/yields ~1:36 PM, WTI/ES/NQ ~1:41 PM, SFTBY ~1:35 PM; SoftBank Tokyo Oct 5 close).",
-    "updated": "Oct 5 ~1:51 PM ET Afternoon No. 240. S&P 7,775.54 (+0.68%); Dow 51,297.94 (+0.24%); Nasdaq 27,465.28 (+1.01%); NVDA +1.58%; AMD -0.34%; MU -1.12%; MSFT +1.50%; NKE -0.52%; AVGO +2.24%; PTC $192.85 (+33.90% on Schneider $205 cash bid); VIX 15.53; 10-y 5.347%; 30-y 5.700%; WTI ~$89.75 (-1.49%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.16 (-2.04%). ES ~7,824.00; NQ ~31,279.00.",
-    "line": "AFTERNOON Mon · S&P 7,775.54 (+0.68%) · Dow 51,297.94 (+0.24%) · Nasdaq 27,465.28 (+1.01%) · NVDA $237.64 (+1.58%) · AMD $631.76 (-0.34%) · MU $1,062.84 (-1.12%) · MSFT $525.28 (+1.50%) · NKE $33.70 (-0.52%) · AVGO $363.08 (+2.24%) · PTC $192.85 (+33.90%) · VIX 15.53 · 10-y 5.347% · 30-y 5.700% · WTI ~$89.75 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.16 (-2.04%) · ES fut ~7,824.00 · NQ fut ~31,279.00"
+    "source": "Yahoo Finance chart API (~2:50 PM ET Mon Late Afternoon; index levels live intraday vs Fri close; VIX/yields ~2:35 PM, WTI/ES/NQ ~2:40 PM, SFTBY ~2:29 PM; SoftBank Tokyo Oct 5 close).",
+    "updated": "Oct 5 ~2:50 PM ET Late Afternoon No. 241. S&P 7,779.56 (+0.74%); Dow 51,312.29 (+0.26%); Nasdaq 27,483.60 (+1.08%); NVDA +2.08%; AMD -0.55%; MU -1.25%; MSFT +1.84%; NKE -0.66%; AVGO +2.22%; PTC $192.55 (+33.69% on Schneider $205 cash bid); VIX 15.60; 10-y 5.332%; 30-y 5.684%; WTI ~$89.13 (-2.17%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.21 (-1.80%). ES ~7,832.75; NQ ~31,314.25.",
+    "line": "LATE AFTERNOON Mon · S&P 7,779.56 (+0.74%) · Dow 51,312.29 (+0.26%) · Nasdaq 27,483.60 (+1.08%) · NVDA $238.81 (+2.08%) · AMD $630.45 (-0.55%) · MU $1,061.50 (-1.25%) · MSFT $527.08 (+1.84%) · NKE $33.65 (-0.66%) · AVGO $363.04 (+2.22%) · PTC $192.55 (+33.69%) · VIX 15.60 · 10-y 5.332% · 30-y 5.684% · WTI ~$89.13 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.21 (-1.80%) · ES fut ~7,832.75 · NQ fut ~31,314.25"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Afternoon Mon: Schneider-PTC stays the MAJOR lead. Three compute adds.",
+    "hed": "Late Afternoon Mon: Schneider-PTC stays the MAJOR lead. Nasdaq record, a take-private financing, a local-AI seed.",
     "signed": "Scout",
-    "body": "Afternoon No. 240 after Early Afternoon No. 239. Tape refreshed from Yahoo ~1:51 PM ET: S&P 7,775.54 (+0.68%), Nasdaq 27,465.28 (+1.01%), Dow +0.24%; 10-y 5.347%; WTI ~$89.75; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Tencent reportedly leases about 100,000 AI chips from Oracle in Southeast Asia for about $7B over five years (FT via Tom's Hardware, unconfirmed); AM Intelligence orders 20,000 Nvidia Rubin GPUs (about $4B per Mint) for India and Malaysia; Nutanix buys GPU-orchestration startup Ryax. Declined: Avenzo and Tectonic CFO hires (small); Mutares-Lapeyre (off beat); NVIDIA Astra Ultrafast blog (Oct 1, Ultrafast already covered). Owners: Quill x3."
+    "body": "Late Afternoon No. 241 after Afternoon No. 240. Tape refreshed from Yahoo ~2:50 PM ET: S&P 7,779.56 (+0.74%), Nasdaq 27,483.60 (+1.08%), Dow +0.26%; 10-y 5.332%; WTI ~$89.13; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Nasdaq record with Cerebras +9.4% on Altman's 'close partner' remark (Reuters); LKCM Headwater's $700M notes to fund its $35-a-share take-private of Distribution Solutions Group (Business Wire); a16z leads Ghost's $11M seed for a $3,499 local-agent computer (TechCrunch). Declined: Chinese AI 'agent fleet' on Amap (preliminary, thin); OneByZero $20M Series A and Photon $4.5M seed (small); Gaw HK real-estate debt fund filing (off beat). Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 240 Afternoon Mon after No. 239 Early Afternoon. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote on defence plan and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 241 Late Afternoon Mon after No. 240 Afternoon. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; DSG notes pricing; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -28,6 +28,63 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "nasdaq-record-cerebras-altman",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Stocks",
+      "hed": "Nasdaq sets another record as megacaps lead; Cerebras jumps 9.4% after Altman calls it a 'close partner'",
+      "dek": "Reuters (Oct 5, 2026, 11:48 a.m. ET snapshot): the Nasdaq hit an all-time high and the S&P 500 rose 0.50% as Nvidia, Meta, Microsoft and Tesla advanced, while the 10-year yield held near 5.33%. Software outperformed chips; PTC led the S&P on Schneider's bid and RXO rose 21.8% on C.H. Robinson's offer. Cerebras gained 9.4% after Sam Altman called it a close partner. Traders see an 80% chance the Fed holds this month. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Reuters (via London South East)",
+      "url": "https://www.lse.co.uk/news/us-stocks-sampp-500-up-nasdaq-at-record-high-as-megacap-tech-stocks-rise-g05ja8nv8m10oxg.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 241 Late Afternoon Mon after No. 240 Afternoon). NOT MAJOR. Reuters midday wrap: Nasdaq record, S&P +0.50%, Dow -0.06% at 11:48 a.m. ET; by ~2:50 PM ET Yahoo shows S&P +0.74%, Nasdaq +1.08%, Dow +0.26%. Cerebras +9.4% on Altman 'close partner' remark. CME FedWatch 80% hold in October, December hike largely priced. Watch: FOMC minutes Wed Oct 7, 10-year near 5.3%, Brent near $100. Owner Quill.",
+      "grafs": [
+        "The Nasdaq Composite reached another all-time high on Monday as most megacap and growth stocks advanced, Reuters reported, though risk appetite stayed in check with Treasury yields near multi-year highs. At 11:48 a.m. ET the Nasdaq was up 0.77% at 27,399.71, the S&P 500 up 0.50% and the Dow down 0.06%. Nvidia rose 1.2%, and Meta, Microsoft and Tesla gained between 1.6% and 2.4%.",
+        "Software led while chips lagged: the S&P 500 software and services index rose 1.2% and the Philadelphia chip index slipped 0.1%. PTC was the top S&P gainer, up 34% on Schneider Electric's $22.6 billion cash deal, and RXO rose 21.8% on C.H. Robinson's $5.8 billion offer while C.H. Robinson fell 12.9%. Cerebras Systems climbed 9.4% after OpenAI chief executive Sam Altman called the chip designer a 'close partner.'",
+        "The 10-year Treasury yield was last at 5.328% on worries about government finances, heavy issuance and energy costs, and Brent hovered near $100 a barrel. Traders see an 80% chance the Fed holds rates this month, with a December hike largely priced in per CME FedWatch. By about 2:50 p.m. ET, Yahoo Finance had the S&P up 0.74% and the Nasdaq up 1.08%."
+      ]
+    },
+    {
+      "id": "dsg-lkcm-700m-notes",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Take-private financing",
+      "hed": "LKCM Headwater launches $700M of senior notes to fund its $35-a-share take-private of Distribution Solutions Group",
+      "dek": "Business Wire (Oct 5, 2026): an escrow issuer controlled by LKCM Headwater, already an affiliate and holder of DSG, plans to offer $700M of senior notes due 2032 to help fund the previously announced merger in which its affiliates will buy all DSG shares they do not own for $35 cash. Proceeds, plus an LKCM Headwater equity contribution, also repay part of DSG's credit facility. Needs DSG holder approval. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Business Wire (via MarketMinute)",
+      "url": "https://nycfn.marketminute.com/article/bizwire-2026-10-5-distribution-solutions-group-announces-proposed-700-million-senior-notes-offering",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 241 Late Afternoon Mon after No. 240 Afternoon). NOT MAJOR. Business Wire Oct 5: $700M 144A senior notes due 2032 via escrow issuer Eclipse Acquisitions Merger Sub; funds $35/sh cash buyout of DSGR minority, partial credit-facility paydown, fees, future M&A. Watch: pricing and coupon, DSG proxy and holder vote. Owner Quill.",
+      "grafs": [
+        "Distribution Solutions Group (NASDAQ: DSGR) said on October 5, 2026 that Eclipse Acquisitions Merger Sub, a newly formed company controlled by LKCM Headwater Investments, plans to offer $700 million of senior notes due 2032. LKCM Headwater is already an affiliate of DSG, and the financing supports its previously announced merger to acquire all DSG shares it and its affiliates do not already own for $35.00 per share in cash.",
+        "The note proceeds will sit in escrow until the merger closes. Together with an equity contribution from LKCM Headwater, they are slated to pay the share consideration, repay part of DSG's existing credit agreement, cover fees and fund general purposes including future acquisitions. The notes are being sold to qualified institutional buyers under Rule 144A and offshore under Regulation S.",
+        "DSG, formed from Lawson Products, Gexpro Services and TestEquity, is a specialty distributor serving MRO, OEM and industrial technology customers, with about 4,300 employees. The merger still needs DSG stockholder approval, and the company plans to file a definitive proxy statement."
+      ]
+    },
+    {
+      "id": "ghost-11m-a16z",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Venture",
+      "hed": "a16z leads $11M seed for Ghost, which sells a $3,499 box built to run personal AI agents locally",
+      "dek": "TechCrunch (Oct 5, 2026): Ghost, founded by 19-year-old ex-quant Zain Javaid, emerged from stealth with an $11M seed led by Andreessen Horowitz. Its first product, Core, is a screenless $3,499 computer with an Nvidia RTX Pro 4000 Blackwell GPU and preinstalled open models that keeps personal data and agent memory on the device. Preorders open Monday; shipping is set for late October. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 241 Late Afternoon Mon after No. 240 Afternoon). NOT MAJOR. TechCrunch Oct 5: $11M seed led by a16z (with Abstract, Audacious, SV Angel, Nova); Core at $3,499 with RTX Pro 4000 SFF Blackwell, Qwen and Gemma models preinstalled, local encrypted memory, outbound-request firewall. Small round, but a clean read on the local-agent hardware thesis. Owner Quill.",
+      "grafs": [
+        "Ghost, a San Francisco startup founded by 19-year-old former quant Zain Javaid, came out of stealth on October 5, 2026 with an $11 million seed round led by Andreessen Horowitz, TechCrunch reported. Abstract, Audacious Ventures, SV Angel and Nova also invested.",
+        "Its first product, Core, is a $3,499 screenless computer built to run AI agents continuously on a person's behalf. It bundles an Nvidia RTX Pro 4000 SFF Blackwell GPU and ships with Qwen-3.8-Next, Qwen-3.8-27B and Gemma-4-31B preinstalled, with users able to load other models. Users reach it through a phone app, and models and personal memory run locally and encrypted.",
+        "Javaid says the device keeps working even if Ghost shuts down, and the team is building a firewall that flags agent network requests that look like unsanctioned actions or data exfiltration. Preorders opened Monday, with the first units, assembled in San Francisco, shipping in the last week of October."
+      ]
+    },
     {
       "id": "tencent-oracle-7b-lease",
       "lead": false,
