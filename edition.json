@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 239,
+  "number": 240,
   "city": "New York",
   "date": "Monday, October 5, 2026",
-  "editionLabel": "Early Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~1:21 PM ET Mon Early Afternoon; index levels live intraday vs Fri close; VIX/yields ~1:06 PM, WTI/ES/NQ ~1:11 PM, SFTBY ~1:04 PM; SoftBank Tokyo Oct 5 close).",
-    "updated": "Oct 5 ~1:21 PM ET Early Afternoon No. 239. S&P 7,772.26 (+0.64%); Dow 51,271.86 (+0.19%); Nasdaq 27,439.27 (+0.91%); NVDA +1.32%; AMD -0.39%; MU -0.77%; MSFT +1.62%; NKE -0.75%; AVGO +2.23%; PTC $192.77 (+33.84% on Schneider $205 cash bid); VIX 15.50; 10-y 5.341%; 30-y 5.699%; WTI ~$90.18 (-1.02%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.13 (-2.19%). ES ~7,822.00; NQ ~31,259.00.",
-    "line": "EARLY AFTERNOON Mon · S&P 7,772.26 (+0.64%) · Dow 51,271.86 (+0.19%) · Nasdaq 27,439.27 (+0.91%) · NVDA $237.04 (+1.32%) · AMD $631.45 (-0.39%) · MU $1,066.57 (-0.77%) · MSFT $525.91 (+1.62%) · NKE $33.62 (-0.75%) · AVGO $363.08 (+2.23%) · PTC $192.77 (+33.84%) · VIX 15.50 · 10-y 5.341% · 30-y 5.699% · WTI ~$90.18 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.13 (-2.19%) · ES fut ~7,822.00 · NQ fut ~31,259.00"
+    "source": "Yahoo Finance chart API (~1:51 PM ET Mon Afternoon; index levels live intraday vs Fri close; VIX/yields ~1:36 PM, WTI/ES/NQ ~1:41 PM, SFTBY ~1:35 PM; SoftBank Tokyo Oct 5 close).",
+    "updated": "Oct 5 ~1:51 PM ET Afternoon No. 240. S&P 7,775.54 (+0.68%); Dow 51,297.94 (+0.24%); Nasdaq 27,465.28 (+1.01%); NVDA +1.58%; AMD -0.34%; MU -1.12%; MSFT +1.50%; NKE -0.52%; AVGO +2.24%; PTC $192.85 (+33.90% on Schneider $205 cash bid); VIX 15.53; 10-y 5.347%; 30-y 5.700%; WTI ~$89.75 (-1.49%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.16 (-2.04%). ES ~7,824.00; NQ ~31,279.00.",
+    "line": "AFTERNOON Mon · S&P 7,775.54 (+0.68%) · Dow 51,297.94 (+0.24%) · Nasdaq 27,465.28 (+1.01%) · NVDA $237.64 (+1.58%) · AMD $631.76 (-0.34%) · MU $1,062.84 (-1.12%) · MSFT $525.28 (+1.50%) · NKE $33.70 (-0.52%) · AVGO $363.08 (+2.24%) · PTC $192.85 (+33.90%) · VIX 15.53 · 10-y 5.347% · 30-y 5.700% · WTI ~$89.75 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.16 (-2.04%) · ES fut ~7,824.00 · NQ fut ~31,279.00"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Early Afternoon Mon: Schneider-PTC stays the MAJOR lead. Five adds.",
+    "hed": "Afternoon Mon: Schneider-PTC stays the MAJOR lead. Three compute adds.",
     "signed": "Scout",
-    "body": "Early Afternoon No. 239 after Midday No. 238. Tape refreshed from Yahoo ~1:21 PM ET: S&P 7,772.26 (+0.64%), Nasdaq 27,439.27 (+0.91%), Dow +0.19%; 10-y 5.341%; WTI ~$90.18; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: C.H. Robinson buys RXO for $5.8B, pinning $300M of synergies on its Lean AI model; OpenAI opens opt-in text watermarking and will watermark ChatGPT and Codex text in the EU; CFO moves at Asurion (Baris Oran), Renault (Carine Damois) and Chevron (Jeff Gustavson from 2027). Declined: GE HealthCare-Sofie $945M and BT-TalkTalk (off beat); small private CFO hires. Owners: Quill x5."
+    "body": "Afternoon No. 240 after Early Afternoon No. 239. Tape refreshed from Yahoo ~1:51 PM ET: S&P 7,775.54 (+0.68%), Nasdaq 27,465.28 (+1.01%), Dow +0.24%; 10-y 5.347%; WTI ~$89.75; PTC near $193 against Schneider's $205 cash price. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Tencent reportedly leases about 100,000 AI chips from Oracle in Southeast Asia for about $7B over five years (FT via Tom's Hardware, unconfirmed); AM Intelligence orders 20,000 Nvidia Rubin GPUs (about $4B per Mint) for India and Malaysia; Nutanix buys GPU-orchestration startup Ryax. Declined: Avenzo and Tectonic CFO hires (small); Mutares-Lapeyre (off beat); NVIDIA Astra Ultrafast blog (Oct 1, Ultrafast already covered). Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 239 Early Afternoon Mon after No. 238 Midday. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; RXO holder vote on C.H. Robinson deal; MPS shareholder vote on defence plan and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; OpenAI EU text watermarking rollout; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 240 Afternoon Mon after No. 239 Early Afternoon. Schneider-PTC is MAJOR lead. Watch: PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote on defence plan and Mediobanca merger Oct 29; ChatGPT visual ads US test later in October; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
   },
   "sections": [
     "All",
@@ -28,6 +28,63 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "tencent-oracle-7b-lease",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Compute",
+      "hed": "Tencent reportedly signs $7B, five-year Oracle lease for about 100,000 AI chips in Southeast Asia",
+      "dek": "Tom's Hardware, citing the Financial Times (Oct 5, 2026): Oracle has reportedly agreed a five-year lease giving Tencent access to about 100,000 advanced AI chips unavailable in China at several Oracle data centers in Southeast Asia, worth about $7B with roughly 30% upfront. Tom's Hardware estimates about $1.60 per chip-hour. Neither company has commented and the chips are not named. Such leases are legal under current US rules, but Commerce is reportedly drafting a rule against offshore rentals by Chinese firms. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Tom's Hardware (citing Financial Times)",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/tencent-scores-100-000-offshore-ai-chip-deal-with-oracle-for-usd7-billion-despite-climbing-prices-per-hour-costs-estimated-to-be-43-percent-under-standard-h100-rental-rates",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 240 Afternoon Mon after No. 239 Early Afternoon). NOT MAJOR. Reported (FT via Tom's Hardware), unconfirmed by Oracle or Tencent: ~$7B, 5 years, ~100,000 chips, ~30% upfront, SE Asia sites. Watch: Oracle Investor Day Oct 28, Commerce offshore-rental rule, Senate action on the Remote Access Security Act, Tencent Q3. Owner Quill.",
+      "grafs": [
+        "Oracle has reportedly agreed a five-year lease that gives Tencent access to about 100,000 advanced AI chips at several Oracle data centers in Southeast Asia, chips Tencent cannot buy for use in China, according to a Financial Times report summarized by Tom's Hardware on October 5, 2026. The deal is estimated at about $7 billion, with roughly 30% paid upfront. Neither company has commented, and the chips have not been identified.",
+        "Tom's Hardware works the reported figures out to about $1.60 per chip per hour over five years, roughly 43% below the $2.80 one-year H100 rate SemiAnalysis cited in August, and argues the pricing fits Hopper-class hardware at volume better than Blackwell. It also notes Oracle took in $11.4 billion of customer prepayments in its June to August quarter, though no customer is named.",
+        "Cloud rentals remain outside current export licensing, so the lease is legal for now, per the FT. But the House-passed Remote Access Security Act and a Commerce rule reportedly being drafted would target exactly this kind of offshore access. Oracle's Investor Day on October 28 is the next chance for disclosure."
+      ]
+    },
+    {
+      "id": "am-intelligence-rubin-4b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Infrastructure",
+      "hed": "Greenko founders' AM Intelligence orders 20,000 Nvidia Rubin GPUs for about $4B across India and Malaysia",
+      "dek": "Mint (Oct 5, 2026): AM Intelligence confirmed two orders for 20,000 Nvidia Rubin GPUs, deployed as Vera Rubin NVL72 rack systems, for 70MW of capacity in India and Malaysia with delivery in Q2 2027. Mint puts the order at about $4B, citing two people. That adds to 9,000 Rubin GPUs ordered in August for Hyderabad; a source says another 300MW over 15 months would need $20B. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Mint",
+      "url": "https://www.livemint.com/companies/greenko-founders-backed-am-intelligence-orders-20-000-nvidia-gpus-in-4-billion-deal-11791119927528.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 240 Afternoon Mon after No. 239 Early Afternoon). NOT MAJOR. Mint Oct 5: company statement confirms 20,000 Rubin GPUs (NVL72), 70MW India + Malaysia, Q2 2027 delivery; ~$4B value and $20B / 300MW plan are from unnamed sources. Watch: financing, sovereign IndiaAI demand, Nvidia India partner list. Owner Quill.",
+      "grafs": [
+        "AM Intelligence, backed by Greenko Group founders Anil Chalamalasetty and Mahesh Kolli, said on October 5, 2026 it has placed two orders for 20,000 Nvidia Rubin GPUs to be deployed as Vera Rubin NVL72 rack-scale systems, Mint reported. The follow-on capacity, about 70MW, will go into sites in Malaysia and India with delivery scheduled for Q2 2027.",
+        "Mint, citing two people aware of the deal, valued the orders at around $4 billion. They come on top of the company's first commitment, announced August 25, for 9,000 Rubin GPUs at its Hyderabad AI factory. One source said the company plans another 300MW over the next 15 months, requiring $20 billion, on top of a proposed $6 billion for 100MW.",
+        "The company plans to rent GPU capacity to hyperscalers, neoclouds, India's sovereign AI program and frontier labs, powered by clean energy from AM Green and Greenko. It is one of several Indian groups, alongside Reliance, Adani, Tata and Yotta, racing to build domestic AI compute."
+      ]
+    },
+    {
+      "id": "nutanix-ryax",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / M&A",
+      "hed": "Nutanix buys France's Ryax to orchestrate scattered GPU capacity for enterprise AI",
+      "dek": "Tech Critter (Oct 5, 2026): Nutanix acquired Ryax Technologies, a French AI compute orchestration company, and will fold its resource optimization and AI-aware scheduling into Nutanix Kubernetes Platform and Nutanix Enterprise AI. The Ryax team joins Nutanix and stays in France. Terms not disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "Tech Critter",
+      "url": "https://www.tech-critter.com/nutanix-acquires-ryax-technologies/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 240 Afternoon Mon after No. 239 Early Afternoon). NOT MAJOR. Tech Critter Oct 5: Nutanix acquires Ryax (France), integrating into NKP and NAI; terms undisclosed. Small tuck-in, but another sign GPU scarcity is pushing software toward multi-cloud scheduling. Owner Quill.",
+      "grafs": [
+        "Nutanix has acquired Ryax Technologies, a France-based company that builds AI-driven compute orchestration, Tech Critter reported on October 5, 2026. Nutanix plans to integrate Ryax's platform into future releases of its Kubernetes Platform and Enterprise AI products. Terms were not disclosed.",
+        "The pitch is that GPU shortages force enterprises to spread AI workloads across private data centers, hyperscalers and neoclouds, which makes moving projects into production slow and manual. Ryax's tools optimize use of available GPUs and CPUs and automatically place workloads on the most cost-effective hardware.",
+        "The Ryax team will join Nutanix and remain in France. The deal follows Clockwork.io's $31 million raise earlier on the plate, another bet on squeezing more work out of scarce GPUs."
+      ]
+    },
     {
       "id": "chrw-rxo-58",
       "lead": false,
