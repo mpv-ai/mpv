@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 246,
+  "number": 247,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Open",
   "tape": {
-    "source": "Yahoo Finance chart API (~8:45-8:59 AM ET Tue pre-market; ES/NQ/WTI futures and pre-market stock prints vs Mon close; VIX and yields ~8:44 AM; SoftBank Tokyo Oct 6 close). Cash indexes held at Mon closing prints until the 9:30 AM open.",
-    "updated": "Oct 6 ~8:59 AM ET Morning No. 246. Cash indexes at Mon close: S&P 7,773.95 (+0.66%); Dow 51,267.90 (+0.18%); Nasdaq 27,477.31 (+1.05%, record close). Pre-market vs Mon close: NVDA ~$241.43 (+1.06%); AMD ~$646.00 (+2.26%); MU ~$1,067.62 (+0.34%); MSFT ~$530.39 (+0.99%); NKE ~$33.63 (-0.97%); AVGO ~$365.01 (+0.69%); PTC ~$193.35 (+0.57%); OPCH ~$31.08 (+33.0% on $32.05 CD&R/McKesson deal); KKR ~$91.08 (+1.25%). VIX 15.32; 10-y 5.275%; 30-y 5.646%; WTI ~$87.59 (-2.06%). ES ~7,855.25 (+0.37%); NQ ~31,464.50 (+0.47%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "PRE-MKT Tue · ES fut ~7,855.25 (+0.37%) · NQ fut ~31,464.50 (+0.47%) · S&P 7,773.95 (Mon close) · Dow 51,267.90 (Mon close) · Nasdaq 27,477.31 (Mon close, record) · NVDA ~$241.43 (+1.06%) · AMD ~$646.00 (+2.26%) · MU ~$1,067.62 (+0.34%) · MSFT ~$530.39 (+0.99%) · NKE ~$33.63 (-0.97%) · AVGO ~$365.01 (+0.69%) · PTC ~$193.35 (+0.57%) · OPCH ~$31.08 (+33.0%) · VIX 15.32 · 10-y 5.275% · 30-y 5.646% · WTI ~$87.59 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~9:59 AM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~9:49 AM; VIX and yields ~9:44 AM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~9:59 AM ET Open No. 247. S&P 7,826.64 (+0.68%); Dow 51,608.06 (+0.66%); Nasdaq 27,673.17 (+0.71%). NVDA ~$242.60 (+1.55%); AMD ~$643.18 (+1.81%); MU ~$1,066.67 (+0.25%); MSFT ~$533.59 (+1.60%); NKE ~$33.94 (-0.07%); AVGO ~$371.80 (+2.56%); PTC ~$192.96 (+0.36%); OPCH ~$31.05 (+32.9% on $32.05 CD&R/McKesson deal); MCK ~$921.69 (+0.68%); KKR ~$90.85 (+0.99%). VIX 15.40; 10-y 5.290%; 30-y 5.663%; WTI ~$87.75 (-1.88%). ES ~7,870.50 (+0.57%); NQ ~31,523.25 (+0.66%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "OPEN Tue · S&P 7,826.64 (+0.68%) · Dow 51,608.06 (+0.66%) · Nasdaq 27,673.17 (+0.71%) · NVDA ~$242.60 (+1.55%) · AMD ~$643.18 (+1.81%) · MU ~$1,066.67 (+0.25%) · MSFT ~$533.59 (+1.60%) · NKE ~$33.94 (-0.07%) · AVGO ~$371.80 (+2.56%) · PTC ~$192.96 (+0.36%) · OPCH ~$31.05 (+32.9%) · MCK ~$921.69 (+0.68%) · VIX 15.40 · 10-y 5.290% · 30-y 5.663% · WTI ~$87.75 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Morning Tue: KKR buys Gen II, CD&R and McKesson sign for Option Care, and Meta and Microsoft trim Claude.",
+    "hed": "Open Tue: stocks climb toward a record, BDT & MSD buys Sunrise, and private-markets plumbing changes hands again.",
     "signed": "Scout",
-    "body": "Morning No. 246 after Late Evening No. 245. Tape is pre-market from Yahoo ~8:45-8:59 AM ET: ES ~7,855.25 (+0.37%), NQ ~31,464.50 (+0.47%); cash indexes held at Monday's closes until the open. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: KKR-Gen II at $5.1B EV (KKR release); CD&R and McKesson sign Option Care at $32.05 a share (Business Wire), confirming Monday's report; Meta and Microsoft cut staff Claude use (The Information); DeepSeek nears an 80 billion yuan round (Bloomberg via Reuters); Moonshot near $50B eyes a Q1 2027 Hong Kong IPO (Bloomberg via The Standard); Vinci raises $250M co-led by Advent (Business Wire); Informa buys Clarion from Blackstone (The Guardian). Owners: Quill x7."
+    "body": "Open No. 247 after Morning No. 246. Tape from Yahoo ~9:59 AM ET: S&P 7,826.64 (+0.68%), Dow 51,608.06 (+0.66%), Nasdaq 27,673.17 (+0.71%); 10-y 5.290%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: BDT & MSD buys a majority of Sunrise Senior Living from PSP (company release; WSJ says more than $1B); Alto buys Forge Trust from Schwab (Alto release); Blackstone, Bain and Warburg prepare final bids for Fuji Media's Sankei Building unit at about 1 trillion yen (Reuters). Owners: Quill x3."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 246 Morning Tue after No. 245 Late Evening. Schneider-PTC is MAJOR lead. Watch: cash open 9:30 AM ET; OPCH spread to $32.05 and proxy terms; KKR-Gen II regulatory path; DeepSeek round valuation; Moonshot early-look meetings; Anthropic $42B senior loan pricing and junior tranche timing; Reflection Beam weights release; PTC spread to $205; Schneider Q3 revenue Oct 16; Pinterest Q3 print with Dibbo starting Oct 26; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Oracle Investor Day Oct 28; MPS vote and Mediobanca merger Oct 29."
+    "line": "No. 247 Open Tue after No. 246 Morning. Schneider-PTC is MAJOR lead. Watch: whether the S&P closes above its mid-August record; OPCH spread to $32.05 and proxy terms; KKR-Gen II regulatory path; Sankei Building final bids by end-October; DeepSeek round valuation; Moonshot early-look meetings; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Pinterest Q3 with Dibbo from Oct 26; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,77 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "bdt-msd-sunrise-senior",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Real estate operating platform",
+      "hed": "BDT & MSD agrees to buy a majority of Sunrise Senior Living from PSP Investments in a deal the WSJ values at more than $1 billion",
+      "dek": "Sunrise release via PR Newswire (Oct 6, 2026, 8:30 AM ET): BDT & MSD funds will acquire Sunrise from Canada's PSP Investments in partnership with CEO Jack Callison's leadership team. Sunrise runs more than 230 communities with more than 22,000 residents and a pipeline of 50-plus communities costing about $7.5 billion. Close expected in 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Sunrise Senior Living / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/sunrise-senior-living-announces-majority-investment-by-bdt--msd-in-partnership-with-senior-leadership-to-acquire-company-from-psp-investments-302899708.html",
+      "also": [
+        {
+          "label": "WSJ (Peter Grant): $1 billion-plus buyer",
+          "url": "https://www.wsj.com/real-estate/luxury-senior-housing-company-locks-in-a-1-billion-buyer-4c02579d"
+        },
+        {
+          "label": "Washington Business Journal",
+          "url": "https://www.bizjournals.com/washington/news/2026/10/06/sunrise-senior-living-bdt-msd.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 247 Open Tue after No. 246 Morning). NOT MAJOR. A pension fund rotating out of a fully owned operating platform to a merchant bank, with management rolling into the new partnership. Good PE/real-asset exit angle on demographic demand plays. Watch: whether the price or leverage is disclosed, the $7.5B development pipeline funding, and regulatory approvals ahead of a 2027 close. Owner Quill.",
+      "grafs": [
+        "Funds affiliated with BDT & MSD Partners have agreed to acquire Sunrise Senior Living from the Public Sector Pension Investment Board (PSP Investments), in a new partnership with Sunrise's senior leadership team led by CEO Jack R. Callison Jr., the company said on Oct. 6. The Wall Street Journal reported the deal is valued at more than $1 billion; the release did not give terms.",
+        "Sunrise operates more than 230 communities in the U.S. and Canada serving more than 22,000 residents, and has a third-party management business, a joint-venture investment platform and a development pipeline of more than 50 new communities with an expected cost of about $7.5 billion, according to the release.",
+        "PSP first invested in Sunrise in 2014 and became sole owner in 2023. PSP called the sale part of its portfolio rotation strategy. The transaction is expected to close in 2027, subject to customary regulatory approvals."
+      ]
+    },
+    {
+      "id": "alto-forge-trust-schwab",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Private markets in IRAs",
+      "hed": "Alto agrees to buy self-directed IRA custodian Forge Trust from Schwab, creating a $20 billion-plus platform for private-market retirement investing",
+      "dek": "Alto release via PR Newswire (Oct 6, 2026, 8:40 AM ET): the combined business will have more than $20 billion in assets under custody and administration, more than 60,000 self-directed IRAs holding private-market assets, and over 3 million custody-as-a-service accounts. Terms not disclosed; close needs South Dakota Division of Banking approval. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Alto / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/alto-to-acquire-forge-trust-from-schwab-creating-the-category-defining-platform-for-private-market-investing-through-retirement-accounts-302899762.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 247 Open Tue). NOT MAJOR. Retail retirement money is the next big funding source PE firms are chasing, and custody is the bottleneck. Schwab is shedding a piece of the Forge Global business it bought in March 2026. Pairs with plated kkr-gen-ii-51b as a second private-markets plumbing deal in a day. Watch: regulatory approval, advisor uptake of Alto Private Deal Room, and whether other custodians consolidate. Owner Quill.",
+      "grafs": [
+        "Alto, a technology-led self-directed IRA custodian and broker-dealer, said it agreed to acquire Forge Trust Co. and its parent Forge Services Inc. from Forge Global, a Charles Schwab company. Schwab acquired Forge Global in March 2026. Financial terms were not disclosed.",
+        "After closing, the combined business will have more than $20 billion in assets under custody and administration, more than 60,000 self-directed IRA accounts holding private-market assets and over 3 million custody-as-a-service accounts, according to the release, which gives data as of June 30, 2026.",
+        "Alto says it uses AI to automate the documentation and execution work behind private-market investments in IRAs. The deal needs approval from the South Dakota Division of Banking. J.P. Morgan Securities advised Schwab, with Wachtell, Lipton, Rosen & Katz as legal adviser; O'Melveny and Myers advised Alto."
+      ]
+    },
+    {
+      "id": "fuji-sankei-final-bids",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Japan real estate",
+      "hed": "Blackstone, Bain and Warburg prepare final bids for Fuji Media's Sankei Building unit, valued at about 1 trillion yen with debt",
+      "dek": "Reuters via CNA (Oct 6, 2026), citing two people: final bids are due by the end of October, and BGO, owned by Sun Life, also plans a binding offer. Fuji Media expects a deal to value the unit at around 1 trillion yen ($6.3 billion) including debt. A full sale would be one of Japan's largest real estate takeovers. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters via CNA",
+      "url": "https://www.channelnewsasia.com/business/blackstone-bain-warburg-prepare-final-bids-fuji-medias-property-unit-sources-say-6435506",
+      "also": [
+        {
+          "label": "Euronext live (Reuters)",
+          "url": "https://live.euronext.com/en/financial-news/blackstone-bain-warburg-prepare-final-bids-fuji-medias-property-unit-sources-say"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 247 Open Tue). NOT MAJOR. Japan governance reform turning into PE deal flow: activist pressure pushed Fuji Media to sell real estate, and global sponsors are lining up. Watch: whether Fuji sells all or part of Sankei Building, the preferred bidder, and the shareholder vote that follows. Owner Quill.",
+      "grafs": [
+        "Blackstone, Bain Capital and Warburg Pincus are among investors expected to submit final bids for Sankei Building, the property unit of Japanese broadcaster Fuji Media, by the end of October, Reuters reported on Oct. 6, citing two people with knowledge of the sale. BGO, the real estate firm under Canada's Sun Life Financial, also plans a binding offer.",
+        "Fuji Media expects a deal would value the unit at around 1 trillion yen, or $6.3 billion, including debt, the people said. A shareholder, Vasanta Master Fund, has urged more disclosure on asset values, structure and the use of proceeds, according to a Sept. 30 letter seen by Reuters. Fuji Media said the method, scale and timing were still being evaluated.",
+        "M&A targeting Japanese real estate totaled $15.5 billion as of Oct. 5, up 45% from a year earlier and the highest for the period since 2013, according to LSEG data cited by Reuters. Fuji Media is expected to seek shareholder approval after choosing a preferred bidder."
+      ]
+    },
     {
       "id": "kkr-gen-ii-51b",
       "lead": false,
