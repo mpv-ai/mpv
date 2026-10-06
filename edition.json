@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 252,
+  "number": 253,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Closing Bell",
   "tape": {
-    "source": "Yahoo Finance chart API (~2:56-2:58 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~2:46 PM; VIX and yields ~2:41 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~2:58 PM ET Late Afternoon No. 252. S&P 7,829.20 (+0.71%); Dow 51,553.81 (+0.56%); Nasdaq 27,650.46 (+0.63%). NVDA ~$240.40 (+0.63%); AMD ~$654.28 (+3.57%); MU ~$1,057.91 (-0.57%); MSFT ~$530.52 (+1.02%); NKE ~$34.38 (+1.22%); AVGO ~$378.84 (+4.50%); MRVL ~$286.88 (+5.76%); CEG ~$299.70 (+11.99%); VST ~$160.01 (+10.44%); PTC ~$193.04 (+0.41%); OPCH ~$31.05 (+32.86%); MCK ~$928.44 (+1.42%); KKR ~$91.16 (+1.33%); STX ~$806.29 (-9.11%); WDC ~$411.06 (-6.92%). VIX 15.04; 10-y 5.271%; 30-y 5.639%; WTI ~$89.62 (+0.21%). ES ~7,879.25 (+0.68%); NQ ~31,513.25 (+0.62%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "LATE AFTERNOON Tue · S&P 7,829.20 (+0.71%) · Dow 51,553.81 (+0.56%) · Nasdaq 27,650.46 (+0.63%) · NVDA ~$240.40 (+0.63%) · AMD ~$654.28 (+3.57%) · MU ~$1,057.91 (-0.57%) · MSFT ~$530.52 (+1.02%) · AVGO ~$378.84 (+4.50%) · MRVL ~$286.88 (+5.76%) · CEG ~$299.70 (+11.99%) · VST ~$160.01 (+10.44%) · STX ~$806.29 (-9.11%) · WDC ~$411.06 (-6.92%) · OPCH ~$31.05 (+32.86%) · VIX 15.04 · 10-y 5.271% · 30-y 5.639% · WTI ~$89.62 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~3:52 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~3:42 PM; VIX ~3:37 PM; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~3:52 PM ET Closing Bell No. 253. S&P 7,821.48 (+0.61%); Dow 51,520.55 (+0.49%); Nasdaq 27,616.92 (+0.51%). NVDA ~$239.30 (+0.17%); AMD ~$650.33 (+2.94%); MU ~$1,047.48 (-1.55%); MSFT ~$530.62 (+1.04%); NKE ~$34.43 (+1.38%); AVGO ~$376.76 (+3.93%); MRVL ~$287.26 (+5.90%); CEG ~$300.73 (+12.37%); VST ~$160.42 (+10.72%); PTC ~$193.01 (+0.39%); OPCH ~$31.01 (+32.67%); MCK ~$921.55 (+0.67%); KKR ~$90.83 (+0.97%); STX ~$804.85 (-9.27%); WDC ~$410.27 (-7.10%). VIX 15.06; 10-y 5.269%; 30-y 5.641%; WTI ~$89.76 (+0.37%). ES ~7,877.25 (+0.65%); NQ ~31,503.75 (+0.59%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "CLOSING BELL Tue · S&P 7,821.48 (+0.61%) · Dow 51,520.55 (+0.49%) · Nasdaq 27,616.92 (+0.51%) · NVDA ~$239.30 (+0.17%) · AMD ~$650.33 (+2.94%) · MU ~$1,047.48 (-1.55%) · MSFT ~$530.62 (+1.04%) · AVGO ~$376.76 (+3.93%) · MRVL ~$287.26 (+5.90%) · CEG ~$300.73 (+12.37%) · VST ~$160.42 (+10.72%) · STX ~$804.85 (-9.27%) · WDC ~$410.27 (-7.10%) · OPCH ~$31.01 (+32.67%) · VIX 15.06 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.76 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Late Afternoon Tue: the S&P heads toward a record close, OpenAI shows how it is training agents on Ironclad's contracting software, and Korea's Elice Group prices its AI IPO at the top.",
-    "body": "Late Afternoon No. 252 after Afternoon No. 251. Tape from Yahoo ~2:58 PM ET: S&P 7,829.20 (+0.71%), Dow 51,553.81 (+0.56%), Nasdaq 27,650.46 (+0.63%); 10-y 5.271%. Reuters at about 2:45 PM ET said the S&P and Nasdaq were on track for record closing highs. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: OpenAI's Ironclad research partnership, with GPT-6 Astra at 55.0% vs 41.6% for GPT-5.6 Sol on 11 contracting tasks (OpenAI); Elice Group's KOSDAQ IPO priced at 90,500 won, about 1 trillion won market value (Seoul Economic Daily). Owner: Quill."
+    "hed": "Closing Bell Tue: the S&P gives back a little into the close but holds a gain of about 0.6%, SAP buys skills-graph startup TechWolf to ground its HR agents, and Amsterdam's Hadrian raises $40 million for AI penetration testing.",
+    "body": "Closing Bell No. 253 after Late Afternoon No. 252. Tape from Yahoo ~3:52 PM ET: S&P 7,821.48 (+0.61%), Dow 51,520.55 (+0.49%), Nasdaq 27,616.92 (+0.51%); 10-y 5.269%. Reuters at about 3:45 PM ET still had the S&P and Nasdaq poised for all-time closing highs, with LSEG analysts expecting Q3 S&P earnings growth of 30.6%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: SAP to acquire TechWolf, terms undisclosed, close expected Q4 (SAP); Hadrian $40M led by Forgepoint Capital International and Smartfin, $65M total (SiliconANGLE). Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 252 Late Afternoon Tue after No. 251 Afternoon. Schneider-PTC is MAJOR lead. Watch: whether the S&P and Nasdaq lock in record closes; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 253 Closing Bell Tue after No. 252 Late Afternoon. Schneider-PTC is MAJOR lead. Watch: whether the S&P and Nasdaq settle at record closes; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,47 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "sap-techwolf-skills-graph",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise software M&A",
+      "hed": "SAP agrees to buy TechWolf, the Ghent AI work-intelligence startup, to ground its HR agents in a skills and work graph",
+      "dek": "SAP press release (Oct 6, 2026, 7:45 AM ET): SAP will acquire TechWolf and fold its context graph, AI models and applied research team into SuccessFactors; close expected Q4 2026, terms undisclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "SAP / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/sap-to-acquire-techwolf-giving-enterprises-evidence-based-view-of-work-in-the-age-of-ai-302899685.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 253 Closing Bell Tue after No. 252 Late Afternoon). NOT MAJOR. Another incumbent application vendor buying proprietary data to ground its agents, on the same day Bain and GIC test a sale or IPO of Japanese HR software firm WHI. SAP pitches the graph as a way to cut token use and agent deployment cost, which is the argument incumbents will use to defend seat-based HR suites. Watch: price if disclosed, whether TechWolf stays open to non-SAP customers after close, and Workday's response. Owner Quill.",
+      "grafs": [
+        "SAP said it agreed to acquire TechWolf, which builds a continuously updated view of the work employees do and the skills they have from a customer's existing HR and business systems, using a proprietary data model it calls a context graph for work.",
+        "SAP said TechWolf is expected to become an intelligent core of the SAP SuccessFactors portfolio, powering skills mapping, workforce planning and organizational redesign. Manoj Swaminathan, president and chief product officer for SAP Autonomous Suite, said the graph is a grounding layer for agent queries that makes token usage more efficient and lowers the cost of deploying workforce agents in its Joule assistant.",
+        "The deal is expected to close in the fourth quarter of 2026, subject to regulatory approval; terms were not disclosed. SAP said it plans for TechWolf to remain an independent entity under CEO Andreas De Neve in Ghent and for its platform to stay available to SAP and non-SAP customers. J.P. Morgan advised TechWolf."
+      ]
+    },
+    {
+      "id": "hadrian-40m-ai-pentest",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Security funding",
+      "hed": "Amsterdam's Hadrian raises $40 million, led by Forgepoint Capital International and Smartfin, for AI agents that test which exposures attackers can actually exploit",
+      "dek": "SiliconANGLE (Oct 6, 2026): the round brings Hadrian's total funding to $65 million; customers include McKesson, NBCUniversal and TotalEnergies. Valuation and revenue not disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/",
+      "also": [
+        "https://techfundingnews.com/hadrian-raises-40m-autonomous-ai-pentesting-forgepoint-smartfin/",
+        "https://hadrian.io/blog/hadrian-40m-raised-to-tackle-the-ai-hacking-cyber-security-crisis"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 253 Closing Bell Tue after No. 252 Late Afternoon). NOT MAJOR. Agentic penetration testing is becoming a funded category as AI-automated attacks rise; Tech Funding News notes Hadrian's $65M total is under 6% of the $1.1B raised by XBOW, Horizon3 and Armadin, whose $255.5M Series B is already on the plate. Watch: whether larger security platforms buy into the category and whether Hadrian discloses a valuation. Owner Quill.",
+      "grafs": [
+        "Dutch offensive security startup Hadrian Security said it raised $40 million to expand internationally. Forgepoint Capital International and Smartfin led the round, with HV, Motive Partners, Picus Capital and Oetker Ventures participating, according to Tech Funding News, which put total funding at $65 million.",
+        "Hadrian's Atlas product maps an organization's external attack surface around the clock and uses agents to check whether each exposure can really be used in an attack, while Nova runs penetration tests on demand; the two share context. The company says 87% of organizations still rely on manual penetration tests and only 0.47% of vulnerability-scanner findings turn out to be exploitable.",
+        "The company named McKesson, NBCUniversal and TotalEnergies among its customers and said the money will fund growth in Europe, the Middle East, Africa and the US plus larger engineering and research teams. It did not disclose its valuation or revenue."
+      ]
+    },
     {
       "id": "openai-ironclad-astra",
       "lead": false,
