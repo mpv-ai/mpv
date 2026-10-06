@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 245,
+  "number": 246,
   "city": "New York",
-  "date": "Monday, October 5, 2026",
-  "editionLabel": "Late Evening",
+  "date": "Tuesday, October 6, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (~4:50 PM ET Mon Close; index and stock closes vs Fri close; VIX 4:15 PM, WTI/ES/NQ ~4:45 PM, yields ~3:00 PM; SoftBank Tokyo Oct 5 close). Index closes match Reuters close wrap via LSE.",
-    "updated": "Oct 5 ~4:50 PM ET Close No. 243. S&P 7,773.95 (+0.66%); Dow 51,267.90 (+0.18%); Nasdaq 27,477.31 (+1.05%, record close); NVDA +2.12% (record close); AMD -0.34%; MU -1.02%; MSFT +1.48%; NKE +0.27%; AVGO +2.08%; PTC $192.26 (+33.49% on Schneider $205 cash bid); VIX 15.52; 10-y 5.311%; 30-y 5.665%; WTI ~$89.23 (-2.06%). SoftBank Tokyo Oct 5 close 6,497 (+2.96%). SFTBY $20.25 (-1.60%). ES ~7,829.00; NQ ~31,338.00.",
-    "line": "CLOSE Mon · S&P 7,773.95 (+0.66%) · Dow 51,267.90 (+0.18%) · Nasdaq 27,477.31 (+1.05%, record) · NVDA $238.90 (+2.12%) · AMD $631.75 (-0.34%) · MU $1,063.96 (-1.02%) · MSFT $525.18 (+1.48%) · NKE $33.96 (+0.27%) · AVGO $362.51 (+2.08%) · PTC $192.26 (+33.49%) · VIX 15.52 · 10-y 5.311% · 30-y 5.665% · WTI ~$89.23 · SoftBank Tokyo 6,497 (+2.96%) · SFTBY $20.25 (-1.60%) · ES fut ~7,829.00 · NQ fut ~31,338.00"
+    "source": "Yahoo Finance chart API (~8:45-8:59 AM ET Tue pre-market; ES/NQ/WTI futures and pre-market stock prints vs Mon close; VIX and yields ~8:44 AM; SoftBank Tokyo Oct 6 close). Cash indexes held at Mon closing prints until the 9:30 AM open.",
+    "updated": "Oct 6 ~8:59 AM ET Morning No. 246. Cash indexes at Mon close: S&P 7,773.95 (+0.66%); Dow 51,267.90 (+0.18%); Nasdaq 27,477.31 (+1.05%, record close). Pre-market vs Mon close: NVDA ~$241.43 (+1.06%); AMD ~$646.00 (+2.26%); MU ~$1,067.62 (+0.34%); MSFT ~$530.39 (+0.99%); NKE ~$33.63 (-0.97%); AVGO ~$365.01 (+0.69%); PTC ~$193.35 (+0.57%); OPCH ~$31.08 (+33.0% on $32.05 CD&R/McKesson deal); KKR ~$91.08 (+1.25%). VIX 15.32; 10-y 5.275%; 30-y 5.646%; WTI ~$87.59 (-2.06%). ES ~7,855.25 (+0.37%); NQ ~31,464.50 (+0.47%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "PRE-MKT Tue · ES fut ~7,855.25 (+0.37%) · NQ fut ~31,464.50 (+0.47%) · S&P 7,773.95 (Mon close) · Dow 51,267.90 (Mon close) · Nasdaq 27,477.31 (Mon close, record) · NVDA ~$241.43 (+1.06%) · AMD ~$646.00 (+2.26%) · MU ~$1,067.62 (+0.34%) · MSFT ~$530.39 (+0.99%) · NKE ~$33.63 (-0.97%) · AVGO ~$365.01 (+0.69%) · PTC ~$193.35 (+0.57%) · OPCH ~$31.08 (+33.0%) · VIX 15.32 · 10-y 5.275% · 30-y 5.646% · WTI ~$87.59 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Evening Mon: Schneider-PTC stays the MAJOR lead. Anthropic chip debt hits the market and Reflection ships an open model.",
+    "hed": "Morning Tue: KKR buys Gen II, CD&R and McKesson sign for Option Care, and Meta and Microsoft trim Claude.",
     "signed": "Scout",
-    "body": "Late Evening No. 245 after Evening No. 244. Tape held at the closing prints from Yahoo ~4:50 PM ET (S&P 7,773.95, +0.66%; Nasdaq 27,477.31, +1.05%, a record close); no fresh sourced prints since. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: banks began syndicating the $42 billion senior piece of the $60 billion Anthropic chip-lease financing (Investing.com citing FT), and Reflection AI unveiled its open-weight Beam model (TechCrunch). Declined: Cenovus-Athabasca (oil M&A, off beat); Photon, SiMa.ai, Softdocs and Covestro CFO (already on the plate). Owners: Quill x2."
+    "body": "Morning No. 246 after Late Evening No. 245. Tape is pre-market from Yahoo ~8:45-8:59 AM ET: ES ~7,855.25 (+0.37%), NQ ~31,464.50 (+0.47%); cash indexes held at Monday's closes until the open. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: KKR-Gen II at $5.1B EV (KKR release); CD&R and McKesson sign Option Care at $32.05 a share (Business Wire), confirming Monday's report; Meta and Microsoft cut staff Claude use (The Information); DeepSeek nears an 80 billion yuan round (Bloomberg via Reuters); Moonshot near $50B eyes a Q1 2027 Hong Kong IPO (Bloomberg via The Standard); Vinci raises $250M co-led by Advent (Business Wire); Informa buys Clarion from Blackstone (The Guardian). Owners: Quill x7."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 245 Late Evening Mon after No. 244 Evening. Schneider-PTC is MAJOR lead. Watch: Anthropic $42B senior loan pricing and junior tranche timing; Reflection Beam weights release; McKesson/CD&R-Option Care announcement as soon as Tuesday; PTC spread to $205; Schneider ABO equity raise timing and Q3 revenue Oct 16; Pinterest Q3 print with Dibbo starting Oct 26; TeraWulf Muskie PSC approval and tenant; Commerce rule on offshore chip rentals and Oracle Investor Day Oct 28; RXO holder vote on C.H. Robinson deal; MPS shareholder vote and Mediobanca merger Oct 29; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET."
+    "line": "No. 246 Morning Tue after No. 245 Late Evening. Schneider-PTC is MAJOR lead. Watch: cash open 9:30 AM ET; OPCH spread to $32.05 and proxy terms; KKR-Gen II regulatory path; DeepSeek round valuation; Moonshot early-look meetings; Anthropic $42B senior loan pricing and junior tranche timing; Reflection Beam weights release; PTC spread to $205; Schneider Q3 revenue Oct 16; Pinterest Q3 print with Dibbo starting Oct 26; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Oracle Investor Day Oct 28; MPS vote and Mediobanca merger Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,201 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "kkr-gen-ii-51b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Fund services",
+      "hed": "KKR agrees to buy fund administrator Gen II from Hg and General Atlantic at a $5.1 billion enterprise value",
+      "dek": "KKR release via Business Wire (Oct 5, 2026, 7:30 PM ET): KKR is buying Gen II Fund Services through its Core Private Equity strategy from Hg, General Atlantic and other minority investors. Gen II serves more than 275 managers with over $2 trillion in assets, per PE Hub. Close expected in 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "KKR / Business Wire (via Nasdaq)",
+      "url": "https://www.nasdaq.com/press-release/kkr-acquire-gen-ii-fund-services-more-5-billion-hg-and-general-atlantic-2026-10-05",
+      "also": [
+        {
+          "label": "Hg release",
+          "url": "https://hgcapital.com/insights/kkr-to-acquire-gen-ii-fund-services-for-more-than-5-billion-from-hg-and-general-atlantic"
+        },
+        {
+          "label": "WSJ (Lauren Thomas, Ben Dummett)",
+          "url": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5"
+        },
+        {
+          "label": "PE Hub via HeadlinesBriefing (advisers, AUM served)",
+          "url": "https://headlinesbriefing.com/private-markets/pe-hub/kkr-to-acquire-gen-ii-for-51-billion-61d1e911"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue after No. 245 Late Evening). NOT MAJOR. A sponsor paying $5.1B EV for the plumbing of private capital itself: fund admin is a fee stream that grows with the number of funds, not their returns. Useful CFO/PE-ops angle on outsourced fund finance. Watch: regulatory path to a 2027 close, the KKR employee-ownership program, and whether rival admins trade on the multiple. Owner Quill.",
+      "grafs": [
+        "KKR said it agreed to acquire Gen II Fund Services, a private capital fund administrator, for a total enterprise value of $5.1 billion. It is buying the business from Hg, General Atlantic and other minority investors through its Core Private Equity strategy, and CEO Steven Millner's leadership team will stay in place.",
+        "General Atlantic and Hg co-led an investment in Gen II in 2020. Since then, the company has quadrupled revenue and EBITDA through organic growth and four acquisitions, according to the release. PE Hub reported that Gen II administers funds for more than 275 investment managers with over $2 trillion in assets, and that KKR plans a broad-based employee ownership program for all Gen II staff.",
+        "The deal is subject to customary conditions and regulatory approvals and is expected to close in 2027. Simpson Thacher advised KKR; Morgan Stanley, Robert W. Baird and UBS advised the sellers, with Kirkland & Ellis as their legal adviser, per PE Hub."
+      ]
+    },
+    {
+      "id": "option-care-cdr-mck-signed",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Take-private (signed)",
+      "hed": "CD&R and McKesson sign a $32.05-a-share deal for Option Care Health, about $5.8 billion including debt",
+      "dek": "Business Wire (Oct 6, 2026, 8:00 AM BST release): CD&R will own about 51% and McKesson will invest about $1.4 billion for about 49%, with a framework for McKesson to later buy CD&R out. The price is about a 37% premium to the Oct 5 close. Close expected in the first half of 2027. Confirms plated mckesson-cdr-option-care. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Business Wire (via FT Markets)",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610060800BIZWIRE_USPRX____20261005_BW837505-1",
+      "also": [
+        {
+          "label": "Option Care 8-K (merger agreement, Onyx Bidco)",
+          "url": "https://www.streetinsider.com/SEC+Filings/Form+8-K+Option+Care+Health%2C+Inc.+For%3A+Oct+05/27152408.html"
+        },
+        {
+          "label": "McKesson 8-K summary",
+          "url": "https://www.stocktitan.net/sec-filings/MCK/8-k-mckesson-corp-reports-material-event-96dcd0d7fc8d.html"
+        },
+        {
+          "label": "Prior plate: Reuters citing FT, Oct 5",
+          "url": "https://www.reuters.com/legal/transactional/mckesson-cdr-near-5-billion-plus-deal-buy-option-care-ft-reports-2026-10-05/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue). NOT MAJOR. Report became a signed deal overnight. The structure is the story: a sponsor holds 51% now while the strategic holds 49% under the equity method and keeps a path to full ownership later, which keeps the target off McKesson's consolidated balance sheet for now. Watch: OPCH spread to $32.05 (about $31.08 pre-market), go-shop or fiduciary-out terms in the proxy, and antitrust review. Owner Quill.",
+      "grafs": [
+        "CD&R, McKesson and Option Care Health said they signed a definitive agreement under which CD&R and McKesson will acquire the home and alternate-site infusion provider for $32.05 per share in cash, a total enterprise value of about $5.8 billion. The price is about a 37% premium to Option Care's Oct. 5 close.",
+        "CD&R will hold a majority interest of about 51%, and McKesson will invest about $1.4 billion for a minority stake of about 49%. The agreement also sets a framework for McKesson to later acquire CD&R's interest, subject to conditions and regulatory approvals. McKesson plans to account for its stake under the equity method. Option Care will remain a separate company run by its own management.",
+        "The transaction is expected to close in the first half of calendar 2027, subject to Option Care stockholder approval and regulatory clearances. Option Care's 8-K says the company will merge with Onyx Bidco, the investor group's acquisition vehicle."
+      ]
+    },
+    {
+      "id": "meta-msft-claude-cut",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise spend",
+      "hed": "Meta and Microsoft move to cut staff use of Anthropic's Claude in favor of in-house tools",
+      "dek": "The Information (Oct 5, 2026; Aaron Holmes, Jyoti Mann, Kevin McLaughlin): Microsoft cut its projected internal Anthropic spend, once at least $1 billion, by more than a third, per a person familiar. Meta's internal Claude Code users fell to about 30,000 from about 60,000 as MetaCode and Muse Code spread, per follow-ups. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5, 2026",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude",
+      "also": [
+        {
+          "label": "TheFly via Business Insider summary",
+          "url": "https://markets.businessinsider.com/news/stocks/meta-microsoft-look-to-cut-employee-use-of-claude-information-says-1036599282"
+        },
+        {
+          "label": "Yahoo Finance summary (Meta user counts)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-microsoft-reportedly-trim-anthropic-230612967.html"
+        },
+        {
+          "label": "The Decoder analysis",
+          "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue; Oct 5 afternoon report missed on Mon plate). NOT MAJOR. First hard read that two of Anthropic's biggest enterprise buyers are capping internal token spend ahead of the Anthropic IPO. Good CFO angle on AI cost control and token budgets. Watch: whether Anthropic's S-1 shows customer concentration, and Microsoft customer-facing Claude usage via Copilot and Azure, which reports say is unaffected. Owner Quill.",
+      "grafs": [
+        "Meta and Microsoft, two of Anthropic's largest corporate customers, are working to lower their employees' use of Claude, The Information reported on Oct. 5. Microsoft executives had projected earlier this year that the company was on pace to spend at least $1 billion on internal use of Anthropic's technology, but that figure has since been cut by more than a third, the report said, citing a person familiar with the matter.",
+        "Follow-up summaries of the report said Microsoft is steering developers toward GitHub Copilot and its own tools, and that internal Claude Code users at Meta fell from roughly 60,000 to about 30,000, partly because of spring layoffs but mostly because engineers moved to Meta's own MetaCode and Muse Code tools.",
+        "The pullback is about internal staff use. Summaries of the report said Microsoft still spends heavily on Anthropic models for customer-facing Copilot features, and Claude sales through Azure and other clouds continue to grow."
+      ]
+    },
+    {
+      "id": "deepseek-80b-yuan-round",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / China funding",
+      "hed": "DeepSeek nears at least 80 billion yuan, about $12 billion, in a round led by CATL and Tencent commitments",
+      "dek": "Reuters via CNA, citing Bloomberg News (Oct 6, 2026): DeepSeek is close to securing at least 80 billion yuan ($11.93 billion), with CATL and Tencent among the largest committed investors. Reuters could not immediately verify the report. Valuation not given. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters via CNA (citing Bloomberg News)",
+      "url": "https://www.channelnewsasia.com/business/deepseek-raise-least-12-billion-in-tencent-backed-funding-bloomberg-news-reports-6435381",
+      "also": [
+        {
+          "label": "The Standard (Bloomberg report)",
+          "url": "https://www.thestandard.com.hk/finance/article/344718/DeepSeek-to-raise-at-least-80-billion-yuan-in-Tencent-backed-funding-Bloomberg-News-reports"
+        },
+        {
+          "label": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding/articleshow/134725196.cms"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue). NOT MAJOR. Would be one of the largest private AI raises in Asia, with a battery maker and a platform giant as anchors. Follows plated deepseek-cfo and deepseek-citic IPO prep. Watch: valuation, final size, and how the round squares with STAR Market IPO plans. Owner Quill.",
+      "grafs": [
+        "DeepSeek is close to securing at least 80 billion yuan, about $11.93 billion, in its latest funding round, Bloomberg News reported on Oct. 6, citing people familiar with the matter, according to a Reuters item carried by CNA.",
+        "Contemporary Amperex Technology and Tencent Holdings have committed among the largest amounts in the round, the report said. Reuters said it could not immediately verify the report, and no valuation was given.",
+        "The plate has tracked DeepSeek's moves toward public markets, including a first CFO hire and CITIC Securities as adviser for a possible Shanghai STAR Market listing."
+      ]
+    },
+    {
+      "id": "moonshot-50b-q1-ipo",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / IPO pipeline",
+      "hed": "Moonshot AI closes final private round near $50 billion and eyes a Hong Kong IPO in the first quarter of 2027",
+      "dek": "The Standard, citing Bloomberg (Oct 6, 2026): the Kimi developer may raise up to $5 billion and could start early-look investor meetings this month; timing may change. Its summer round valued it at $31.5 billion. Updates plated moonshot-hk-ipo, which had a 2026 listing target. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "The Standard (citing Bloomberg)",
+      "url": "https://www.thestandard.com.hk/finance/article/344720/Moonshot-AI-mulls-HK-IPO-in-Q1-2027-after-topping-US50b-valuation-Bloomberg",
+      "also": [
+        {
+          "label": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/capital-markets/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue). NOT MAJOR. Valuation up roughly 60% from the summer round and the listing slips into 2027. A Chinese lab IPO this size is a pricing test for the Anthropic and OpenAI listings to come. Watch: early-look meeting feedback, the regulators' data-security probe reported by The Information, and ARR toward the $2B year-end target. Owner Quill.",
+      "grafs": [
+        "Moonshot AI has closed its final private funding round at a valuation of about $50 billion and is preparing for a Hong Kong listing in the first quarter of 2027, Bloomberg reported on Oct. 6, citing people familiar with the matter, according to The Standard.",
+        "The company is considering raising up to $5 billion and plans early-look meetings with investors as soon as this month, the report said, adding that the timing may change. Bank of America was earlier reported as overall coordinator, with CICC, Deutsche Bank and Goldman Sachs as sponsors, and Moonshot has filed confidentially.",
+        "The Standard said Moonshot's previous round this summer valued it at $31.5 billion and that its annual recurring revenue is expected to rise to $2 billion by December from about $1 billion now."
+      ]
+    },
+    {
+      "id": "vinci-250m-series-b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Engineering software",
+      "hed": "Chip-physics AI startup Vinci raises $250 million at a $1.5 billion valuation, co-led by Advent, Temasek and Xora",
+      "dek": "Vinci release via Business Wire (Oct 6, 2026, 7:00 AM ET): AMD Ventures, Madrona, Eclipse and Khosla also took part. Vinci sells AI-native physics simulation for chip, package and board design and says it analyzes designs with more than 15 billion degrees of freedom in minutes. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Vinci / Business Wire (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vinci-raises-250m-series-b-110000721.html",
+      "also": [
+        {
+          "label": "Madrona investment post",
+          "url": "https://www.madrona.com/in-ai-we-believe-but-in-physics-we-trust-our-investment-in-vinci/"
+        },
+        {
+          "label": "The Next Web",
+          "url": "https://thenextweb.com/news/chip-simulation-startup-vinci-raises-250m-at-a-1-5bn-valuation"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue). NOT MAJOR. Growth money moving into AI for physical engineering, with AMD as a strategic backer. The release names Advent as a co-lead (Alek Ferro, technology investor); it does not spell out the full firm name. Watch: customer wins outside semiconductors and any EDA incumbent response. Owner Quill.",
+      "grafs": [
+        "Vinci said it raised a $250 million Series B co-led by Advent, Temasek and Xora, valuing the Palo Alto company at $1.5 billion. AMD Ventures, Madrona and existing investors Eclipse and Khosla Ventures also participated.",
+        "The company sells what it calls Continuous Physics Reasoning, which combines a foundation model for physics with GPU-native physics kernels to show engineers how a design will behave thermally and mechanically while it is still being designed. Vinci says the platform runs on production programs and analyzes designs from hundreds of millions to more than 15 billion degrees of freedom in minutes rather than hours or days.",
+        "Vinci started in semiconductors and plans to use the money to expand into more types of physics and into hardware such as memory, vehicles, aircraft and satellites. \"We believe Vinci has the potential to become a foundational technology for a new era of hardware engineering,\" said Alek Ferro of Advent."
+      ]
+    },
+    {
+      "id": "informa-clarion-blackstone",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Exit",
+      "hed": "Blackstone sells events organizer Clarion to Informa for 2.24 billion pounds; Informa raises 940 million pounds and reviews Taylor & Francis",
+      "dek": "The Guardian (Oct 6, 2026): Informa will fund part of the deal with a 940 million pound share placing and has launched a formal process to separate its Taylor & Francis academic publisher, with an outcome due with full-year results in March. Informa says the deal adds to EPS from 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 246 Morning Tue). NOT MAJOR. A clean sponsor exit to a strategic buyer, funded partly by equity, paired with a portfolio separation. Useful for PE exit-route and CFO capital-allocation coverage. Watch: placing price, Taylor & Francis options, and leverage after the deal. Owner Quill.",
+      "grafs": [
+        "Informa has agreed a 2.24 billion pound deal to buy London-based events organizer Clarion from Blackstone, adding more than 100 events including the DSEI defense exhibition and Awesome Con, The Guardian reported.",
+        "To help fund the purchase, Informa will raise 940 million pounds through a share placing that includes a retail offer through RetailBook. The company said the takeover should speed growth and add to earnings per share from 2027. Its shares rose 1.4% in early London trading.",
+        "Informa also launched a formal process to separate its Taylor & Francis academic publishing arm, which made about $1 billion last year, and said it would review all options and report the outcome with full-year results in March."
+      ]
+    },
     {
       "id": "anthropic-60b-syndication-launch",
       "lead": false,
