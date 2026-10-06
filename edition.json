@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 248,
+  "number": 249,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart API (~10:57 AM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~10:47 AM; VIX and yields ~10:42 AM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~10:57 AM ET Late Morning No. 248. S&P 7,831.46 (+0.74%); Dow 51,540.16 (+0.53%); Nasdaq 27,697.45 (+0.80%). NVDA ~$242.23 (+1.39%); AMD ~$654.16 (+3.55%); MU ~$1,069.16 (+0.49%); MSFT ~$534.20 (+1.72%); NKE ~$34.41 (+1.33%); AVGO ~$377.50 (+4.13%); MRVL ~$290.26 (+7.01%); CEG ~$301.23 (+12.56% on Google nuclear deal); PTC ~$193.03 (+0.40%); OPCH ~$31.01 (+32.7%); MCK ~$917.61 (+0.24%); KKR ~$91.17 (+1.34%). VIX 15.37; 10-y 5.282%; 30-y 5.653%; WTI ~$87.98 (-1.62%). ES ~7,880.75 (+0.70%); NQ ~31,559.25 (+0.77%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "LATE MORNING Tue · S&P 7,831.46 (+0.74%) · Dow 51,540.16 (+0.53%) · Nasdaq 27,697.45 (+0.80%) · NVDA ~$242.23 (+1.39%) · AMD ~$654.16 (+3.55%) · MU ~$1,069.16 (+0.49%) · MSFT ~$534.20 (+1.72%) · AVGO ~$377.50 (+4.13%) · MRVL ~$290.26 (+7.01%) · CEG ~$301.23 (+12.56%) · PTC ~$193.03 (+0.40%) · OPCH ~$31.01 (+32.7%) · VIX 15.37 · 10-y 5.282% · 30-y 5.653% · WTI ~$87.98 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~11:54 AM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~11:44 AM; VIX and yields ~11:39 AM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~11:54 AM ET Midday No. 249. S&P 7,840.14 (+0.85%); Dow 51,613.37 (+0.67%); Nasdaq 27,701.41 (+0.82%). NVDA ~$241.40 (+1.05%); AMD ~$656.05 (+3.85%); MU ~$1,066.06 (+0.20%); MSFT ~$532.48 (+1.39%); NKE ~$34.31 (+1.02%); AVGO ~$378.62 (+4.44%); MRVL ~$290.78 (+7.20%); CEG ~$304.90 (+13.93% on Google nuclear deal); PTC ~$193.21 (+0.49%); OPCH ~$31.05 (+32.8%); MCK ~$919.87 (+0.48%); KKR ~$91.36 (+1.56%). VIX 15.29; 10-y 5.264%; 30-y 5.633%; WTI ~$88.74 (-0.77%). ES ~7,893.00 (+0.85%); NQ ~31,585.50 (+0.85%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "MIDDAY Tue · S&P 7,840.14 (+0.85%) · Dow 51,613.37 (+0.67%) · Nasdaq 27,701.41 (+0.82%) · NVDA ~$241.40 (+1.05%) · AMD ~$656.05 (+3.85%) · MU ~$1,066.06 (+0.20%) · MSFT ~$532.48 (+1.39%) · AVGO ~$378.62 (+4.44%) · MRVL ~$290.78 (+7.20%) · CEG ~$304.90 (+13.93%) · PTC ~$193.21 (+0.49%) · OPCH ~$31.05 (+32.8%) · VIX 15.29 · 10-y 5.264% · 30-y 5.633% · WTI ~$88.74 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Late Morning Tue: the S&P holds a record, Marvell and Constellation surge, and CVC calls its Recordati bid final.",
     "signed": "Scout",
-    "body": "Late Morning No. 248 after Open No. 247. Tape from Yahoo ~10:57 AM ET: S&P 7,831.46 (+0.74%), Dow 51,540.16 (+0.53%), Nasdaq 27,697.45 (+0.80%); 10-y 5.282%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Marvell investor day targets about $20B FY28 revenue (Investing.com); Google funds 890 MW of Constellation nuclear uprates plus a 2,700 MW supply deal (Constellation release); CVC and GBL lift Recordati to 53 euros, best and final (Reuters); AMD's Su says supply rises substantially in 2027 (Reuters). Owners: Quill x4."
+    "hed": "Midday Tue: the S&P extends its record run, Mistral unveils a trillion-parameter model, and Bain and GIC weigh a $3.2 billion WHI exit.",
+    "body": "Midday No. 249 after Late Morning No. 248. Tape from Yahoo ~11:54 AM ET: S&P 7,840.14 (+0.85%), Dow 51,613.37 (+0.67%), Nasdaq 27,701.41 (+0.82%); 10-y 5.264%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Mistral releases Mistral Large 4, a 1-trillion-parameter model behind a guarded endpoint with open weights promised in about three weeks (TechCrunch); Bain Capital and GIC explore an IPO or sale of Japan's WHI Holdings at a valuation of at least $3.2 billion (Reuters via Investing.com). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 248 Late Morning Tue after No. 247 Open. Schneider-PTC is MAJOR lead. Watch: whether the S&P closes above its mid-August record; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05 and proxy terms; KKR-Gen II regulatory path; Sankei Building final bids by end-October; DeepSeek round valuation; Moonshot early-look meetings; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Pinterest Q3 with Dibbo from Oct 26; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 249 Midday Tue after No. 248 Late Morning. Schneider-PTC is MAJOR lead. Watch: whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,44 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "mistral-large-4-1t",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Models",
+      "hed": "Mistral releases Mistral Large 4, a 1-trillion-parameter multimodal model it says it will open-weight in about three weeks",
+      "dek": "TechCrunch (Oct 6, 2026, 7:33 AM PT): nicknamed Le Chonk, ML4 is available only through a public guarded endpoint for now; Mistral plans to release weights after safety testing. Trained entirely on Mistral's own compute with 4,000 Nvidia GPUs. Benchmarks still pending. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 249 Midday Tue after No. 248 Late Morning). NOT MAJOR. Europe's main frontier lab is pitching a third path between closed US models and open Chinese ones, with finance and cybersecurity named as target use cases. The compute claim (4,000 GPUs) is a capital-efficiency data point worth tracking against US lab spend. Follows plated samsung-mistral-partner. Watch: benchmark results, whether weights ship on schedule, and enterprise finance uptake. Owner Quill.",
+      "grafs": [
+        "French AI lab Mistral AI on Tuesday released Mistral Large 4, a large multimodal model nicknamed Le Chonk for its 1 trillion parameters, TechCrunch reported. For now it can be used only through a public guarded endpoint; Mistral says it plans to make the weights available in about three weeks, once safety testing is complete.",
+        "Mistral VP Science Pierre Stock told TechCrunch the model was trained entirely on Mistral's own compute using only 4,000 Nvidia GPUs, which he said is two to three times less than Chinese competitors. Benchmark results are still pending.",
+        "Stock said optimized use cases include cybersecurity, finance and chip design. That last area matters to two main backers: ASML, which led Mistral's Series C, and Samsung, which led its Series D last month at a 21 billion euro valuation."
+      ]
+    },
+    {
+      "id": "bain-gic-whi-ipo-sale",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Exits",
+      "hed": "Bain Capital and GIC explore an IPO or sale of Japanese HR software firm WHI at a valuation of at least $3.2 billion",
+      "dek": "Reuters via Investing.com (Oct 6, 2026, 5:09 AM ET), citing two people: the co-control owners have begun sounding out advisers, buyers and investors. Options include a Japan listing or a sale to a strategic or financial buyer; talks are early and they could keep the asset. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/bain-gic-explore-ipo-or-sale-of-japans-whi-at-valuation-of-about-32-billion-sources-say-4933693",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 249 Midday Tue). NOT MAJOR. A dual-track exit of a Japanese corporate carve-out is a live test of Japan as a PE exit market, and HR and payroll software is a sector where AI disruption fears are shaping valuations. Watch: adviser mandates, whether a Tokyo IPO or a sponsor-to-sponsor sale wins, and pricing versus the 500 billion yen floor. Owner Quill.",
+      "grafs": [
+        "Bain Capital and Singapore's GIC are exploring an IPO or sale of Japan's WHI Holdings at a valuation of at least 500 billion yen ($3.2 billion), Reuters reported, citing two people with knowledge of the matter. The firms jointly control the human resources software company.",
+        "They have begun sounding out advisers, potential buyers and investors. A listing in Japan is one option, alongside a sale to a strategic buyer or another financial investor. The talks are at an early stage, and Bain and GIC could still decide to keep the business. Bain and GIC declined to comment.",
+        "Bain created WHI in 2019 by carving out and acquiring the HR software business of Works Applications, and GIC became a co-control shareholder in March 2023. Its main operating company, Works Human Intelligence, sells an HR system used by about 1,200 large corporate groups for payroll, employee data, attendance and talent management."
+      ]
+    },
     {
       "id": "marvell-investor-day-20b",
       "lead": false,
