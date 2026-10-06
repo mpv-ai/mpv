@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 250,
+  "number": 251,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Early Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~1:01 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~12:51 PM; VIX and yields ~12:46 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~1:01 PM ET Early Afternoon No. 250. S&P 7,828.65 (+0.70%); Dow 51,540.85 (+0.53%); Nasdaq 27,651.83 (+0.64%). NVDA ~$240.60 (+0.71%); AMD ~$655.85 (+3.81%); MU ~$1,064.82 (+0.08%); MSFT ~$532.67 (+1.43%); NKE ~$34.35 (+1.13%); AVGO ~$377.64 (+4.17%); MRVL ~$281.48 (+3.77%); CEG ~$308.16 (+15.15% on Google nuclear deal); PTC ~$193.22 (+0.50%); OPCH ~$31.10 (+33.08%); MCK ~$916.19 (+0.08%); KKR ~$90.82 (+0.96%); STX ~$806.62 (-9.07%); WDC ~$409.16 (-7.35%). VIX 15.03; 10-y 5.273%; 30-y 5.638%; WTI ~$89.46 (+0.03%). ES ~7,882.00 (+0.71%); NQ ~31,532.75 (+0.69%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "EARLY AFTERNOON Tue · S&P 7,828.65 (+0.70%) · Dow 51,540.85 (+0.53%) · Nasdaq 27,651.83 (+0.64%) · NVDA ~$240.60 (+0.71%) · AMD ~$655.85 (+3.81%) · MU ~$1,064.82 (+0.08%) · MSFT ~$532.67 (+1.43%) · AVGO ~$377.64 (+4.17%) · MRVL ~$281.48 (+3.77%) · CEG ~$308.16 (+15.15%) · STX ~$806.62 (-9.07%) · WDC ~$409.16 (-7.35%) · OPCH ~$31.10 (+33.08%) · VIX 15.03 · 10-y 5.273% · 30-y 5.638% · WTI ~$89.46 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~1:59 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~1:49 PM; VIX and yields ~1:44 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~1:59 PM ET Afternoon No. 251. S&P 7,825.69 (+0.67%); Dow 51,507.46 (+0.47%); Nasdaq 27,642.85 (+0.60%). NVDA ~$239.97 (+0.45%); AMD ~$654.39 (+3.58%); MU ~$1,065.67 (+0.16%); MSFT ~$531.63 (+1.23%); NKE ~$34.34 (+1.13%); AVGO ~$379.41 (+4.66%); MRVL ~$288.72 (+6.44%); CEG ~$304.95 (+13.95%); VST ~$160.96 (+11.09% on DOE loan commitment); PTC ~$193.12 (+0.45%); OPCH ~$31.10 (+33.08%); MCK ~$920.61 (+0.56%); KKR ~$90.53 (+0.63%); STX ~$804.25 (-9.34%); WDC ~$410.20 (-7.12%). VIX 15.09; 10-y 5.269%; 30-y 5.639%; WTI ~$89.35 (-0.09%). ES ~7,880.50 (+0.69%); NQ ~31,530.50 (+0.68%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "AFTERNOON Tue · S&P 7,825.69 (+0.67%) · Dow 51,507.46 (+0.47%) · Nasdaq 27,642.85 (+0.60%) · NVDA ~$239.97 (+0.45%) · AMD ~$654.39 (+3.58%) · MU ~$1,065.67 (+0.16%) · MSFT ~$531.63 (+1.23%) · AVGO ~$379.41 (+4.66%) · MRVL ~$288.72 (+6.44%) · CEG ~$304.95 (+13.95%) · VST ~$160.96 (+11.09%) · STX ~$804.25 (-9.34%) · WDC ~$410.20 (-7.12%) · OPCH ~$31.10 (+33.08%) · VIX 15.09 · 10-y 5.269% · 30-y 5.639% · WTI ~$89.35 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Early afternoon Tue: the S&P gives back a little of its record run, hard-drive makers slide on Toshiba supply fears, and Etched fields offers at up to $50 billion.",
-    "body": "Early Afternoon No. 250 after Midday No. 249. Tape from Yahoo ~1:01 PM ET: S&P 7,828.65 (+0.70%), Dow 51,540.85 (+0.53%), Nasdaq 27,651.83 (+0.64%); 10-y 5.273%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Seagate and Western Digital fall again as a Bloomberg report on a Seagate-Toshiba contest for TDK's HDD head unit adds to Toshiba capacity fears (TipRanks, 24/7 Wall St.); Etched reviews funding bids at $40 billion to $50 billion, two months after a $21 billion round (TechCrunch). Owners: Quill x2."
+    "hed": "Afternoon Tue: stocks hold most of their gains, Marvell extends its investor-day rally, and Washington backs another nuclear uprate bet with up to $4.2 billion for Vistra.",
+    "body": "Afternoon No. 251 after Early Afternoon No. 250. Tape from Yahoo ~1:59 PM ET: S&P 7,825.69 (+0.67%), Dow 51,507.46 (+0.47%), Nasdaq 27,642.85 (+0.60%); 10-y 5.269%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: the Energy Department's conditional loan commitment of up to $4.2 billion for uprates at Vistra's Pennsylvania and Ohio reactors, with VST up about 11% (DOE, Utility Dive, CNBC). Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 250 Early Afternoon Tue after No. 249 Midday. Schneider-PTC is MAJOR lead. Watch: TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 251 Afternoon Tue after No. 250 Early Afternoon. Schneider-PTC is MAJOR lead. Watch: Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,34 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "vistra-doe-42b-uprates",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI power",
+      "hed": "Vistra jumps about 11% after the Energy Department offers up to $4.2 billion in conditional loans for nuclear uprates in Pennsylvania and Ohio",
+      "dek": "DOE release (Oct 5, 2026): the Office of Energy Dominance Financing made a conditional commitment of up to $4.2 billion for uprates and modernization at Beaver Valley, Davis-Besse and Perry, adding 433 MW and preserving nearly 4 GW in PJM. The loan is not closed. Yahoo ~1:59 PM ET: VST ~$160.96 (+11.09%). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5-6, 2026",
+      "source": "U.S. Department of Energy; Utility Dive; CNBC",
+      "url": "https://www.energy.gov/articles/energy-department-announces-42-billion-investment-boost-nuclear-power-and-help-lower",
+      "also": [
+        {
+          "label": "Utility Dive: DOE intends to loan Vistra $4.2B",
+          "url": "https://www.utilitydive.com/news/doe-intends-to-loan-vistra-42b-for-nuclear-fleet-improvements/832236/"
+        },
+        {
+          "label": "CNBC: biggest midday movers",
+          "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-midday-mrvl-mrna-lw-ceg.html"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 251 Afternoon Tue after No. 250 Early Afternoon). NOT MAJOR. Same day as the Google-Constellation uprate deal, Washington is now financing the same playbook: squeezing more megawatts out of existing reactors to feed AI-era load in PJM. The 433 MW of uprates are tied to Vistra's January power deal with Meta, so federal credit is effectively backstopping hyperscaler supply. Watch: definitive loan close, Comanche Peak option in Texas, and whether other nuclear owners line up for EDF loans. Owner Quill.",
+      "grafs": [
+        "The U.S. Department of Energy's Office of Energy Dominance Financing, formerly the Loan Programs Office, announced a conditional loan commitment of up to $4.2 billion to finance nuclear uprates and modernization at Vistra's Beaver Valley plant in Pennsylvania and its Davis-Besse and Perry plants in Ohio. DOE said the work would add 433 MW of new nuclear capacity and preserve nearly 4 GW of baseload power across PJM, while supporting operation for 20 years beyond existing licenses.",
+        "The commitment also includes an option to finance potential future uprates at Vistra's Comanche Peak plant in Texas. DOE described it as conditional: Vistra must meet technical, legal, environmental and financial conditions before definitive financing documents are signed and funds are disbursed.",
+        "Utility Dive noted the 433 MW of uprates were announced in January alongside Vistra's 2.6 GW power purchase agreement with Meta. CNBC listed Vistra among Tuesday's biggest midday movers, up about 12%, and Yahoo Finance showed VST near $160.96 (+11.09%) at about 1:59 PM ET, alongside CEG near $304.95 (+13.95%) after its Google deal."
+      ]
+    },
     {
       "id": "stx-wdc-toshiba-tdk",
       "lead": false,
