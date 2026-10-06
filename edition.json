@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 251,
+  "number": 252,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Late Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~1:59 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~1:49 PM; VIX and yields ~1:44 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~1:59 PM ET Afternoon No. 251. S&P 7,825.69 (+0.67%); Dow 51,507.46 (+0.47%); Nasdaq 27,642.85 (+0.60%). NVDA ~$239.97 (+0.45%); AMD ~$654.39 (+3.58%); MU ~$1,065.67 (+0.16%); MSFT ~$531.63 (+1.23%); NKE ~$34.34 (+1.13%); AVGO ~$379.41 (+4.66%); MRVL ~$288.72 (+6.44%); CEG ~$304.95 (+13.95%); VST ~$160.96 (+11.09% on DOE loan commitment); PTC ~$193.12 (+0.45%); OPCH ~$31.10 (+33.08%); MCK ~$920.61 (+0.56%); KKR ~$90.53 (+0.63%); STX ~$804.25 (-9.34%); WDC ~$410.20 (-7.12%). VIX 15.09; 10-y 5.269%; 30-y 5.639%; WTI ~$89.35 (-0.09%). ES ~7,880.50 (+0.69%); NQ ~31,530.50 (+0.68%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "AFTERNOON Tue · S&P 7,825.69 (+0.67%) · Dow 51,507.46 (+0.47%) · Nasdaq 27,642.85 (+0.60%) · NVDA ~$239.97 (+0.45%) · AMD ~$654.39 (+3.58%) · MU ~$1,065.67 (+0.16%) · MSFT ~$531.63 (+1.23%) · AVGO ~$379.41 (+4.66%) · MRVL ~$288.72 (+6.44%) · CEG ~$304.95 (+13.95%) · VST ~$160.96 (+11.09%) · STX ~$804.25 (-9.34%) · WDC ~$410.20 (-7.12%) · OPCH ~$31.10 (+33.08%) · VIX 15.09 · 10-y 5.269% · 30-y 5.639% · WTI ~$89.35 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~2:56-2:58 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~2:46 PM; VIX and yields ~2:41 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~2:58 PM ET Late Afternoon No. 252. S&P 7,829.20 (+0.71%); Dow 51,553.81 (+0.56%); Nasdaq 27,650.46 (+0.63%). NVDA ~$240.40 (+0.63%); AMD ~$654.28 (+3.57%); MU ~$1,057.91 (-0.57%); MSFT ~$530.52 (+1.02%); NKE ~$34.38 (+1.22%); AVGO ~$378.84 (+4.50%); MRVL ~$286.88 (+5.76%); CEG ~$299.70 (+11.99%); VST ~$160.01 (+10.44%); PTC ~$193.04 (+0.41%); OPCH ~$31.05 (+32.86%); MCK ~$928.44 (+1.42%); KKR ~$91.16 (+1.33%); STX ~$806.29 (-9.11%); WDC ~$411.06 (-6.92%). VIX 15.04; 10-y 5.271%; 30-y 5.639%; WTI ~$89.62 (+0.21%). ES ~7,879.25 (+0.68%); NQ ~31,513.25 (+0.62%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "LATE AFTERNOON Tue · S&P 7,829.20 (+0.71%) · Dow 51,553.81 (+0.56%) · Nasdaq 27,650.46 (+0.63%) · NVDA ~$240.40 (+0.63%) · AMD ~$654.28 (+3.57%) · MU ~$1,057.91 (-0.57%) · MSFT ~$530.52 (+1.02%) · AVGO ~$378.84 (+4.50%) · MRVL ~$286.88 (+5.76%) · CEG ~$299.70 (+11.99%) · VST ~$160.01 (+10.44%) · STX ~$806.29 (-9.11%) · WDC ~$411.06 (-6.92%) · OPCH ~$31.05 (+32.86%) · VIX 15.04 · 10-y 5.271% · 30-y 5.639% · WTI ~$89.62 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Afternoon Tue: stocks hold most of their gains, Marvell extends its investor-day rally, and Washington backs another nuclear uprate bet with up to $4.2 billion for Vistra.",
-    "body": "Afternoon No. 251 after Early Afternoon No. 250. Tape from Yahoo ~1:59 PM ET: S&P 7,825.69 (+0.67%), Dow 51,507.46 (+0.47%), Nasdaq 27,642.85 (+0.60%); 10-y 5.269%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: the Energy Department's conditional loan commitment of up to $4.2 billion for uprates at Vistra's Pennsylvania and Ohio reactors, with VST up about 11% (DOE, Utility Dive, CNBC). Owner: Quill."
+    "hed": "Late Afternoon Tue: the S&P heads toward a record close, OpenAI shows how it is training agents on Ironclad's contracting software, and Korea's Elice Group prices its AI IPO at the top.",
+    "body": "Late Afternoon No. 252 after Afternoon No. 251. Tape from Yahoo ~2:58 PM ET: S&P 7,829.20 (+0.71%), Dow 51,553.81 (+0.56%), Nasdaq 27,650.46 (+0.63%); 10-y 5.271%. Reuters at about 2:45 PM ET said the S&P and Nasdaq were on track for record closing highs. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: OpenAI's Ironclad research partnership, with GPT-6 Astra at 55.0% vs 41.6% for GPT-5.6 Sol on 11 contracting tasks (OpenAI); Elice Group's KOSDAQ IPO priced at 90,500 won, about 1 trillion won market value (Seoul Economic Daily). Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 251 Afternoon Tue after No. 250 Early Afternoon. Schneider-PTC is MAJOR lead. Watch: Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 252 Late Afternoon Tue after No. 251 Afternoon. Schneider-PTC is MAJOR lead. Watch: whether the S&P and Nasdaq lock in record closes; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,49 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "openai-ironclad-astra",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Enterprise agents",
+      "hed": "OpenAI makes Ironclad its first software partner for training agents on real business workflows; GPT-6 Astra scores 55% on contracting tasks versus 41.6% for GPT-5.6 Sol",
+      "dek": "OpenAI post (Oct 6, 2026): Ironclad helped define 11 legal, commercial and procurement tasks and hosted practice environments for reinforcement learning. Astra's mean rubric score was 55.0% vs 41.6% for Sol, with estimated time per attempt down from 37.0 to 19.2 minutes; an internal model hit 63.7%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 252 Late Afternoon Tue after No. 251 Afternoon). NOT MAJOR. This is a new template for how frontier labs get at enterprise know-how: application vendors supply the workflows, grading rubrics and sandboxed product environments, and the lab trains its agents on them. For software investors it cuts both ways, since a partner's domain expertise becomes training data for a general agent. Watch: which software companies OpenAI names next, whether Ironclad customers see the gains in product, and whether Anthropic or Google run similar vendor programs. Owner Quill.",
+      "grafs": [
+        "OpenAI said it is partnering directly with a small number of software companies to turn high-value professional workflows into research problems for training and evaluating its models, and named Ironclad, the AI contracting company, as its first partner.",
+        "Ironclad employees and Ironclad users inside OpenAI helped identify 11 tasks across legal, commercial and procurement work, such as setting up nondisclosure agreements, building procurement approval processes and updating a reusable clause by jurisdiction. OpenAI estimated each takes an experienced user about 30 to 40 minutes and graded them against 8 to 50 criteria; Ironclad also provided hosted product environments where models practiced, and OpenAI used reinforcement learning on synthetic tasks built around those workflows.",
+        "On OpenAI's research evaluation, GPT-6 Astra (Max reasoning) averaged 55.0% versus 41.6% for GPT-5.6 Sol (High reasoning), and estimated average time per attempt fell from 37.0 minutes to 19.2 minutes. OpenAI said an internal model used in developing Astra reached 63.7% and that it aims to bring those gains to future models."
+      ]
+    },
+    {
+      "id": "elice-kosdaq-ipo-1t-won",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI IPOs",
+      "hed": "Korean AI cloud company Elice Group prices its KOSDAQ IPO at the top of the range, valuing it at about 1 trillion won",
+      "dek": "Seoul Economic Daily (Oct 6, 2026): offer price 90,500 won vs a 70,400 to 90,500 won range; market cap about 1.0054 trillion won (about $700 million) on 11.1 million shares; raises 201.1 billion won. 97.8% of institutional orders were at or above the top. Retail subscriptions Oct 7-8, listing late October. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Seoul Economic Daily; Chosun Biz",
+      "url": "https://en.sedaily.com/news/2026/10/06/elice-group-prices-kosdaq-ipo-at-top-of-range-valued-at-1",
+      "also": [
+        {
+          "label": "Chosun Biz: Elice prices KOSDAQ IPO at top",
+          "url": "https://biz.chosun.com/en/en-finance/2026/10/06/OIJJBTI6NFG6HLZWYLZXV5M2GE/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 252 Late Afternoon Tue). NOT MAJOR. A small but clean read on public appetite for AI infrastructure outside the U.S. and China: institutions crowded the top of the range and the deal is the first KOSDAQ listing above 1 trillion won in about 10 months. Proceeds go to regional AI data centers and next-generation GPU infrastructure. Watch: retail subscription demand Oct 7-8 and the late-October debut. Owner Quill.",
+      "grafs": [
+        "Elice Group, which describes itself as an AI full-stack company, set its KOSDAQ offering price at 90,500 won, the top of its indicated 70,400 to 90,500 won range, after institutional book-building from Sept. 23 to Oct. 1, Seoul Economic Daily reported. Mirae Asset Securities and Samsung Securities are underwriters.",
+        "Based on 11,109,799 shares outstanding after listing, the price implies a market value of about 1.0054 trillion won, roughly $700 million, and the offering raises 201.1 billion won. Orders totaled 647,998,700 shares, with 97.8% priced at or above the top of the range.",
+        "The company said it will use the proceeds to expand AI infrastructure at regional hubs and build infrastructure for next-generation GPUs. Retail subscriptions run Oct. 7 and 8 ahead of a late-October debut, which would make it the first KOSDAQ listing valued above 1 trillion won since Livsmed last December."
+      ]
+    },
     {
       "id": "vistra-doe-42b-uprates",
       "lead": false,
