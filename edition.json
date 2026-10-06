@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 256,
+  "number": 257,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Late Evening",
+  "editionLabel": "Night",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; PENG after-hours ~6:51 PM ET; ES/NQ/WTI futures ~6:42 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close unless noted.",
-    "updated": "Oct 6 ~6:55 PM ET Late Evening No. 256. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.74. ES ~7,880.00; NQ ~31,487.75 (6:42 PM ET). SoftBank Tokyo Oct 6 close 6,295 (-3.11%). PENG $64.21 close (+5.77%), ~$68.00 after hours.",
-    "line": "LATE EVENING Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.74 · PENG $64.21 (+5.77%), ~$68.00 AH · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; PENG and BKH after hours ~7:40-7:48 PM ET; ES/NQ/WTI futures ~7:38 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close unless noted.",
+    "updated": "Oct 6 ~7:50 PM ET Night No. 257. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.97. ES ~7,881.25; NQ ~31,490.75 (7:38 PM ET). SoftBank Tokyo Oct 6 close 6,295 (-3.11%). PENG $64.21 close (+5.77%), ~$67.67 after hours. BKH $70.74 close (+0.37%), ~$73.95 after hours.",
+    "line": "NIGHT Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.97 · PENG $64.21 (+5.77%), ~$67.67 AH · BKH $70.74, ~$73.95 AH · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Late evening Tue: Penguin Solutions names former Edgio and Atmel finance chief Stephen Cumming as CFO alongside its guide raise, and ex-Ramp engineers land $25 million for Melius, an AI creative-agents platform.",
-    "body": "Late Evening No. 256 after Evening No. 255. Index closes unchanged (S&P 7,818.93 record, Nasdaq 27,599.79 record); futures and WTI refreshed at about 6:42 PM ET, PENG ~$68.00 after hours. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Penguin Solutions CFO appointment (Business Wire via StockTitan, 4:06 PM ET); Melius $25 million total funding with a $20 million CRV-led Series A (TechCrunch, 3:34 PM PT). Owner: Quill."
+    "hed": "Night Tue: Black Hills signs through-2048 agreements to power Google's planned Cheyenne, Wyoming data center, with $1.8 billion of new gas generation and Google carrying the cost of service.",
+    "body": "Night No. 257 after Late Evening No. 256. Index closes unchanged (S&P 7,818.93 record, Nasdaq 27,599.79 record); futures and WTI refreshed at about 7:38 PM ET, PENG ~$67.67 and BKH ~$73.95 after hours. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Black Hills-Google Cheyenne power agreements (GlobeNewswire, 4:10 PM ET; 8-K). Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 256 Late Evening Tue after No. 255 Evening. Schneider-PTC is MAJOR lead. Watch: Cumming's first guide commentary at Penguin; Melius customer and revenue disclosures; Lambda round close and IPO timing; PENG follow-through Wednesday and call color on neocloud demand; whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 257 Night Tue after No. 256 Late Evening. Schneider-PTC is MAJOR lead. Watch: Black Hills Wyoming regulatory steps and gas-build financing; Cumming's first guide commentary at Penguin; Melius customer and revenue disclosures; Lambda round close and IPO timing; PENG follow-through Wednesday and call color on neocloud demand; whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,30 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "black-hills-google-cheyenne-18b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI Power / Utilities",
+      "hed": "Black Hills signs through-2048 deals to power Google's planned Cheyenne data center and will spend $1.8 billion on new gas generation",
+      "dek": "Black Hills Corp. (GlobeNewswire, Oct 6, 2026, 4:10 PM ET): up to 590 MW of grid service plus management of about 2.1 GW of third-party Wyoming resources through a private microgrid; Google bears the costs. BKH ~$73.95 after hours vs $70.74 close. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Black Hills Corp. via GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/10/06/3376007/0/en/black-hills-corp-executes-definitive-agreements-to-serve-google-s-planned-data-center-in-cheyenne-wyoming.html",
+      "also": [
+        "https://www.stocktitan.net/sec-filings/BKH/8-k-black-hills-corp-sd-reports-material-event-7983a7110f0f.html",
+        "https://www.investing.com/news/stock-market-news/black-hills-stock-surges-5-on-18b-google-data-center-deal-4935314"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 257 Night Tue after No. 256 Late Evening). NOT MAJOR. Another hyperscaler-funded power build, following Google-Constellation and the Vistra DOE loan: a regulated utility earns a return on $1.8 billion of gas capex while Google pays the full cost of service and fronts $399 million for long-lead equipment. Watch: Wyoming regulatory steps, financing of the non-regulated affiliate, and whether other utilities copy the private-microgrid tariff. Owner Quill.",
+      "grafs": [
+        "Black Hills Corp. said it signed definitive agreements, effective Sept. 30, 2026 and running through 2048, to serve a planned Google data center in Cheyenne, Wyoming. The package includes a Large Power Contract Services Agreement and a Generation Facilities Agreement.",
+        "The project is expected to be served by a total resource mix of 2.7 GW including reserve margins, beginning energy service in late 2027 and ramping to peak load in 2030. Black Hills will provide up to 590 MW of grid-connected service and manage roughly 2.1 GW of Wyoming third-party contracted resources through a privately managed microgrid under its Large Power Contract Service tariff.",
+        "Black Hills plans to invest $1.8 billion between 2027 and 2029 to build 564 MW of company-owned natural gas generation through a non-regulated affiliate, according to its 8-K. It expects about $150 million of net income from the project in 2030 and about $2.4 billion of unlevered free cash flow through 2048, net of the generation capex.",
+        "The company said Google bears all costs of serving the data center, with no shifting to existing retail customers, and that Google provided $399 million in refundable advances for long lead-time equipment that Black Hills expects to reimburse by June 30, 2027.",
+        "BKH closed at $70.74 (+0.37%) and traded near $73.95 after hours at about 7:40 PM ET, per Yahoo Finance; Investing.com reported a roughly 5% after-hours gain."
+      ]
+    },
     {
       "id": "penguin-cumming-cfo",
       "lead": false,
