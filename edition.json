@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 254,
+  "number": 255,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "After the Bell",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; ES/NQ/WTI futures ~4:42 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~4:55 PM ET After the Bell No. 254. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.99 (+0.63%). ES ~7,877.25 (+0.65%); NQ ~31,494.00 (+0.56%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "AFTER THE BELL Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.99 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; PENG after-hours ~5:51 PM ET; ES/NQ/WTI futures ~5:00 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close unless noted.",
+    "updated": "Oct 6 ~5:53 PM ET Evening No. 255. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.91. ES ~7,880.50; NQ ~31,501.00 (5 PM ET). SoftBank Tokyo Oct 6 close 6,295 (-3.11%). PENG $64.21 close (+5.77%), ~$67.45 after hours.",
+    "line": "EVENING Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.91 · PENG $64.21 (+5.77%), ~$67.45 AH · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "After the Bell Tue: the S&P 500 sets its first record close since August and the Nasdaq notches a second straight record, while Anthropic widens access to its most cyber-capable Claude models for vetted security teams.",
-    "body": "After the Bell No. 254 after Closing Bell No. 253. Official closes from Yahoo: S&P 7,818.93 (+0.58%), Dow 51,521.28 (+0.49%), Nasdaq 27,599.79 (+0.45%); 10-y 5.269%. Kiplinger says the S&P close is a new all-time high and its fourth straight gain. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: S&P record close (Kiplinger); Anthropic's revamped three-tier Cyber Verification Program (Reuters, 3:02 PM ET), with Glasswing partners reporting at least 129,000 verified vulnerabilities between April and July. Owner: Quill."
+    "hed": "Evening Tue: Lambda lines up as much as $4 billion from Coatue and Blackstone before a 2027 IPO, and Penguin Solutions guides well above Street after a 68% sales jump, the night before Applied Digital reports.",
+    "body": "Evening No. 255 after After the Bell No. 254. Index closes unchanged from No. 254 (S&P 7,818.93 record, Nasdaq 27,599.79 record). MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Lambda's up-to-$4 billion round at a $14.5 billion pre-money valuation (TechCrunch citing WSJ), with backlog at $50 billion; Penguin Solutions fiscal Q4 sales $567 million (+68%) and FY27 guide near $2.43 billion (Business Wire), PENG ~$67.45 after hours. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 254 After the Bell Tue after No. 253 Closing Bell. Schneider-PTC is MAJOR lead. Watch: whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 255 Evening Tue after No. 254 After the Bell. Schneider-PTC is MAJOR lead. Watch: Lambda round close and IPO timing; PENG follow-through Wednesday and call color on neocloud demand; whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,46 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "lambda-4b-14-5b-pre-ipo",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / AI Infrastructure",
+      "hed": "Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, led by Coatue and Blackstone, ahead of a planned 2027 IPO",
+      "dek": "TechCrunch (Oct 6, 2026, 1:00 PM PT), citing The Wall Street Journal: Lambda's backlog grew from $15 billion in June to $50 billion in September, much of it from a $35 billion Anthropic commitment signed in late August. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "TechCrunch (citing The Wall Street Journal)",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 255 Evening Tue after No. 254 After the Bell). NOT MAJOR. Blackstone co-leading a pre-IPO equity round for a neocloud is a clean PE-meets-AI-compute story, and the backlog math shows how much of the valuation rests on one lab's ability to keep paying. Pairs with Lambda's $1 billion debt raise last week and the Nscale IPO filing. Watch: final round size and close, IPO timing, and any disclosure of customer concentration. Owner Quill.",
+      "grafs": [
+        "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation in what could be its last private round before a planned 2027 IPO, TechCrunch reported, citing The Wall Street Journal. Coatue Management and Blackstone are leading the round.",
+        "A letter to investors reviewed by the Journal shows Lambda's backlog grew from $15 billion in June to $50 billion in September, TechCrunch said, with much of the increase appearing to come from a $35 billion commitment by Anthropic, which signed a deal with Lambda in late August.",
+        "TechCrunch noted that Lambda raised an additional $1 billion of debt last week and that lenders are getting choosier about neocloud financing. Lambda, Coatue and Blackstone did not immediately respond to TechCrunch's request for comment."
+      ]
+    },
+    {
+      "id": "penguin-q4-fy26-guide-raise",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Earnings",
+      "hed": "Penguin Solutions posts record quarter with sales up 68% and lifts its fiscal 2027 outlook to about $2.43 billion on AI data center demand",
+      "dek": "Penguin Solutions (Business Wire, Oct 6, 2026, 4:05 PM ET): fiscal Q4 net sales $567 million (+68%), non-GAAP EPS $1.00 vs $0.43; FY27 guide about $2.43 billion in sales and $4.45 non-GAAP EPS at the midpoint. PENG ~$67.45 after hours vs $64.21 close. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Penguin Solutions via Business Wire (FinancialContent)",
+      "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-6-penguin-solutions-announces-fourth-quarter-and-full-year-fiscal-2026-results",
+      "also": [
+        "https://www.chartmill.com/news/PENG/Chartmill-55847-Penguin-Solutions-NASDAQPENG-Posts-Q4-Beat-and-Raises-FY2027-Guidance-Above-Consensus"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 255 Evening Tue after No. 254 After the Bell). NOT MAJOR. A small-cap read on neocloud and enterprise AI buildouts the night before Applied Digital reports, and a guide well above consensus (ChartMill: about $2.23 billion sales and $3.42 EPS). Watch: call commentary on neocloud customer concentration, memory pricing, and whether the after-hours gain holds Wednesday. Owner Quill.",
+      "grafs": [
+        "Penguin Solutions, which calls itself the AI Factory Platform Company, reported record fiscal fourth-quarter net sales of $567 million, up 68% from a year earlier, for the quarter ended August 28, 2026. Non-GAAP diluted EPS was $1.00 versus $0.43 a year ago, and adjusted EBITDA was a record $93 million, up 115%.",
+        "\"Our company performance accelerated significantly in the second half of fiscal 2026 following the launch of our AI Factory Platform and increased focus on the data center market,\" CEO Kash Shaikh said in the release. He said growth accelerated to 48% in Q3 and 68% in Q4 after relatively flat first-half sales.",
+        "ChartMill reported fiscal 2027 guidance of about $2.43 billion in net sales at the midpoint and $4.45 in non-GAAP diluted EPS, versus consensus of roughly $2.23 billion and $3.42. PENG closed at $64.21 (+5.77%) and traded near $67.45 after hours at about 5:51 PM ET, per Yahoo Finance."
+      ]
+    },
     {
       "id": "anthropic-cvp-three-tiers",
       "lead": false,
