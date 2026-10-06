@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 249,
+  "number": 250,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Early Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (~11:54 AM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~11:44 AM; VIX and yields ~11:39 AM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~11:54 AM ET Midday No. 249. S&P 7,840.14 (+0.85%); Dow 51,613.37 (+0.67%); Nasdaq 27,701.41 (+0.82%). NVDA ~$241.40 (+1.05%); AMD ~$656.05 (+3.85%); MU ~$1,066.06 (+0.20%); MSFT ~$532.48 (+1.39%); NKE ~$34.31 (+1.02%); AVGO ~$378.62 (+4.44%); MRVL ~$290.78 (+7.20%); CEG ~$304.90 (+13.93% on Google nuclear deal); PTC ~$193.21 (+0.49%); OPCH ~$31.05 (+32.8%); MCK ~$919.87 (+0.48%); KKR ~$91.36 (+1.56%). VIX 15.29; 10-y 5.264%; 30-y 5.633%; WTI ~$88.74 (-0.77%). ES ~7,893.00 (+0.85%); NQ ~31,585.50 (+0.85%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "MIDDAY Tue · S&P 7,840.14 (+0.85%) · Dow 51,613.37 (+0.67%) · Nasdaq 27,701.41 (+0.82%) · NVDA ~$241.40 (+1.05%) · AMD ~$656.05 (+3.85%) · MU ~$1,066.06 (+0.20%) · MSFT ~$532.48 (+1.39%) · AVGO ~$378.62 (+4.44%) · MRVL ~$290.78 (+7.20%) · CEG ~$304.90 (+13.93%) · PTC ~$193.21 (+0.49%) · OPCH ~$31.05 (+32.8%) · VIX 15.29 · 10-y 5.264% · 30-y 5.633% · WTI ~$88.74 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~1:01 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~12:51 PM; VIX and yields ~12:46 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~1:01 PM ET Early Afternoon No. 250. S&P 7,828.65 (+0.70%); Dow 51,540.85 (+0.53%); Nasdaq 27,651.83 (+0.64%). NVDA ~$240.60 (+0.71%); AMD ~$655.85 (+3.81%); MU ~$1,064.82 (+0.08%); MSFT ~$532.67 (+1.43%); NKE ~$34.35 (+1.13%); AVGO ~$377.64 (+4.17%); MRVL ~$281.48 (+3.77%); CEG ~$308.16 (+15.15% on Google nuclear deal); PTC ~$193.22 (+0.50%); OPCH ~$31.10 (+33.08%); MCK ~$916.19 (+0.08%); KKR ~$90.82 (+0.96%); STX ~$806.62 (-9.07%); WDC ~$409.16 (-7.35%). VIX 15.03; 10-y 5.273%; 30-y 5.638%; WTI ~$89.46 (+0.03%). ES ~7,882.00 (+0.71%); NQ ~31,532.75 (+0.69%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "EARLY AFTERNOON Tue · S&P 7,828.65 (+0.70%) · Dow 51,540.85 (+0.53%) · Nasdaq 27,651.83 (+0.64%) · NVDA ~$240.60 (+0.71%) · AMD ~$655.85 (+3.81%) · MU ~$1,064.82 (+0.08%) · MSFT ~$532.67 (+1.43%) · AVGO ~$377.64 (+4.17%) · MRVL ~$281.48 (+3.77%) · CEG ~$308.16 (+15.15%) · STX ~$806.62 (-9.07%) · WDC ~$409.16 (-7.35%) · OPCH ~$31.10 (+33.08%) · VIX 15.03 · 10-y 5.273% · 30-y 5.638% · WTI ~$89.46 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Midday Tue: the S&P extends its record run, Mistral unveils a trillion-parameter model, and Bain and GIC weigh a $3.2 billion WHI exit.",
-    "body": "Midday No. 249 after Late Morning No. 248. Tape from Yahoo ~11:54 AM ET: S&P 7,840.14 (+0.85%), Dow 51,613.37 (+0.67%), Nasdaq 27,701.41 (+0.82%); 10-y 5.264%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Mistral releases Mistral Large 4, a 1-trillion-parameter model behind a guarded endpoint with open weights promised in about three weeks (TechCrunch); Bain Capital and GIC explore an IPO or sale of Japan's WHI Holdings at a valuation of at least $3.2 billion (Reuters via Investing.com). Owners: Quill x2."
+    "hed": "Early afternoon Tue: the S&P gives back a little of its record run, hard-drive makers slide on Toshiba supply fears, and Etched fields offers at up to $50 billion.",
+    "body": "Early Afternoon No. 250 after Midday No. 249. Tape from Yahoo ~1:01 PM ET: S&P 7,828.65 (+0.70%), Dow 51,540.85 (+0.53%), Nasdaq 27,651.83 (+0.64%); 10-y 5.273%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Seagate and Western Digital fall again as a Bloomberg report on a Seagate-Toshiba contest for TDK's HDD head unit adds to Toshiba capacity fears (TipRanks, 24/7 Wall St.); Etched reviews funding bids at $40 billion to $50 billion, two months after a $21 billion round (TechCrunch). Owners: Quill x2."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 249 Midday Tue after No. 248 Late Morning. Schneider-PTC is MAJOR lead. Watch: whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 250 Early Afternoon Tue after No. 249 Midday. Schneider-PTC is MAJOR lead. Watch: TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,53 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "stx-wdc-toshiba-tdk",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI storage",
+      "hed": "Seagate and Western Digital slide again as Toshiba's drive expansion and a TDK head-unit bidding contest rattle AI storage names",
+      "dek": "TipRanks (Oct 6, 2026) and 24/7 Wall St. (11:52 AM ET): a Bloomberg report that Seagate and Toshiba are competing for TDK's HDD magnetic-head business adds to Friday's worry that Toshiba will nearly double HDD capacity by fiscal 2027. Yahoo ~1:01 PM ET: STX ~$806.62 (-9.07%), WDC ~$409.16 (-7.35%), MU ~flat. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "TipRanks; 24/7 Wall St.; Yahoo Finance",
+      "url": "https://www.tipranks.com/news/western-digital-and-seagate-stocks-are-falling-again-what-spooked-investors-and-what-wall-street-sees-next",
+      "also": [
+        {
+          "label": "24/7 Wall St.: WDC sinks 6%, Seagate drops 8%",
+          "url": "https://247wallst.com/investing/2026/10/06/western-digital-sinks-6-as-toshibas-drive-expansion-hits-the-group-seagate-drops-8-micron-holds-flat/"
+        },
+        {
+          "label": "Motley Fool: midday market recap",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-midday-oct-6-s-and-p-500-sets-new-high-nuclear-stocks-surge/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 250 Early Afternoon Tue after No. 249 Midday). NOT MAJOR. The first real supply scare for the AI storage trade: hard-drive makers fall hard on a record S&P day while Micron holds flat, so the market is pricing added drive capacity, not weaker AI demand. TDK supplies heads to all three HDD makers, so whoever wins its unit changes the supply chain for the other two. Watch: TDK decision, Toshiba capacity timeline, and whether the selloff spreads to memory. Owner Quill.",
+      "grafs": [
+        "Shares of Seagate Technology and Western Digital fell sharply again on Tuesday after both suffered steep losses on Friday, TipRanks reported. Investors reacted to a Bloomberg report that Seagate and Toshiba are competing to acquire TDK's magnetic-head operation, a key hard-disk-drive supplier. Toshiba entered talks with TDK in the spring and Seagate later submitted a higher offer over the summer, according to the report as relayed by TipRanks and 24/7 Wall St.",
+        "The worry began Friday, when reports said Toshiba plans to nearly double its HDD production capacity by fiscal 2027 to serve AI infrastructure, raising fears that tight drive pricing could ease. TDK said Tuesday that no decision on its HDD-head operation has been made. TDK supplies heads to Seagate, Toshiba and Western Digital, so a change in ownership touches all three.",
+        "At about 1:01 PM ET, Yahoo Finance showed Seagate near $806.62 (-9.07%) and Western Digital near $409.16 (-7.35%), while Micron was roughly flat. 24/7 Wall St. noted Western Digital was up 141% year to date before the drop, and skeptics argue new drive capacity takes years to arrive and does not relieve the current shortage."
+      ]
+    },
+    {
+      "id": "etched-40-50b-offers",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Chips",
+      "hed": "Etched fields funding offers valuing the AI inference-chip startup at $40 billion to $50 billion, two months after a $21 billion round",
+      "dek": "TechCrunch (Oct 5, 2026, 1:24 PM PT, sources): bids range from $40B from top-tier investors to $50B from lesser-known backers; talks are early and Etched declined to comment. Jane Street led the prior $700M round and is a customer. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 5-6, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 250 Early Afternoon Tue). NOT MAJOR. Missed in Monday evening scans. A near doubling of a private Nvidia challenger's valuation in about two months is a clean read on how hot inference-chip capital is, with a quant trading firm as lead investor and customer. Watch: who leads, final valuation, and whether the $1B order book grows. Owner Quill.",
+      "grafs": [
+        "AI chip startup Etched is reviewing incoming funding bids that range from $40 billion from top-tier investors to $50 billion from lesser-known backers, TechCrunch reported Monday, citing a person familiar with the company. The talks are early and terms may change. Etched declined to comment.",
+        "The offers come only a couple of months after Etched raised $700 million at a $21 billion valuation in a round led by quant trading firm Jane Street, which is also a customer that took delivery of an early system. Etched raised $300 million at a $10.3 billion valuation led by Sequoia in July, and said it had secured $1 billion in customer orders.",
+        "Etched builds full AI hardware systems on its own inference chips, which it claims process more tokens faster and at lower cost than Nvidia's. The source told TechCrunch that raising as much as its last round could give Etched as much as 3.5 years of runway."
+      ]
+    },
     {
       "id": "mistral-large-4-1t",
       "lead": false,
