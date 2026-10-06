@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 253,
+  "number": 254,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Closing Bell",
+  "editionLabel": "After the Bell",
   "tape": {
-    "source": "Yahoo Finance chart API (~3:52 PM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~3:42 PM; VIX ~3:37 PM; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~3:52 PM ET Closing Bell No. 253. S&P 7,821.48 (+0.61%); Dow 51,520.55 (+0.49%); Nasdaq 27,616.92 (+0.51%). NVDA ~$239.30 (+0.17%); AMD ~$650.33 (+2.94%); MU ~$1,047.48 (-1.55%); MSFT ~$530.62 (+1.04%); NKE ~$34.43 (+1.38%); AVGO ~$376.76 (+3.93%); MRVL ~$287.26 (+5.90%); CEG ~$300.73 (+12.37%); VST ~$160.42 (+10.72%); PTC ~$193.01 (+0.39%); OPCH ~$31.01 (+32.67%); MCK ~$921.55 (+0.67%); KKR ~$90.83 (+0.97%); STX ~$804.85 (-9.27%); WDC ~$410.27 (-7.10%). VIX 15.06; 10-y 5.269%; 30-y 5.641%; WTI ~$89.76 (+0.37%). ES ~7,877.25 (+0.65%); NQ ~31,503.75 (+0.59%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "CLOSING BELL Tue · S&P 7,821.48 (+0.61%) · Dow 51,520.55 (+0.49%) · Nasdaq 27,616.92 (+0.51%) · NVDA ~$239.30 (+0.17%) · AMD ~$650.33 (+2.94%) · MU ~$1,047.48 (-1.55%) · MSFT ~$530.62 (+1.04%) · AVGO ~$376.76 (+3.93%) · MRVL ~$287.26 (+5.90%) · CEG ~$300.73 (+12.37%) · VST ~$160.42 (+10.72%) · STX ~$804.85 (-9.27%) · WDC ~$410.27 (-7.10%) · OPCH ~$31.01 (+32.67%) · VIX 15.06 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.76 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; ES/NQ/WTI futures ~4:42 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~4:55 PM ET After the Bell No. 254. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.99 (+0.63%). ES ~7,877.25 (+0.65%); NQ ~31,494.00 (+0.56%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "AFTER THE BELL Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.99 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Closing Bell Tue: the S&P gives back a little into the close but holds a gain of about 0.6%, SAP buys skills-graph startup TechWolf to ground its HR agents, and Amsterdam's Hadrian raises $40 million for AI penetration testing.",
-    "body": "Closing Bell No. 253 after Late Afternoon No. 252. Tape from Yahoo ~3:52 PM ET: S&P 7,821.48 (+0.61%), Dow 51,520.55 (+0.49%), Nasdaq 27,616.92 (+0.51%); 10-y 5.269%. Reuters at about 3:45 PM ET still had the S&P and Nasdaq poised for all-time closing highs, with LSEG analysts expecting Q3 S&P earnings growth of 30.6%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: SAP to acquire TechWolf, terms undisclosed, close expected Q4 (SAP); Hadrian $40M led by Forgepoint Capital International and Smartfin, $65M total (SiliconANGLE). Owner: Quill."
+    "hed": "After the Bell Tue: the S&P 500 sets its first record close since August and the Nasdaq notches a second straight record, while Anthropic widens access to its most cyber-capable Claude models for vetted security teams.",
+    "body": "After the Bell No. 254 after Closing Bell No. 253. Official closes from Yahoo: S&P 7,818.93 (+0.58%), Dow 51,521.28 (+0.49%), Nasdaq 27,599.79 (+0.45%); 10-y 5.269%. Kiplinger says the S&P close is a new all-time high and its fourth straight gain. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: S&P record close (Kiplinger); Anthropic's revamped three-tier Cyber Verification Program (Reuters, 3:02 PM ET), with Glasswing partners reporting at least 129,000 verified vulnerabilities between April and July. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 253 Closing Bell Tue after No. 252 Late Afternoon. Schneider-PTC is MAJOR lead. Watch: whether the S&P and Nasdaq settle at record closes; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; whether the S&P closes at a record above its mid-August high; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 254 After the Bell Tue after No. 253 Closing Bell. Schneider-PTC is MAJOR lead. Watch: whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,44 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "anthropic-cvp-three-tiers",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Cybersecurity",
+      "hed": "Anthropic widens access to its most cyber-capable Claude models with a three-tier program for vetted security teams",
+      "dek": "Reuters (Oct 6, 2026, 3:02 PM ET): Anthropic's revamped Cyber Verification Program merges Glasswing and the original CVP, giving Defense, Red Team and Specialized tiers access to Opus 5.5, Sonnet 5.5 and Mythos 5.1 with fewer safeguards. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Anthropic+opens+its+most+powerful+AI+models+to+more+security+teams/27155036.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 254 After the Bell Tue after No. 253 Closing Bell). NOT MAJOR. A frontier lab formalizing reduced-safeguard access for defenders, vetted with the US government, on the same day Hadrian raised $40 million for AI penetration testing. The Glasswing vulnerability counts give Quill a concrete number for the AI-in-security story. Watch: which organizations land in the Specialized tier, whether OpenAI or Google answer with similar programs, and read-through to AI pentest startups. Owner Quill.",
+      "grafs": [
+        "Anthropic is expanding a program that lets vetted cybersecurity professionals test its most powerful AI models with fewer safeguards, Reuters reported, after its Project Glasswing initiative helped uncover more than 100,000 software vulnerabilities this year.",
+        "Reuters said Glasswing partners found at least 129,000 verified vulnerabilities between April and July, and Anthropic's own open-source scanning found 5,500 more between April and October; more than 33,000 have been rated critical or high severity. Anthropic said the figures are likely an undercount and expects the true impact to be at least five times higher.",
+        "The revamped Cyber Verification Program combines Glasswing, which gave organizations securing critical software access to Claude Mythos, with the original CVP, which gave vetted security teams reduced safeguards on Claude Opus and Sonnet. It has Defense, Red Team and Specialized tiers, all with access to Claude Opus 5.5, Sonnet 5.5, Mythos 5.1 and future models. The Specialized tier, reserved for a small group authorized to test systems such as power grids, flight systems and interbank transfer infrastructure, is vetted together with the US government, and existing Glasswing members will move into it."
+      ]
+    },
+    {
+      "id": "sp500-record-close-oct6",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Close",
+      "hed": "S&P 500 sets its first record close since August as yields ease; Nasdaq records a second straight peak",
+      "dek": "Kiplinger (Oct 6, 2026): S&P 500 up 0.6% to 7,819, a new all-time closing high and a fourth straight gain; Nasdaq up 0.5% to 27,599, also a record; Dow up 0.5% to 51,521. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/stocks/s-and-p-joins-nasdaq-in-all-time-high-territory-stock-market-today",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 254 After the Bell Tue after No. 253 Closing Bell). NOT MAJOR. The S&P is back at records even with the 10-year near its highest since 2002, a stocks-and-yields-up-together setup worth framing ahead of earnings season next week. Watch: FOMC minutes Wed Oct 7 2pm ET, whether Nvidia crosses a $6 trillion market value, and Q3 earnings. Owner Quill.",
+      "grafs": [
+        "The S&P 500 rose 0.6% to 7,819 on Tuesday, a new all-time closing high and its first since August, extending its winning streak to four sessions, Kiplinger reported. The Nasdaq Composite rose 0.5% to 27,599, a record for the second straight session, and the Dow added 0.5% to 51,521, still about 6% below its own high.",
+        "Kiplinger tied the gains to easing selling pressure in the global bond market: the 10-year Treasury yield fell 2.7 basis points to 5.284% and the 2-year fell 3.3 basis points to 4.798% in its read. WTI crude was up 0.4% to $89.80 a barrel after closing above $100 as recently as September 18.",
+        "Kiplinger said Nvidia (+0.1%) was on the verge of a $6 trillion market value and, citing Dow Jones Market Data, that the Magnificent 7 topped a combined $25 trillion for the first time. Constellation Energy (+12.3%) was among the top S&P performers after its Google nuclear power deal."
+      ]
+    },
     {
       "id": "sap-techwolf-skills-graph",
       "lead": false,
