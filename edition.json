@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 247,
+  "number": 248,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Open",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (~9:59 AM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~9:49 AM; VIX and yields ~9:44 AM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
-    "updated": "Oct 6 ~9:59 AM ET Open No. 247. S&P 7,826.64 (+0.68%); Dow 51,608.06 (+0.66%); Nasdaq 27,673.17 (+0.71%). NVDA ~$242.60 (+1.55%); AMD ~$643.18 (+1.81%); MU ~$1,066.67 (+0.25%); MSFT ~$533.59 (+1.60%); NKE ~$33.94 (-0.07%); AVGO ~$371.80 (+2.56%); PTC ~$192.96 (+0.36%); OPCH ~$31.05 (+32.9% on $32.05 CD&R/McKesson deal); MCK ~$921.69 (+0.68%); KKR ~$90.85 (+0.99%). VIX 15.40; 10-y 5.290%; 30-y 5.663%; WTI ~$87.75 (-1.88%). ES ~7,870.50 (+0.57%); NQ ~31,523.25 (+0.66%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
-    "line": "OPEN Tue · S&P 7,826.64 (+0.68%) · Dow 51,608.06 (+0.66%) · Nasdaq 27,673.17 (+0.71%) · NVDA ~$242.60 (+1.55%) · AMD ~$643.18 (+1.81%) · MU ~$1,066.67 (+0.25%) · MSFT ~$533.59 (+1.60%) · NKE ~$33.94 (-0.07%) · AVGO ~$371.80 (+2.56%) · PTC ~$192.96 (+0.36%) · OPCH ~$31.05 (+32.9%) · MCK ~$921.69 (+0.68%) · VIX 15.40 · 10-y 5.290% · 30-y 5.663% · WTI ~$87.75 · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (~10:57 AM ET Tue cash session for indexes and stocks; ES/NQ/WTI futures ~10:47 AM; VIX and yields ~10:42 AM; SoftBank Tokyo Oct 6 close). Changes vs Mon close.",
+    "updated": "Oct 6 ~10:57 AM ET Late Morning No. 248. S&P 7,831.46 (+0.74%); Dow 51,540.16 (+0.53%); Nasdaq 27,697.45 (+0.80%). NVDA ~$242.23 (+1.39%); AMD ~$654.16 (+3.55%); MU ~$1,069.16 (+0.49%); MSFT ~$534.20 (+1.72%); NKE ~$34.41 (+1.33%); AVGO ~$377.50 (+4.13%); MRVL ~$290.26 (+7.01%); CEG ~$301.23 (+12.56% on Google nuclear deal); PTC ~$193.03 (+0.40%); OPCH ~$31.01 (+32.7%); MCK ~$917.61 (+0.24%); KKR ~$91.17 (+1.34%). VIX 15.37; 10-y 5.282%; 30-y 5.653%; WTI ~$87.98 (-1.62%). ES ~7,880.75 (+0.70%); NQ ~31,559.25 (+0.77%). SoftBank Tokyo Oct 6 close 6,295 (-3.11%).",
+    "line": "LATE MORNING Tue · S&P 7,831.46 (+0.74%) · Dow 51,540.16 (+0.53%) · Nasdaq 27,697.45 (+0.80%) · NVDA ~$242.23 (+1.39%) · AMD ~$654.16 (+3.55%) · MU ~$1,069.16 (+0.49%) · MSFT ~$534.20 (+1.72%) · AVGO ~$377.50 (+4.13%) · MRVL ~$290.26 (+7.01%) · CEG ~$301.23 (+12.56%) · PTC ~$193.03 (+0.40%) · OPCH ~$31.01 (+32.7%) · VIX 15.37 · 10-y 5.282% · 30-y 5.653% · WTI ~$87.98 · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
-    "hed": "Open Tue: stocks climb toward a record, BDT & MSD buys Sunrise, and private-markets plumbing changes hands again.",
+    "hed": "Late Morning Tue: the S&P holds a record, Marvell and Constellation surge, and CVC calls its Recordati bid final.",
     "signed": "Scout",
-    "body": "Open No. 247 after Morning No. 246. Tape from Yahoo ~9:59 AM ET: S&P 7,826.64 (+0.68%), Dow 51,608.06 (+0.66%), Nasdaq 27,673.17 (+0.71%); 10-y 5.290%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: BDT & MSD buys a majority of Sunrise Senior Living from PSP (company release; WSJ says more than $1B); Alto buys Forge Trust from Schwab (Alto release); Blackstone, Bain and Warburg prepare final bids for Fuji Media's Sankei Building unit at about 1 trillion yen (Reuters). Owners: Quill x3."
+    "body": "Late Morning No. 248 after Open No. 247. Tape from Yahoo ~10:57 AM ET: S&P 7,831.46 (+0.74%), Dow 51,540.16 (+0.53%), Nasdaq 27,697.45 (+0.80%); 10-y 5.282%. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Marvell investor day targets about $20B FY28 revenue (Investing.com); Google funds 890 MW of Constellation nuclear uprates plus a 2,700 MW supply deal (Constellation release); CVC and GBL lift Recordati to 53 euros, best and final (Reuters); AMD's Su says supply rises substantially in 2027 (Reuters). Owners: Quill x4."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 247 Open Tue after No. 246 Morning. Schneider-PTC is MAJOR lead. Watch: whether the S&P closes above its mid-August record; OPCH spread to $32.05 and proxy terms; KKR-Gen II regulatory path; Sankei Building final bids by end-October; DeepSeek round valuation; Moonshot early-look meetings; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Pinterest Q3 with Dibbo from Oct 26; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 248 Late Morning Tue after No. 247 Open. Schneider-PTC is MAJOR lead. Watch: whether the S&P closes above its mid-August record; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05 and proxy terms; KKR-Gen II regulatory path; Sankei Building final bids by end-October; DeepSeek round valuation; Moonshot early-look meetings; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Pinterest Q3 with Dibbo from Oct 26; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,110 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "marvell-investor-day-20b",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / AI silicon",
+      "hed": "Marvell jumps about 7% after an investor day targeting roughly $20 billion of fiscal 2028 revenue, well above Street forecasts",
+      "dek": "Investing.com (Oct 6, 2026, 9:55 AM ET): CEO Matt Murphy laid out a $400 billion addressable market by 2030 and targets of about $20 billion revenue in FY28 and $70 billion to $90 billion by FY31, versus consensus of $18.2 billion for FY28. Yahoo had MRVL ~$290.26 (+7.0%) at 10:57 AM ET. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/marvell-technology-stock-rallies-following-ambitious-investor-day-targets-4934767",
+      "also": [
+        {
+          "label": "Investing.com: why Marvell is surging",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-surging-today-93CH-4934827"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 248 Late Morning Tue after No. 247 Open). NOT MAJOR. Custom AI silicon is the clearest read on hyperscaler capex beyond Nvidia, and a long-range target this far above consensus resets the bar for the group into earnings. Follows plated mrvl-fq2. Watch: analyst target changes, the FY28 bridge, and whether Broadcom and other custom-chip names re-rate. Owner Quill.",
+      "grafs": [
+        "Marvell Technology shares reversed an early 3% dip during its investor day and rose as much as 10%, according to Investing.com, after management set long-term revenue targets well above Wall Street's view.",
+        "CEO Matt Murphy said Marvell sees a $400 billion total addressable market by 2030. The company projected about $20 billion of revenue in fiscal 2028, rising to $70 billion to $90 billion by fiscal 2031. Analysts had forecast $12.05 billion for fiscal 2027 and $18.2 billion for fiscal 2028, from a fiscal 2026 base of $8.2 billion.",
+        "CFO Dan Durn said the AI infrastructure buildout is continuing at massive scale and speed, supporting long-term demand for Marvell's custom compute and networking chips."
+      ]
+    },
+    {
+      "id": "google-constellation-890mw",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Power for data centers",
+      "hed": "Google signs a 20-year deal with Constellation to fund 890 MW of nuclear uprates, plus a 15-year supply deal for 2,700 MW in PJM",
+      "dek": "Constellation release (Oct 6, 2026): Constellation will invest more than $4.3 billion at 11 nuclear units in Illinois, Pennsylvania and New Jersey, with the first uprate due by 2028. Constellation also picked Google Cloud and Gemini Enterprise in an expanded five-year technology deal. Yahoo had CEG ~$301.23 (+12.6%) at 10:57 AM ET. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Constellation Energy",
+      "url": "https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html",
+      "also": [
+        {
+          "label": "CNBC: 3.6 GW power deal",
+          "url": "https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html"
+        },
+        {
+          "label": "Google blog: backing existing nuclear plants",
+          "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 248 Late Morning Tue). NOT MAJOR. A hyperscaler paying to add capacity on existing reactors, rather than waiting on new builds, is a template answer to PJM's push for big loads to bring their own power. Strong AI-power and utility-valuation angle. Watch: whether other hyperscalers copy the uprate model, PJM's response, and CEG guidance. Owner Quill.",
+      "grafs": [
+        "Google and Constellation Energy announced a 20-year power purchase agreement that will fund upgrades at 11 Constellation nuclear units in Illinois, Pennsylvania and New Jersey, adding 890 megawatts of new capacity to the PJM grid. Constellation said the work represents more than $4.3 billion of new investment, with the first uprate expected by 2028.",
+        "The companies also signed a 15-year energy supply agreement for an additional 2,700 MW of Constellation's PJM fleet. The release says the deal includes load-shaping and demand-response terms to curtail non-critical consumption during grid stress, and frames it as a response to PJM's Bring Your Own Power proposal.",
+        "Separately, Constellation chose Google Cloud and Gemini Enterprise under an expanded five-year technology alliance to build AI workflows for site selection, interconnection planning, plant optimization and operational-technology security."
+      ]
+    },
+    {
+      "id": "recordati-cvc-gbl-53-final",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE / Take-private",
+      "hed": "CVC and GBL raise their Recordati take-private bid to 53 euros a share, call it best and final, and extend the offer to Oct. 23",
+      "dek": "Reuters via Euronext (Oct 6, 2026): the bid through Respighi BidCo rises from 51.29 euros; including the 0.71-euro 2025 dividend, consideration is 53.71 euros. As of Oct. 5, holders of 49.79% of Recordati had tendered; CVC already owns 46.8%. Payment Nov. 2. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/cvc-gbl-sweeten-bid-italian-drugmaker-recordati",
+      "also": [
+        {
+          "label": "Il Sole 24 Ore: bid raised to 53 euros",
+          "url": "https://en.ilsole24ore.com/art/cvc-and-gbl-raise-their-bid-for-recordati-to-53-euros-per-share-AJbA2caB"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 248 Late Morning Tue). NOT MAJOR. Follows plated palliser-recordati: the activist pushed for at least 60 euros and got a bump, but well short of that. A clean case study in sponsor-versus-activist take-private tactics in Europe. Watch: Palliser's response, final tender level by Oct. 23, and delisting. Owner Quill.",
+      "grafs": [
+        "CVC Capital Partners and Groupe Bruxelles Lambert raised their takeover offer for Italian drugmaker Recordati to 53 euros a share from 51.29 euros and said it is their best and final price, Reuters reported. Including the 0.71-euro 2025 dividend already paid, the revised consideration is 53.71 euros a share.",
+        "The acceptance period, which began Aug. 31 and was due to end Oct. 15, now runs to Oct. 23, with payment on Nov. 2. As of Oct. 5, shareholders representing 49.79% of Recordati's capital had tendered. CVC already owns a 46.8% stake.",
+        "The move comes three weeks after activist Palliser Capital argued the original offer undervalued the company and said the consortium should pay at least 60 euros a share. The all-cash bid aims to delist Recordati from Milan."
+      ]
+    },
+    {
+      "id": "amd-supply-2027",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Chip supply",
+      "hed": "AMD's Lisa Su says the company will 'substantially increase' chip supply in 2027 and needs more advanced wafer capacity",
+      "dek": "Reuters via Euronext (Oct 6, 2026, Taipei): Su said AMD raised supply through 2026 and will substantially increase it in 2027, met Foxconn, is due to meet TSMC, and is working with memory makers ahead of a South Korea visit. Yahoo had AMD ~$654.16 (+3.6%) at 10:57 AM ET. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/amd-plans-substantially-increase-supply-2027-ceo-says",
+      "also": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1005397/amd-intends-to-substantially-increase-its-chip-supply-next-year"
+        },
+        {
+          "label": "Focus Taiwan",
+          "url": "https://focustaiwan.tw/business/202610060011"
+        }
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 248 Late Morning Tue). NOT MAJOR. Supply, not demand, is the gating factor for AI chip revenue, so a CEO saying AMD is planning three to five years out and needs more leading-edge wafers is a capex signal for TSMC and memory. Pairs with marvell-investor-day-20b. Watch: TSMC Texas plans and AMD's Q3 guide. Owner Quill.",
+      "grafs": [
+        "AMD plans to substantially increase chip supply in 2027 to meet AI demand, CEO Lisa Su told reporters in Taipei on Tuesday, according to Reuters. \"We've been able to increase our supply as we've gone through 2026, and we're going to substantially increase our supply in 2027,\" she said.",
+        "Su said she has met Foxconn and is due to meet TSMC, and that AMD is working closely with memory chipmakers ahead of a visit to South Korea. She did not directly answer whether TSMC had discussed a Texas investment with AMD, but said the company needs more advanced wafer capacity and is now planning three to five years ahead.",
+        "\"There's very, very high demand for the next several years,\" Su said."
+      ]
+    },
     {
       "id": "bdt-msd-sunrise-senior",
       "lead": false,
