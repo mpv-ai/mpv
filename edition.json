@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 255,
+  "number": 256,
   "city": "New York",
   "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; PENG after-hours ~5:51 PM ET; ES/NQ/WTI futures ~5:00 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close unless noted.",
-    "updated": "Oct 6 ~5:53 PM ET Evening No. 255. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.91. ES ~7,880.50; NQ ~31,501.00 (5 PM ET). SoftBank Tokyo Oct 6 close 6,295 (-3.11%). PENG $64.21 close (+5.77%), ~$67.45 after hours.",
-    "line": "EVENING Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.91 · PENG $64.21 (+5.77%), ~$67.45 AH · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; PENG after-hours ~6:51 PM ET; ES/NQ/WTI futures ~6:42 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close unless noted.",
+    "updated": "Oct 6 ~6:55 PM ET Late Evening No. 256. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.74. ES ~7,880.00; NQ ~31,487.75 (6:42 PM ET). SoftBank Tokyo Oct 6 close 6,295 (-3.11%). PENG $64.21 close (+5.77%), ~$68.00 after hours.",
+    "line": "LATE EVENING Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.74 · PENG $64.21 (+5.77%), ~$68.00 AH · SoftBank Tokyo 6,295 (-3.11%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Evening Tue: Lambda lines up as much as $4 billion from Coatue and Blackstone before a 2027 IPO, and Penguin Solutions guides well above Street after a 68% sales jump, the night before Applied Digital reports.",
-    "body": "Evening No. 255 after After the Bell No. 254. Index closes unchanged from No. 254 (S&P 7,818.93 record, Nasdaq 27,599.79 record). MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Lambda's up-to-$4 billion round at a $14.5 billion pre-money valuation (TechCrunch citing WSJ), with backlog at $50 billion; Penguin Solutions fiscal Q4 sales $567 million (+68%) and FY27 guide near $2.43 billion (Business Wire), PENG ~$67.45 after hours. Owner: Quill."
+    "hed": "Late evening Tue: Penguin Solutions names former Edgio and Atmel finance chief Stephen Cumming as CFO alongside its guide raise, and ex-Ramp engineers land $25 million for Melius, an AI creative-agents platform.",
+    "body": "Late Evening No. 256 after Evening No. 255. Index closes unchanged (S&P 7,818.93 record, Nasdaq 27,599.79 record); futures and WTI refreshed at about 6:42 PM ET, PENG ~$68.00 after hours. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Penguin Solutions CFO appointment (Business Wire via StockTitan, 4:06 PM ET); Melius $25 million total funding with a $20 million CRV-led Series A (TechCrunch, 3:34 PM PT). Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 255 Evening Tue after No. 254 After the Bell. Schneider-PTC is MAJOR lead. Watch: Lambda round close and IPO timing; PENG follow-through Wednesday and call color on neocloud demand; whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 256 Late Evening Tue after No. 255 Evening. Schneider-PTC is MAJOR lead. Watch: Cumming's first guide commentary at Penguin; Melius customer and revenue disclosures; Lambda round close and IPO timing; PENG follow-through Wednesday and call color on neocloud demand; whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,48 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "penguin-cumming-cfo",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Appointments",
+      "hed": "Penguin Solutions names Stephen Cumming, former finance chief at Edgio, Cambium and Atmel, as CFO as it raises its fiscal 2027 outlook",
+      "dek": "Penguin Solutions (Business Wire, Oct 6, 2026, 4:06 PM ET): Cumming is SVP and CFO effective immediately; interim CFO Aaron Johnson, in the seat since July 2026, returns to VP of finance and accounting. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Penguin Solutions via Business Wire (StockTitan)",
+      "url": "https://www.stocktitan.net/news/PENG/penguin-solutions-appoints-stephen-cumming-as-senior-vice-president-65oesq70wyzp.html",
+      "also": [
+        "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-6-penguin-solutions-announces-fourth-quarter-and-full-year-fiscal-2026-results"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 256 Late Evening Tue after No. 255 Evening). NOT MAJOR. A CFO-beat companion to the Penguin earnings story: a serial public-company CFO with an IPO (Cambium, 2019) and semiconductor background joins as the company pitches operating leverage on AI data center demand. Watch: whether Cumming reframes the FY27 guide, capital allocation, and customer-concentration disclosure. Owner Quill.",
+      "grafs": [
+        "Penguin Solutions, which calls itself the AI Factory Platform Company, appointed Stephen Cumming as senior vice president and chief financial officer, effective immediately, in a release issued alongside its fourth-quarter and fiscal 2026 results.",
+        "Cumming most recently served as CFO of Edgio. He was earlier CFO of Cambium Networks, which he led through its 2019 IPO, CFO of cloud software company Kenandy, and CFO of Atmel, after senior finance roles at Fairchild Semiconductor and National Semiconductor, according to the release.",
+        "\"We enter fiscal 2027 with strong AI-driven momentum, meaningful operating leverage, and a clear strategy to scale our AI Factory Platform business,\" CEO Kash Shaikh said. Aaron Johnson, interim CFO since July 2026, returns to his role as vice president of finance and accounting. PENG traded near $68.00 after hours at about 6:51 PM ET versus a $64.21 close, per Yahoo Finance."
+      ]
+    },
+    {
+      "id": "melius-25m-crv-series-a",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Venture",
+      "hed": "Ex-Ramp engineers raise $25 million for Melius, an AI agents platform for ad campaigns, images and video, after scrapping their first product",
+      "dek": "TechCrunch (Oct 6, 2026, 3:34 PM PT): $20 million Series A led by CRV plus a $5 million seed led by General Catalyst; Melius says it passed $1 million in annualized revenue within two months of leaving stealth in July. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "also": [
+        "https://www.globenewswire.com/news-release/2026/10/06/3375572/0/en/melius-raises-25-million-for-the-first-agents-lab-for-creative-work.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 256 Late Evening Tue after No. 255 Evening). NOT MAJOR. A clean pivot story in a crowded AI creative category where Higgsfield was valued at $5.4 billion in August, and a read on how early-stage investors are pricing agent platforms with fast but small revenue. Watch: customer counts, revenue durability, and whether incumbents in ad tech respond. Owner Quill.",
+      "grafs": [
+        "Melius, a New York-based AI platform for generating ad campaigns, images and videos, said it has raised $25 million in total, including a $20 million Series A led by CRV and a $5 million seed round led by General Catalyst, TechCrunch reported. Genius Ventures, Vine Ventures and Anti Fund also participated, per the company's release.",
+        "The three co-founders, Joowon Kim, Young Kim and Arnav Ramu, met as engineers at Ramp. They first built an AI performance marketing tool, then decided it didn't \"have legs.\" \"We scrapped the entire codebase; we burned all of it,\" Joowon Kim told TechCrunch.",
+        "Melius relaunched as what it calls an \"agents lab for creative work\" and says it topped $1 million in annualized revenue within two months of coming out of stealth in July. TechCrunch named Higgsfield, valued at $5.4 billion in August with more than $700 million in annualized revenue, plus Krea and Flora AI as competitors."
+      ]
+    },
     {
       "id": "lambda-4b-14-5b-pre-ipo",
       "lead": false,
