@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 265,
+  "number": 266,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Near Close",
+  "editionLabel": "After the Bell",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~3:55 PM ET; ES/NQ/WTI/Brent futures ~3:45 PM ET; 10-y and 30-y yields ~3:00 PM ET). Changes vs Tue Oct 6 close.",
-    "updated": "Oct 7 ~3:55 PM ET Near Close No. 265. Stocks head into the bell with small losses and the Dow lagging as long yields hold near 2002 highs: S&P 7,803.15 (-0.20%); Dow 51,174.23 (-0.67%); Nasdaq 27,543.80 (-0.20%). ES ~7,852.00; NQ ~31,389.75; WTI ~$89.03; Brent ~$101.03. 10-y 5.277%; 30-y 5.661%. NVDA ~$237.91 (-0.56%); AMD ~$647.83 (-0.24%); MSFT ~$529.54 (+0.05%); GOOGL ~$350.62 (+0.85%); MU ~$1,086.34 (+3.90%); CAT ~$813.11 (-5.83%); APO ~$115.50 (-0.39%); HUBS ~$220.40 (+1.52%); PENG ~$72.52 (+12.94%); BKH ~$76.28 (+7.83%); APLD ~$23.86 (-5.84%); IREN ~$38.76 (-6.10%); CORZ ~$15.90 (-4.68%).",
-    "line": "NEAR CLOSE Wed ~3:55 PM · S&P 7,803.15 (-0.20%) · Dow 51,174.23 (-0.67%) · Nasdaq 27,543.80 (-0.20%) · ES ~7,852.00 · NQ ~31,389.75 · WTI ~$89.03 · Brent ~$101.03 · 10-y 5.277% · 30-y 5.661% · NVDA ~$237.91 (-0.56%) · AMD ~$647.83 (-0.24%) · MSFT ~$529.54 (+0.05%) · GOOGL ~$350.62 (+0.85%) · MU ~$1,086.34 (+3.90%) · CAT ~$813.11 (-5.83%) · APO ~$115.50 (-0.39%) · HUBS ~$220.40 (+1.52%) · PENG ~$72.52 (+12.94%) · BKH ~$76.28 (+7.83%) · APLD ~$23.86 (-5.84%) · IREN ~$38.76 (-6.10%) · CORZ ~$15.90 (-4.68%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: index and stock closing prints ~4:00-4:20 PM ET; ES/NQ/WTI/Brent futures ~4:43 PM ET; 10-y and 30-y yields ~3:00 PM ET). Changes vs Tue Oct 6 close. Reuters preliminary close: S&P 7,801.15, Dow 51,165.37, Nasdaq 27,533.39.",
+    "updated": "Oct 7 ~4:50 PM ET After the Bell No. 266. Stocks close lower from records as long yields climb, with the Dow lagging: S&P 7,801.77 (-0.22%); Dow 51,179.87 (-0.66%); Nasdaq 27,538.69 (-0.22%). ES ~7,850.25; NQ ~31,388.50; WTI ~$89.03; Brent ~$101.07. 10-y 5.277%; 30-y 5.661%. NVDA $237.47 (-0.74%); AMD $645.86 (-0.55%); MSFT $529.76 (+0.09%); GOOGL $350.50 (+0.81%); MU $1,088.00 (+4.06%); CAT $813.83 (-5.75%); APO $115.55 (-0.34%); HUBS $220.27 (+1.46%); PENG $72.61 (+13.08%); BKH $75.84 (+7.21%); APLD $23.81 (-6.04%, before results); IREN $38.69 (-6.27%); CORZ $15.94 (-4.44%).",
+    "line": "CLOSE Wed · S&P 7,801.77 (-0.22%) · Dow 51,179.87 (-0.66%) · Nasdaq 27,538.69 (-0.22%) · ES ~7,850.25 · NQ ~31,388.50 · WTI ~$89.03 · Brent ~$101.07 · 10-y 5.277% · 30-y 5.661% · NVDA $237.47 (-0.74%) · AMD $645.86 (-0.55%) · MSFT $529.76 (+0.09%) · GOOGL $350.50 (+0.81%) · MU $1,088.00 (+4.06%) · CAT $813.83 (-5.75%) · APO $115.55 (-0.34%) · HUBS $220.27 (+1.46%) · PENG $72.61 (+13.08%) · BKH $75.84 (+7.21%) · APLD $23.81 (-6.04%) · IREN $38.69 (-6.27%) · CORZ $15.94 (-4.44%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Near Close Wed: GPT-6 reaches every ChatGPT user with an interactive interface, and Elliott shops Gigamon at $2 billion plus.",
-    "body": "Near Close No. 265 after Mid-Afternoon No. 264. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: OpenAI brings GPT-6 Sol and Luna into ChatGPT with Intelligent UI (charts, forms and tools inside answers), free tiers Thursday; Elliott and Siris explore a Gigamon sale above $2 billion (Reuters, about $170 million EBITDA); Google opens the SynthID detector globally with OpenAI, NVIDIA and Kakao watermarks, Apple next. The S&P is off about 0.2% and the Dow 0.7% into the close; the 10-year sits near 5.28%. Owner: Quill."
+    "hed": "After the Bell Wed: stocks slip from records on long yields, Applied Digital's revenue quadruples with a $221 million loss, and Sequoia leads Mecka's robot-data round.",
+    "body": "After the Bell No. 266 after Near Close No. 265. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Wall Street closes lower (Reuters preliminary S&P -0.23%, Dow -0.69%, Nasdaq -0.24%) as long yields climb, with October hike odds under 20%; Applied Digital fiscal Q1 revenue $341.9 million (+322%), net loss to common from continuing operations $221.0 million, about $36 billion of base-term contracted leases and $6.4 billion of debt; Mecka AI raises $60 million led by Sequoia with Nvidia and Qualcomm. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 265 Near Close Wed after No. 264 Mid-Afternoon. SpaceX-Apollo chip financing is MAJOR lead. Watch: GPT-6 Luna free-tier rollout Thursday and Intelligent UI uptake in Business and Enterprise; Gigamon bidder field and price vs $2 billion; SynthID Apple support and enterprise detection API use; Applied Digital FQ1 FY27 results tonight and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 266 After the Bell Wed after No. 265 Near Close. SpaceX-Apollo chip financing is MAJOR lead. Watch: Mecka valuation and robotics-lab customers; GPT-6 Luna free-tier rollout Thursday and Intelligent UI uptake in Business and Enterprise; Gigamon bidder field and price vs $2 billion; SynthID Apple support and enterprise detection API use; Applied Digital call commentary, after-hours reaction and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,67 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "wall-st-close-lower-oct7",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Close",
+      "hed": "Stocks close lower from records as long yields climb; the Dow drops about 0.7% and Caterpillar leads S&P losers",
+      "dek": "Reuters via The Economic Times (Oct 7, 2026, preliminary): S&P 500 -0.23% to 7,801.15, Nasdaq -0.24% to 27,533.39, Dow -0.69% to 51,165.37. Stocks pared losses after the IEA agreed to speed oil-stock releases; FedWatch odds of an October hike fell below 20%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Reuters via The Economic Times; AP",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-off-record-highs-as-treasury-yields-climb/articleshow/134774342.cms",
+      "also": [
+        "https://apnews.com/article/wall-street-stocks-dow-nasdaq-00ad8ec13f0265ac3c41a0d9d7fdb265"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 266 After the Bell Wed after No. 265 Near Close). NOT MAJOR. Closes the loop on the open-lower story: the S&P and Nasdaq snapped winning streaks a day after record closes, with long Treasury yields doing the damage and rate-sensitive housing and industrials hit hardest. Useful for Quill as the day's market wrap and the setup for Q3 earnings season, where LSEG sees about 30.6% S&P earnings growth. Watch: Thursday's 30-year auction, October FOMC hike odds, Brent around $100, and the bank earnings that start next week. Owner Quill.",
+      "grafs": [
+        "Wall Street closed lower on Wednesday as long-dated Treasury yields resumed their climb, reviving fears about inflation and mounting debt the day after the S&P 500 and the Nasdaq hit record closing highs, Reuters reported. According to preliminary data, the S&P 500 lost 17.78 points, or 0.23%, to 7,801.15, the Nasdaq Composite lost 66.50 points, or 0.24%, to 27,533.39, and the Dow fell 355.91 points, or 0.69%, to 51,165.37.",
+        "Stocks pared losses after crude turned lower following the International Energy Agency's agreement to speed up the release of oil stocks, prioritizing diesel, Reuters said. Minutes of the Fed's September meeting showed divisions over the rationale for its first hike since July 2023, and CME FedWatch priced less than a 20% chance of a second straight hike in October, down from 37.6% a week earlier.",
+        "Housing and homebuilder stocks fell 2.3% and 2.9%, chip stocks ended lower, and SpaceX shares retreated after reports it is seeking $40 billion of financing for Nvidia chips, according to Reuters. Caterpillar, Mohawk Industries and EMCOR were among the biggest S&P 500 decliners. Analysts expect third-quarter S&P 500 earnings growth of 30.6%, per LSEG."
+      ]
+    },
+    {
+      "id": "apld-fq1-fy27-results",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI Infrastructure / Earnings",
+      "hed": "Applied Digital's revenue more than quadruples to $341.9 million, but a $221 million loss shows the cost of building AI factories",
+      "dek": "Applied Digital release (Oct 7, 2026, 4:27 PM ET), fiscal Q1 ended Aug. 31: revenue up 322%, adjusted EBITDA $64.4 million, about 1.41 GW leased representing about $36 billion of base-term contracted revenue, $6.4 billion of debt. Call 5 PM ET. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Applied Digital (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/07/3376854/0/en/applied-digital-reports-fiscal-first-quarter-2027-results.html",
+      "also": [
+        "https://ir.applieddigital.com/news-events/ir-calendar/detail/20261007-q1-2027-earnings-call"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 266 After the Bell Wed after No. 265 Near Close). NOT MAJOR. Follows the Finland selloff story: the shares fell about 6% today before the print. The numbers show the AI landlord model at scale, with base rent still small ($65.8 million) next to tenant fit-out revenue ($183.5 million), interest expense up nearly tenfold to $77.4 million, and $2.07 billion of quarterly capex funded by debt and preferred stock. A clean case study for CFO and private-credit readers on how AI data-center leases get financed. Watch: the 5 PM ET call, after-hours reaction, the Polaris Forge 2 ramp to 300 MW by year end, Finland customer talks, and Base Electron power. Owner Quill.",
+      "grafs": [
+        "Applied Digital reported fiscal first-quarter revenue of $341.9 million, up 322% from a year earlier, and a net loss from continuing operations attributable to common stockholders of $221.0 million, or $0.76 a share, for the quarter ended Aug. 31, the company said after Wednesday's close. Excluding its majority-owned ChronoScale unit, adjusted revenue was $300.4 million, adjusted net loss $4.1 million and adjusted EBITDA $64.4 million.",
+        "The HPC hosting business brought in $262.6 million, including $65.8 million of base rent, $183.5 million of tenant fit-out services and $13.3 million of tenant recoveries. The company said it has leases for about 1.41 GW of critical IT load across five campuses, representing about $36 billion of contracted revenue over initial base terms, or about $86 billion if all renewals are exercised. Polaris Forge 1 reached 250 MW live on Oct. 1, and the company expects 300 MW across North Dakota by the end of calendar 2026.",
+        "Interest expense rose to $77.4 million from $8.0 million, and the company spent about $2.07 billion on property and equipment in the quarter. It ended August with $3.7 billion of cash, equivalents and restricted cash and $6.4 billion of debt. Chief executive Wes Cummins said the company is focused on \"securing durable, high-quality, long-term contracts with proven, tier-one, investment grade hyperscalers.\""
+      ]
+    },
+    {
+      "id": "mecka-ai-60m-series-b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Physical AI / Venture",
+      "hed": "Mecka AI raises a $60 million Series B led by Sequoia, with Nvidia and Qualcomm in, to sell first-person video for training robots",
+      "dek": "BetaKit, confirming a Bloomberg report (Oct 7, 2026): Toronto- and New York-based Mecka's round is led by Sequoia, with Nvidia, Qualcomm and Microsoft's M12 participating. TechCrunch earlier reported a valuation of about $500 million for the raise. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "BetaKit, citing Bloomberg",
+      "url": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 266 After the Bell Wed after No. 265 Near Close). NOT MAJOR. Robot training data cannot be scraped from the internet, and this round shows chip makers paying to secure the supply. It is a second $60 million raise in a matter of months for a two-year-old company. Watch: confirmed valuation, which robotics labs buy the data, and whether data-collection start-ups become a distinct venture category. Owner Quill.",
+      "grafs": [
+        "Mecka AI, a two-year-old startup based in Toronto and New York City, has raised a $60 million Series B round led by Sequoia Capital, BetaKit reported on Wednesday. Bloomberg first reported the financing and said Nvidia, Qualcomm and Microsoft's M12 also participated; Mecka confirmed the round to BetaKit by email.",
+        "Mecka aims to build \"the data and deployment layer\" for physical AI, collecting first-person video from body sensors and iPhones in homes, kitchens, chemistry labs, metal fabrication and leather shops, and turning it into training data for frontier robotics labs and Big Tech firms, BetaKit said.",
+        "TechCrunch reported last month that Mecka was raising a Sequoia-led round at a valuation of about $500 million. The new money follows $60 million of Series A financing across a $25 million round last November and a $35 million extension that closed over the summer, plus the acquisition of Vancouver startup Docula."
       ]
     },
     {
