@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 267,
+  "number": 268,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Late Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: index and stock closing prints ~4:00-4:20 PM ET; ES/NQ/WTI/Brent futures ~5:00 PM ET; WOLF, APLD and PENG extended-hours prints ~5:55 PM ET; 10-y and 30-y yields ~3:00 PM ET). Changes vs Tue Oct 6 close. Reuters preliminary close: S&P 7,801.15, Dow 51,165.37, Nasdaq 27,533.39.",
-    "updated": "Oct 7 ~5:58 PM ET Evening No. 267. Stocks closed lower from records as long yields climbed: S&P 7,801.77 (-0.22%); Dow 51,179.87 (-0.66%); Nasdaq 27,538.69 (-0.22%). ES ~7,850.25; NQ ~31,403.75; WTI ~$88.94; Brent ~$100.95. 10-y 5.277%; 30-y 5.661%. After hours: WOLF ~$38.49 (+22.7% vs $31.37 close) on a $1.5 billion Pentagon loan commitment; APLD ~$24.79 (+4.1% vs $23.81 close) after results; PENG ~$72.73. Closes: NVDA $237.47 (-0.74%); AMD $645.86 (-0.55%); MSFT $529.76 (+0.09%); GOOGL $350.50 (+0.81%); MU $1,088.00 (+4.06%); CAT $813.83 (-5.75%); APO $115.55 (-0.34%); HUBS $220.27 (+1.46%); PENG $72.61 (+13.08%); BKH $75.84 (+7.21%); WOLF $31.37 (-1.45%); APLD $23.81 (-6.04%); IREN $38.69 (-6.27%); CORZ $15.94 (-4.44%).",
-    "line": "CLOSE Wed · S&P 7,801.77 (-0.22%) · Dow 51,179.87 (-0.66%) · Nasdaq 27,538.69 (-0.22%) · ES ~7,850.25 · NQ ~31,403.75 · WTI ~$88.94 · Brent ~$100.95 · 10-y 5.277% · 30-y 5.661% · AH WOLF ~$38.49 (+22.7%) · AH APLD ~$24.79 (+4.1%) · NVDA $237.47 (-0.74%) · AMD $645.86 (-0.55%) · MSFT $529.76 (+0.09%) · GOOGL $350.50 (+0.81%) · MU $1,088.00 (+4.06%) · CAT $813.83 (-5.75%) · APO $115.55 (-0.34%) · HUBS $220.27 (+1.46%) · PENG $72.61 (+13.08%) · BKH $75.84 (+7.21%) · IREN $38.69 (-6.27%) · CORZ $15.94 (-4.44%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: index and stock closing prints ~4:00-4:20 PM ET; ES/NQ/WTI ~6:43 PM ET, Brent ~6:35 PM ET; WOLF, APLD, PENG, NVDA, AVGO, ORCL extended-hours prints ~6:47-6:53 PM ET; 10-y and 30-y yields ~3:00 PM ET). Changes vs Tue Oct 6 close. Reuters preliminary close: S&P 7,801.15, Dow 51,165.37, Nasdaq 27,533.39.",
+    "updated": "Oct 7 ~6:55 PM ET Late Evening No. 268. Stocks closed lower from records as long yields climbed: S&P 7,801.77 (-0.22%); Dow 51,179.87 (-0.66%); Nasdaq 27,538.69 (-0.22%). Evening futures: ES ~7,854.25; NQ ~31,441.25; WTI ~$89.04; Brent ~$101.15. 10-y 5.277%; 30-y 5.661%. After hours: WOLF ~$38.32 (+22.2% vs $31.37 close); APLD ~$24.79 (+4.1% vs $23.81); PENG ~$73.12; AVGO ~$376.18 and ORCL ~$143.94 after the WSJ chip-financing report. Closes: NVDA $237.47 (-0.74%); AVGO $376.51 (+0.19%); ORCL $143.56 (-0.84%); AMD $645.86 (-0.55%); MSFT $529.76 (+0.09%); GOOGL $350.50 (+0.81%); MU $1,088.00 (+4.06%); CAT $813.83 (-5.75%); APO $115.55 (-0.34%); BX $111.83 (-1.35%); GS $887.21 (-1.11%); HSBC ADR $93.71 (-3.97%); HUBS $220.27 (+1.46%); PENG $72.61 (+13.08%); BKH $75.84 (+7.21%); WOLF $31.37 (-1.45%); APLD $23.81 (-6.04%); IREN $38.69 (-6.27%); CORZ $15.94 (-4.44%).",
+    "line": "CLOSE Wed · S&P 7,801.77 (-0.22%) · Dow 51,179.87 (-0.66%) · Nasdaq 27,538.69 (-0.22%) · ES ~7,854.25 · NQ ~31,441.25 · WTI ~$89.04 · Brent ~$101.15 · 10-y 5.277% · 30-y 5.661% · AH WOLF ~$38.32 (+22.2%) · AH APLD ~$24.79 (+4.1%) · AVGO $376.51 (+0.19%) · ORCL $143.56 (-0.84%) · NVDA $237.47 (-0.74%) · AMD $645.86 (-0.55%) · MSFT $529.76 (+0.09%) · GOOGL $350.50 (+0.81%) · MU $1,088.00 (+4.06%) · CAT $813.83 (-5.75%) · APO $115.55 (-0.34%) · BX $111.83 (-1.35%) · GS $887.21 (-1.11%) · HSBC $93.71 (-3.97%) · PENG $72.61 (+13.08%) · IREN $38.69 (-6.27%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Evening Wed: Wolfspeed lands a conditional $1.5 billion Pentagon loan with warrants attached, and Applied Digital turns higher after hours on its quadrupled revenue.",
-    "body": "Evening No. 267 after After the Bell No. 266. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Wolfspeed conditional Office of Strategic Capital commitment of up to $1.5 billion over 30 years, $600 million first tranche to refinance 2030 notes, Treasury plus 1.25% to 1.75%, $750 million minimum outside contribution and warrants for up to 7.5% of the company; shares up about 27% in extended trading per Reuters. Tape: Applied Digital about 4% above its close after hours following results. Owner: Quill."
+    "hed": "Late Evening Wed: the WSJ says Broadcom wants more than $50 billion of private debt for OpenAI's chips and Oracle is shopping an off-balance-sheet chip lease, putting private credit at the center of the AI build.",
+    "body": "Late Evening No. 268 after Evening No. 267. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Broadcom Nexus financing for OpenAI above $50 billion with Apollo and Blackstone in early talks, plus Oracle's Apollo-Goldman lease vehicle for a 1-gigawatt site (WSJ via Investing.com); HSBC's planned UK wealth cuts of about half of managers and close to 70% of advisers (FT, Bloomberg); OpenAI's Decisions API public beta at $0.10 per million input tokens; Biohub, DOE, NIH, DeepMind, Isomorphic and Meta's $1.8 billion AI-ready biology data push. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 267 Evening Wed after No. 266 After the Bell. SpaceX-Apollo chip financing is MAJOR lead. Watch: Wolfspeed definitive OSC agreements, convertible equitization and the $750 million raise; Mecka valuation and robotics-lab customers; GPT-6 Luna free-tier rollout Thursday and Intelligent UI uptake in Business and Enterprise; Gigamon bidder field and price vs $2 billion; SynthID Apple support and enterprise detection API use; Applied Digital call commentary, after-hours reaction and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 268 Late Evening Wed after No. 267 Evening. SpaceX-Apollo chip financing is MAJOR lead. Watch: Broadcom Nexus financing size and lenders for OpenAI and Oracle's chip-lease vehicle; HSBC consultation outcome and peer bank AI cuts; Decisions API general availability; Biohub first datasets and access terms; Wolfspeed definitive OSC agreements, convertible equitization and the $750 million raise; Mecka valuation and robotics-lab customers; GPT-6 Luna free-tier rollout Thursday and Intelligent UI uptake in Business and Enterprise; Gigamon bidder field and price vs $2 billion; SynthID Apple support and enterprise detection API use; Applied Digital call commentary, after-hours reaction and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,98 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "broadcom-openai-nexus-50b-oracle-lease",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Credit / AI Chips",
+      "hed": "Broadcom seeks more than $50 billion of private debt for OpenAI's custom chips, and Oracle talks to Apollo and Goldman about an off-balance-sheet chip lease",
+      "dek": "Wall Street Journal (Oct 7, 2026, 5:01 PM ET) via Investing.com: Apollo and Blackstone in early talks on Broadcom's Nexus financing for OpenAI; Oracle negotiating with Apollo and Goldman Sachs on a vehicle that would buy chips for a 1-gigawatt data center and lease them back. Talks early, year-end targets. NOT MAJOR; extends the SpaceX-Apollo lead. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "The Wall Street Journal, via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/broadcom-oracle-and-spacex-pursue-blockbuster-debt-deals-amid-ai-buildout--wsj-4937581",
+      "also": [
+        "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+        "https://rallies.ai/news/oracle-broadcom-and-spacex-reportedly-seek-debt-deals-to-pay-for-ai-chips-14be784fd6adcd90",
+        "https://investors.broadcom.com/news-releases/news-release-details/broadcom-apollo-and-blackstone-establish-landmark-strategic"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 268 Late Evening Wed after No. 267 Evening). NOT MAJOR on its own because it is early-stage talks, but it puts three chip financings side by side (Broadcom for OpenAI above $50 billion, Oracle's lease vehicle, SpaceX at $40 billion) and shows private credit becoming the main funder of AI hardware. The Oracle structure matters for CFOs: an outside vehicle owns the chips and leases them back, keeping the debt off Oracle's balance sheet. Watch: final sizes and pricing, whether Broadcom uses its AI XPV Platform with Apollo and Blackstone again, rating-agency treatment of Oracle's lease, and year-end closes. Owner Quill.",
+      "grafs": [
+        "Broadcom is working to arrange a financing package of more than $50 billion to fund custom AI chips for OpenAI and has held early-stage talks with Apollo Global Management and Blackstone, The Wall Street Journal reported on Wednesday, according to Investing.com. The program, known internally as Nexus, aims to deploy multiple gigawatts of capacity through 2029.",
+        "Oracle is separately negotiating with Apollo and Goldman Sachs on financing hardware for a 1-gigawatt data center, Investing.com said, citing the Journal. Under the proposed structure, private investors would fund an off-balance-sheet entity that buys the chips and leases them back to Oracle. The report also folded in SpaceX's talks on about $40 billion of debt to buy Nvidia processors, and said target deadlines are set for the end of the year.",
+        "The template already exists. In June, Broadcom set up its AI XPV Platform with Apollo and Blackstone as anchor investors, launching with a $35 billion tranche for Anthropic's capacity and describing the platform as designed for more than 20 gigawatts of compute for frontier labs including Anthropic and OpenAI through 2028, according to Broadcom's release. Broadcom closed regular trading at $376.51 and Oracle at $143.56 on Wednesday, per Yahoo Finance."
+      ]
+    },
+    {
+      "id": "hsbc-uk-wealth-ai-cuts",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Banks / AI and Jobs",
+      "hed": "HSBC plans to cut about half of UK wealth management and specialist roles and close to 70% of financial advisers as it leans on AI",
+      "dek": "Financial Times, followed by Bloomberg via The Straits Times (Oct 7, 2026): consultation underway, affected staff expected to leave by the end of October; HSBC did not confirm figures. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Finextra, citing the Financial Times; Bloomberg via The Straits Times",
+      "url": "https://www.finextra.com/newsarticle/48549/hsbc-to-make-deep-wide-and-brutal-uk-wealth-management-job-cuts-in-ai-push",
+      "also": [
+        "https://www.straitstimes.com/business/banking/hsbc-plans-deep-job-cuts-in-uk-wealth-management-business",
+        "https://www.forbes.com/sites/sheilacallaham/2026/10/07/hsbc-to-cut-advisors-even-while-investors-want-human-judgment/",
+        "https://www.thebanker.com/content/c4bc53ae-c0d7-461d-ba8d-d802741fde13"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 268 Late Evening Wed). NOT MAJOR. One of the clearest cases yet of a global bank cutting client-facing advice jobs, not just back office, on the strength of AI. Useful for CFO and wealth-industry coverage on how AI productivity gets turned into headcount. Watch: final numbers after consultation, client attrition, whether peers follow, and how HSBC reports the savings. Owner Quill.",
+      "grafs": [
+        "HSBC is planning to eliminate around half of management and specialist positions in its British wealth division and cut its ranks of financial advisers by nearly 70%, people with knowledge of the matter said, according to Bloomberg as published by The Straits Times. The Financial Times first reported the plans; one source described the cuts to the FT as \"deep, wide and brutal,\" Finextra reported.",
+        "A consultation process is underway and affected staff are expected to leave by the end of October. HSBC told the FT it is \"continuing to evolve to deliver more digitally enabled products and journeys to support our best-in-class wealth service,\" according to Finextra, and has not confirmed the total number of jobs affected.",
+        "The cuts follow chief executive Georges Elhedery's cost and simplification drive since September 2024. The Straits Times noted he has said he personally monitors AI-related spending, including token costs. Forbes pointed out that the bank's own research finds investors still value human judgment. HSBC's U.S.-listed shares closed at $93.71 on Wednesday, down 4.0%, per Yahoo Finance."
+      ]
+    },
+    {
+      "id": "openai-decisions-api-beta",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI Models / Developers",
+      "hed": "OpenAI opens a Decisions API that returns probabilities, choices and scores about 10 times faster, at $0.10 per million input tokens",
+      "dek": "OpenAI developer community announcement and API docs (public beta, logged Oct 6, 2026): runs on GPT-6 Luna at POST /v1/decisions, bills input tokens only; Vercel added it to its AI Gateway. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6–7, 2026",
+      "source": "OpenAI Developer Community; OpenAI API docs; Unite.AI; Vercel",
+      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
+      "also": [
+        "https://developers.openai.com/api/docs/guides/decisions",
+        "https://www.unite.ai/openai-releases-decisions-api-in-public-beta-powered-by-gpt-6-luna/",
+        "https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 268 Late Evening Wed). NOT MAJOR. Prices AI classification and routing as a cheap, input-only utility, which changes the unit economics of agent workflows like invoice triage, compliance checks and ticket routing that finance teams run at volume. Pairs with Liquid's d1 small decision models already in the paper. Watch: general availability timing (docs say coming weeks), caching, and enterprise adoption. Owner Quill; technical evaluation for MPV tooling could go to Forge.",
+      "grafs": [
+        "OpenAI made its Decisions API available to all developers in public beta, saying it makes decisions up to 10 times faster than calling GPT-6 Luna through the Responses API, according to its developer-community announcement. Powered by GPT-6 Luna, it accepts text and images and returns three kinds of outputs: predicates that estimate the probability a statement is true, choices from predefined options with confidence scores, and scores against a numeric range.",
+        "Input costs $0.10 per million tokens, and there are no cache-read, cache-write or output-token charges, OpenAI said. The documentation says gpt-6-luna is the only supported model, the endpoint is POST /v1/decisions, and the company expects general availability in the coming weeks. Unite.AI said OpenAI's changelog records the release on October 6.",
+        "Vercel said the API is now available through its AI Gateway under a separate model ID, alongside other decision models including Liquid d1."
+      ]
+    },
+    {
+      "id": "biohub-1-8b-virtual-biology",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Biology Data",
+      "hed": "Zuckerberg's Biohub, the Energy Department, NIH, Google DeepMind, Isomorphic and Meta commit $1.8 billion to build AI-ready biology data",
+      "dek": "Biohub release and DOE announcement (Oct 7, 2026): DOE more than $500 million over five years, NIH datasets from more than $500 million of prior federal work, $300 million from DeepMind, Isomorphic Labs and Meta, anchored by Biohub's $500 million. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Biohub; U.S. Department of Energy; Axios; WSJ",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "also": [
+        "https://www.energy.gov/science/articles/doe-nih-and-biohub-partner-build-foundational-data-predictive-biological-super",
+        "https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data",
+        "https://www.wsj.com/tech/ai/zuckerbergs-biohub-partners-with-doe-nih-to-invest-1-8-billion-in-biological-data-for-ai-models-f8d5f799"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 268 Late Evening Wed). NOT MAJOR. The largest coordinated bet so far that the bottleneck for AI in drug discovery is data, not models, with big tech and government sharing the bill. Read-across to Rivercell's seed round earlier today and to AI-biotech valuations. Watch: who gets data access, first datasets, and whether pharma joins. Owner Quill.",
+      "grafs": [
+        "Biohub, the U.S. Department of Energy and the National Institutes of Health announced on Wednesday a $1.8 billion expansion of an international effort to generate AI-ready biological data, which Biohub called the largest coordinated commitment of its kind. The money covers funding, data, computation and new measurement technology, and the result is meant to be an open resource for researchers.",
+        "DOE will invest more than $500 million over five years in lab measurement, modeling and computation, and NIH will coordinate datasets and repositories built from more than $500 million of prior federal investment, Biohub said. Google DeepMind, Isomorphic Labs and Meta are collectively investing $300 million, and Biohub's founding $500 million commitment to its Virtual Biology Initiative anchors the effort. DOE, NIH and Biohub signed a memorandum of understanding, the Energy Department said.",
+        "Axios described the goal as a \"universal virtual cell\" that predicts how cells behave. \"An accurate predictive model of biology could dramatically accelerate scientific discovery by enabling scientists to perform experiments digitally,\" Biohub head of science Alex Rives said in the DOE announcement."
       ]
     },
     {
