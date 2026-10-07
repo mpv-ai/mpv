@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 262,
+  "number": 263,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Early Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~12:54 PM ET; ES/NQ/WTI/Brent futures ~12:44 PM ET; 10-y and 30-y yields ~12:39 PM ET). Changes vs Tue Oct 6 close.",
-    "updated": "Oct 7 ~12:54 PM ET Early Afternoon No. 262. Stocks hold near midday levels: S&P 7,790.99 (-0.36%); Dow 51,152.23 (-0.72%); Nasdaq 27,463.71 (-0.49%). ES ~7,844.25; NQ ~31,331.00; WTI ~$89.00; Brent ~$100.91. 10-y 5.320%; 30-y 5.695%. NVDA ~$237.02 (-0.93%); AMD ~$643.00 (-0.99%); MSFT ~$527.58 (-0.32%); MU ~$1,086.23 (+3.89%); CAT ~$813.87 (-5.74%); APO ~$114.90 (-0.91%); HUBS ~$220.53 (+1.58%); PENG ~$74.24 (+15.61%); BKH ~$76.97 (+8.80%).",
-    "line": "EARLY AFTERNOON Wed ~12:54 PM · S&P 7,790.99 (-0.36%) · Dow 51,152.23 (-0.72%) · Nasdaq 27,463.71 (-0.49%) · ES ~7,844.25 · NQ ~31,331.00 · WTI ~$89.00 · Brent ~$100.91 · 10-y 5.320% · 30-y 5.695% · NVDA ~$237.02 (-0.93%) · AMD ~$643.00 (-0.99%) · MSFT ~$527.58 (-0.32%) · MU ~$1,086.23 (+3.89%) · CAT ~$813.87 (-5.74%) · APO ~$114.90 · HUBS ~$220.53 (+1.58%) · PENG ~$74.24 (+15.61%) · BKH ~$76.97 (+8.80%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~2:00 PM ET; ES/NQ/WTI/Brent futures ~1:50 PM ET; 10-y and 30-y yields ~1:45 PM ET). Changes vs Tue Oct 6 close.",
+    "updated": "Oct 7 ~2:00 PM ET Afternoon No. 263. A strong 10-year auction pulls yields off 2002 highs; stocks little changed after the 2pm Fed minutes: S&P 7,800.33 (-0.24%); Dow 51,204.85 (-0.61%); Nasdaq 27,494.59 (-0.38%). ES ~7,853.50; NQ ~31,362.00; WTI ~$88.04; Brent ~$99.80. 10-y 5.282%; 30-y 5.666%. NVDA ~$236.86 (-0.99%); AMD ~$643.86 (-0.86%); MSFT ~$529.52 (+0.04%); MU ~$1,083.63 (+3.64%); CAT ~$813.25 (-5.81%); APO ~$115.49 (-0.40%); HUBS ~$220.00 (+1.34%); PENG ~$71.92 (+12.01%); BKH ~$77.02 (+8.87%).",
+    "line": "AFTERNOON Wed ~2:00 PM · S&P 7,800.33 (-0.24%) · Dow 51,204.85 (-0.61%) · Nasdaq 27,494.59 (-0.38%) · ES ~7,853.50 · NQ ~31,362.00 · WTI ~$88.04 · Brent ~$99.80 · 10-y 5.282% · 30-y 5.666% · NVDA ~$236.86 (-0.99%) · AMD ~$643.86 (-0.86%) · MSFT ~$529.52 (+0.04%) · MU ~$1,083.63 (+3.64%) · CAT ~$813.25 (-5.81%) · APO ~$115.49 (-0.40%) · HUBS ~$220.00 (+1.34%) · PENG ~$71.92 (+12.01%) · BKH ~$77.02 (+8.87%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Early afternoon Wed: the 10-year touches 5.32% and Caterpillar leads an industrials slide; D.A. Davidson says Micron can nearly triple.",
-    "body": "Early Afternoon No. 262 after Midday No. 261. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: D.A. Davidson lifts its Micron target to $3,000 (MU up about 4%); Caterpillar falls about 6% as long yields hit two-decade highs, with Deere and PACCAR lower; Google DeepMind releases EmbeddingGemma 2, an open on-device multimodal embedding model; Siena raises a $17 million Series A for consumer-brand AI agents. The S&P is off about 0.4% ahead of the 1pm 10-year auction and 2pm Fed minutes. Owner: Quill."
+    "hed": "Afternoon Wed: a strong 10-year auction eases the bond selloff, and Fed minutes show most officials leaning toward another hike by year end.",
+    "body": "Afternoon No. 263 after Early Afternoon No. 262. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Fed minutes show most officials saw another increase as likely by year end, with a couple naming AI-related demand as an inflation risk; the $39 billion 10-year sale stopped 1.7 basis points through at 5.300% with dealers taking just 2.54%; NVIDIA and Technion's UNREAL paper turns a frozen LLM into its own retriever; Rivercell raises a $25 million seed for an AI virtual cell. The S&P is off about 0.2% and Brent slips below $100. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 262 Early Afternoon Wed after No. 261 Midday. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed 1pm ET; FOMC minutes Wed 2pm ET; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 263 Afternoon Wed after No. 262 Early Afternoon. SpaceX-Apollo chip financing is MAJOR lead. Watch: $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,92 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "fomc-minutes-sept-more-hikes",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Fed / Rates",
+      "hed": "Fed minutes: most officials saw another rate increase as likely appropriate by year end",
+      "dek": "Federal Reserve (Oct 7, 2026, 2:00 PM ET), minutes of the Sept 15-16 meeting: all participants backed the quarter-point hike to 3.75%-4.00%, and most judged another increase likely appropriate by year end. A couple flagged AI-related demand as an inflation risk. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+      "also": [
+        "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/",
+        "https://www.fxstreet.com/analysis/fx-daily-fed-minutes-shouldnt-rock-the-boat-202610070749"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 263 Afternoon Wed after No. 262 Early Afternoon). NOT MAJOR. The minutes confirm the September hike was framed as the start of a path rather than a one-off, landing five days after a weak 29,000 September payroll print and with the 10-year near 2002 highs. The line that a couple of officials worry AI-related demand could broaden into persistent inflation is a new angle for the AI capex story. Watch: Oct 28 FOMC decision, Thursday's $22 billion 30-year auction, and whether December hike pricing moves. Owner Quill.",
+      "grafs": [
+        "The Federal Reserve released minutes of its September 15-16 meeting at 2 p.m. ET on Wednesday. All participants supported raising the federal funds target range a quarter point to 3-3/4 to 4 percent, and the 12-0 vote included Chair Kevin Warsh and Governor Jerome Powell.",
+        "Looking past that meeting, the minutes said most participants assessed that another increase would likely be appropriate by year end, while stressing that future decisions would depend on incoming data. Many participants called a higher path prudent on risk-management grounds, and several said they viewed the current policy rate as not restrictive or only mildly restrictive.",
+        "A couple of participants said a higher policy rate would help keep sector-specific price increases from energy market disruptions and AI-related demand from broadening into more persistent inflation, and a couple said they had raised their estimate of the neutral rate. Ahead of the release, SpinDepth noted September payrolls rose only 29,000, and FXStreet said markets were firmly pricing a December move."
+      ]
+    },
+    {
+      "id": "treasury-10y-auction-strong-oct7",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Treasuries / Auctions",
+      "hed": "Strong 10-year auction stops 1.7 basis points through at 5.300%, pulling yields off two-decade highs",
+      "dek": "investingLive (Oct 7, 2026, 1:03 PM ET): $39 billion of 10-year notes sold at 5.300% vs 5.317% when-issued; bid-to-cover 2.77 vs 2.54 average; indirects 80.34%; dealers 2.54% vs 8.8% average. Graded A. Yahoo 10-y ~5.282% at 1:45 PM ET. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "investingLive",
+      "url": "https://investinglive.com/news/the-us-treasury-sells-39-billion-of-10-year-notes-at-a-high-yield-of-5-300-versus-wi-level-of-5-317/",
+      "also": [
+        "https://en.bloomingbit.io/feed/news/121786",
+        "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+        "https://fiscaldata.treasury.gov/static-data/published-reports/auctions-query/announcements/A_20261001_3.pdf"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 263 Afternoon Wed after No. 262 Early Afternoon). NOT MAJOR. The auction was the market's test of whether 5.3% is high enough to draw real money, and it answered yes: foreign and institutional buyers took about 80% and dealers were left with a record-low-looking 2.54%. That eases some of the term-premium pressure that hit Caterpillar and industrials this morning. Watch: Thursday's $22 billion 30-year bond sale with the 30-y near 5.67%. Owner Quill.",
+      "grafs": [
+        "The Treasury sold $39 billion of reopened 10-year notes on Wednesday at a high yield of 5.300%, 1.7 basis points below the 5.317% when-issued level at the 1 p.m. deadline, investingLive reported. The stop-through compared with a 0.3 basis point average.",
+        "Bid-to-cover was 2.77 versus a 2.54 average. Indirect bidders took 80.34% versus a 74.1% average and directs about 17%, leaving primary dealers with 2.54% versus an 8.8% average. investingLive graded the sale an A, and Bloomingbit, citing Walter Bloomberg, also described demand as solid.",
+        "Before the sale, CNBC said the 10-year had climbed to about 5.35%, its highest since 2002. After it, investingLive put the 10-year at 5.290% and the 30-year at 5.670%, and Yahoo showed 5.282% at 1:45 p.m. ET. The Treasury sells $22 billion of 30-year bonds on Thursday."
+      ]
+    },
+    {
+      "id": "nvidia-technion-unreal-retrieval",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Research / RAG",
+      "hed": "NVIDIA and Technion's UNREAL turns a frozen LLM into its own retriever with under 500,000 added parameters",
+      "dek": "arXiv 2610.08463 (submitted Oct 6, 2026), via Hugging Face Daily Papers: one model-internal mechanism handles corpus retrieval and long-context filtering. HotpotQA recall 49.1% to 73.2% on a 21M-chunk Wikipedia index; NoLiMa at 128K from 1.0% to 24.83%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08463",
+      "also": [
+        "https://aicoder.com/news/news-20261007-nvidia-unreal-unifying-retrieval-and-long-context",
+        "https://aiweekly.co/alerts/unreal-turns-a-frozen-llm-into-its-own-retriever-with-500k-params"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 263 Afternoon Wed after No. 262 Early Afternoon). NOT MAJOR. If the result holds, enterprises could drop separate embedding and reranker services and reuse the generating model for search, which bears on the economics of RAG vendors and vector databases. It also cuts time-to-first-token on long prompts from about 32K tokens up. Watch: code release, replication on larger backbones, and whether NVIDIA folds it into NeMo. Owner Quill.",
+      "grafs": [
+        "A paper posted to arXiv on Oct. 6 introduces UNREAL, short for Unifying Retrieval and Long-Context with a Single Model. It encodes chunks and derives search queries from a frozen language model's internal representations, adding fewer than 500,000 trainable parameters and leaving the backbone unchanged. AICoder, citing Hugging Face Daily Papers, attributes the work to NVIDIA and Technion; authors include Daniel Soudry and Boris Ginsburg.",
+        "On a 3-billion-token, 21-million-chunk Wikipedia index, the authors say all four UNREAL backbones beat state-of-the-art retriever-reranker systems. The best model raised recall from 49.1% to 73.2% on HotpotQA, from 31.7% to 60.1% on 2WikiMultiHopQA and from 8.8% to 14.4% on MuSiQue.",
+        "Applied to long prompts, the same mechanism strips distractors before generation, lifting NoLiMa accuracy at 128K tokens from 1.0% to 24.83% and LV-Eval F1 at 256K from 49.97% to 54.66%. The paper says it also reduces compute and time-to-first-token versus full-context inference from roughly 32K tokens onward."
+      ]
+    },
+    {
+      "id": "rivercell-25m-seed-virtual-cell",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Bio Funding",
+      "hed": "Paris start-up Rivercell raises a $25 million seed to build an AI model of how cells respond to drugs",
+      "dek": "The Next Web (Oct 7, 2026): HV led, with HCVC, Alven and Bpifrance Digital Venture. Founded in 2025 by Cardiologs founder Yann Fleureau, with ex-Owkin and Novartis data scientist Eric Durand. No valuation disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/rivercell-25m-seed-hv-ai-virtual-cell",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 263 Afternoon Wed after No. 262 Early Afternoon). NOT MAJOR. A large seed for the AI virtual cell race, and the bet is on generating proprietary time-series data with its own instruments rather than training on public datasets. It sits alongside Chai Discovery's $400 million Series C and ByteDance-backed Anew Labs' $290 million round in AI drug discovery. Watch: first model timing, pharma partnerships, and a Series A. Owner Quill.",
+      "grafs": [
+        "Rivercell, a Paris start-up, has raised a $25 million seed round to build an AI model that predicts how human cells respond to drugs and genetic changes, The Next Web reported. HV led the round, with HCVC, Alven and Bpifrance Digital Venture participating.",
+        "The money will fund Rivercell's data platform, a bigger wet lab in Paris and its AI Virtual Cell programme. The company plans to film living cells through each experiment and read their gene activity, with the model choosing the next experiment, and is building its own instruments, which it calls the \"GPU for the bio data center.\"",
+        "Chief executive Yann Fleureau co-founded Cardiologs, which Philips bought in 2021. Co-founder and chief scientific officer Eric Durand led oncology data science at Novartis for seven years and ran data science at Owkin. Rivercell did not disclose a valuation or when its first model will be ready."
       ]
     },
     {
