@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 258,
+  "number": 259,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Opening Bell",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7 premarket: stocks ~8:55 AM ET, ES/NQ/WTI/Brent futures ~8:45 AM ET, 10-y and 30-y yields ~8:40 AM ET). Index levels are Tue Oct 6 official closes; premarket changes vs Tue close.",
-    "updated": "Oct 7 ~8:58 AM ET Morning No. 258. Futures lower ahead of FOMC minutes (2 PM ET): ES ~7,840.50; NQ ~31,250.25; WTI ~$90.16; Brent ~$101.74. 10-y 5.341%; 30-y 5.721%. Tue closes: S&P 7,818.93 (+0.58%, record); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record). Premarket: NVDA ~$237.07 (-0.91%); AMD ~$637.04 (-1.91%); MSFT ~$528.50 (-0.15%); PENG ~$67.23 (+4.70%); BKH ~$73.91 (+4.48%).",
-    "line": "MORNING Wed premarket · ES ~7,840.50 · NQ ~31,250.25 · WTI ~$90.16 · Brent ~$101.74 · 10-y 5.341% · 30-y 5.721% · Tue close S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 · Nasdaq 27,599.79 (record) · NVDA ~$237.07 (-0.91%) · AMD ~$637.04 (-1.91%) · MSFT ~$528.50 · PENG ~$67.23 (+4.70%) · BKH ~$73.91 (+4.48%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~10:04 AM ET; ES/NQ/WTI/Brent futures ~9:54 AM ET; 10-y and 30-y yields ~9:49 AM ET). Changes vs Tue Oct 6 close.",
+    "updated": "Oct 7 ~10:05 AM ET Opening Bell No. 259. Stocks lower after the open: S&P 7,773.66 (-0.58%); Dow 51,040.45 (-0.93%); Nasdaq 27,395.61 (-0.74%). ES ~7,827.25; NQ ~31,210.75; WTI ~$90.31; Brent ~$101.98. 10-y 5.341%; 30-y 5.717%. NVDA ~$238.67 (-0.24%); AMD ~$638.00 (-1.76%); MSFT ~$527.39 (-0.36%); PENG ~$74.40 (+15.87%); BKH ~$76.17 (+7.67%).",
+    "line": "OPENING BELL Wed ~10:04 AM · S&P 7,773.66 (-0.58%) · Dow 51,040.45 (-0.93%) · Nasdaq 27,395.61 (-0.74%) · ES ~7,827.25 · NQ ~31,210.75 · WTI ~$90.31 · Brent ~$101.98 · 10-y 5.341% · 30-y 5.717% · NVDA ~$238.67 (-0.24%) · AMD ~$638.00 (-1.76%) · MSFT ~$527.39 · PENG ~$74.40 (+15.87%) · BKH ~$76.17 (+7.67%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Morning Wed: SpaceX seeks $40 billion of Apollo-led debt to buy Nvidia chips, with Pimco in talks and a 2027 close.",
-    "body": "Morning No. 258 after Night No. 257. New MAJOR lead: SpaceX-Apollo $40 billion chip financing (FT via Reuters, Tue 6:37 PM ET; early stage). ADD NOT MAJOR: OpenAI math manuscripts (722 papers, 162 Lean-checked main results) and Nous Research $90 million at $1.5 billion (WSJ Pro, 6 AM ET). Futures lower as the 30-y yield sits near 5.72% and Brent above $101. Owner: Quill."
+    "hed": "Opening Bell Wed: stocks slip from records as yields and oil climb; Webull sinks on a House China report.",
+    "body": "Opening Bell No. 259 after Morning No. 258. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Webull down about 29% on a House Select Committee report (CNBC); Stuut $52.5 million Series B for AI order-to-cash; Automation Anywhere buying Boost.ai from Nordic Capital; Atomic Machines $250 million out of stealth; FuelCell CFO handoff; Reuters open. Stocks lower with the 30-y near 5.72% and Brent near $102. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 258 Morning Wed after No. 257 Night. SpaceX-Apollo chip financing is MAJOR lead. Watch: SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; FOMC minutes Wed Oct 7 2pm ET; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 259 Opening Bell Wed after No. 258 Morning. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed; FOMC minutes Wed Oct 7 2pm ET; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,126 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "webull-house-china-report",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Brokers / China Risk",
+      "hed": "Webull sinks about 29% after a House panel calls the broker's China ties a national-security risk",
+      "dek": "CNBC (Oct 7, 2026): the bipartisan House Select Committee on China says Webull's ownership, technology, data routing, financing and compliance are tied 'in structural ways' to the PRC; Webull calls the report inaccurate. Robinhood fell about 3%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+      "also": [
+        "https://www.benzinga.com/trading-ideas/movers/26/10/62215261/webull-stock-falls-after-house-panel-calls-its-china-ties-a-national-security-risk",
+        "https://247wallst.com/investing/2026/10/07/webull-sinks-29-as-house-panel-calls-its-china-ties-a-national-security-risk-robinhood-drops-3-interactive-brokers-slips/",
+        "https://finance.yahoo.com/markets/stocks/articles/bull-stock-heads-biggest-drop-131253267.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 259 Opening Bell Wed). NOT MAJOR. A congressional finding that lands on a listed U.S. retail broker holding $24.6 billion of customer assets, and a read-across for China-linked fintech and the broker group. Watch: SEC or FINRA follow-up, any customer outflows, Webull's formal rebuttal, and whether Robinhood and Interactive Brokers recover. Owner Quill.",
+      "grafs": [
+        "Webull shares fell about 29% early Wednesday after the bipartisan House Select Committee on China released a report, shared first with CNBC, finding that the brokerage's ownership architecture, cross-border data routing, corporate financing and compliance frameworks are tied 'in structural ways' to the People's Republic of China.",
+        "The committee said its concerns intensified after October 2025, when Webull began carrying customer cash directly, and that Webull, a Cayman Islands-incorporated holding company, holds $24.6 billion in customer assets. Benzinga, citing the report, said Webull's mainland subsidiary Hunan Weibu has 863 employees, or 62% of the company's global workforce.",
+        "A Webull spokesperson told CNBC it was 'deeply disappointing that the Select Committee published a report containing significant inaccuracies and unsupported conclusions without ever seeking clarification from Webull.' 24/7 Wall St. reported Robinhood down about 3% and Interactive Brokers lower in sympathy."
+      ]
+    },
+    {
+      "id": "stuut-52-5m-series-b",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Finance Ops / AI Agents",
+      "hed": "Stuut raises $52.5 million led by Insight Partners to run order-to-cash with AI agents",
+      "dek": "The Next Web (Oct 7, 2026): Series B with Andreessen Horowitz and Microsoft's M12 takes total funding to $93 million; 150+ customers including Honeywell and ZoomInfo, and a claimed 47% cut in DSO. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/stuut-52-5m-series-b-ai-order-to-cash",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 259 Opening Bell Wed). NOT MAJOR. A direct CFO-desk story: agentic AI moving from copilots into collections, cash application and disputes, with named controller and CFO quotes. Watch: customer DSO results beyond company claims, the Fiserv and EY partnerships, and expansion into credit and lending. Owner Quill.",
+      "grafs": [
+        "Stuut, a New York startup whose AI runs the order-to-cash process, raised a $52.5 million Series B led by Insight Partners, with Andreessen Horowitz and M12, Microsoft's venture fund, participating, The Next Web reported. Total funding is $93 million, and the Series A came ten months ago.",
+        "The company says more than 150 customers use it, including Honeywell, ZoomInfo and PerkinElmer, that more than $3 billion has moved through the platform, and that 81.7% of outbound collections activity runs without human involvement while 95% of incoming payments match automatically. ZoomInfo's controller said Stuut contributed to DSO improving from 51 to 40 days.",
+        "Stuut says it is growing more than 90% quarter over quarter and lists Fiserv, EY, Altamont and HIG among working-capital partners. Verifone CFO Chris Dichiara said it fits the company's existing ERP, controls and audit trails."
+      ]
+    },
+    {
+      "id": "automation-anywhere-boost-ai",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Sponsor Exit / Agentic AI",
+      "hed": "Automation Anywhere agrees to buy Boost.ai from Nordic Capital, its second AI deal in a year",
+      "dek": "Automation Anywhere press release (PR Newswire, Oct 7, 2026, 8:00 AM ET): definitive agreement for the Norwegian conversational and voice AI company; close expected Q4 2026; terms not disclosed. BofA advised the buyer, Santander the target. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Automation Anywhere (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/conversational-ai-is-finally-connected-to-the-work-automation-anywhere-to-acquire-boostai-302900644.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 259 Opening Bell Wed). NOT MAJOR. A PE exit (Nordic Capital) into a strategic buyer consolidating agentic AI, following Automation Anywhere's Aisera deal in late 2025. Watch: price if disclosed, regulatory approvals, and whether more sponsor-owned conversational AI assets come to market. Owner Quill.",
+      "grafs": [
+        "Automation Anywhere said it entered a definitive agreement to acquire Boost.ai from Nordic Capital, with closing expected in the fourth quarter of 2026 subject to regulatory approvals. The release did not disclose terms.",
+        "Boost.ai serves hundreds of customer organizations, with strength in Europe and regulated industries such as financial services, telecom and insurance, and says it has more than 650 deployments and 150 million automated conversations. Automation Anywhere said AI bookings made up nearly 70% of new and upsell bookings over the past six quarters.",
+        "BofA Securities was exclusive financial advisor to Automation Anywhere and Santander to Boost.ai. The deal follows Automation Anywhere's acquisition of Aisera in late 2025."
+      ]
+    },
+    {
+      "id": "atomic-machines-250m",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI Infrastructure / Hardware",
+      "hed": "Atomic Machines emerges from six years in stealth with $250 million and a fast power switch for AI data centers",
+      "dek": "The Next Web (Oct 7, 2026): Jeff Holden's Bay Area startup says its system builds micro-machines from code; first product PrimeSwitch is a relay it says opens in 50 microseconds. Backers include Valor, Gigafund and XTX Ventures; no valuation given. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/atomic-machines-250m-matter-compiler-micro-machines",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 259 Opening Bell Wed). NOT MAJOR. Another sign that capital is flowing into the data-center power stack, not just chips. Watch: first customers, production volumes, and a priced round or valuation. Owner Quill.",
+      "grafs": [
+        "Atomic Machines, founded by Jeff Holden, came out of six years in stealth with $250 million raised, The Next Web reported. The company says its system builds working micro-machines directly from code.",
+        "Its first device, PrimeSwitch, is a relay for AI data centers that the company says opens in 50 microseconds. Investors include OneIM, Gigafund, XTX Ventures, KAS Venture Partners, Valor Equity Partners, Sozo Ventures and the Regents of the University of California.",
+        "The company did not give a valuation or say how the $250 million was split across rounds."
+      ]
+    },
+    {
+      "id": "fuelcell-cfo-latino",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO Moves",
+      "hed": "FuelCell Energy names Matthew Latino CFO as 15-year finance chief Michael Bishop steps back",
+      "dek": "FuelCell Energy release (GlobeNewswire, Oct 7, 2026, 8:15 AM ET): planned transition effective Oct 7; Bishop stays as senior advisor through the 2027 annual meeting. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "FuelCell Energy (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/07/3376440/8041/en/fuelcell-energy-announces-chief-financial-officer-transition.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 259 Opening Bell Wed). NOT MAJOR. A long-tenured CFO handoff at a Nasdaq-listed power company pitched at data-center demand. Watch: Latino's first earnings call and any change to guidance or financing plans. Owner Quill.",
+      "grafs": [
+        "FuelCell Energy (Nasdaq: FCEL) said Michael Bishop will transition out of his role as executive vice president, chief financial officer and treasurer, and Matthew Latino succeeds him effective Oct. 7, 2026, as part of a planned transition.",
+        "Bishop, CFO for 15 years and with the company more than two decades, will remain as a senior advisor through the 2027 annual meeting of stockholders to support continuity."
+      ]
+    },
+    {
+      "id": "wall-st-open-lower-oct7",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Opening Bell",
+      "hed": "Stocks open lower from records as the 30-year yield holds near 2002 highs and Brent tops $100",
+      "dek": "Reuters (Oct 7, 2026, 9:34 AM ET): Dow -0.63% to 51,196.22, S&P 500 -0.42% to 7,786.33, Nasdaq -0.56% at the open, ahead of Fed minutes at 2 PM and a $39 billion 10-year note sale. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-bond-yields-and-oil-rebound-fed-minutes-in-focus-4936856",
+      "also": [
+        "https://www.investing.com/news/economy-news/wall-st-futures-slip-as-yields-and-oil-rebound-fed-minutes-in-focus-4936151",
+        "https://www.cnbc.com/2026/10/07/5-things-to-know-before-the-stock-market-opens.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 259 Opening Bell Wed). NOT MAJOR. Rates and oil are setting the tape the day after record closes. Watch: the 10-year auction, FOMC minutes on the September hike, chip stocks, and Brent near $102. Owner Quill.",
+      "grafs": [
+        "Wall Street's main indexes opened lower on Wednesday as Treasury yields and oil prices rose again, Reuters reported. The Dow fell 325.06 points, or 0.63%, to 51,196.22 at the open; the S&P 500 fell 32.60 points, or 0.42%, to 7,786.33; and the Nasdaq Composite fell 155.83 points, or 0.56%, to 27,444.06.",
+        "Reuters said the 30-year Treasury yield rose to the highest since 2002, near 5.72%, ahead of minutes from the Fed's September meeting, when policymakers raised rates. Brent crude was back above $100 a barrel on Middle East supply concerns, and chip stocks including Micron, AMD, Broadcom and Marvell led premarket declines.",
+        "CNBC noted the Treasury plans to sell $39 billion of 10-year notes on Wednesday, another test for yields."
       ]
     },
     {
