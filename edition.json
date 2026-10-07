@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 259,
+  "number": 260,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Opening Bell",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~10:04 AM ET; ES/NQ/WTI/Brent futures ~9:54 AM ET; 10-y and 30-y yields ~9:49 AM ET). Changes vs Tue Oct 6 close.",
-    "updated": "Oct 7 ~10:05 AM ET Opening Bell No. 259. Stocks lower after the open: S&P 7,773.66 (-0.58%); Dow 51,040.45 (-0.93%); Nasdaq 27,395.61 (-0.74%). ES ~7,827.25; NQ ~31,210.75; WTI ~$90.31; Brent ~$101.98. 10-y 5.341%; 30-y 5.717%. NVDA ~$238.67 (-0.24%); AMD ~$638.00 (-1.76%); MSFT ~$527.39 (-0.36%); PENG ~$74.40 (+15.87%); BKH ~$76.17 (+7.67%).",
-    "line": "OPENING BELL Wed ~10:04 AM · S&P 7,773.66 (-0.58%) · Dow 51,040.45 (-0.93%) · Nasdaq 27,395.61 (-0.74%) · ES ~7,827.25 · NQ ~31,210.75 · WTI ~$90.31 · Brent ~$101.98 · 10-y 5.341% · 30-y 5.717% · NVDA ~$238.67 (-0.24%) · AMD ~$638.00 (-1.76%) · MSFT ~$527.39 · PENG ~$74.40 (+15.87%) · BKH ~$76.17 (+7.67%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~11:01 AM ET; ES/NQ/WTI/Brent futures ~10:51 AM ET; 10-y and 30-y yields ~10:46 AM ET). Changes vs Tue Oct 6 close.",
+    "updated": "Oct 7 ~11:02 AM ET Late Morning No. 260. Stocks extend losses: S&P 7,767.32 (-0.66%); Dow 50,969.11 (-1.07%); Nasdaq 27,376.65 (-0.81%). ES ~7,817.25; NQ ~31,221.75; WTI ~$89.73; Brent ~$101.92. 10-y 5.311%; 30-y 5.692%. NVDA ~$237.00 (-0.94%); AMD ~$643.66 (-0.89%); MSFT ~$525.35 (-0.75%); PENG ~$73.67 (+14.73%); BKH ~$77.18 (+9.10%).",
+    "line": "LATE MORNING Wed ~11:01 AM · S&P 7,767.32 (-0.66%) · Dow 50,969.11 (-1.07%) · Nasdaq 27,376.65 (-0.81%) · ES ~7,817.25 · NQ ~31,221.75 · WTI ~$89.73 · Brent ~$101.92 · 10-y 5.311% · 30-y 5.692% · NVDA ~$237.00 (-0.94%) · AMD ~$643.66 (-0.89%) · MSFT ~$525.35 · PENG ~$73.67 (+14.73%) · BKH ~$77.18 (+9.10%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Opening Bell Wed: stocks slip from records as yields and oil climb; Webull sinks on a House China report.",
-    "body": "Opening Bell No. 259 after Morning No. 258. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Webull down about 29% on a House Select Committee report (CNBC); Stuut $52.5 million Series B for AI order-to-cash; Automation Anywhere buying Boost.ai from Nordic Capital; Atomic Machines $250 million out of stealth; FuelCell CFO handoff; Reuters open. Stocks lower with the 30-y near 5.72% and Brent near $102. Owner: Quill."
+    "hed": "Late Morning Wed: the Dow is off about 1% ahead of the 10-year auction and Fed minutes; Apollo bids for Uniper.",
+    "body": "Late Morning No. 260 after Opening Bell No. 259. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Apollo non-binding bid for Germany's Uniper (Reuters exclusive), HubSpot 7% restructuring (8-K), Emera and Canadian Utilities C$72 billion all-share merger, SEON names Ken Talanian CFO. Stocks extend losses with the 10-y near 5.31% and Brent near $102. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 259 Opening Bell Wed after No. 258 Morning. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed; FOMC minutes Wed Oct 7 2pm ET; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 260 Late Morning Wed after No. 259 Opening Bell. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed 1pm ET; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; FOMC minutes Wed Oct 7 2pm ET; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,91 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "apollo-uniper-bid",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Take-Private / European Energy",
+      "hed": "Apollo joins the auction for Germany's state-owned Uniper with a non-binding bid",
+      "dek": "Reuters exclusive (Oct 7, 2026): Apollo submitted an indicative offer for the utility Berlin bailed out for 13.5 billion euros in 2022; a sale could value Uniper around 10 billion euros. EPH, Brookfield with CPPIB, Equinor, and KKR with RWE have also bid. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Exclusive-Apollo+submits+non-binding+bid+for+German+energy+firm+Uniper%2C+sources+say/27157892.html",
+      "also": [
+        "https://www.investing.com/news/stock-market-news/exclusiveapollo-submits-nonbinding-bid-for-german-energy-firm-uniper-sources-say-4936283",
+        "https://live.euronext.com/en/financial-news/exclusive-apollo-submits-non-binding-bid-german-energy-firm-uniper-sources-say"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 260 Late Morning Wed). NOT MAJOR. Two of the biggest sponsors (Apollo, and KKR alongside RWE) are now in a state-run auction for one of Germany's largest utilities, the same day Apollo is reported leading SpaceX's $40 billion chip financing. Watch: who advances to the next round in the coming weeks, the final stake size (up to 74.12%), and any political conditions from Berlin. Owner Quill.",
+      "grafs": [
+        "Apollo Global Management has submitted a non-binding offer for German state-owned energy company Uniper, two people with direct knowledge of the matter told Reuters, joining the auction for one of Germany's biggest utilities. Indicative bids were due by Sept. 21.",
+        "Berlin bailed Uniper out in 2022 for 13.5 billion euros ($15.1 billion). Germany's finance ministry, which oversees the state's 99.12% stake and is advised by UBS and JPMorgan, has said it wants to sell up to 74.12%. Reuters has previously reported a sale could value the company at around 10 billion euros.",
+        "Czech group EPH, a Brookfield and CPPIB consortium, Equinor, and KKR with RWE have also submitted bids, Reuters said. Apollo, Uniper and KKR declined to comment; suitors are expected to learn in the coming weeks whether they advance."
+      ]
+    },
+    {
+      "id": "hubspot-7pct-restructuring",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "Software / Restructuring",
+      "hed": "HubSpot cuts about 7% of its workforce and books up to $75 million of charges to build a flatter company",
+      "dek": "HubSpot 8-K (filed Oct 6, 2026): board authorized the plan Oct. 1; charges of about $65 million to $75 million, mostly severance and related cash; excluded from non-GAAP results, with long-term margin targets reaffirmed. The Boston Globe puts it at more than 600 jobs. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "HubSpot Form 8-K (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526414965/d183135d8k.htm",
+      "also": [
+        "https://www.bostonglobe.com/2026/10/06/business/hubspot-layoffs/",
+        "https://www.marketwatch.com/story/hubspot-to-cut-7-of-workforce-amid-focus-on-ai-driven-offerings-07e9f100"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 260 Late Morning Wed). NOT MAJOR. A Boston software bellwether reorganizing around customer outcomes and AI-era products, with a CFO-relevant split between GAAP charges and non-GAAP guidance. Watch: Q3 results and any change to guidance, where the cuts land, and whether other SaaS names follow. Owner Quill.",
+      "grafs": [
+        "HubSpot's board authorized a restructuring plan on Oct. 1 that eliminates certain roles, affecting approximately 7% of the company's workforce, according to a Form 8-K filed with the SEC. The company said the plan is meant to create a flatter, faster organization aligned with a deeper focus on customer outcomes.",
+        "HubSpot estimated charges of about $65 million to $75 million, consisting primarily of future cash spending on severance, notice periods, transition and benefits. The charges will be excluded from non-GAAP results and guidance, and the company said it remains confident in the longer-term operating margin targets it set at its Sept. 17 Analyst Day.",
+        "The Boston Globe reported the cuts affect more than 600 employees. CEO Yamini Rangan's note to staff was furnished as an exhibit to the filing."
+      ]
+    },
+    {
+      "id": "emera-canadian-utilities-72b",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Utilities M&A",
+      "hed": "Emera and Canadian Utilities agree to an all-share merger creating a C$72 billion utility",
+      "dek": "Emera release (Oct 6, 2026): merger of equals with about C$72 billion of combined enterprise value, C$45 billion rate base and six million customers; ATCO spins off its industrial businesses; close expected Q3 or Q4 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Emera Incorporated",
+      "url": "https://investors.emera.com/news/news-details/2026/Emera-ATCO-and-Canadian-Utilities-Announce-Transformational-Agreement-to-Create-Canadian-Utility-and-Energy-Infrastructure-Powerhouse/default.aspx",
+      "also": [
+        "https://www.cbc.ca/news/canada/nova-scotia/emera-canadian-utilities-merger-acquisition-9.7370753",
+        "https://www.bloomberg.com/news/articles/2026-10-06/emera-to-buy-canadian-utilities-in-c-14-3b-deal"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 260 Late Morning Wed). NOT MAJOR. Scale is becoming the answer to utility capital needs: a C$32 billion capex plan through 2030 tied to electrification and transmission, plus better credit thresholds. Read-across to power demand from data centers and to infrastructure investors. Watch: shareholder and regulatory votes, rating agency moves, and the New ATCO listing. Owner Quill.",
+      "grafs": [
+        "Emera and Canadian Utilities will combine in a merger of equals to form a top-20 North American utility with about C$72 billion of combined enterprise value, C$45 billion of rate base and six million customers, the companies said. The combined company plans a C$32 billion capital program through 2030 and targets 7% to 8% average annual rate base growth.",
+        "About 95% of combined earnings will come from regulated utilities, roughly 80% from Florida and Alberta. ATCO will spin off a new listed industrial services company covering housing, defence and investments. Emera CEO Scott Balfour will lead the combined company, headquartered in Halifax.",
+        "The court-approved plan of arrangement needs shareholder, court and regulatory approvals and is expected to close in the third or fourth quarter of 2027."
+      ]
+    },
+    {
+      "id": "seon-cfo-talanian",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO Moves / Fintech",
+      "hed": "Fraud-prevention AI company SEON hires former KnowBe4 IPO finance lead Ken Talanian as CFO",
+      "dek": "SEON release (Austin, Oct 7, 2026): Talanian was CFO of Skillable and earlier ran FP&A and investor relations at KnowBe4 through its Nasdaq IPO and sale to Vista; he says he will build an 'AI-first finance function.' NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "SEON",
+      "url": "https://seon.io/resources/news/seon-appoints-ken-talanian-as-chief-financial-officer/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 260 Late Morning Wed). NOT MAJOR. A private fintech hiring a CFO with IPO and sponsor-sale experience is often an IPO-readiness signal, and he names an AI-first finance function as a goal. Watch: any funding round or listing plans, and how SEON describes its finance stack. Owner Quill.",
+      "grafs": [
+        "SEON, which sells AI software for fraud prevention and anti-money-laundering compliance, named Ken Talanian chief financial officer. He was most recently CFO of Skillable, where he led two equity rounds and a debt restructuring.",
+        "Earlier, Talanian was senior vice president of FP&A and investor relations at KnowBe4, playing a central role in its Nasdaq IPO, follow-on offerings and later sale to Vista Equity Partners, and before that covered cybersecurity stocks as a director at Evercore ISI.",
+        "In the release he said he joined to help SEON scale, invest behind its strongest growth engines and build an AI-first finance function. SEON operates from Austin, London, Budapest and Singapore."
       ]
     },
     {
