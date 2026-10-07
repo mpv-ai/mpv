@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 261,
+  "number": 262,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Early Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~12:00 PM ET; ES/NQ/WTI/Brent futures ~11:50 AM ET; 10-y and 30-y yields ~11:45 AM ET). Changes vs Tue Oct 6 close.",
-    "updated": "Oct 7 ~12:00 PM ET Midday No. 261. Stocks pare losses: S&P 7,790.69 (-0.36%); Dow 51,121.92 (-0.78%); Nasdaq 27,469.73 (-0.47%). ES ~7,842.50; NQ ~31,357.00; WTI ~$89.09; Brent ~$100.91. 10-y 5.311%; 30-y 5.687%. NVDA ~$237.23 (-0.84%); AMD ~$644.43 (-0.77%); MSFT ~$527.76 (-0.29%); APO ~$115.38 (-0.49%); HUBS ~$221.07 (+1.83%); PENG ~$73.60 (+14.62%); BKH ~$77.59 (+9.68%).",
-    "line": "MIDDAY Wed ~12:00 PM · S&P 7,790.69 (-0.36%) · Dow 51,121.92 (-0.78%) · Nasdaq 27,469.73 (-0.47%) · ES ~7,842.50 · NQ ~31,357.00 · WTI ~$89.09 · Brent ~$100.91 · 10-y 5.311% · 30-y 5.687% · NVDA ~$237.23 (-0.84%) · AMD ~$644.43 (-0.77%) · MSFT ~$527.76 (-0.29%) · APO ~$115.38 · HUBS ~$221.07 (+1.83%) · PENG ~$73.60 (+14.62%) · BKH ~$77.59 (+9.68%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~12:54 PM ET; ES/NQ/WTI/Brent futures ~12:44 PM ET; 10-y and 30-y yields ~12:39 PM ET). Changes vs Tue Oct 6 close.",
+    "updated": "Oct 7 ~12:54 PM ET Early Afternoon No. 262. Stocks hold near midday levels: S&P 7,790.99 (-0.36%); Dow 51,152.23 (-0.72%); Nasdaq 27,463.71 (-0.49%). ES ~7,844.25; NQ ~31,331.00; WTI ~$89.00; Brent ~$100.91. 10-y 5.320%; 30-y 5.695%. NVDA ~$237.02 (-0.93%); AMD ~$643.00 (-0.99%); MSFT ~$527.58 (-0.32%); MU ~$1,086.23 (+3.89%); CAT ~$813.87 (-5.74%); APO ~$114.90 (-0.91%); HUBS ~$220.53 (+1.58%); PENG ~$74.24 (+15.61%); BKH ~$76.97 (+8.80%).",
+    "line": "EARLY AFTERNOON Wed ~12:54 PM · S&P 7,790.99 (-0.36%) · Dow 51,152.23 (-0.72%) · Nasdaq 27,463.71 (-0.49%) · ES ~7,844.25 · NQ ~31,331.00 · WTI ~$89.00 · Brent ~$100.91 · 10-y 5.320% · 30-y 5.695% · NVDA ~$237.02 (-0.93%) · AMD ~$643.00 (-0.99%) · MSFT ~$527.58 (-0.32%) · MU ~$1,086.23 (+3.89%) · CAT ~$813.87 (-5.74%) · APO ~$114.90 · HUBS ~$220.53 (+1.58%) · PENG ~$74.24 (+15.61%) · BKH ~$76.97 (+8.80%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Midday Wed: stocks trim losses before the 10-year auction and Fed minutes; Sycamore sells Boots to the Westons for $8.9 billion.",
-    "body": "Midday No. 261 after Late Morning No. 260. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Sycamore and the Pessina family sell Boots to Wittington and Fairfax for $8.9 billion including debt; Healthleap raises $38 million for hospital-chart AI (TechCrunch); Bambusa Therapeutics names Rallybio's Jonathan Lieber CFO; Verbund names Stefan Waldner CFO. The S&P is off about 0.4% at noon with the 10-y near 5.31%. Owner: Quill."
+    "hed": "Early afternoon Wed: the 10-year touches 5.32% and Caterpillar leads an industrials slide; D.A. Davidson says Micron can nearly triple.",
+    "body": "Early Afternoon No. 262 after Midday No. 261. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: D.A. Davidson lifts its Micron target to $3,000 (MU up about 4%); Caterpillar falls about 6% as long yields hit two-decade highs, with Deere and PACCAR lower; Google DeepMind releases EmbeddingGemma 2, an open on-device multimodal embedding model; Siena raises a $17 million Series A for consumer-brand AI agents. The S&P is off about 0.4% ahead of the 1pm 10-year auction and 2pm Fed minutes. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 261 Midday Wed after No. 260 Late Morning. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed 1pm ET; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; FOMC minutes Wed Oct 7 2pm ET; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 262 Early Afternoon Wed after No. 261 Midday. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed 1pm ET; FOMC minutes Wed 2pm ET; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,91 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "micron-davidson-3000-target",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Semis / Memory",
+      "hed": "D.A. Davidson lifts Micron target to $3,000, saying AI memory demand will outstrip supply through 2028",
+      "dek": "CNBC (Oct 7, 2026, 9:01 AM ET): Gil Luria raises his 12-month target 43% from $2,100 and reiterates Buy, implying 187% upside from Tuesday's $1,045.56 close. MU ~$1,086 (+3.9%) at 12:54 PM ET on Yahoo. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/micron-to-triple-as-investors-wake-up-to-value-da-davidson-says.html",
+      "also": [
+        "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+        "https://www.tipranks.com/news/article/micron-stock-gets-a-3000-street-high-price-target-still-misunderstood-says-d-a-davidson"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 262 Early Afternoon Wed after No. 261 Midday). NOT MAJOR. A street-high call on the stock that has become the cleanest public bet on AI memory scarcity, and the thesis rests on non-cancelable long-term contracts rather than spot pricing. Worth tracking as a read on how far the sell side will stretch AI hardware multiples while the 10-year sits above 5.3%. Watch: whether Micron reaches its 50% long-term-agreement revenue target and whether other banks follow. Owner Quill.",
+      "grafs": [
+        "D.A. Davidson raised its 12-month price target on Micron Technology by 43% to $3,000 from $2,100 and reiterated a buy rating, CNBC reported. The target implies 187% upside from Micron's Tuesday close of $1,045.56.",
+        "After meeting management, analyst Gil Luria wrote that investors are early in understanding Micron's value and will assign a far higher multiple. \"If you don't buy it, they will,\" he said, according to CNBC. He argued that AI models produce better results, run faster and support longer context windows with more memory, driving demand he expects to outstrip supply in 2027 and 2028.",
+        "Luria said Micron aims to tie 50% of revenue to long-term strategic customer agreements that are not easily cancelable. CNBC said the shares are up 266% in 2026 and 463% over the past year, and that 46 of 50 analysts rate the stock a buy or strong buy per LSEG. CNBC's midday movers list had the shares up 3%; Yahoo showed about $1,086, up 3.9%, at 12:54 PM ET."
+      ]
+    },
+    {
+      "id": "cat-industrials-long-yields-oct7",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Industrials / Rates",
+      "hed": "Caterpillar drops about 6% as long Treasury yields at two-decade highs hit credit-financed equipment makers",
+      "dek": "24/7 Wall St. (Oct 7, 2026, 11:57 AM ET): CAT ~$811.70 (-6%), Deere -4%, PACCAR -2%, XLI -2% vs SPY -0.6%. Motley Fool midday also cites an analyst downgrade and AI jitters. CAT ~$813.87 (-5.7%) at 12:54 PM ET on Yahoo. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/07/caterpillar-drops-6-as-industrials-sell-off-with-long-yields-at-a-two-decade-high-deere-falls-4-paccar-eases/",
+      "also": [
+        "https://www.fool.com/coverage/stock-market-today/2026/10/07/stock-market-midday-oct-7-rising-treasury-yields-pressure-stocks-caterpillar-tumbles-over-6/",
+        "https://www.marketbeat.com/instant-alerts/analyst-zacks-research-downgrades-caterpillar-nyse-cat-to-hold-2026-10-07/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 262 Early Afternoon Wed after No. 261 Midday). NOT MAJOR. Caterpillar has traded partly as an AI power and data-center build-out name, so a 6% drop on rates plus doubts about how durable that spending is makes it a useful gauge for the AI capex trade outside the chip stocks. Watch: the 1pm 10-year auction, the 2pm Fed minutes, and Caterpillar's Q3 results on Nov 4. Owner Quill.",
+      "grafs": [
+        "Caterpillar shares fell about 6% to $811.70 in morning trading as long-dated Treasury yields climbed to their highest in more than two decades, 24/7 Wall St. reported. Deere slid 4% to $657.95 and PACCAR 2% to $106.66, while the Industrial Select Sector SPDR ETF fell 2% against a 0.6% drop in the SPDR S&P 500 ETF.",
+        "Heavy equipment is usually bought on credit or carried on dealer rental fleets, so higher long-term borrowing costs hit both customer demand and the companies' own financing arms, the report said. The Motley Fool's midday wrap said an analyst downgrade and investor jitters over artificial intelligence also weighed on Caterpillar, and MarketBeat reported that Zacks Research cut the stock to hold.",
+        "The Motley Fool put the 10-year yield up 4 basis points at 5.31%, close to its highest since 2002, ahead of the Federal Reserve's release of its September meeting minutes Wednesday afternoon. Yahoo showed Caterpillar at about $813.87, down 5.7%, at 12:54 PM ET."
+      ]
+    },
+    {
+      "id": "embeddinggemma-2-open-multimodal",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Open Models / On-Device",
+      "hed": "Google DeepMind releases EmbeddingGemma 2, a 740-million-parameter open model that embeds text, code, images, audio and video",
+      "dek": "Google blog (Oct 6, 2026): Apache 2.0, built on Gemma 4, 768-dim vectors truncatable to 128, 8K context, as little as ~191MB RAM text-only on a Pixel 11 Pro; MTEB Code up to 78.68 from 68.76. Weights on Hugging Face and Kaggle. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Google (The Keyword blog)",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "also": [
+        "https://ai.google.dev/gemma/docs/embeddinggemma/model_card_2",
+        "https://developers.googleblog.com/en/embeddinggemma-2-the-developer-guide/",
+        "https://huggingface.co/google/embeddinggemma-2"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 262 Early Afternoon Wed after No. 261 Midday). NOT MAJOR. Retrieval is the plumbing under most enterprise AI and agent deployments, and a permissively licensed model that runs search and RAG fully on-device across modalities lowers cost and data-privacy barriers for finance and other regulated users. Watch: availability in Google's enterprise Model Garden, benchmark checks by outside developers, and adoption in local agent stacks. Owner Quill.",
+      "grafs": [
+        "Google DeepMind released EmbeddingGemma 2, an open embedding model that maps text, code, images, audio and video into one shared embedding space, according to a Google blog post on Oct. 6. It has 740 million parameters, is built on the Gemma 4 architecture and is licensed under Apache 2.0.",
+        "Google said text-only workloads need as little as 270 million parameters, with optional 170 million-parameter vision and 300 million-parameter audio encoders. Output vectors can be truncated from 768 dimensions to 512, 256 or 128, and the context window is 8K tokens, four times the first version. With quantization on a Pixel 11 Pro it needs about 191MB of active RAM for text-only weights and about 567MB for the full multimodal model.",
+        "Google said the model improves code retrieval on the MTEB Code benchmark to 78.68 from 68.76 and leads sub-1B multimodal embedders on benchmarks including MTEB Code and MAEB. The first EmbeddingGemma has passed 20 million downloads, Google said. Weights are on Hugging Face and Kaggle, with Model Garden availability coming soon."
+      ]
+    },
+    {
+      "id": "siena-17m-series-a",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Venture / AI Agents",
+      "hed": "Siena raises $17 million Series A led by York IE for AI agents that serve consumer brands",
+      "dek": "The Next Web (Oct 7, 2026): New York startup; Joyance Ventures new, Aglaé Ventures, Sierra Ventures and Super Angel Fund return; total funding $29.7 million. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/siena-17m-series-a-york-ie-ai-agents",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 262 Early Afternoon Wed after No. 261 Midday). NOT MAJOR. One more data point on venture money flowing to vertical customer-service agents, a category where incumbents and well-funded rivals are crowding in. Small round; useful mainly as a comp for agent startups. Watch: named customers and revenue disclosures. Owner Quill.",
+      "grafs": [
+        "Siena, a New York-based startup that builds AI agents for consumer brands, raised $17 million in a Series A led by York IE, The Next Web reported. The round brings its total funding to $29.7 million.",
+        "Joyance Ventures joined as a new investor, and existing backers Aglaé Ventures, Sierra Ventures and the Super Angel Fund also participated, according to the report. The company was founded by Andrei Negrau and Lisa Popovici."
       ]
     },
     {
