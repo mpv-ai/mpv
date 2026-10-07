@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 257,
+  "number": 258,
   "city": "New York",
-  "date": "Tuesday, October 6, 2026",
-  "editionLabel": "Night",
+  "date": "Wednesday, October 7, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "Yahoo Finance chart API (Tue Oct 6 official closes for indexes and stocks; PENG and BKH after hours ~7:40-7:48 PM ET; ES/NQ/WTI futures ~7:38 PM ET; VIX 4:15 PM close; yields ~2:59 PM; SoftBank Tokyo Oct 6 close). Changes vs Mon close unless noted.",
-    "updated": "Oct 6 ~7:50 PM ET Night No. 257. S&P 7,818.93 (+0.58%, record close); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record close). NVDA $239.24 (+0.14%); AMD $649.42 (+2.80%); MU $1,045.56 (-1.73%); MSFT $529.30 (+0.78%); NKE $34.61 (+1.91%); AVGO $375.81 (+3.67%); MRVL $287.01 (+5.81%); CEG $300.40 (+12.25%); VST $160.50 (+10.77%); PTC $193.00 (+0.38%); OPCH $31.00 (+32.65%); MCK $921.67 (+0.68%); KKR $90.67 (+0.79%); STX $805.63 (-9.18%); WDC $411.04 (-6.93%). VIX 15.01; 10-y 5.269%; 30-y 5.641%; WTI ~$89.97. ES ~7,881.25; NQ ~31,490.75 (7:38 PM ET). SoftBank Tokyo Oct 6 close 6,295 (-3.11%). PENG $64.21 close (+5.77%), ~$67.67 after hours. BKH $70.74 close (+0.37%), ~$73.95 after hours.",
-    "line": "NIGHT Tue · S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 (+0.49%) · Nasdaq 27,599.79 (+0.45%, record) · NVDA $239.24 (+0.14%) · AMD $649.42 (+2.80%) · MU $1,045.56 (-1.73%) · MSFT $529.30 (+0.78%) · AVGO $375.81 (+3.67%) · MRVL $287.01 (+5.81%) · CEG $300.40 (+12.25%) · VST $160.50 (+10.77%) · STX $805.63 (-9.18%) · WDC $411.04 (-6.93%) · OPCH $31.00 (+32.65%) · VIX 15.01 · 10-y 5.269% · 30-y 5.641% · WTI ~$89.97 · PENG $64.21 (+5.77%), ~$67.67 AH · BKH $70.74, ~$73.95 AH · SoftBank Tokyo 6,295 (-3.11%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7 premarket: stocks ~8:55 AM ET, ES/NQ/WTI/Brent futures ~8:45 AM ET, 10-y and 30-y yields ~8:40 AM ET). Index levels are Tue Oct 6 official closes; premarket changes vs Tue close.",
+    "updated": "Oct 7 ~8:58 AM ET Morning No. 258. Futures lower ahead of FOMC minutes (2 PM ET): ES ~7,840.50; NQ ~31,250.25; WTI ~$90.16; Brent ~$101.74. 10-y 5.341%; 30-y 5.721%. Tue closes: S&P 7,818.93 (+0.58%, record); Dow 51,521.28 (+0.49%); Nasdaq 27,599.79 (+0.45%, record). Premarket: NVDA ~$237.07 (-0.91%); AMD ~$637.04 (-1.91%); MSFT ~$528.50 (-0.15%); PENG ~$67.23 (+4.70%); BKH ~$73.91 (+4.48%).",
+    "line": "MORNING Wed premarket · ES ~7,840.50 · NQ ~31,250.25 · WTI ~$90.16 · Brent ~$101.74 · 10-y 5.341% · 30-y 5.721% · Tue close S&P 7,818.93 (+0.58%, record) · Dow 51,521.28 · Nasdaq 27,599.79 (record) · NVDA ~$237.07 (-0.91%) · AMD ~$637.04 (-1.91%) · MSFT ~$528.50 · PENG ~$67.23 (+4.70%) · BKH ~$73.91 (+4.48%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Night Tue: Black Hills signs through-2048 agreements to power Google's planned Cheyenne, Wyoming data center, with $1.8 billion of new gas generation and Google carrying the cost of service.",
-    "body": "Night No. 257 after Late Evening No. 256. Index closes unchanged (S&P 7,818.93 record, Nasdaq 27,599.79 record); futures and WTI refreshed at about 7:38 PM ET, PENG ~$67.67 and BKH ~$73.95 after hours. MAJOR lead unchanged: Schneider-PTC. ADD NOT MAJOR: Black Hills-Google Cheyenne power agreements (GlobeNewswire, 4:10 PM ET; 8-K). Owner: Quill."
+    "hed": "Morning Wed: SpaceX seeks $40 billion of Apollo-led debt to buy Nvidia chips, with Pimco in talks and a 2027 close.",
+    "body": "Morning No. 258 after Night No. 257. New MAJOR lead: SpaceX-Apollo $40 billion chip financing (FT via Reuters, Tue 6:37 PM ET; early stage). ADD NOT MAJOR: OpenAI math manuscripts (722 papers, 162 Lean-checked main results) and Nous Research $90 million at $1.5 billion (WSJ Pro, 6 AM ET). Futures lower as the 30-y yield sits near 5.72% and Brent above $101. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 257 Night Tue after No. 256 Late Evening. Schneider-PTC is MAJOR lead. Watch: Black Hills Wyoming regulatory steps and gas-build financing; Cumming's first guide commentary at Penguin; Melius customer and revenue disclosures; Lambda round close and IPO timing; PENG follow-through Wednesday and call color on neocloud demand; whether the S&P extends its four-day streak Wednesday; who joins Anthropic's Specialized CVP tier; SAP-TechWolf price disclosure and Q4 close; Hadrian valuation; OpenAI's next software training partners; Elice retail subscriptions Oct 7-8 and late-October KOSDAQ debut; Vistra DOE loan close and Comanche Peak option; TDK decision on its HDD-head unit and Toshiba capacity timeline; Etched lead investor and final valuation; Mistral Large 4 benchmarks and open-weight release in about three weeks; WHI adviser picks and IPO-versus-sale path; Marvell analyst resets; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Sankei Building final bids by end-October; Anthropic $42B senior loan pricing; PTC spread to $205; Applied Digital FQ1 FY27 call Oct 7 5pm ET; FOMC minutes Wed Oct 7 2pm ET; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 258 Morning Wed after No. 257 Night. SpaceX-Apollo chip financing is MAJOR lead. Watch: SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; FOMC minutes Wed Oct 7 2pm ET; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -28,6 +28,74 @@
     "CFO"
   ],
   "stories": [
+    {
+      "id": "spacex-40b-nvidia-debt",
+      "lead": true,
+      "section": "PE",
+      "kicker": "Private Credit / AI Chips",
+      "hed": "SpaceX seeks $40 billion of Apollo-led debt to buy Nvidia chips, a new high-water mark for chip financing",
+      "dek": "Financial Times via Reuters (Oct 6, 2026, 6:37 PM ET): about $10 billion of bank loans plus $30 billion of investment-grade debt, Apollo to lead and place it, Pimco among lenders in talks, close expected in 2027. Early stage; no company comment. MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "Reuters, citing the Financial Times",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-06/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports",
+      "also": [
+        "https://www.investing.com/news/stock-market-news/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports-4935381",
+        "https://www.aa.com.tr/en/economy/spacex-plans-to-raise-40b-to-buy-nvidia-chips-ft-reports/4080422",
+        "https://www.financialexpress.com/market/global-markets/is-spacexs-40-billion-nvidia-deal-the-next-big-test-for-ai-debt-markets/4355230/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD as MAJOR lead (No. 258 Morning Wed after No. 257 Night). Replaces Schneider-PTC at the top. This is the private-credit and investment-grade market being asked to fund a single chip order larger than Apollo's $35 billion Broadcom-chip financing in June. It tests how far insurers and pension money will stretch for AI hardware at a BBB rating. Watch: final size and pricing, whether Nvidia's August financing platform backstops any of it, other lenders joining Pimco, and the 2027 close. Owner Quill.",
+      "grafs": [
+        "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
+        "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
+        "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "openai-math-722",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI Research / Mathematics",
+      "hed": "OpenAI publishes 722 math manuscripts from an unreleased internal model; 162 carry Lean-checked main results",
+      "dek": "OpenAI (blog and openai/math GitHub repo, Oct 6, 2026): 722 manuscripts in 372 result families, from an evaluation of about 4,000 problems, at roughly three hours of ChatGPT Pro thinking per result. Many but not all are Lean-formalized. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6, 2026",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "also": [
+        "https://github.com/openai/math/tree/main",
+        "https://community.openai.com/t/first-look-at-mathematics-manuscripts-from-an-internal-frontier-model-at-openai/1403886",
+        "https://stanfordtechreview.com/articles/openai-math-proofs-lean-verification-gap"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 258 Morning Wed). NOT MAJOR. A frontier lab is releasing research output in bulk rather than benchmarks, which matters for how investors value reasoning models. The verification gap is the story to watch: an outside count found 162 of 722 manuscripts (22.4%) have a formalized main result and none of the 143 dated Oct 3 to 6 do. Watch: mathematician review of headline claims, added Lean proofs, and whether the internal model ships. Owner Quill.",
+      "grafs": [
+        "OpenAI released a broad set of mathematical results produced by an internal frontier model, publishing them in a public GitHub repository with revision and citation protocols. It said it consulted the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study on how to release them.",
+        "The openai/math repository holds 722 manuscripts organized into 372 families, plus supporting proof artifacts, Lean formalizations for many results and 10 abridged summaries of the model's reasoning. OpenAI's community post said the results came from an evaluation of about 4,000 problems, at an average compute cost per result equal to roughly three hours of ChatGPT Pro thinking with the internal model.",
+        "The README warns that not all results have Lean formalizations and that OpenAI will add more as it obtains them. Stanford Tech Review reconciled the repository's manuscript map against its formalization catalogue and counted 162 manuscripts with a formalized main result, or 22.4%, with none among the 143 manuscripts dated October 3 to 6."
+      ]
+    },
+    {
+      "id": "nous-90m-1-5b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Venture / Open-Source AI",
+      "hed": "Nous Research raises $90 million at a $1.5 billion valuation to take its open-source Hermes assistant to enterprises",
+      "dek": "WSJ Pro Venture Capital exclusive (Oct 7, 2026, 6:00 AM ET): Hermes has been downloaded more than 22 million times since February; Nous is betting companies want open-source agents for control of their data. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "WSJ Pro Venture Capital",
+      "url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
+      "also": [
+        "https://www.panews.io/articles/01a115f2-99c5-7566-b750-0055bb49f3e5",
+        "https://app.dealroom.co/news/feed/nous-research-raises-90m-at-1-5b-valuation-to-launch-enterprise-ai-assistant"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 258 Morning Wed). NOT MAJOR. Another priced round for open-weight agent software after Reflection and Mistral, and a test of whether a viral developer tool can convert to enterprise revenue. Watch: lead investor and round composition, first enterprise customers and pricing, and how Hermes positions against closed assistants. Owner Quill.",
+      "grafs": [
+        "Nous Research has raised $90 million at a $1.5 billion valuation to bring open-source artificial intelligence assistants to business users, WSJ Pro Venture Capital reported on Wednesday.",
+        "The startup's Hermes open-source AI tool went viral among software developers and other individual users this year and has been downloaded more than 22 million times since February, according to the report. Nous is betting corporations will seek out open-source architecture that gives them more control over their data and less dependence on specific software providers.",
+        "Secondary reports describe Hermes as an agent that runs both locally and in the cloud, with built-in search, coding and image understanding, and the ability to expand its skills from user interactions."
+      ]
+    },
     {
       "id": "black-hills-google-cheyenne-18b",
       "lead": false,
@@ -1095,7 +1163,7 @@
     },
     {
       "id": "schneider-ptc-226",
-      "lead": true,
+      "lead": false,
       "section": "AI",
       "kicker": "AI / Industrial M&A",
       "hed": "Schneider Electric to buy PTC for $205 a share in cash; $22.6B equity, $23.7B EV, its biggest deal ever",
