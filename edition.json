@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 263,
+  "number": 264,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Mid-Afternoon",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~2:00 PM ET; ES/NQ/WTI/Brent futures ~1:50 PM ET; 10-y and 30-y yields ~1:45 PM ET). Changes vs Tue Oct 6 close.",
-    "updated": "Oct 7 ~2:00 PM ET Afternoon No. 263. A strong 10-year auction pulls yields off 2002 highs; stocks little changed after the 2pm Fed minutes: S&P 7,800.33 (-0.24%); Dow 51,204.85 (-0.61%); Nasdaq 27,494.59 (-0.38%). ES ~7,853.50; NQ ~31,362.00; WTI ~$88.04; Brent ~$99.80. 10-y 5.282%; 30-y 5.666%. NVDA ~$236.86 (-0.99%); AMD ~$643.86 (-0.86%); MSFT ~$529.52 (+0.04%); MU ~$1,083.63 (+3.64%); CAT ~$813.25 (-5.81%); APO ~$115.49 (-0.40%); HUBS ~$220.00 (+1.34%); PENG ~$71.92 (+12.01%); BKH ~$77.02 (+8.87%).",
-    "line": "AFTERNOON Wed ~2:00 PM · S&P 7,800.33 (-0.24%) · Dow 51,204.85 (-0.61%) · Nasdaq 27,494.59 (-0.38%) · ES ~7,853.50 · NQ ~31,362.00 · WTI ~$88.04 · Brent ~$99.80 · 10-y 5.282% · 30-y 5.666% · NVDA ~$236.86 (-0.99%) · AMD ~$643.86 (-0.86%) · MSFT ~$529.52 (+0.04%) · MU ~$1,083.63 (+3.64%) · CAT ~$813.25 (-5.81%) · APO ~$115.49 (-0.40%) · HUBS ~$220.00 (+1.34%) · PENG ~$71.92 (+12.01%) · BKH ~$77.02 (+8.87%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~2:53 PM ET; ES/NQ/WTI/Brent futures ~2:43 PM ET; 10-y and 30-y yields ~2:38 PM ET). Changes vs Tue Oct 6 close.",
+    "updated": "Oct 7 ~2:53 PM ET Mid-Afternoon No. 264. Stocks hold small losses after the Fed minutes as long yields sit near 2002 highs: S&P 7,802.91 (-0.20%); Dow 51,203.43 (-0.62%); Nasdaq 27,521.05 (-0.29%). ES ~7,854.50; NQ ~31,379.00; WTI ~$88.43; Brent ~$100.40. 10-y 5.282%; 30-y 5.666%. NVDA ~$236.78 (-1.03%); AMD ~$644.69 (-0.73%); MSFT ~$530.73 (+0.27%); MU ~$1,086.60 (+3.93%); CAT ~$810.92 (-6.08%); APO ~$115.34 (-0.53%); HUBS ~$222.06 (+2.29%); PENG ~$73.12 (+13.88%); BKH ~$76.69 (+8.41%); APLD ~$24.07 (-5.03%); IREN ~$38.77 (-6.08%).",
+    "line": "MID-AFTERNOON Wed ~2:53 PM · S&P 7,802.91 (-0.20%) · Dow 51,203.43 (-0.62%) · Nasdaq 27,521.05 (-0.29%) · ES ~7,854.50 · NQ ~31,379.00 · WTI ~$88.43 · Brent ~$100.40 · 10-y 5.282% · 30-y 5.666% · NVDA ~$236.78 (-1.03%) · AMD ~$644.69 (-0.73%) · MSFT ~$530.73 (+0.27%) · MU ~$1,086.60 (+3.93%) · CAT ~$810.92 (-6.08%) · APO ~$115.34 (-0.53%) · HUBS ~$222.06 (+2.29%) · PENG ~$73.12 (+13.88%) · BKH ~$76.69 (+8.41%) · APLD ~$24.07 (-5.03%) · IREN ~$38.77 (-6.08%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Afternoon Wed: a strong 10-year auction eases the bond selloff, and Fed minutes show most officials leaning toward another hike by year end.",
-    "body": "Afternoon No. 263 after Early Afternoon No. 262. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Fed minutes show most officials saw another increase as likely by year end, with a couple naming AI-related demand as an inflation risk; the $39 billion 10-year sale stopped 1.7 basis points through at 5.300% with dealers taking just 2.54%; NVIDIA and Technion's UNREAL paper turns a frozen LLM into its own retriever; Rivercell raises a $25 million seed for an AI virtual cell. The S&P is off about 0.2% and Brent slips below $100. Owner: Quill."
+    "hed": "Mid-Afternoon Wed: two open retrieval and decision models land, and AI data center stocks slide into Applied Digital's print.",
+    "body": "Mid-Afternoon No. 264 after Afternoon No. 263. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Liquid AI open-sources d1 decision models that answer in one pass on Jetson edge chips; Perplexity opens pplx-embed-v2-late multimodal embeddings for PDFs and slides without OCR; Applied Digital's first overseas site, up to 1 GW in Finland, fails to stop a 5% slide with IREN and Core Scientific ahead of tonight's results. The S&P is off about 0.2% and the 10-year holds near 5.28%. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 263 Afternoon Wed after No. 262 Early Afternoon. SpaceX-Apollo chip financing is MAJOR lead. Watch: $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 264 Mid-Afternoon Wed after No. 263 Afternoon. SpaceX-Apollo chip financing is MAJOR lead. Watch: Applied Digital FQ1 FY27 results tonight and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,73 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "liquid-d1-decision-models",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Open Models / Edge AI",
+      "hed": "Liquid AI open-sources d1 decision models that answer in one forward pass on edge chips",
+      "dek": "Liquid AI on Hugging Face (Oct 7, 2026): d1-3B (text and images) and experimental d1-omni-600M (text with images or audio) are open-weight. Liquid says d1-3B scores 48.57 on its Decision Index 0.2.1 and answers in 16 ms on a Jetson AGX Thor. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Liquid AI (Hugging Face blog)",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "also": [
+        "https://huggingface.co/LiquidAI/d1-3B",
+        "https://huggingface.co/LiquidAI/d1-omni-600M"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 264 Mid-Afternoon Wed after No. 263 Afternoon). NOT MAJOR. A different product shape from chat models: classifiers that return structured yes/no, choice and score answers in a single pass, sized for robots, kiosks and on-device routing, built with NVIDIA on Jetson hardware. Benchmarks are Liquid's own, so treat them as vendor claims. Watch: outside replication, Decision Index v0.3 results, and enterprise uptake for routing and moderation. Owner Quill.",
+      "grafs": [
+        "Liquid AI released two open-weight models in its d1 decision model family on Wednesday: d1-3B, which accepts text and images, and d1-omni-600M, an experimental early research release that accepts text with images or text with audio. Unlike generative models, Liquid said, decision models do not produce tokens but answer in a single forward pass.",
+        "Liquid said d1-3B scores 48.57 on its Decision Index 0.2.1, ahead of every 4B and 9B model it tested and of Decider 35B-A3B at 47.11, and posts a mean of 82.9 across seven public datasets versus 81.1 for Decider 4B. d1-3B is trained from Liquid's LFM2.5-VL-3B model; d1-omni-600M is built on the LFM2.5-Encoder-350M.",
+        "In speed tests run with NVIDIA, Liquid said d1-3B answers one question in 16 ms on a Jetson AGX Thor, 26 ms on a Jetson AGX Orin and 50 ms on a Jetson Orin Nano, and in 8 ms on an RTX 4090. Both models are on Hugging Face and load with trust_remote_code."
+      ]
+    },
+    {
+      "id": "perplexity-pplx-embed-v2-late",
+      "lead": false,
+      "section": "AI",
+      "kicker": "Open Models / Search",
+      "hed": "Perplexity opens multimodal late-interaction embeddings that search PDFs and slides without OCR",
+      "dek": "Perplexity on Hugging Face, reported by Crypto Briefing (Oct 7, 2026): pplx-embed-v2-late in 0.6B and 9B sizes, MIT license, one 128-dimension vector per token, and a shared space so the small model can query a 9B-built index. Model card: ViDoRe v3 image nDCG@10 of 62.3% (0.6B) and 65.2% (9B). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Perplexity (Hugging Face model card); Crypto Briefing",
+      "url": "https://huggingface.co/perplexity-ai/pplx-embed-v2-late-9b",
+      "also": [
+        "https://huggingface.co/perplexity-ai/pplx-embed-v2-late-0.6b",
+        "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
+        "https://cryptobriefing.com/perplexity-pplx-embed-v2-late-multimodal-models/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 264 Mid-Afternoon Wed after No. 263 Afternoon). NOT MAJOR. Retrieval over messy finance documents (decks, filings, scanned reports) is where enterprise AI search spends money, and indexing once with the 9B model then querying with the 0.6B model is a cost lever. Lands a day after NVIDIA-Technion's UNREAL retrieval paper and Google's EmbeddingGemma 2. Watch: independent ViDoRe replication, storage cost of per-token vectors at scale, and whether Perplexity uses it in its own enterprise product. Owner Quill.",
+      "grafs": [
+        "Perplexity has released pplx-embed-v2-late, a family of multimodal late-interaction retrievers for text, images and visual documents, according to the Hugging Face model card. The models are built on Qwen3.5 with bidirectional attention, produce one 128-dimensional vector per token and score query-document similarity with MaxSim. They carry an MIT license.",
+        "The 0.6B and 9B models share an embedding space, so the 0.6B model can query an index built with the 9B model, the card says. It lists Public ViDoRe v3 image nDCG@10 of 62.3% for the 0.6B model and 65.2% for the 9B, and both were distilled from an internal 18B ColBERT teacher.",
+        "Crypto Briefing, reporting the Oct. 7 announcement, said the training data covered 186 million query-document pairs across 46 languages and that the models work directly on PDFs and slides without OCR or text parsing. It follows Perplexity's dense pplx-embed-v1 and contextual v2 models earlier this year."
+      ]
+    },
+    {
+      "id": "apld-finland-1gw-selloff",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "AI Data Centers / Earnings",
+      "hed": "Applied Digital lands its first overseas site, up to 1 gigawatt in Finland, but AI data center stocks slide into its earnings",
+      "dek": "Applied Digital (Oct 6, 2026): access to up to 1 GW of potential power in Finland, initial power from 2028, marketing to hyperscalers with no customer signed. 24/7 Wall St. (Oct 7): APLD, IREN and CORZ each down about 4% in the morning; Yahoo ~2:54 PM shows APLD -5.0%, IREN -6.1%, CORZ -5.0%. Earnings after the close. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Applied Digital (GlobeNewswire); 24/7 Wall St.",
+      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/162/applied-digital-secures-up-to-1-gw-of-potential-power",
+      "also": [
+        "https://www.globenewswire.com/news-release/2026/10/06/3375266/0/en/applied-digital-secures-up-to-1-gw-of-potential-power-capacity-in-finland-marking-first-international-development-in-the-nordics.html",
+        "https://247wallst.com/investing/2026/10/07/applied-digital-falls-4-ahead-of-earnings-despite-its-first-international-data-center-deal-iren-and-core-scientific-also-drop-4/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 264 Mid-Afternoon Wed after No. 263 Afternoon). NOT MAJOR. The AI data center developers are trading as a high-beta block on a day of 2002-high long yields: a new 1 GW option did not stop the stock falling with IREN and Core Scientific, which have no results today. Tonight's FQ1 FY27 call (5pm ET) is the test of whether contracted capacity is turning into revenue. Watch: Finland customer talks, call commentary on financing costs, and read-across to SpaceX's $40 billion chip debt. Owner Quill.",
+      "grafs": [
+        "Applied Digital said on Tuesday it has secured access to up to 1 gigawatt of potential power capacity in Finland, its first development opportunity outside the United States, and plans an AI Factory campus there that could scale to that size. It expects initial power availability beginning in 2028 and has begun marketing the site to global hyperscale customers.",
+        "Future investment depends on customer demand, commercial milestones and regulatory and development approvals, the company said, and 24/7 Wall St. noted no customer has signed on. Chairman and CEO Wes Cummins called the agreement a measured first step that keeps the company's U.S.-focused strategy intact, according to 24/7 Wall St.",
+        "The shares fell anyway. 24/7 Wall St. reported Applied Digital, IREN and Core Scientific each down about 4% in morning trade while the Global X Data Center fund slipped 0.8%, citing betas of roughly 4 to 6. By about 2:54 p.m. ET, Yahoo Finance showed Applied Digital near $24.07 (-5.0%), IREN near $38.77 (-6.1%) and Core Scientific near $15.86 (-5.0%). Applied Digital reports after the close."
       ]
     },
     {
