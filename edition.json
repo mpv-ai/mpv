@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 260,
+  "number": 261,
   "city": "New York",
   "date": "Wednesday, October 7, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~11:01 AM ET; ES/NQ/WTI/Brent futures ~10:51 AM ET; 10-y and 30-y yields ~10:46 AM ET). Changes vs Tue Oct 6 close.",
-    "updated": "Oct 7 ~11:02 AM ET Late Morning No. 260. Stocks extend losses: S&P 7,767.32 (-0.66%); Dow 50,969.11 (-1.07%); Nasdaq 27,376.65 (-0.81%). ES ~7,817.25; NQ ~31,221.75; WTI ~$89.73; Brent ~$101.92. 10-y 5.311%; 30-y 5.692%. NVDA ~$237.00 (-0.94%); AMD ~$643.66 (-0.89%); MSFT ~$525.35 (-0.75%); PENG ~$73.67 (+14.73%); BKH ~$77.18 (+9.10%).",
-    "line": "LATE MORNING Wed ~11:01 AM · S&P 7,767.32 (-0.66%) · Dow 50,969.11 (-1.07%) · Nasdaq 27,376.65 (-0.81%) · ES ~7,817.25 · NQ ~31,221.75 · WTI ~$89.73 · Brent ~$101.92 · 10-y 5.311% · 30-y 5.692% · NVDA ~$237.00 (-0.94%) · AMD ~$643.66 (-0.89%) · MSFT ~$525.35 · PENG ~$73.67 (+14.73%) · BKH ~$77.18 (+9.10%)"
+    "source": "Yahoo Finance chart API (Wed Oct 7: stocks and indexes ~12:00 PM ET; ES/NQ/WTI/Brent futures ~11:50 AM ET; 10-y and 30-y yields ~11:45 AM ET). Changes vs Tue Oct 6 close.",
+    "updated": "Oct 7 ~12:00 PM ET Midday No. 261. Stocks pare losses: S&P 7,790.69 (-0.36%); Dow 51,121.92 (-0.78%); Nasdaq 27,469.73 (-0.47%). ES ~7,842.50; NQ ~31,357.00; WTI ~$89.09; Brent ~$100.91. 10-y 5.311%; 30-y 5.687%. NVDA ~$237.23 (-0.84%); AMD ~$644.43 (-0.77%); MSFT ~$527.76 (-0.29%); APO ~$115.38 (-0.49%); HUBS ~$221.07 (+1.83%); PENG ~$73.60 (+14.62%); BKH ~$77.59 (+9.68%).",
+    "line": "MIDDAY Wed ~12:00 PM · S&P 7,790.69 (-0.36%) · Dow 51,121.92 (-0.78%) · Nasdaq 27,469.73 (-0.47%) · ES ~7,842.50 · NQ ~31,357.00 · WTI ~$89.09 · Brent ~$100.91 · 10-y 5.311% · 30-y 5.687% · NVDA ~$237.23 (-0.84%) · AMD ~$644.43 (-0.77%) · MSFT ~$527.76 (-0.29%) · APO ~$115.38 · HUBS ~$221.07 (+1.83%) · PENG ~$73.60 (+14.62%) · BKH ~$77.59 (+9.68%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Late Morning Wed: the Dow is off about 1% ahead of the 10-year auction and Fed minutes; Apollo bids for Uniper.",
-    "body": "Late Morning No. 260 after Opening Bell No. 259. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Apollo non-binding bid for Germany's Uniper (Reuters exclusive), HubSpot 7% restructuring (8-K), Emera and Canadian Utilities C$72 billion all-share merger, SEON names Ken Talanian CFO. Stocks extend losses with the 10-y near 5.31% and Brent near $102. Owner: Quill."
+    "hed": "Midday Wed: stocks trim losses before the 10-year auction and Fed minutes; Sycamore sells Boots to the Westons for $8.9 billion.",
+    "body": "Midday No. 261 after Late Morning No. 260. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Sycamore and the Pessina family sell Boots to Wittington and Fairfax for $8.9 billion including debt; Healthleap raises $38 million for hospital-chart AI (TechCrunch); Bambusa Therapeutics names Rallybio's Jonathan Lieber CFO; Verbund names Stefan Waldner CFO. The S&P is off about 0.4% at noon with the 10-y near 5.31%. Owner: Quill."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 260 Late Morning Wed after No. 259 Opening Bell. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed 1pm ET; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; FOMC minutes Wed Oct 7 2pm ET; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 261 Midday Wed after No. 260 Late Morning. SpaceX-Apollo chip financing is MAJOR lead. Watch: $39 billion 10-year note auction Wed 1pm ET; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; FOMC minutes Wed Oct 7 2pm ET; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; Applied Digital FQ1 FY27 call Oct 7 5pm ET; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
   },
   "sections": [
     "All",
@@ -49,6 +49,85 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "sycamore-boots-weston-89b",
+      "lead": false,
+      "section": "PE",
+      "kicker": "PE Exit / Retail",
+      "hed": "Sycamore sells Boots to Canada's Weston family for $8.9 billion, with Fairfax taking half the equity",
+      "dek": "Wittington Investments release (Oct 7, 2026, 13:31 GMT): $8.9 billion including assumed debt for Boots UK and Ireland, Boots Opticians, No7 Beauty and the Thailand and franchise businesses; Fairfax commits up to about $2.3 billion for 50% of the equity; close expected Q1 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Wittington Investments (PR Newswire)",
+      "url": "https://www.prnewswire.co.uk/news-releases/wittington-investments-signs-agreement-to-acquire-boots-302901208.html",
+      "also": [
+        "https://www.globenewswire.com/news-release/2026/10/07/3376569/0/en/fairfax-partners-with-wittington-investments-in-acquisition-of-boots.html",
+        "https://www.wsj.com/business/retail/wittington-investments-in-8-9-billion-deal-to-buy-british-pharmacy-chain-boots-d2b91a85",
+        "https://www.theglobeandmail.com/business/article-weston-family-wittington-buys-boots-with-fairfax-backing/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 261 Midday Wed after No. 260 Late Morning). NOT MAJOR. A large carve-out exit from Sycamore's 2025 Walgreens take-private about a year after Boots was re-established as a standalone company, sold to a family office plus an insurer-backed holding company rather than another sponsor. Sycamore and the Pessina family keep Benavides and Alliance Healthcare Deutschland. Watch: UK regulatory review, the CIBC and Morgan Stanley acquisition financing, and what Sycamore does with the remaining Boots Group assets. Owner Quill.",
+      "grafs": [
+        "Wittington Investments, the holding company of Canada's Weston family, agreed to buy Boots and its associated businesses from The Boots Group, which is majority owned by Sycamore Partners in partnership with Stefano Pessina and his family. Total consideration is $8.9 billion including assumed debt.",
+        "The deal covers Boots' retail operations in the UK and Ireland, Boots Opticians, No7 Beauty Company, and its Thailand and franchised businesses. Sycamore and the Pessina family keep Farmacias Benavides and Alliance Healthcare Deutschland.",
+        "Fairfax Financial said it agreed to provide up to about $2.3 billion and is expected to own 50% of Boots' equity, with Wittington holding operational control and Galen Weston becoming chair. CIBC and Morgan Stanley Senior Funding are lead arrangers on the acquisition financing. Closing is expected in the first quarter of 2027, subject to regulatory approvals."
+      ]
+    },
+    {
+      "id": "healthleap-38m",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Health Tech",
+      "hed": "Healthleap raises $38 million for AI that reads hospital charts to flag patients at risk of missed diagnoses",
+      "dek": "TechCrunch exclusive (Oct 7, 2026, 8:07 AM PT): an $8 million seed co-led by Sequoia and First Round plus a $30 million Series A led by Hummingbird; live in more than 50 hospitals including Penn Medicine and Cedars-Sinai; revenue up more than 10x in a year, no valuation disclosed. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 261 Midday Wed after No. 260 Late Morning). NOT MAJOR. A clean example of outcome-priced AI sold to hospital finance teams: the company says it contracts to deliver multiples of its fee and cites $23.8 million of annualized impact at the Hospital of the University of Pennsylvania (company figure). Watch: validation of its newer programs, expansion toward 40 conditions, and whether the ROI claims hold up with outside review. Owner Quill.",
+      "grafs": [
+        "Healthleap, which builds an AI platform that reads patient records to find inpatients at risk of undiagnosed conditions such as malnutrition and delirium, has raised $38 million in seed and Series A funding, TechCrunch reported. Sequoia Capital and First Round Capital co-led the $8 million seed, and Hummingbird Ventures led the $30 million Series A.",
+        "The software plugs into a hospital's electronic health record, uses language models to pull signals from clinicians' notes, and combines them with labs and vitals to write a nightly risk score into care-team workflows. It does not diagnose patients. CEO and co-founder Josiah Meyer said it has grown from three hospital partners to more than 50 in a year, with revenue up more than 10x.",
+        "Healthleap sells three-year contracts priced by licensed bed count alongside an outcome-based model. The company said its malnutrition program at the Hospital of the University of Pennsylvania produced $23.8 million in annualized financial impact. It did not disclose its valuation."
+      ]
+    },
+    {
+      "id": "bambusa-cfo-lieber",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO Moves / Biotech",
+      "hed": "Boston biotech Bambusa Therapeutics hires Rallybio CFO Jonathan Lieber as finance chief",
+      "dek": "Bambusa release (Boston, Oct 7, 2026, 8:30 AM ET): Lieber has been CFO of publicly traded Rallybio since February 2023 and earlier ran finance at AGTC, Histogenics, Repligen and others. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Bambusa Therapeutics (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/bambusa-therapeutics-appoints-jonathan-i-lieber-as-chief-financial-officer-302900489.html",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 261 Midday Wed after No. 260 Late Morning). NOT MAJOR. A private clinical-stage company hiring a sitting public-company CFO is often a sign of financing or listing preparation. Local Boston name. Watch: a Bambusa financing round or IPO filing, and who succeeds Lieber at Rallybio. Owner Quill.",
+      "grafs": [
+        "Bambusa Therapeutics, a Boston clinical-stage biotech developing bispecific antibodies for immunology and inflammation, named Jonathan I. Lieber chief financial officer.",
+        "Lieber joins from Rallybio Corporation, where he has been CFO since February 2023. He was previously CFO of Applied Genetic Technologies Corporation and a managing director at Danforth Advisors, and earlier held the CFO role at Histogenics, Metamark Genetics, Repligen, Xcellerex and Altus Pharmaceuticals. He began his career in investment banking at Salomon Brothers and Cowen.",
+        "Founder and CEO Shanshan Xu said Lieber joins at a pivotal stage and will help shape strategy and strengthen the company's foundation as it advances its pipeline."
+      ]
+    },
+    {
+      "id": "verbund-cfo-waldner",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO Moves / European Utilities",
+      "hed": "Austria's Verbund names Stefan Waldner CFO after Peter Kollmann's August exit",
+      "dek": "Verbund corporate news via EQS (Oct 7, 2026, 11:41 CEST): two-year term with an option for two more; CEO Michael Strugl keeps the finance portfolio until Waldner starts. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 7, 2026",
+      "source": "Verbund AG (EQS News)",
+      "url": "https://www.eqs-news.com/news/corporate/verbund-ag-stefan-waldner-appointed-chief-financial-officer/64d54e56-18e0-40a3-a199-3eb7deee313a_en",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 261 Midday Wed after No. 260 Late Morning). NOT MAJOR. A CFO change at one of Europe's largest hydropower utilities on the same day Apollo is reported bidding for Germany's Uniper, as European power names draw sponsor and strategic capital. Watch: Waldner's start date and any change to Verbund's capex and dividend guidance. Owner Quill.",
+      "grafs": [
+        "The supervisory board of Verbund AG appointed Stefan Waldner, 49, as chief financial officer and a member of the management board, the company said. His appointment runs for two years, with an option to extend for a further two years.",
+        "Waldner succeeds Peter Kollmann, who stepped down on Aug. 31, 2026. Until Waldner takes office, CEO Michael Strugl will continue to oversee the finance portfolio."
       ]
     },
     {
