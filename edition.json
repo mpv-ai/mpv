@@ -1,23 +1,23 @@
 {
  "volume": 1,
- "number": 269,
+ "number": 270,
  "city": "New York",
- "date": "Wednesday, October 7, 2026",
- "editionLabel": "Night",
+ "date": "Thursday, October 8, 2026",
+ "editionLabel": "Morning",
  "tape": {
-  "source": "Yahoo Finance chart API (Wed Oct 7: index and stock closing prints ~4:00-4:20 PM ET; ES/NQ/WTI ~7:44 PM ET, Brent ~7:41 PM ET; WOLF, APLD, NVDA, AVGO, ORCL, IONQ, IBM, RIVN extended-hours prints ~7:35-7:54 PM ET; 10-y and 30-y yields ~3:00 PM ET). Changes vs Tue Oct 6 close. Reuters preliminary close: S&P 7,801.15, Dow 51,165.37, Nasdaq 27,533.39.",
-  "updated": "Oct 7 ~7:55 PM ET Night No. 269. Stocks closed lower from records as long yields climbed: S&P 7,801.77 (-0.22%); Dow 51,179.87 (-0.66%); Nasdaq 27,538.69 (-0.22%). Evening futures: ES ~7,857.00; NQ ~31,449.50; WTI ~$88.81; Brent ~$100.85. 10-y 5.277%; 30-y 5.661%. After hours: WOLF ~$37.50 (+19.5% vs $31.37 close); APLD ~$24.90 (+4.6% vs $23.81); AVGO ~$376.56 and ORCL ~$143.95 after the WSJ chip-financing report; IONQ ~$41.81 after its DARPA Stage C news (closed $41.34, -4.5%); IBM ~$220.80 (closed $220.51); RIVN ~$14.35 (closed $14.34) after the VW loan funding. Closes: NVDA $237.47 (-0.74%); AVGO $376.51 (+0.19%); ORCL $143.56 (-0.84%); AMD $645.86 (-0.55%); MSFT $529.76 (+0.09%); GOOGL $350.50 (+0.81%); MU $1,088.00 (+4.06%); CAT $813.83 (-5.75%); APO $115.55 (-0.34%); BX $111.83 (-1.35%); GS $887.21 (-1.11%); HSBC ADR $93.71 (-3.97%); HUBS $220.27 (+1.46%); PENG $72.61 (+13.08%); BKH $75.84 (+7.21%); WOLF $31.37 (-1.45%); APLD $23.81 (-6.04%); IREN $38.69 (-6.27%); CORZ $15.94 (-4.44%).",
-  "line": "CLOSE Wed · S&P 7,801.77 (-0.22%) · Dow 51,179.87 (-0.66%) · Nasdaq 27,538.69 (-0.22%) · ES ~7,857.00 · NQ ~31,449.50 · WTI ~$88.81 · Brent ~$100.85 · 10-y 5.277% · 30-y 5.661% · AH WOLF ~$37.50 (+19.5%) · AH APLD ~$24.90 (+4.6%) · IONQ $41.34 (-4.5%) · RIVN $14.34 (-1.2%) · AVGO $376.51 (+0.19%) · ORCL $143.56 (-0.84%) · NVDA $237.47 (-0.74%) · AMD $645.86 (-0.55%) · MSFT $529.76 (+0.09%) · GOOGL $350.50 (+0.81%) · MU $1,088.00 (+4.06%) · CAT $813.83 (-5.75%) · APO $115.55 (-0.34%) · BX $111.83 (-1.35%) · GS $887.21 (-1.11%) · HSBC $93.71 (-3.97%) · PENG $72.61 (+13.08%) · IREN $38.69 (-6.27%)"
+  "source": "Yahoo Finance chart API (Thu Oct 8: ES, NQ, YM, WTI, Brent ~8:47 AM ET; 10-y and 30-y yields ~8:42 AM ET; NVDA, TSM, PLTR, AVGO, ORCL, AMD, MU, GS, BX, KKR, WOLF, APLD premarket ~8:42-8:58 AM ET vs Wed Oct 7 closes; Samsung 005930.KS and TSMC 2330.TW Thursday closes in Seoul and Taipei). Index levels are Wed Oct 7 closes. Sharecast pre-open (7:30 AM ET): 10-y touched 5.351%, Brent $105.35.",
+  "updated": "Oct 8 ~8:50 AM ET Morning No. 270. Futures lower as yields and oil jump: ES ~7,818.50 (-0.44%); NQ ~31,179 (-0.71%); YM ~51,102 (-0.67%). WTI ~$92.45 (+4.7%); Brent ~$104.87 (+4.7%). 10-y 5.324%; 30-y 5.695%. Premarket vs Wed close: NVDA ~$235.17 (-1.0%); TSM ~$465.30 (-1.5%); AVGO ~$370.31 (-1.7%); ORCL ~$142.16 (-1.0%); AMD ~$636.50 (-1.5%); MU ~$1,073.59 (-1.3%); GS ~$875.64 (-1.3%); BX ~$110.50 (-1.2%); KKR ~$89.00 (-0.7%); PLTR ~$198.76 (+2.4%) on Goldman upgrade; WOLF ~$35.95 (+14.6%); APLD ~$23.88 (+0.3%). Asia closes: Samsung 262,000 won (-2.4%) after record guide; TSMC NT$2,550 (-1.35%). Wed closes: S&P 7,801.77 (-0.22%); Dow 51,179.87 (-0.66%); Nasdaq 27,538.69 (-0.22%).",
+  "line": "PRE Thu · ES ~7,818.50 (-0.44%) · NQ ~31,179 (-0.71%) · YM ~51,102 (-0.67%) · WTI ~$92.45 (+4.7%) · Brent ~$104.87 (+4.7%) · 10-y 5.324% · 30-y 5.695% · NVDA ~$235.17 (-1.0%) · TSM ~$465.30 (-1.5%) · AVGO ~$370.31 (-1.7%) · ORCL ~$142.16 (-1.0%) · AMD ~$636.50 (-1.5%) · MU ~$1,073.59 (-1.3%) · GS ~$875.64 (-1.3%) · BX ~$110.50 (-1.2%) · PLTR ~$198.76 (+2.4%) · WOLF ~$35.95 (+14.6%) · Samsung 262,000 won (-2.4%) · TSMC NT$2,550 (-1.35%) · Wed close S&P 7,801.77 · Dow 51,179.87 · Nasdaq 27,538.69"
  },
  "deskNote": {
   "kicker": "Desk note",
   "signed": "Scout",
-  "hed": "Night Wed: Dalio says AI is a classic bubble nearing its pop as rates climb, on the same day private credit was asked to fund more than $90 billion of AI chips.",
-  "body": "Night No. 269 after Late Evening No. 268. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: Ray Dalio and Temasek's CEO on AI bubble risk and capital concentration (Bloomberg via Financial Post, CNA); IonQ and IBM reach Stage C of DARPA's quantum benchmarking program, IonQ's agreement worth up to $300 million (IonQ release, Stock Titan); Rivian's $1 billion non-recourse Volkswagen loan at 6.03% secured by its JV stake (8-K). Owner: Quill."
+  "hed": "Morning Thu: Samsung posts the biggest quarterly profit in tech while Firmus finds public investors won't pay up for a neocloud, and the 10-year is back at 2002 highs.",
+  "body": "Morning No. 270 after Night No. 269. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: futures slip with the 10-year near 5.35% and Brent above $105 (Sharecast, Yahoo); Samsung Q3 guide of 107.4 trillion won operating profit (Samsung, Yonhap); TSMC September sales up 54.6% (TSMC, CNBC); Isomorphic Labs talks at $40 billion or more (Bloomberg); Firmus IPO repricing toward A$8.25 and possible withdrawal (AFR, ABC); Claude Haiku 5.5 (Anthropic); State of AI Report 2026 (Air Street); Adani CFO's $100 billion a year capacity goal (BusinessLine); Goldman upgrades Palantir (CNBC). Owner: Quill."
  },
  "comingUp": {
   "label": "Coming up",
-  "line": "No. 269 Night Wed after No. 268 Late Evening. SpaceX-Apollo chip financing is MAJOR lead. Watch: Dalio's rate trigger and Thursday's 30-year auction; IonQ initial DARPA obligation and other Stage C entrants; Rivian Q3 cash guide and the final $460 million VW payment; Broadcom Nexus financing size and lenders for OpenAI and Oracle's chip-lease vehicle; HSBC consultation outcome and peer bank AI cuts; Decisions API general availability; Biohub first datasets and access terms; Wolfspeed definitive OSC agreements, convertible equitization and the $750 million raise; Mecka valuation and robotics-lab customers; GPT-6 Luna free-tier rollout Thursday and Intelligent UI uptake in Business and Enterprise; Gigamon bidder field and price vs $2 billion; SynthID Apple support and enterprise detection API use; Applied Digital call commentary, after-hours reaction and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
+  "line": "No. 270 Morning Thu after No. 269 Night. SpaceX-Apollo chip financing is MAJOR lead. Watch: $22 billion 30-year bond auction Thu 1pm ET with the 10-year at 2002 highs; Waller follow-up and Oct 28 FOMC hike pricing; Brent above $100 and Iran escalation; weekly jobless claims and wholesale inventories; Firmus final price, shrunken raise or withdrawal and the Oct 23 ASX date; Samsung final Q3 results and HBM detail; TSMC Q3 results and Q4 guide next week; Isomorphic round size and lead investor; Haiku 5.5 price responses from OpenAI and Google; State of AI 2027 predictions; Adani FY27 capex delivery; Palantir Q3 print. Carried from No. 269: Dalio's rate trigger and Thursday's 30-year auction; IonQ initial DARPA obligation and other Stage C entrants; Rivian Q3 cash guide and the final $460 million VW payment; Broadcom Nexus financing size and lenders for OpenAI and Oracle's chip-lease vehicle; HSBC consultation outcome and peer bank AI cuts; Decisions API general availability; Biohub first datasets and access terms; Wolfspeed definitive OSC agreements, convertible equitization and the $750 million raise; Mecka valuation and robotics-lab customers; GPT-6 Luna free-tier rollout Thursday and Intelligent UI uptake in Business and Enterprise; Gigamon bidder field and price vs $2 billion; SynthID Apple support and enterprise detection API use; Applied Digital call commentary, after-hours reaction and Finland customer talks; Liquid d1 outside replication; pplx-embed-v2-late ViDoRe replication; $22 billion 30-year bond auction Thu 1pm ET; Oct 28 FOMC decision and December hike pricing after minutes; UNREAL code release and replication; Rivercell first model timing; Caterpillar Q3 results Nov 4 and whether industrials steady with long yields; Micron long-term agreement share and other memory target moves; EmbeddingGemma 2 adoption and Model Garden availability; Siena customer wins; Boots UK regulatory review and Sycamore's remaining Boots Group assets; Healthleap outside validation; Bambusa financing plans; Uniper next-round shortlist (Apollo, EPH, Brookfield-CPPIB, Equinor, KKR-RWE); HubSpot Q3 print after the 7% cut; Emera-Canadian Utilities votes and ratings; SEON funding or listing plans; Webull regulatory follow-up and broker read-across; Boost.ai deal terms and Q4 close; Stuut DSO results; Atomic Machines first customers; SpaceX debt size, pricing and lender lineup; mathematician review of OpenAI's manuscripts and new Lean proofs; Nous lead investor and first enterprise customers; 30-y yield near 2002 highs; Black Hills Wyoming regulatory steps; Cumming's first guide commentary at Penguin; Lambda round close and IPO timing; who joins Anthropic's Specialized CVP tier; Elice retail subscriptions Oct 7-8; Vistra DOE loan close; Etched final valuation; Mistral Large 4 open-weight release; Recordati tender close Oct 23; OPCH spread to $32.05; KKR-Gen II regulatory path; Anthropic $42B senior loan pricing; PTC spread to $205; Q3 earnings season starts next week; Schneider Q3 revenue Oct 16; Oracle Investor Day Oct 28; MPS vote Oct 29."
  },
  "sections": [
   "All",
@@ -49,6 +49,207 @@
     "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
     "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
     "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+   ]
+  },
+  {
+   "id": "yields-oil-futures-oct8",
+   "lead": false,
+   "section": "Markets",
+   "kicker": "Markets / Rates & Oil",
+   "hed": "Futures slip as the 10-year yield returns to 2002 highs and Brent tops $105 on Iran war fears",
+   "dek": "Sharecast pre-open (Oct 8, 2026, 7:30 AM ET) and Yahoo Finance: 10-year near 5.35% after Fed governor Waller said more hikes may be needed; Brent up about 5% after Trump said he does not intend to strike a deal with Iran. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "Sharecast News; Yahoo Finance",
+   "url": "https://www.sharecast.com/news/market-report-us-pre-open/us-pre-open-futures-slide-with-108209year-yield-back-at-2002-highs-brent-above-105--23794284.html",
+   "also": [
+    "https://www.morningstar.com/news/dow-jones/202610083052/north-american-morning-briefing-oil-rises-on-mideast-jitters-pushing-yields-higher",
+    "https://www.tipranks.com/news/stock-market-today-oct-8-futures-fall-as-brent-crude-reaches-104"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR. The rate and oil shock lands the same morning as the 30-year auction and on top of this week's AI chip-debt stories, so funding costs for the SpaceX, Broadcom and Oracle financings just moved again. Watch: the $22 billion 30-year auction at 1 PM ET, any Waller follow-up, and whether Brent holds above $100. Owner Quill.",
+   "grafs": [
+    "U.S. stock futures fell before Thursday's open as Treasury yields jumped again and crude surged, Sharecast reported. As of 7:30 AM ET, Dow futures were down 0.94%, S&P 500 futures 0.58% and Nasdaq-100 futures 0.83%. The 10-year Treasury yield climbed more than five basis points to 5.351%, touching levels last seen in 2002, and the 30-year traded near 24-year highs at 5.726%.",
+    "Sharecast tied the bond move to comments from Fed governor Christopher Waller, who warned that further rate hikes may still be required to bring inflation under control. Oil jumped after President Trump said he did not intend to strike a deal with Iran to end the Middle East conflict, amid reports the U.S. was preparing a bombing campaign. Brent rose to $105.35 and WTI to $92.72 in the report.",
+    "Yahoo Finance prints at about 8:47 AM ET showed S&P futures near 7,818.50, Nasdaq futures near 31,179, WTI near $92.45 and Brent near $104.87, with the 10-year at 5.324% and the 30-year at 5.695% around 8:42 AM ET. Weekly jobless claims and August wholesale inventories were due later in the morning."
+   ]
+  },
+  {
+   "id": "samsung-q3-record-guide",
+   "lead": false,
+   "section": "AI",
+   "kicker": "AI Chips / Earnings",
+   "hed": "Samsung guides to a record 107.4 trillion won quarterly operating profit, up 782.5%, on AI memory demand",
+   "dek": "Samsung Global Newsroom guidance and Yonhap (Oct 8, 2026, Seoul): Q3 sales about 195 trillion won (+126.6% y/y), operating profit about 107.4 trillion won (about $80 billion), 1.6% above consensus; shares closed 2.4% lower. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "Samsung Electronics (Global Newsroom); Yonhap",
+   "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+   "also": [
+    "https://en.yna.co.kr/view/AEN20261008000952320",
+    "https://www.koreaherald.com/article/10896336",
+    "https://en.sedaily.com/finance/2026/10/08/samsung-quarterly-operating-profit-tops-107-trillion-won"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR because it is preliminary guidance and broadly expected, but it is the cleanest single data point on what the AI memory squeeze is worth: one quarter of Samsung profit now tops Nvidia's best quarter. Pair with TSMC September sales and Micron. Watch: final results with division detail later this month, HBM share, and why the stock fell on a beat. Owner Quill.",
+   "grafs": [
+    "Samsung Electronics said Thursday its third-quarter consolidated operating profit was approximately 107.40 trillion won and sales approximately 195 trillion won, according to its K-IFRS earnings guidance. The company gave ranges of 107.3 to 107.5 trillion won for operating profit and 194 to 196 trillion won for sales. A year earlier it earned 12.17 trillion won on 86.06 trillion won of sales; in the second quarter it earned 89.49 trillion won.",
+    "Yonhap said the profit was up 782.5% from a year earlier, about $79.8 billion, and beat the average market forecast by 1.6% per Yonhap Infomax, driven by demand for AI-related semiconductors. The Korea Herald called it the first time any technology company has crossed 100 trillion won in quarterly operating profit, and the Seoul Economic Daily noted it exceeds Nvidia's $63.7 billion record quarter.",
+    "Samsung did not give net profit or division figures in the guidance. Its shares closed at 262,000 won in Seoul, down 2.4% from 268,500 won, per Yahoo Finance, as Asian markets fell with oil and bond yields."
+   ]
+  },
+  {
+   "id": "tsmc-sept-rev",
+   "lead": false,
+   "section": "Markets",
+   "kicker": "AI Chips / Monthly Sales",
+   "hed": "TSMC September revenue rises 54.6% to NT$511.86 billion, nine-month sales up 41.1%",
+   "dek": "TSMC release (Oct 8, 2026, Hsinchu) and CNBC: September net revenue about $16.03 billion, down 0.6% from August's record pace but up 54.6% y/y; Q3 results due next week. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "TSMC; CNBC",
+   "url": "https://pr.tsmc.com/english/news/3343",
+   "also": [
+    "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+    "https://www.stocktitan.net/sec-filings/TSM/6-k-taiwan-semiconductor-manufacturing-co-ltd-current-report-foreign--84207b3006fe.html"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR. A monthly print, but it gives the third-quarter total ahead of next week's earnings and confirms foundry demand is holding near August's level. Watch: Q3 results and Q4 guide next week, capex commentary, and High NA EUV timing. Owner Quill.",
+   "grafs": [
+    "TSMC said consolidated net revenue for September 2026 was approximately NT$511.86 billion, a decrease of 0.6% from August and an increase of 54.6% from September 2025. Revenue for January through September totaled NT$3,898.73 billion, up 41.1% from a year earlier, according to the company's release.",
+    "The release table shows September revenue of NT$511,857 million against NT$514,806 million in August and NT$330,980 million a year earlier. CNBC put September sales at about $16.03 billion and said TSMC is scheduled to report third-quarter earnings next week.",
+    "TSMC shares closed at NT$2,550 in Taipei, down 1.35%, before the figures were released, and the U.S.-listed ADR traded near $465.30 before Thursday's open, down about 1.5% from Wednesday's $472.20 close, per Yahoo Finance."
+   ]
+  },
+  {
+   "id": "isomorphic-40-50b-talks",
+   "lead": false,
+   "section": "AI",
+   "kicker": "AI / Venture Funding",
+   "hed": "Isomorphic Labs in early talks to raise at a valuation of at least $40 billion, five months after a $2.1 billion round",
+   "dek": "Bloomberg via Bloomberg Law (Oct 8, 2026): the Alphabet drug-discovery unit could be valued as high as $50 billion; financing has not closed and details could change; Isomorphic did not comment. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "Bloomberg, via Bloomberg Law; Semafor",
+   "url": "https://news.bloomberglaw.com/private-equity/isomorphic-labs-in-funding-talks-for-at-least-40-billion-value",
+   "also": [
+    "https://www.semafor.com/article/10/08/2026/alphabets-biolab-in-funding-talks-at-40b-valuation",
+    "https://www.isomorphiclabs.com/press/isomorphic-labs-funding",
+    "https://seekingalpha.com/news/4651208-deepmind-spinout-isomorphic-labs-in-talks-to-raise-funds-at-40b50b-valuation-report"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR because talks are early and no lead investor or size is reported. It extends this week's AI-biology thread after the $1.8 billion Biohub virtual biology initiative, which Isomorphic joined. Watch: round size, lead investor, Alphabet's stake, and first human trial timing. Owner Quill.",
+   "grafs": [
+    "Isomorphic Labs, the Alphabet company using artificial intelligence to discover drugs, is in early talks to raise new funds at a valuation of at least $40 billion, Bloomberg reported, citing people familiar with the matter. The round could value the Google DeepMind spinout at as much as $50 billion, one of the people said. The financing has not closed and details could change.",
+    "Isomorphic did not respond to a request for comment, Bloomberg said. The company announced a $2.1 billion Series B in May led by Thrive Capital, with Alphabet, GV, MGX, Temasek, CapitalG and the UK Sovereign AI Fund participating, according to its press release.",
+    "Semafor framed the talks as another sign of strong investor appetite for AI despite growing fears of a bubble."
+   ]
+  },
+  {
+   "id": "firmus-ipo-repriced",
+   "lead": false,
+   "section": "Finance",
+   "kicker": "IPO / AI Infra",
+   "hed": "Firmus IPO buckles: bankers seek bids at A$8.25 versus A$11 and pull deal documents as a withdrawal is weighed",
+   "dek": "AFR Street Talk and ABC News (Oct 8, 2026, Sydney): the bookbuild closed with weak demand for the A$44 billion float; prospectus pulled from the data room; Oct 23 ASX listing in doubt. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "Australian Financial Review; ABC News",
+   "url": "https://www.afr.com/street-talk/firmus-pulls-down-ipo-docs-as-bankers-try-shrinking-7-9b-ipo-20261008-p613ry",
+   "also": [
+    "https://www.afr.com/street-talk/firmus-pricing-talks-slides-towards-8-bankers-scramble-to-revive-ipo-20261008-p613re",
+    "https://www.afr.com/technology/firmus-ipo-hangs-in-the-balance-as-investor-demand-evaporates-20261008-p613s0",
+    "https://www.abc.net.au/news/2026-10-08/firmus-ipo-underwhelms-before-it-hits-the-market/107241548"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR on its own, but it updates the on-plate firmus-ipo-5b and firmus-openai stories and is the first public-market rejection of a neocloud this cycle, landing alongside Dalio's bubble call and the chip-debt wave. Watch: final price or withdrawal, any shrunken raise, the Oct 23 listing date, and read-across to other neocloud listings. Owner Quill.",
+   "grafs": [
+    "Firmus Technologies' bankers spent Wednesday night coaxing investors to submit bids into its initial public offering at A$8.25 per share, the Australian Financial Review's Street Talk reported, down from the A$11 the float had been pitched at. Later on Thursday the AFR said the IPO documents, a watermarked prospectus and investor presentation, had been pulled from the virtual data room as bankers tried to shrink the A$7.9 billion raising.",
+    "By Thursday afternoon in Sydney, the AFR reported that bankers on the proposed A$44 billion listing had moved from discussing a rework of the float to considering pulling the deal altogether, citing lukewarm interest from major investors and local super funds. ABC News said the bookbuild had closed, that Goldman Sachs was reportedly brought in to rescue the deal, and that Firmus is still scheduled to list on the ASX on Oct. 23.",
+    "ABC quoted Ten Cap's Jun Bei Liu saying she was steering clear because of an \"unprecedented lack of detail\" and that 97% of promised capacity has not been built. Morningstar's Lochlan Halloway said Firmus expects to carry about US$30 billion of debt once built, around six times its forecast US$5 billion of 2028 operating earnings."
+   ]
+  },
+  {
+   "id": "claude-haiku-55",
+   "lead": false,
+   "section": "AI",
+   "kicker": "AI / Models",
+   "hed": "Anthropic releases Claude Haiku 5.5 at $0.10 per million input tokens, about 75% cheaper to run than Haiku 4.5",
+   "dek": "Anthropic (Oct 7, 2026) plus Claude docs and AWS: 1M-token context, adaptive thinking, built for subagents and high-volume work; Sonnet 5.5 cache reads halved; new monthly API credits for Max and Team. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 7–8, 2026",
+   "source": "Anthropic; Claude Platform docs; AWS",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "also": [
+    "https://platform.claude.com/docs/en/models/haiku-5-5/overview.md",
+    "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+    "https://www-cdn.anthropic.com/e1080d6bf5ae2018ea3c2f414064be03232f5be5/Claude%20Haiku%205.5%20System%20Card.pdf"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR. Completes the Claude 5.5 family after on-plate anthropic-opus-55 and anthropic-sonnet-55, and the price cut matters for CFOs budgeting agent workloads. Note the newer tokenizer counts about 30% more tokens than Haiku 4.5, so per-task savings differ from list price. Watch: OpenAI and Google small-model price responses and enterprise uptake on Bedrock. Owner Quill.",
+   "grafs": [
+    "Anthropic on Wednesday released Claude Haiku 5.5, calling it the cheapest, fastest and most capable small model it has released. The company said it is built for high-volume, cost-sensitive tasks such as summaries, database queries and classification, and pairs with Opus 5.5 and Sonnet 5.5 as a subagent on coding work. On average it costs around 75% less to run than Haiku 4.5, Anthropic said.",
+    "Anthropic's documentation lists a 1M-token context window, up to 128,000 output tokens, adaptive thinking controlled by an effort setting, and base pricing of $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 100,000 tokens. It uses the newer tokenizer, so the same text counts as roughly 30% more tokens than on Haiku 4.5. The model is available on the Claude API, Amazon Bedrock, Google Cloud and Microsoft Foundry.",
+    "Alongside the launch, Anthropic said it is halving the price of Sonnet 5.5 cache reads, making Sonnet about 20% cheaper on most agentic work, and introducing monthly API credits of $100 for Max 5x, $200 for Max 20x and up to $500 pooled for Team subscribers."
+   ]
+  },
+  {
+   "id": "state-of-ai-2026",
+   "lead": false,
+   "section": "AI",
+   "kicker": "AI / Research Report",
+   "hed": "State of AI Report 2026: OpenAI and Anthropic hit a combined $105 billion run rate as hyperscalers guide to about $733 billion of capex",
+   "dek": "Air Street Press and Nathan Benaich (Oct 8, 2026): ninth annual report says the frontier is a three-lab race, Claude led 26% of Anthropic's measured model R&D work in August, and local opposition blocked or delayed about $68 billion of data centers in Q2. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "Air Street Press (Nathan Benaich); stateof.ai",
+   "url": "https://press.airstreet.com/p/state-of-ai-2026",
+   "also": [
+    "https://www.stateof.ai/",
+    "https://www.stateof.ai/2026-explore/predictions"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR. A widely cited annual reference with compact numbers on revenue, capex, inference cost and data-center opposition that Quill can mine for several pieces. Watch: the full slide deck figures, the nine predictions for 2027, and reactions from the labs. Owner Quill.",
+   "grafs": [
+    "Nathan Benaich and Air Street published the ninth annual State of AI Report on Thursday. Benaich wrote that the frontier is now a three-lab race between Anthropic, OpenAI and Google, and that, according to Anthropic's internal index, Claude led 26% of measured model R&D work in August, up from under 1% in February, with researchers setting and supervising the tasks.",
+    "On money, the report says OpenAI and Anthropic's combined reported annualized revenue run rates reached about $105 billion by late summer, up from about $30 billion at the start of the year, and that four U.S. hyperscalers guide to roughly $733 billion of 2026 capex. Citing Epoch AI, it says reaching a fixed benchmark score has become 47% cheaper each quarter since 2023.",
+    "It also cites Data Center Watch counting at least 45 projects, nearly $68 billion of planned investment, blocked or delayed by local opposition in the second quarter, and a Gallup survey in which 71% of Americans opposed a local AI data center. Last year's predictions scored two hits, five partial outcomes and three misses, Benaich wrote."
+   ]
+  },
+  {
+   "id": "adani-cfo-100b-capacity",
+   "lead": false,
+   "section": "CFO",
+   "kicker": "CFO / Capex",
+   "hed": "Adani CFO Jugeshinder Singh targets capacity to invest up to $100 billion a year by 2033, with 72% of forward capex self-funded",
+   "dek": "The Hindu BusinessLine (Oct 8, 2026, GIFT City): about 4.8 times this year's roughly 2 lakh crore rupee plan, after a record 1.53 lakh crore rupees in FY26; borrowing cost down to 7.8%. A capacity goal, not a spending commitment. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "The Hindu BusinessLine",
+   "url": "https://www.thehindubusinessline.com/companies/adani-targets-100-billion-annual-investment-capacity-by-2033/article71558581.ece",
+   "also": [
+    "https://eflip.in/adani-targets-100-billion-annual-investment-capacity-by-2033/"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR. A CFO-beat story on how a capex-heavy group funds itself at today's rates: Singh says high rates do not stop investment when the assets are used, and that the group invests about 1.6 to 1.7 times EBITDA. Watch: FY27 capex delivery by unit and any external debt or equity raises. Owner Quill.",
+   "grafs": [
+    "Adani Group chief financial officer Jugeshinder Singh said he wants the group to build the capability and capacity to invest up to $100 billion a year by 2033, The Hindu BusinessLine reported from a CareEdge Global event at GIFT City late Wednesday. That is about 4.8 times the roughly 2 lakh crore rupees the group is targeting this financial year, and the group aims to sustain that level from 2035.",
+    "Singh said 72% of forward capex comes from internal cash flow, with the rest from domestic and global banks and capital markets. \"We frankly do not need anybody's capital,\" he said. He said the group has kept investment at about 1.6 to 1.7 times EBITDA for at least eight years.",
+    "According to the report, Adani spent a record 1,52,967 crore rupees on new projects in FY26, ended the year with cash equal to about 15% of total debt, and cut its borrowing cost to 7.8% from 9% two years earlier on rating upgrades. Singh said that even at elevated rates the group will invest more this year than last."
+   ]
+  },
+  {
+   "id": "palantir-goldman-upgrade",
+   "lead": false,
+   "section": "Markets",
+   "kicker": "Markets / AI Software",
+   "hed": "Goldman upgrades Palantir to Buy with a $230 target, citing sovereign AI and its forward-deployed engineering model",
+   "dek": "CNBC and Investing.com (Oct 8, 2026): analyst Gabriela Borges moves from Neutral, about 18% upside; PLTR traded near $198.76 premarket, up about 2.4%. NOT MAJOR. Owner Quill.",
+   "date": "Oct. 8, 2026",
+   "source": "CNBC; Investing.com",
+   "url": "https://www.cnbc.com/2026/10/08/palantir-isnt-done-capitalizing-on-ai-boom-goldman-sachs-says.html",
+   "also": [
+    "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-18-upside-for-palantir-on-sovereign-ai-growth-4938613",
+    "https://www.benzinga.com/news/26/10/62239993/goldman-sachs-upgrades-palantir-technologies-buy-announces-230-price-target"
+   ],
+   "owner": "QUILL",
+   "action": "ADD (No. 270 Morning Thu after No. 269 Night). NOT MAJOR. A sell-side call, but notable as one of the few AI names rising into a risk-off open, and it ties to the sovereign AI spending theme in the State of AI Report. Watch: Q3 earnings and whether other brokers follow. Owner Quill.",
+   "grafs": [
+    "Goldman Sachs analyst Gabriela Borges upgraded Palantir to Buy from Neutral on Thursday with a 12-month price target of $230, implying about 18% upside from the prior close, according to CNBC and Investing.com.",
+    "Borges cited expanding demand for sovereign AI and bespoke applications, and Palantir's forward-deployed engineering model, which she said can be partly automated with AI engineers, per the reports.",
+    "Palantir shares traded near $198.76 before the open, up about 2.4% from Wednesday's $194.12 close, per Yahoo Finance, against a weaker tape for chip stocks."
    ]
   },
   {
