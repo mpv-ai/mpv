@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 272,
+  "number": 273,
   "city": "New York",
   "date": "Thursday, October 8, 2026",
-  "editionLabel": "Late Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Yahoo Finance chart API (Thu Oct 8: equities ~3:48 PM ET; 10-y and 30-y yields ~3:00 PM ET; WTI and Brent front-month ~3:38 PM ET; changes vs Wed Oct 7 closes). 30-year auction stats from investingLive/Helious ~1:06 PM ET. OpenAI ARR from CNBC/FT.",
-    "updated": "Oct 8 ~3:50 PM ET Late Afternoon No. 272. AI names weigh Nasdaq after OpenAI ARR print; 30-y auction digests: S&P 7,760.86 (-0.52%); Dow 51,205.71 (+0.05%); Nasdaq 27,177.77 (-1.31%). WTI ~$91.29 (+3.4%); Brent ~$104.09 (+3.9%). 10-y 5.231%; 30-y 5.606%. NVDA ~$230.48 (-2.9%); TSM ~$455.45 (-3.5%); AVGO ~$358.41 (-4.8%); ORCL ~$135.12 (-5.9%); AMD ~$616.04 (-4.6%); MU ~$1,034.73 (-4.9%); GOOGL ~$348.13 (-0.7%); PLTR ~$198.25 (+2.1%); GS ~$881.25 (-0.7%); BX ~$112.80 (+0.9%); KKR ~$89.17 (-0.6%); WOLF ~$30.71 (-2.1%); APLD ~$23.82 (+0.1%). $22B 30-y auction high 5.618% (solid/B).",
-    "line": "LIVE Thu ~3:50 PM ET · S&P 7,760.86 (-0.52%) · Dow 51,205.71 (+0.05%) · Nasdaq 27,177.77 (-1.31%) · WTI ~$91.29 (+3.4%) · Brent ~$104.09 (+3.9%) · 10-y 5.231% · 30-y 5.606% · NVDA ~$230.48 (-2.9%) · TSM ~$455.45 (-3.5%) · AVGO ~$358.41 (-4.8%) · ORCL ~$135.12 (-5.9%) · AMD ~$616.04 (-4.6%) · MU ~$1,034.73 (-4.9%) · GOOGL ~$348.13 (-0.7%) · PLTR ~$198.25 (+2.1%) · GS ~$881.25 (-0.7%) · KKR ~$89.17 (-0.6%) · 30-y auction 5.618%"
+    "source": "AP close for indices (Thu Oct 8). Yahoo Finance chart API day closes for equities and yields (Thu vs Wed session closes). WTI/Brent front-month last prints from Yahoo CL=F/BZ=F; settlement day changes from Reuters/DevDiscourse (+3.6% WTI / +4.1% Brent).",
+    "updated": "Oct 8 Evening No. 273 close. S&P 7,765.36 (-0.47% / -36.41); Dow 51,231.64 (+0.10% / +51.77); Nasdaq 27,193.34 (-1.25% / -345.35); Russell 2,794.13 (+0.03%). WTI ~$91.18 (+3.6%); Brent ~$103.92 (+4.1%). 10-y 5.231%; 30-y 5.606%. NVDA $230.48 (-2.9%); TSM $457.99 (-3.0%); AVGO $360.14 (-4.3%); ORCL $135.69 (-5.5%); AMD $620.68 (-3.9%); MU $1,035.84 (-4.8%); GOOGL $348.29 (-0.6%); PLTR $198.78 (+2.4%); GS $882.59 (-0.5%); BX $112.68 (+0.8%); KKR $89.56 (-0.1%); WOLF $31.02 (-1.1%); APLD $23.85 (+0.2%).",
+    "line": "CLOSE Thu · S&P 7,765.36 (-0.47%) · Dow 51,231.64 (+0.10%) · Nasdaq 27,193.34 (-1.25%) · Russell 2,794.13 (+0.03%) · WTI ~$91.18 (+3.6%) · Brent ~$103.92 (+4.1%) · 10-y 5.231% · 30-y 5.606% · NVDA $230.48 (-2.9%) · TSM $457.99 (-3.0%) · AVGO $360.14 (-4.3%) · ORCL $135.69 (-5.5%) · AMD $620.68 (-3.9%) · MU $1,035.84 (-4.8%) · GOOGL $348.29 (-0.6%) · PLTR $198.78 (+2.4%) · GS $882.59 (-0.5%) · BX $112.68 (+0.8%) · KKR $89.56 (-0.1%) · WOLF $31.02 (-1.1%) · APLD $23.85 (+0.2%)"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Late Afternoon Thu: OpenAI's ~$50B ARR print knocks Oracle ~6%, the $22B 30-year clears at 5.618%, and Arena, Hone and Catalyst add agent funding.",
-    "body": "Late Afternoon No. 272 after Late Morning No. 271 (12:47 and 1:47 PM hourlies did not publish). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. ADD NOT MAJOR: OpenAI ~$50B ARR vs earlier ~$68-70B signals hits ORCL/NVDA/AVGO (CNBC, FT, Benzinga); solid $22B 30-year auction at 5.618% (investingLive, Helious); Arena $200M Series B at $3.1B with Alignment Index (TechCrunch, Arena); Hone $60M seed at $285M for long-horizon Engines (Bloomberg Law); Catalyst $30M Sequoia seed for retail trading agents (Fortune, Sequoia); AEA and BCI buy Rensa Filtration from Audax (PR Newswire). Owner: Quill."
+    "hed": "Evening close Thu: Nasdaq off 1.25% on AI names, Oracle gas-truck report, OpenAI safety letter, Oratomic $475M, Genesis Mission pledges.",
+    "body": "Evening No. 273 after Late Afternoon No. 272 (the ~4:47 PM hourly did not publish). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Close tape from AP indices and Yahoo day closes: S&P 7,765.36 (-0.47%), Dow 51,231.64 (+0.10%), Nasdaq 27,193.34 (-1.25%); ORCL $135.69 (-5.5%), AVGO $360.14 (-4.3%), NVDA $230.48 (-2.9%); WTI ~$91.18 (+3.6%), Brent ~$103.92 (+4.1%); 10-y 5.231%. ADD NOT MAJOR: Oracle trucked CNG for AI sites and Project Jupiter backup (Seeking Alpha, CryptoBriefing); fired OpenAI safety researchers public letter (The Verge, WSJ); Oratomic $475M Series B at $5.4B (WSJ, company); Goldman on hyperscaler AI cost of capital (CryptoBriefing); White House Genesis Mission $2.4B industry SI/compute pledges inside $6B+ science push (White House). Carried: OpenAI ~$50B ARR print and 30-y auction from No. 272. Owner Quill on all adds."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 272 Late Afternoon Thu after No. 271 Late Morning. SpaceX-Apollo chip financing remains MAJOR lead. Watch: OpenAI ARR presentation vs Anthropic and Oracle $500B compute pact scrutiny into the close; whether NVDA/AVGO stabilize; 30-y hold below morning highs after the 5.618% stop; Dec. hike odds into Oct 28 FOMC and next week's CPI; Arena Alignment Index lab responses; Hone customer metrics; Catalyst waitlist and compliance; Rensa disclosed terms. Carried from No. 271: Gemini agent pricing and GA; Manus valuation and Hong Kong IPO filing; OpenAI response to Navier-Stokes Lean critique; Vesta lender-agent adoption; PolyAI and Starburst funding or IPO prep; Firmus final price, shrunken raise or withdrawal and the Oct 23 ASX date; Samsung final Q3 and HBM detail; TSMC Q3 and Q4 guide; Isomorphic round size and lead; Haiku 5.5 price responses; State of AI 2027; Adani FY27 capex; Palantir Q3. Carried from No. 270/269: Broadcom Nexus financing size and lenders; Wolfspeed OSC definitive docs; Gigamon bidder field; Applied Digital follow-through; Uniper next-round shortlist; HubSpot Q3; Q3 earnings season next week; Oracle Investor Day Oct 28; MPS vote Oct 29."
+    "line": "No. 273 Evening close Thu after No. 272 Late Afternoon. SpaceX-Apollo chip financing remains MAJOR lead. Watch: Night plate for any after-hours on OpenAI ARR/safety letter and Oracle power logistics; whether NVDA/AVGO/ORCL stabilize Friday; Dec. hike odds into Oct 28 FOMC and next week CPI; Genesis Mission consortium follow-through; Oratomic build timeline. Carried OpenAI ARR and 30-y auction."
   },
   "sections": [
     "All",
@@ -49,6 +49,114 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "oracle-gas-trucks-ai",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Power",
+      "hed": "Oracle trucks compressed natural gas to AI data centers and weighs the same for Project Jupiter",
+      "dek": "Seeking Alpha and CryptoBriefing (Oct 8, 2026): Oracle is already using trucked CNG at Salt Lake City and Shackelford County, Texas AI sites (Certarus, VoltaGrid) while pipelines lag, and is considering the same backup for Project Jupiter in New Mexico after Green Chile pipeline slips to Feb 1, 2027. Trucked gas is estimated about 4x pipeline cost. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 8, 2026",
+      "source": "Seeking Alpha; CryptoBriefing",
+      "url": "https://seekingalpha.com/news/4651487-oracle-uses-trucked-natural-gas-to-keep-ai-data-centers-on-track-report",
+      "also": [
+        "https://cryptobriefing.com/oracle-trucked-natural-gas-project-jupiter/",
+        "https://www.investing.com/news/stock-market-news/oracle-uses-natural-gas-trucks-to-power-data-centers--report-4939522"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 273 Evening Thu after No. 272 Late Afternoon). NOT MAJOR. Fresh power-logistics angle on Oracle AI capex after the ARR-driven ORCL selloff and prior Jupiter force-majeure plate. Watch: pipeline permit path, trucking cost drag on DC unit economics, and whether ORCL stabilizes off the close. Owner Quill.",
+      "grafs": [
+        "Oracle is delivering compressed natural gas by truck to keep some AI data centers online while dedicated pipelines are late, Seeking Alpha reported on Thursday, citing media accounts of the practice at Salt Lake City and Texas sites.",
+        "CryptoBriefing said suppliers including Certarus and VoltaGrid are filling the gap at sites in Salt Lake City and Shackelford County, Texas, and that Oracle is considering the same approach for Project Jupiter in New Mexico after the Green Chile Project pipeline slipped from an August 15, 2026 target to February 1, 2027 following New Mexico State Land Office permit rejections.",
+        "Trucked gas is estimated to cost about four times pipeline gas. Oracle has said Project Jupiter remains aimed at a 2028 completion even after a September force majeure notice tied to power-supply risk. Yahoo day close had ORCL at $135.69, down about 5.5% versus Wednesday."
+      ]
+    },
+    {
+      "id": "openai-safety-letter-oct8",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Safety",
+      "hed": "Fired OpenAI safety researchers publish letter seeking transparency and monitorability guardrails",
+      "dek": "The Verge (Oct 8, 2026) and WSJ: Tomek Korbak, Jasmine Wang, and Mikita Balesni, parted out around Oct 1 over alleged mishandling of sensitive information, wrote OpenAI board and safety committees defending external safety work, warning firings could chill staff and METR ties, and urging rules that preserve chain-of-thought monitoring. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 8, 2026",
+      "source": "The Verge; Wall Street Journal; TechCrunch",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008339/former-openai-safety-researchers-ask-for-more-transparency-about-their-firings",
+      "also": [
+        "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
+        "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 273 Evening Thu after No. 272 Late Afternoon). NOT MAJOR. Public letter is the fresh Oct 8 beat hit after the Oct 1 firings plate. Watch: OpenAI internal explanation, third-party auditor access, and any spill into DevDay/safety narrative beside the ARR tape. Owner Quill.",
+      "grafs": [
+        "Three former OpenAI safety researchers asked the company for more transparency about their firings in a letter covered by The Verge on Thursday, pushing back on claims they shared confidential information with an outside AI safety group.",
+        "Tomek Korbak, Jasmine Wang, and Mikita Balesni said they acted in line with OpenAI mission and raised concern that the firings could justify ending work with METR. WSJ reporting and follow-ons said they also urged labs not to advance techniques that weaken AI monitorability, including chain-of-thought monitoring.",
+        "OpenAI told WSJ in early October it parted ways with three people for violating policies on accessing and handling sensitive company information. Separate accounts said a safety leader later agreed with recommendations in the letter while maintaining the firings were not about raising safety concerns."
+      ]
+    },
+    {
+      "id": "oratomic-475m",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Quantum",
+      "hed": "Oratomic raises $475 million Series B at a $5.4 billion valuation for neutral-atom quantum",
+      "dek": "WSJ exclusive via Techmeme and company (Oct 8, 2026): Pasadena Oratomic raised a $475M Series B at $5.4B valuation (from $1.5B after a July $300M Series A), taking total funding to $775M. Leads include ARCH Venture Partners, Spark, Khosla, Index, General Catalyst, and Bezos Expeditions. Neutral-atom fault-tolerant push. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 8, 2026",
+      "source": "Wall Street Journal; Oratomic; SiliconANGLE",
+      "url": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
+      "also": [
+        "https://www.oratomic.com/news/fundraise",
+        "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m/",
+        "https://www.techmeme.com/261008/p18"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 273 Evening Thu after No. 272 Late Afternoon). NOT MAJOR. Largest fresh quantum financing on the beat today. Watch: utility-scale fault-tolerance timeline and whether valuation comps re-rate peer quantum names. Owner Quill.",
+      "grafs": [
+        "Oratomic, a Pasadena quantum startup building reconfigurable neutral-atom systems, raised a $475 million Series B at a $5.4 billion valuation, the Wall Street Journal reported, lifting the company from a $1.5 billion mark after its July Series A.",
+        "The company said total funding since its March 2026 launch is now $775 million. ARCH Venture Partners, Spark Capital, Khosla Ventures, Index Ventures, General Catalyst, and Bezos Expeditions led the financing.",
+        "Oratomic says it is focused exclusively on utility-scale, fault-tolerant machines and will use the capital for team, lab infrastructure, and systems build-out. SiliconANGLE separately noted Universal Quantum raised more than $100 million Series A the same day on a trapped-ion path."
+      ]
+    },
+    {
+      "id": "goldman-ai-cost-capital",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / AI Capex",
+      "hed": "Goldman: AI hyperscaler boom is large enough to lift the cost of capital",
+      "dek": "CryptoBriefing (Oct 8, 2026) on Goldman research (Oppenheimer/Hammond, mid-to-late Sept): top-five US hyperscalers seen spending ~$800B on AI infrastructure in 2026 (vs $413B in 2025), with ~$70B AI cloud revenue above trend vs ~$300B breakeven need (~$230B annual shortfall). Convertibles and IG issuance swelling; GSAM underweight hyperscaler debt. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 8, 2026",
+      "source": "CryptoBriefing; Goldman Sachs research (via report)",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-boom-cost-of-capital/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 273 Evening Thu after No. 272 Late Afternoon). NOT MAJOR. Distinct from Warsh/PIMCO plate: quantified hyperscaler funding gap and credit-market channel. Watch: IG/convertible supply, FCF for AMZN/GOOGL/MSFT/ORCL/META, and whether credit spreads widen on AI borrowers. Owner Quill.",
+      "grafs": [
+        "Goldman Sachs argues the AI infrastructure race is now big enough to push up the cost of capital itself, CryptoBriefing reported Thursday in a digest of mid-to-late September research from strategists including Peter Oppenheimer and Ryan Hammond.",
+        "The bank expects Amazon, Alphabet, Microsoft, Oracle, and Meta to put about $800 billion into AI infrastructure in 2026, nearly double $413 billion in 2025, while projecting only about $70 billion of AI-related cloud revenue above pre-AI trends against roughly $300 billion needed to break even, a framed annual shortfall near $230 billion.",
+        "US convertible issuance had reached $135 billion by mid-September 2026 with AI-related borrowers about 44% of the total, and Goldman credit analysts lifted their US investment-grade issuance forecast by $200 billion toward a possible $2.3 trillion 2026 record. Goldman Sachs Asset Management is underweight hyperscaler debt while staying constructive on AI longer term."
+      ]
+    },
+    {
+      "id": "genesis-mission-6b",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Policy",
+      "hed": "White House touts $6 billion-plus science push; Genesis Mission gets $2.4 billion in industry SI and compute pledges",
+      "dek": "White House fact sheet (Oct 8, 2026): Science summit announcements totaling over $6B across government, industry, academia, and philanthropy. Genesis Mission Consortium receives $2.4B in super-intelligence tools and compute credits from 11 partners (NVIDIA $1B, AMD $500M, OpenAI $200M, Anthropic and Google $150M each, others). Builds on July expansion to 15+ agencies and a $5B federal commitment. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 8, 2026",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
+      "also": [
+        "https://www.politico.com/news/2026/10/08/tech-firms-pledge-2-4-billion-in-computing-power-to-trumps-genesis-mission-01111708",
+        "https://www.anthropic.com/news/genesis-mission-commitment"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 273 Evening Thu after No. 272 Late Afternoon). NOT MAJOR. Primary White House packaging of Genesis compute pledges and broader science missions. Watch: how pledges convert to agency access, DOE/NSF instrumentation spend, and any market read-through for NVDA/AMD supply. Owner Quill.",
+      "grafs": [
+        "At a Science: A New Golden Age Summit on Thursday, the White House said the administration launched science initiatives representing over $6 billion in investments across the federal government, industry, academia, and philanthropy.",
+        "The Genesis Mission Consortium received $2.4 billion in super-intelligence tools and compute credits from eleven industry partners to support more than 15 federal agencies on National Science and Technology Challenges. Partner commitments listed include NVIDIA ($1 billion), AMD ($500 million), OpenAI ($200 million), $150 million each from Anthropic and Google, $100 million each from AMP and Emerald AI, and $50 million each from AWS, Armada, Crusoe, and Micron.",
+        "The fact sheet ties the pledges to a July expansion of Genesis to more than 15 agencies and a $5 billion federal commitment, and separately flags NSF/DOE instrumentation, regional compute hubs, fellowship programs, quantum prize competitions, and X-Labs consortium funding."
       ]
     },
     {
