@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 273,
+  "number": 274,
   "city": "New York",
-  "date": "Thursday, October 8, 2026",
-  "editionLabel": "Evening",
+  "date": "Friday, October 9, 2026",
+  "editionLabel": "Morning",
   "tape": {
-    "source": "AP close for indices (Thu Oct 8). Yahoo Finance chart API day closes for equities and yields (Thu vs Wed session closes). WTI/Brent front-month last prints from Yahoo CL=F/BZ=F; settlement day changes from Reuters/DevDiscourse (+3.6% WTI / +4.1% Brent).",
-    "updated": "Oct 8 Evening No. 273 close. S&P 7,765.36 (-0.47% / -36.41); Dow 51,231.64 (+0.10% / +51.77); Nasdaq 27,193.34 (-1.25% / -345.35); Russell 2,794.13 (+0.03%). WTI ~$91.18 (+3.6%); Brent ~$103.92 (+4.1%). 10-y 5.231%; 30-y 5.606%. NVDA $230.48 (-2.9%); TSM $457.99 (-3.0%); AVGO $360.14 (-4.3%); ORCL $135.69 (-5.5%); AMD $620.68 (-3.9%); MU $1,035.84 (-4.8%); GOOGL $348.29 (-0.6%); PLTR $198.78 (+2.4%); GS $882.59 (-0.5%); BX $112.68 (+0.8%); KKR $89.56 (-0.1%); WOLF $31.02 (-1.1%); APLD $23.85 (+0.2%).",
-    "line": "CLOSE Thu · S&P 7,765.36 (-0.47%) · Dow 51,231.64 (+0.10%) · Nasdaq 27,193.34 (-1.25%) · Russell 2,794.13 (+0.03%) · WTI ~$91.18 (+3.6%) · Brent ~$103.92 (+4.1%) · 10-y 5.231% · 30-y 5.606% · NVDA $230.48 (-2.9%) · TSM $457.99 (-3.0%) · AVGO $360.14 (-4.3%) · ORCL $135.69 (-5.5%) · AMD $620.68 (-3.9%) · MU $1,035.84 (-4.8%) · GOOGL $348.29 (-0.6%) · PLTR $198.78 (+2.4%) · GS $882.59 (-0.5%) · BX $112.68 (+0.8%) · KKR $89.56 (-0.1%) · WOLF $31.02 (-1.1%) · APLD $23.85 (+0.2%)"
+    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET.",
+    "updated": "Oct 9 Morning No. 274 premarket (~9:10 AM ET). Futures: S&P 500 +0.43%, Nasdaq 100 +0.83%, Dow +0.20%, Russell 2000 +0.42% (Benzinga 5:41 AM). SPY $777.38 (+0.45%), QQQ $753.92 (+0.85%). WTI ~$90.20 (-1.4%); Brent ~$102 (down more than 1%, CNBC). 10-y ~5.24%; 2-y ~4.78%; 30-y ~5.615%. Gold ~$4,188; BTC ~$82,608. Premarket movers: SpaceX +3.7%; T-Mobile, Verizon, AT&T -5% to -6%; American Tower, Crown Castle, SBA +6% to +10%; Humana ~+15% on Star Ratings; Delta lower after Q3 miss and guide cut. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64; ORCL $135.69; NVDA $230.48; AVGO $360.14; MU $1,035.84. Data today: U. Michigan sentiment 10:00 AM ET. No equity cash prints yet.",
+    "line": "PREMARKET Fri ~9:10 AM ET · S&P 500 fut +0.43% · Nasdaq 100 fut +0.83% · Dow fut +0.20% · Russell fut +0.42% · SPY $777.38 (+0.45%) · QQQ $753.92 (+0.85%) · WTI ~$90.20 (-1.4%) · Brent ~$102 (-1%+) · 10-y ~5.24% · 2-y ~4.78% · 30-y ~5.615% · Gold ~$4,188 · BTC ~$82,608 · SpaceX +3.7% · T-Mobile/VZ/T -5% to -6% · AMT/CCI/SBAC +6% to +10% · HUM ~+15% · DAL lower on guide cut · Thu close: S&P 7,765.36 · Nasdaq 27,193.34 · Dow 51,231.64 · ORCL $135.69 · NVDA $230.48 · AVGO $360.14"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Evening close Thu: Nasdaq off 1.25% on AI names, Oracle gas-truck report, OpenAI safety letter, Oratomic $475M, Genesis Mission pledges.",
-    "body": "Evening No. 273 after Late Afternoon No. 272 (the ~4:47 PM hourly did not publish). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Close tape from AP indices and Yahoo day closes: S&P 7,765.36 (-0.47%), Dow 51,231.64 (+0.10%), Nasdaq 27,193.34 (-1.25%); ORCL $135.69 (-5.5%), AVGO $360.14 (-4.3%), NVDA $230.48 (-2.9%); WTI ~$91.18 (+3.6%), Brent ~$103.92 (+4.1%); 10-y 5.231%. ADD NOT MAJOR: Oracle trucked CNG for AI sites and Project Jupiter backup (Seeking Alpha, CryptoBriefing); fired OpenAI safety researchers public letter (The Verge, WSJ); Oratomic $475M Series B at $5.4B (WSJ, company); Goldman on hyperscaler AI cost of capital (CryptoBriefing); White House Genesis Mission $2.4B industry SI/compute pledges inside $6B+ science push (White House). Carried: OpenAI ~$50B ARR print and 30-y auction from No. 272. Owner Quill on all adds."
+    "hed": "Morning Fri: futures rebound on Bloomberg's $70B OpenAI year-end outlook, SpaceX buys 800 MHz spectrum from Grain, Delta cuts guide, Firmus pulls ASX IPO.",
+    "body": "Morning No. 274 (the 8:41 PM Thursday night run did not publish; main stayed at No. 273 commit 732a44bf). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Premarket tape ~9:10 AM ET: S&P 500 futures +0.43%, Nasdaq 100 +0.83%, Dow +0.20%; WTI ~$90.20, Brent ~$102 after Trump said no Iran strikes before the midterms; 10-y ~5.24%. ADD NOT MAJOR: Bloomberg says OpenAI expects $70B+ annualized revenue by year-end versus ~$50B in September per the FT (Yahoo/Bloomberg); SpaceX to buy Grain Management's nationwide 800 MHz spectrum for Starlink Mobile, telcos -5% to -6% premarket (Grain, Reuters, Via Satellite); Delta misses and cuts 2026 EPS guide to $5.10 to $5.60 (CNBC); Firmus withdraws ASX IPO, will pursue private funding (ABC); USA Today Co. sues OpenAI for $250M+ (The Verge); Starbucks explored a Chipotle takeover (CNBC/FT); Airtel Money's London IPO slips below 196p (Reuters); TA sells Rocscience to Hexagon at ~$535M EV (TA); Scent Beauty names Yoana Land CFO. Owner Quill on all adds. Already in plate and not re-added: Option Care/CD&R-McKesson, TPG/Hong Leong Columbia Asia, Firmus repricing."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 273 Evening close Thu after No. 272 Late Afternoon. SpaceX-Apollo chip financing remains MAJOR lead. Watch: Night plate for any after-hours on OpenAI ARR/safety letter and Oracle power logistics; whether NVDA/AVGO/ORCL stabilize Friday; Dec. hike odds into Oct 28 FOMC and next week CPI; Genesis Mission consortium follow-through; Oratomic build timeline. Carried OpenAI ARR and 30-y auction."
+    "line": "No. 274 Morning Fri after No. 273 Evening close. SpaceX-Apollo chip financing remains MAJOR lead. Watch: the 9:30 AM open for whether AI names (ORCL, AVGO, NVDA, MU) recover after Thursday's OpenAI-revenue selloff; telco and tower-REIT repricing on SpaceX spectrum; DAL reaction and airline read-across; 10:00 AM U. Michigan sentiment; Boston Fed's Collins after the close; next week's CPI and the Oct 28 FOMC hike odds (Benzinga FedWatch ~19% for October); Firmus private-round details; start of Q3 earnings season."
   },
   "sections": [
     "All",
@@ -49,6 +49,200 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "openai-70b-year-end-bloomberg",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Revenue",
+      "hed": "Bloomberg: OpenAI expects to reach or top $70 billion in annualized revenue by year-end, after the FT put September at about $50 billion",
+      "dek": "Bloomberg (Oct 8 evening, via Yahoo Finance): OpenAI told investors it expects annualized revenue of $70 billion or more by the end of 2026, driven largely by enterprise. September-end run rate was roughly $50 billion. It shared the numbers in talks to raise $30 billion or more at a $1.4 trillion pre-money valuation. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Bloomberg via Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-expects-70-billion-annualized-014338719.html",
+      "also": [
+        "https://thenextweb.com/news/openai-revenue-70bn-year-end-50bn-september",
+        "https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
+        "https://investedalpha.com/news/friday-premarket-futures-rebound-openai-70-billion-oil-slips-delta-michigan-sentiment"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Follow-up to openai-arr-50b-oracle. Frames the $50B (Sept) versus $70B (year-end) gap as a definitional and timing question, and it is the reason Nasdaq futures are bouncing this morning. Watch: whether ORCL, AVGO, NVDA recover at the open, the $1.4T round terms, and how OpenAI treats cloud-partner revenue versus Anthropic. Owner Quill.",
+      "grafs": [
+        "Bloomberg reported late Thursday that OpenAI expects to reach or exceed $70 billion in annualized revenue by the end of the year, according to people familiar with the matter, with growth in its enterprise business doing most of the work. Annualized revenue was roughly $50 billion at the end of September, the people said, a projection of yearly sales from a shorter period.",
+        "The company shared the figures with investors as part of its latest fundraising. Bloomberg has reported talks to raise $30 billion or more at a $1.4 trillion valuation before the new money. OpenAI declined to comment, per The Next Web's summary of the Bloomberg report.",
+        "The numbers follow Thursday's Financial Times report of about $50 billion, roughly $20 billion below a figure that had circulated since late September. The FT said the gap came from investors trying to compare OpenAI with Anthropic, which counts cloud-provider sales differently. Invested Alpha says Nasdaq 100 futures were up about 0.7% to 0.9% before the open, and a chip ETF was up more than 2% premarket."
+      ]
+    },
+    {
+      "id": "spacex-grain-800mhz-spectrum",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private equity / Telecom",
+      "hed": "SpaceX agrees to buy Grain Management's nationwide 800 MHz low-band spectrum for Starlink Mobile; telcos fall 5% to 6% premarket",
+      "dek": "Grain Management release, Reuters and Via Satellite (Oct 8): SpaceX will acquire 100% of Grain's nationwide 800 MHz portfolio, about 14 MHz of paired spectrum, subject to FCC approval. Terms undisclosed. Grain bought it from T-Mobile in August (reported at $2.9 billion cash plus spectrum). Per Investing.com premarket, SpaceX is up 3.7%, T-Mobile, Verizon and AT&T down 5% to 6%, tower REITs up 6% to 10%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Grain Management; Reuters; Via Satellite",
+      "url": "https://graingp.com/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex/",
+      "also": [
+        "https://www.satellitetoday.com/connectivity/2026/10/08/spacex-moves-to-acquire-nationwide-low-band-spectrum-for-starlink-mobile/",
+        "https://www.streetinsider.com/General+News/SpaceX+takes+aim+at+US+wireless+carriers+with+spectrum+acquisition/27167240.html",
+        "https://www.investing.com/news/stock-market-news/premarket-movers-humana-rallies-spacex-deal-sends-telco-stocks-down-4940929"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Private-equity exit into a strategic buyer, and a direct read on SpaceX as a wireless operator. Distinct from the carried MAJOR lead (spacex-40b-nvidia-debt). Watch: FCC approval path, undisclosed price versus Grain's August cost basis, telco and tower-REIT repricing at the open, and Airtel Africa down 6% in London on the same news. Owner Quill.",
+      "grafs": [
+        "SpaceX struck a deal on Thursday to acquire a nationwide low-band spectrum portfolio from Grain Management, a private investment firm, Reuters reported. Grain announced a definitive agreement under which SpaceX will acquire 100% of its nationwide 800 MHz portfolio, subject to FCC approval and customary closing conditions. Financial terms were not disclosed.",
+        "Via Satellite reports the block is 14 megahertz of paired 800 MHz spectrum, which SpaceX says gives Starlink Mobile a coverage layer that penetrates walls and works indoors, alongside its existing 2 GHz mid-band spectrum. Grain acquired the portfolio from T-Mobile in a deal completed in August for $2.9 billion in cash and additional spectrum licenses, per Via Satellite, under an FCC July 2026 order that set a conditional pathway for direct-to-device use.",
+        "Premarket on Friday, Investing.com showed SpaceX up 3.7%, while T-Mobile US, Verizon and AT&T fell between 5% and 6%, and American Tower, Crown Castle and SBA Communications rose between 6% and 10%. Sharecast also had SpaceX up about 4% and the three carriers lower in premarket trading."
+      ]
+    },
+    {
+      "id": "delta-q3-fuel-guidance-cut",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / Airlines",
+      "hed": "Delta misses for the first time in two years and cuts 2026 EPS guidance to $5.10 to $5.60 on a $6 billion fuel-cost surge",
+      "dek": "CNBC (Oct 9): Q3 adjusted EPS $1.72 versus $1.75 expected, adjusted revenue $17.59 billion versus $17.67 billion. Full-year adjusted EPS guide cut to $5.10 to $5.60 from $6.50 to $7.50 in July, free cash flow outlook cut to $2.5 billion from as much as $4 billion, Q4 guidance below estimates. CEO Bastian says demand stays strong and fares are rising. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "CNBC; Sharecast",
+      "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "also": [
+        "https://www.sharecast.com/news/market-report-us-pre-open/markets-wall-street-nyse-openai-spacex-delta--23806430.html",
+        "https://www.investing.com/news/earnings/delta-stock-slides-on-q3-profit-miss-fullyear-outlook-cut-4940712"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. First big earnings print of Q3 season and a clean read on the fuel shock (Iran war, WTI about $90, Brent about $102) passing into corporate margins and CFO guidance. Watch: DAL at the open (lower premarket), read-across to United and American, and whether fare pass-through holds with airfare up more than 23% y/y in the latest CPI. Owner Quill.",
+      "grafs": [
+        "Delta Air Lines missed Wall Street earnings estimates for the first time in two years and cut its 2026 profit forecast, CNBC reported. Adjusted EPS was $1.72 versus $1.75 expected by LSEG, on adjusted revenue of $17.59 billion versus $17.67 billion expected. Net income was $756 million, or $1.15 a share, down 47% from a year earlier.",
+        "Delta now expects full-year adjusted EPS of $5.10 to $5.60, compared with $6.50 to $7.50 in July, and cut its free cash flow outlook to $2.5 billion from as much as $4 billion. Fourth-quarter guidance was also below analyst estimates. CNBC says Delta is absorbing a $6 billion increase in fuel costs this year, with Gulf Coast jet fuel at $4.34 on Thursday versus $2.19 a year earlier.",
+        "CEO Ed Bastian said demand remains strong across cabins and that fares continue to rise as the airline passes through much of the fuel increase. Delta guided fourth-quarter revenue up 20% from a year earlier, adjusted for its refinery. Investing.com and Seeking Alpha headlines have the stock falling in premarket trading."
+      ]
+    },
+    {
+      "id": "firmus-ipo-withdrawn-private-raise",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / IPO",
+      "hed": "Firmus withdraws its ASX listing citing market volatility and will pursue private funding; UniSuper and Morningstar flagged valuation and debt",
+      "dek": "ABC News (Oct 9): Nvidia-backed Firmus pulled its application to list on the ASX after the offer drew weak demand. It cited market conditions and said it will pursue private market funding. The IPO had been floated at A$11 and a roughly A$44 billion valuation, with a cut to A$8.25 reported Thursday. Nvidia holds 7.2%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230",
+      "also": [
+        "https://qz.com/firmus-private-fundraising-ipo-withdrawn-australia-100926",
+        "https://live.euronext.com/en/financial-news/firmus-5-billion-float-failure-deals-blow-australias-shrinking-share-market",
+        "https://wifc.com/2026/10/08/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Confirms the withdrawal flagged in firmus-ipo-repriced (Oct 8). A real data point on investor appetite for debt-heavy neo-cloud listings after OpenAI revenue jitters. Watch: size and form of the private round (headlines say roughly $2 billion to $3 billion, equity plus debt, unconfirmed), any Nasdaq route, and read-across to CoreWeave, Nebius and other neo-cloud equities (CRWV and NBIS closed down roughly 7% to 8% on Thursday, per Investing.com's table). Owner Quill.",
+      "grafs": [
+        "Firmus Technologies withdrew its application to list on the ASX, scrapping what was set to be Australia's biggest float since Telstra in 1997, ABC News reported. The company cited recent market volatility and conditions, said the offer would not appropriately reflect its long-term growth prospects, and said it will pursue private market funding while considering other options.",
+        "ABC says prospective investors balked at the A$11 share price and a valuation of about A$44 billion, and at AI bubble concerns. UniSuper's chief investment officer John Pearce said Firmus has a compelling story but not a compelling valuation, and worried it would keep returning for more debt and equity. Morningstar's Lochlan Holloway noted Firmus expects about US$30 billion of debt once its data centers are built, roughly six times the US$5 billion of operating earnings it forecasts for 2028.",
+        "ABC also cites CDC scrapping a planned data center deal with Firmus and investor attention on co-CEO Oliver Curtis's past insider trading conviction. Nvidia holds a 7.2% stake, per Firmus's website as quoted by ABC. Quartz and Bloomberg headlines say Firmus is exploring a private raise of up to about $3 billion; that figure is not confirmed by the company."
+      ]
+    },
+    {
+      "id": "usa-today-sues-openai-250m",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Legal",
+      "hed": "USA Today Co. and 19 newspapers sue OpenAI for more than $250 million over copyright and AI training",
+      "dek": "The Verge (Oct 8): USA Today Co. and several local papers it owns (Tennessean, IndyStar, Columbus Dispatch, Oklahoman) sued OpenAI in federal court in New York, alleging it copied hundreds of thousands of articles to train its models. They seek more than $250 million in damages. OpenAI had not commented. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "The Verge; Bloomberg Law",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "also": [
+        "https://news.bloomberglaw.com/ip-law/usa-today-news-outlets-join-openai-copyright-infringement-fight",
+        "https://financetime.org/legal/legalindustry/usa-today-sues-openai-copyright-infringement-over-ai-training-2026-10-08"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Adds to the stack of publisher suits against OpenAI (NYT, Ziff Davis, Britannica and others) while OpenAI is raising at a $1.4T valuation. Watch: any disclosure or reserve language in the fundraising, licensing-deal read-through, and OpenAI's response. Owner Quill.",
+      "grafs": [
+        "USA Today Co., together with several local newspapers it owns, sued OpenAI over claims that it copied hundreds of thousands of articles to train its AI models, The Verge reported, citing the Thursday filing. The publisher seeks damages of more than $250 million and says OpenAI's use of its content has done real and continuing harm.",
+        "The suit alleges that OpenAI never asked permission and took content to build products worth hundreds of billions of dollars. Named outlets include The Tennessean, IndyStar, The Columbus Dispatch and The Oklahoman. Bloomberg Law and FinanceTime describe the plaintiffs as covering 19 publications, in the Southern District of New York.",
+        "The Verge notes OpenAI also faces suits from The New York Times, The Intercept, Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times and a coalition of nearly 400 local newspapers. OpenAI did not immediately respond to The Verge."
+      ]
+    },
+    {
+      "id": "starbucks-chipotle-ft-takeover",
+      "lead": false,
+      "section": "Finance",
+      "kicker": "Finance / M&A",
+      "hed": "FT: Starbucks has explored a takeover of Chipotle; Chipotle jumped about 6% and one analyst puts the odds near 20%",
+      "dek": "CNBC (Oct 8) on the Financial Times report: Starbucks has worked with advisers on a takeover proposal for Chipotle in recent months. Chipotle's market cap is roughly $42 billion, which would make it the largest restaurant deal ever. No formal offer is reported, and Starbucks declined to comment. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "CNBC; Financial Times",
+      "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+      "also": [
+        "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d",
+        "https://live.euronext.com/en/financial-news/starbucks-has-explored-chipotle-takeover-ft-reports"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Large-cap strategic M&A with financing questions a CFO audience cares about: William Blair estimates leverage near six times if debt-financed at a 20% premium. Watch: any formal approach, financing structure, and Starbucks shares on dilution worries. Owner Quill.",
+      "grafs": [
+        "The Financial Times reported on Thursday that Starbucks has worked with advisers on a takeover proposal for Chipotle Mexican Grill in recent months, citing people familiar with the matter, CNBC said. The report sent Chipotle up about 6% on Thursday, while Starbucks fell slightly after dropping more sharply earlier in the day.",
+        "Starbucks CEO Brian Niccol ran Chipotle from 2018 to 2024. D.A. Davidson's Matt Curtis put the odds of a completed deal at about 20%, which he called relatively low. Chipotle has a market cap of roughly $42 billion, per CNBC, and a deal would be the biggest restaurant takeover ever.",
+        "On financing, CNBC cites Starbucks debt of about $9.4 billion at the end of June. William Blair's Sharon Zackfia estimated leverage would balloon to about six times if Starbucks paid a 20% premium and financed mainly with debt, and that an all-stock deal would still dilute EPS by about 10%. BTIG's Pete Saleh questioned adding a major initiative before the turnaround is proven. A Starbucks spokesperson said the company does not comment on rumors."
+      ]
+    },
+    {
+      "id": "airtel-money-london-ipo-debut",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / IPO",
+      "hed": "Airtel Money prices London's biggest IPO in five years at 196p, then slips below the offer in a muted debut",
+      "dek": "Reuters via Euronext Live (Oct 9): Airtel Money's secondary sale raised about $703 million for existing holders at 196p on a roughly $7 billion valuation, then traded at 193p after touching 200p. Airtel Africa, which owned nearly 78% before the deal and stays majority owner, was down 6% on the SpaceX spectrum news. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Reuters via Euronext Live",
+      "url": "https://live.euronext.com/en/financial-news/airtel-money-slips-below-ipo-offer-price-7-billion-london-debut",
+      "also": [
+        "https://www.telegraph.co.uk/business/2026/10/09/indian-billionaires-5bn-london-listing-falls-flat/",
+        "https://www.lse.co.uk/rns/airtel-money-announcement-of-offer-price-ofm827i6nacxfkn.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Another IPO read for the week alongside the Firmus withdrawal: heavily oversubscribed but flat trading on day one amid rate-hike worries. Watch: aftermarket trading, and whether other delayed European and US listings stay on hold. Owner Quill.",
+      "grafs": [
+        "Airtel Money shares fell below their offer price in London on Friday in a muted start to trading, after a heavily oversubscribed IPO, Reuters reported. The stock initially rose to 200p, then traded at 193p versus the 196p IPO price.",
+        "Dealogic ranks the offering as London's largest listing since Fermi's dual listing in September 2025. The secondary sale raised about $703 million for existing shareholders, who sold 270 million shares at 196p, aimed at a valuation around $7 billion. Airtel Africa owned nearly 78% before the IPO and remains the majority shareholder.",
+        "Reuters notes that several candidates in Europe and the US have delayed offerings amid interest rate rises and geopolitical uncertainty, and that Britain has simplified its listing rules to attract issuers. Airtel Africa shares were down 6% in a broad telecom selloff after SpaceX's spectrum deal."
+      ]
+    },
+    {
+      "id": "ta-rocscience-hexagon-535m",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private equity / Exit",
+      "hed": "TA Associates sells Rocscience to Hexagon at about $535 million enterprise value and fully exits",
+      "dek": "TA Associates release (Oct 9): portfolio company Rocscience, a geotechnical and engineering software provider, agreed to be acquired by Hexagon AB at an enterprise value of about $535 million. TA fully exits. Close expected in Q4 2026. Lazard advised TA, Kirkland & Ellis was legal counsel. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "TA Associates",
+      "url": "https://www.ta.com/news/ta-portfolio-company-rocscience-to-be-acquired-by-hexagon/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Sponsor-to-strategic exit in vertical software. Small but a clean data point for the PE exit channel. Watch: Hexagon's multiple disclosure and Q4 close. Owner Quill.",
+      "grafs": [
+        "TA Associates said its portfolio company Rocscience, a global provider of geotechnical and engineering software, has entered into an agreement to be acquired by Hexagon AB at an enterprise value of approximately $535 million.",
+        "Upon completion, TA will fully exit its investment. The transaction is expected to close in the fourth quarter of 2026, subject to customary closing conditions. Lazard served as financial advisor and Kirkland & Ellis as legal counsel to TA."
+      ]
+    },
+    {
+      "id": "scent-beauty-cfo-land",
+      "lead": false,
+      "section": "CFO",
+      "kicker": "CFO / Appointments",
+      "hed": "Scent Beauty names ex-L'Oreal finance executive Yoana Land CFO, succeeding co-founder Jim Shiah",
+      "dek": "Global Cosmetics News (Oct 9): Land brings 25-plus years across beauty, consumer and private equity, including a decade at L'Oreal (North Asia Zone CFO, Digital & Ecommerce CFO). Most recently a CFO adviser to Warburg portfolio companies. Shiah moves to an advisory role in 2027. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Global Cosmetics News",
+      "url": "https://www.globalcosmeticsnews.com/scent-beauty-appoints-former-loreal-executive-yoana-land-chief-financial-officer/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 274 Morning Fri). NOT MAJOR. Sponsor-backed consumer CFO hire with a PE-portfolio adviser background. Low-signal; fold into CFO moves roundup rather than a standalone piece. Owner Quill.",
+      "grafs": [
+        "Scent Beauty has appointed Yoana Land chief financial officer as the fragrance company strengthens its leadership to support portfolio expansion and international growth, Global Cosmetics News reported.",
+        "Land has more than 25 years of experience across beauty, consumer businesses and private equity, including a decade at L'Oreal where she held senior finance roles across North America and Asia, among them North Asia Zone CFO, Digital & Ecommerce CFO and CFO of L'Oreal's North America Transformation Office. Most recently she served as a CFO adviser to Warburg portfolio companies.",
+        "She will work alongside co-founder and CEO Stephen Mormoris and succeeds co-founder Jim Shiah, who will transition into an advisory role in 2027. The appointment follows portfolio expansion involving fragrance brands including Sweet Tooth by Sabrina Carpenter, Calliope by Megan Moroney and Untamed by Stetson."
       ]
     },
     {
