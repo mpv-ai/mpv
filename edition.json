@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 275,
+  "number": 276,
   "city": "New York",
   "date": "Friday, October 9, 2026",
-  "editionLabel": "Late Morning",
+  "editionLabel": "Midday",
   "tape": {
-    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET).",
-    "updated": "Oct 9 Late Morning No. 275 (~10:25 AM ET). Opening prints (Reuters 9:34 AM): Dow 51,298.96 (+0.13%), S&P 500 7,787.71 (+0.29%), Nasdaq 27,342.93 (+0.55%). Invezz 9:40 AM: S&P +0.35%, Dow +0.24%; NVDA +0.47%, SOXX +0.78%, Lumentum +7%; T-Mobile -9%, AT&T -7.7%, Verizon -6.3%; SpaceX +2.9%; Humana +16%; Apple -2.5% on Nikkei iPhone 18 Pro order-cut report; Delta -2.43%. Brent down more than 1% but above $100; 10-y ~5.25% (24-year high 5.37% Wed). Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. U. Michigan sentiment (10:00 AM ET) not confirmed from a primary source at publish time. Early-session prints, not a close.",
-    "line": "OPEN Fri ~9:35 AM ET · Dow 51,298.96 (+0.13%) · S&P 500 7,787.71 (+0.29%) · Nasdaq 27,342.93 (+0.55%) · Brent >$100 (-1%+) · 10-y ~5.25% · NVDA +0.5% · SOXX +0.8% · TMUS -9% · T -7.7% · VZ -6.3% · SpaceX +2.9% · AAPL -2.5% · DAL -2.4% · Humana +16%"
+    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment).",
+    "updated": "Oct 9 Midday No. 276 (~11:30 AM ET). Benzinga 10:06 AM ET: Dow 51,370.02 (+0.27%), S&P 500 7,783.75 (+0.23%), Nasdaq 27,270.15 (+0.28%); oil -2.2% to $91.29 (benchmark not specified), gold +1.5% to $4,218.10. Reuters 9:42 AM: Dow 51,367.88, S&P 500 7,790.59, Nasdaq 27,324.33; T-Mobile -9.1%, AT&T -7.4%, Verizon -6.3%, SpaceX +3.2%. U. Michigan October preliminary sentiment 46.3 vs 48.1. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Intraday prints, not a close.",
+    "line": "MID-MORNING Fri ~10:06 AM ET · Dow 51,370.02 (+0.27%) · S&P 500 7,783.75 (+0.23%) · Nasdaq 27,270.15 (+0.28%) · Oil -2.2% ($91.29) · Gold +1.5% ($4,218) · UMich sentiment 46.3 (48.1 prior) · TMUS -9.1% · T -7.4% · VZ -6.3% · SpaceX +3.2% · DAL ~-3%"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Late Morning Fri: stocks open higher, SoftBank seeks $100B from Gulf investors, Apple reportedly cuts iPhone 18 Pro orders.",
-    "body": "Late Morning No. 275 after No. 274 Morning. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: opening prints Dow 51,298.96, S&P 500 7,787.71, Nasdaq 27,342.93 (Reuters 9:34 AM ET); T-Mobile, AT&T, Verizon down 6% to 9% on SpaceX spectrum (Invezz). ADD NOT MAJOR: SoftBank seeks up to $100B from Gulf investors (FT); Apple orders cut for iPhone 18 Pro (Nikkei); Butterfly Equity to buy Sabert; Ramboll names Harboe-Jorgensen permanent CFO; Stanford and King's study of AI and jobs in 41 countries; market open wrap. Owner Quill on all adds. U. Michigan sentiment print not yet confirmed from a primary source."
+    "hed": "Midday Fri: Michigan sentiment falls to 46.3, TypeSafe AI raises $870 million at $7.5 billion.",
+    "body": "Midday No. 276 after No. 275 Late Morning. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: Benzinga 10:06 AM ET prints Dow 51,370.02, S&P 500 7,783.75, Nasdaq 27,270.15; U. Michigan preliminary October sentiment 46.3 vs 48.1 (current conditions 44.7, 1-yr inflation expectations 4.7%). ADD NOT MAJOR: Michigan sentiment print; TypeSafe AI (Jev) about $870 million at $7.5 billion led by a16z (Bloomberg via Investing.com). Owner Quill on both."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 275 Late Morning Fri after No. 274 Morning. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the tech rebound holds through the close, telco and tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across after the Nikkei report, the 10-year near 5.25%, Gulf response to SoftBank's $100B ask, Firmus private-round details, and next week's CPI, bank earnings and Oct 28 FOMC hike odds."
+    "line": "No. 276 Midday Fri after No. 275 Late Morning. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the tech rebound holds into the close, telco and tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across, the 10-year near 5.25%, Gulf response to SoftBank's $100B ask, next week's September CPI (Oct 14), bank earnings and Oct 28 FOMC hike odds."
   },
   "sections": [
     "All",
@@ -50,6 +50,51 @@
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
       ]
+    },
+    {
+      "id": "umich-sentiment-oct-prelim-46-3",
+      "section": "Markets",
+      "kicker": "Macro / Consumer",
+      "hed": "University of Michigan sentiment slides to 46.3 in October, the lowest since May's record low, as current conditions drop to 44.7",
+      "dek": "Preliminary October survey (Oct 9, 2026, 10:00 AM ET): index 46.3 vs 48.1 in September; current conditions 44.7 (from 50.9), expectations 47.3 (from 46.3); year-ahead inflation expectations 4.7%, long-run 3.5%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "FXStreet citing the University of Michigan; Benzinga; WSJ",
+      "url": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+      "also": [
+        "https://www.wsj.com/economy/consumers/consumer-sentiment-drops-per-michigan-survey-ea8fae7c",
+        "https://www.benzinga.com/markets/market-summary/26/10/62272622/dow-gains-over-100-points-delta-air-lines-shares-fall-after-q3-results",
+        "https://www.sca.isr.umich.edu/index.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 276 Midday Fri). NOT MAJOR. Closes the open U. Michigan item from No. 275. Why follow: stagflation-style read for CFO and PE audiences, with weaker current conditions and inflation expectations edging up while equities hold near highs, ahead of next week's CPI. Caveat: preliminary print; the final October reading is due Oct 23. Owner Quill.",
+      "grafs": [
+        "The University of Michigan's preliminary October consumer sentiment index fell to 46.3 from 48.1 in September, according to the survey data reported Friday by FXStreet, Benzinga and the Wall Street Journal. Trading Economics described it as the lowest reading since May's record low.",
+        "FXStreet reported that the current conditions gauge dropped to 44.7 from 50.9, while the expectations gauge rose to 47.3 from 46.3. Year-ahead inflation expectations ticked up to 4.7% from 4.6%, and the long-run outlook rose to 3.5% from 3.4%.",
+        "The U.S. dollar index held near 102.30 after the release, FXStreet said. The university's final October reading is scheduled for Oct. 23; the September CPI report is due next week."
+      ],
+      "lead": false
+    },
+    {
+      "id": "typesafe-870m-a16z-jev",
+      "section": "AI",
+      "kicker": "AI / Venture",
+      "hed": "TypeSafe AI, maker of the Jev model, raises about $870 million at a $7.5 billion valuation led by Andreessen Horowitz",
+      "dek": "Bloomberg via Investing.com (Oct 9, 2026, 9:45 AM ET): San Francisco startup founded in 2024; Sequoia also participated; Jev launched several weeks ago and TypeSafe says about a third of the Fortune 500 use it. Company claims, not independently verified. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Bloomberg, via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/typesafe-ai-raises-870-million-led-by-andreessen-horowitz--bloomberg-93CH-4941303",
+      "also": [
+        "https://news.bloomberglaw.com/private-equity/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+        "https://www.panews.io/articles/01a120c8-d15d-7429-875c-c064d0a8314c"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 276 Midday Fri). NOT MAJOR. Why follow: another very large early-stage AI round, this one for a non-LLM model that TypeSafe says decides through software rather than generating text token by token, priced weeks after a viral launch. Caveats: usage and Fortune 500 figures are company claims; the round size is as reported by Bloomberg. Owner Quill.",
+      "grafs": [
+        "TypeSafe AI raised about $870 million at a $7.5 billion valuation in a financing led by Andreessen Horowitz, Bloomberg reported Friday, as carried by Investing.com. Sequoia Capital also participated alongside angel investors.",
+        "The San Francisco company created Jev, an AI model that launched several weeks ago. TypeSafe said Jev has passed one million users within days and is used by about a third of Fortune 500 companies, though it declined to name any.",
+        "Bloomberg said the model plugs into software to make decisions and, because it does not generate text token by token, can perform tasks more cheaply and quickly than large language models, according to the company. Co-founder Diogo Almeida started TypeSafe in 2024 and said the deal came together after the launch video went viral."
+      ],
+      "lead": false
     },
     {
       "id": "wall-st-open-higher-oct9",
