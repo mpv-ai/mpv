@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 274,
+  "number": 275,
   "city": "New York",
   "date": "Friday, October 9, 2026",
-  "editionLabel": "Morning",
+  "editionLabel": "Late Morning",
   "tape": {
-    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET.",
-    "updated": "Oct 9 Morning No. 274 premarket (~9:10 AM ET). Futures: S&P 500 +0.43%, Nasdaq 100 +0.83%, Dow +0.20%, Russell 2000 +0.42% (Benzinga 5:41 AM). SPY $777.38 (+0.45%), QQQ $753.92 (+0.85%). WTI ~$90.20 (-1.4%); Brent ~$102 (down more than 1%, CNBC). 10-y ~5.24%; 2-y ~4.78%; 30-y ~5.615%. Gold ~$4,188; BTC ~$82,608. Premarket movers: SpaceX +3.7%; T-Mobile, Verizon, AT&T -5% to -6%; American Tower, Crown Castle, SBA +6% to +10%; Humana ~+15% on Star Ratings; Delta lower after Q3 miss and guide cut. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64; ORCL $135.69; NVDA $230.48; AVGO $360.14; MU $1,035.84. Data today: U. Michigan sentiment 10:00 AM ET. No equity cash prints yet.",
-    "line": "PREMARKET Fri ~9:10 AM ET · S&P 500 fut +0.43% · Nasdaq 100 fut +0.83% · Dow fut +0.20% · Russell fut +0.42% · SPY $777.38 (+0.45%) · QQQ $753.92 (+0.85%) · WTI ~$90.20 (-1.4%) · Brent ~$102 (-1%+) · 10-y ~5.24% · 2-y ~4.78% · 30-y ~5.615% · Gold ~$4,188 · BTC ~$82,608 · SpaceX +3.7% · T-Mobile/VZ/T -5% to -6% · AMT/CCI/SBAC +6% to +10% · HUM ~+15% · DAL lower on guide cut · Thu close: S&P 7,765.36 · Nasdaq 27,193.34 · Dow 51,231.64 · ORCL $135.69 · NVDA $230.48 · AVGO $360.14"
+    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET).",
+    "updated": "Oct 9 Late Morning No. 275 (~10:25 AM ET). Opening prints (Reuters 9:34 AM): Dow 51,298.96 (+0.13%), S&P 500 7,787.71 (+0.29%), Nasdaq 27,342.93 (+0.55%). Invezz 9:40 AM: S&P +0.35%, Dow +0.24%; NVDA +0.47%, SOXX +0.78%, Lumentum +7%; T-Mobile -9%, AT&T -7.7%, Verizon -6.3%; SpaceX +2.9%; Humana +16%; Apple -2.5% on Nikkei iPhone 18 Pro order-cut report; Delta -2.43%. Brent down more than 1% but above $100; 10-y ~5.25% (24-year high 5.37% Wed). Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. U. Michigan sentiment (10:00 AM ET) not confirmed from a primary source at publish time. Early-session prints, not a close.",
+    "line": "OPEN Fri ~9:35 AM ET · Dow 51,298.96 (+0.13%) · S&P 500 7,787.71 (+0.29%) · Nasdaq 27,342.93 (+0.55%) · Brent >$100 (-1%+) · 10-y ~5.25% · NVDA +0.5% · SOXX +0.8% · TMUS -9% · T -7.7% · VZ -6.3% · SpaceX +2.9% · AAPL -2.5% · DAL -2.4% · Humana +16%"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Morning Fri: futures rebound on Bloomberg's $70B OpenAI year-end outlook, SpaceX buys 800 MHz spectrum from Grain, Delta cuts guide, Firmus pulls ASX IPO.",
-    "body": "Morning No. 274 (the 8:41 PM Thursday night run did not publish; main stayed at No. 273 commit 732a44bf). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Premarket tape ~9:10 AM ET: S&P 500 futures +0.43%, Nasdaq 100 +0.83%, Dow +0.20%; WTI ~$90.20, Brent ~$102 after Trump said no Iran strikes before the midterms; 10-y ~5.24%. ADD NOT MAJOR: Bloomberg says OpenAI expects $70B+ annualized revenue by year-end versus ~$50B in September per the FT (Yahoo/Bloomberg); SpaceX to buy Grain Management's nationwide 800 MHz spectrum for Starlink Mobile, telcos -5% to -6% premarket (Grain, Reuters, Via Satellite); Delta misses and cuts 2026 EPS guide to $5.10 to $5.60 (CNBC); Firmus withdraws ASX IPO, will pursue private funding (ABC); USA Today Co. sues OpenAI for $250M+ (The Verge); Starbucks explored a Chipotle takeover (CNBC/FT); Airtel Money's London IPO slips below 196p (Reuters); TA sells Rocscience to Hexagon at ~$535M EV (TA); Scent Beauty names Yoana Land CFO. Owner Quill on all adds. Already in plate and not re-added: Option Care/CD&R-McKesson, TPG/Hong Leong Columbia Asia, Firmus repricing."
+    "hed": "Late Morning Fri: stocks open higher, SoftBank seeks $100B from Gulf investors, Apple reportedly cuts iPhone 18 Pro orders.",
+    "body": "Late Morning No. 275 after No. 274 Morning. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: opening prints Dow 51,298.96, S&P 500 7,787.71, Nasdaq 27,342.93 (Reuters 9:34 AM ET); T-Mobile, AT&T, Verizon down 6% to 9% on SpaceX spectrum (Invezz). ADD NOT MAJOR: SoftBank seeks up to $100B from Gulf investors (FT); Apple orders cut for iPhone 18 Pro (Nikkei); Butterfly Equity to buy Sabert; Ramboll names Harboe-Jorgensen permanent CFO; Stanford and King's study of AI and jobs in 41 countries; market open wrap. Owner Quill on all adds. U. Michigan sentiment print not yet confirmed from a primary source."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 274 Morning Fri after No. 273 Evening close. SpaceX-Apollo chip financing remains MAJOR lead. Watch: the 9:30 AM open for whether AI names (ORCL, AVGO, NVDA, MU) recover after Thursday's OpenAI-revenue selloff; telco and tower-REIT repricing on SpaceX spectrum; DAL reaction and airline read-across; 10:00 AM U. Michigan sentiment; Boston Fed's Collins after the close; next week's CPI and the Oct 28 FOMC hike odds (Benzinga FedWatch ~19% for October); Firmus private-round details; start of Q3 earnings season."
+    "line": "No. 275 Late Morning Fri after No. 274 Morning. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the tech rebound holds through the close, telco and tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across after the Nikkei report, the 10-year near 5.25%, Gulf response to SoftBank's $100B ask, Firmus private-round details, and next week's CPI, bank earnings and Oct 28 FOMC hike odds."
   },
   "sections": [
     "All",
@@ -50,6 +50,135 @@
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
       ]
+    },
+    {
+      "id": "wall-st-open-higher-oct9",
+      "section": "Markets",
+      "kicker": "Markets / Open",
+      "hed": "Stocks open higher as oil slips and AI names rebound, while T-Mobile, AT&T and Verizon sink on the SpaceX spectrum deal",
+      "dek": "Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET): Dow 51,298.96 (+0.13%), S&P 500 7,787.71 (+0.29%), Nasdaq 27,342.93 (+0.55%) at the open. T-Mobile -9%, AT&T -7.7%, Verizon -6.3% per Invezz. Early prints, not a close. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Reuters via Investing.com; Invezz",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-open-higher-as-oil-slipstelecoms-hitby-spacex-spectrum-deal-4941289",
+      "also": [
+        "https://invezz.com/news/2026/10/09/nasdaq-opens-higher-as-oil-retreats-ai-stocks-recover-and-telecom-shares-slide/",
+        "https://www.sharecast.com/news/market-report-us/wall-street-nyse-dow-jones-nasdaq-markets-openai-spacex-delta-air-lines--23808136.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 275 Late Morning Fri). NOT MAJOR. Gives the open read after Thursday's OpenAI-revenue selloff: AI and chip names recovering, the three big carriers repricing on SpaceX low-band spectrum, and oil easing after Trump said the U.S. would not strike Iran before the midterms. Watch: whether the tech rebound holds into the close, carrier follow-through, and the 10-year near 5.25% versus Wednesday's 5.37% high. Owner Quill.",
+      "grafs": [
+        "Wall Street opened higher on Friday as oil retreated on easing Middle East supply concerns, Reuters reported. The Dow rose 67.32 points, or 0.13%, to 51,298.96, the S&P 500 rose 22.35 points, or 0.29%, to 7,787.71, and the Nasdaq Composite rose 149.59 points, or 0.55%, to 27,342.93. Telecom shares stayed under pressure after SpaceX's spectrum acquisition raised competitive concerns, Reuters said.",
+        "Invezz, writing at 9:40 AM ET, said Nvidia was up 0.47%, Tesla up 2.63% and the iShares Semiconductor ETF up 0.78%, with Lumentum up 7%. It had T-Mobile down 9%, AT&T down 7.7% and Verizon down 6.3%, SpaceX up 2.9%, Humana up 16% on Medicare Advantage ratings, Apple down 2.5% and Delta down 2.43% after its guidance cut. Brent fell more than 1% but stayed above $100, and the 10-year Treasury yield was steady near 5.25%, close to the 24-year high of 5.37% reached Wednesday, per Invezz.",
+        "Invezz also said the S&P 500 was on track for a gain of about 0.6% on the week, the Dow and Nasdaq were roughly flat, and the equal-weighted S&P 500 was poised to end a seven-week losing streak. Major U.S. banks report third-quarter results next week."
+      ],
+      "lead": false
+    },
+    {
+      "id": "softbank-100b-gulf-fund",
+      "section": "PE",
+      "kicker": "AI Capital / Sovereign Wealth",
+      "hed": "FT: SoftBank's Son seeks up to $100 billion from Gulf investors for an AI fund that would buy companies and run them with AI and robotics",
+      "dek": "Financial Times (Oct 9, 2026), relayed by Investing.com and The Japan Times: early talks with senior UAE figures, no guarantee of a deal. The fund would acquire companies and improve operations with AI, with SoftBank's robotics unit Roze playing a key role. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Financial Times; Investing.com; The Japan Times",
+      "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd",
+      "also": [
+        "https://www.investing.com/news/stock-market-news/softbank-seeks-up-to-100-bln-from-gulf-investors-for-ai-expansion-ft-reports-4940188",
+        "https://www.japantimes.co.jp/business/2026/10/09/companies/softbank-ai-gulf-investors/",
+        "https://www.zawya.com/en/business/ai-shaping-digital-future/softbank-ceo-seeks-up-to-100bln-from-gulf-investors-for-new-ai-push-report-1586400"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 275 Late Morning Fri). NOT MAJOR. A buy-and-transform AI fund is a private-equity-style structure funded by sovereign money, and it follows SoftBank's record junk bond. Watch: whether Mubadala, MGX or Saudi PIF engage, the Roze IPO plan, and how the Gulf (in its eighth month of the Iran war per The Japan Times) responds. Owner Quill.",
+      "grafs": [
+        "SoftBank founder and CEO Masayoshi Son is seeking to raise up to $100 billion from Gulf investors, the Financial Times reported on Friday, citing multiple people familiar with the matter. Son has held talks in recent weeks with senior figures, including in the United Arab Emirates, and there is no guarantee the discussions lead to a deal.",
+        "The money would set up a fund to buy companies and then use AI and other advanced technology to improve their operations, the FT said. Roze, SoftBank's robotics and physical AI business that Son hopes to take public at a lofty valuation, is expected to play a key role. The FT noted Gulf money backed the first $100 billion Vision Fund in 2017 through Mubadala and Saudi Arabia's Public Investment Fund.",
+        "The FT said the first Vision Fund has generated about $29 billion in cumulative gains as of the end of June, and Vision Fund 2, which holds the OpenAI stake, has generated $20.5 billion. Investing.com added that the plan follows SoftBank's $65 billion investment in OpenAI and a record junk bond offering of more than $11 billion last month with yields up to 9.75%. The Japan Times noted the region faces possible economic contraction from the Iran war and that the 2025 $500 billion U.S. data center project with OpenAI, Oracle and MGX has yet to yield material progress."
+      ],
+      "lead": false
+    },
+    {
+      "id": "apple-iphone18-pro-order-cut",
+      "section": "Markets",
+      "kicker": "Hardware / Memory Costs",
+      "hed": "Nikkei: Apple tells suppliers to cut iPhone 18 Pro component production as memory-chip costs lift prices and soften demand; AAPL falls about 2.5%",
+      "dek": "Nikkei Asia exclusive (Oct 9, 2026): suppliers blame higher prices after soaring memory-chip costs. Other outlets relaying the report cite cuts of at least 15%, and some up to 20%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
+      "also": [
+        "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
+        "https://thenextweb.com/news/apple-iphone-18-pro-orders-cut-nikkei",
+        "https://wccftech.com/iphone-18-pro-memory-costs-apple-production-cut/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 275 Late Morning Fri). NOT MAJOR. AI-driven memory demand is raising device costs and pushing consumer prices up, a cross-current to the Samsung, Micron and TSMC strength already in the plate. Watch: Apple's October earnings commentary, memory-price contracts, and read-across to Samsung and SK hynix. Owner Quill.",
+      "grafs": [
+        "Apple has told some of its suppliers to cut production of components for its newly launched iPhone 18 Pro and iPhone 18 Pro Max after soaring memory chip costs forced price increases that have dampened consumer demand, Nikkei Asia reported on Friday, citing suppliers.",
+        "Nikkei said the iPhone 18 Pro launched in September and consumer reception is reported to be cooler than expected, with the higher price a factor. MacRumors and The Next Web, relaying the Nikkei report, described the cut as at least 15%, and Wccftech cited reductions of up to 20%; those figures were not independently confirmed here.",
+        "Invezz showed Apple shares down about 2.5% in early trading on Friday following the report."
+      ],
+      "lead": false
+    },
+    {
+      "id": "butterfly-sabert",
+      "section": "PE",
+      "kicker": "Private Equity / Packaging",
+      "hed": "Butterfly Equity agrees to acquire Sabert, the food-packaging maker, with founder Albert Salama rolling over as a minority investor",
+      "dek": "Butterfly Equity release via WhatTheyThink (Oct 9, 2026): definitive agreement to acquire Sabert Holding Corp.; terms not disclosed; expected to close in Q4 2026. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Butterfly Equity via WhatTheyThink",
+      "url": "https://whattheythink.com/news/132067-butterfly-acquires-sabert-leading-global-provider-innovative-sustainable-food-packaging-solutions/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 275 Late Morning Fri). NOT MAJOR. Mid-market sponsor deal with founder rollover; price undisclosed. Watch: any financing disclosure and closing in Q4 2026. Owner Quill.",
+      "grafs": [
+        "Butterfly Equity, a Los Angeles-based private equity firm specializing in food and beverage, announced a definitive agreement to acquire Sabert Holding Corp., a manufacturer of food packaging, according to the company announcement carried by WhatTheyThink on October 9, 2026.",
+        "Financial terms were not disclosed. The transaction is subject to customary closing conditions and is expected to close in the fourth quarter of 2026.",
+        "Albert Salama will remain a meaningful minority investor after closing, which Butterfly said underscores continued confidence in the company's strategy and aligns founder, management and investors."
+      ],
+      "lead": false
+    },
+    {
+      "id": "ramboll-cfo-harboe",
+      "section": "CFO",
+      "kicker": "CFO Moves",
+      "hed": "Ramboll makes acting CFO Michael Harboe-Jorgensen permanent, keeping corporate development under him",
+      "dek": "Ramboll release via EuropaWire (Oct 9, 2026): effective immediately, executive board member, after serving as acting CFO since June 2026. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Ramboll via EuropaWire",
+      "url": "https://news.europawire.eu/ramboll-names-michael-harboe-jorgensen-permanent-cfo-and-confirms-executive-board-lineup/eu-press-release/2026/10/09/13/23/06/182499/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 275 Late Morning Fri). NOT MAJOR. CFO beat item: finance and corporate development combined under one executive. Owner Quill.",
+      "grafs": [
+        "Ramboll has appointed Michael Harboe-Jorgensen as chief financial officer and an executive board member, effective immediately, confirming the role he has held on an acting basis since June 2026, according to the company release.",
+        "He will lead the global finance organisation while continuing to head corporate development. He joined Ramboll in March 2025 from Innargi, where he was CFO, and previously held strategy, finance, M&A and investor relations roles at the A.P. Moller Group.",
+        "The appointment completes a four-member executive board: Christian Jensby (CEO), Lone Tvis (chief people officer), Peter Heymann Andersen (chief commercial officer) and Harboe-Jorgensen."
+      ],
+      "lead": false
+    },
+    {
+      "id": "stanford-kcl-ai-jobs-41",
+      "section": "AI",
+      "kicker": "AI / Labor",
+      "hed": "Stanford and King's College London study of 41 countries: firms that adopt AI hire 3.3% more overall, senior roles up 6.7%, junior roles down 2.5%",
+      "dek": "King's College London release (Oct 6, 2026) on the Chandar and Klein Teeselink paper, trending on X Oct 9: 1.25 billion job ads and 158 million employee positions. Adoption is defined by job ads that require generative AI use. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 6-9, 2026",
+      "source": "King's College London; Stanford Digital Economy Lab",
+      "url": "https://www.kcl.ac.uk/news/ai-adoption-linked-to-increase-in-employment-globally",
+      "also": [
+        "https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/",
+        "https://digitaleconomy.stanford.edu/app/uploads/2026/09/HowDoesAIChangeLaborDemand.pdf",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498743"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 275 Late Morning Fri). NOT MAJOR. Useful for CFO and PE workforce-planning angles: AI shifts the mix toward senior and technical staff rather than cutting total headcount, at least by this job-ad measure. Caveat: adoption is inferred from job ads. Owner Quill.",
+      "grafs": [
+        "King's College London and Stanford researchers find that firm-level adoption of generative AI is associated with about a 3.3% increase in overall recruitment, with senior employment up 6.7% and junior employment down 2.5%, according to a King's release dated October 6.",
+        "The study, \"How Does AI Change Labor Demand? Evidence from 41 Countries\" by Bharat Chandar of Stanford and Bouke Klein Teeselink of King's, analyzed 1.25 billion job advertisements and 158 million employee positions. Firms were classed as adopters when their job ads said applicants would need to use generative AI.",
+        "The authors said demand rose for senior employees and for computer and mathematical occupations, and Chandar said the pattern appeared from the U.S. to Brazil to Saudi Arabia, suggesting AI is changing the job mix within organisations rather than reducing total employment."
+      ],
+      "lead": false
     },
     {
       "id": "openai-70b-year-end-bloomberg",
