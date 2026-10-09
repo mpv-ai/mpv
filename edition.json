@@ -1,9 +1,9 @@
 {
   "volume": 1,
-  "number": 279,
+  "number": 280,
   "city": "New York",
   "date": "Friday, October 9, 2026",
-  "editionLabel": "Evening",
+  "editionLabel": "Night",
   "tape": {
     "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment). Early-afternoon prints: IBD live coverage (12:03 PM ET: Dow, Verizon); CNBC (updated about 11:30 AM ET: 10-y, 30-y, 2-y, WTI, Brent). Afternoon prints: AP (12:47 PM ET: Dow, S&P 500, Nasdaq, 10-y, Brent, carriers and towers); IBD live coverage (updated 1:09 PM ET: Dow, S&P 500). Close prints (Oct 9): Sharecast, TradingKey and Investing.com (Dow, S&P 500, Nasdaq); Traders Agency with U.S. Treasury data (10-y, 30-y, Russell 2000).",
     "updated": "Oct 9 Evening No. 279 (~6:00 PM ET). CLOSE: Dow 51,654.95 (+0.83%, +423.31); S&P 500 7,811.54 (+0.59%); Nasdaq Composite 27,366.17 (+0.64%); Russell 2000 2,808.07 (+0.50%); 10-y 5.240%, 30-y 5.600% (Traders Agency, Treasury data). Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Earlier intraday prints are superseded.",
@@ -12,12 +12,12 @@
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Evening Fri: Dow closes up 423 points, Palantir hits a record, Moderna jumps on an NIH cancer vaccine push.",
-    "body": "Evening No. 279 after No. 278 Afternoon (the 3 PM and 4 PM hours did not publish). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: close Dow 51,654.95 (+0.83%), S&P 500 7,811.54 (+0.59%), Nasdaq 27,366.17 (+0.64%), 10-year 5.24%. ADD NOT MAJOR: the Friday close wrap, Palantir's record high on Barclays and Goldman calls, Moderna and biotech on the NIH cancer vaccine plan, and BofA's midterm warning (secondary source). All owner Quill. No new leads for Guide or Forge this hour."
+    "hed": "Night Fri: GTCR and Elliott in talks for CCC, One Equity buys DCC's Nexora for $725 million.",
+    "body": "Night No. 280 after No. 279 Evening. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape unchanged from the close (Dow 51,654.95, S&P 500 7,811.54, Nasdaq 27,366.17, 10-year 5.24%); CCC was up about 10% after hours per Reuters. ADD NOT MAJOR: GTCR and Elliott advanced talks for CCC Intelligent Solutions, and the DCC Energy sale of Nexora to One Equity Partners at a $725 million enterprise value."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 279 Evening Fri after No. 278 Afternoon. SpaceX-Apollo chip financing remains MAJOR lead. Watch: Monday's follow-through after a record-adjacent close, carrier and tower-REIT repricing on SpaceX spectrum, September CPI (Oct 14), bank earnings from Tuesday (Citigroup, JPMorgan Chase, Wells Fargo), the Nov. 3 midterms and Oct 28 FOMC hike odds."
+    "line": "No. 280 Night Fri after No. 279 Evening. SpaceX-Apollo chip financing remains MAJOR lead. Watch: a possible CCC deal announcement next week, Monday's follow-through after Friday's close, carrier and tower-REIT repricing on SpaceX spectrum, September CPI (Oct 14), bank earnings from Tuesday (Citigroup, JPMorgan Chase, Wells Fargo), the Nov. 3 midterms and Oct 28 FOMC hike odds."
   },
   "sections": [
     "All",
@@ -49,6 +49,44 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "ccc-gtcr-elliott-talks-oct9",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity / Software",
+      "hed": "GTCR and Elliott in advanced talks to acquire CCC Intelligent Solutions, Bloomberg reports",
+      "dek": "Reuters (Oct 9, 2026, 4:15 PM ET), citing Bloomberg News: deal could be announced as soon as next week, no final agreement, no financial terms disclosed. CCC shares rose about 10% in extended trading. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Reuters, citing Bloomberg News",
+      "url": "https://y94.com/2026/10/09/gtcr-elliott-in-advanced-talks-to-acquire-ccc-intelligent-solutions-bloomberg-news-reports/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 280 Night Fri). NOT MAJOR. A sponsor plus activist pairing for an auto-insurance software company that was already exploring a sale; Bloomberg had reported in August that Copart was in talks to buy it. Watch: whether an announcement lands next week, price versus the roughly 10% after-hours move, and whether Copart is out. Owner Quill.",
+      "grafs": [
+        "Private equity firm GTCR and activist investor Elliott Investment Management are in advanced talks to acquire CCC Intelligent Solutions, a provider of software for auto insurance firms, Bloomberg News reported on Friday, citing people familiar with the matter, according to Reuters.",
+        "A deal could be announced as soon as next week, but a final agreement had not been reached, the report said, and financial details were not disclosed. Shares of CCC rose about 10% in extended trading. CCC, Elliott and GTCR did not immediately respond to Reuters' requests for comment.",
+        "Bloomberg News had reported in August that online vehicle auctioneer Copart was in talks to acquire CCC, which has been exploring a sale."
+      ]
+    },
+    {
+      "id": "dcc-nexora-one-equity-725m-oct9",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity / Carve-outs",
+      "hed": "DCC Energy to sell its Nexora technology division to One Equity Partners at a $725 million enterprise value, a step in the KKR and ECP take-private",
+      "dek": "DCC Energy RNS announcement (Oct 9, 2026): cash-free, debt-free EV of $725 million, expected net proceeds $701 million, completion on or after March 1, 2027 subject to regulatory approvals. Estimated extra consideration to DCC holders: 42 pence per share on top of 6,525 pence cash. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "DCC Energy plc via RNS (TradingView)",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-10-09:newsml_RSI3355Ya:0-reg-dcc-energy-plc-nexora-sale-and-additional-consideration-estimate/",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 280 Night Fri). NOT MAJOR. The buyer group behind DCC (Dragon Bidco, owned by funds advised by Energy Capital Partners and KKR) is selling the technology unit to a third sponsor, and the price sets the shareholder earn-out: it pays zero at $650 million of net proceeds and the full 125 pence at $800 million or more. Watch: regulatory approvals, the final net-proceeds figure at completion, and the scheme's effective date. Owner Quill.",
+      "grafs": [
+        "DCC Energy plc said on Friday that it has agreed to sell Nexora, its technology division, to investment subsidiaries of funds managed or advised by One Equity Partners. The deal values Nexora at a total enterprise value of $725 million on a cash-free, debt-free basis and is conditional on customary regulatory approvals, with completion expected on or after March 1, 2027.",
+        "The announcement sits inside the recommended acquisition of DCC Energy by Dragon Bidco, which is indirectly owned by funds advised by Energy Capital Partners and KKR. DCC shareholders voted to approve the scheme on September 18, 2026, and are due 6,525 pence in cash per share plus up to 125 pence of additional consideration if the Nexora conditions are met before July 31, 2027.",
+        "DCC estimates Nexora net proceeds of $701 million, which implies additional consideration of about 42 pence per share. The additional amount scales linearly from zero at $650 million of net proceeds to 125 pence at $800 million, and the figures are estimates that will be fixed after completion."
       ]
     },
     {
