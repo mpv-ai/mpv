@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 276,
+  "number": 277,
   "city": "New York",
   "date": "Friday, October 9, 2026",
-  "editionLabel": "Midday",
+  "editionLabel": "Early Afternoon",
   "tape": {
-    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment).",
-    "updated": "Oct 9 Midday No. 276 (~11:30 AM ET). Benzinga 10:06 AM ET: Dow 51,370.02 (+0.27%), S&P 500 7,783.75 (+0.23%), Nasdaq 27,270.15 (+0.28%); oil -2.2% to $91.29 (benchmark not specified), gold +1.5% to $4,218.10. Reuters 9:42 AM: Dow 51,367.88, S&P 500 7,790.59, Nasdaq 27,324.33; T-Mobile -9.1%, AT&T -7.4%, Verizon -6.3%, SpaceX +3.2%. U. Michigan October preliminary sentiment 46.3 vs 48.1. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Intraday prints, not a close.",
-    "line": "MID-MORNING Fri ~10:06 AM ET · Dow 51,370.02 (+0.27%) · S&P 500 7,783.75 (+0.23%) · Nasdaq 27,270.15 (+0.28%) · Oil -2.2% ($91.29) · Gold +1.5% ($4,218) · UMich sentiment 46.3 (48.1 prior) · TMUS -9.1% · T -7.4% · VZ -6.3% · SpaceX +3.2% · DAL ~-3%"
+    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment). Early-afternoon prints: IBD live coverage (12:03 PM ET: Dow, Verizon); CNBC (updated about 11:30 AM ET: 10-y, 30-y, 2-y, WTI, Brent).",
+    "updated": "Oct 9 Early Afternoon No. 277 (~12:15 PM ET). IBD 12:03 PM ET: Dow up about 0.6%, nearly 300 points, Verizon sharply lower, SpaceX lifting EchoStar, Viasat and Sirius XM. CNBC (~11:30 AM ET): 10-y 5.274%, 30-y 5.635%, 2-y 4.819%; WTI about $91, Brent about $104. Earlier: Benzinga 10:06 AM ET Dow 51,370.02, S&P 500 7,783.75, Nasdaq 27,270.15; U. Michigan October preliminary sentiment 46.3 vs 48.1. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Intraday prints, not a close.",
+    "line": "MIDDAY Fri ~12:03 PM ET · Dow +0.6% (nearly +300 pts, IBD) · 10-y 5.274% · 30-y 5.635% · 2-y 4.819% · WTI ~$91 · Brent ~$104 (CNBC ~11:30 AM) · 10:06 AM: S&P 500 7,783.75 · Nasdaq 27,270.15 · UMich 46.3 (48.1 prior) · SIRI +2.4%"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Midday Fri: Michigan sentiment falls to 46.3, TypeSafe AI raises $870 million at $7.5 billion.",
-    "body": "Midday No. 276 after No. 275 Late Morning. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: Benzinga 10:06 AM ET prints Dow 51,370.02, S&P 500 7,783.75, Nasdaq 27,270.15; U. Michigan preliminary October sentiment 46.3 vs 48.1 (current conditions 44.7, 1-yr inflation expectations 4.7%). ADD NOT MAJOR: Michigan sentiment print; TypeSafe AI (Jev) about $870 million at $7.5 billion led by a16z (Bloomberg via Investing.com). Owner Quill on both."
+    "hed": "Early afternoon Fri: Dow up about 0.6% at noon as tech recovers; Sirius XM gets a SpaceX spectrum bid.",
+    "body": "Early Afternoon No. 277 after No. 276 Midday. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: IBD at 12:03 PM ET has the Dow up about 0.6%, nearly 300 points, with Verizon sharply lower; CNBC has the 10-year at 5.274%, the 30-year at 5.635% and the 2-year at 4.819%, with WTI near $91 and Brent near $104. ADD NOT MAJOR: Sirius XM up 2.4% on the SpaceX-Grain spectrum read-across (Investing.com via StreetInsider). Owner Quill. No new leads for Guide or Forge this hour."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 276 Midday Fri after No. 275 Late Morning. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the tech rebound holds into the close, telco and tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across, the 10-year near 5.25%, Gulf response to SoftBank's $100B ask, next week's September CPI (Oct 14), bank earnings and Oct 28 FOMC hike odds."
+    "line": "No. 277 Early Afternoon Fri after No. 276 Midday. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the tech rebound holds into the close, telco and tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across, the 10-year near 5.27%, Gulf response to SoftBank's $100B ask, next week's September CPI (Oct 14), bank earnings from Tuesday and Oct 28 FOMC hike odds."
   },
   "sections": [
     "All",
@@ -49,6 +49,27 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "sirius-xm-spectrum-read-across-oct9",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Spectrum",
+      "hed": "Sirius XM rises 2.4% as SpaceX's $8 billion spectrum deal puts a price on licensed airwaves",
+      "dek": "Investing.com via StreetInsider (10:05 AM ET): SIRI $26.97, +2.43%, on SpaceX's reported $8 billion for 14 MHz of Grain Management 800 MHz spectrum, about $571 million per MHz. The $14.3 billion S-band figure is the author's back-of-envelope, not a company valuation. Sirius XM reports Oct. 29. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Investing.com via StreetInsider",
+      "url": "https://www.streetinsider.com/General+News/SpaceXs+spectrum+deal+puts+SIRIs+satellite+assets+in+focus/27170052.html",
+      "also": [
+        "https://www.investing.com/news/stock-market-news/spacexs-571mmhz-spectrum-deal-puts-siris-satellite-assets-in-focus-93CH-4941344"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 277 Early Afternoon Fri). NOT MAJOR. Read-across angle on the SpaceX-Grain spectrum story already in the paper: it asks whether non-carrier spectrum holders are underpriced. Treat the per-MHz math as an analyst-style illustration, since S-band satellite-radio licenses are not equivalent to 800 MHz cellular spectrum. Watch: the FCC vote on Oct. 29 on 482 MHz for supplemental satellite coverage, and Sirius XM's Oct. 29 pre-market Q3 call. Owner Quill.",
+      "grafs": [
+        "Sirius XM (SIRI) traded at $26.97, up 2.43%, on Friday as investors drew a line from SpaceX's agreement to pay $8 billion for up to 14 MHz of paired 800 MHz spectrum from Grain Management to Sirius XM's own licensed S-band satellite spectrum, Investing.com reported at 10:05 AM ET. The article put Sirius XM's market cap at $9.11 billion, about 17% below its 52-week high of $32.66. The Grain portfolio was originally sourced from T-Mobile and needs FCC approval.",
+        "At $8 billion for 14 MHz, the implied price is about $571 million per MHz. Investing.com applied that benchmark to an estimated 25 MHz of Sirius XM S-band holdings to reach roughly $14.3 billion, and flagged that the 25 MHz figure is an estimate and that satellite-radio licenses are not equivalent to 800 MHz cellular spectrum. Reuters, as cited there, had T-Mobile, Verizon and AT&T down 5.5% to 7.4% while American Tower, Crown Castle and SBA Communications rose 6.7% to 8.3%.",
+        "Morgan Stanley, in a note cited by Reuters, called the deal a sign that SpaceX will be a more aggressive acquirer of spectrum and said any threat to carriers is likely to materialize gradually, starting in rural markets. The FCC is scheduled to vote Oct. 29 on rules to free 482 MHz for supplemental satellite coverage and direct-to-device service, and Sirius XM reports third-quarter results the same day before the open."
       ]
     },
     {
