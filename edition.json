@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 278,
+  "number": 279,
   "city": "New York",
   "date": "Friday, October 9, 2026",
-  "editionLabel": "Afternoon",
+  "editionLabel": "Evening",
   "tape": {
-    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment). Early-afternoon prints: IBD live coverage (12:03 PM ET: Dow, Verizon); CNBC (updated about 11:30 AM ET: 10-y, 30-y, 2-y, WTI, Brent). Afternoon prints: AP (12:47 PM ET: Dow, S&P 500, Nasdaq, 10-y, Brent, carriers and towers); IBD live coverage (updated 1:09 PM ET: Dow, S&P 500).",
-    "updated": "Oct 9 Afternoon No. 278 (~1:25 PM ET). AP 12:47 PM ET: Dow up 388 points (+0.8%), S&P 500 +0.6%, Nasdaq +0.6%; 10-y 5.24% (5.22% late Thursday); Brent $104.15. IBD 1:09 PM ET: Dow up nearly 400 points (+0.8%), S&P 500 +0.6%. T-Mobile -12.5%, AT&T -10%, Verizon -10.1%; Crown Castle +13.5%, American Tower +7.9% (AP). Earlier: CNBC (~11:30 AM ET) 10-y 5.274%, 30-y 5.635%, 2-y 4.819%, WTI about $91; Benzinga 10:06 AM ET Dow 51,370.02, S&P 500 7,783.75, Nasdaq 27,270.15. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Intraday prints, not a close.",
-    "line": "AFTERNOON Fri ~1:09 PM ET · Dow +0.8% (nearly +400 pts, IBD; +388 at 12:47 PM, AP) · S&P 500 +0.6% · Nasdaq +0.6% (AP 12:47 PM) · 10-y 5.24% (AP 12:47 PM; CNBC 5.274% ~11:30 AM) · Brent $104.15 (AP) · TMUS -12.5% · T -10% · VZ -10.1% · CCI +13.5% · UMich 46.3"
+    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment). Early-afternoon prints: IBD live coverage (12:03 PM ET: Dow, Verizon); CNBC (updated about 11:30 AM ET: 10-y, 30-y, 2-y, WTI, Brent). Afternoon prints: AP (12:47 PM ET: Dow, S&P 500, Nasdaq, 10-y, Brent, carriers and towers); IBD live coverage (updated 1:09 PM ET: Dow, S&P 500). Close prints (Oct 9): Sharecast, TradingKey and Investing.com (Dow, S&P 500, Nasdaq); Traders Agency with U.S. Treasury data (10-y, 30-y, Russell 2000).",
+    "updated": "Oct 9 Evening No. 279 (~6:00 PM ET). CLOSE: Dow 51,654.95 (+0.83%, +423.31); S&P 500 7,811.54 (+0.59%); Nasdaq Composite 27,366.17 (+0.64%); Russell 2000 2,808.07 (+0.50%); 10-y 5.240%, 30-y 5.600% (Traders Agency, Treasury data). Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Earlier intraday prints are superseded.",
+    "line": "CLOSE Fri Oct 9 · Dow 51,654.95 +0.83% · S&P 500 7,811.54 +0.59% · Nasdaq 27,366.17 +0.64% · 10-y 5.24% · TMUS -13.3% · T -9.9% · VZ -8.8% · CCI +15.6% · PLTR +5.2% (record) · MRNA +14.2%"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Afternoon Fri: Dow up nearly 400 points into a record week as carriers sink 10% to 12.5% on SpaceX spectrum; KKR eyes a Refresco IPO.",
-    "body": "Afternoon No. 278 after No. 277 Early Afternoon. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: AP at 12:47 PM ET has the Dow up 388 points (+0.8%), the S&P 500 up 0.6%, the Nasdaq up 0.6%, the 10-year at 5.24% and Brent at $104.15; IBD at 1:09 PM ET has the Dow up nearly 400 points. ADD NOT MAJOR: the AP midday wrap with T-Mobile -12.5%, AT&T -10%, Verizon -10.1% and Crown Castle +13.5% (owner Quill), and Reuters on KKR-owned Refresco taking IPO pitches at a possible $10 billion-plus valuation (owner Quill). No new leads for Guide or Forge this hour."
+    "hed": "Evening Fri: Dow closes up 423 points, Palantir hits a record, Moderna jumps on an NIH cancer vaccine push.",
+    "body": "Evening No. 279 after No. 278 Afternoon (the 3 PM and 4 PM hours did not publish). MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: close Dow 51,654.95 (+0.83%), S&P 500 7,811.54 (+0.59%), Nasdaq 27,366.17 (+0.64%), 10-year 5.24%. ADD NOT MAJOR: the Friday close wrap, Palantir's record high on Barclays and Goldman calls, Moderna and biotech on the NIH cancer vaccine plan, and BofA's midterm warning (secondary source). All owner Quill. No new leads for Guide or Forge this hour."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 278 Afternoon Fri after No. 277 Early Afternoon. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the Dow's near-400-point gain and the carrier selloff hold into the close, tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across, the 10-year near 5.24%, Gulf response to SoftBank's $100B ask, next week's September CPI (Oct 14), bank earnings from Tuesday (Citigroup, JPMorgan Chase, Wells Fargo) and Oct 28 FOMC hike odds."
+    "line": "No. 279 Evening Fri after No. 278 Afternoon. SpaceX-Apollo chip financing remains MAJOR lead. Watch: Monday's follow-through after a record-adjacent close, carrier and tower-REIT repricing on SpaceX spectrum, September CPI (Oct 14), bank earnings from Tuesday (Citigroup, JPMorgan Chase, Wells Fargo), the Nov. 3 midterms and Oct 28 FOMC hike odds."
   },
   "sections": [
     "All",
@@ -49,6 +49,93 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "wall-st-close-higher-oct9",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Close",
+      "hed": "Wall Street closes higher as the Dow gains 423 points and tech rebounds after a volatile week; carriers fall on SpaceX spectrum",
+      "dek": "Sharecast, TradingKey and Investing.com (Oct 9, 2026 close): Dow 51,654.95 (+0.83%), S&P 500 7,811.54 (+0.59%), Nasdaq Composite 27,366.17 (+0.64%). Crown Castle +15.6%, Humana +11.6%, Moderna +14.2% (Investing.com). NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Sharecast; TradingKey; Investing.com",
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-usa-nyse-dow-nasdaq-markets-trading-stocks--23813958.html",
+      "also": [
+        "https://www.tradingkey.com/analysis/stocks/us-stocks/262209290-us-stock-close-nasdaq-dow-rise-spacex-verizon-palantir-tradingkey",
+        "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691",
+        "https://tradersagency.com/blog/stock-market-today-real-estate-leads-while-sandp-500-advances",
+        "https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 279 Evening Fri). NOT MAJOR. Replaces the intraday prints with the Friday close. Watch: whether the S&P 500 holds near its record into next week, Tuesday bank earnings, September CPI on Oct 14 and the 10-year near 5.24%. Owner Quill.",
+      "grafs": [
+        "U.S. stocks closed higher on Friday, with tech leading a rebound after a volatile week of rising Treasury yields, firmer oil prices and a pullback in the AI trade, Sharecast reported. The Dow Jones Industrial Average rose 0.83% to 51,654.95, a gain of 423.31 points, the S&P 500 advanced 0.59% to 7,811.54 and the Nasdaq Composite gained 0.64% to 27,366.17.",
+        "Investing.com listed Crown Castle (+15.60% to 79.64), Moderna (+14.21% to 225.00) and Humana (+11.56% to 431.87) as the top S&P 500 performers. Advancers beat decliners on the NYSE by 1,523 to 1,185 and on the Nasdaq by 1,768 to 1,632. TradingKey, citing FutuBull, had T-Mobile down 13.27%, AT&T down 9.85% and Verizon down 8.75% after SpaceX's spectrum purchase plan, and the Philadelphia Semiconductor Index down 0.41%.",
+        "Traders Agency, using U.S. Treasury and Yahoo Finance data, showed the 10-year yield at 5.240% (up 2.0 basis points), the 30-year at 5.600% and the Russell 2000 up 0.50% to 2,808.07. TradingKey also reported the New York Fed's September survey put one-year inflation expectations at 3.9%, the highest since May 2023, and that Trump said Russia agreed to supply diesel to U.S. and global markets, which helped oil dip."
+      ]
+    },
+    {
+      "id": "palantir-record-high-barclays-oct9",
+      "lead": false,
+      "section": "AI",
+      "kicker": "AI / Equities",
+      "hed": "Palantir closes at a record high after Barclays starts coverage at Overweight, a day after Goldman's upgrade",
+      "dek": "Yahoo Finance (Oct 9, 2026, 4:05 PM ET) and 24/7 Wall St.: PLTR rose about 5% to close near $209, above its Nov. 3, 2025 peak. Barclays initiated at Overweight with a $265 target; Goldman upgraded to Buy with $230 the session before. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Yahoo Finance; 24/7 Wall St.; TradingKey",
+      "url": "https://finance.yahoo.com/technology/article/palantir-stock-hits-all-time-high-after-wall-street-grows-bullish-on-next-phase-of-growth-200507650.html",
+      "also": [
+        "https://247wallst.com/investing/2026/10/09/palantir-rises-4-as-barclays-starts-coverage-at-overweight-with-265-target-servicenow-holds-steady-salesforce-sits-tight/",
+        "https://www.tradingkey.com/analysis/stocks/us-stocks/262209290-us-stock-close-nasdaq-dow-rise-spacex-verizon-palantir-tradingkey"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 279 Evening Fri). NOT MAJOR. Builds on the Goldman upgrade already in the paper: the stock cleared its November 2025 high on a second sell-side call with no new company news. Prints differ by source ($208.88 in Yahoo's article, $209.05 in TradingKey). Watch: whether it holds above the old high and the sovereign-AI demand case. Owner Quill.",
+      "grafs": [
+        "Palantir stock rose about 5% on Friday on votes of confidence from Barclays and Goldman Sachs, surpassing its record high set on Nov. 3 of last year, Yahoo Finance reported. Its article put the close at $208.88; TradingKey had PLTR closing up 5.17% at $209.05.",
+        "24/7 Wall St. reported that Barclays opened coverage with an Overweight rating and a $265 price target, the second bullish Wall Street action in two sessions, with no new company news attached. Goldman Sachs upgraded the stock to Buy from Neutral with a $230 target, citing demand for sovereign AI systems and custom applications.",
+        "TradingKey quoted Goldman's note saying Palantir has a revenue run rate of about $8 billion growing about 100%, and that investors are debating whether the best of the AI opportunity has played out and how sustainable its forward-deployed engineer model is. 24/7 Wall St. cautioned that analyst sentiment alone may not hold a stock that has already run far."
+      ]
+    },
+    {
+      "id": "nih-cancer-vaccine-moderna-oct9",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Biotech",
+      "hed": "Moderna jumps as much as 14% to a four-year high on a planned NIH public-private cancer vaccine push",
+      "dek": "Yahoo Finance (Oct 9, 2026), citing the New York Times: NIH and its foundation plan a public-private partnership to speed cancer vaccines, expected to launch in December. Moderna +14% at the high, Novavax +15%. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Yahoo Finance, citing the New York Times",
+      "url": "https://finance.yahoo.com/markets/stocks/article/moderna-stock-hits-4-year-high-on-planned-national-cancer-vaccine-effort-201351554.html",
+      "also": [
+        "https://finance.yahoo.com/markets/stocks/article/moderna-stock-jumps-on-planned-national-cancer-vaccine-effort-161458165.html",
+        "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-friday-175025525.html"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 279 Evening Fri). NOT MAJOR. Explains one of the day's top S&P 500 movers and the biotech bid (IBB +3% mid-afternoon per MT Newswires). Yahoo notes the stock is already up several hundred percent this year, so the move leans on a program that has not launched. Watch: the December launch details and the Oct. 24 ESMO data cited by Kalkine. Owner Quill.",
+      "grafs": [
+        "Moderna stock popped 14% on Friday, reaching its highest level since January 2022, after the New York Times reported new details about an effort to accelerate cancer vaccine development, Yahoo Finance reported. The initiative is a public-private partnership involving the National Institutes of Health, its nonprofit foundation, researchers, drug and biotech companies, advocacy groups and patients.",
+        "Stacey Adam, a senior clinical officer at the NIH's foundation, told the Times she expects the program to launch in December. Yahoo noted Moderna is viewed as a leader in mRNA cancer treatments and that the stock rose in August on positive melanoma results with Merck.",
+        "MT Newswires reported Novavax up 15%, BioNTech up 5.2% and Merck up 3% in afternoon trading, with the iShares Biotechnology ETF up 3%. Yahoo's year-to-date gain figure for Moderna rose through the day, from 627% to 662%, so treat the exact figure as a moving print."
+      ]
+    },
+    {
+      "id": "bofa-hartnett-midterms-flow-show-oct9",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Strategy",
+      "hed": "BofA's Hartnett calls the Nov. 3 midterms the biggest year-end catalyst as investors hoard cash and the Bull and Bear Indicator sits at a Sell",
+      "dek": "TradingKey, citing BofA's Flow Show (Oct 9, 2026): midterms could drive a swing of 10% either way in global equities; Democratic sweep odds 64% vs 49% in September; Bull and Bear Indicator 8.1 from 8.8. Secondary source. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "TradingKey, citing BofA Securities Flow Show",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262209290-us-stock-close-nasdaq-dow-rise-spacex-verizon-palantir-tradingkey",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 279 Evening Fri). NOT MAJOR. Positioning context for the week ahead (CPI Oct 14, bank earnings) from a secondary aggregator; the original BofA report was not checked. Watch: cash levels, election odds and whether the bond market keeps pressing equities. Owner Quill.",
+      "grafs": [
+        "TradingKey, summarizing BofA Securities' latest Flow Show, reported that investors are hoarding cash at the fastest pace since the start of the COVID-19 pandemic and see the election outcome as the most important directional catalyst for stocks before year-end.",
+        "Michael Hartnett, BofA's chief investment strategist, said the Nov. 3 U.S. midterm elections represent the biggest potential catalyst for a plus or minus 10% swing in global equities by year-end. Market forecasts cited put the odds of a Democratic sweep of both houses at 64%, up from 49% in September; in that scenario U.S. stocks face downside risk of more than 10%, per the report.",
+        "TradingKey said BofA's Bull and Bear Indicator fell to 8.1 from 8.8, maintaining a Sell signal. Hartnett's other themes, as summarized, were that the bond market will end the bubble and that investors should not add to tech."
       ]
     },
     {
