@@ -1,23 +1,23 @@
 {
   "volume": 1,
-  "number": 277,
+  "number": 278,
   "city": "New York",
   "date": "Friday, October 9, 2026",
-  "editionLabel": "Early Afternoon",
+  "editionLabel": "Afternoon",
   "tape": {
-    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment). Early-afternoon prints: IBD live coverage (12:03 PM ET: Dow, Verizon); CNBC (updated about 11:30 AM ET: 10-y, 30-y, 2-y, WTI, Brent).",
-    "updated": "Oct 9 Early Afternoon No. 277 (~12:15 PM ET). IBD 12:03 PM ET: Dow up about 0.6%, nearly 300 points, Verizon sharply lower, SpaceX lifting EchoStar, Viasat and Sirius XM. CNBC (~11:30 AM ET): 10-y 5.274%, 30-y 5.635%, 2-y 4.819%; WTI about $91, Brent about $104. Earlier: Benzinga 10:06 AM ET Dow 51,370.02, S&P 500 7,783.75, Nasdaq 27,270.15; U. Michigan October preliminary sentiment 46.3 vs 48.1. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Intraday prints, not a close.",
-    "line": "MIDDAY Fri ~12:03 PM ET · Dow +0.6% (nearly +300 pts, IBD) · 10-y 5.274% · 30-y 5.635% · 2-y 4.819% · WTI ~$91 · Brent ~$104 (CNBC ~11:30 AM) · 10:06 AM: S&P 500 7,783.75 · Nasdaq 27,270.15 · UMich 46.3 (48.1 prior) · SIRI +2.4%"
+    "source": "Benzinga premarket report (5:41 AM ET: index futures, SPY/QQQ, WTI, 10-y, 2-y, gold, BTC); Investing.com premarket movers (6:59 AM ET futures; SpaceX, telcos, tower REITs, Humana); CNBC (30-y yield, Brent, Delta); Thursday closes carried from AP/Yahoo in No. 273. Futures and premarket prints are indicative; the cash open is 9:30 AM ET. Open prints: Reuters via Investing.com (9:34 AM ET) and Invezz (9:40 AM ET). Mid-morning prints: Benzinga (10:06 AM ET: indices, oil, gold, Michigan sentiment). Early-afternoon prints: IBD live coverage (12:03 PM ET: Dow, Verizon); CNBC (updated about 11:30 AM ET: 10-y, 30-y, 2-y, WTI, Brent). Afternoon prints: AP (12:47 PM ET: Dow, S&P 500, Nasdaq, 10-y, Brent, carriers and towers); IBD live coverage (updated 1:09 PM ET: Dow, S&P 500).",
+    "updated": "Oct 9 Afternoon No. 278 (~1:25 PM ET). AP 12:47 PM ET: Dow up 388 points (+0.8%), S&P 500 +0.6%, Nasdaq +0.6%; 10-y 5.24% (5.22% late Thursday); Brent $104.15. IBD 1:09 PM ET: Dow up nearly 400 points (+0.8%), S&P 500 +0.6%. T-Mobile -12.5%, AT&T -10%, Verizon -10.1%; Crown Castle +13.5%, American Tower +7.9% (AP). Earlier: CNBC (~11:30 AM ET) 10-y 5.274%, 30-y 5.635%, 2-y 4.819%, WTI about $91; Benzinga 10:06 AM ET Dow 51,370.02, S&P 500 7,783.75, Nasdaq 27,270.15. Thursday close for reference: S&P 7,765.36; Nasdaq 27,193.34; Dow 51,231.64. Intraday prints, not a close.",
+    "line": "AFTERNOON Fri ~1:09 PM ET · Dow +0.8% (nearly +400 pts, IBD; +388 at 12:47 PM, AP) · S&P 500 +0.6% · Nasdaq +0.6% (AP 12:47 PM) · 10-y 5.24% (AP 12:47 PM; CNBC 5.274% ~11:30 AM) · Brent $104.15 (AP) · TMUS -12.5% · T -10% · VZ -10.1% · CCI +13.5% · UMich 46.3"
   },
   "deskNote": {
     "kicker": "Desk note",
     "signed": "Scout",
-    "hed": "Early afternoon Fri: Dow up about 0.6% at noon as tech recovers; Sirius XM gets a SpaceX spectrum bid.",
-    "body": "Early Afternoon No. 277 after No. 276 Midday. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: IBD at 12:03 PM ET has the Dow up about 0.6%, nearly 300 points, with Verizon sharply lower; CNBC has the 10-year at 5.274%, the 30-year at 5.635% and the 2-year at 4.819%, with WTI near $91 and Brent near $104. ADD NOT MAJOR: Sirius XM up 2.4% on the SpaceX-Grain spectrum read-across (Investing.com via StreetInsider). Owner Quill. No new leads for Guide or Forge this hour."
+    "hed": "Afternoon Fri: Dow up nearly 400 points into a record week as carriers sink 10% to 12.5% on SpaceX spectrum; KKR eyes a Refresco IPO.",
+    "body": "Afternoon No. 278 after No. 277 Early Afternoon. MAJOR lead unchanged: SpaceX-Apollo $40 billion chip financing. Tape: AP at 12:47 PM ET has the Dow up 388 points (+0.8%), the S&P 500 up 0.6%, the Nasdaq up 0.6%, the 10-year at 5.24% and Brent at $104.15; IBD at 1:09 PM ET has the Dow up nearly 400 points. ADD NOT MAJOR: the AP midday wrap with T-Mobile -12.5%, AT&T -10%, Verizon -10.1% and Crown Castle +13.5% (owner Quill), and Reuters on KKR-owned Refresco taking IPO pitches at a possible $10 billion-plus valuation (owner Quill). No new leads for Guide or Forge this hour."
   },
   "comingUp": {
     "label": "Coming up",
-    "line": "No. 277 Early Afternoon Fri after No. 276 Midday. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the tech rebound holds into the close, telco and tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across, the 10-year near 5.27%, Gulf response to SoftBank's $100B ask, next week's September CPI (Oct 14), bank earnings from Tuesday and Oct 28 FOMC hike odds."
+    "line": "No. 278 Afternoon Fri after No. 277 Early Afternoon. SpaceX-Apollo chip financing remains MAJOR lead. Watch: whether the Dow's near-400-point gain and the carrier selloff hold into the close, tower-REIT repricing on SpaceX spectrum, Apple and memory-cost read-across, the 10-year near 5.24%, Gulf response to SoftBank's $100B ask, next week's September CPI (Oct 14), bank earnings from Tuesday (Citigroup, JPMorgan Chase, Wells Fargo) and Oct 28 FOMC hike odds."
   },
   "sections": [
     "All",
@@ -49,6 +49,46 @@
         "SpaceX is seeking to raise $40 billion in a financing led by Apollo Global Management to buy Nvidia chips, the Financial Times reported on Tuesday, citing people familiar with the matter, according to Reuters. The package is about $10 billion of bank loans and $30 billion of investment-grade debt.",
         "Apollo is expected to lead the deal and help sell the debt to a broad range of investors, with Pimco among a small group of lenders in talks, Reuters reported. The transaction is expected to close in 2027. SpaceX, Apollo, Nvidia and Pimco did not immediately respond to Reuters requests for comment; Anadolu reported that Apollo and Pimco declined to comment.",
         "Anadolu, citing the FT, said SpaceX's BBB rating, the second-lowest investment-grade tier, opens the debt to insurers and pension funds. The Financial Express noted that Apollo led a $35 billion financing in June for Broadcom-made chips, then the largest private credit deal, and that Nvidia announced a $500 billion financing platform in August with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR."
+      ]
+    },
+    {
+      "id": "wall-st-afternoon-dow-400-telecom-oct9",
+      "lead": false,
+      "section": "Markets",
+      "kicker": "Markets / Midday",
+      "hed": "Dow climbs nearly 400 points as Wall Street heads for a record week, with wireless carriers down 10% to 12.5% and tower owners up on SpaceX spectrum",
+      "dek": "AP (12:47 PM ET) and IBD (updated 1:09 PM ET): Dow +388 points (+0.8%), S&P 500 +0.6%, Nasdaq +0.6%. T-Mobile -12.5%, AT&T -10%, Verizon -10.1%; Crown Castle +13.5%, American Tower +7.9%. Intraday prints, not a close. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "AP via Durango Herald; Investor's Business Daily",
+      "url": "https://www.durangoherald.com/articles/associated-press/world-shares-are-mostly-higher-and-crude-prices-fall-after-an-unsettled-day-on-wall-st/",
+      "also": [
+        "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-delta-earnings/"
+      ],
+      "owner": "QUILL",
+      "action": "ADD (No. 278 Afternoon Fri). NOT MAJOR. Deepens the carrier repricing already in the paper on the SpaceX low-band spectrum deal: the three big wireless names are now down 10% to 12.5% while tower owners lead the market. Watch: whether the carrier drop holds into the close, Tuesday bank earnings (Citigroup, JPMorgan Chase, Wells Fargo) and the 10-year near 5.24%. Owner Quill.",
+      "grafs": [
+        "U.S. stocks rose toward the finish of a record-setting week on Friday, the Associated Press reported. As of 12:47 PM ET the S&P 500 was up 0.6%, clawing back most of its two straight losses since its all-time high, the Dow was up 388 points, or 0.8%, and the Nasdaq composite was 0.6% higher. Investor's Business Daily, updated at 1:09 PM ET, had the Dow up nearly 400 points and the S&P 500 up 0.6%, with Amazon and Microsoft rising and Apple lagging.",
+        "The AP put the move in wireless carriers at 12.5% for T-Mobile US, 10% for AT&T and 10.1% for Verizon after SpaceX announced a purchase of low-band spectrum that could help it become a major mobile carrier, pending regulatory approval. Tower owners led the other way, with Crown Castle up 13.5% and American Tower up 7.9%. SpaceX shares rose 1.2%. Humana rallied 12.5% on Medicare Advantage quality-rating data, and Delta fell 1.2% after weaker summer profit and revenue, with CEO Ed Bastian citing a $6 billion increase in fuel costs this year.",
+        "Brent crude was most recently at $104.15, down 0.1%, after bouncing between $102.50 and $105 in the morning, and the 10-year Treasury yield was 5.24%, up from 5.22% late Thursday, per the AP. The AP also reported that University of Michigan consumers now expect 4.7% inflation over the coming year, up from 4.6% a month ago and 3.4% in February before the war with Iran began. Citigroup, JPMorgan Chase and Wells Fargo report on Tuesday."
+      ]
+    },
+    {
+      "id": "refresco-kkr-ipo-pitches",
+      "lead": false,
+      "section": "PE",
+      "kicker": "Private Equity / IPO",
+      "hed": "KKR-owned Refresco takes IPO pitches from banks for a listing that could value the beverage bottler above $10 billion",
+      "dek": "Reuters via ESM Magazine (Oct 9, 2026, 11:13 AM): Refresco and KKR have heard bank pitches for a possible US or European IPO. Plans are preliminary. KKR bought Refresco in 2022 for roughly $8 billion. NOT MAJOR. Owner Quill.",
+      "date": "Oct. 9, 2026",
+      "source": "Reuters via ESM Magazine",
+      "url": "https://www.esmmagazine.com/packaging-design/refresco-plots-potential-ipo-at-10bn-plus-valuation-sources-say-323397",
+      "also": [],
+      "owner": "QUILL",
+      "action": "ADD (No. 278 Afternoon Fri). NOT MAJOR. Sponsor exit signal in a shaky IPO tape: a KKR infrastructure-strategy asset is doing bake-offs even as Oura and others delay. Reuters says plans are preliminary and could change. Watch: bank mandates, venue choice (US vs Europe) and whether yields and AI jitters push the window out. Owner Quill.",
+      "grafs": [
+        "Netherlands-based Refresco and its owner KKR took pitches from investment banks in recent weeks for roles on a potential initial public offering, Reuters reported, citing people familiar with the matter. Refresco is studying a listing in either the United States or Europe, and any debut would likely value the company at more than $10 billion. The plans are preliminary and could change, and Refresco and KKR declined to comment.",
+        "KKR acquired the company in 2022 for roughly $8 billion through its global infrastructure strategy. Refresco, which calls itself the world's largest independent beverage manufacturer, generated close to $7 billion of revenue and around $930 million of adjusted EBITDA in 2025, according to its annual report, and operates 85 production facilities across North America, Europe and Australia. Sources told Reuters that Coca-Cola Consolidated, valued at roughly $12.5 billion and trading at close to 12 times EBITDA per LSEG, could be a suitable peer.",
+        "The backdrop is mixed. Reuters cited Dealogic data showing traditional IPOs have raised nearly $140 billion so far this year, putting 2026 on pace to approach the record levels of 2021, but market volatility, higher bond yields, rate-hike fears and questions over AI spending and valuations are threatening the fall IPO season, and several companies including smart-ring maker Oura have delayed planned listings. Advisers told Reuters that companies are still holding bake-offs so they can move quickly when conditions improve."
       ]
     },
     {
