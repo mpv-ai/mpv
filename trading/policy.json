@@ -1,0 +1,21 @@
+{
+  "startingCash": 100000,
+  "benchmark": "SPY",
+  "maxPositionPct": 8,
+  "maxCryptoPct": 5,
+  "maxOptionsPremiumPct": 5,
+  "minCashPct": 2,
+  "maxCashPct": 15,
+  "rebalanceBandPct": 5,
+  "targets": {
+    "us_equity": 50,
+    "intl_equity": 15,
+    "bonds": 20,
+    "crypto": 3,
+    "cash": 5,
+    "satellite": 7
+  },
+  "allowedOptionStrategies": ["long_call", "long_put", "covered_call", "cash_secured_put", "protective_put"],
+  "noMargin": true,
+  "noNakedShortOptions": true
+}
