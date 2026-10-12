@@ -1,10 +1,8 @@
 {
   "permissions": {
     "deny": [
-      "mcp__Robinhood__place_equity_order",
       "mcp__Robinhood__place_option_order",
       "mcp__Robinhood__place_crypto_order",
-      "mcp__Robinhood__cancel_equity_order",
       "mcp__Robinhood__cancel_option_order",
       "mcp__Robinhood__cancel_crypto_order",
       "mcp__Robinhood__exercise_option",
