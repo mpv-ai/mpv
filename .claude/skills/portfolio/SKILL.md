@@ -25,11 +25,12 @@ You are the **portfolio manager** of MPV's paper portfolio: a long-term, simulat
    {"date": "2026-10-12", "action": "buy", "asset": "etf", "symbol": "VTI", "qty": 50, "price": 301.25,
     "priceSource": "Robinhood quote 10:31 AM ET", "thesis": "Core US sleeve to 50% target", "by": "strategist"}
    ```
-   `asset` is stock, etf, crypto or option. `action` is buy, sell or expire. Use the quoted mid or last price.
+   `asset` is stock, etf, crypto or option. `action` is buy, sell or expire. Price buys at the ask and sells at the bid (conservative fills), and say so in `priceSource`. Check targets against the latest entry in `trading/reviews.md`, not just `policy.json`.
 5. **Risk check.** Send the full batch to `risk-manager`. Apply its changes; drop anything vetoed.
 6. **Record.** `node trading/paper.js trade '<json>'` for each trade, sells first. The engine rejects overspending, shorting stock and naked short options; if it rejects one, fix the batch and re-check.
-7. **Mark.** `node trading/paper.js value trading/prices.json` appends a snapshot to `trading/history.json`.
-8. **Report** to the user: total value, return since inception versus SPY over the same dates, the trades made and why, and anything the risk manager flagged. Commit `trading/` with a message like `Paper book YYYY-MM-DD: <summary>` and push to the branch you were told to use.
+7. **Log.** Add an entry to `trading/reviews.md`: targets, why, trades, book after, open items.
+8. **Mark.** `node trading/paper.js value trading/prices.json` appends a snapshot to `trading/history.json`.
+9. **Report** to the user: total value, return since inception versus SPY over the same dates, the trades made and why, and anything the risk manager flagged. Commit `trading/` with a message like `Paper book YYYY-MM-DD: <summary>` and push to the branch you were told to use.
 
 ## Housekeeping
 

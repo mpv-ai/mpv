@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "VTI",
+    "qty": 118,
+    "price": 383.19,
+    "priceSource": "Robinhood 24-hour session ask, ~10:45 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Core US equity sleeve to 45% (strategist cut from 50 toward bonds at a 5.24% 10-y); total US market at 0.03%",
+    "by": "strategist"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "VXUS",
+    "qty": 176,
+    "price": 84.96,
+    "priceSource": "Robinhood 24-hour session ask, ~10:45 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "International sleeve to 15%; all-cap ex-US at 0.05%, P/E ~18 vs ~27 for VTI",
+    "by": "strategist"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "BND",
+    "qty": 355,
+    "price": 70.24,
+    "priceSource": "Robinhood 24-hour session ask, ~10:45 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Bond sleeve to 25%: 5.14% SEC yield, ~2.8% real 10-y, best entry in ~20 years; intermediate duration",
+    "by": "strategist"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "SGOV",
+    "qty": 49,
+    "price": 100.53,
+    "priceSource": "Robinhood 24-hour session ask, ~10:45 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Cash sleeve to 5% in 0-3 month T-bills (3.71% SEC yield)",
+    "by": "strategist"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "crypto",
+    "symbol": "BTC",
+    "qty": 0.024818,
+    "price": 84613.56,
+    "priceSource": "Robinhood Market Maker Routing ask, 10:47 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Crypto sleeve 3%, BTC 70% of it; steady spot-ETF inflows; filled at ask (~1.9% spread)",
+    "by": "crypto-analyst"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "crypto",
+    "symbol": "ETH",
+    "qty": 0.349795,
+    "price": 2572.93,
+    "priceSource": "Robinhood Market Maker Routing ask, 10:47 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Crypto sleeve 3%, ETH 30% of it; settlement-layer bet, weaker ETF flows argue for the smaller weight",
+    "by": "crypto-analyst"
+  }
+]
