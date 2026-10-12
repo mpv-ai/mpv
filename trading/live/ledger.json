@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-10-12",
+    "time": "11:01 AM ET",
+    "side": "sell",
+    "symbol": "MAGS",
+    "quantity": 50,
+    "price": 74.1421,
+    "limit": 74.12,
+    "fees": 0.08,
+    "orderId": "6accf64c-b9be-4ef2-9883-79cc5f67e812",
+    "note": "Approved by user in chat. Avg cost 60.61; realized gain ~$677."
+  }
+]
