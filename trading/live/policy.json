@@ -1,0 +1,15 @@
+{
+  "account": "594223612",
+  "accountNickname": "Agentic",
+  "budget": 4000,
+  "buySymbols": ["VTI", "VXUS", "BND", "SGOV"],
+  "sellSymbols": ["VTI", "VXUS", "BND", "SGOV", "MAGS"],
+  "orderTypes": ["limit"],
+  "rules": [
+    "Real money. ETFs only, whole shares, limit orders only.",
+    "Preview every order with review_equity_order first; place it only after the user replies yes to that specific order in chat.",
+    "No standing approval: a yes covers one order.",
+    "Sells before buys; never let buys exceed buying power or the budget.",
+    "Change budget or symbol lists only when the user says so."
+  ]
+}
