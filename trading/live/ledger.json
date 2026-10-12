@@ -22,5 +22,17 @@
     "fees": 0.0,
     "orderId": "6acd16a7-a2b8-4400-9368-34e4a3adc4fa",
     "note": "Approved by user in chat: 'Yes, buy 4 BND at $70.25'."
+  },
+  {
+    "date": "2026-10-12",
+    "time": "2:51 PM ET",
+    "side": "buy",
+    "symbol": "VTI",
+    "quantity": 0.049842,
+    "price": 381.1999,
+    "dollarAmount": 19.0,
+    "fees": 0.0,
+    "orderId": "6acd2c15-d582-4f20-9af0-e10f8f83221b",
+    "note": "Approved by user in chat: 'Yes, buy $19 of VTI now and make tomorrow's VTI $1,981'. Dollar-based market order."
   }
 ]
