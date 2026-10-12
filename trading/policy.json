@@ -4,6 +4,8 @@
   "maxPositionPct": 8,
   "maxCryptoPct": 5,
   "maxOptionsPremiumPct": 5,
+  "maxEventPct": 2,
+  "maxEventPositionPct": 0.5,
   "minCashPct": 2,
   "maxCashPct": 15,
   "rebalanceBandPct": 5,

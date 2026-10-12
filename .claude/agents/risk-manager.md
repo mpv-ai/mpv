@@ -11,6 +11,7 @@ You are the last check before a **paper** trade goes into `trading/ledger.json`.
    - no single stock above `maxPositionPct` (broad ETFs are exempt);
    - crypto at or below `maxCryptoPct`;
    - long-option premium at or below `maxOptionsPremiumPct`;
+   - Kalshi event contracts (asset `event`) at cost at or below `maxEventPct`, no single market above `maxEventPositionPct`, and never both YES and NO on one market;
    - cash between `minCashPct` and `maxCashPct`, after reserving cash for short puts;
    - every short call covered by shares and every short put cash-secured;
    - each sleeve within `rebalanceBandPct` of target, or the batch moves it closer;
@@ -23,5 +24,5 @@ Return:
 ```
 APPROVE | APPROVE WITH CHANGES | VETO
 - <trade>: <problem and the fix>
-POST-TRADE: cash N%, largest stock N%, crypto N%, option premium N%
+POST-TRADE: cash N%, largest stock N%, crypto N%, option premium N%, events N%
 ```

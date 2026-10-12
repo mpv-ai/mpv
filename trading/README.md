@@ -6,6 +6,8 @@ A simulated long-term portfolio run by the trading agents in `.claude/agents/`. 
 - `ledger.json`: every paper trade, with price source and thesis
 - `history.json`: mark-to-market snapshots, with SPY for comparison
 - `paper.js`: the bookkeeping engine (`positions`, `trade`, `value`)
+- `kalshi.js`: read-only public Kalshi market data (`quote`, `series`, `mark`, `settled`). Needs `api.elections.kalshi.com` allowed in the environment's network settings.
+- `reviews.md`: the targets and notes from each review
 
 Run a review with the `/portfolio` skill in Claude Code.
 

@@ -6,13 +6,17 @@
 //   node trading/paper.js positions             cash and open positions
 //   node trading/paper.js trade '<json>'        validate and record a trade
 //   node trading/paper.js value <prices.json>   mark to market, append to history.json
+//
+// Kalshi contracts are asset "event", symbol "<MARKET TICKER> YES|NO", priced in
+// dollars (0.01-0.99). Each contract pays $1 if its side wins. Record the
+// outcome with action "settle" at price 1 (won) or 0 (lost).
 
 const fs = require("node:fs");
 const path = require("node:path");
 
 const DIR = __dirname;
-const MULT = { stock: 1, etf: 1, crypto: 1, option: 100 };
-const ACTIONS = ["buy", "sell", "expire"];
+const MULT = { stock: 1, etf: 1, crypto: 1, option: 100, event: 1 };
+const ACTIONS = ["buy", "sell", "expire", "settle"];
 
 function load(name) {
   return JSON.parse(fs.readFileSync(path.join(DIR, name), "utf8"));
@@ -27,6 +31,12 @@ function parseOption(symbol) {
   const m = String(symbol).match(/^([A-Z.]+) (\d{4}-\d{2}-\d{2}) ([CP]) (\d+(?:\.\d+)?)$/);
   if (!m) return null;
   return { underlying: m[1], expiry: m[2], type: m[3] === "C" ? "call" : "put", strike: Number(m[4]) };
+}
+
+// Kalshi contract symbol: "KXFEDDECISION-26OCT-H0 YES"
+function parseEvent(symbol) {
+  const m = String(symbol).match(/^([A-Z0-9][A-Z0-9.-]*) (YES|NO)$/);
+  return m ? { market: m[1], side: m[2] } : null;
 }
 
 // Replays the ledger. qty is signed: negative is a short option.
@@ -74,6 +84,22 @@ function validate(policy, ledger, t) {
 
   const before = book(policy, ledger);
   const held = before.positions[t.symbol]?.qty || 0;
+  if (t.asset === "event") {
+    if (!parseEvent(t.symbol)) errors.push('event symbol must look like "KXFEDDECISION-26OCT-H0 YES"');
+    if (!Number.isInteger(t.qty)) errors.push("event quantity is whole contracts");
+    if (t.action === "settle") {
+      if (t.price !== 0 && t.price !== 1) errors.push("settle price is 1 (won) or 0 (lost)");
+    } else if (t.action === "expire") {
+      errors.push("use settle, not expire, for event contracts");
+    } else if (!(t.price > 0 && t.price < 1)) {
+      errors.push("event price is in dollars, between 0.01 and 0.99");
+    }
+  } else if (t.action === "settle") {
+    errors.push("settle is only for event contracts");
+  }
+  if (errors.length) return errors;
+
+  if (t.action === "settle" && Math.abs(t.qty - held) > 1e-9) errors.push(`settle must close all ${held} ${t.symbol}`);
   if (t.action === "expire" && held === 0) errors.push(`no open ${t.symbol} to expire`);
   if (t.action === "sell" && t.asset !== "option" && t.qty > held + 1e-9) {
     errors.push(`cannot sell ${t.qty} ${t.symbol}: only ${held} held (no shorting)`);
@@ -102,6 +128,15 @@ function validate(policy, ledger, t) {
     }
     if (reserved > after.cash + 1e-6) {
       errors.push(`cash-secured puts need ${reserved.toFixed(2)} cash, would have ${after.cash.toFixed(2)}`);
+    }
+  }
+  // Event contracts at cost stay under maxEventPct of the book at cost.
+  if (policy.maxEventPct != null && t.asset === "event" && t.action === "buy") {
+    const all = Object.values(after.positions);
+    const atCost = after.cash + all.reduce((n, p) => n + p.cost, 0);
+    const events = all.filter((p) => p.asset === "event").reduce((n, p) => n + p.cost, 0);
+    if (events > (atCost * policy.maxEventPct) / 100 + 1e-6) {
+      errors.push(`event contracts would be ${events.toFixed(2)}, over ${policy.maxEventPct}% of the book`);
     }
   }
   return [...new Set(errors)];
@@ -156,4 +191,4 @@ function main(argv) {
 
 if (require.main === module) main(process.argv.slice(2));
 
-module.exports = { book, validate, value, parseOption };
+module.exports = { book, validate, value, parseOption, parseEvent };

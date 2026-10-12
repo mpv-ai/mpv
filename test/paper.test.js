@@ -55,3 +55,24 @@ test("value marks positions and needs every price", () => {
   assert.throws(() => value(policy, ledger, {}), /missing prices/);
   assert.deepEqual(parseOption("AAPL 2027-01-15 C 200"), { underlying: "AAPL", expiry: "2027-01-15", type: "call", strike: 200 });
 });
+
+test("Kalshi event contracts buy, cap and settle", () => {
+  const p = { ...policy, maxEventPct: 2 };
+  const sym = "KXFEDDECISION-26OCT-H0 YES";
+  const buy = (qty, price) => t({ action: "buy", asset: "event", symbol: sym, qty, price });
+  assert.deepEqual(validate(p, [], buy(1000, 0.82)), []);
+  assert.match(validate(p, [], buy(3000, 0.82)).join(), /over 2% of the book/);
+  assert.match(validate(p, [], buy(10, 82)).join(), /between 0.01 and 0.99/);
+  assert.match(validate(p, [], t({ action: "buy", asset: "event", symbol: "fed yes", qty: 1, price: 0.5 })).join(), /event symbol/);
+
+  const ledger = [buy(1000, 0.82)];
+  const settle = (qty, price) => t({ action: "settle", asset: "event", symbol: sym, qty, price });
+  assert.match(validate(p, ledger, settle(500, 1)).join(), /close all 1000/);
+  assert.match(validate(p, ledger, settle(1000, 0.5)).join(), /1 \(won\) or 0/);
+  assert.deepEqual(validate(p, ledger, settle(1000, 1)), []);
+  const won = book(p, [...ledger, settle(1000, 1)]);
+  assert.equal(Math.round(won.cash), 100000 + 180);
+  assert.deepEqual(won.positions, {});
+  const lost = book(p, [...ledger, settle(1000, 0)]);
+  assert.equal(Math.round(lost.cash), 100000 - 820);
+});
