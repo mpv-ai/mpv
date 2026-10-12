@@ -35,6 +35,12 @@ function dollars(m, field) {
   return null;
 }
 
+// Counts arrive as *_fp strings on current payloads.
+function num(m, field) {
+  if (m[field + "_fp"] != null) return Number(m[field + "_fp"]);
+  return m[field] ?? null;
+}
+
 function quote(ticker) {
   const m = get(`/markets/${encodeURIComponent(ticker)}`).market;
   return {
@@ -46,8 +52,9 @@ function quote(ticker) {
     yes: { bid: dollars(m, "yes_bid"), ask: dollars(m, "yes_ask") },
     no: { bid: dollars(m, "no_bid"), ask: dollars(m, "no_ask") },
     last: dollars(m, "last_price"),
-    volume: m.volume ?? null,
-    openInterest: m.open_interest ?? null,
+    volume: num(m, "volume"),
+    volume24h: num(m, "volume_24h"),
+    openInterest: num(m, "open_interest"),
     rules: m.rules_primary || null,
   };
 }
