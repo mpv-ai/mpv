@@ -10,5 +10,17 @@
     "fees": 0.08,
     "orderId": "6accf64c-b9be-4ef2-9883-79cc5f67e812",
     "note": "Approved by user in chat. Avg cost 60.61; realized gain ~$677."
+  },
+  {
+    "date": "2026-10-12",
+    "time": "1:21 PM ET",
+    "side": "buy",
+    "symbol": "BND",
+    "quantity": 4,
+    "price": 70.25,
+    "limit": 70.25,
+    "fees": 0.0,
+    "orderId": "6acd16a7-a2b8-4400-9368-34e4a3adc4fa",
+    "note": "Approved by user in chat: 'Yes, buy 4 BND at $70.25'."
   }
 ]
