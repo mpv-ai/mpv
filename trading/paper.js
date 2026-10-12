@@ -182,6 +182,7 @@ function main(argv) {
       total: Number(v.total.toFixed(2)),
       cash: Number(v.cash.toFixed(2)),
       benchmarkPrice: prices[policy.benchmark] ?? null,
+      ...(prices.provisional ? { provisional: true } : {}),
     });
     save("history.json", history);
     console.log(JSON.stringify(v, null, 2));

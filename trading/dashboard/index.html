@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ATLAS Insight</title>
+<style>
+  :root {
+    --canvas: #FBFBF9; --ink: #222222; --blue: #0F4C81; --surface: #F4F4F0; --hair: #D9D9D4;
+    --muted: #5f5f5a; --warn: #8a5a00; --bad: #9b2c2c;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--canvas); color: var(--ink); font: 14px/1.45 Arial, Helvetica, sans-serif; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 20px 16px 48px; }
+  h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; font-weight: bold; margin: 0; }
+  h1 { font-size: 26px; }
+  h2 { font-size: 19px; margin-bottom: 10px; }
+  h3 { font-size: 15px; margin-bottom: 8px; }
+  .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 16px; }
+  .span-12 { grid-column: span 12; } .span-8 { grid-column: span 8; } .span-6 { grid-column: span 6; }
+  .span-4 { grid-column: span 4; } .span-2 { grid-column: span 2; }
+  @media (max-width: 860px) { .span-8, .span-6, .span-4 { grid-column: span 12; } .span-2 { grid-column: span 6; } }
+  header { border-bottom: 2px solid var(--ink); padding-bottom: 12px; margin-bottom: 16px; }
+  .headline { font-family: Georgia, serif; font-size: 18px; margin: 10px 0 4px; max-width: 900px; }
+  .meta { color: var(--muted); font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+  .meta b { color: var(--ink); }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: end; margin: 12px 0; }
+  .controls label { font-size: 11px; color: var(--muted); display: flex; flex-direction: column; gap: 2px; }
+  select, input, button { font: 13px Arial, sans-serif; padding: 6px 8px; border: 1px solid var(--hair); background: #fff; color: var(--ink); min-height: 34px; }
+  button { cursor: pointer; background: var(--surface); }
+  button.primary { background: var(--blue); color: #fff; border-color: var(--blue); }
+  button:focus-visible, select:focus-visible, input:focus-visible, [role=tab]:focus-visible { outline: 2px solid var(--blue); outline-offset: 1px; }
+  .kpi { background: var(--surface); border-top: 2px solid var(--ink); padding: 10px 12px; }
+  .kpi .label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+  .kpi .value { font-size: 22px; font-variant-numeric: tabular-nums; margin-top: 2px; }
+  .kpi .sub { font-size: 11px; color: var(--muted); }
+  .warning { border-left: 3px solid var(--warn); background: #fff; padding: 8px 12px; margin: 12px 0; }
+  .warning b { color: var(--warn); }
+  nav[role=tablist] { display: flex; flex-wrap: wrap; border-bottom: 1px solid var(--hair); margin: 20px 0 16px; }
+  [role=tab] { border: 0; border-bottom: 2px solid transparent; background: none; padding: 8px 12px; color: var(--muted); }
+  [role=tab][aria-selected=true] { color: var(--ink); border-bottom-color: var(--blue); font-weight: bold; }
+  section[role=tabpanel] { display: none; } section[role=tabpanel].on { display: block; }
+  .panel { background: #fff; border: 1px solid var(--hair); padding: 14px; }
+  .note { color: var(--muted); font-size: 12px; margin-top: 6px; }
+  .tablewrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; }
+  th, td { padding: 6px 8px; border-bottom: 1px solid var(--hair); text-align: left; vertical-align: top; white-space: nowrap; }
+  th { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; background: var(--surface); }
+  th.sortable { cursor: pointer; } th.sortable:after { content: " \2195"; color: var(--hair); }
+  th[aria-sort=ascending]:after { content: " \2191"; color: var(--blue); } th[aria-sort=descending]:after { content: " \2193"; color: var(--blue); }
+  td.num, th.num { text-align: right; }
+  td.wrap { white-space: normal; min-width: 220px; }
+  .status { font-size: 11px; font-weight: bold; letter-spacing: .02em; }
+  .status.below, .status.notach { color: var(--bad); } .status.above, .status.ach { color: var(--blue); } .status.partial { color: var(--muted); }
+  svg text { font: 11px Arial, sans-serif; fill: var(--muted); }
+  .empty { color: var(--muted); padding: 16px; text-align: center; border: 1px dashed var(--hair); }
+  .hidden { display: none !important; }
+  @media print {
+    .controls, nav[role=tablist], .noprint { display: none !important; }
+    section[role=tabpanel] { display: block !important; page-break-inside: avoid; margin-bottom: 16px; }
+    body { background: #fff; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;align-items:baseline">
+      <h1>ATLAS Insight</h1>
+      <span class="meta" id="mode"></span>
+    </div>
+    <p class="headline" id="headline">Loading snapshot.</p>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <div class="controls noprint" role="group" aria-label="Dashboard controls">
+    <label>Scope
+      <select id="scope" aria-label="Reporting scope">
+        <option value="live">Live account (real money)</option>
+        <option value="paper">Paper portfolio (simulated)</option>
+      </select>
+    </label>
+    <label>From <input type="date" id="from" aria-label="From date"></label>
+    <label>To <input type="date" id="to" aria-label="To date"></label>
+    <button type="button" id="reset">Reset</button>
+    <button type="button" id="refresh" class="hidden">Refresh</button>
+    <button type="button" id="print">Print report</button>
+    <label>Import snapshot <input type="file" id="import" accept="application/json" aria-label="Import snapshot JSON"></label>
+  </div>
+
+  <div class="grid" id="kpis"></div>
+  <div id="target" class="panel" style="margin-top:16px"></div>
+  <div class="warning" id="warning"></div>
+
+  <nav role="tablist" aria-label="Views">
+    <button role="tab" id="t-overview" aria-controls="p-overview" aria-selected="true">Overview</button>
+    <button role="tab" id="t-daily" aria-controls="p-daily" aria-selected="false" tabindex="-1">Daily goal</button>
+    <button role="tab" id="t-trades" aria-controls="p-trades" aria-selected="false" tabindex="-1">Trades</button>
+    <button role="tab" id="t-portfolio" aria-controls="p-portfolio" aria-selected="false" tabindex="-1">Portfolio</button>
+    <button role="tab" id="t-forecasts" aria-controls="p-forecasts" aria-selected="false" tabindex="-1">Forecasts and execution</button>
+    <button role="tab" id="t-data" aria-controls="p-data" aria-selected="false" tabindex="-1">Data and methodology</button>
+  </nav>
+
+  <section role="tabpanel" id="p-overview" aria-labelledby="t-overview" class="on">
+    <div class="grid">
+      <div class="panel span-8"><h2>Performance versus the hypothetical 2% path</h2><div id="chart-index"></div>
+        <p class="note">Flow-neutral wealth index, start = 100. The 2% line is a hypothetical compounding path (100 x 1.02^D), not a forecast.</p></div>
+      <div class="panel span-4"><h2>Today's P&amp;L bridge</h2><div id="bridge"></div></div>
+      <div class="panel span-6"><h2>Contributors and detractors</h2><div id="contrib"></div></div>
+      <div class="panel span-6"><h2>Cash and exposure</h2><div id="cash"></div></div>
+    </div>
+  </section>
+
+  <section role="tabpanel" id="p-daily" aria-labelledby="t-daily">
+    <div class="panel"><h2>Daily returns against the 2% reference</h2><div id="chart-daily"></div>
+      <div class="tablewrap"><table id="tbl-daily"></table></div>
+      <p class="note" id="hitrate"></p></div>
+  </section>
+
+  <section role="tabpanel" id="p-trades" aria-labelledby="t-trades">
+    <div class="panel">
+      <div class="controls" style="margin-top:0">
+        <label>Search <input type="search" id="q" placeholder="Symbol or text" aria-label="Search trades"></label>
+        <label>Side <select id="side"><option value="">All</option><option>buy</option><option>sell</option></select></label>
+        <button type="button" id="csv" class="primary">Download CSV</button>
+      </div>
+      <div class="tablewrap"><table id="tbl-trades"></table></div>
+      <p class="note" id="trades-note"></p>
+    </div>
+  </section>
+
+  <section role="tabpanel" id="p-portfolio" aria-labelledby="t-portfolio">
+    <div class="grid">
+      <div class="panel span-8"><h2>Positions</h2><div class="tablewrap"><table id="tbl-pos"></table></div><p class="note" id="pos-note"></p></div>
+      <div class="panel span-4"><h2>Deployment and limits</h2><div id="deploy"></div></div>
+    </div>
+  </section>
+
+  <section role="tabpanel" id="p-forecasts" aria-labelledby="t-forecasts">
+    <div class="grid">
+      <div class="panel span-6"><h2>Forecast calibration</h2><div id="forecasts"></div></div>
+      <div class="panel span-6"><h2>Execution quality</h2><div id="execution"></div></div>
+    </div>
+  </section>
+
+  <section role="tabpanel" id="p-data" aria-labelledby="t-data">
+    <div class="grid">
+      <div class="panel span-6"><h2>Sources and freshness</h2><div class="tablewrap"><table id="tbl-src"></table></div></div>
+      <div class="panel span-6"><h2>Reconciliation checks</h2><div class="tablewrap"><table id="tbl-checks"></table></div></div>
+      <div class="panel span-12"><h2>Definitions</h2><div id="defs"></div></div>
+    </div>
+  </section>
+</div>
+
+<script>
+window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
+(function () {
+  "use strict";
+  let S = window.ATLAS_SNAPSHOT;
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const NA = "N/A", UN = "Unavailable";
+  const money = (x) => x === null || x === undefined ? UN : (x < 0 ? "($" + Math.abs(x).toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ")" : "$" + x.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+  const pct = (x, d = 2) => x === null || x === undefined ? UN : (x < 0 ? "(" + Math.abs(x * 100).toFixed(d) + "%)" : (x * 100).toFixed(d) + "%");
+  const pp = (x) => x === null || x === undefined ? UN : (x < 0 ? "(" + Math.abs(x).toFixed(2) + ") pts" : x.toFixed(2) + " pts");
+  const num = (x, d = 4) => x === null || x === undefined ? UN : (x < 0 ? "(" + Math.abs(x).toFixed(d) + ")" : (+x).toFixed(d));
+  const statusClass = (s) => ({ "BELOW TARGET NOW": "below", "ABOVE TARGET NOW": "above", ACHIEVED: "ach", "NOT ACHIEVED": "notach" }[s] || "partial");
+  const etTime = (iso) => iso ? new Date(iso).toLocaleString("en-US", { timeZone: "America/New_York", dateStyle: "medium", timeStyle: "short" }) + " ET" : UN;
+  const book = () => S[$("scope").value];
+  const inRange = (d) => (!$("from").value || d >= $("from").value) && (!$("to").value || d <= $("to").value);
+  let tradeSort = { key: "date", dir: 1 };
+
+  function freshness(iso) {
+    if (!iso) return "UNAVAILABLE";
+    const age = (Date.parse(S.renderedUtc) - Date.parse(iso)) / 60000;
+    return age <= 5 ? "CURRENT" : age <= 60 ? "DELAYED" : "STALE";
+  }
+
+  function render() {
+    if (!S) { $("headline").textContent = "No snapshot loaded. Import a snapshot JSON to begin."; return; }
+    const B = book();
+    if (!B || !B.available) {
+      $("headline").textContent = "This scope has no verified data: " + (B && B.reason ? B.reason : "unavailable") + ".";
+      return;
+    }
+    const days = B.days.filter((d) => inRange(d.date));
+    const today = B.days[B.days.length - 1];
+    const g = today.goal;
+    const isLive = B.mode === "LIVE";
+    $("mode").innerHTML = "<b>" + esc(B.mode) + "</b> &middot; snapshot " + esc(etTime(S.renderedUtc));
+    const fresh = isLive ? freshness(B.asOfUtc) : "SNAPSHOT";
+    $("meta").innerHTML = [
+      "Scope: <b>" + esc(isLive ? B.scope : "Paper portfolio, $" + B.startingCash.toLocaleString() + " simulated start") + "</b>",
+      "Period: <b>" + esc(today.date) + (today.kind === "intraday" ? " (intraday, provisional)" : "") + "</b>",
+      "Valuation: <b>" + esc(isLive ? B.valuation : "last trade (equities), mark (crypto)") + "</b>",
+      "Data: <b>" + esc(fresh) + "</b>" + (isLive ? " as of " + esc(etTime(B.asOfUtc)) : ""),
+      "Day: " + esc(S.reportingDay),
+    ].map((x) => "<span>" + x + "</span>").join("");
+
+    const dir = today.pnl >= 0 ? "up" : "down";
+    let head = (isLive ? "Live account " : "Paper portfolio ") + dir + " " + pct(Math.abs(today.ret)) + " today (" + money(Math.abs(today.pnl)) + "), " +
+      pp(g.gapPP).replace(" pts", " percentage points") + " versus the 2% goal: " + g.status + ".";
+    if (isLive && today.realized !== null) head += " " + money(today.realized) + " realized from the MAGS sale; " + money(today.unrealizedChange) + " is the reversal of previously unrealized gains.";
+    $("headline").textContent = head.replace(/\s+/g, " ");
+
+    const kpis = [
+      ["Portfolio NAV", money(B.nav), isLive ? "Venue-reported" : "Marked"],
+      ["Today's net P&L", money(today.pnl), today.kind === "intraday" ? "Provisional" : "Final"],
+      ["Today's return", pct(today.ret), "Flow-adjusted: no flows"],
+      ["Gap to 2%", pp(g.gapPP), "Attainment " + (g.attainmentPct === null ? UN : g.attainmentPct.toFixed(1) + "%")],
+      ["Free cash", money(isLive ? B.freeCash : B.cash), isLive ? money(B.unsettledCash) + " unsettled" : "Paper cash"],
+      ["Current drawdown", pct(B.drawdown.current), "Max " + pct(B.drawdown.max) + ", daily snapshots"],
+    ];
+    $("kpis").innerHTML = kpis.map((k) => '<div class="kpi span-2"><div class="label">' + esc(k[0]) + '</div><div class="value">' + esc(k[1]) + '</div><div class="sub">' + esc(k[2]) + "</div></div>").join("");
+
+    // Bullet comparison against the 2% reference.
+    const lo = Math.min(-0.01, today.ret), hi = Math.max(0.025, today.ret);
+    const x = (v) => 10 + ((v - lo) / (hi - lo)) * 580;
+    $("target").innerHTML = '<h3>Today versus the 2% goal</h3><svg viewBox="0 0 600 54" width="100%" role="img" aria-label="Today return ' + esc(pct(today.ret)) + ' against 2% target">' +
+      '<rect x="10" y="18" width="580" height="12" fill="#F4F4F0"/>' +
+      '<line x1="' + x(0) + '" x2="' + x(0) + '" y1="12" y2="36" stroke="#222"/><text x="' + x(0) + '" y="50" text-anchor="middle">0%</text>' +
+      '<line x1="' + x(0.02) + '" x2="' + x(0.02) + '" y1="8" y2="40" stroke="#0F4C81" stroke-width="2" stroke-dasharray="3 2"/><text x="' + x(0.02) + '" y="50" text-anchor="middle">2% goal</text>' +
+      '<circle cx="' + x(today.ret) + '" cy="24" r="6" fill="#222"/><text x="' + x(today.ret) + '" y="10" text-anchor="middle">Today ' + esc(pct(today.ret)) + "</text></svg>" +
+      '<p class="note"><span class="status ' + statusClass(g.status) + '">' + esc(g.status) + "</span> Target dollars " + money(g.targetDollars) + "; additional needed " + money(g.needed) + ". The 2% goal is a stretch objective; it never justifies larger positions or relaxed entry rules.</p>";
+
+    // Most material warning.
+    let warn;
+    if (S.checks.some((c) => !c.ok)) warn = "<b>Reconciliation break.</b> " + esc(S.checks.filter((c) => !c.ok).map((c) => c.name).join("; "));
+    else if (isLive && B.unsettledCash > 0) warn = "<b>Unsettled cash.</b> " + money(B.unsettledCash) + " from the MAGS sale is unsettled; buying power is " + money(B.freeCash) + ". Planned ETF buys wait for settlement and your approval of each order.";
+    else if (!isLive) warn = "<b>Simulated results.</b> Paper fills at the ask with no market impact. Day 1 (Oct 11) is a partial inception day and is excluded from the hit rate.";
+    $("warning").innerHTML = warn || "<b>No material warnings.</b>";
+    $("warning").classList.toggle("hidden", false);
+
+    renderIndex(B, days); renderBridge(B, today); renderContrib(B); renderCash(B);
+    renderDaily(B, days); renderTrades(B); renderPositions(B); renderForecasts(B); renderData();
+  }
+
+  function renderIndex(B, days) {
+    const idx = [100]; days.forEach((d) => idx.push(idx[idx.length - 1] * (1 + (d.ret ?? 0))));
+    const tgt = idx.map((_, i) => 100 * Math.pow(1.02, i));
+    const all = idx.concat(tgt), mn = Math.min(...all) - 0.5, mx = Math.max(...all) + 0.5;
+    const W = 560, H = 200, px = (i) => 40 + (i / Math.max(1, idx.length - 1)) * (W - 60), py = (v) => H - 24 - ((v - mn) / (mx - mn)) * (H - 40);
+    const line = (arr) => arr.map((v, i) => (i ? "L" : "M") + px(i).toFixed(1) + " " + py(v).toFixed(1)).join(" ");
+    const labels = ["Start"].concat(days.map((d) => d.date.slice(5) + (d.kind === "intraday" ? "*" : "")));
+    $("chart-index").innerHTML = '<svg viewBox="0 0 ' + W + " " + H + '" width="100%" role="img" aria-label="Wealth index versus 2% path">' +
+      [mn, (mn + mx) / 2, mx].map((v) => '<line x1="40" x2="' + (W - 20) + '" y1="' + py(v) + '" y2="' + py(v) + '" stroke="#D9D9D4"/><text x="34" y="' + (py(v) + 4) + '" text-anchor="end">' + v.toFixed(1) + "</text>").join("") +
+      '<path d="' + line(tgt) + '" fill="none" stroke="#0F4C81" stroke-width="1.5" stroke-dasharray="4 3"/>' +
+      '<path d="' + line(idx) + '" fill="none" stroke="#222" stroke-width="2"/>' +
+      labels.map((l, i) => '<text x="' + px(i) + '" y="' + (H - 6) + '" text-anchor="middle">' + esc(l) + "</text>").join("") +
+      '<text x="' + (W - 20) + '" y="' + (py(tgt[tgt.length - 1]) - 6) + '" text-anchor="end" style="fill:#0F4C81">2% path ' + tgt[tgt.length - 1].toFixed(2) + "</text>" +
+      '<text x="' + (W - 20) + '" y="' + (py(idx[idx.length - 1]) + 14) + '" text-anchor="end" style="fill:#222">Actual ' + idx[idx.length - 1].toFixed(2) + "</text></svg>" +
+      '<p class="note">* Intraday, provisional. ' + days.length + " day(s) in range; too short a record to annualize or judge skill.</p>";
+  }
+
+  function renderBridge(B, d) {
+    if (d.realized === null) {
+      $("bridge").innerHTML = '<table><tr><td>Beginning NAV</td><td class="num">' + money(d.begin) + '</td></tr><tr><td>Net P&amp;L</td><td class="num">' + money(d.pnl) + '</td></tr><tr><td><b>Ending NAV</b></td><td class="num"><b>' + money(d.end) + "</b></td></tr></table><p class=\"note\">" + esc(d.splitNote) + "</p>";
+      return;
+    }
+    const steps = [["Beginning NAV", d.begin, "base"], ["Realized net P&L", d.realized, "delta"], ["Change in unrealized", d.unrealizedChange, "delta"], ["External flows", d.flows, "delta"], ["Ending NAV", d.end, "base"]];
+    let run = 0; const vals = steps.map((s) => { if (s[2] === "base") { run = s[1]; return [0, s[1]]; } const a = run; run += s[1]; return [a, run]; });
+    // Zoomed axis: bars start at a floor below the lowest running total so small movements stay visible.
+    const flat = vals.flat(), span = Math.max(...flat) - Math.min(...flat.filter((v) => v > 0));
+    const lo = Math.max(0, Math.min(...flat.filter((v) => v > 0)) - span * 0.25), mx = Math.max(...flat) + span * 0.05;
+    const W = 320, rowH = 30, X = (v) => 110 + ((Math.max(v, lo) - lo) / (mx - lo)) * (W - 120);
+    $("bridge").innerHTML = '<svg viewBox="0 0 ' + W + " " + steps.length * rowH + '" width="100%" role="img" aria-label="P&L waterfall">' + steps.map((s, i) => {
+      const [a, b] = vals[i]; const x1 = X(Math.min(a, b)), w = Math.max(1, Math.abs(X(b) - X(a)));
+      const fill = s[2] === "base" ? "#222" : s[1] < 0 ? "#9b2c2c" : "#0F4C81";
+      return '<text x="0" y="' + (i * rowH + 18) + '">' + esc(s[0]) + '</text><rect x="' + x1 + '" y="' + (i * rowH + 6) + '" width="' + w + '" height="16" fill="' + fill + '"/>';
+    }).join("") + "</svg>" +
+      "<table>" + steps.map((s) => '<tr><td>' + esc(s[0]) + '</td><td class="num">' + money(s[1]) + "</td></tr>").join("") +
+      '<tr><td colspan="2" class="note">Axis starts at ' + money(lo) + ', not zero.</td></tr><tr><td>Residual</td><td class="num">' + (Math.abs(d.residual) < 0.01 ? "$0.00 (reconciled)" : "UNRECONCILED " + money(d.residual)) + "</td></tr></table>";
+  }
+
+  function renderContrib(B) {
+    const rows = B.mode === "LIVE"
+      ? B.days[B.days.length - 1].realized !== null ? [{ symbol: "MAGS (sold)", v: B.days[B.days.length - 1].pnl }] : []
+      : B.positions.map((p) => ({ symbol: p.symbol, v: p.unrealized })).sort((a, b) => b.v - a.v);
+    if (!rows.length) { $("contrib").innerHTML = '<div class="empty">No attributable P&amp;L in scope.</div>'; return; }
+    const mx = Math.max(...rows.map((r) => Math.abs(r.v)), 1), W = 520, rowH = 24, mid = 260;
+    $("contrib").innerHTML = '<svg viewBox="0 0 ' + W + " " + rows.length * rowH + '" width="100%" role="img" aria-label="Contributors by unrealized P&L since entry">' + rows.map((r, i) => {
+      const w = (Math.abs(r.v) / mx) * 160; const x = r.v < 0 ? mid - w : mid;
+      return '<text x="' + (mid - 170) + '" y="' + (i * rowH + 16) + '" text-anchor="end">' + esc(r.symbol) + '</text><rect x="' + x + '" y="' + (i * rowH + 5) + '" width="' + Math.max(1, w) + '" height="14" fill="' + (r.v < 0 ? "#9b2c2c" : "#0F4C81") + '"/><text x="' + (r.v < 0 ? mid + 6 : mid + w + 6) + '" y="' + (i * rowH + 16) + '">' + esc(money(r.v)) + "</text>";
+    }).join("") + '<line x1="' + mid + '" x2="' + mid + '" y1="0" y2="' + rows.length * rowH + '" stroke="#222"/></svg>' +
+      '<p class="note">' + (B.mode === "LIVE" ? "Today's P&amp;L by holding." : "Unrealized P&amp;L since entry, by holding; entry spreads included.") + "</p>";
+  }
+
+  function renderCash(B) {
+    const live = B.mode === "LIVE";
+    const rows = live
+      ? [["Free cash (buying power)", B.freeCash], ["Unsettled sale proceeds", B.unsettledCash], ["Reserved for open orders", B.reserved], ["Marked positions", B.positions.reduce((n, p) => n + p.quantity * p.mark, 0)], ["NAV", B.nav]]
+      : [["Cash", B.cash], ["Marked positions", B.nav - B.cash], ["NAV", B.nav]];
+    $("cash").innerHTML = "<table>" + rows.map((r) => "<tr><td>" + esc(r[0]) + '</td><td class="num">' + money(r[1]) + "</td></tr>").join("") + "</table>" +
+      '<p class="note">Filled deployment ' + pct(B.deployment.filled, 1) + "; committed " + pct(B.deployment.committed, 1) + " (cost-based, not NAV weights)." +
+      (live && B.unsettledCash ? " Idle cash is explained by settlement timing, not lack of opportunity." : "") + "</p>";
+  }
+
+  function renderDaily(B, days) {
+    const W = 560, H = 170, n = Math.max(days.length, 1);
+    const vals = days.map((d) => d.ret ?? 0).concat([0.02, 0]); const mn = Math.min(...vals) - 0.002, mx = Math.max(...vals) + 0.002;
+    const py = (v) => 10 + ((mx - v) / (mx - mn)) * (H - 40), bw = Math.min(60, (W - 80) / n - 10);
+    $("chart-daily").innerHTML = days.length ? '<svg viewBox="0 0 ' + W + " " + H + '" width="100%" role="img" aria-label="Daily returns with 2% reference">' +
+      '<line x1="40" x2="' + (W - 10) + '" y1="' + py(0) + '" y2="' + py(0) + '" stroke="#222"/>' +
+      '<line x1="40" x2="' + (W - 10) + '" y1="' + py(0.02) + '" y2="' + py(0.02) + '" stroke="#0F4C81" stroke-dasharray="4 3"/><text x="' + (W - 10) + '" y="' + (py(0.02) - 4) + '" text-anchor="end" style="fill:#0F4C81">2% reference</text>' +
+      days.map((d, i) => { const x = 50 + i * ((W - 80) / n); const r = d.ret ?? 0; return '<rect x="' + x + '" y="' + Math.min(py(r), py(0)) + '" width="' + bw + '" height="' + Math.max(1, Math.abs(py(r) - py(0))) + '" fill="' + (r < 0 ? "#9b2c2c" : "#222") + '"/><text x="' + (x + bw / 2) + '" y="' + (H - 14) + '" text-anchor="middle">' + esc(d.date.slice(5)) + '</text><text x="' + (x + bw / 2) + '" y="' + (H - 2) + '" text-anchor="middle">' + esc(pct(d.ret)) + "</text>"; }).join("") + "</svg>"
+      : '<div class="empty">No days in the selected range.</div>';
+    const cols = ["Date", "Status", "Return", "Target", "Gap", "Attainment", "Net P&L", "Realized", "Open-value change", "Completeness"];
+    $("tbl-daily").innerHTML = "<thead><tr>" + cols.map((c, i) => '<th class="' + (i > 1 && i < 9 ? "num" : "") + '">' + c + "</th>").join("") + "</tr></thead><tbody>" +
+      days.map((d) => "<tr><td>" + esc(d.date) + '</td><td><span class="status ' + statusClass(d.goal.status) + '">' + esc(d.goal.status) + '</span></td><td class="num">' + pct(d.ret) + '</td><td class="num">2.00%</td><td class="num">' + pp(d.goal.gapPP) + '</td><td class="num">' + (d.goal.attainmentPct === null ? UN : d.goal.attainmentPct.toFixed(1) + "%") + '</td><td class="num">' + money(d.pnl) + '</td><td class="num">' + (d.realized === null ? "Not split" : money(d.realized)) + '</td><td class="num">' + (d.unrealizedChange === null ? "Not split" : money(d.unrealizedChange)) + "</td><td>" + (d.partialInception ? "Partial inception day" : d.kind === "intraday" ? "Intraday, provisional" : "Complete") + "</td></tr>").join("") + "</tbody>";
+    const scored = days.filter((d) => d.complete && !d.partialInception && d.ret !== null);
+    const hits = scored.filter((d) => d.goal.status === "ACHIEVED").length;
+    $("hitrate").textContent = "Verified-day achievement rate: " + (scored.length ? hits + " of " + scored.length + " complete days" : "no complete verified days yet") + ". Days in range: " + days.length + "; unverified days: " + days.filter((d) => d.goal.status === "UNVERIFIED").length + ".";
+  }
+
+  const tradeCols = [["date", "Date"], ["scope", "Scope"], ["symbol", "Symbol"], ["side", "Side"], ["quantity", "Qty", 1], ["price", "Price", 1], ["fees", "Fees", 1], ["value", "Value", 1], ["mark", "Current mark", 1], ["status", "Status"], ["note", "Thesis / note"]];
+  function visibleTrades(B) {
+    const q = $("q").value.toLowerCase(), side = $("side").value;
+    return B.trades.filter((t) => inRange(t.date) && (!side || t.side === side) && (!q || JSON.stringify(t).toLowerCase().includes(q)))
+      .map((t) => ({ ...t, note: t.thesis || t.note || "" }))
+      .sort((a, b) => { const k = tradeSort.key, x = a[k], y = b[k]; return (typeof x === "number" && typeof y === "number" ? x - y : String(x ?? "").localeCompare(String(y ?? ""))) * tradeSort.dir; });
+  }
+  function renderTrades(B) {
+    const rows = visibleTrades(B);
+    $("tbl-trades").innerHTML = "<thead><tr>" + tradeCols.map((c) => '<th class="sortable' + (c[2] ? " num" : "") + '" data-k="' + c[0] + '" tabindex="0" aria-sort="' + (tradeSort.key === c[0] ? (tradeSort.dir > 0 ? "ascending" : "descending") : "none") + '">' + c[1] + "</th>").join("") + "</tr></thead><tbody>" +
+      (rows.length ? rows.map((t) => "<tr>" + tradeCols.map((c) => {
+        const v = t[c[0]]; const f = c[0] === "price" || c[0] === "mark" ? (v === null || v === undefined ? NA : num(v, 4)) : c[0] === "fees" || c[0] === "value" ? money(v) : esc(v);
+        return '<td class="' + (c[2] ? "num" : c[0] === "note" ? "wrap" : "") + '">' + f + "</td>";
+      }).join("") + "</tr>").join("") : '<tr><td colspan="' + tradeCols.length + '"><div class="empty">No trades match the current filters.</div></td></tr>') + "</tbody>";
+    $("tbl-trades").querySelectorAll("th.sortable").forEach((th) => {
+      const go = () => { const k = th.dataset.k; tradeSort = { key: k, dir: tradeSort.key === k ? -tradeSort.dir : 1 }; renderTrades(B); };
+      th.addEventListener("click", go); th.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } });
+    });
+    $("trades-note").textContent = rows.length + " of " + B.trades.length + " trades shown. " + (B.mode === "LIVE" ? "Fills confirmed from Robinhood order records." : "Paper fills recorded by paper.js; no money moved.");
+  }
+
+  function renderPositions(B) {
+    if (B.mode === "LIVE") {
+      $("tbl-pos").innerHTML = B.positions.length ? "" : '<tbody><tr><td><div class="empty">No open positions. The account is all cash pending settlement and the approved ETF buys.</div></td></tr></tbody>';
+      $("pos-note").textContent = "Source: " + B.source + ", " + etTime(B.asOfUtc) + ".";
+    } else {
+      $("tbl-pos").innerHTML = '<thead><tr><th>Symbol</th><th>Asset</th><th class="num">Qty</th><th class="num">Cost</th><th class="num">Mark</th><th class="num">Value</th><th class="num">Unrealized</th><th class="num">Weight</th></tr></thead><tbody>' +
+        B.positions.map((p) => "<tr><td>" + esc(p.symbol) + "</td><td>" + esc(p.asset) + '</td><td class="num">' + num(p.qty, p.asset === "crypto" ? 6 : 0) + '</td><td class="num">' + money(p.cost) + '</td><td class="num">' + num(p.price, 2) + '</td><td class="num">' + money(p.marketValue) + '</td><td class="num">' + money(p.unrealized) + '</td><td class="num">' + p.pct.toFixed(2) + "%</td></tr>").join("") + "</tbody>";
+      $("pos-note").textContent = "Marks: " + B.asOf + ". Benchmark " + B.benchmark.symbol + " " + pct(B.benchmark.ret) + " over the same snapshots; paper " + pct(B.inceptionReturn) + " since inception.";
+    }
+    const live = B.mode === "LIVE";
+    $("deploy").innerHTML = "<table>" + (live
+      ? [["Budget (policy)", "$4,000.00"], ["Allowed buys", "VTI, VXUS, BND, SGOV"], ["Order type", "Limit only"], ["Approval", "Your yes on every order"], ["Filled deployment", pct(B.deployment.filled, 1)], ["Committed deployment", pct(B.deployment.committed, 1)]]
+      : [["Max single stock", "8%"], ["Max crypto", "5%"], ["Max event contracts", "2%"], ["Min free cash", "2%"], ["Filled deployment", pct(B.deployment.filled, 1)]]
+    ).map((r) => "<tr><td>" + esc(r[0]) + '</td><td class="num">' + esc(r[1]) + "</td></tr>").join("") + "</table><p class=\"note\">Limits are loaded from the approved policy files and cannot be changed here.</p>";
+  }
+
+  function renderForecasts(B) {
+    $("forecasts").innerHTML = '<div class="empty">No settled forecasts yet. The prediction analyst has made no paper Kalshi trades (no 8-point edge found on Oct 11), so Brier score and calibration are not measured. Sample size: 0.</div>';
+    if (B.mode === "LIVE") {
+      const t = B.trades.find((x) => x.symbol === "MAGS");
+      $("execution").innerHTML = t ? '<table><tr><td>Order</td><td class="num">Sell 50 MAGS, limit $74.12</td></tr><tr><td>Decision quote (bid, 11:01 AM ET preview)</td><td class="num">$74.1500</td></tr><tr><td>Average fill</td><td class="num">$74.1421</td></tr><tr><td>Shortfall vs decision bid</td><td class="num">($0.0079) per share, ($0.40) total</td></tr><tr><td>Fees</td><td class="num">$0.08</td></tr><tr><td>Fill rate</td><td class="num">100% of quantity</td></tr></table><p class="note">One order; too few to judge execution quality.</p>' : '<div class="empty">No live executions.</div>';
+    } else {
+      $("execution").innerHTML = '<div class="empty">Paper fills are recorded at the ask (buys) and bid (sells) by policy, so execution shortfall is zero by construction and is not measured.</div>';
+    }
+  }
+
+  function renderData() {
+    $("tbl-src").innerHTML = '<thead><tr><th>Source</th><th>Scope</th><th>Detail</th><th>As of</th><th>Status</th></tr></thead><tbody>' +
+      S.sources.map((s) => "<tr><td>" + esc(s.id) + "</td><td>" + esc(s.scope) + '</td><td class="wrap">' + esc(s.detail) + "</td><td>" + esc(s.asOfUtc ? etTime(s.asOfUtc) : "See detail") + "</td><td>" + esc(s.asOfUtc ? freshness(s.asOfUtc) : "SNAPSHOT") + "</td></tr>").join("") + "</tbody>";
+    $("tbl-checks").innerHTML = '<thead><tr><th>Check</th><th>Result</th></tr></thead><tbody>' +
+      S.checks.map((c) => '<tr><td class="wrap">' + esc(c.name) + "</td><td>" + (c.ok ? "Pass" : "<b>FAIL</b> " + esc(c.detail)) + "</td></tr>").join("") + "</tbody>";
+    $("defs").innerHTML = "<table><tbody>" + [
+      ["NAV", "Cash + marked positions + verified receivables - liabilities. Live uses Robinhood's reported account value."],
+      ["Net P&L", "Ending NAV - beginning NAV - net external flows. Also equals realized net P&L + change in unrealized P&L."],
+      ["Daily return", "(Ending NAV - beginning NAV) / beginning NAV with no flows; time-weighted and geometrically linked when flows occur."],
+      ["Gap to 2%", "Daily return - 2.00%, in percentage points."],
+      ["Attainment", "Daily return / 2.00% x 100%. Not capped; can be negative."],
+      ["2% path", "100 x 1.02^D for D completed days. Hypothetical, not a forecast. One year at 2% a day would be about 1,377x capital, which no evidence supports."],
+      ["Drawdown", "Decline from the high-water mark of the flow-neutral wealth index, using daily snapshots only."],
+      ["Deployment", "Filled = position cost / (position cost + order reservations + free cash). Cost-based, not NAV weights."],
+      ["Statuses", "ABOVE / BELOW TARGET NOW are intraday and provisional. ACHIEVED / NOT ACHIEVED need a complete reconciled day. UNVERIFIED means evidence is missing."],
+      ["Scope", "Live and paper are never combined. Live is the entire Robinhood Agentic account; paper is the simulated $100,000 book."],
+    ].map((r) => "<tr><td><b>" + esc(r[0]) + '</b></td><td class="wrap">' + esc(r[1]) + "</td></tr>").join("") + "</tbody></table>" +
+      '<p class="note">Schema ' + esc(S.schema) + ". Rendered " + esc(etTime(S.renderedUtc)) + ". This is a snapshot: it updates only when the snapshot is rebuilt.</p>";
+  }
+
+  function csv() {
+    const B = book(); const rows = visibleTrades(B);
+    const head = tradeCols.map((c) => c[1]);
+    const lines = [["# ATLAS Insight trades export", B.mode, "snapshot " + S.renderedUtc, "filters: " + JSON.stringify({ from: $("from").value, to: $("to").value, side: $("side").value, q: $("q").value })], head]
+      .concat(rows.map((t) => tradeCols.map((c) => t[c[0]] ?? "")));
+    const text = lines.map((r) => r.map((v) => '"' + String(v).replace(/"/g, '""') + '"').join(",")).join("\n");
+    const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text], { type: "text/csv" }));
+    a.download = "atlas-trades-" + B.mode.toLowerCase() + ".csv"; a.click(); URL.revokeObjectURL(a.href);
+  }
+
+  // Tabs with keyboard support.
+  const tabs = [...document.querySelectorAll("[role=tab]")];
+  function select(tab) {
+    tabs.forEach((t) => { const on = t === tab; t.setAttribute("aria-selected", on); t.tabIndex = on ? 0 : -1; $(t.getAttribute("aria-controls")).classList.toggle("on", on); });
+    tab.focus();
+  }
+  tabs.forEach((t, i) => {
+    t.addEventListener("click", () => select(t));
+    t.addEventListener("keydown", (e) => { if (e.key === "ArrowRight") select(tabs[(i + 1) % tabs.length]); if (e.key === "ArrowLeft") select(tabs[(i - 1 + tabs.length) % tabs.length]); });
+  });
+
+  ["scope", "from", "to", "side"].forEach((id) => $(id).addEventListener("change", render));
+  $("q").addEventListener("input", () => renderTrades(book()));
+  $("reset").addEventListener("click", () => { $("from").value = ""; $("to").value = ""; $("q").value = ""; $("side").value = ""; $("scope").value = "live"; tradeSort = { key: "date", dir: 1 }; render(); });
+  $("print").addEventListener("click", () => window.print());
+  $("csv").addEventListener("click", csv);
+  $("import").addEventListener("change", (e) => {
+    const f = e.target.files[0]; if (!f) return;
+    f.text().then((t) => { const s = JSON.parse(t); if (s.schema !== "atlas-insight/1") throw new Error("Not an ATLAS Insight snapshot"); S = s; render(); })
+      .catch((err) => { $("warning").innerHTML = "<b>Import failed.</b> " + esc(err.message); });
+  });
+
+  // Refresh only works when served next to snapshot.json; otherwise the button stays hidden.
+  function load() {
+    return fetch("snapshot.json", { cache: "no-store" }).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then((s) => { S = s; $("refresh").classList.remove("hidden"); render(); });
+  }
+  $("refresh").addEventListener("click", () => load().catch((e) => { $("warning").innerHTML = "<b>Refresh failed.</b> Showing the last valid snapshot (" + esc(etTime(S && S.renderedUtc)) + "). " + esc(e.message); }));
+  if (S) render(); else if (location.protocol.startsWith("http")) load().catch(() => render()); else render();
+})();
+</script>
+</body>
+</html>
