@@ -14,3 +14,20 @@ Each review records the targets it traded to, so the next one checks against the
   - Avoid mega-cap US tech for satellites, or count look-through: VTI already holds about 2.5–3% each in NVDA, MSFT and AAPL.
   - Rates risk: a 100bp rise in yields costs about 1.5% of the book through BND. In an inflation-driven regime, stocks and bonds can fall together.
   - No options yet. Covered calls need 100 shares per contract, and only VTI qualifies (118 shares).
+
+## 2026-10-11 (second review: satellites and Kalshi)
+
+- **Targets:** unchanged at 45/15/25/3/5/7. Core and crypto were set hours earlier and haven't drifted, so the strategist and crypto analyst were not re-run.
+- **Satellites:** bought 8 CB, 4 GD and 13 COP at the ask.
+  - **Chubb (CB):** underwriting discipline, about 12x core EPS, buybacks. Fair value $330–385. Kill if there are reserve charges two quarters running or the ex-cat combined ratio goes above 88%.
+  - **General Dynamics (GD):** a half position. Record backlog, and the stock is at the low end of its 19–22x range. Add 4 shares after the Oct 30 report if guidance holds.
+  - **ConocoPhillips (COP):** a half position. Low-cost E&P, a $7B FCF step-up by 2029, and an inflation hedge. Add only below about $120.
+  - **Passed:** Duke (DUK) is a HOLD because it adds rate risk on top of BND; buy below about $105. Pepsi (PEP) was the runner-up, but has an unexplained Robinhood "CC0" flag.
+- **Kalshi:** no trade. The Fed, CPI and jobs markets are deep and priced within about 2 points of the analyst's own estimates.
+- **Options:** none. No position is big enough to cover a call, and cash-secured puts would need $13k or more.
+- **Risk manager:** minCashPct applies to free cash alone, not including SGOV. Sold 9 SGOV to keep free cash at or above 2%.
+- **Book after:** $99,933.20. Free cash is $2,065.63 (2.07%), SGOV is 4.0%, and satellites are 5.8%.
+- **Open items:**
+  - The GD add (about $1,330) must be funded from SGOV or a VTI trim, not from free cash.
+  - With both adds done, the satellite sleeve is about 8.9%. Size the adds so it stays nearer 7%.
+  - Earnings: CB on Oct 20, GD on Oct 30, COP on Nov 5. TRV on Oct 16 is an early read on commercial insurance pricing.

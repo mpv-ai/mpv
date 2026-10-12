@@ -64,5 +64,49 @@
     "priceSource": "Robinhood Market Maker Routing ask, 10:47 PM ET Sun Oct 11 (conservative fill at the ask)",
     "thesis": "Crypto sleeve 3%, ETH 30% of it; settlement-layer bet, weaker ETF flows argue for the smaller weight",
     "by": "crypto-analyst"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SGOV",
+    "qty": 9,
+    "price": 100.52,
+    "priceSource": "Robinhood 24-hour session bid, ~10:47 PM ET Sun Oct 11 (conservative fill at the bid)",
+    "thesis": "Restore free cash to the 2% floor after funding the satellite buys; cash sleeve (free cash + SGOV) unchanged at ~6.1%",
+    "by": "risk-manager"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "stock",
+    "symbol": "CB",
+    "qty": 8,
+    "price": 342.21,
+    "priceSource": "Robinhood 24-hour session ask, 10:35 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Best-in-class P&C underwriter (Q2 combined ratio 83.8%), ~12x 2026E core EPS, BVPS +12% y/y, $7.5B buyback; higher yields lift investment income. Kill: reserve charges 2 qtrs or ex-cat CR >88%. Fair value $330-385.",
+    "by": "equity-analyst"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "stock",
+    "symbol": "GD",
+    "qty": 4,
+    "price": 332.09,
+    "priceSource": "Robinhood 24-hour session ask, 10:42 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Half position. Sub yard near-monopoly, record $136.5B backlog, guidance raised twice, FCF ~94% of NI; fell 11% in Sept to low end of 19-22x range. Add 4 more after Oct 30 report if guidance holds. Fair value $320-370.",
+    "by": "equity-analyst"
+  },
+  {
+    "date": "2026-10-11",
+    "action": "buy",
+    "asset": "stock",
+    "symbol": "COP",
+    "qty": 13,
+    "price": 134.04,
+    "priceSource": "Robinhood 24-hour session ask, 11:08 PM ET Sun Oct 11 (conservative fill at the ask)",
+    "thesis": "Half position. Low-cost US E&P, net debt ~$14.9B on $161B cap, share count -3.8% y/y, $7B FCF step-up by 2029; inflation hedge for the stock-bond regime. Add below ~$120. Fair value $110-150.",
+    "by": "equity-analyst"
   }
 ]

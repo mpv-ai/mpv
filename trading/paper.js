@@ -174,9 +174,11 @@ function main(argv) {
   } else if (cmd === "value") {
     const prices = JSON.parse(fs.readFileSync(arg, "utf8"));
     const v = value(policy, ledger, prices);
-    const history = load("history.json");
+    const date = prices.date || new Date().toISOString().slice(0, 10);
+    // One snapshot per day: a later valuation replaces that day's earlier one.
+    const history = load("history.json").filter((h) => h.date !== date);
     history.push({
-      date: prices.date || new Date().toISOString().slice(0, 10),
+      date,
       total: Number(v.total.toFixed(2)),
       cash: Number(v.cash.toFixed(2)),
       benchmarkPrice: prices[policy.benchmark] ?? null,
