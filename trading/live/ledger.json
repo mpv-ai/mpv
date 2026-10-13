@@ -34,5 +34,53 @@
     "fees": 0.0,
     "orderId": "6acd2c15-d582-4f20-9af0-e10f8f83221b",
     "note": "Approved by user in chat: 'Yes, buy $19 of VTI now and make tomorrow's VTI $1,981'. Dollar-based market order."
+  },
+  {
+    "date": "2026-10-13",
+    "time": "9:42 AM ET",
+    "side": "buy",
+    "symbol": "VTI",
+    "quantity": 5.18858,
+    "price": 381.8,
+    "dollarAmount": 1981.0,
+    "fees": 0.0,
+    "orderId": "6ace3521-9d88-46f5-99f8-d43e17c552aa",
+    "note": "User-approved batch ('Yes, buy all four as listed'; VTI changed to $1,981). Dollar-based market order; previews clean, prices within 0.2% of prior close."
+  },
+  {
+    "date": "2026-10-13",
+    "time": "9:42 AM ET",
+    "side": "buy",
+    "symbol": "VXUS",
+    "quantity": 8.037834,
+    "price": 84.5999,
+    "dollarAmount": 680.0,
+    "fees": 0.0,
+    "orderId": "6ace353e-23b5-4547-8334-086c4b6a99ea",
+    "note": "User-approved batch ('Yes, buy all four as listed'; VTI changed to $1,981). Dollar-based market order; previews clean, prices within 0.2% of prior close."
+  },
+  {
+    "date": "2026-10-13",
+    "time": "9:42 AM ET",
+    "side": "buy",
+    "symbol": "BND",
+    "quantity": 11.941147,
+    "price": 70.345,
+    "dollarAmount": 840.0,
+    "fees": 0.0,
+    "orderId": "6ace3540-c429-47aa-aba0-f31bb8a262e6",
+    "note": "User-approved batch ('Yes, buy all four as listed'; VTI changed to $1,981). Dollar-based market order; previews clean, prices within 0.2% of prior close."
+  },
+  {
+    "date": "2026-10-13",
+    "time": "9:42 AM ET",
+    "side": "buy",
+    "symbol": "SGOV",
+    "quantity": 1.989457,
+    "price": 100.5299,
+    "dollarAmount": 200.0,
+    "fees": 0.0,
+    "orderId": "6ace3541-422b-4ccd-864a-f3b762fad05e",
+    "note": "User-approved batch ('Yes, buy all four as listed'; VTI changed to $1,981). Dollar-based market order; previews clean, prices within 0.2% of prior close."
   }
 ]
