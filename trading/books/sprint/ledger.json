@@ -12,5 +12,16 @@
     "stop": 77.9,
     "target": 80.2,
     "timeExit": "2026-10-13 15:50 ET"
+  },
+  {
+    "date": "2026-10-13",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 31,
+    "price": 77.89,
+    "priceSource": "Stop $77.90 breached in the 11:25-11:30 AM ET 5-min bar (low 77.7601, Robinhood historicals); recorded at stop minus $0.01 slippage, found at the 12:45 PM midday check",
+    "thesis": "STOPPED OUT. QQQ lost VWAP late morning instead of filling the gap to 746; plan invalidated. Loss (78.55-77.89) x 31 = $20.46.",
+    "by": "sprint midday"
   }
 ]
