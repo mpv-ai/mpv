@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "date": "2026-10-13",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 31,
+    "price": 78.55,
+    "priceSource": "Robinhood ask 9:52:17 AM ET (conservative fill at the ask)",
+    "thesis": "QQQ gap-fill / VWAP reclaim: gapped to 739.5, reclaimed VWAP 741.2, 742.76 at 9:52; prior close 746.04 is the magnet. STOP 77.90 (QQQ back below VWAP; checked against intraday lows at each cycle, filled at the bid). TARGET 80.20. TIME EXIT 3:50 PM ET close cycle today. Invalidated if QQQ 5-min close < 741 or SOXL loses VWAP.",
+    "by": "sprint-trader",
+    "stop": 77.9,
+    "target": 80.2,
+    "timeExit": "2026-10-13 15:50 ET"
+  }
+]
