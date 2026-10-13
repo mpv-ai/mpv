@@ -23,3 +23,4 @@ An aggressive **paper** book ($10,000 simulated). It is testing the user's goal 
   - Stops are checked only at the 12:45 and 3:50 cycles, against intraday lows, and filled at the bid.
   - paper.js does not enforce the position cap or the daily stop; the risk manager checks them by hand.
 - **Midday (12:46 PM):** TQQQ **stopped out**. The stop broke in the 11:25 AM bar (low $77.76). Recorded at $77.89 for a loss of **($20.46)**, about (0.20)% of the book. TQQQ later recovered to $78.75. The 1.2% stop on a 3x ETF was inside normal noise, as the risk manager warned. The book is now all cash; plan 3 (MS) is still evaluated at 3:33 PM.
+- **3:34 PM:** plan 3 (MS overnight) **skipped**. MS was $187.17, below the $190.02 trigger, and GS was $897.60, below $905: the GS read-through faded instead of holding. The book goes into CPI flat.
