@@ -60,7 +60,8 @@ function quote(ticker) {
 }
 
 function held() {
-  const dir = __dirname;
+  // PAPER_BOOK selects another book, as in paper.js.
+  const dir = process.env.PAPER_BOOK ? path.resolve(process.env.PAPER_BOOK) : __dirname;
   const policy = JSON.parse(fs.readFileSync(path.join(dir, "policy.json"), "utf8"));
   const ledger = JSON.parse(fs.readFileSync(path.join(dir, "ledger.json"), "utf8"));
   return Object.values(book(policy, ledger).positions).filter((p) => p.asset === "event");
