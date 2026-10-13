@@ -40,21 +40,21 @@ function netPnl(begin, end, flows = 0) {
 }
 
 // Daily goal comparison. status: provisional intraday or final reconciled day.
-function goal({ ret, begin, pnl, hasFlows = false, final = false, verified = true }) {
+function goal({ ret, begin, pnl, hasFlows = false, final = false, verified = true, target = DAILY_TARGET }) {
   if (ret === null || ret === undefined || !verified) {
     return { status: "UNVERIFIED", gapPP: null, attainmentPct: null, targetDollars: null, surplus: null, needed: null };
   }
-  const gapPP = (ret - DAILY_TARGET) * 100;
-  const attainmentPct = (ret / DAILY_TARGET) * 100; // not capped, can be negative
+  const gapPP = (ret - target) * 100;
+  const attainmentPct = (ret / target) * 100; // not capped, can be negative
   const out = { gapPP, attainmentPct, targetDollars: null, surplus: null, needed: null, targetIsReferenceOnly: hasFlows };
   if (begin > 0) {
-    out.targetDollars = begin * DAILY_TARGET;
+    out.targetDollars = begin * target;
     if (!hasFlows) {
       out.surplus = pnl - out.targetDollars;
       out.needed = Math.max(0, out.targetDollars - pnl);
     }
   }
-  const hit = ret >= DAILY_TARGET;
+  const hit = ret >= target;
   out.status = final ? (hit ? "ACHIEVED" : "NOT ACHIEVED") : hit ? "ABOVE TARGET NOW" : "BELOW TARGET NOW";
   return out;
 }
@@ -66,8 +66,8 @@ function wealthIndex(dailyReturns) {
   return out;
 }
 
-function targetIndex(days) {
-  return 100 * Math.pow(1 + DAILY_TARGET, days);
+function targetIndex(days, target = DAILY_TARGET) {
+  return 100 * Math.pow(1 + target, days);
 }
 
 // Drawdown from the high-water mark of a wealth index.

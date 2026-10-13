@@ -60,3 +60,12 @@ test("deployment and profit factor edge cases", () => {
   close(p.profitFactor([10, -5]), 2);
   close(p.modifiedDietz(1000, 1222.1, [{ amount: 200, weight: 0.5 }]), 22.1 / 1100);
 });
+
+test("goal and target path accept a per-book target (1.5% sprint)", () => {
+  const g = p.goal({ ret: 0.015, begin: 10000, pnl: 150, target: 0.015 });
+  close(g.gapPP, 0);
+  close(g.attainmentPct, 100);
+  close(g.targetDollars, 150);
+  assert.equal(g.status, "ABOVE TARGET NOW");
+  close(p.targetIndex(252, 0.015) / 100, Math.pow(1.015, 252));
+});

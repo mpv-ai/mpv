@@ -7,6 +7,8 @@
 //   node trading/paper.js trade '<json>'        validate and record a trade
 //   node trading/paper.js value <prices.json>   mark to market, append to history.json
 //
+// PAPER_BOOK=trading/books/sprint selects another book's directory (default: trading/).
+//
 // Kalshi contracts are asset "event", symbol "<MARKET TICKER> YES|NO", priced in
 // dollars (0.01-0.99). Each contract pays $1 if its side wins. Record the
 // outcome with action "settle" at price 1 (won) or 0 (lost).
@@ -14,7 +16,7 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const DIR = __dirname;
+const DIR = process.env.PAPER_BOOK ? path.resolve(process.env.PAPER_BOOK) : __dirname;
 const MULT = { stock: 1, etf: 1, crypto: 1, option: 100, event: 1 };
 const ACTIONS = ["buy", "sell", "expire", "settle"];
 

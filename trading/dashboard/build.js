@@ -74,14 +74,19 @@ function liveBook() {
   };
 }
 
-// Paper book (simulated).
-function paperBook() {
-  const policy = read("policy.json");
-  const ledger = read("ledger.json");
-  const history = read("history.json");
-  const prices = read("prices.json");
+// Paper books (simulated). dir is relative to trading/.
+function paperBook(dir = "", label = "Paper") {
+  const f = (n) => path.join(dir, n);
+  const policy = read(f("policy.json"));
+  const target = policy.dailyTarget ?? perf.DAILY_TARGET;
+  const ledger = read(f("ledger.json"));
+  const history = read(f("history.json"));
+  if (!history.length) {
+    return { available: false, mode: "PAPER", label, target, reason: `${label} book has no marked days yet (starts ${policy.evaluation?.start ?? "soon"})` };
+  }
+  const prices = exists(f("prices.json")) ? read(f("prices.json")) : read("prices.json");
   const v = paper.value(policy, ledger, prices);
-  check("Paper: latest marked total matches history", Math.abs(v.total - history[history.length - 1].total) < 0.01, `${v.total.toFixed(2)} vs ${history[history.length - 1].total}`);
+  check(`${label}: latest marked total matches history`, Math.abs(v.total - history[history.length - 1].total) < 0.01, `${v.total.toFixed(2)} vs ${history[history.length - 1].total}`);
   const series = [{ date: "inception", total: policy.startingCash }, ...history];
   const days = [];
   for (let i = 1; i < series.length; i++) {
@@ -90,12 +95,12 @@ function paperBook() {
     const pnl = perf.netPnl(b.total, e.total);
     const partial = i === 1;
     days.push({
-      date: e.date, scope: "Paper", kind: e.provisional ? "intraday" : "close", begin: b.total, end: e.total, flows: 0,
+      date: e.date, scope: label, kind: e.provisional ? "intraday" : "close", begin: b.total, end: e.total, flows: 0,
       pnl: round(pnl), ret, realized: null, unrealizedChange: null, residual: null,
       splitNote: "The paper engine does not split realized and unrealized P&L.",
       goal: partial
-        ? { ...perf.goal({ ret, begin: b.total, pnl }), status: "PARTIAL DAY (inception)" }
-        : perf.goal({ ret, begin: b.total, pnl, final: !e.provisional }),
+        ? { ...perf.goal({ ret, begin: b.total, pnl, target }), status: "PARTIAL DAY (inception)" }
+        : perf.goal({ ret, begin: b.total, pnl, final: !e.provisional, target }),
       complete: !e.provisional && !partial, partialInception: partial,
     });
   }
@@ -105,13 +110,16 @@ function paperBook() {
   const trades = ledger.map((t) => {
     const mark = prices[t.symbol];
     return {
-      scope: "Paper", date: t.date, symbol: t.symbol, side: t.action, quantity: t.qty, price: t.price, fees: t.fee || 0,
+      scope: label, date: t.date, symbol: t.symbol, side: t.action, quantity: t.qty, price: t.price, fees: t.fee || 0,
       value: round(t.qty * t.price * (t.asset === "option" ? 100 : 1)), status: "Filled (paper)", mark: mark ?? null,
       thesis: t.thesis, by: t.by,
     };
   });
   return {
-    available: true, mode: "PAPER", startingCash: policy.startingCash, nav: round(v.total), cash: round(v.cash),
+    limits: label === "Sprint"
+      ? [["Max position", policy.maxPositionPct + "%"], ["Max crypto", policy.maxCryptoPct + "%"], ["Options premium (trade / total)", policy.maxOptionsPremiumPerTradePct + "% / " + policy.maxOptionsPremiumPct + "%"], ["Max events", policy.maxEventPct + "%"], ["Daily loss stop", policy.dailyLossStopPct + "%"], ["Drawdown halt", policy.drawdownHaltPct + "%"]]
+      : [["Max single stock", policy.maxPositionPct + "%"], ["Max crypto", policy.maxCryptoPct + "%"], ["Max event contracts", policy.maxEventPct + "%"], ["Min free cash", policy.minCashPct + "%"]],
+    available: true, mode: "PAPER", label, target, startingCash: policy.startingCash, nav: round(v.total), cash: round(v.cash),
     positions: rows, asOf: prices.source, days, index: idx, drawdown: perf.drawdown(idx), trades,
     benchmark: { symbol: policy.benchmark, from: spy0, to: spyN, ret: perf.simpleReturn(spy0, spyN) },
     inceptionReturn: perf.simpleReturn(policy.startingCash, v.total),
@@ -122,10 +130,11 @@ function paperBook() {
 function build() {
   const live = liveBook();
   const pap = paperBook();
-  for (const d of [...(live.days || []), ...pap.days]) {
+  const sprint = paperBook("books/sprint", "Sprint");
+  for (const [bk, dflt] of [[live, perf.DAILY_TARGET], [pap, pap.target], [sprint, sprint.target]]) for (const d of bk.days || []) {
     if (d.ret !== null) {
-      const g = d.goal;
-      check(`${d.scope} ${d.date}: gap equals return less 2 points`, Math.abs(g.gapPP - (d.ret * 100 - 2)) < 1e-9, "");
+      const g = d.goal, tg = (bk.target ?? dflt) * 100;
+      check(`${d.scope} ${d.date}: gap equals return less ${tg} points`, Math.abs(g.gapPP - (d.ret * 100 - tg)) < 1e-9, "");
     }
   }
   check("Compounding check: 1.02^7 - 1 = 14.8686%", Math.abs(perf.targetIndex(7) / 100 - 1 - 0.148686) < 1e-6, "");
@@ -134,7 +143,7 @@ function build() {
     renderedUtc: new Date().toISOString(),
     reportingDay: "America/New_York midnight to midnight",
     target: { daily: perf.DAILY_TARGET, note: "Stretch objective supplied by the owner. A hypothetical path, not a forecast." },
-    live, paper: pap, checks,
+    live: { ...live, target: perf.DAILY_TARGET }, paper: pap, sprint, checks,
     sources: [
       { id: "robinhood.portfolio", scope: "Live", detail: live.source, asOfUtc: live.asOfUtc },
       { id: "robinhood.orders", scope: "Live", detail: "get_equity_orders, filled executions with fees", asOfUtc: live.asOfUtc },

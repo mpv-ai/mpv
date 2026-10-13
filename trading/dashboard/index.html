@@ -78,6 +78,7 @@
       <select id="scope" aria-label="Reporting scope">
         <option value="live">Live account (real money)</option>
         <option value="paper">Paper portfolio (simulated)</option>
+        <option value="sprint">Sprint book (paper, 1.5% goal)</option>
       </select>
     </label>
     <label>From <input type="date" id="from" aria-label="From date"></label>
@@ -103,8 +104,8 @@
 
   <section role="tabpanel" id="p-overview" aria-labelledby="t-overview" class="on">
     <div class="grid">
-      <div class="panel span-8"><h2>Performance versus the hypothetical 2% path</h2><div id="chart-index"></div>
-        <p class="note">Flow-neutral wealth index, start = 100. The 2% line is a hypothetical compounding path (100 x 1.02^D), not a forecast.</p></div>
+      <div class="panel span-8"><h2>Performance versus the hypothetical <span class="tgt">2%</span> path</h2><div id="chart-index"></div>
+        <p class="note">Flow-neutral wealth index, start = 100. The <span class="tgt">2%</span> line is a hypothetical compounding path (100 x (1 + target)^D), not a forecast.</p></div>
       <div class="panel span-4"><h2>Today's P&amp;L bridge</h2><div id="bridge"></div></div>
       <div class="panel span-6"><h2>Contributors and detractors</h2><div id="contrib"></div></div>
       <div class="panel span-6"><h2>Cash and exposure</h2><div id="cash"></div></div>
@@ -112,7 +113,7 @@
   </section>
 
   <section role="tabpanel" id="p-daily" aria-labelledby="t-daily">
-    <div class="panel"><h2>Daily returns against the 2% reference</h2><div id="chart-daily"></div>
+    <div class="panel"><h2>Daily returns against the <span class="tgt">2%</span> reference</h2><div id="chart-daily"></div>
       <div class="tablewrap"><table id="tbl-daily"></table></div>
       <p class="note" id="hitrate"></p></div>
   </section>
@@ -167,6 +168,8 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
   const statusClass = (s) => ({ "BELOW TARGET NOW": "below", "ABOVE TARGET NOW": "above", ACHIEVED: "ach", "NOT ACHIEVED": "notach" }[s] || "partial");
   const etTime = (iso) => iso ? new Date(iso).toLocaleString("en-US", { timeZone: "America/New_York", dateStyle: "medium", timeStyle: "short" }) + " ET" : UN;
   const book = () => S[$("scope").value];
+  const T = () => { const B = book(); return (B && B.target) || (S.target && S.target.daily) || 0.02; };
+  const tp = () => (T() * 100).toFixed(T() * 100 % 1 ? 1 : 0) + "%";
   const inRange = (d) => (!$("from").value || d >= $("from").value) && (!$("to").value || d <= $("to").value);
   let tradeSort = { key: "date", dir: 1 };
 
@@ -181,12 +184,15 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
     const B = book();
     if (!B || !B.available) {
       $("headline").textContent = "This scope has no verified data: " + (B && B.reason ? B.reason : "unavailable") + ".";
+      ["kpis", "target", "warning"].forEach((id) => { $(id).innerHTML = ""; });
+      $("warning").innerHTML = "<b>No data yet.</b> " + esc(B && B.reason ? B.reason : "");
       return;
     }
     const days = B.days.filter((d) => inRange(d.date));
     const today = B.days[B.days.length - 1];
     const g = today.goal;
     const isLive = B.mode === "LIVE";
+    const label = isLive ? "Live account" : B.label === "Sprint" ? "Sprint book" : "Paper portfolio";
     $("mode").innerHTML = "<b>" + esc(B.mode) + "</b> &middot; snapshot " + esc(etTime(S.renderedUtc));
     const fresh = isLive ? freshness(B.asOfUtc) : "SNAPSHOT";
     $("meta").innerHTML = [
@@ -198,30 +204,31 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
     ].map((x) => "<span>" + x + "</span>").join("");
 
     const dir = today.pnl >= 0 ? "up" : "down";
-    let head = (isLive ? "Live account " : "Paper portfolio ") + dir + " " + pct(Math.abs(today.ret)) + " today (" + money(Math.abs(today.pnl)) + "), " +
-      pp(g.gapPP).replace(" pts", " percentage points") + " versus the 2% goal: " + g.status + ".";
+    let head = label + " " + dir + " " + pct(Math.abs(today.ret)) + " today (" + money(Math.abs(today.pnl)) + "), " +
+      pp(g.gapPP).replace(" pts", " percentage points") + " versus the " + tp() + " goal: " + g.status + ".";
     if (isLive && today.realized !== null) head += " " + money(today.realized) + " realized from the MAGS sale; " + money(today.unrealizedChange) + " is the reversal of previously unrealized gains.";
     $("headline").textContent = head.replace(/\s+/g, " ");
 
+    document.querySelectorAll(".tgt").forEach((el) => { el.textContent = tp(); });
     const kpis = [
       ["Portfolio NAV", money(B.nav), isLive ? "Venue-reported" : "Marked"],
       ["Today's net P&L", money(today.pnl), today.kind === "intraday" ? "Provisional" : "Final"],
       ["Today's return", pct(today.ret), "Flow-adjusted: no flows"],
-      ["Gap to 2%", pp(g.gapPP), "Attainment " + (g.attainmentPct === null ? UN : g.attainmentPct.toFixed(1) + "%")],
+      ["Gap to " + tp(), pp(g.gapPP), "Attainment " + (g.attainmentPct === null ? UN : g.attainmentPct.toFixed(1) + "%")],
       ["Free cash", money(isLive ? B.freeCash : B.cash), isLive ? money(B.unsettledCash) + " unsettled" : "Paper cash"],
       ["Current drawdown", pct(B.drawdown.current), "Max " + pct(B.drawdown.max) + ", daily snapshots"],
     ];
     $("kpis").innerHTML = kpis.map((k) => '<div class="kpi span-2"><div class="label">' + esc(k[0]) + '</div><div class="value">' + esc(k[1]) + '</div><div class="sub">' + esc(k[2]) + "</div></div>").join("");
 
     // Bullet comparison against the 2% reference.
-    const lo = Math.min(-0.01, today.ret), hi = Math.max(0.025, today.ret);
+    const lo = Math.min(-0.01, today.ret), hi = Math.max(T() + 0.005, today.ret);
     const x = (v) => 10 + ((v - lo) / (hi - lo)) * 580;
-    $("target").innerHTML = '<h3>Today versus the 2% goal</h3><svg viewBox="0 0 600 54" width="100%" role="img" aria-label="Today return ' + esc(pct(today.ret)) + ' against 2% target">' +
+    $("target").innerHTML = '<h3>Today versus the ' + tp() + ' goal</h3><svg viewBox="0 0 600 54" width="100%" role="img" aria-label="Today return ' + esc(pct(today.ret)) + ' against ' + tp() + ' target">' +
       '<rect x="10" y="18" width="580" height="12" fill="#F4F4F0"/>' +
       '<line x1="' + x(0) + '" x2="' + x(0) + '" y1="12" y2="36" stroke="#222"/><text x="' + x(0) + '" y="50" text-anchor="middle">0%</text>' +
-      '<line x1="' + x(0.02) + '" x2="' + x(0.02) + '" y1="8" y2="40" stroke="#0F4C81" stroke-width="2" stroke-dasharray="3 2"/><text x="' + x(0.02) + '" y="50" text-anchor="middle">2% goal</text>' +
+      '<line x1="' + x(T()) + '" x2="' + x(T()) + '" y1="8" y2="40" stroke="#0F4C81" stroke-width="2" stroke-dasharray="3 2"/><text x="' + x(T()) + '" y="50" text-anchor="middle">' + tp() + ' goal</text>' +
       '<circle cx="' + x(today.ret) + '" cy="24" r="6" fill="#222"/><text x="' + x(today.ret) + '" y="10" text-anchor="middle">Today ' + esc(pct(today.ret)) + "</text></svg>" +
-      '<p class="note"><span class="status ' + statusClass(g.status) + '">' + esc(g.status) + "</span> Target dollars " + money(g.targetDollars) + "; additional needed " + money(g.needed) + ". The 2% goal is a stretch objective; it never justifies larger positions or relaxed entry rules.</p>";
+      '<p class="note"><span class="status ' + statusClass(g.status) + '">' + esc(g.status) + "</span> Target dollars " + money(g.targetDollars) + "; additional needed " + money(g.needed) + ". The " + tp() + " goal is a stretch objective; it never justifies larger positions or relaxed entry rules.</p>";
 
     // Most material warning.
     let warn;
@@ -237,7 +244,7 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
 
   function renderIndex(B, days) {
     const idx = [100]; days.forEach((d) => idx.push(idx[idx.length - 1] * (1 + (d.ret ?? 0))));
-    const tgt = idx.map((_, i) => 100 * Math.pow(1.02, i));
+    const tgt = idx.map((_, i) => 100 * Math.pow(1 + T(), i));
     const all = idx.concat(tgt), mn = Math.min(...all) - 0.5, mx = Math.max(...all) + 0.5;
     const W = 560, H = 200, px = (i) => 40 + (i / Math.max(1, idx.length - 1)) * (W - 60), py = (v) => H - 24 - ((v - mn) / (mx - mn)) * (H - 40);
     const line = (arr) => arr.map((v, i) => (i ? "L" : "M") + px(i).toFixed(1) + " " + py(v).toFixed(1)).join(" ");
@@ -247,7 +254,7 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
       '<path d="' + line(tgt) + '" fill="none" stroke="#0F4C81" stroke-width="1.5" stroke-dasharray="4 3"/>' +
       '<path d="' + line(idx) + '" fill="none" stroke="#222" stroke-width="2"/>' +
       labels.map((l, i) => '<text x="' + px(i) + '" y="' + (H - 6) + '" text-anchor="middle">' + esc(l) + "</text>").join("") +
-      '<text x="' + (W - 20) + '" y="' + (py(tgt[tgt.length - 1]) - 6) + '" text-anchor="end" style="fill:#0F4C81">2% path ' + tgt[tgt.length - 1].toFixed(2) + "</text>" +
+      '<text x="' + (W - 20) + '" y="' + (py(tgt[tgt.length - 1]) - 6) + '" text-anchor="end" style="fill:#0F4C81">' + tp() + ' path ' + tgt[tgt.length - 1].toFixed(2) + "</text>" +
       '<text x="' + (W - 20) + '" y="' + (py(idx[idx.length - 1]) + 14) + '" text-anchor="end" style="fill:#222">Actual ' + idx[idx.length - 1].toFixed(2) + "</text></svg>" +
       '<p class="note">* Intraday, provisional. ' + days.length + " day(s) in range; too short a record to annualize or judge skill.</p>";
   }
@@ -297,16 +304,16 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
 
   function renderDaily(B, days) {
     const W = 560, H = 170, n = Math.max(days.length, 1);
-    const vals = days.map((d) => d.ret ?? 0).concat([0.02, 0]); const mn = Math.min(...vals) - 0.002, mx = Math.max(...vals) + 0.002;
+    const vals = days.map((d) => d.ret ?? 0).concat([T(), 0]); const mn = Math.min(...vals) - 0.002, mx = Math.max(...vals) + 0.002;
     const py = (v) => 10 + ((mx - v) / (mx - mn)) * (H - 40), bw = Math.min(60, (W - 80) / n - 10);
     $("chart-daily").innerHTML = days.length ? '<svg viewBox="0 0 ' + W + " " + H + '" width="100%" role="img" aria-label="Daily returns with 2% reference">' +
       '<line x1="40" x2="' + (W - 10) + '" y1="' + py(0) + '" y2="' + py(0) + '" stroke="#222"/>' +
-      '<line x1="40" x2="' + (W - 10) + '" y1="' + py(0.02) + '" y2="' + py(0.02) + '" stroke="#0F4C81" stroke-dasharray="4 3"/><text x="' + (W - 10) + '" y="' + (py(0.02) - 4) + '" text-anchor="end" style="fill:#0F4C81">2% reference</text>' +
+      '<line x1="40" x2="' + (W - 10) + '" y1="' + py(T()) + '" y2="' + py(T()) + '" stroke="#0F4C81" stroke-dasharray="4 3"/><text x="' + (W - 10) + '" y="' + (py(T()) - 4) + '" text-anchor="end" style="fill:#0F4C81">' + tp() + ' reference</text>' +
       days.map((d, i) => { const x = 50 + i * ((W - 80) / n); const r = d.ret ?? 0; return '<rect x="' + x + '" y="' + Math.min(py(r), py(0)) + '" width="' + bw + '" height="' + Math.max(1, Math.abs(py(r) - py(0))) + '" fill="' + (r < 0 ? "#9b2c2c" : "#222") + '"/><text x="' + (x + bw / 2) + '" y="' + (H - 14) + '" text-anchor="middle">' + esc(d.date.slice(5)) + '</text><text x="' + (x + bw / 2) + '" y="' + (H - 2) + '" text-anchor="middle">' + esc(pct(d.ret)) + "</text>"; }).join("") + "</svg>"
       : '<div class="empty">No days in the selected range.</div>';
     const cols = ["Date", "Status", "Return", "Target", "Gap", "Attainment", "Net P&L", "Realized", "Open-value change", "Completeness"];
     $("tbl-daily").innerHTML = "<thead><tr>" + cols.map((c, i) => '<th class="' + (i > 1 && i < 9 ? "num" : "") + '">' + c + "</th>").join("") + "</tr></thead><tbody>" +
-      days.map((d) => "<tr><td>" + esc(d.date) + '</td><td><span class="status ' + statusClass(d.goal.status) + '">' + esc(d.goal.status) + '</span></td><td class="num">' + pct(d.ret) + '</td><td class="num">2.00%</td><td class="num">' + pp(d.goal.gapPP) + '</td><td class="num">' + (d.goal.attainmentPct === null ? UN : d.goal.attainmentPct.toFixed(1) + "%") + '</td><td class="num">' + money(d.pnl) + '</td><td class="num">' + (d.realized === null ? "Not split" : money(d.realized)) + '</td><td class="num">' + (d.unrealizedChange === null ? "Not split" : money(d.unrealizedChange)) + "</td><td>" + (d.partialInception ? "Partial inception day" : d.kind === "intraday" ? "Intraday, provisional" : "Complete") + "</td></tr>").join("") + "</tbody>";
+      days.map((d) => "<tr><td>" + esc(d.date) + '</td><td><span class="status ' + statusClass(d.goal.status) + '">' + esc(d.goal.status) + '</span></td><td class="num">' + pct(d.ret) + '</td><td class="num">' + (T() * 100).toFixed(2) + '%</td><td class="num">' + pp(d.goal.gapPP) + '</td><td class="num">' + (d.goal.attainmentPct === null ? UN : d.goal.attainmentPct.toFixed(1) + "%") + '</td><td class="num">' + money(d.pnl) + '</td><td class="num">' + (d.realized === null ? "Not split" : money(d.realized)) + '</td><td class="num">' + (d.unrealizedChange === null ? "Not split" : money(d.unrealizedChange)) + "</td><td>" + (d.partialInception ? "Partial inception day" : d.kind === "intraday" ? "Intraday, provisional" : "Complete") + "</td></tr>").join("") + "</tbody>";
     const scored = days.filter((d) => d.complete && !d.partialInception && d.ret !== null);
     const hits = scored.filter((d) => d.goal.status === "ACHIEVED").length;
     $("hitrate").textContent = "Verified-day achievement rate: " + (scored.length ? hits + " of " + scored.length + " complete days" : "no complete verified days yet") + ". Days in range: " + days.length + "; unverified days: " + days.filter((d) => d.goal.status === "UNVERIFIED").length + ".";
@@ -345,7 +352,7 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
     const live = B.mode === "LIVE";
     $("deploy").innerHTML = "<table>" + (live
       ? [["Budget (policy)", "$4,000.00"], ["Allowed buys", "VTI, VXUS, BND, SGOV"], ["Order type", "Limit only"], ["Approval", "Your yes on every order"], ["Filled deployment", pct(B.deployment.filled, 1)], ["Committed deployment", pct(B.deployment.committed, 1)]]
-      : [["Max single stock", "8%"], ["Max crypto", "5%"], ["Max event contracts", "2%"], ["Min free cash", "2%"], ["Filled deployment", pct(B.deployment.filled, 1)]]
+      : (B.limits || []).concat([["Filled deployment", pct(B.deployment.filled, 1)]])
     ).map((r) => "<tr><td>" + esc(r[0]) + '</td><td class="num">' + esc(r[1]) + "</td></tr>").join("") + "</table><p class=\"note\">Limits are loaded from the approved policy files and cannot be changed here.</p>";
   }
 
@@ -368,9 +375,9 @@ window.ATLAS_SNAPSHOT = /*SNAPSHOT*/null;
       ["NAV", "Cash + marked positions + verified receivables - liabilities. Live uses Robinhood's reported account value."],
       ["Net P&L", "Ending NAV - beginning NAV - net external flows. Also equals realized net P&L + change in unrealized P&L."],
       ["Daily return", "(Ending NAV - beginning NAV) / beginning NAV with no flows; time-weighted and geometrically linked when flows occur."],
-      ["Gap to 2%", "Daily return - 2.00%, in percentage points."],
-      ["Attainment", "Daily return / 2.00% x 100%. Not capped; can be negative."],
-      ["2% path", "100 x 1.02^D for D completed days. Hypothetical, not a forecast. One year at 2% a day would be about 1,377x capital, which no evidence supports."],
+      ["Gap to goal", "Daily return - the book's daily goal (2.00% live and long-term paper; 1.50% sprint), in percentage points."],
+      ["Attainment", "Daily return / daily goal x 100%. Not capped; can be negative."],
+      ["Goal path", "100 x (1 + goal)^D for D completed days. Hypothetical, not a forecast. A year at 2% a day is about 1,377x capital; 252 trading days at 1.5% is about 42x. No evidence supports either."],
       ["Drawdown", "Decline from the high-water mark of the flow-neutral wealth index, using daily snapshots only."],
       ["Deployment", "Filled = position cost / (position cost + order reservations + free cash). Cost-based, not NAV weights."],
       ["Statuses", "ABOVE / BELOW TARGET NOW are intraday and provisional. ACHIEVED / NOT ACHIEVED need a complete reconciled day. UNVERIFIED means evidence is missing."],
