@@ -24,3 +24,10 @@ An aggressive **paper** book ($10,000 simulated). It is testing the user's goal 
   - paper.js does not enforce the position cap or the daily stop; the risk manager checks them by hand.
 - **Midday (12:46 PM):** TQQQ **stopped out**. The stop broke in the 11:25 AM bar (low $77.76). Recorded at $77.89 for a loss of **($20.46)**, about (0.20)% of the book. TQQQ later recovered to $78.75. The 1.2% stop on a 3x ETF was inside normal noise, as the risk manager warned. The book is now all cash; plan 3 (MS) is still evaluated at 3:33 PM.
 - **3:34 PM:** plan 3 (MS overnight) **skipped**. MS was $187.17, below the $190.02 trigger, and GS was $897.60, below $905: the GS read-through faded instead of holding. The book goes into CPI flat.
+
+### Day 1 score (Tue Oct 13): **(0.20)%**, ($20.46), gap to 1.5% = (1.70) pts, NOT ACHIEVED
+
+- **Benchmarks:** SPY (0.02)%; buy-and-hold TQQQ (1.24)% (79.61 to 78.62).
+- **Trades:** 1, with 0 wins and 1 loss (TQQQ stop). Plans skipped: GS (volume rule) and MS (triggers not met).
+- **Lesson:** a 1.2% stop on a 3x ETF fits inside one normal 5-minute swing. Future TQQQ/SOXL stops should be set from recent volatility (about 2 times the 5-minute average true range) with the share count cut to keep the same dollar risk. The alternative is the unleveraged ETF with a tighter stop.
+- **Book:** $9,979.54, flat in cash into Wednesday's 8:30 AM CPI and the MS/BAC earnings.

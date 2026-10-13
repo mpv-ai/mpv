@@ -93,7 +93,8 @@ function paperBook(dir = "", label = "Paper") {
     const b = series[i - 1], e = series[i];
     const ret = perf.simpleReturn(b.total, e.total);
     const pnl = perf.netPnl(b.total, e.total);
-    const partial = i === 1;
+    // The first day is a partial inception day unless the book started trading at that day's open.
+    const partial = i === 1 && policy.evaluation?.start !== e.date;
     days.push({
       date: e.date, scope: label, kind: e.provisional ? "intraday" : "close", begin: b.total, end: e.total, flows: 0,
       pnl: round(pnl), ret, realized: null, unrealizedChange: null, residual: null,
