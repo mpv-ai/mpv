@@ -43,3 +43,11 @@ The market at 9:49: hot CPI (core +0.3%) was gapped down and then bought back. S
 - Stops are now set from volatility (about 2x today's 5-min range), per the day-1 lesson.
 - **10:21 AM trigger check:** neither plan triggered. SOXS 5-min closes stayed between $40.09 and $40.22 (needed above $40.31), and SOXL held above $117.88. QQQ faded to about $736 (Plan 2 needed above $740.50). No entry. The midday cycle re-checks until 12:00.
 - **Midday (12:45 PM):** no open positions. Plans 1 and 2 expired untriggered at their 12:00 cutoff. Flat for the rest of the day.
+
+### Day 2 score (Wed Oct 14): **0.00%**, $0.00, gap to 1.5% = (1.50) pts, NOT ACHIEVED
+
+- **Benchmarks:** SPY (1.14)% (778.01 to 769.13); TQQQ (5.94)%; SOXS +12.7% (37.42 to 42.18).
+- **Trades:** 0. Both plans expired untriggered at noon.
+- **Missed opportunity, recorded honestly:** Plan 1's thesis (semis weak after hot CPI, buy SOXS) was right. SOXS closed at $42.18, just short of the $42.40 target. But the opening-range trigger (a 5-min close above $40.31 before noon) never fired; the breakdown came in the afternoon. A counterfactual fill at $40.35 would have made about +$112 (+1.1%) at the close. Treat that figure as a hypothesis, not a result.
+- **Lesson:** a correct thesis plus too strict a trigger window means a missed trade. Next time, keep a breakdown trigger active until 2:30 PM, or enter half size at the open when the thesis is strong and the stop is volatility-based.
+- **Running total, 2 days:** (0.20)%. Book $9,979.54. 0 of 2 days at 1.5%.
