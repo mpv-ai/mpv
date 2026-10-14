@@ -41,3 +41,4 @@ The market at 9:49: hot CPI (core +0.3%) was gapped down and then bought back. S
 - **Plan 2, TQQQ CPI gap-fill:** **pending trigger, lower conviction,** and only if Plan 1 has not triggered. A 5-min close with QQQ above $740.50 and TLT at or above $77.90. Buy 32 TQQQ at about $77.85. Stop $76.55 (about $42 risk), target $79.60, exit 3:45 PM.
 - **Plan 3, bonds:** stay out. TBT fails the liquidity rule, and the tape disagrees with the idea.
 - Stops are now set from volatility (about 2x today's 5-min range), per the day-1 lesson.
+- **10:21 AM trigger check:** neither plan triggered. SOXS 5-min closes stayed between $40.09 and $40.22 (needed above $40.31), and SOXL held above $117.88. QQQ faded to about $736 (Plan 2 needed above $740.50). No entry. The midday cycle re-checks until 12:00.
