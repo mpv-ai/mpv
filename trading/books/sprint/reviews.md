@@ -31,3 +31,13 @@ An aggressive **paper** book ($10,000 simulated). It is testing the user's goal 
 - **Trades:** 1, with 0 wins and 1 loss (TQQQ stop). Plans skipped: GS (volume rule) and MS (triggers not met).
 - **Lesson:** a 1.2% stop on a 3x ETF fits inside one normal 5-minute swing. Future TQQQ/SOXL stops should be set from recent volatility (about 2 times the 5-minute average true range) with the share count cut to keep the same dollar risk. The alternative is the unleveraged ETF with a tighter stop.
 - **Book:** $9,979.54, flat in cash into Wednesday's 8:30 AM CPI and the MS/BAC earnings.
+
+## 2026-10-14 (day 2) plan
+
+The market at 9:49: hot CPI (core +0.3%) was gapped down and then bought back. SPY (0.28)%, QQQ (0.50)%. Semis are the weak group (SOXL (6.0)%, cause unknown). Bonds are bouncing.
+
+- **Kalshi:** no trade. The October FOMC hike contract already went from 15% to about 42%, in line with FedWatch.
+- **Plan 1, SOXS opening-range breakdown:** **pending trigger.** After 10:00, a 5-min close with SOXS above $40.31 and SOXL below $117.88. Buy 61 SOXS at about $40.35. Stop $39.00 (about $82 risk), target $42.40, exit 3:45 PM. Cancel if SOXL gets back above $120.90.
+- **Plan 2, TQQQ CPI gap-fill:** **pending trigger, lower conviction,** and only if Plan 1 has not triggered. A 5-min close with QQQ above $740.50 and TLT at or above $77.90. Buy 32 TQQQ at about $77.85. Stop $76.55 (about $42 risk), target $79.60, exit 3:45 PM.
+- **Plan 3, bonds:** stay out. TBT fails the liquidity rule, and the tape disagrees with the idea.
+- Stops are now set from volatility (about 2x today's 5-min range), per the day-1 lesson.
