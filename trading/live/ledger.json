@@ -82,5 +82,53 @@
     "fees": 0.0,
     "orderId": "6ace3541-422b-4ccd-864a-f3b762fad05e",
     "note": "User-approved batch ('Yes, buy all four as listed'; VTI changed to $1,981). Dollar-based market order; previews clean, prices within 0.2% of prior close."
+  },
+  {
+    "date": "2026-10-14",
+    "time": "9:41 AM ET",
+    "side": "sell",
+    "symbol": "VTI",
+    "quantity": 2.619211,
+    "price": 380.0301,
+    "fees": 0.03,
+    "orderId": "6acf867c-a631-45e9-ba6a-34968d02ad20",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes, sell half of each as listed'). Market sell; previews clean; prices within 0.7% of the prior close."
+  },
+  {
+    "date": "2026-10-14",
+    "time": "9:41 AM ET",
+    "side": "sell",
+    "symbol": "VXUS",
+    "quantity": 4.018917,
+    "price": 84.0201,
+    "fees": 0.0,
+    "orderId": "6acf867d-9bad-4024-b9b0-b92c99b0188b",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes, sell half of each as listed'). Market sell; previews clean; prices within 0.7% of the prior close."
+  },
+  {
+    "date": "2026-10-14",
+    "time": "9:41 AM ET",
+    "side": "sell",
+    "symbol": "BND",
+    "quantity": 7.970573,
+    "price": 70.055,
+    "fees": 0.0,
+    "orderId": "6acf867e-2153-4ea7-8ba6-7f7caea6c024",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes, sell half of each as listed'). Market sell; previews clean; prices within 0.7% of the prior close."
+  },
+  {
+    "date": "2026-10-14",
+    "time": "9:41 AM ET",
+    "side": "sell",
+    "symbol": "SGOV",
+    "quantity": 0.994728,
+    "price": 100.5301,
+    "fees": 0.0,
+    "orderId": "6acf867f-9604-43c7-adbc-253b216bc0fd",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes, sell half of each as listed'). Market sell; previews clean; prices within 0.7% of the prior close."
   }
 ]
