@@ -1,7 +1,8 @@
 {
-  "date": "2026-10-14",
-  "source": "Robinhood last trade ~3:51 PM ET Wed Oct 14 (book flat in cash)",
-  "SPY": 769.125,
-  "TQQQ": 74.13,
-  "SOXS": 42.18
+  "date": "2026-10-15",
+  "source": "Robinhood last trade ~3:50 PM ET Thu Oct 15 (book flat in cash)",
+  "SPY": 771.72,
+  "SOXS": 43.605,
+  "SOXL": 107.505,
+  "TMF": 28.0141
 }

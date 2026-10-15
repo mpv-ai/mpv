@@ -85,3 +85,18 @@ The market at 9:50: semis are breaking down for a second day. TSM is (4.7)% afte
   - **SOXS add:** the 9:55 bar closed at $48.21, above the $48.05 trigger, but no cycle check saw it. Under the no-hindsight rule there was no add, which avoided about $40 more loss.
   - **TMF:** TLT closed a 5-min bar at $80.53 at 10:35, but no cycle check saw it either. It then fell below the $80.25 cancel line, and TLT is $80.05 now. Plan cancelled, no entry.
   - **Book:** all cash, $9,938.40. The day is at (0.41)%, far from the 4% stop.
+
+### Day 3 score (Thu Oct 15): **(0.41)%**, ($41.14), gap to 1.5% = (1.91) pts, NOT ACHIEVED
+
+- **Benchmarks:**
+  - SPY +0.28% (769.60 to 771.72).
+  - SOXS +2.6% (42.52 to 43.61), but only after a round trip: it peaked at $48.37 and fell to $44.60.
+  - Plan 1's open-to-close: from the $47.92 entry to $43.61 is (9.0)%. The stop held the loss to (5.1)%.
+- **Trades:** 1, with 0 wins and 1 loss (SOXS stopped at $45.50). The TMF plan was cancelled and the SOXL reversal plan was vetoed.
+- **What went wrong:**
+  - The trade bought SOXS 25 minutes into a move that was already +12.7% on day 2 and +10.5% at the open of day 3.
+  - Semis bottomed at 9:55 and reversed. The vetoed SOXL long would have won: its trigger fired at 10:55 at $103.25, and SOXL reached $104.95 and was $107.5 at the close. But it was vetoed at 1:1 reward-to-risk and would not have been seen until 12:45 anyway.
+- **Lesson:**
+  - Do not chase a second-day gap in a 3x ETF after it has already moved more than 10%. On day 3 the edge is in waiting for the first 30 minutes to set the range, then trading the break or the failure.
+  - Cycle-only checks keep missing intraday triggers: days 2 and 3 both had triggers fire between checks. Add a 10:30 check, or drop trigger-based plans.
+- **Running total, 3 days:** (0.62)%. Book $9,938.40. 0 of 3 days at 1.5%.
