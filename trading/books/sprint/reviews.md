@@ -79,3 +79,9 @@ The market at 9:50: semis are breaking down for a second day. TSM is (4.7)% afte
   - Stops and triggers are checked only at cycle times (9:50, 12:45 and 3:50).
   - When a price jumps past a stop, record the fill at the lower of the stop and the open of the first bar that breaks it, not the stop minus $0.01.
   - Never enter at a past trigger bar's price. Enter at the ask seen at the check, and only if the condition still holds.
+- **Midday (12:45 PM):** SOXS was **stopped out**.
+  - **The stop:** it broke in the 10:45 AM bar (open $45.82, low $45.42). It was recorded at the $45.50 stop for a loss of **($41.14)**, about (0.41)% of the book.
+  - **What happened:** semis reversed hard. SOXL went from $95.6 at 9:55 to $104.4. SOXL's 5-min close above $102.50 at 10:55 would have invalidated the trade anyway.
+  - **SOXS add:** the 9:55 bar closed at $48.21, above the $48.05 trigger, but no cycle check saw it. Under the no-hindsight rule there was no add, which avoided about $40 more loss.
+  - **TMF:** TLT closed a 5-min bar at $80.53 at 10:35, but no cycle check saw it either. It then fell below the $80.25 cancel line, and TLT is $80.05 now. Plan cancelled, no entry.
+  - **Book:** all cash, $9,938.40. The day is at (0.41)%, far from the 4% stop.

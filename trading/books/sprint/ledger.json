@@ -37,5 +37,16 @@
     "stop": 45.5,
     "target": 51.5,
     "timeExit": "2026-10-15 15:50 ET"
+  },
+  {
+    "date": "2026-10-15",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SOXS",
+    "qty": 17,
+    "price": 45.5,
+    "priceSource": "Stop $45.50 breached in the 10:45-10:50 AM ET 5-min bar (open 45.82, low 45.42, Robinhood historicals); recorded at the lower of the stop and that bar open = 45.50; found at the 12:45 PM midday check (SOXS then 45.63 bid)",
+    "thesis": "STOPPED OUT. Semis reversed up from 10:40 (SOXL 95.6 to 104.4); SOXL also closed a 5-min bar above 102.50 at 10:55, which would have invalidated the trade anyway. Loss (47.92-45.50) x 17 = $41.14.",
+    "by": "sprint midday"
   }
 ]
