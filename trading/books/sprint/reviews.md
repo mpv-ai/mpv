@@ -51,3 +51,31 @@ The market at 9:49: hot CPI (core +0.3%) was gapped down and then bought back. S
 - **Missed opportunity, recorded honestly:** Plan 1's thesis (semis weak after hot CPI, buy SOXS) was right. SOXS closed at $42.18, just short of the $42.40 target. But the opening-range trigger (a 5-min close above $40.31 before noon) never fired; the breakdown came in the afternoon. A counterfactual fill at $40.35 would have made about +$112 (+1.1%) at the close. Treat that figure as a hypothesis, not a result.
 - **Lesson:** a correct thesis plus too strict a trigger window means a missed trade. Next time, keep a breakdown trigger active until 2:30 PM, or enter half size at the open when the thesis is strong and the stop is volatility-based.
 - **Running total, 2 days:** (0.20)%. Book $9,979.54. 0 of 2 days at 1.5%.
+
+## 2026-10-15 (day 3) plan
+
+The market at 9:50: semis are breaking down for a second day. TSM is (4.7)% after beating EPS estimates, SOXL is (10.7)%, and SOXS is +10.5%. SPY is (0.42)% and QQQ (1.36)%, while IWM is flat. Bonds are up: TLT +2.0% and TMF +5.9%. Today's 5-min ATR is about 4x Wednesday's.
+
+- **Kalshi:** no trade.
+  - The October FOMC hike contract has repriced to 0.27/0.28, down from about 42% on day 2.
+  - It settles Oct 28, which is outside the 7-day window, and no live FedWatch figure was available to confirm a view.
+- **Plan 1, SOXS:** **entered at half size.**
+  - 17 shares at the $47.92 ask (9:52:49 AM), $815 (8.2% of the book).
+  - The plan price was $47.02 at 9:50, so the fill paid $0.90 more.
+  - **Stop:** $45.50, just under the $45.575 opening-range low. It was raised from the planned $44.20 to keep reward-to-risk at about 1.5:1 after the price moved. Risk is about $41.
+  - **Target:** $51.50. **Time exit:** at the 3:50 PM cycle.
+  - **Invalidated:** if SOXL makes a 5-min close above $102.50.
+  - **Add:** 14 more shares, only if a cycle check shows a SOXS 5-min close above $48.05. Maximum entry $48.60. The stop on all shares stays at $45.50.
+- **Plan 2, TMF:** **pending, changed per the risk manager.**
+  - **Trigger:** TLT makes a 5-min close above $80.50, seen at the midday check.
+  - **Entry:** 50 shares, not 87, at the ask then.
+  - **Stop:** entry minus $0.70 (about 2x the ATR, not the $0.40 first proposed). Risk is about $35.
+  - **Target:** entry plus $1.40. **Exit:** 3:50 PM.
+  - **Cancel:** if TLT is below $80.25.
+- **Plan 3, SOXL reversal long:** **vetoed.**
+  - The reward-to-risk was 1:1.
+  - Its trigger was the same level that invalidates Plan 1, so it would have flipped short to long on the signal that the first thesis failed.
+- **Process notes from the risk manager:**
+  - Stops and triggers are checked only at cycle times (9:50, 12:45 and 3:50).
+  - When a price jumps past a stop, record the fill at the lower of the stop and the open of the first bar that breaks it, not the stop minus $0.01.
+  - Never enter at a past trigger bar's price. Enter at the ask seen at the check, and only if the condition still holds.
