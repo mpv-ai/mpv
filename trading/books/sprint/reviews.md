@@ -129,3 +129,17 @@ The market at 9:50 (monthly options expiration, OpEx): semis gave back about hal
   - **Prices at the check:** the last SOXL 5-min close was 100.81, inside the range. SOXL bid/ask 101.02/101.05 at 10:30:50. QQQ 720.50, below its VWAP.
   - **Plan A** needs a SOXL close above 102.90 with QQQ above its VWAP. **Plan B** needs a close below 98.55. Both stay pending until the 12:45 check, with the Plan A stop now at 98.40.
 - **Midday (12:45):** no trigger. The last SOXL 5-min close was 100.51, still inside the 98.55–102.90 range, while QQQ slid to 716 (about (1.6)%). Plans A and B expire. The book stays flat for the day.
+
+### Day 4 score (Fri Oct 16): **0.00%**, $0.00, gap to 1.5% = (1.50) pts, NOT ACHIEVED
+
+- **Benchmarks:** SPY (1.17)% (771.79 to 762.74). SOXL (12.6)% (107.35 to 93.85). SOXS +12.7% (43.64 to 49.18).
+- **Trades:** none. Neither plan triggered at the 10:30 or 12:45 checks.
+- **Missed opportunity, recorded honestly:**
+  - Plan B's thesis was right. The 3x chip ETF broke below its 98.55 opening-range low after the 12:45 cutoff and fell to 93.85.
+  - A SOXS entry at the 47.76 ask cap would have been worth about +$56 (+0.6%) at the close.
+  - That figure is a counterfactual, not a result.
+- **Lesson:** on days 2, 3 and 4, valid triggers fired between scheduled checks. Fixed check times are now the binding problem; the trade ideas are not.
+  - **Option 1:** leave a resting stop-entry order in place instead of checking at fixed times. That cannot be done in the paper engine without tick data.
+  - **Option 2:** add 11:30, 13:30 and 14:30 checks and keep the window open until 14:30.
+  - Adopt option 2 from Monday, if the user agrees.
+- **Running total, 4 days:** (0.62)%. Book $9,938.40. 0 of 4 days at 1.5%. SPY over the same 4 days: about (1.9)%.
