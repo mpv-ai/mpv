@@ -130,5 +130,53 @@
     "orderId": "6acf867f-9604-43c7-adbc-253b216bc0fd",
     "sleeve": "core->daytrade funding",
     "note": "User-approved batch ('Yes, sell half of each as listed'). Market sell; previews clean; prices within 0.7% of the prior close."
+  },
+  {
+    "date": "2026-10-16",
+    "time": "9:30 AM ET",
+    "side": "sell",
+    "symbol": "VTI",
+    "quantity": 1.309605,
+    "price": 379.2,
+    "fees": 0.0,
+    "orderId": "6ad1665c-9a91-4224-8a8d-066e3fbcf5f5",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes sell as listed', Oct 15 after the close) to raise the day-trade sleeve to 75%. Market sell queued overnight, filled at the Oct 16 open; previews clean; settles T+1 Mon Oct 19."
+  },
+  {
+    "date": "2026-10-16",
+    "time": "9:30 AM ET",
+    "side": "sell",
+    "symbol": "VXUS",
+    "quantity": 2.009458,
+    "price": 84.17,
+    "fees": 0.0,
+    "orderId": "6ad1665e-8aee-48f2-8c1d-dbca04a383d4",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes sell as listed', Oct 15 after the close) to raise the day-trade sleeve to 75%. Market sell queued overnight, filled at the Oct 16 open; previews clean; settles T+1 Mon Oct 19."
+  },
+  {
+    "date": "2026-10-16",
+    "time": "9:30 AM ET",
+    "side": "sell",
+    "symbol": "BND",
+    "quantity": 3.985287,
+    "price": 70.7,
+    "fees": 0.0,
+    "orderId": "6ad1665f-ec03-4402-b5f8-d25f44db4ed9",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes sell as listed', Oct 15 after the close) to raise the day-trade sleeve to 75%. Market sell queued overnight, filled at the Oct 16 open; previews clean; settles T+1 Mon Oct 19."
+  },
+  {
+    "date": "2026-10-16",
+    "time": "9:30 AM ET",
+    "side": "sell",
+    "symbol": "SGOV",
+    "quantity": 0.497364,
+    "price": 100.57,
+    "fees": 0.0,
+    "orderId": "6ad16660-3bfe-410b-992a-b0e85354a2a2",
+    "sleeve": "core->daytrade funding",
+    "note": "User-approved batch ('Yes sell as listed', Oct 15 after the close) to raise the day-trade sleeve to 75%. Market sell queued overnight, filled at the Oct 16 open; previews clean; settles T+1 Mon Oct 19."
   }
 ]
