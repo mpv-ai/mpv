@@ -142,4 +142,4 @@ The market at 9:50 (monthly options expiration, OpEx): semis gave back about hal
   - **Option 1:** leave a resting stop-entry order in place instead of checking at fixed times. That cannot be done in the paper engine without tick data.
   - **Option 2:** add 11:30, 13:30 and 14:30 checks and keep the window open until 14:30.
   - Adopt option 2 from Monday, if the user agrees.
-- **Running total, 4 days:** (0.62)%. Book $9,938.40. 0 of 4 days at 1.5%. SPY over the same 4 days: about (1.9)%.
+- **Running total, 4 days:** (0.62)%. Book $9,938.40. 0 of 4 days at 1.5%. SPY over the same 4 days: about (2.0)% (compounding (0.02), (1.14), +0.28 and (1.17)).
