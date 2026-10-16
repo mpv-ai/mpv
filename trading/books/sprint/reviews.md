@@ -128,3 +128,4 @@ The market at 9:50 (monthly options expiration, OpEx): semis gave back about hal
   - **Opening range locked (9:30–10:00):** SOXL high 102.90, low 98.55, midpoint 100.72. SOXS high 47.26, so Plan B's ask cap is 47.76.
   - **Prices at the check:** the last SOXL 5-min close was 100.81, inside the range. SOXL bid/ask 101.02/101.05 at 10:30:50. QQQ 720.50, below its VWAP.
   - **Plan A** needs a SOXL close above 102.90 with QQQ above its VWAP. **Plan B** needs a close below 98.55. Both stay pending until the 12:45 check, with the Plan A stop now at 98.40.
+- **Midday (12:45):** no trigger. The last SOXL 5-min close was 100.51, still inside the 98.55–102.90 range, while QQQ slid to 716 (about (1.6)%). Plans A and B expire. The book stays flat for the day.
