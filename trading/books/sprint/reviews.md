@@ -100,3 +100,27 @@ The market at 9:50: semis are breaking down for a second day. TSM is (4.7)% afte
   - Do not chase a second-day gap in a 3x ETF after it has already moved more than 10%. On day 3 the edge is in waiting for the first 30 minutes to set the range, then trading the break or the failure.
   - Cycle-only checks keep missing intraday triggers: days 2 and 3 both had triggers fire between checks. Add a 10:30 check, or drop trigger-based plans.
 - **Running total, 3 days:** (0.62)%. Book $9,938.40. 0 of 3 days at 1.5%.
+
+## 2026-10-16 (day 4) plan
+
+The market at 9:50 (monthly options expiration, OpEx): semis gave back about half of Thursday's squeeze. SOXL (6.0)%, SOXS +6.0%, QQQ (0.8)% and below its VWAP, SPY and IWM flat, TLT flat. Today's 5-min ATR is about 2.45 for SOXL and 1.0 for SOXS.
+
+- **Kalshi:** no trade.
+  - The only macro market inside the 7-day window is jobless claims for Oct 22. It has single-digit open interest and spreads up to 68 points.
+  - The S&P and Nasdaq daily ladders track the live index, so there is no edge.
+- **No entry at 10:00.** A half-size entry now would be a chase: SOXL moved more than 12% Thursday and has now gapped 6% the other way. It also sits at its VWAP, mid-range.
+- **Opening range (OR):** taken from the 9:30–10:00 bars and locked at the 10:30 check. Provisional: SOXL high 102.90, low 98.85; SOXS high 47.17.
+- **Checks:** 10:30 (new) and 12:45. Entries at the ask seen at a check, never at a past bar's price. The first plan to trigger cancels the other. No new entries after 12:45. Everything closes at the 3:50 cycle.
+- **Plan A, SOXL long on an opening-range breakout** (risk manager: changes required).
+  - **Trigger:** the last completed SOXL 5-min bar closes above the OR high, and QQQ is above its session VWAP.
+  - **Stop:** OR low minus $0.15.
+  - **Entry cap:** the ask must leave the stop no more than $5.00 below it (provisionally an ask of $103.70 or less). The entry-to-stop distance must also be at least $3.70.
+  - **Shares:** $90 ÷ the entry-to-stop distance, capped at 24.
+  - **Target:** entry plus 1.5 times the risk.
+  - **Invalidated:** if a SOXL 5-min close falls below its VWAP, or QQQ trades below its session low as of entry.
+- **Plan B, SOXS long on a SOXL opening-range breakdown** (risk manager: approved).
+  - **Trigger:** the last SOXL 5-min bar closes below the OR low, QQQ is below its VWAP, and the SOXS ask is at most the SOXS OR high plus $0.50 (provisionally 47.67).
+  - **Size:** 40 SOXS (about $1,900, 19%).
+  - **Stop:** entry minus $2.00 (risk $80). **Target:** entry plus $3.00 (1.5:1).
+  - **Invalidated:** if a SOXL 5-min close is above its VWAP or above the OR midpoint (provisionally 100.88).
+- **Risk:** each plan risks $80–90 (about 0.9%). A gap through a stop between checks could reach about $210, still within the $398 daily stop. Nothing watches the book from 12:45 to 3:50.
