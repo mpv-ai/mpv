@@ -124,3 +124,7 @@ The market at 9:50 (monthly options expiration, OpEx): semis gave back about hal
   - **Stop:** entry minus $2.00 (risk $80). **Target:** entry plus $3.00 (1.5:1).
   - **Invalidated:** if a SOXL 5-min close is above its VWAP or above the OR midpoint (provisionally 100.88).
 - **Risk:** each plan risks $80–90 (about 0.9%). A gap through a stop between checks could reach about $210, still within the $398 daily stop. Nothing watches the book from 12:45 to 3:50.
+- **10:30 check:** no trigger.
+  - **Opening range locked (9:30–10:00):** SOXL high 102.90, low 98.55, midpoint 100.72. SOXS high 47.26, so Plan B's ask cap is 47.76.
+  - **Prices at the check:** the last SOXL 5-min close was 100.81, inside the range. SOXL bid/ask 101.02/101.05 at 10:30:50. QQQ 720.50, below its VWAP.
+  - **Plan A** needs a SOXL close above 102.90 with QQQ above its VWAP. **Plan B** needs a close below 98.55. Both stay pending until the 12:45 check, with the Plan A stop now at 98.40.
