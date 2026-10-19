@@ -143,3 +143,26 @@ The market at 9:50 (monthly options expiration, OpEx): semis gave back about hal
   - **Option 2:** add 11:30, 13:30 and 14:30 checks and keep the window open until 14:30.
   - Adopt option 2 from Monday, if the user agrees.
 - **Running total, 4 days:** (0.62)%. Book $9,938.40. 0 of 4 days at 1.5%. SPY over the same 4 days: about (2.0)% (compounding (0.02), (1.14), +0.28 and (1.17)).
+
+## 2026-10-19 (day 5) plan
+
+The market at 9:50: semis gapped up about 10% after Friday's (12.6)% and are rotating at VWAP mid-range. SOXL +9.6%, SMH +2.5%, QQQ +1.3%, SPY +0.5%. I found no catalyst for the move; the FOMC quiet period is on, and TXN and LRCX report Wednesday.
+
+- **Kalshi:** no trade.
+  - Jobless claims for Oct 22: only the ≥205k and ≥210k strikes are liquid.
+  - A Columbus Day-week seasonal dip makes the market's roughly 197k median plausible, so the edge is under 5 points.
+- **New entry method (day-2 to day-4 lesson):** a two-sided bracket of buy-stop entries. The first fill cancels the other leg. Entries rest until 14:30, and everything closes at the 15:50 cycle.
+- **Paper fills:** the later of the trigger and the open of the first 1-min bar that crosses it. No fill if that open is above the cap.
+- **Checks:** 10:15, 10:30, 10:45, 11:00, 11:30, 12:00, 12:45, 13:30, 14:30 and 15:50.
+- **Leg A, SOXL buy-stop** (risk manager: approved for paper):
+  - Trigger 104.07 (OR high 103.97 + 0.10), cap 104.40.
+  - Stop 100.67 (2x ATR of 1.70). Target fill + 1.5R.
+  - Paper size: 23 shares ($2,401, 24.2%), risk $86 at the cap.
+- **Leg B, SOXS buy-stop** (approved):
+  - Trigger 45.26 (OR high 45.16 + 0.10), cap 45.45.
+  - Stop 43.42 (2x ATR of 0.92). Target fill + 1.5R.
+  - Paper size: 44 shares ($2,000, 20.1%), risk $89 at the cap.
+- **Invalidation at checks:**
+  - A filled leg exits on a 5-min close back through its OR midpoint (SOXL 102.74, SOXS 44.50).
+  - The levels were taken at 9:52, before the final 9:55 bar. Any OR extension after that is ignored, so the levels stay as stated.
+- **Live:** the same bracket was sent to the user for a yes: 9 SOXL and 18 SOXS, about $34 and $37 of risk.
