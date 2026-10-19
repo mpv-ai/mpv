@@ -176,3 +176,16 @@ The market at 9:50: semis gapped up about 10% after Friday's (12.6)% and are rot
 - **The bracket was a whipsaw.** The breakdown leg filled at 9:55 and then failed. SOXL went on to break its opening-range high at 11:20 and reached 104.66.
   - Leg A had been cancelled under the rule that the first fill cancels the other leg, so the reversal was not caught.
   - Lesson: after a failed first leg, the opposite breakout is often the real move. Consider re-arming the opposite leg once at half risk after an invalidation exit, if it is still before 14:30.
+
+### Day 5 score (Mon Oct 19): **(0.65)%**, ($64.68), gap to 1.5% = (2.15) pts, NOT ACHIEVED
+
+- **Benchmarks:** SPY +0.52% (763.25 to 767.23). SOXL +6.6% (93.67 to 99.88). SOXS (6.6)%.
+- **Trades:** 1, with 0 wins and 1 loss. SOXS was bought at the 45.26 stop entry and exited at 43.79 when the trade was invalidated.
+- **Chop, recorded honestly:** semis moved through the range both ways.
+  - SOXL broke above its 103.97 opening-range high at 11:20, reached about 104.7, then faded to 99.9 by the close. Leg A would have been stopped or faded too.
+  - SOXS closed at 45.98, above our entry. Holding through the invalidation to the stop would have made about +$32.
+  - The opening-range bracket has no edge on a two-way day after a 10% gap.
+- **Lesson:**
+  - Skip opening-range brackets on gap days of more than 5% in 3x ETFs. Those ranges are wide, and both sides get run.
+  - Use the invalidation rule only once at least 30 minutes have passed since entry. Noise invalidated this trade, not a change in the thesis.
+- **Running total, 5 days:** (1.26)%. Book $9,873.72. 0 of 5 days at 1.5%. SPY over the same days is about (1.5)%.
