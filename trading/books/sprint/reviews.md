@@ -166,3 +166,7 @@ The market at 9:50: semis gapped up about 10% after Friday's (12.6)% and are rot
   - A filled leg exits on a 5-min close back through its OR midpoint (SOXL 102.74, SOXS 44.50).
   - The levels were taken at 9:52, before the final 9:55 bar. Any OR extension after that is ignored, so the levels stay as stated.
 - **Live:** the same bracket was sent to the user for a yes: 9 SOXL and 18 SOXS, about $34 and $37 of risk.
+- **10:15 check:** **Leg B filled.** 44 SOXS at the $45.26 trigger. The stop was crossed in the 9:55 bar, which opened at 45.12 and reached a high of 46.05. Leg A (SOXL) was cancelled.
+  - Since the fill: SOXS high 46.77, low 45.31. The last close was 45.33 (SOXL 101.12).
+  - The stop at 43.42, the 48.02 target and the 44.50 invalidation level were all untouched, so the position is held.
+  - Live: the user had not said yes, so no live orders were placed.

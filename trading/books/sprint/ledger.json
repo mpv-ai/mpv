@@ -48,5 +48,19 @@
     "priceSource": "Stop $45.50 breached in the 10:45-10:50 AM ET 5-min bar (open 45.82, low 45.42, Robinhood historicals); recorded at the lower of the stop and that bar open = 45.50; found at the 12:45 PM midday check (SOXS then 45.63 bid)",
     "thesis": "STOPPED OUT. Semis reversed up from 10:40 (SOXL 95.6 to 104.4); SOXL also closed a 5-min bar above 102.50 at 10:55, which would have invalidated the trade anyway. Loss (47.92-45.50) x 17 = $41.14.",
     "by": "sprint midday"
+  },
+  {
+    "date": "2026-10-19",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "SOXS",
+    "qty": 44,
+    "price": 45.26,
+    "priceSource": "Buy-stop 45.26 (cap 45.45) crossed in the 9:55-10:00 ET 5-min bar (open 45.12, high 46.05; Robinhood historicals); filled at the trigger since the bar opened below it; found at the 10:15 check",
+    "thesis": "Day-5 bracket leg B: SOXL lost its opening range low after the +10% gap; Friday downtrend resumes. STOP 43.42 (2x 5-min ATR). TARGET 48.02 (1.5R). TIME EXIT 15:50 ET. Invalidated on a SOXS 5-min close below 44.50 (OR mid) or SOXL above 102.74. Leg A (SOXL buy-stop 104.07) cancelled.",
+    "by": "sprint-trader",
+    "stop": 43.42,
+    "target": 48.02,
+    "timeExit": "2026-10-19 15:50 ET"
   }
 ]
