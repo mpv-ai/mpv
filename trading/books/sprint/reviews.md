@@ -170,3 +170,9 @@ The market at 9:50: semis gapped up about 10% after Friday's (12.6)% and are rot
   - Since the fill: SOXS high 46.77, low 45.31. The last close was 45.33 (SOXL 101.12).
   - The stop at 43.42, the 48.02 target and the 44.50 invalidation level were all untouched, so the position is held.
   - Live: the user had not said yes, so no live orders were placed.
+- **11:30 check:** SOXS **exited because the trade was invalidated**. Sold 44 at the $43.79 bid for a loss of **($64.68)**, about (0.65)% of the book.
+  - The 11:05 bar closed at 44.35, below the 44.50 midpoint of the opening range.
+  - The stop at 43.42 was not hit (the low was 43.47). The 11:00 check came five minutes before the invalidation printed.
+- **The bracket was a whipsaw.** The breakdown leg filled at 9:55 and then failed. SOXL went on to break its opening-range high at 11:20 and reached 104.66.
+  - Leg A had been cancelled under the rule that the first fill cancels the other leg, so the reversal was not caught.
+  - Lesson: after a failed first leg, the opposite breakout is often the real move. Consider re-arming the opposite leg once at half risk after an invalidation exit, if it is still before 14:30.

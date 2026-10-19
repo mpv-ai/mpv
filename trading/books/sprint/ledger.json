@@ -62,5 +62,16 @@
     "stop": 43.42,
     "target": 48.02,
     "timeExit": "2026-10-19 15:50 ET"
+  },
+  {
+    "date": "2026-10-19",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SOXS",
+    "qty": 44,
+    "price": 43.79,
+    "priceSource": "Robinhood bid 11:31:32 AM ET (exit at the bid at the 11:30 check)",
+    "thesis": "INVALIDATED. A SOXS 5-min close went below the 44.50 opening-range midpoint (11:05 bar closed 44.35) as semis rallied, and SOXL broke above its 103.97 opening-range high at 11:20. The 43.42 stop was not hit (low 43.47). Loss (45.26-43.79) x 44 = $64.68.",
+    "by": "sprint check"
   }
 ]
