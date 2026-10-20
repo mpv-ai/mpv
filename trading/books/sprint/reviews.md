@@ -219,3 +219,13 @@ The market at 9:50 (Robinhood quotes at 9:49:55 and 9:50:36 ET):
 - **Checks:** 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30 and 15:50.
 
 **Live:** sent to the user for a yes. 15 SOXS, stop-limit at 50.22 with a 50.45 limit, stop 47.94, risk $37.65.
+
+### Day 6 score (Tue Oct 20): **0.00%**, $0.00, gap to 1.5% = (1.50) pts, NOT ACHIEVED
+
+- **Benchmarks:** SPY +0.24% (766.48 to 768.35). SOXL +0.1% (98.65 to 98.76) after a 91.35 low. SOXS (0.1)%.
+- **Trades:** none. The SOXS buy-stop at 50.22 never triggered: SOXS peaked at 50.115 in the opening range and then fell.
+- **Counterfactual, recorded honestly:** the dropped Leg A (SOXL breakout above 95.54) would have filled near 95.64. It would have been about +$53 at the close (17 shares), though it would not have reached the 102.84 target.
+  - This is the second day running that the opposite leg was the right one, after day 5.
+  - Dropping a leg on a judgement call (a wide range) cost money today. Calling the direction in advance has not worked: 0 for 2 on direction this week.
+- **Lesson:** keep running brackets with both legs on gap days under 5%, sized so that combined risk stays at about $90.
+- **Running total, 6 days:** (1.26)%. Book $9,873.72. 0 of 6 days at 1.5%. SPY over the same days is about (1.3)%.
