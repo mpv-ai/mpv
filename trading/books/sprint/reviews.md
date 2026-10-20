@@ -199,7 +199,7 @@ The market at 9:50 (Robinhood quotes at 9:49:55 and 9:50:36 ET):
 - Semis are in a two-week downtrend: SOXL went from 164 on Oct 6 to 93.
 - NFLX reports after today's close. TXN and LRCX report Wednesday after the close.
 
-**Kalshi:** pending the scan. No trade unless it reports an edge.
+**Kalshi:** no trade. In the NFLX earnings-mention markets, "Hollywood" looks about 11 points cheap on 4 past calls, too small a sample. "Partnership" fails the spread and open-interest tests.
 
 **One-sided entry only: Leg B, a SOXS buy-stop that trades with the trend.**
 - Leg A (SOXL reversal) is dropped. The opening range spans about 5%, twice day 5's, and the risk manager flagged that both sides would get run. The trader also preferred Leg B if only one side was traded.
