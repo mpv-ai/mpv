@@ -189,3 +189,33 @@ The market at 9:50: semis gapped up about 10% after Friday's (12.6)% and are rot
   - Skip opening-range brackets on gap days of more than 5% in 3x ETFs. Those ranges are wide, and both sides get run.
   - Use the invalidation rule only once at least 30 minutes have passed since entry. Noise invalidated this trade, not a change in the thesis.
 - **Running total, 5 days:** (1.26)%. Book $9,873.72. 0 of 5 days at 1.5%. SPY over the same days is about (1.5)%.
+
+## 2026-10-20 (day 6) plan
+
+The market at 9:50 (Robinhood quotes at 9:49:55 and 9:50:36 ET):
+- SOXL gapped (4.2)% at the open: 94.51 against a 98.65 close. It is now 92.72, (6.0)%.
+- SOXS +6.0% at 49.44. QQQ (0.7)%, SPY flat.
+- TLT +0.8% and TMF +2.5%, so the tape is risk-off.
+- Semis are in a two-week downtrend: SOXL went from 164 on Oct 6 to 93.
+- NFLX reports after today's close. TXN and LRCX report Wednesday after the close.
+
+**Kalshi:** pending the scan. No trade unless it reports an edge.
+
+**One-sided entry only: Leg B, a SOXS buy-stop that trades with the trend.**
+- Leg A (SOXL reversal) is dropped. The opening range spans about 5%, twice day 5's, and the risk manager flagged that both sides would get run. The trader also preferred Leg B if only one side was traded.
+- The gap was measured on SOXL open vs prior close: 4.2%, under the 5% rule.
+
+**SOXS (Leg B) order:**
+- **Trigger and cap:** trigger 50.22, the opening-range (OR) high of 50.115 + 0.10. Cap 50.45. Source: Robinhood 1-min and 5-min bars, 9:30–9:49.
+- **Stop:** 47.94, which is 2x the 1.14 5-min ATR and below the 48.14 OR low.
+- **Target:** fill + 1.5R, which is 53.64 from a fill at the trigger.
+- **Size:** 35 shares. Cost $1,766 (17.9% of the book). Risk $87.85 at the cap.
+- **Thesis:** a new session low after the pullback to VWAP resumes the downtrend. The risk-off tape supports it.
+
+**Exit rules:**
+- **Invalidation:** applies only from 30 minutes after the fill. Exit at a check that sees a 5-min SOXS close below the 49.13 OR midpoint, or a SOXL close above 93.45.
+- **Re-arm (day-5 rule):** after an invalidation exit only, before 14:30. One SOXL buy-stop at 95.64, cap 96.00, stop 90.84, 8 shares, about $41 risk.
+- **Expiry and time exit:** the entry expires at 14:30. Any position is flat at 15:50.
+- **Checks:** 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30 and 15:50.
+
+**Live:** sent to the user for a yes. 15 SOXS, stop-limit at 50.22 with a 50.45 limit, stop 47.94, risk $37.65.
