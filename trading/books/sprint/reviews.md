@@ -237,7 +237,7 @@ At 9:48:58 ET (Robinhood quotes):
 - QQQ +0.64% (722.6, low 719.72). TQQQ 71.85, SQQQ 36.90. SPY +0.27%.
 - TSLA, META, TXN, LRCX and IBM report after today's close.
 
-Kalshi: pending.
+Kalshi: no trade. Jobless claims ≥200k is priced 0.51/0.52 against our estimate of about 50%. The TSLA Megapack 3 and META mention markets have edges under 5 points or no transcript history.
 
 **Bracket: two independent legs.** Each fills at most once; filling one does not cancel the other. The risk manager approved both legs.
 
