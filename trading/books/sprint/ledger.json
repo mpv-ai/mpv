@@ -73,5 +73,30 @@
     "priceSource": "Robinhood bid 11:31:32 AM ET (exit at the bid at the 11:30 check)",
     "thesis": "INVALIDATED. A SOXS 5-min close went below the 44.50 opening-range midpoint (11:05 bar closed 44.35) as semis rallied, and SOXL broke above its 103.97 opening-range high at 11:20. The 43.42 stop was not hit (low 43.47). Loss (45.26-43.79) x 44 = $64.68.",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-10-21",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 34,
+    "price": 72.08,
+    "priceSource": "Buy-stop 72.08 (final OR high 72.03 + 0.05; cap 72.28) crossed in the 10:00-10:05 ET 5-min bar (open 71.835, high 72.14; Robinhood historicals); filled at the trigger since the bar opened below it; found at the 10:15 check",
+    "thesis": "Day-7 bracket leg A: QQQ holds its gap into TSLA/META; new session high resumes the up-move. STOP 71.33 (trigger - 0.75, ~2x ATR). TARGET fill + 1.5R = 73.21. TIME EXIT 15:50 ET.",
+    "by": "sprint-trader",
+    "stop": 71.33,
+    "target": 73.21,
+    "timeExit": "2026-10-21 15:50 ET"
+  },
+  {
+    "date": "2026-10-21",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 34,
+    "price": 71.33,
+    "priceSource": "Stop 71.33 breached in the 10:10-10:15 ET 5-min bar (open 71.46, low 71.115; Robinhood historicals); recorded at the stop since the bar opened above it; found at the 10:15 check",
+    "thesis": "STOPPED OUT. The breakout above the OR high reversed within 10 minutes. Loss (72.08-71.33) x 34 = $25.50.",
+    "by": "sprint check"
   }
 ]

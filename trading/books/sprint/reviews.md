@@ -269,3 +269,10 @@ Kalshi: no trade. Jobless claims ≥200k is priced 0.51/0.52 against our estimat
 - Entries expire at 14:30. Everything is flat at 15:50.
 - Checks: 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30 and 15:50.
 - Live, sent for the user's yes: 21 TQQQ and 39 SQQQ, with combined risk of $39.45.
+- **10:15 check:**
+  - **Opening range locked (9:30–9:59):** TQQQ high 72.03, low 71.02. SQQQ high 37.48, low 36.80.
+  - **Recomputed levels:** TQQQ trigger 72.08, cap 72.28, stop 71.33, 34 shares. SQQQ trigger 37.53, cap 37.64, stop 37.14, 65 shares.
+  - **Leg A filled and stopped.** The 10:00 bar reached 72.14, so TQQQ filled at 72.08. The 10:10 bar fell to 71.115, so it was stopped at 71.33. Loss **($25.50)**.
+  - That is the noise stop-out the risk manager flagged.
+  - **Leg B is still pending.** SQQQ's high since 10:00 is 37.29, below the 37.53 trigger.
+  - **Live:** no yes from the user, so nothing was placed.
