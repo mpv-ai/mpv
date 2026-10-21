@@ -277,3 +277,12 @@ Kalshi: no trade. Jobless claims ≥200k is priced 0.51/0.52 against our estimat
   - **Leg B is still pending.** SQQQ's high since 10:00 is 37.29, below the 37.53 trigger.
   - **Live:** no yes from the user, so nothing was placed.
 - **2:30 check:** the SQQQ buy-stop expired unfilled. The high since 10:00 was 37.29, below the 37.53 trigger. The book is flat in cash.
+
+### Day 7 score (Wed Oct 21): **(0.26)%**, ($25.50), gap to 1.5% = (1.76) pts, NOT ACHIEVED
+
+- **Benchmarks:** SPY +0.63% (769.05 to 773.86), TQQQ +3.7% (70.41 to 72.99).
+- **Trades:** 1 trade, 1 loss. TQQQ filled at 72.08 and was stopped at 71.33 within 10 minutes. SQQQ never triggered.
+- **What went wrong:** the direction was right but the stop was too tight. TQQQ closed at 72.99, above both the entry and nearly the 73.21 target. With a stop below the 71.02 opening-range low, the trade would have made about +$31.
+  - This is the third time in 7 days that a stop of about 1% on a 3x ETF was hit by normal noise.
+- **Lesson:** cap the position, not the stop. On 3x ETFs, put the stop beyond the opposite side of the opening range, and when that makes the dollar risk too large, cut the share count. Never accept a stop inside the range.
+- **Running total after 7 days:** (1.52)%. Book $9,848.22. 0 of 7 days at 1.5%. SPY over the same days is about (0.7)%. The book now trails the market.
