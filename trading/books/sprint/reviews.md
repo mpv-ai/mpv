@@ -276,3 +276,4 @@ Kalshi: no trade. Jobless claims ≥200k is priced 0.51/0.52 against our estimat
   - That is the noise stop-out the risk manager flagged.
   - **Leg B is still pending.** SQQQ's high since 10:00 is 37.29, below the 37.53 trigger.
   - **Live:** no yes from the user, so nothing was placed.
+- **2:30 check:** the SQQQ buy-stop expired unfilled. The high since 10:00 was 37.29, below the 37.53 trigger. The book is flat in cash.
