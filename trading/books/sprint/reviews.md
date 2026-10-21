@@ -229,3 +229,43 @@ The market at 9:50 (Robinhood quotes at 9:49:55 and 9:50:36 ET):
   - Dropping a leg on a judgement call (a wide range) cost money today. Calling the direction in advance has not worked: 0 for 2 on direction this week.
 - **Lesson:** keep running brackets with both legs on gap days under 5%, sized so that combined risk stays at about $90.
 - **Running total, 6 days:** (1.26)%. Book $9,873.72. 0 of 6 days at 1.5%. SPY over the same days is about (1.3)%.
+
+## 2026-10-21 (day 7) plan
+
+At 9:48:58 ET (Robinhood quotes):
+- SOXL gapped +5.6% at the open (103.00 against a 97.55 close) and faded to 99.33. Skipped under the 5% gap rule.
+- QQQ +0.64% (722.6, low 719.72). TQQQ 71.85, SQQQ 36.90. SPY +0.27%.
+- TSLA, META, TXN, LRCX and IBM report after today's close.
+
+Kalshi: pending.
+
+**Bracket: two independent legs.** Each fills at most once; filling one does not cancel the other. The risk manager approved both legs.
+
+**Opening range (provisional, 9:30–9:48):**
+- TQQQ: high 72.00, low 71.02, midpoint 71.51.
+- SQQQ: high 37.34, low 36.82, midpoint 37.08.
+- If the range extends before 10:00, recompute at the 10:15 check:
+  - trigger = range high + 0.05
+  - cap = trigger + 0.20 (TQQQ) or + 0.11 (SQQQ)
+  - stop = trigger − 0.75 (TQQQ) or − 0.39 (SQQQ)
+  - shares = the lower of $45 ÷ (cap − stop) and 25% of the book ÷ cap
+
+**Leg A: TQQQ buy-stop (long).**
+- Entry: trigger 72.05, cap 72.25.
+- Stop 71.30 (2x ATR of 0.358). Target: fill + 1.5R, which is 73.18 from a fill at the trigger.
+- Size: 34 shares ($2,457, 24.9%). Risk $32.30.
+- Thesis: QQQ holds its gap ahead of the mega-cap reports. A new session high resumes the up move.
+- Invalidation: 30 minutes or more after the fill, a 5-min close below 71.51.
+
+**Leg B: SQQQ buy-stop (long SQQQ, betting QQQ falls).**
+- Entry: trigger 37.39, cap 37.50.
+- Stop 37.00. Target: fill + 1.5R, which is 37.98 from a fill at the trigger.
+- Size: 65 shares ($2,438, 24.7%). Risk $32.50.
+- Thesis: the gap fails while semis fade. A new SQQQ high confirms it.
+- Invalidation: 30 minutes or more after the fill, a 5-min close below 37.08.
+
+**Totals and timing:**
+- Combined risk is about $65.
+- Entries expire at 14:30. Everything is flat at 15:50.
+- Checks: 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30 and 15:50.
+- Live, sent for the user's yes: 21 TQQQ and 39 SQQQ, with combined risk of $39.45.
