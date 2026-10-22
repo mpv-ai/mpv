@@ -286,3 +286,40 @@ Kalshi: no trade. Jobless claims ≥200k is priced 0.51/0.52 against our estimat
   - This is the third time in 7 days that a stop of about 1% on a 3x ETF was hit by normal noise.
 - **Lesson:** cap the position, not the stop. On 3x ETFs, put the stop beyond the opposite side of the opening range, and when that makes the dollar risk too large, cut the share count. Never accept a stop inside the range.
 - **Running total after 7 days:** (1.52)%. Book $9,848.22. 0 of 7 days at 1.5%. SPY over the same days is about (0.7)%. The book now trails the market.
+
+## 2026-10-22 (day 8) plan
+
+At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
+- Index ETFs: TQQQ gapped (4.78)% (69.14 against a 72.61 close) and SQQQ +4.80%. QQQ (1.7)%, SPY (0.9)%, TLT +1.2%.
+- Earnings reactions: META (6.5)% and LRCX (8.6)% after their reports. TSLA (0.7)%, TXN flat.
+- SOXL gapped (12.2)%, so it is skipped under the 5% gap rule.
+
+**Kalshi:** pending.
+
+**Two-leg bracket, legs independent.** The risk manager approved both legs. The SQQQ stop at 38.02 sits below the SQQQ opening-range low of 38.07.
+
+**Opening range (provisional, 9:30–9:49):**
+- TQQQ: high 69.44, low 68.575, midpoint 69.01.
+- SQQQ: high 38.52, low 38.07, midpoint 38.30.
+- If the range extends before 10:00, recompute at the 10:15 check using the day-8 formula: stops go beyond the opposite side of the range, and shares are cut rather than the stop tightened.
+
+**Leg A: TQQQ buy-stop.**
+- Entry: trigger 69.49, cap 69.69.
+- Stop 68.475 (range low − 0.10). Target fill + 1.5R.
+- Size: 35 shares, risk $42.53.
+- Thesis: QQQ washes out after the gap down and squeezes back up.
+- Invalidation: from 30 minutes after the fill, a 5-min close below 69.01.
+
+**Leg B: SQQQ buy-stop.**
+- Entry: trigger 38.57, cap 38.68.
+- Stop 38.02 (range low − 0.05). Target fill + 1.5R.
+- Size: 63 shares, risk $41.58.
+- Thesis: risk-off after the earnings reports; the gap down continues.
+- Invalidation: from 30 minutes after the fill, a 5-min close below 38.30.
+
+**Totals and schedule:**
+- Combined risk is about $84.
+- Entries expire at 14:30. Flat by 15:50.
+- Checks: 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30.
+
+**Live:** sent to the user for a yes. 16 TQQQ and 30 SQQQ, combined risk $39.24.
