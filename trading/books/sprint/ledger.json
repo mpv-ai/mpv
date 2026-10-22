@@ -159,5 +159,16 @@
     "stop": 37.99,
     "target": 39.44,
     "timeExit": "2026-10-22 15:50 ET"
+  },
+  {
+    "date": "2026-10-22",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 63,
+    "price": 39.44,
+    "priceSource": "Target 39.44 reached in the 12:45-12:50 ET 5-min bar (open 39.3187, high 39.525; Robinhood historicals); filled at the target since the bar opened below it; found at the 1:30 check",
+    "thesis": "TARGET HIT. The risk-off gap continued after the META/LRCX reports. Gain (39.44-38.57) x 63 = $54.81, which is 1.5R.",
+    "by": "sprint check"
   }
 ]
