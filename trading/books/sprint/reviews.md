@@ -340,3 +340,6 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
     - Invalidation can apply from 10:31.
   - **Leg B:** still pending. SQQQ's high since 10:00 is 38.46.
   - **Live:** the user has not said yes, so nothing was placed.
+- **10:30 check:**
+  - **Leg A stopped out.** TQQQ broke its 68.45 stop in the 10:20 bar (low 68.26), for a loss of **($37.74)**. The stop was beyond the opening range, so this was a genuine failure of the thesis, not noise.
+  - **Leg B filled.** 63 SQQQ at 38.57 in the same 10:20 bar. Since then the low is 38.59 and the last close 38.805. The stop is 37.99 and the target 39.44. Invalidation can apply from 10:50.

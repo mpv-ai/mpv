@@ -134,5 +134,30 @@
     "stop": 68.45,
     "target": 71.23,
     "timeExit": "2026-10-22 15:50 ET"
+  },
+  {
+    "date": "2026-10-22",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 34,
+    "price": 68.45,
+    "priceSource": "Stop 68.45 breached in the 10:20-10:25 ET 5-min bar (open 68.67, low 68.26; Robinhood historicals); recorded at the stop since the bar opened above it; found at the 10:30 check",
+    "thesis": "STOPPED OUT. The squeeze failed; QQQ broke to new session lows. Loss (69.56-68.45) x 34 = $37.74. The stop was beyond the OR low per the day-7 lesson, so this is a real thesis failure, not noise.",
+    "by": "sprint check"
+  },
+  {
+    "date": "2026-10-22",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 63,
+    "price": 38.57,
+    "priceSource": "Buy-stop 38.57 (OR high 38.52 + 0.05; cap 38.68) crossed in the 10:20-10:25 ET 5-min bar (open 38.475, high 38.67; Robinhood historicals); filled at the trigger since the bar opened below it; found at the 10:30 check",
+    "thesis": "Day-8 bracket leg B: the risk-off gap continues after the META/LRCX earnings; a new SQQQ session high. STOP 37.99 (OR low 38.042 - 0.05). TARGET fill + 1.5R = 39.44. TIME EXIT 15:50 ET. Invalidated 30+ min after the fill on a 5-min close below the OR midpoint 38.28.",
+    "by": "sprint-trader",
+    "stop": 37.99,
+    "target": 39.44,
+    "timeExit": "2026-10-22 15:50 ET"
   }
 ]
