@@ -328,3 +328,15 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
   - It settles on the BEA print on Oct 29. Max loss is $24.02, max gain $61.98.
   - Cancel the idea if GDPNow prints 3.1% or lower before then.
   - The FOMC hike contract (3–4 points of edge) and core PCE (6-point spread) did not qualify.
+- **10:15 check:**
+  - **Opening range locked (9:30–9:59):**
+    - TQQQ: high 69.505, low 68.553, midpoint 69.03.
+    - SQQQ: high 38.52, low 38.042, midpoint 38.28.
+  - **Levels recomputed from the locked range:**
+    - TQQQ: trigger 69.555, cap 69.755, stop 68.45, 34 shares (risk about $38).
+    - SQQQ: trigger 38.57, cap 38.68, stop 37.99, 63 shares.
+  - **Leg A filled:** 34 TQQQ at 69.56 in the 10:00 bar (high 69.65).
+    - Since the fill: low 68.68, which is above the 68.45 stop. Last close 68.715.
+    - Invalidation can apply from 10:31.
+  - **Leg B:** still pending. SQQQ's high since 10:00 is 38.46.
+  - **Live:** the user has not said yes, so nothing was placed.

@@ -120,5 +120,19 @@
     "priceSource": "Kalshi public API ask, Thu Oct 22 ~9:55 AM ET (YES 0.25/0.27; book depth 46 @0.27, 40 @0.29), taking the ask",
     "thesis": "Q3 2026 advance GDP > 3.5% (print 3.6%+). Atlanta Fed GDPNow 3.5% (Oct 20); blended nowcasts about 3.2-3.35% with ~1pt error, so P(>=3.6) about 35-38% vs ~0.28 average fill: about 8 points of edge. Market ladder puts too little weight above 3.5 given the lead nowcast sits on 3.5. Hold to settlement (BEA release Oct 29 8:30 ET). Cancel the idea if GDPNow prints 3.1% or lower before then. Max loss is the premium.",
     "by": "prediction-analyst"
+  },
+  {
+    "date": "2026-10-22",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 34,
+    "price": 69.56,
+    "priceSource": "Buy-stop 69.555 (final OR high 69.505 + 0.05; cap 69.755) crossed in the 10:00-10:05 ET 5-min bar (open 69.32, high 69.65; Robinhood historicals); filled at the trigger (rounded 69.56) since the bar opened below it; found at the 10:15 check",
+    "thesis": "Day-8 bracket leg A: QQQ washes out after the earnings gap-down and squeezes; a new session high above the opening range. STOP 68.45 (OR low 68.5527 - 0.10, beyond the range per the day-7 lesson). TARGET fill + 1.5R = 71.23. TIME EXIT 15:50 ET. Invalidated 30+ min after the fill on a 5-min close below the OR midpoint 69.03.",
+    "by": "sprint-trader",
+    "stop": 68.45,
+    "target": 71.23,
+    "timeExit": "2026-10-22 15:50 ET"
   }
 ]
