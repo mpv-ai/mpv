@@ -294,7 +294,7 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
 - Earnings reactions: META (6.5)% and LRCX (8.6)% after their reports. TSLA (0.7)%, TXN flat.
 - SOXL gapped (12.2)%, so it is skipped under the 5% gap rule.
 
-**Kalshi:** pending.
+**Kalshi:** see the GDP entry below.
 
 **Two-leg bracket, legs independent.** The risk manager approved both legs. The SQQQ stop at 38.02 sits below the SQQQ opening-range low of 38.07.
 
@@ -323,3 +323,8 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
 - Checks: 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30.
 
 **Live:** sent to the user for a yes. 16 TQQQ and 30 SQQQ, combined risk $39.24.
+- **Kalshi (filled later):** bought **86 KXGDP-26OCT30-T3.5 YES** (Q3 GDP above 3.5%). 46 at 0.27 and 40 at 0.29, $24.02 in total (0.24% of the book).
+  - Our probability is 35–38%, which is about 8 points of edge.
+  - It settles on the BEA print on Oct 29. Max loss is $24.02, max gain $61.98.
+  - Cancel the idea if GDPNow prints 3.1% or lower before then.
+  - The FOMC hike contract (3–4 points of edge) and core PCE (6-point spread) did not qualify.

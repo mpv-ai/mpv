@@ -98,5 +98,27 @@
     "priceSource": "Stop 71.33 breached in the 10:10-10:15 ET 5-min bar (open 71.46, low 71.115; Robinhood historicals); recorded at the stop since the bar opened above it; found at the 10:15 check",
     "thesis": "STOPPED OUT. The breakout above the OR high reversed within 10 minutes. Loss (72.08-71.33) x 34 = $25.50.",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-10-22",
+    "action": "buy",
+    "asset": "event",
+    "symbol": "KXGDP-26OCT30-T3.5 YES",
+    "qty": 46,
+    "price": 0.27,
+    "priceSource": "Kalshi public API ask, Thu Oct 22 ~9:55 AM ET (YES 0.25/0.27; book depth 46 @0.27, 40 @0.29), taking the ask",
+    "thesis": "Q3 2026 advance GDP > 3.5% (print 3.6%+). Atlanta Fed GDPNow 3.5% (Oct 20); blended nowcasts about 3.2-3.35% with ~1pt error, so P(>=3.6) about 35-38% vs ~0.28 average fill: about 8 points of edge. Market ladder puts too little weight above 3.5 given the lead nowcast sits on 3.5. Hold to settlement (BEA release Oct 29 8:30 ET). Cancel the idea if GDPNow prints 3.1% or lower before then. Max loss is the premium.",
+    "by": "prediction-analyst"
+  },
+  {
+    "date": "2026-10-22",
+    "action": "buy",
+    "asset": "event",
+    "symbol": "KXGDP-26OCT30-T3.5 YES",
+    "qty": 40,
+    "price": 0.29,
+    "priceSource": "Kalshi public API ask, Thu Oct 22 ~9:55 AM ET (YES 0.25/0.27; book depth 46 @0.27, 40 @0.29), taking the ask",
+    "thesis": "Q3 2026 advance GDP > 3.5% (print 3.6%+). Atlanta Fed GDPNow 3.5% (Oct 20); blended nowcasts about 3.2-3.35% with ~1pt error, so P(>=3.6) about 35-38% vs ~0.28 average fill: about 8 points of edge. Market ladder puts too little weight above 3.5 given the lead nowcast sits on 3.5. Hold to settlement (BEA release Oct 29 8:30 ET). Cancel the idea if GDPNow prints 3.1% or lower before then. Max loss is the premium.",
+    "by": "prediction-analyst"
   }
 ]
