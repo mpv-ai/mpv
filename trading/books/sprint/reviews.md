@@ -347,3 +347,28 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
   - Day total: SQQQ +$54.81, TQQQ −$37.74, net **+$17.07**.
   - This is the first winning trade of the sprint.
   - With stops placed beyond the range, the bracket worked: the losing leg was cut, and the winning leg had room to reach its target.
+
+### Day 8 score (Thu Oct 22): **+0.17%**, +$16.27, gap to 1.5% = (1.33) pts, NOT ACHIEVED
+
+**P&L breakdown:**
+- SQQQ: +$54.81 at the target.
+- TQQQ: ($37.74) when its stop was hit.
+- GDP YES: ($0.80) marked to market at the 0.27 bid.
+
+**Benchmarks:**
+- SPY (1.20)%, from 773.09 to 763.80.
+- TQQQ (8.5)%.
+- SQQQ +8.6%.
+
+**Trades:** 2 closed, with 1 win and 1 loss. This is the first win of the sprint, and the first green day.
+
+**What worked:**
+- The two-sided bracket with stops placed beyond the opening range.
+- The legs were independent, so the losing leg was cut at about 1R and the winning leg reached 1.5R.
+- Net reward-to-risk on the day was about 1.45 to 1.
+
+**What to improve:**
+- SQQQ ran to 39.60 by the close, so a trailing exit would have captured more after the target.
+- Consider selling half at 1.5R and trailing the rest with the stop at break-even. Test this in paper only.
+
+**Running total after 8 days:** (1.36)%, book $9,864.49. Days at 1.5%: 0 of 8. SPY over the same period: about (1.8)%. The book is now ahead of SPY again.

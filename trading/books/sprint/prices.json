@@ -1,7 +1,8 @@
 {
-  "date": "2026-10-21",
-  "source": "Robinhood last trade ~3:51 PM ET Wed Oct 21 (book flat in cash)",
-  "SPY": 773.86,
-  "TQQQ": 72.985,
-  "SQQQ": 36.2815
+  "date": "2026-10-22",
+  "source": "Robinhood last trade ~3:51 PM ET Thu Oct 22; Kalshi YES bid 0.27 (conservative mark)",
+  "SPY": 763.7988,
+  "TQQQ": 66.415,
+  "SQQQ": 39.6001,
+  "KXGDP-26OCT30-T3.5 YES": 0.27
 }
