@@ -372,3 +372,41 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
 - Consider selling half at 1.5R and trailing the rest with the stop at break-even. Test this in paper only.
 
 **Running total after 8 days:** (1.36)%, book $9,864.49. Days at 1.5%: 0 of 8. SPY over the same period: about (1.8)%. The book is now ahead of SPY again.
+
+## 2026-10-23 (day 9) plan
+
+**Market at 9:49 ET** (Robinhood quotes 9:49:04):
+- TQQQ gapped (1.19)% at the open (65.63 against a 66.42 close). Last 66.28.
+- SQQQ gapped +1.19% (40.07). Last 39.70.
+- QQQ flat, SPY (0.47)%.
+- Both gaps are under 5%, so the bracket is allowed.
+
+**Kalshi:** HOLD the GDP YES position. A new-market scan is pending.
+
+**Method:** day-8 bracket with stops beyond the opening range. **New on paper:** exit half at 1.5R, then move the stop on the rest to break-even and hold it to 15:50. The risk manager approved both legs.
+
+**Opening range** (provisional 9:30–9:48):
+- TQQQ: high 66.445, low 65.37, midpoint 65.91.
+- SQQQ: high 40.228, low 39.59, midpoint 39.91.
+- Lock the range at 10:00 and recompute the levels with the day-8 formula.
+
+**Leg A, TQQQ buy-stop:**
+- Trigger 66.50, cap 66.70.
+- Stop 65.27.
+- Size: 31 shares, risk $44.33 at the cap.
+- Target 1.5R: sell 15 there, run 16 with the stop at break-even.
+- Invalidation: from 30 minutes after the fill until the target, exit on a 5-min close below 65.91.
+
+**Leg B, SQQQ buy-stop:**
+- Trigger 40.28, cap 40.39.
+- Stop 39.54.
+- Size: 52 shares, risk $44.20.
+- Target 1.5R: sell 26 there, run 26 with the stop at break-even.
+- Invalidation: from 30 minutes after the fill, exit on a 5-min close below 39.91.
+
+**Totals and schedule:**
+- Legs are independent. Combined risk about $88.5.
+- Entries expire at 14:30. Flat by 15:50 (Friday, no weekend hold).
+- Checks: 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30.
+
+**Live:** sent to the user for a yes. 14 TQQQ and 23 SQQQ, combined risk $39.57.
