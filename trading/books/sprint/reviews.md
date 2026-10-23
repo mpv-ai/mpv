@@ -410,3 +410,11 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
 - Checks: 10:15, 10:30, 11:00, 11:30, 12:45, 13:30, 14:30.
 
 **Live:** sent to the user for a yes. 14 TQQQ and 23 SQQQ, combined risk $39.57.
+- **10:15 check:**
+  - **Opening range locked (9:30–9:59):** TQQQ high 66.64, low 65.37, midpoint 66.00. SQQQ high 40.228, low 39.48, midpoint 39.85.
+  - **Recomputed levels:**
+    - TQQQ: trigger 66.69, cap 66.89, stop 65.27, **27 shares** (cut from 31, because the range widened), target 68.82. Sell 13 at the target and run 14 at break-even.
+    - SQQQ: trigger 40.28, cap 40.39, stop 39.43, **46 shares**, target 41.555. Sell 23 at the target and run 23.
+  - **Leg A filled:** 27 TQQQ at 66.69 in the 10:00 bar (high 66.775). Since the fill the low is 66.30 and the last price 66.62.
+  - **Leg B:** pending. SQQQ's high since 10:00 is 39.675.
+  - **Live:** the user has not said yes, so nothing was placed.

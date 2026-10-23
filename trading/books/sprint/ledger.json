@@ -170,5 +170,19 @@
     "priceSource": "Target 39.44 reached in the 12:45-12:50 ET 5-min bar (open 39.3187, high 39.525; Robinhood historicals); filled at the target since the bar opened below it; found at the 1:30 check",
     "thesis": "TARGET HIT. The risk-off gap continued after the META/LRCX reports. Gain (39.44-38.57) x 63 = $54.81, which is 1.5R.",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-10-23",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 27,
+    "price": 66.69,
+    "priceSource": "Buy-stop 66.69 (final OR high 66.6397 + 0.05; cap 66.89) crossed in the 10:00-10:05 ET 5-min bar (open 66.6332, high 66.775; Robinhood historicals); filled at the trigger since the bar opened below it; found at the 10:15 check",
+    "thesis": "Day-9 bracket leg A: QQQ recovered its opening dip; a new session high above the OR resumes the up-move. STOP 65.27 (OR low 65.37 - 0.10). Recomputed size 27 (risk $43.74 at cap) after the OR extended. TARGET 1.5R = 68.82: sell 13 there, the other 14 run with the stop at break-even. TIME EXIT 15:50 ET (Friday). Invalidated 30+ min after the fill, before the target, on a 5-min close below the OR midpoint 66.00.",
+    "by": "sprint-trader",
+    "stop": 65.27,
+    "target": 68.82,
+    "timeExit": "2026-10-23 15:50 ET"
   }
 ]
