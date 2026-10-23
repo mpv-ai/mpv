@@ -418,3 +418,5 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
   - **Leg A filled:** 27 TQQQ at 66.69 in the 10:00 bar (high 66.775). Since the fill the low is 66.30 and the last price 66.62.
   - **Leg B:** pending. SQQQ's high since 10:00 is 39.675.
   - **Live:** the user has not said yes, so nothing was placed.
+
+- 14:30 check: TQQQ held (low 66.43, never closed below 66.00 mid; target 68.82 not reached). SQQQ buy-stop 40.28 expired unfilled (high since midday 39.60). TQQQ rides to 15:50 flatten.
