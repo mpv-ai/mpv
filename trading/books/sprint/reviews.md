@@ -427,3 +427,15 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
 - Half-out test: untested. TQQQ peaked about 67.30 and never neared the 68.82 target.
 - Lesson: a range day. The OR break held but never extended, so the bracket bled a little to the time exit. Low-range days give back small amounts; that is the cost of the method, not a reason to change it.
 **Running total after 9 days:** (1.46)%, book $9,854.01. Days at 1.5%: 0 of 9. SPY over the same period: about (2.3)%. The book is still ahead of SPY.
+
+## Weekly rulebook review (Fri Oct 23, after day 9)
+Closed paper trades: 7. Wins 1, losses 6 (14%). Net ($146.05).
+| Setup | Trades | W/L | Avg win | Avg loss | Net |
+|---|---|---|---|---|---|
+| VWAP reclaim (TQQQ, day 1) | 1 | 0/1 | n/a | (20.46) | (20.46) |
+| Breakdown continuation (SOXS, day 3) | 1 | 0/1 | n/a | (41.14) | (41.14) |
+| OR bracket, long leg (TQQQ) | 3 | 0/3 | n/a | (24.86) | (74.58) |
+| OR bracket, inverse leg (SOXS/SQQQ) | 2 | 1/1 | 54.81 | (64.68) | (9.87) |
+| Kalshi GDP (open) | 1 | open | | | +0.06 mark |
+Live day-trade sleeve: 0 fills (no package approved).
+**Verdict: no setup has a positive paper result, and none has more than 3 trades. No rulebook is drafted (Option A not offered).** Option B (one daily package, explicit yes) continues. Re-run this review after the 20-day evaluation (about Nov 9) with the OR bracket as the only candidate.
