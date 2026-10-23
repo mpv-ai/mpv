@@ -381,7 +381,7 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
 - QQQ flat, SPY (0.47)%.
 - Both gaps are under 5%, so the bracket is allowed.
 
-**Kalshi:** HOLD the GDP YES position. A new-market scan is pending.
+**Kalshi:** HOLD the GDP YES position, marked at 0.28/0.29. GDPNow was 3.5% on Oct 20 and updates next on Oct 27. Exit if it prints 3.1% or lower. No new trade: Oct 29 claims are illiquid, and FOMC hike odds of 0.07/0.08 match FedWatch at about 7%.
 
 **Method:** day-8 bracket with stops beyond the opening range. **New on paper:** exit half at 1.5R, then move the stop on the rest to break-even and hold it to 15:50. The risk manager approved both legs.
 
