@@ -184,5 +184,16 @@
     "stop": 65.27,
     "target": 68.82,
     "timeExit": "2026-10-23 15:50 ET"
+  },
+  {
+    "date": "2026-10-23",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 27,
+    "price": 66.27,
+    "priceSource": "Robinhood bid 66.27 at 3:51 PM ET Fri Oct 23 (quote)",
+    "thesis": "TIME EXIT 15:50 Friday. Neither the stop 65.27 nor the target 68.82 was hit, and no 5-min close went below the 66.00 midpoint (low close about 66.32). Loss (66.69-66.27) x 27 = $11.34. Half-out rule untested.",
+    "by": "sprint close"
   }
 ]

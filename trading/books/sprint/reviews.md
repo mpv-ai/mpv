@@ -420,3 +420,10 @@ At 9:50 ET (Robinhood quotes 9:49:33 and 9:50:23):
   - **Live:** the user has not said yes, so nothing was placed.
 
 - 14:30 check: TQQQ held (low 66.43, never closed below 66.00 mid; target 68.82 not reached). SQQQ buy-stop 40.28 expired unfilled (high since midday 39.60). TQQQ rides to 15:50 flatten.
+
+### Day 9 score (Fri Oct 23): **(0.11)%**, ($10.48), gap to 1.5% = (1.61) pts, NOT ACHIEVED
+- Trades: 1 closed. TQQQ 27 @ 66.69, time exit @ 66.27 (bid), ($11.34). SQQQ leg never triggered and expired at 14:30. Kalshi GDP >3.5% YES 86 marked at the 0.28 bid (+$0.06).
+- Wins/losses: 0 / 1 (a small time-exit loss, not a stop).
+- Half-out test: untested. TQQQ peaked about 67.30 and never neared the 68.82 target.
+- Lesson: a range day. The OR break held but never extended, so the bracket bled a little to the time exit. Low-range days give back small amounts; that is the cost of the method, not a reason to change it.
+**Running total after 9 days:** (1.46)%, book $9,854.01. Days at 1.5%: 0 of 9. SPY over the same period: about (2.3)%. The book is still ahead of SPY.
