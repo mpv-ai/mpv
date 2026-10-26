@@ -450,3 +450,10 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **Leg A filled (10:30 check):** 30 TQQQ at 67.78 in the 10:15 bar. Stop 66.51, target 69.69 (sell 15), invalidation from 10:45 on a 5-min close below 67.17. Leg B (SQQQ 39.56) not triggered; SQQQ high since 10:00 is 39.48.
 
 - 14:30 check: SQQQ buy-stop 39.56 expired unfilled (high since 10:00 about 39.48). TQQQ 30 @ 67.78 held, last about 68.84 (range since 13:30 68.44-69.09); rides to the 15:50 time exit.
+
+### Day 10 score (Mon Oct 26): **+0.23%**, +$22.80, gap to 1.5% = (1.27) pts, NOT ACHIEVED
+- Trades: 1 closed. TQQQ 30 @ 67.78 (10:15 breakout), time exit @ 68.54 (bid), +$22.80. SQQQ leg never triggered. Kalshi GDP YES 86 at the 0.28 bid (unchanged).
+- Wins/losses: 1 / 0. Half-out test: untested (high 69.33 vs target 69.69).
+- Lesson: a trend day for QQQ; the long leg worked but the 1.5R target sat just above the high. One good day does not change the 169-day backtest (−0.17% per trade).
+- Dip-buy shadow check at 3:51 PM: no RSI(2)<10 signal on SPY, QQQ, IWM or SOXX (all RSI2 above 55 after today's rally).
+**Running total after 10 days:** (1.23)%, book $9,876.81. Days at 1.5%: 0 of 10. SPY over the same period: about (1.7)%.

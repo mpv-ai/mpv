@@ -209,5 +209,16 @@
     "stop": 66.51,
     "target": 69.69,
     "timeExit": "2026-10-26 15:50 ET"
+  },
+  {
+    "date": "2026-10-26",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 30,
+    "price": 68.54,
+    "priceSource": "Robinhood bid 68.54 at 3:51 PM ET Mon Oct 26 (quote)",
+    "thesis": "TIME EXIT 15:50. Target 69.69 never hit (high about 69.33); no stop or invalidation. Gain (68.54-67.78) x 30 = $22.80. Half-out rule untested again.",
+    "by": "sprint close"
   }
 ]
