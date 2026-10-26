@@ -439,3 +439,10 @@ Closed paper trades: 7. Wins 1, losses 6 (14%). Net ($146.05).
 | Kalshi GDP (open) | 1 | open | | | +0.06 mark |
 Live day-trade sleeve: 0 fills (no package approved).
 **Verdict: no setup has a positive paper result, and none has more than 3 trades. No rulebook is drafted (Option A not offered).** Option B (one daily package, explicit yes) continues. Re-run this review after the 20-day evaluation (about Nov 9) with the OR bracket as the only candidate.
+
+## Day 10 plan (Mon Oct 26), OR bracket (the evaluation continues; backtest says this method has no edge, see trading/research/README.md)
+- OR locked on 9:30-9:59. TQQQ H 67.729 / L 66.61 / mid 67.17. SQQQ H 39.51 / L 38.82 / mid 39.165. No gap of 5% or more.
+- Leg A TQQQ: trigger 67.78, cap 67.98, stop 66.51, **30 shares** (risk $43.80 at cap), target fill + 1.5R (sell 15, run 15 at break-even). Invalidation 30+ min after the fill: 5-min close below 67.17.
+- Leg B SQQQ: trigger 39.56, cap 39.67, stop 38.77, **50 shares** (risk $45.00 at cap), target fill + 1.5R (sell 25, run 25 at break-even). Invalidation: 5-min close below 39.165.
+- Entries expire 14:30; flat by 15:50. Kalshi GDP YES 86 held to the Oct 29 print (exit if GDPNow 3.1% or lower on Oct 27).
+- Live: no package sent; the user was asked to choose between the dip-buy rule and the intraday packages.
