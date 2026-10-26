@@ -448,3 +448,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Live: no package sent; the user was asked to choose between the dip-buy rule and the intraday packages.
 
 - **Leg A filled (10:30 check):** 30 TQQQ at 67.78 in the 10:15 bar. Stop 66.51, target 69.69 (sell 15), invalidation from 10:45 on a 5-min close below 67.17. Leg B (SQQQ 39.56) not triggered; SQQQ high since 10:00 is 39.48.
+
+- 14:30 check: SQQQ buy-stop 39.56 expired unfilled (high since 10:00 about 39.48). TQQQ 30 @ 67.78 held, last about 68.84 (range since 13:30 68.44-69.09); rides to the 15:50 time exit.
