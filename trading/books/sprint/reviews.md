@@ -446,3 +446,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Leg B SQQQ: trigger 39.56, cap 39.67, stop 38.77, **50 shares** (risk $45.00 at cap), target fill + 1.5R (sell 25, run 25 at break-even). Invalidation: 5-min close below 39.165.
 - Entries expire 14:30; flat by 15:50. Kalshi GDP YES 86 held to the Oct 29 print (exit if GDPNow 3.1% or lower on Oct 27).
 - Live: no package sent; the user was asked to choose between the dip-buy rule and the intraday packages.
+
+- **Leg A filled (10:30 check):** 30 TQQQ at 67.78 in the 10:15 bar. Stop 66.51, target 69.69 (sell 15), invalidation from 10:45 on a 5-min close below 67.17. Leg B (SQQQ 39.56) not triggered; SQQQ high since 10:00 is 39.48.
