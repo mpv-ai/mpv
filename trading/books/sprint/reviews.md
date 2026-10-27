@@ -457,3 +457,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Lesson: a trend day for QQQ; the long leg worked but the 1.5R target sat just above the high. One good day does not change the 169-day backtest (−0.17% per trade).
 - Dip-buy shadow check at 3:51 PM: no RSI(2)<10 signal on SPY, QQQ, IWM or SOXX (all RSI2 above 55 after today's rally).
 **Running total after 10 days:** (1.23)%, book $9,876.81. Days at 1.5%: 0 of 10. SPY over the same period: about (1.7)%.
+
+## Day 11 plan (Tue Oct 27), OR bracket (evaluation continues; backtest says no edge)
+- OR locked on 9:30-9:59. TQQQ H 70.18 / L 69.065 / mid 69.62. SQQQ H 38.06 / L 37.425 / mid 37.74. Gap about +1% on TQQQ, so both legs are allowed.
+- Leg A TQQQ: trigger 70.23, cap 70.43, stop 68.965, **30 shares** (risk $43.95 at cap), target fill + 1.5R (sell 15, run 15 at break-even). Invalidation 30+ min after the fill on a 5-min close below 69.62.
+- Leg B SQQQ: trigger 38.11, cap 38.22, stop 37.375, **53 shares** (risk $44.79 at cap), target fill + 1.5R (sell 26, run 27 at break-even). Invalidation on a 5-min close below 37.74.
+- Entries expire 14:30; flat by 15:50. Kalshi GDP YES 86: GDPNow Oct 27 update not out at 10:00; re-check at 13:30 (exit at the bid if 3.1% or lower).
