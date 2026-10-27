@@ -465,3 +465,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Entries expire 14:30; flat by 15:50. Kalshi GDP YES 86: GDPNow Oct 27 update not out at 10:00; re-check at 13:30 (exit at the bid if 3.1% or lower).
 
 - **Leg B filled (10:30 check):** 53 SQQQ at 38.11 in the 10:10 bar. Stop 37.375, target 39.21 (sell 26), invalidation from 10:40 on a 5-min close below 37.74 (the 10:25 bar closed 37.73, inside the 30-minute grace). Leg A (TQQQ 70.23) not triggered; high since 10:00 69.64.
+
+- **11:00 check:** SQQQ invalidated, sold 53 at 37.635 (10:40 bar close below 37.74), ($25.18). TQQQ leg A filled 30 at 70.23 in the 10:50 bar; stop 68.965, target 72.13 (sell 15), invalidation from 11:20 on a 5-min close below 69.62.

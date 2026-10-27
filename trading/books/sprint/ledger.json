@@ -234,5 +234,30 @@
     "stop": 37.375,
     "target": 39.21,
     "timeExit": "2026-10-27 15:50 ET"
+  },
+  {
+    "date": "2026-10-27",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 53,
+    "price": 37.635,
+    "priceSource": "Close of the 10:40-10:45 ET 5-min bar (Robinhood historicals), the first close below the 37.74 OR midpoint inside the invalidation window; found at the 11:00 check",
+    "thesis": "INVALIDATED. QQQ reversed back up; SQQQ closed below its OR midpoint 30 min after the fill. Loss (38.11-37.635) x 53 = $25.18. The 37.375 stop was hit later (10:55 low 37.32), so the invalidation rule saved about $13.",
+    "by": "sprint check"
+  },
+  {
+    "date": "2026-10-27",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 30,
+    "price": 70.23,
+    "priceSource": "Trigger 70.23 reached in the 10:50-10:55 ET 5-min bar (open 70.025, high 70.23; next bar high 70.365; Robinhood historicals); filled at the trigger, within the 70.43 cap; found at the 11:00 check",
+    "thesis": "Day-11 bracket leg A: QQQ recovered its morning fade and took out the opening-range high. STOP 68.965 (OR low 69.065 - 0.10). Risk 1.265/share, $37.95. TARGET 1.5R = 72.13: sell 15 there, the other 15 run with the stop at break-even. TIME EXIT 15:50 ET. Invalidated from 11:20, before the target, on a 5-min close below the OR midpoint 69.62.",
+    "by": "sprint check",
+    "stop": 68.965,
+    "target": 72.13,
+    "timeExit": "2026-10-27 15:50 ET"
   }
 ]
