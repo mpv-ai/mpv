@@ -467,3 +467,10 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **Leg B filled (10:30 check):** 53 SQQQ at 38.11 in the 10:10 bar. Stop 37.375, target 39.21 (sell 26), invalidation from 10:40 on a 5-min close below 37.74 (the 10:25 bar closed 37.73, inside the 30-minute grace). Leg A (TQQQ 70.23) not triggered; high since 10:00 69.64.
 
 - **11:00 check:** SQQQ invalidated, sold 53 at 37.635 (10:40 bar close below 37.74), ($25.18). TQQQ leg A filled 30 at 70.23 in the 10:50 bar; stop 68.965, target 72.13 (sell 15), invalidation from 11:20 on a 5-min close below 69.62.
+
+### Day 11 score (Tue Oct 27): **+0.02%**, +$2.35, gap to 1.5% = (1.48) pts, NOT ACHIEVED
+- Trades: 2 closed. SQQQ 53 @ 38.11, invalidated @ 37.635, ($25.18). TQQQ 30 @ 70.23, time exit @ 71.09 (bid), +$25.80. Kalshi GDP YES 86 marked 0.30 (+$1.72). GDPNow: no Oct 27 update found; last 3.5% (Oct 20), so the GDP bet is held to the Oct 29 print.
+- Wins/losses: 1 / 1. Half-out test: untested (TQQQ high 71.525 vs target 72.13).
+- Lesson: the invalidation rule earned its keep (saved about $13 versus the stop). Targets at 1.5R have not been reached in 3 days; the backtest's hold-to-close version did no better, so no change.
+- Dip-buy shadow check: no signal; all four indexes are in the exit zone after a 2-day rally. (signals.js data ends Oct 23; refresh the daily bars before any live use.)
+**Running total after 11 days:** (1.21)%, book $9,879.16. Days at 1.5%: 0 of 11. SPY over the same period: about (1.0)%.
