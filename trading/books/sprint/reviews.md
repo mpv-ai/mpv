@@ -481,3 +481,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Leg B SQQQ: trigger 37.14, cap 37.25, stop 36.37, **51 shares** (risk $44.88 at cap), target fill + 1.5R (sell 25, run 26 at break-even). Invalidation on a 5-min close below 36.755.
 - **Event risk: FOMC decision at 2:00 PM ET, press conference 2:30.** Rules unchanged (entries expire 14:30, flat 15:50), but a stop can gap through on the announcement; the 3x ETFs can move 2-4% in minutes. Recorded fills will use the bar open when a stop is gapped.
 - Kalshi GDP YES 86 held to the Oct 29 8:30 AM BEA advance estimate (last GDPNow 3.5%).
+
+- 14:30 check: both entries expired unfilled. TQQQ high 72.06 at 9:30, never 72.11 after (FOMC spike 71.79); SQQQ high 37.09 at 9:45, 37.03 after. A flat day, no trades.
