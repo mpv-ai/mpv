@@ -474,3 +474,10 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Lesson: the invalidation rule earned its keep (saved about $13 versus the stop). Targets at 1.5R have not been reached in 3 days; the backtest's hold-to-close version did no better, so no change.
 - Dip-buy shadow check: no signal; all four indexes are in the exit zone after a 2-day rally. (signals.js data ends Oct 23; refresh the daily bars before any live use.)
 **Running total after 11 days:** (1.21)%, book $9,879.16. Days at 1.5%: 0 of 11. SPY over the same period: about (1.0)%.
+
+## Day 12 plan (Wed Oct 28), OR bracket (evaluation continues; backtest says no edge)
+- OR locked on 9:30-9:59. TQQQ H 72.06 / L 70.76 / mid 71.41. SQQQ H 37.09 / L 36.42 / mid 36.755. Gaps are small, so both legs are allowed.
+- Leg A TQQQ: trigger 72.11, cap 72.31, stop 70.66, **27 shares** (risk $44.55 at cap), target fill + 1.5R (sell 13, run 14 at break-even). Invalidation 30+ min after the fill on a 5-min close below 71.41.
+- Leg B SQQQ: trigger 37.14, cap 37.25, stop 36.37, **51 shares** (risk $44.88 at cap), target fill + 1.5R (sell 25, run 26 at break-even). Invalidation on a 5-min close below 36.755.
+- **Event risk: FOMC decision at 2:00 PM ET, press conference 2:30.** Rules unchanged (entries expire 14:30, flat 15:50), but a stop can gap through on the announcement; the 3x ETFs can move 2-4% in minutes. Recorded fills will use the bar open when a stop is gapped.
+- Kalshi GDP YES 86 held to the Oct 29 8:30 AM BEA advance estimate (last GDPNow 3.5%).
