@@ -483,3 +483,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Kalshi GDP YES 86 held to the Oct 29 8:30 AM BEA advance estimate (last GDPNow 3.5%).
 
 - 14:30 check: both entries expired unfilled. TQQQ high 72.06 at 9:30, never 72.11 after (FOMC spike 71.79); SQQQ high 37.09 at 9:45, 37.03 after. A flat day, no trades.
+
+### Day 12 score (Wed Oct 28): **(0.05)%**, ($5.16), gap to 1.5% = (1.55) pts, NOT ACHIEVED
+- Trades: 0. Both bracket entries expired unfilled; the opening range held all day through the FOMC decision. Kalshi GDP YES 86 marked down to the 0.24 bid (from 0.30), ($5.16).
+- Lesson: a no-trade day is a correct outcome for a breakout rule on a range day.
+- Dip-buy shadow check (daily data refreshed through Oct 27): no signal; RSI2 84 to 95 on all four indexes after a 3-day rally.
+**Running total after 12 days:** (1.26)%, book $9,874.00. Days at 1.5%: 0 of 12. SPY over the same period: about (0.8)%.
