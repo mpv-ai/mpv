@@ -281,5 +281,19 @@
     "priceSource": "BEA advance estimate Q3 2026 real GDP 3.4% (released Oct 29, 8:30 AM ET), below the 3.5% strike, so YES resolves to $0. Kalshi API rate-limited at check time; settlement taken from the BEA print.",
     "thesis": "SETTLED NO. GDPNow was 3.5% and consensus 3.2%; the print came in at 3.4%. Loss = full cost $24.02.",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-10-29",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 23,
+    "price": 69.78,
+    "priceSource": "Trigger 69.78 crossed in the 11:30-11:35 ET 5-min bar (open 69.62, high 70.06; Robinhood historicals); filled at the trigger, within the 69.98 cap; found at the midday check",
+    "thesis": "Day-13 bracket leg A: QQQ recovered the post-GDP gap-down and took out its opening-range high. STOP 68.03 (OR low 68.13 - 0.10). Risk 1.75/share, $40.25. TARGET 1.5R = 72.41: sell 11 there, the other 12 run with the stop at break-even. TIME EXIT 15:50 ET. Invalidated from 12:00, before the target, on a 5-min close below the OR midpoint 68.93.",
+    "by": "sprint check",
+    "stop": 68.03,
+    "target": 72.41,
+    "timeExit": "2026-10-29 15:50 ET"
   }
 ]
