@@ -491,3 +491,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 **Running total after 12 days:** (1.26)%, book $9,874.00. Days at 1.5%: 0 of 12. SPY over the same period: about (0.8)%.
 
 - **Oct 29 8:30 AM:** BEA Q3 advance GDP 3.4% (consensus 3.2%, GDPNow 3.5%). KXGDP-26OCT30-T3.5 YES settled at $0; loss $24.02 (about $20.64 of it already marked down).
+
+## Day 13 plan (Thu Oct 29), OR bracket (evaluation continues; backtest says no edge)
+- OR locked on 9:30-9:59 (wide, after the GDP print and a gap down of about 2.5%, under the 5% limit). TQQQ H 69.73 / L 68.13 / mid 68.93. SQQQ H 38.40 / L 37.60 / mid 38.00.
+- Leg A TQQQ: trigger 69.78, cap 69.98, stop 68.03, **23 shares** (risk $44.85 at cap), target fill + 1.5R (sell 11, run 12 at break-even). Invalidation 30+ min after the fill on a 5-min close below 68.93.
+- Leg B SQQQ: trigger 38.45, cap 38.56, stop 37.55, **44 shares** (risk $44.44 at cap), target fill + 1.5R (sell 22, run 22 at break-even). Invalidation on a 5-min close below 38.00.
+- Entries expire 14:30; flat by 15:50. No event positions open.
