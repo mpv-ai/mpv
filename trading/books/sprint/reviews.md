@@ -503,3 +503,10 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **1:30 check:** TQQQ invalidated, sold 23 at 68.77 (13:10 bar close below 68.93), ($23.23). SQQQ still not triggered (high 38.095).
 
 - 14:30 check: SQQQ buy-stop 38.45 expired unfilled (high since 13:30 about 38.30). Book is flat.
+
+### Day 13 score (Thu Oct 29): **(0.44)%**, ($43.87), gap to 1.5% = (1.94) pts, NOT ACHIEVED
+- Trades: 1 bracket leg plus the event settle. TQQQ 23 @ 69.78 (11:30 breakout), invalidated @ 68.77, ($23.23). SQQQ never triggered. Kalshi GDP >3.5% YES settled at $0 after the 3.4% print: ($20.64) versus yesterday's 0.24 mark, ($24.02) against cost.
+- Wins/losses: 0 / 2.
+- Lesson: the GDP bet was a coin flip sized as a conviction trade off one nowcast at the threshold; GDPNow 3.5% gave no edge on a 3.5% strike. Late breakouts (after 11:00) have now failed twice.
+- Dip-buy shadow check (daily data through Oct 28): no signal. QQQ RSI2 32 (needs < 10); others higher.
+**Running total after 13 days:** (1.70)%, book $9,830.13. Days at 1.5%: 0 of 13. SPY over the same period: about (1.1)%.
