@@ -270,5 +270,16 @@
     "priceSource": "Robinhood bid 71.09 at 3:52 PM ET Tue Oct 27 (quote)",
     "thesis": "TIME EXIT 15:50. Target 72.13 never hit (high about 71.525); no stop or invalidation. Gain (71.09-70.23) x 30 = $25.80.",
     "by": "sprint close"
+  },
+  {
+    "date": "2026-10-29",
+    "action": "settle",
+    "asset": "event",
+    "symbol": "KXGDP-26OCT30-T3.5 YES",
+    "qty": 86,
+    "price": 0,
+    "priceSource": "BEA advance estimate Q3 2026 real GDP 3.4% (released Oct 29, 8:30 AM ET), below the 3.5% strike, so YES resolves to $0. Kalshi API rate-limited at check time; settlement taken from the BEA print.",
+    "thesis": "SETTLED NO. GDPNow was 3.5% and consensus 3.2%; the print came in at 3.4%. Loss = full cost $24.02.",
+    "by": "sprint check"
   }
 ]

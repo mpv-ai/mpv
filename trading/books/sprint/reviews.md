@@ -489,3 +489,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Lesson: a no-trade day is a correct outcome for a breakout rule on a range day.
 - Dip-buy shadow check (daily data refreshed through Oct 27): no signal; RSI2 84 to 95 on all four indexes after a 3-day rally.
 **Running total after 12 days:** (1.26)%, book $9,874.00. Days at 1.5%: 0 of 12. SPY over the same period: about (0.8)%.
+
+- **Oct 29 8:30 AM:** BEA Q3 advance GDP 3.4% (consensus 3.2%, GDPNow 3.5%). KXGDP-26OCT30-T3.5 YES settled at $0; loss $24.02 (about $20.64 of it already marked down).
