@@ -510,3 +510,8 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Lesson: the GDP bet was a coin flip sized as a conviction trade off one nowcast at the threshold; GDPNow 3.5% gave no edge on a 3.5% strike. Late breakouts (after 11:00) have now failed twice.
 - Dip-buy shadow check (daily data through Oct 28): no signal. QQQ RSI2 32 (needs < 10); others higher.
 **Running total after 13 days:** (1.70)%, book $9,830.13. Days at 1.5%: 0 of 13. SPY over the same period: about (1.1)%.
+
+## Day 14 plan (Fri Oct 30): NO BRACKET
+- TQQQ opened 63.92 vs the 69.26 close (gap (7.7)%); SQQQ opened 40.78 vs 37.83 (gap +7.8%). Both legs exceed the 5% gap limit, so per the rules no bracket is placed today.
+- OR for reference: TQQQ H 64.325 / L 63.01; SQQQ H 41.28 / L 40.55.
+- Watch at the close: a sharp down day in an uptrend is exactly the dip-buy setup (RSI2 < 10 above the 200-day). Run signals.js at 3:50 in shadow and report any signal.
