@@ -1,0 +1,9 @@
+{
+  "name": "Dip-buy",
+  "mode": "PAPER",
+  "startingCash": 3000,
+  "benchmark": "SPY",
+  "noMargin": true,
+  "rule": "Index (SPY, QQQ, IWM, SOXX) closes above its 200-day SMA with RSI(2) < 10: buy its 3x ETF (UPRO, TQQQ, TNA, SOXL) at the close, about $750 per sleeve. Exit at the first close above the index's 5-day SMA, or after 10 trading days. No stop. Signals checked about 3:50 PM ET with trading/research/signals.js. See trading/research/README.md.",
+  "sleeveUsd": 750
+}

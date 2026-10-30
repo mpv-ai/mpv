@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-10-30",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "UPRO",
+    "qty": 5,
+    "price": 141.32,
+    "priceSource": "Robinhood ask 141.32 at 3:51 PM ET Fri Oct 30 (quote)",
+    "thesis": "Dip-buy signal: SPY 755.81 above 200d 728.85, RSI(2) 9.4. Exit at the first close of SPY above its 5-day SMA (766.50 today), or by Nov 13 (10 trading days). Whole shares (paper engine); a live order would be fractional ~$750.",
+    "by": "dip-buy rule"
+  },
+  {
+    "date": "2026-10-30",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 12,
+    "price": 62.1,
+    "priceSource": "Robinhood ask 62.10 at 3:51 PM ET Fri Oct 30 (quote)",
+    "thesis": "Dip-buy signal: QQQ 690.91 above 200d 679.52, RSI(2) 8.5. Exit at the first close of QQQ above its 5-day SMA (713.06 today), or by Nov 13 (10 trading days).",
+    "by": "dip-buy rule"
+  }
+]

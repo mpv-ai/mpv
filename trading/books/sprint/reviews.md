@@ -515,3 +515,8 @@ Live day-trade sleeve: 0 fills (no package approved).
 - TQQQ opened 63.92 vs the 69.26 close (gap (7.7)%); SQQQ opened 40.78 vs 37.83 (gap +7.8%). Both legs exceed the 5% gap limit, so per the rules no bracket is placed today.
 - OR for reference: TQQQ H 64.325 / L 63.01; SQQQ H 41.28 / L 40.55.
 - Watch at the close: a sharp down day in an uptrend is exactly the dip-buy setup (RSI2 < 10 above the 200-day). Run signals.js at 3:50 in shadow and report any signal.
+
+### Day 14 score (Fri Oct 30): **0.00%**, $0.00, gap to 1.5% = (1.50) pts, NOT ACHIEVED
+- Trades: 0. Both legs skipped: TQQQ gapped (7.7)% and SQQQ +7.8%, over the 5% gap limit. QQQ closed about (3.4)% on the day.
+- Lesson: the gap filter kept the book out of a whipsaw open. The same selloff produced the first dip-buy signals (UPRO, TQQQ), recorded in the new paper book trading/books/dipbuy.
+**Running total after 14 days:** (1.70)%, book $9,830.13. Days at 1.5%: 0 of 14. SPY over the same period: about (2.8)%.
