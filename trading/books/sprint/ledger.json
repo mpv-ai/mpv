@@ -356,5 +356,16 @@
     "priceSource": "Target 42.29 reached in the 14:00-14:05 ET 5-min bar (open 42.225, high 42.39; Robinhood historicals); recorded at the target since the bar opened below it; found at the 2:30 check",
     "thesis": "HALF OUT AT 1.5R (first time the half-out rule triggered). Gain (42.29-41.40) x 29 = $25.81. The other 30 run with the stop moved to break-even 41.40, time exit 15:50.",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-11-02",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 30,
+    "price": 43.55,
+    "priceSource": "Robinhood bid 43.55 at 3:50 PM ET Mon Nov 2 (quote)",
+    "thesis": "TIME EXIT 15:50 on the runner half (stop was at break-even 41.40, never touched). Gain (43.55-41.40) x 30 = $64.50.",
+    "by": "sprint close"
   }
 ]

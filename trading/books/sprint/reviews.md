@@ -534,3 +534,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **Midday:** SQQQ leg B filled 59 at 41.40 in the 12:10 bar. Stop 40.81, target 42.29 (sell 29), invalidation from 12:40 below 41.105. High since 42.03, last about 41.82.
 
 - **2:30 check:** SQQQ hit the 42.29 target in the 14:00 bar: sold 29, +$25.81 (first half-out). 30 remain with the stop at break-even 41.40; last about 42.63, high 42.93. Time exit 15:50.
+
+### Day 15 score (Mon Nov 2): **+0.76%**, +$74.73, gap to 1.5% = (0.74) pts, NOT ACHIEVED (best day so far)
+- Trades: TQQQ 38 @ 63.47 invalidated @ 63.06, ($15.58). SQQQ 59 @ 41.40: 29 sold at the 42.29 target (+$25.81), 30 runner time-exited at 43.55 bid (+$64.50).
+- Wins/losses: 1 / 1. Half-out rule triggered for the first time and the runner made 2.5x the half-out gain: the break-even runner is the part that pays.
+- Lesson: on a trend-down day the inverse leg trended into the close. The invalidation rule again cut the losing leg early (stop would have cost $32.68).
+**Running total after 15 days:** (0.95)%, book $9,904.86. Days at 1.5%: 0 of 15. SPY over the same period: about (3.3)%.
