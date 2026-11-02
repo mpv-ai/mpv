@@ -320,5 +320,16 @@
     "stop": 62.61,
     "target": 64.76,
     "timeExit": "2026-11-02 15:50 ET"
+  },
+  {
+    "date": "2026-11-02",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 38,
+    "price": 63.06,
+    "priceSource": "Close of the 11:10-11:15 ET 5-min bar (Robinhood historicals), the first close below the 63.07 OR midpoint inside the invalidation window; found at the 11:30 check (the 11:00 check did not fire)",
+    "thesis": "INVALIDATED. The rebound faded back into the opening range. Loss (63.47-63.06) x 38 = $15.58. Stop 62.61 not reached (low by 11:30 62.74).",
+    "by": "sprint check"
   }
 ]
