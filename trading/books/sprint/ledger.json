@@ -331,5 +331,19 @@
     "priceSource": "Close of the 11:10-11:15 ET 5-min bar (Robinhood historicals), the first close below the 63.07 OR midpoint inside the invalidation window; found at the 11:30 check (the 11:00 check did not fire)",
     "thesis": "INVALIDATED. The rebound faded back into the opening range. Loss (63.47-63.06) x 38 = $15.58. Stop 62.61 not reached (low by 11:30 62.74).",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-11-02",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 59,
+    "price": 41.4,
+    "priceSource": "Trigger 41.40 crossed in the 12:10-12:15 ET 5-min bar (open 41.33, high 41.42; Robinhood historicals); filled at the trigger, within the 41.51 cap; found at the midday check",
+    "thesis": "Day-15 bracket leg B: the QQQ rebound failed and SQQQ took out its opening-range high. STOP 40.81 (OR low 40.86 - 0.05). Risk 0.59/share, $34.81. TARGET 1.5R = 42.29: sell 29 there, the other 30 run with the stop at break-even. TIME EXIT 15:50 ET. Invalidated from 12:40, before the target, on a 5-min close below the OR midpoint 41.105.",
+    "by": "sprint check",
+    "stop": 40.81,
+    "target": 42.29,
+    "timeExit": "2026-11-02 15:50 ET"
   }
 ]
