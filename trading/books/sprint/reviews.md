@@ -532,3 +532,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **11:30 check:** TQQQ invalidated, sold 38 at 63.06 (11:10 bar close below 63.07), ($15.58). High after the fill 64.35 vs target 64.76. SQQQ not triggered (high 41.33 vs 41.40), still pending to 14:30. The 11:00 scheduled check did not arrive.
 
 - **Midday:** SQQQ leg B filled 59 at 41.40 in the 12:10 bar. Stop 40.81, target 42.29 (sell 29), invalidation from 12:40 below 41.105. High since 42.03, last about 41.82.
+
+- **2:30 check:** SQQQ hit the 42.29 target in the 14:00 bar: sold 29, +$25.81 (first half-out). 30 remain with the stop at break-even 41.40; last about 42.63, high 42.93. Time exit 15:50.
