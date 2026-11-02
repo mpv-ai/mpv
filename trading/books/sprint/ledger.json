@@ -306,5 +306,19 @@
     "priceSource": "Close of the 13:10-13:15 ET 5-min bar (Robinhood historicals), the first close below the 68.93 OR midpoint inside the invalidation window; found at the 1:30 check",
     "thesis": "INVALIDATED. The breakout above the OR high faded; TQQQ closed back below the OR midpoint. Loss (69.78-68.77) x 23 = $23.23. Stop 68.03 was not reached (low 68.74).",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-11-02",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 38,
+    "price": 63.47,
+    "priceSource": "Trigger 63.47 crossed in the 10:10-10:15 ET 5-min bar (open 63.247, high 63.59; Robinhood historicals); filled at the trigger, within the 63.67 cap; found at the 10:28 open check",
+    "thesis": "Day-15 bracket leg A: QQQ rebounds from Friday selloff and takes out its opening-range high. STOP 62.61 (OR low 62.711 - 0.10). Risk 0.86/share, $32.68. TARGET 1.5R = 64.76: sell 19 there, the other 19 run with the stop at break-even. TIME EXIT 15:50 ET. Invalidated from 10:40, before the target, on a 5-min close below the OR midpoint 63.07.",
+    "by": "sprint open",
+    "stop": 62.61,
+    "target": 64.76,
+    "timeExit": "2026-11-02 15:50 ET"
   }
 ]

@@ -520,3 +520,11 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Trades: 0. Both legs skipped: TQQQ gapped (7.7)% and SQQQ +7.8%, over the 5% gap limit. QQQ closed about (3.4)% on the day.
 - Lesson: the gap filter kept the book out of a whipsaw open. The same selloff produced the first dip-buy signals (UPRO, TQQQ), recorded in the new paper book trading/books/dipbuy.
 **Running total after 14 days:** (1.70)%, book $9,830.13. Days at 1.5%: 0 of 14. SPY over the same period: about (2.8)%.
+
+## Day 15 plan (Mon Nov 2), OR bracket (US clocks now on EST; OR = 14:30-15:00 UTC)
+- Open cycle fired late (10:27 ET); the plan is computed from the locked 9:30-9:59 range and bars since.
+- OR: TQQQ H 63.42 / L 62.711 / mid 63.07 (gap +2.0%). SQQQ H 41.35 / L 40.86 / mid 41.105.
+- Leg A TQQQ: trigger 63.47, cap 63.67, stop 62.61, **38 shares** (25%-of-book cap; risk $40.28 at cap), target fill + 1.5R. Invalidation 30+ min after the fill on a 5-min close below 63.07.
+- Leg B SQQQ: trigger 41.40, cap 41.51, stop 40.81, **64 shares** would exceed 25% of book, so **59 shares** (risk $41.30 at cap), target fill + 1.5R. Invalidation on a 5-min close below 41.105.
+- **Leg A filled:** 38 TQQQ at 63.47 in the 10:10 bar (open 63.247, high 63.59). R 0.86, target 64.76 (sell 19, run 19 at break-even). High since 64.19, last 64.32.
+- Leg B not triggered (SQQQ falling, last 40.26).
