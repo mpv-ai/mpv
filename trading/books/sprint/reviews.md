@@ -552,3 +552,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **Midday:** TQQQ invalidated, sold 31 at 60.395 (11:30 bar close below 60.48), ($20.93). Later bars recovered to about 61.0, but the rule is the rule. SQQQ still not triggered (high 42.87).
 
 - 14:30 check: SQQQ buy-stop 43.23 expired unfilled (high since 13:30 about 42.73). Book is flat.
+
+### Day 16 score (Tue Nov 3): **(0.21)%**, ($20.93), gap to 1.5% = (1.71) pts, NOT ACHIEVED
+- Trades: TQQQ 31 @ 61.07 (10:55 breakout), invalidated @ 60.395, ($20.93). SQQQ never triggered.
+- Wins/losses: 0 / 1. Third late-morning breakout (after 10:45) in four that failed back into the range.
+- Lesson: late-morning breakouts keep failing; for the 20-day evaluation, record a candidate change (no entries after 10:45) but do not apply it mid-test.
+**Running total after 16 days:** (1.16)%, book $9,883.93. Days at 1.5%: 0 of 16. SPY over the same period: about (3.0)%.
