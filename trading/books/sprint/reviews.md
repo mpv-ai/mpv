@@ -548,3 +548,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Entries expire 14:30 ET; flat by 15:50 ET. Election results come after the close; nothing is held overnight in this book.
 
 - **11:00 check:** TQQQ leg A filled 31 at 61.07 in the 10:55 bar (high 61.245). Stop 59.84, target 62.92 (sell 15), invalidation from 11:25 below 60.48. SQQQ not triggered (falling, last 42.25).
+
+- **Midday:** TQQQ invalidated, sold 31 at 60.395 (11:30 bar close below 60.48), ($20.93). Later bars recovered to about 61.0, but the rule is the rule. SQQQ still not triggered (high 42.87).

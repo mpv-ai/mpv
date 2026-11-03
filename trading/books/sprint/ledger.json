@@ -381,5 +381,16 @@
     "stop": 59.84,
     "target": 62.92,
     "timeExit": "2026-11-03 15:50 ET"
+  },
+  {
+    "date": "2026-11-03",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 31,
+    "price": 60.395,
+    "priceSource": "Close of the 11:30-11:35 ET 5-min bar (Robinhood historicals), the first close below the 60.48 OR midpoint inside the invalidation window; found at the midday check (the bar had not closed at the 11:30 check)",
+    "thesis": "INVALIDATED. The breakout above the OR high faded back below the midpoint. Loss (61.07-60.395) x 31 = $20.93. Stop 59.84 not reached.",
+    "by": "sprint check"
   }
 ]
