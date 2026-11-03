@@ -540,3 +540,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Wins/losses: 1 / 1. Half-out rule triggered for the first time and the runner made 2.5x the half-out gain: the break-even runner is the part that pays.
 - Lesson: on a trend-down day the inverse leg trended into the close. The invalidation rule again cut the losing leg early (stop would have cost $32.68).
 **Running total after 15 days:** (0.95)%, book $9,904.86. Days at 1.5%: 0 of 15. SPY over the same period: about (3.3)%.
+
+## Day 16 plan (Tue Nov 3, Election Day), OR bracket
+- OR locked on 9:30-9:59 ET. TQQQ H 61.015 / L 59.94 / mid 60.48 (gap +1.4%). SQQQ H 43.18 / L 42.403 / mid 42.79.
+- Leg A TQQQ: trigger 61.07, cap 61.27, stop 59.84, **31 shares** (risk $44.33 at cap), target fill + 1.5R (sell half, run half at break-even). Invalidation 30+ min after the fill on a 5-min close below 60.48.
+- Leg B SQQQ: trigger 43.23, cap 43.34, stop 42.35, **45 shares** (risk $44.55 at cap), target fill + 1.5R. Invalidation on a 5-min close below 42.79.
+- Entries expire 14:30 ET; flat by 15:50 ET. Election results come after the close; nothing is held overnight in this book.
