@@ -546,3 +546,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Leg A TQQQ: trigger 61.07, cap 61.27, stop 59.84, **31 shares** (risk $44.33 at cap), target fill + 1.5R (sell half, run half at break-even). Invalidation 30+ min after the fill on a 5-min close below 60.48.
 - Leg B SQQQ: trigger 43.23, cap 43.34, stop 42.35, **45 shares** (risk $44.55 at cap), target fill + 1.5R. Invalidation on a 5-min close below 42.79.
 - Entries expire 14:30 ET; flat by 15:50 ET. Election results come after the close; nothing is held overnight in this book.
+
+- **11:00 check:** TQQQ leg A filled 31 at 61.07 in the 10:55 bar (high 61.245). Stop 59.84, target 62.92 (sell 15), invalidation from 11:25 below 60.48. SQQQ not triggered (falling, last 42.25).
