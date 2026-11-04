@@ -406,5 +406,16 @@
     "stop": 61.05,
     "target": 68.78,
     "timeExit": "2026-11-04 15:50 ET"
+  },
+  {
+    "date": "2026-11-04",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 13,
+    "price": 62.5975,
+    "priceSource": "Close of the 10:45-10:50 ET 5-min bar (Robinhood historicals), the first close below the 62.62 OR midpoint inside the invalidation window; found at the 11:00 check",
+    "thesis": "INVALIDATED. The post-election thrust reversed back into the range. Loss (64.14-62.5975) x 13 = $20.05. Stop 61.05 not reached (low 62.185).",
+    "by": "sprint check"
   }
 ]

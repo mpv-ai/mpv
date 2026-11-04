@@ -565,3 +565,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Leg B SQQQ: trigger 42.365, cap 42.475, stop 40.19, **19 shares** (risk $43.42 at cap). Invalidation on a 5-min close below 41.28.
 - **Leg A filled:** TQQQ traded 64.145 at 10:04:54 ET (quote), above the trigger; filled 13 at 64.14. R 3.09, target 68.78. Invalidation from 10:35.
 - Leg B not triggered (SQQQ 40.20).
+
+- **11:00 check:** TQQQ invalidated, sold 13 at 62.5975 (10:45 bar close below 62.62), ($20.05). SQQQ not triggered (high 41.585 vs 42.365).
