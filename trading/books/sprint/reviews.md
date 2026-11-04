@@ -569,3 +569,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **11:00 check:** TQQQ invalidated, sold 13 at 62.5975 (10:45 bar close below 62.62), ($20.05). SQQQ not triggered (high 41.585 vs 42.365).
 
 - 14:30 check: SQQQ buy-stop 42.365 expired unfilled (high since 13:30 about 41.42). Book is flat.
+
+### Day 17 score (Wed Nov 4): **(0.20)%**, ($20.05), gap to 1.5% = (1.70) pts, NOT ACHIEVED
+- Trades: TQQQ 13 @ 64.14 (post-election breakout at 10:04), invalidated @ 62.5975, ($20.05). SQQQ never triggered.
+- Wins/losses: 0 / 1. A post-event thrust that set a very wide OR, then faded; SPY still closed up about 1.7%.
+- Separately, the dip-buy paper book closed UPRO for +$31.20 (+4.4%) in 3 days.
+**Running total after 17 days:** (1.36)%, book $9,863.88. Days at 1.5%: 0 of 17. SPY over the same period: about (1.3)%. Three trading days left in the 20-day evaluation.
