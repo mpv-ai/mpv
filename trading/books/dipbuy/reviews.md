@@ -18,3 +18,8 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 - SPY 754.70 below its 5d SMA 760.84; QQQ 686.40 below its 5d SMA 699.79. No exit.
 - Marks at the bid: UPRO 140.53 (cost 141.32), TQQQ 60.79 (cost 62.10). Open loss about $20.
 - No new entries (RSI2 all above 30).
+
+## Wed Nov 4: UPRO exit, TQQQ hold (day 3 of 10)
+- SPY 767.33 above its 5d SMA 759.77 -> **sold 5 UPRO @ 147.56, +$31.20 (+4.4%)**, held 3 days. First closed trade: 1 win.
+- QQQ 692.26 just under its 5d SMA 692.89 -> hold TQQQ (bid 62.31 vs cost 62.10, +$2.52).
+- No new entries. SOXX still below its 200d.
