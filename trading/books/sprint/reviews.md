@@ -558,3 +558,10 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Wins/losses: 0 / 1. Third late-morning breakout (after 10:45) in four that failed back into the range.
 - Lesson: late-morning breakouts keep failing; for the 20-day evaluation, record a candidate change (no entries after 10:45) but do not apply it mid-test.
 **Running total after 16 days:** (1.16)%, book $9,883.93. Days at 1.5%: 0 of 16. SPY over the same period: about (3.0)%.
+
+## Day 17 plan (Wed Nov 4, post-election), OR bracket
+- OR locked on 9:30-9:59 ET (very wide, a +4.7% TQQQ thrust after the election). TQQQ H 64.09 / L 61.15 / mid 62.62 (gap +1.3%). SQQQ H 42.315 / L 40.24 / mid 41.28.
+- Leg A TQQQ: trigger 64.14, cap 64.34, stop 61.05, **13 shares** (wide range shrinks the size; risk $42.77 at cap), target fill + 1.5R (sell 6, run 7 at break-even). Invalidation 30+ min after the fill on a 5-min close below 62.62.
+- Leg B SQQQ: trigger 42.365, cap 42.475, stop 40.19, **19 shares** (risk $43.42 at cap). Invalidation on a 5-min close below 41.28.
+- **Leg A filled:** TQQQ traded 64.145 at 10:04:54 ET (quote), above the trigger; filled 13 at 64.14. R 3.09, target 68.78. Invalidation from 10:35.
+- Leg B not triggered (SQQQ 40.20).

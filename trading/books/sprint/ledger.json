@@ -392,5 +392,19 @@
     "priceSource": "Close of the 11:30-11:35 ET 5-min bar (Robinhood historicals), the first close below the 60.48 OR midpoint inside the invalidation window; found at the midday check (the bar had not closed at the 11:30 check)",
     "thesis": "INVALIDATED. The breakout above the OR high faded back below the midpoint. Loss (61.07-60.395) x 31 = $20.93. Stop 59.84 not reached.",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-11-04",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 13,
+    "price": 64.14,
+    "priceSource": "Robinhood last trade 64.145 at 10:04:54 ET (quote) in the 10:00-10:05 bar, the first to cross the 64.14 trigger; filled at the trigger, within the 64.34 cap; found at the 10:02 OR-lock run",
+    "thesis": "Day-17 bracket leg A: post-election rally extends above the opening-range high. STOP 61.05 (OR low 61.15 - 0.10). Risk 3.09/share, $40.17. TARGET 1.5R = 68.78: sell 6 there, the other 7 run with the stop at break-even. TIME EXIT 15:50 ET. Invalidated from 10:35, before the target, on a 5-min close below the OR midpoint 62.62.",
+    "by": "sprint open",
+    "stop": 61.05,
+    "target": 68.78,
+    "timeExit": "2026-11-04 15:50 ET"
   }
 ]
