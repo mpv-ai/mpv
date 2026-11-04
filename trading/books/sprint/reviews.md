@@ -567,3 +567,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Leg B not triggered (SQQQ 40.20).
 
 - **11:00 check:** TQQQ invalidated, sold 13 at 62.5975 (10:45 bar close below 62.62), ($20.05). SQQQ not triggered (high 41.585 vs 42.365).
+
+- 14:30 check: SQQQ buy-stop 42.365 expired unfilled (high since 13:30 about 41.42). Book is flat.
