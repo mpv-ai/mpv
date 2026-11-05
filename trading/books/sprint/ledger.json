@@ -417,5 +417,19 @@
     "priceSource": "Close of the 10:45-10:50 ET 5-min bar (Robinhood historicals), the first close below the 62.62 OR midpoint inside the invalidation window; found at the 11:00 check",
     "thesis": "INVALIDATED. The post-election thrust reversed back into the range. Loss (64.14-62.5975) x 13 = $20.05. Stop 61.05 not reached (low 62.185).",
     "by": "sprint check"
+  },
+  {
+    "date": "2026-11-05",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 12,
+    "price": 46.48,
+    "priceSource": "Trigger 46.48 crossed in the 10:00-10:05 ET 5-min bar (open 46.11, high 46.53; Robinhood historicals); filled at the trigger, within the 46.59 cap; found at the 10:30 check",
+    "thesis": "Day-18 bracket leg B: trend-down day; SQQQ takes out its opening-range high. STOP 43.026 (OR low 43.076 - 0.05). Risk 3.454/share, $41.45. TARGET 1.5R = 51.66: sell 6 there, the other 6 run with the stop at break-even. TIME EXIT 15:50 ET. Invalidated from 10:30, before the target, on a 5-min close below the OR midpoint 44.75.",
+    "by": "sprint check",
+    "stop": 43.026,
+    "target": 51.66,
+    "timeExit": "2026-11-05 15:50 ET"
   }
 ]
