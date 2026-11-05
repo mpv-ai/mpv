@@ -431,5 +431,16 @@
     "stop": 43.026,
     "target": 51.66,
     "timeExit": "2026-11-05 15:50 ET"
+  },
+  {
+    "date": "2026-11-05",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 12,
+    "price": 48.9,
+    "priceSource": "Robinhood bid 48.90 at 3:50 PM ET Thu Nov 5 (quote)",
+    "thesis": "TIME EXIT 15:50. Trend-down day; target 51.66 not reached (high 49.59), no stop or invalidation. Gain (48.90-46.48) x 12 = $29.04.",
+    "by": "sprint close"
   }
 ]
