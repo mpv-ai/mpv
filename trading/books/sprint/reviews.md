@@ -575,3 +575,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Wins/losses: 0 / 1. A post-event thrust that set a very wide OR, then faded; SPY still closed up about 1.7%.
 - Separately, the dip-buy paper book closed UPRO for +$31.20 (+4.4%) in 3 days.
 **Running total after 17 days:** (1.36)%, book $9,863.88. Days at 1.5%: 0 of 17. SPY over the same period: about (1.3)%. Three trading days left in the 20-day evaluation.
+
+## Day 18 plan (Thu Nov 5), OR bracket
+- OR locked on 9:30-9:59 ET on a hard trend-down open (TQQQ (11)% from yesterday's close by 10:00; gap at the open (3.9)%, under the 5% limit). TQQQ H 59.99 / L 55.00 / mid 57.495. SQQQ H 46.43 / L 43.076 / mid 44.75.
+- Leg A TQQQ: trigger 60.04, cap 60.24, stop 54.90, **8 shares** (risk $42.72 at cap). Invalidation on a 5-min close below 57.495.
+- Leg B SQQQ: trigger 46.48, cap 46.59, stop 43.026, **12 shares** (risk $42.77 at cap), target fill + 1.5R (sell 6, run 6 at break-even). Invalidation on a 5-min close below 44.75.
+- Both pending at 10:03 (SQQQ 46.16, TQQQ 55.30). Very wide ranges keep the sizes small.
