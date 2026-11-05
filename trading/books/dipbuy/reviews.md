@@ -23,3 +23,9 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 - SPY 767.33 above its 5d SMA 759.77 -> **sold 5 UPRO @ 147.56, +$31.20 (+4.4%)**, held 3 days. First closed trade: 1 win.
 - QQQ 692.26 just under its 5d SMA 692.89 -> hold TQQQ (bid 62.31 vs cost 62.10, +$2.52).
 - No new entries. SOXX still below its 200d.
+
+## Thu Nov 5: hold TQQQ (day 4 of 10); no new entries
+- Sharp selloff: SPY (4.1)%, QQQ (5.9)%. QQQ 651.35 closed below its 200d SMA (680.73) and its 5d SMA, so TQQQ stays (the rule exits only on a close above the 5d SMA or at 10 days; no stop). Bid 51.27 vs cost 62.10: open loss ($129.96).
+- SPY RSI2 17.4 (needs < 10): no UPRO entry. IWM and SOXX are below their 200d SMAs.
+- Data fix: SOXX split 3-for-1 (Nov 5 adjusted prior close 150.14 vs 450.41); research/data/SOXX_1d.csv history divided by 3.
+- This is the rule's known risk: no stop, 3x leverage. Backtest worst trade (27.6)%; this one is (17.4)% so far.
