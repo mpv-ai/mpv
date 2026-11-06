@@ -1,0 +1,116 @@
+[
+  {
+    "date": "2026-10-13",
+    "total": 9979.54,
+    "cash": 9979.54,
+    "benchmarkPrice": 777.97
+  },
+  {
+    "date": "2026-10-14",
+    "total": 9979.54,
+    "cash": 9979.54,
+    "benchmarkPrice": 769.125
+  },
+  {
+    "date": "2026-10-15",
+    "total": 9938.4,
+    "cash": 9938.4,
+    "benchmarkPrice": 771.72
+  },
+  {
+    "date": "2026-10-16",
+    "total": 9938.4,
+    "cash": 9938.4,
+    "benchmarkPrice": 762.74
+  },
+  {
+    "date": "2026-10-19",
+    "total": 9873.72,
+    "cash": 9873.72,
+    "benchmarkPrice": 767.23
+  },
+  {
+    "date": "2026-10-20",
+    "total": 9873.72,
+    "cash": 9873.72,
+    "benchmarkPrice": 768.3495
+  },
+  {
+    "date": "2026-10-21",
+    "total": 9848.22,
+    "cash": 9848.22,
+    "benchmarkPrice": 773.86
+  },
+  {
+    "date": "2026-10-22",
+    "total": 9864.49,
+    "cash": 9841.27,
+    "benchmarkPrice": 763.7988
+  },
+  {
+    "date": "2026-10-23",
+    "total": 9854.01,
+    "cash": 9829.93,
+    "benchmarkPrice": 760.04
+  },
+  {
+    "date": "2026-10-26",
+    "total": 9876.81,
+    "cash": 9852.73,
+    "benchmarkPrice": 765.1
+  },
+  {
+    "date": "2026-10-27",
+    "total": 9879.16,
+    "cash": 9853.36,
+    "benchmarkPrice": 770.38
+  },
+  {
+    "date": "2026-10-28",
+    "total": 9874,
+    "cash": 9853.36,
+    "benchmarkPrice": 771.91
+  },
+  {
+    "date": "2026-10-29",
+    "total": 9830.13,
+    "cash": 9830.13,
+    "benchmarkPrice": 768.91
+  },
+  {
+    "date": "2026-10-30",
+    "total": 9830.13,
+    "cash": 9830.13,
+    "benchmarkPrice": 755.81
+  },
+  {
+    "date": "2026-11-02",
+    "total": 9904.86,
+    "cash": 9904.86,
+    "benchmarkPrice": 752.35
+  },
+  {
+    "date": "2026-11-03",
+    "total": 9883.93,
+    "cash": 9883.93,
+    "benchmarkPrice": 754.7
+  },
+  {
+    "date": "2026-11-04",
+    "total": 9863.88,
+    "cash": 9863.88,
+    "benchmarkPrice": 767.33
+  },
+  {
+    "date": "2026-11-05",
+    "total": 9892.92,
+    "cash": 9892.92,
+    "benchmarkPrice": 735.58
+  },
+  {
+    "date": "2026-11-06",
+    "total": 9885.13,
+    "cash": 9885.13,
+    "benchmarkPrice": 736.28
+  }
+]
