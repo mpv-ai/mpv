@@ -600,3 +600,8 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **Midday:** SQQQ leg B filled 19 at 47.94 in the 12:30 bar (high 48.08). Stop 45.71, target 51.29 (sell 9), invalidation below 46.825. TQQQ not triggered (falling, last 52.26).
 
 - 14:30 check: TQQQ buy-stop 54.22 expired unfilled (high since 13:30 about 53.02). SQQQ 19 @ 47.94 still open, last about 47.13 (lowest close 46.96, above the 46.825 midpoint); rides to the 15:50 time exit.
+
+### Day 19 score (Fri Nov 6): **(0.08)%**, ($7.79), gap to 1.5% = (1.58) pts, NOT ACHIEVED
+- Trades: SQQQ 19 @ 47.94 (12:30 breakout), time exit @ 47.53 bid, ($7.79). TQQQ never triggered.
+- Wins/losses: 0 / 1. Another late (after 10:45) breakout that went nowhere.
+**Running total after 19 days:** (1.15)%, book $9,885.13. Days at 1.5%: 0 of 19. SPY over the same period: about (5.3)%. One trading day left (Mon Nov 9), then the 20-day evaluation.
