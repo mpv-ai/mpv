@@ -29,3 +29,7 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 - SPY RSI2 17.4 (needs < 10): no UPRO entry. IWM and SOXX are below their 200d SMAs.
 - Data fix: SOXX split 3-for-1 (Nov 5 adjusted prior close 150.14 vs 450.41); research/data/SOXX_1d.csv history divided by 3.
 - This is the rule's known risk: no stop, 3x leverage. Backtest worst trade (27.6)%; this one is (17.4)% so far.
+
+## Fri Nov 6: hold TQQQ (day 5 of 10); no new entries
+- QQQ 657.59 still below its 5d SMA (672.59) and its 200d (680.89). Hold TQQQ: bid 52.55 vs cost 62.10, open loss ($114.60).
+- No entries: SPY RSI2 30, others below their 200d. Time exit for TQQQ: Nov 13 if no rebound.
