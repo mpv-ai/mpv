@@ -598,3 +598,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Both pending at 10:02 (TQQQ 53.45, SQQQ 46.47). Friday: flat by 15:50.
 
 - **Midday:** SQQQ leg B filled 19 at 47.94 in the 12:30 bar (high 48.08). Stop 45.71, target 51.29 (sell 9), invalidation below 46.825. TQQQ not triggered (falling, last 52.26).
+
+- 14:30 check: TQQQ buy-stop 54.22 expired unfilled (high since 13:30 about 53.02). SQQQ 19 @ 47.94 still open, last about 47.13 (lowest close 46.96, above the 46.825 midpoint); rides to the 15:50 time exit.
