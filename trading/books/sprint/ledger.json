@@ -442,5 +442,19 @@
     "priceSource": "Robinhood bid 48.90 at 3:50 PM ET Thu Nov 5 (quote)",
     "thesis": "TIME EXIT 15:50. Trend-down day; target 51.66 not reached (high 49.59), no stop or invalidation. Gain (48.90-46.48) x 12 = $29.04.",
     "by": "sprint close"
+  },
+  {
+    "date": "2026-11-06",
+    "action": "buy",
+    "asset": "etf",
+    "symbol": "SQQQ",
+    "qty": 19,
+    "price": 47.94,
+    "priceSource": "Trigger 47.94 crossed in the 12:30-12:40 ET 10-min bar (open 46.88, high 48.08; Robinhood historicals); filled at the trigger, within the 48.05 cap; found at the midday check",
+    "thesis": "Day-19 bracket leg B: afternoon selloff takes SQQQ above its opening-range high. STOP 45.71 (OR low 45.76 - 0.05). Risk 2.23/share, $42.37. TARGET 1.5R = 51.29: sell 9 there, the other 10 run with the stop at break-even. TIME EXIT 15:50 ET (Friday). Invalidated from about 13:05, before the target, on a 5-min close below the OR midpoint 46.825.",
+    "by": "sprint check",
+    "stop": 45.71,
+    "target": 51.29,
+    "timeExit": "2026-11-06 15:50 ET"
   }
 ]
