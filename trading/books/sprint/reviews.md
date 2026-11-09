@@ -605,3 +605,9 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Trades: SQQQ 19 @ 47.94 (12:30 breakout), time exit @ 47.53 bid, ($7.79). TQQQ never triggered.
 - Wins/losses: 0 / 1. Another late (after 10:45) breakout that went nowhere.
 **Running total after 19 days:** (1.15)%, book $9,885.13. Days at 1.5%: 0 of 19. SPY over the same period: about (5.3)%. One trading day left (Mon Nov 9), then the 20-day evaluation.
+
+## Day 20 plan (Mon Nov 9, final evaluation day), OR bracket
+- OR locked on 9:30-9:59 ET (strong trend-up open). TQQQ H 56.37 / L 53.61 / mid 54.99 (gap +2.9%). SQQQ H 46.40 / L 43.89 / mid 45.145.
+- Leg A TQQQ: trigger 56.42, cap 56.62, stop 53.51, **14 shares** (risk $43.54 at cap), target fill + 1.5R. Invalidation on a 5-min close below 54.99.
+- Leg B SQQQ: trigger 46.45, cap 46.56, stop 43.84, **16 shares** (risk $43.52 at cap). Invalidation on a 5-min close below 45.145.
+- Both pending at 10:02 (TQQQ 56.11, SQQQ 44.13). Flat by 15:50, then the 20-day evaluation.
