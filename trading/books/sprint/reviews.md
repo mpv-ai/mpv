@@ -613,3 +613,5 @@ Live day-trade sleeve: 0 fills (no package approved).
 - Both pending at 10:02 (TQQQ 56.11, SQQQ 44.13). Flat by 15:50, then the 20-day evaluation.
 
 - **10:30 check:** TQQQ leg A filled 14 at 56.42 in the 10:10 bar. Stop 53.51, target 60.79 (sell 7), invalidation below 54.99. Last 56.61. SQQQ not triggered (falling, last 43.69).
+
+- 14:30 check: SQQQ buy-stop 46.45 expired unfilled (SQQQ about 43.18). TQQQ 14 @ 56.42 still open, last about 57.15; rides to the 15:50 time exit.
