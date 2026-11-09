@@ -615,3 +615,27 @@ Live day-trade sleeve: 0 fills (no package approved).
 - **10:30 check:** TQQQ leg A filled 14 at 56.42 in the 10:10 bar. Stop 53.51, target 60.79 (sell 7), invalidation below 54.99. Last 56.61. SQQQ not triggered (falling, last 43.69).
 
 - 14:30 check: SQQQ buy-stop 46.45 expired unfilled (SQQQ about 43.18). TQQQ 14 @ 56.42 still open, last about 57.15; rides to the 15:50 time exit.
+- **2:30 check:** SQQQ buy-stop 46.45 expired unfilled. TQQQ rides to the time exit.
+
+### Day 20 score (Mon Nov 9): **+0.21%**, +$20.30, gap to 1.5% = (1.29) pts, NOT ACHIEVED
+- Trades: TQQQ 14 @ 56.42 (10:10 breakout), time exit @ 57.87 bid, +$20.30. Target 60.79 not reached. SQQQ never triggered.
+- Wins/losses: 1 / 0.
+- **Final book:** $9,905.43, flat (all cash).
+
+## 20-day evaluation (Oct 13 to Nov 9)
+
+| Measure | Sprint book | SPY | Buy-and-hold TQQQ |
+|---|---|---|---|
+| Total return | **(0.95)%** ($94.57) | (3.1)% (777.84 to 753.87) | (27.3)% (79.61 to 57.87) |
+| Average daily return | (0.05)% | | |
+| Median daily return | (0.03)% | | |
+| Days at 1.5% or more | **0 of 20** | | |
+| Best / worst day | +0.76% (Nov 2) / (0.65)% (Oct 19) | | |
+| Max drawdown | (1.7)% | | |
+| Up / flat / down days | 6 / 4 / 10 | | |
+
+- **Trades:** 20 closed exits (counting a half-out as its own leg): 7 winners (+$243.06), 13 losers ($337.63). Most losses were invalidations or small time exits, not full stops. The risk cap of about $45 per leg held every day.
+- **Long-term paper book:** not marked since Oct 12, so it is not compared here.
+- **Verdict:** the goal was not met. No day reached 1.5%, and the best day reached half of it. The book lost less than SPY only because it was flat most of the time and sized small. It shows no positive edge, which matches the backtest in `trading/research/` (opening-range breakout: (0.17)% per trade over 169 days, t = (1.2)).
+- **Recommendation:** stop the ORB sprint. The dip-buy rule (RSI(2) pullback in an uptrend, `trading/books/dipbuy`) is the only setup that tested positive out of sample, at about +0.07% a day across the book. That is a realistic target; 1.5% a day is not.
+- **Status:** the book stays flat. No more sprint trades without the user's go-ahead.

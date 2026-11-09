@@ -481,5 +481,16 @@
     "stop": 53.51,
     "target": 60.79,
     "timeExit": "2026-11-09 15:50 ET"
+  },
+  {
+    "date": "2026-11-09",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 14,
+    "price": 57.87,
+    "priceSource": "Robinhood bid 57.87 at 3:50 PM ET Mon Nov 9 (quote)",
+    "thesis": "Time exit at 15:50 ET (final evaluation day). Target 60.79 and stop 53.51 not reached; no invalidation close below 54.99. Gain (57.87-56.42) x 14 = +$20.30.",
+    "by": "sprint ORB rule"
   }
 ]
