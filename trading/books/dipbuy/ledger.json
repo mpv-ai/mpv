@@ -31,5 +31,16 @@
     "priceSource": "Robinhood bid 147.56 at 3:48 PM ET Wed Nov 4 (quote)",
     "thesis": "EXIT: SPY 767.33 closed above its 5-day SMA 759.77 (RSI2 83.5). Held 3 trading days. Gain (147.56-141.32) x 5 = $31.20 (+4.4%).",
     "by": "dip-buy rule"
+  },
+  {
+    "date": "2026-11-09",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "TQQQ",
+    "qty": 12,
+    "price": 58.09,
+    "priceSource": "Robinhood bid 58.09 at 3:49 PM ET Mon Nov 9 (quote)",
+    "thesis": "EXIT: QQQ 680.88 above its 5-day SMA 672.25 (RSI2 71.7). Held 6 trading days. Loss (58.09-62.10) x 12 = ($48.12) (-6.5%).",
+    "by": "dip-buy rule"
   }
 ]

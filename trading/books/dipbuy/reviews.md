@@ -33,3 +33,8 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 ## Fri Nov 6: hold TQQQ (day 5 of 10); no new entries
 - QQQ 657.59 still below its 5d SMA (672.59) and its 200d (680.89). Hold TQQQ: bid 52.55 vs cost 62.10, open loss ($114.60).
 - No entries: SPY RSI2 30, others below their 200d. Time exit for TQQQ: Nov 13 if no rebound.
+
+## Mon Nov 9: TQQQ exit; book flat
+- Broad rebound: QQQ 680.88 (+3.8%) closed above its 5d SMA 672.25 -> **sold 12 TQQQ @ 58.09, ($48.12) (-6.5%)**, held 6 days. It had been down (17)% at the Nov 5 low; the rule's "no stop" let it recover most of that.
+- No new entries: every index is in its exit zone (RSI2 70+). QQQ (200d 681.18) and SOXX are below their 200d SMAs.
+- Record: 2 closed trades, 1 win, 1 loss, net ($16.92). Book $2,983.08 all cash (start $3,000, (0.56)%).

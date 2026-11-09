@@ -34,5 +34,11 @@
     "total": 2916.6,
     "cash": 2286,
     "benchmarkPrice": 737.21
+  },
+  {
+    "date": "2026-11-09",
+    "total": 2983.08,
+    "cash": 2983.08,
+    "benchmarkPrice": 754.38
   }
 ]
