@@ -38,3 +38,6 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 - Broad rebound: QQQ 680.88 (+3.8%) closed above its 5d SMA 672.25 -> **sold 12 TQQQ @ 58.09, ($48.12) (-6.5%)**, held 6 days. It had been down (17)% at the Nov 5 low; the rule's "no stop" let it recover most of that.
 - No new entries: every index is in its exit zone (RSI2 70+). QQQ (200d 681.18) and SOXX are below their 200d SMAs.
 - Record: 2 closed trades, 1 win, 1 loss, net ($16.92). Book $2,983.08 all cash (start $3,000, (0.56)%).
+
+## Tue Nov 10: flat, no entries
+- No signals: RSI2 56-65 on all four indexes. QQQ (200d 681.41) and SOXX remain below their 200d SMAs. Book $2,983.08 cash.
