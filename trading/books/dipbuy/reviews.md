@@ -44,3 +44,6 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 
 ## Wed Nov 11: flat, no entries
 - Strong up day (QQQ +2.5%, SOXX +6.3%). RSI2 74-89 everywhere: no signals. QQQ is back above its 200d SMA (681.72); SOXX still below. Book $2,983.08 cash.
+
+## Thu Nov 12: flat, no entries
+- No signals. SPY/QQQ RSI2 63-68; IWM (2)% today, RSI2 32.8, now just below its 200d (279.34); SOXX below its 200d. Book $2,983.08 cash.
