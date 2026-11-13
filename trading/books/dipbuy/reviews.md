@@ -47,3 +47,6 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 
 ## Thu Nov 12: flat, no entries
 - No signals. SPY/QQQ RSI2 63-68; IWM (2)% today, RSI2 32.8, now just below its 200d (279.34); SOXX below its 200d. Book $2,983.08 cash.
+
+## Fri Nov 13: flat, no entries
+- Mild pullback; RSI2 25-37, none below 10. Only SPY is above its 200d; QQQ (682.24), IWM and SOXX are below. Book $2,983.08 cash.
