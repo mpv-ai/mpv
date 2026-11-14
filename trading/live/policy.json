@@ -1,0 +1,81 @@
+{
+  "account": "594223612",
+  "accountNickname": "Agentic",
+  "budget": 4000,
+  "buySymbols": [
+    "VTI",
+    "VXUS",
+    "BND",
+    "SGOV"
+  ],
+  "sellSymbols": [
+    "VTI",
+    "VXUS",
+    "BND",
+    "SGOV",
+    "MAGS"
+  ],
+  "orderTypes": [
+    "limit",
+    "market (dollar-based fractional buys only)"
+  ],
+  "rules": [
+    "Real money. ETFs only, whole shares, limit orders only.",
+    "Preview every order with review_equity_order first; place it only after the user replies yes to that specific order in chat.",
+    "No standing approval: a yes covers one order.",
+    "Sells before buys; never let buys exceed buying power or the budget.",
+    "Change budget or symbol lists only when the user says so."
+  ],
+  "fractional": {
+    "approvedBy": "user, in chat, 2026-10-12 ('Option B')",
+    "why": "Minimize idle cash",
+    "rules": [
+      "Dollar-based market orders, regular hours only, approved ETFs only, buys only.",
+      "Each batch still needs the user's explicit yes."
+    ]
+  },
+  "sleeves": {
+    "core": {
+      "target": 1000,
+      "mix": {
+        "VTI": 0.5,
+        "VXUS": 0.17,
+        "BND": 0.28,
+        "SGOV": 0.05
+      },
+      "rules": "Long-term ETF mix; rebalance only on 5-point drift; one yes per batch."
+    },
+    "daytrade": {
+      "grantedBy": "user, in chat, 2026-10-13 ~9:50 PM ET: goal 1.5% daily, 'if you have to become a day trader so be it'; chose a $2,000 sleeve with one approval per trade package",
+      "budget": 3000,
+      "resized": "user, in chat, 2026-10-15: 'invest 75% instead 50%', then 'Yes sell as listed' (sell half of each core holding, about $991, queued for the Oct 16 open, settles T+1 Mon Oct 19). Max loss per trade stays at $40 until the sleeve shows results.",
+      "dailyTarget": 0.015,
+      "symbols": [
+        "TQQQ",
+        "SQQQ",
+        "SOXL",
+        "SOXS",
+        "UPRO",
+        "SPXU",
+        "QQQ",
+        "SPY",
+        "IWM"
+      ],
+      "approval": "One explicit user yes per trade package. A package is the entry limit order, its protective stop order and the time exit. Nothing is placed without that yes.",
+      "maxPositionPct": 100,
+      "maxLossPerTradePct": 2,
+      "maxLossPerTradeUsd": 40,
+      "dailyLossStopPct": 4,
+      "drawdownHaltPct": 20,
+      "rules": [
+        "Cash account: only settled cash may be used. One round trip per dollar per day, to avoid good-faith violations.",
+        "Entry: a limit order at or near the ask. Immediately after the fill, a protective stop order sits at Robinhood, so the stop works even if the session is idle.",
+        "Stops are set from volatility (about 2x the 5-minute ATR), and share count is cut so that the loss at the stop is at most $40 (maxLossPerTradeUsd).",
+        "Time exit: flat by 3:50 PM ET unless the package says otherwise and the user approved it.",
+        "Daily loss stop: if the sleeve is down 4% (about $120) on the day, propose nothing more that day.",
+        "Drawdown halt: at 20% below the sleeve's high (about $600), stop and review with the user.",
+        "Never size up to catch the 1.5% target."
+      ]
+    }
+  }
+}
