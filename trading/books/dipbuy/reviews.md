@@ -50,3 +50,9 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 
 ## Fri Nov 13: flat, no entries
 - Mild pullback; RSI2 25-37, none below 10. Only SPY is above its 200d; QQQ (682.24), IWM and SOXX are below. Book $2,983.08 cash.
+
+## Mon Nov 16: UPRO entry
+- Selloff: SPY (2.1)%, QQQ (2.8)%, SOXX (5.4)%. SPY 738.65 still above its 200d (732.15) with RSI2 9.3 -> **bought 5 UPRO @ 129.90 ($649.50)**. Exit on an SPY close above its 5d SMA (751.97 now), or by Dec 1.
+- IWM RSI2 8.4 and QQQ 10.6, but both are below their 200d SMAs: no entry. SOXX below its 200d.
+- Note: SPY is only 0.9% above its 200d; the rule does not exit if it closes below it.
+- Live: offered to the user; nothing placed without a yes.
