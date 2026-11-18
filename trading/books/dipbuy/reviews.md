@@ -61,3 +61,7 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 - SPY (1.3)% to 730.39, below its 5d SMA (748.33): no exit. SPY also slipped below its 200d (732.33); the rule doesn't exit on that, but it blocks new UPRO entries.
 - Mark at the bid: UPRO 125.44 vs cost 129.90, open loss ($22.30).
 - No new entries: QQQ, IWM, SOXX all below their 200d SMAs despite RSI2 4-10.
+
+## Wed Nov 18: hold UPRO (day 2 of 10)
+- SPY 730.43, below its 5d SMA (742.86) and its 200d (732.55): no exit. Mark UPRO 125.41 bid vs 129.90 cost, open loss ($22.45).
+- No entries: all four indexes below their 200d SMAs.
