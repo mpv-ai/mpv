@@ -65,3 +65,7 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 ## Wed Nov 18: hold UPRO (day 2 of 10)
 - SPY 730.43, below its 5d SMA (742.86) and its 200d (732.55): no exit. Mark UPRO 125.41 bid vs 129.90 cost, open loss ($22.45).
 - No entries: all four indexes below their 200d SMAs.
+
+## Thu Nov 19: hold UPRO (day 3 of 10)
+- SPY (1.9)% to 716.54, now 2.2% below its 200d (732.70) and below its 5d SMA (734.70): no exit (the rule has no stop). Mark UPRO 118.22 bid vs 129.90, open loss ($58.40), (9.0)%.
+- No entries: all four indexes below their 200d SMAs.
