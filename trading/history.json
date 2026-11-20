@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-10-11",
+    "total": 99933.2,
+    "cash": 2065.63,
+    "benchmarkPrice": 780.61
+  },
+  {
+    "date": "2026-10-12",
+    "total": 99735.14,
+    "cash": 2065.63,
+    "benchmarkPrice": 777.84,
+    "provisional": true
+  }
+]
