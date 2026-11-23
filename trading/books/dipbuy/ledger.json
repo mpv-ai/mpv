@@ -53,5 +53,16 @@
     "priceSource": "Robinhood ask 129.90 at 3:48 PM ET Mon Nov 16 (quote)",
     "thesis": "Dip-buy signal: SPY 738.65 above 200d 732.15, RSI(2) 9.3. Exit at the first close of SPY above its 5-day SMA (751.97 today), or by Dec 1 (10 trading days; Nov 26 holiday). Whole shares (paper engine); a live order would be fractional ~$750.",
     "by": "dip-buy rule"
+  },
+  {
+    "date": "2026-11-23",
+    "action": "sell",
+    "asset": "etf",
+    "symbol": "UPRO",
+    "qty": 5,
+    "price": 120.5,
+    "priceSource": "Robinhood bid 120.50 at 3:48 PM ET Mon Nov 23 (quote)",
+    "thesis": "EXIT: SPY 724.10 above its 5-day SMA 718.48 (RSI2 65.8) after a +5.0% rebound. Held 5 trading days. Loss (120.50-129.90) x 5 = ($47.00) (-7.2%); it had been (18.9)% at the Nov 20 close.",
+    "by": "dip-buy rule"
   }
 ]
