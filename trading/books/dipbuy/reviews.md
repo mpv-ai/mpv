@@ -79,3 +79,6 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 - Sharp rebound: SPY +5.0% to 724.10, above its 5d SMA (718.48) -> **sold 5 UPRO @ 120.50, ($47.00) (-7.2%)**, held 5 days. It was (18.9)% at Friday's close; the exit rule recovered most of that.
 - No entries: all four indexes still below their 200d SMAs.
 - Record: 3 closed trades, 1 win, 2 losses, net ($63.92). Book $2,936.08 all cash, (2.1)% since start.
+
+## Tue Nov 24: flat, no entries
+- No signals: all four indexes below their 200d SMAs (SOXX (8.2)% today). Book $2,936.08 cash.
