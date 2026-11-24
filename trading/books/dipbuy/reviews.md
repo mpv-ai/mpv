@@ -1,0 +1,84 @@
+# Dip-buy paper book
+
+Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 per sleeve, four sleeves (UPRO, TQQQ, TNA, SOXL). Checked daily at about 3:50 PM ET.
+
+## Fri Oct 30, 2026: first signals
+- SPY RSI(2) 9.4 above its 200d -> bought 5 UPRO @ 141.32 ($706.60). Exit on an SPY close above its 5d SMA, or by Nov 13.
+- QQQ RSI(2) 8.5 above its 200d -> bought 12 TQQQ @ 62.10 ($745.20). Exit on a QQQ close above its 5d SMA, or by Nov 13.
+- IWM RSI(2) 30.8: no entry. SOXX below its 200d: no entry.
+- Live: the user was offered the same trade at midday and did not reply, so nothing was placed.
+
+## Mon Nov 2: hold both
+- SPY 753.59 (5d SMA 764.13, RSI2 7.5) and QQQ 682.68 (5d SMA 707.08, RSI2 5.7) stayed below their 5-day SMAs, so no exit. Day 1 of 10.
+- Marks at the bid: UPRO 139.95 (cost 141.32), TQQQ 59.87 (cost 62.10). Open loss about $33.
+- QQQ is now only 0.4% above its 200-day SMA (679.82); a close below it does not force an exit under the rule, but blocks new TQQQ entries.
+- IWM RSI2 42: no entry. SOXX below its 200d: no entry.
+
+## Tue Nov 3: hold both (day 2 of 10)
+- SPY 754.70 below its 5d SMA 760.84; QQQ 686.40 below its 5d SMA 699.79. No exit.
+- Marks at the bid: UPRO 140.53 (cost 141.32), TQQQ 60.79 (cost 62.10). Open loss about $20.
+- No new entries (RSI2 all above 30).
+
+## Wed Nov 4: UPRO exit, TQQQ hold (day 3 of 10)
+- SPY 767.33 above its 5d SMA 759.77 -> **sold 5 UPRO @ 147.56, +$31.20 (+4.4%)**, held 3 days. First closed trade: 1 win.
+- QQQ 692.26 just under its 5d SMA 692.89 -> hold TQQQ (bid 62.31 vs cost 62.10, +$2.52).
+- No new entries. SOXX still below its 200d.
+
+## Thu Nov 5: hold TQQQ (day 4 of 10); no new entries
+- Sharp selloff: SPY (4.1)%, QQQ (5.9)%. QQQ 651.35 closed below its 200d SMA (680.73) and its 5d SMA, so TQQQ stays (the rule exits only on a close above the 5d SMA or at 10 days; no stop). Bid 51.27 vs cost 62.10: open loss ($129.96).
+- SPY RSI2 17.4 (needs < 10): no UPRO entry. IWM and SOXX are below their 200d SMAs.
+- Data fix: SOXX split 3-for-1 (Nov 5 adjusted prior close 150.14 vs 450.41); research/data/SOXX_1d.csv history divided by 3.
+- This is the rule's known risk: no stop, 3x leverage. Backtest worst trade (27.6)%; this one is (17.4)% so far.
+
+## Fri Nov 6: hold TQQQ (day 5 of 10); no new entries
+- QQQ 657.59 still below its 5d SMA (672.59) and its 200d (680.89). Hold TQQQ: bid 52.55 vs cost 62.10, open loss ($114.60).
+- No entries: SPY RSI2 30, others below their 200d. Time exit for TQQQ: Nov 13 if no rebound.
+
+## Mon Nov 9: TQQQ exit; book flat
+- Broad rebound: QQQ 680.88 (+3.8%) closed above its 5d SMA 672.25 -> **sold 12 TQQQ @ 58.09, ($48.12) (-6.5%)**, held 6 days. It had been down (17)% at the Nov 5 low; the rule's "no stop" let it recover most of that.
+- No new entries: every index is in its exit zone (RSI2 70+). QQQ (200d 681.18) and SOXX are below their 200d SMAs.
+- Record: 2 closed trades, 1 win, 1 loss, net ($16.92). Book $2,983.08 all cash (start $3,000, (0.56)%).
+
+## Tue Nov 10: flat, no entries
+- No signals: RSI2 56-65 on all four indexes. QQQ (200d 681.41) and SOXX remain below their 200d SMAs. Book $2,983.08 cash.
+
+## Wed Nov 11: flat, no entries
+- Strong up day (QQQ +2.5%, SOXX +6.3%). RSI2 74-89 everywhere: no signals. QQQ is back above its 200d SMA (681.72); SOXX still below. Book $2,983.08 cash.
+
+## Thu Nov 12: flat, no entries
+- No signals. SPY/QQQ RSI2 63-68; IWM (2)% today, RSI2 32.8, now just below its 200d (279.34); SOXX below its 200d. Book $2,983.08 cash.
+
+## Fri Nov 13: flat, no entries
+- Mild pullback; RSI2 25-37, none below 10. Only SPY is above its 200d; QQQ (682.24), IWM and SOXX are below. Book $2,983.08 cash.
+
+## Mon Nov 16: UPRO entry
+- Selloff: SPY (2.1)%, QQQ (2.8)%, SOXX (5.4)%. SPY 738.65 still above its 200d (732.15) with RSI2 9.3 -> **bought 5 UPRO @ 129.90 ($649.50)**. Exit on an SPY close above its 5d SMA (751.97 now), or by Dec 1.
+- IWM RSI2 8.4 and QQQ 10.6, but both are below their 200d SMAs: no entry. SOXX below its 200d.
+- Note: SPY is only 0.9% above its 200d; the rule does not exit if it closes below it.
+- Live: offered to the user; nothing placed without a yes.
+
+## Tue Nov 17: hold UPRO (day 1 of 10)
+- SPY (1.3)% to 730.39, below its 5d SMA (748.33): no exit. SPY also slipped below its 200d (732.33); the rule doesn't exit on that, but it blocks new UPRO entries.
+- Mark at the bid: UPRO 125.44 vs cost 129.90, open loss ($22.30).
+- No new entries: QQQ, IWM, SOXX all below their 200d SMAs despite RSI2 4-10.
+
+## Wed Nov 18: hold UPRO (day 2 of 10)
+- SPY 730.43, below its 5d SMA (742.86) and its 200d (732.55): no exit. Mark UPRO 125.41 bid vs 129.90 cost, open loss ($22.45).
+- No entries: all four indexes below their 200d SMAs.
+
+## Thu Nov 19: hold UPRO (day 3 of 10)
+- SPY (1.9)% to 716.54, now 2.2% below its 200d (732.70) and below its 5d SMA (734.70): no exit (the rule has no stop). Mark UPRO 118.22 bid vs 129.90, open loss ($58.40), (9.0)%.
+- No entries: all four indexes below their 200d SMAs.
+
+## Fri Nov 20: hold UPRO (day 4 of 10); sharp selloff
+- SPY (3.2)% to 693.14 (5.4% below its 200d), QQQ (5.0)%, SOXX (10.1)%. SPY below its 5d SMA (722.32): no exit; the rule has no stop.
+- Mark UPRO 106.56 bid vs 129.90 cost: open loss ($116.70), (18.0)%. Backtest worst trade was (27.6)%. Time exit Dec 1.
+- No entries: all four indexes below their 200d SMAs. Book $2,866.38, (4.5)% since start.
+
+## Mon Nov 23: UPRO exit; book flat
+- Sharp rebound: SPY +5.0% to 724.10, above its 5d SMA (718.48) -> **sold 5 UPRO @ 120.50, ($47.00) (-7.2%)**, held 5 days. It was (18.9)% at Friday's close; the exit rule recovered most of that.
+- No entries: all four indexes still below their 200d SMAs.
+- Record: 3 closed trades, 1 win, 2 losses, net ($63.92). Book $2,936.08 all cash, (2.1)% since start.
+
+## Tue Nov 24: flat, no entries
+- No signals: all four indexes below their 200d SMAs (SOXX (8.2)% today). Book $2,936.08 cash.

@@ -1,0 +1,32 @@
+{
+  "name": "Sprint",
+  "mode": "PAPER",
+  "startingCash": 10000,
+  "dailyTarget": 0.015,
+  "benchmark": "SPY",
+  "evaluation": { "tradingDays": 20, "start": "2026-10-13" },
+  "universe": {
+    "leveragedEtfs": ["TQQQ", "SQQQ", "SOXL", "SOXS", "UPRO", "SPXU", "TMF", "TLT", "QQQ", "SPY", "IWM"],
+    "stocks": "liquid US stocks, average volume over 5M shares a day",
+    "crypto": ["BTC", "ETH", "SOL"],
+    "options": "long calls and puts only, defined risk, at most 45 days to expiry",
+    "events": "Kalshi contracts with an edge of at least 5 points after the spread"
+  },
+  "maxPositionPct": 25,
+  "maxOptionsPremiumPerTradePct": 5,
+  "maxOptionsPremiumPct": 15,
+  "maxCryptoPct": 30,
+  "maxEventPct": 10,
+  "maxEventPositionPct": 3,
+  "minCashPct": 0,
+  "noMargin": true,
+  "noNakedShortOptions": true,
+  "dailyLossStopPct": 4,
+  "drawdownHaltPct": 20,
+  "rules": [
+    "Every trade states thesis, entry, stop, target and a time-based exit.",
+    "Daily loss stop: once the book is down dailyLossStopPct from the start-of-day NAV, open no new risk that day.",
+    "Drawdown halt: at drawdownHaltPct below the high-water mark, stop trading and review with the user.",
+    "Fills at the ask (buys) and bid (sells). Never chase the target by sizing up after a loss."
+  ]
+}
