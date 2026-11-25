@@ -82,3 +82,6 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 
 ## Tue Nov 24: flat, no entries
 - No signals: all four indexes below their 200d SMAs (SOXX (8.2)% today). Book $2,936.08 cash.
+
+## Wed Nov 25: flat, no entries
+- No signals: all four indexes below their 200d SMAs. Book $2,936.08 cash. Market closed Thu Nov 26 (Thanksgiving).
