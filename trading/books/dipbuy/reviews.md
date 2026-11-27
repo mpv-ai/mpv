@@ -85,3 +85,6 @@ Rule: see policy.json and trading/research/README.md. $3,000 book, about $750 pe
 
 ## Wed Nov 25: flat, no entries
 - No signals: all four indexes below their 200d SMAs. Book $2,936.08 cash. Market closed Thu Nov 26 (Thanksgiving).
+
+## Fri Nov 27: half day, check ran after the 1:00 PM close; flat
+- Up day (SPY 728.73 +1.7%, QQQ +2.7%): no RSI2 dip possible, and all four indexes are still below their 200d SMAs. No trade. Book $2,936.08 cash.
